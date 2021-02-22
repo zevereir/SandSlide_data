@@ -1,0 +1,1601 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="114.430,424.441,605.498,512.401" size="39.96">Log On 
+User Name and Password <textline bbox="292.780,472.441,427.285,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Log On </textline>
+<textline bbox="114.430,424.441,605.498,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">User Name and Password </textline>
+</textbox>
+<textbox id="1" bbox="43.200,380.623,52.994,408.607" size="27.984">&#8226; <textline bbox="43.200,380.623,52.994,408.607" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="2" bbox="373.270,379.524,515.956,407.508" size="27.984">&#8226; District  <textline bbox="373.270,379.524,515.956,407.508">&#8226; District  <text font="BCDFEE+ComicSansMS" bbox="373.270,379.524,384.100,407.508" colourspace="DeviceGray" ncolour="0" size="27.984">&#8226;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="400.270,379.524,420.474,407.508" colourspace="DeviceGray" ncolour="0" size="27.984">D</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="420.474,379.524,428.310,407.508" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="428.310,379.524,441.938,407.508" colourspace="DeviceGray" ncolour="0" size="27.984">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="441.798,379.524,454.979,407.508" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="454.979,379.524,468.411,407.508" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="468.411,379.524,476.247,407.508" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="476.247,379.524,490.630,407.508" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="490.630,379.524,503.811,407.508" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="503.811,379.524,515.956,407.508" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+</textline>
+</textbox>
+<textbox id="3" bbox="409.270,316.150,679.294,371.830" size="24.0">&#8211; User Name DIST999 
+&#8211; Password DIST999 <textline bbox="409.270,347.830,679.294,371.830">&#8211; User Name DIST999 <text font="BCDFEE+ComicSansMS" bbox="409.270,347.830,419.854,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="431.830,347.830,449.518,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">U</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="449.518,347.830,461.206,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="461.110,347.830,474.526,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="474.526,347.830,486.046,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="486.046,347.830,496.462,371.830" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="496.270,347.830,515.782,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">N</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="515.782,347.830,529.126,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="529.126,347.830,547.774,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="547.774,347.830,561.190,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="561.190,347.830,571.606,371.830" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="571.606,347.830,588.934,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">D</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="588.934,347.830,602.038,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="602.038,347.830,618.670,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="618.670,347.830,635.374,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="635.374,347.830,650.014,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="650.014,347.830,664.654,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="664.654,347.830,679.294,371.830" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+</textline>
+<textline bbox="409.270,316.150,653.806,340.150">&#8211; Password DIST999 <text font="BCDFEE+ComicSansMS" bbox="409.270,316.150,419.854,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="431.830,316.150,444.622,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">P</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="444.622,316.150,457.966,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="457.966,316.150,469.654,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="469.654,316.150,481.342,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="481.270,316.150,497.686,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">w</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="497.686,316.150,510.310,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="510.310,316.150,521.830,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="521.830,316.150,535.918,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="535.918,316.150,546.334,340.150" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="546.190,316.150,563.518,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">D</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="563.518,316.150,576.622,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="576.550,316.150,593.182,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="593.182,316.150,609.886,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="609.886,316.150,624.526,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="624.526,316.150,639.166,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="639.166,316.150,653.806,340.150" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="373.270,279.181,570.379,307.141" size="27.96">&#8226; LEA Charter <textline bbox="373.270,279.181,570.379,307.141">&#8226; LEA Charter <text font="BCDFEE+ComicSansMS" bbox="373.270,279.181,384.091,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="400.270,279.181,415.676,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">L</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="415.676,279.181,433.151,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">E</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="433.151,279.181,453.590,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">A</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="453.590,279.181,465.724,307.141" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="465.724,279.181,483.032,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">C</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="483.032,279.181,499.192,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">h</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="499.192,279.181,514.738,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="514.738,279.181,528.159,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="528.159,279.181,541.328,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="541.328,279.181,556.958,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="556.958,279.181,570.379,307.141" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="373.270,178.841,693.011,271.527" size="25.328000000000003">&#8211; User Name DIST999 
+&#8211; Password DIST999 
+&#8226; Charter approved by  <textline bbox="409.270,247.503,679.349,271.527">&#8211; User Name DIST999 <text font="BCDFEE+ComicSansMS" bbox="409.270,247.503,419.865,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="431.830,247.503,449.536,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">U</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="449.536,247.503,461.235,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="461.115,247.503,474.545,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="474.545,247.503,486.076,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="486.076,247.503,496.503,271.527" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="496.286,247.503,515.818,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">N</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="515.818,247.503,529.175,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="529.175,247.503,547.842,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="547.770,247.503,561.199,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="561.199,247.503,571.626,271.527" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="571.626,247.503,588.971,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">D</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="588.971,247.503,602.088,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">I</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="602.016,247.503,618.665,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">S</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="618.665,247.503,635.385,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">T</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="635.385,247.503,650.040,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="650.040,247.503,664.695,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="664.695,247.503,679.349,271.527" colourspace="DeviceGray" ncolour="0" size="24.024">9</text>
+</textline>
+<textline bbox="409.270,215.810,653.806,239.810">&#8211; Password DIST999 <text font="BCDFEE+ComicSansMS" bbox="409.270,215.810,419.854,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="431.830,215.810,444.622,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">P</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="444.622,215.810,457.966,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="457.966,215.810,469.654,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="469.654,215.810,481.342,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="481.270,215.810,497.686,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">w</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="497.686,215.810,510.310,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="510.310,215.810,521.830,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="521.830,215.810,535.918,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="535.918,215.810,546.334,239.810" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="546.190,215.810,563.518,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">D</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="563.518,215.810,576.622,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="576.550,215.810,593.182,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="593.182,215.810,609.886,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="609.886,215.810,624.526,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="624.526,215.810,639.166,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="639.166,215.810,653.806,239.810" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+</textline>
+<textline bbox="373.270,178.841,693.011,206.801">&#8226; Charter approved by  <text font="BCDFEE+ComicSansMS" bbox="373.270,178.841,384.091,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="400.270,178.841,417.577,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">C</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="417.577,178.841,433.738,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">h</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="433.738,178.841,449.284,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="449.284,178.841,462.705,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="462.705,178.841,475.874,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="475.874,178.841,491.503,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="491.503,178.841,504.924,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="504.924,178.841,517.059,206.801" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="517.255,178.841,532.800,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="532.800,178.841,547.759,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="547.759,178.841,562.718,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="562.718,178.841,576.138,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="576.138,178.841,590.845,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="590.901,178.841,604.490,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">v</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="604.490,178.841,620.119,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="620.119,178.841,636.532,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="636.532,178.841,648.667,206.801" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="648.834,178.841,665.415,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">b</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="665.415,178.841,680.877,206.801" colourspace="DeviceGray" ncolour="0" size="27.960">y</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="680.877,178.841,693.011,206.801" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+</textline>
+</textbox>
+<textbox id="6" bbox="400.270,85.224,674.175,176.561" size="25.328000000000003">District 
+&#8211; User Name 999-801 
+&#8211; Password 999-801 <textline bbox="400.270,148.601,503.750,176.561" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.960" colourspace="DeviceGray">District </textline>
+<textline bbox="409.270,116.923,674.175,140.947">&#8211; User Name 999-801 <text font="BCDFEE+ComicSansMS" bbox="409.270,116.923,419.865,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="431.830,116.923,449.536,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">U</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="449.536,116.923,461.235,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="461.115,116.923,474.545,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="474.545,116.923,486.076,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="486.076,116.923,496.503,140.947" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="496.286,116.923,515.818,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">N</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="515.818,116.923,529.175,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="529.175,116.923,547.842,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="547.770,116.923,561.199,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="561.199,116.923,571.626,140.947" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="571.626,116.923,586.280,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="586.280,116.923,600.935,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="600.935,116.923,615.590,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="615.600,116.923,630.255,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">-</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="630.240,116.923,644.895,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">8</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="644.880,116.923,659.535,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">0</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="659.520,116.923,674.175,140.947" colourspace="DeviceGray" ncolour="0" size="24.024">1</text>
+</textline>
+<textline bbox="409.270,85.224,648.720,109.224">&#8211; Password 999-801 <text font="BCDFEE+ComicSansMS" bbox="409.270,85.224,419.854,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="431.830,85.224,444.622,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">P</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="444.622,85.224,457.966,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="457.966,85.224,469.654,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="469.654,85.224,481.342,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="481.270,85.224,497.686,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">w</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="497.686,85.224,510.310,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="510.310,85.224,521.830,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="521.830,85.224,535.918,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="535.918,85.224,546.334,109.224" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="546.190,85.224,560.830,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="560.830,85.224,575.470,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="575.470,85.224,590.110,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="590.160,85.224,604.800,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="604.800,85.224,619.440,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">8</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="619.440,85.224,634.080,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">0</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="634.080,85.224,648.720,109.224" colourspace="DeviceGray" ncolour="0" size="24.000">1</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="8" bbox="669.000,28.036,676.806,42.076" size="14.04">1 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">1 </textline>
+</textbox>
+<figure name="Image21" bbox="0.000,123.120,360.000,408.000" src="Image21.398x315.bmp" width="360" height="284">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="108.790,388.450,627.580,510.880" size="36.008">Select Personnel Information 
+Then &#8220;Personnel Information  
+Entry/Update&#8221; <textline bbox="108.790,474.880,617.110,510.880" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="36.000" colourspace="DeviceGray">Select Personnel Information </textline>
+<textline bbox="113.950,431.673,627.580,467.697" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="36.024" colourspace="DeviceGray">Then &#8220;Personnel Information  </textline>
+<textline bbox="236.260,388.450,489.700,424.450" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="36.000" colourspace="DeviceGray">Entry/Update&#8221; </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="669.000,28.036,676.806,42.076" size="14.04">2 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">2 </textline>
+</textbox>
+<figure name="Image29" bbox="108.000,96.000,424.560,270.000" src="Image29.422x232.bmp" width="316" height="174">
+</figure>
+<figure name="Image30" bbox="36.000,274.200,696.000,390.000" src="Image30.810x142.bmp" width="660" height="115">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="212.860,445.879,507.179,489.919" size="44.04">Personnel List <textline bbox="212.860,445.879,507.179,489.919" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="44.040" colourspace="DeviceGray">Personnel List </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="669.000,28.036,676.806,42.076" size="14.04">3 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">3 </textline>
+</textbox>
+<figure name="Image33" bbox="18.000,60.480,689.400,414.000" src="Image33.695x366.bmp" width="671" height="353">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="179.350,445.879,540.698,489.919" size="44.04">Personnel Record <textline bbox="179.350,445.879,540.698,489.919" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="44.040" colourspace="DeviceGray">Personnel Record </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="669.000,28.036,676.806,42.076" size="14.04">4 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4 </textline>
+</textbox>
+<figure name="Image36" bbox="0.000,48.600,696.000,426.000" src="Image36.690x374.bmp" width="696" height="377">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="179.350,445.879,540.698,489.919" size="44.04">Personnel Record <textline bbox="179.350,445.879,540.698,489.919" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="44.040" colourspace="DeviceGray">Personnel Record </textline>
+</textbox>
+<textbox id="1" bbox="453.020,198.890,650.996,222.890" size="24.0">Prior Year Layout <textline bbox="453.020,198.890,650.996,222.890" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Prior Year Layout </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="669.000,28.036,676.806,42.076" size="14.04">5 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">5 </textline>
+</textbox>
+<figure name="Image36" bbox="0.000,48.600,696.000,426.000" src="Image36.0.690x374.bmp" width="696" height="377">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="179.350,445.879,540.698,489.919" size="44.04">Personnel Record <textline bbox="179.350,445.879,540.698,489.919" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="44.040" colourspace="DeviceGray">Personnel Record </textline>
+</textbox>
+<textbox id="1" bbox="341.280,352.450,564.732,388.450" size="36.0">2010 Screen <textline bbox="341.280,352.450,564.732,388.450" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="36.000" colourspace="DeviceGray">2010 Screen </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="165.910,-0.112,602.449,95.055" size="27.968">New fields to collect ethnicity 
+Allowed to check more than one 
+Ethnic group <textline bbox="176.260,67.095,591.522,95.055" font="BCDEEE+ComicSansMS-Bold" ncolour="(1, 0.2, 0)" size="27.960" colourspace="DeviceGray">New fields to collect ethnicity </textline>
+<textline bbox="165.910,33.495,602.449,61.455" font="BCDEEE+ComicSansMS-Bold" ncolour="(1, 0.2, 0)" size="27.960" colourspace="DeviceGray">Allowed to check more than one </textline>
+<textline bbox="299.760,-0.112,468.224,27.872" font="BCDEEE+ComicSansMS-Bold" ncolour="(1, 0.2, 0)" size="27.984" colourspace="DeviceGray">Ethnic group </textline>
+</textbox>
+<textbox id="4" bbox="669.000,28.036,676.806,42.076" size="14.04">6 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">6 </textline>
+</textbox>
+<figure name="Image43" bbox="18.000,-48.600,672.000,450.000" src="Image43.694x529.bmp" width="654" height="498">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="179.350,443.509,540.698,487.549" size="44.04">Personnel Record <textline bbox="179.350,443.509,540.698,487.549" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="44.040" colourspace="DeviceGray">Personnel Record </textline>
+</textbox>
+<textbox id="1" bbox="511.300,360.564,659.807,422.131" size="27.972">ADD new  
+employee <textline bbox="511.300,394.171,645.871,422.131" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.960" colourspace="DeviceGray">ADD new  </textline>
+<textline bbox="538.300,360.564,659.807,388.548" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.984" colourspace="DeviceGray">employee </textline>
+</textbox>
+<textbox id="2" bbox="511.300,279.901,636.505,307.861" size="27.96">UPDATE  <textline bbox="511.300,279.901,636.505,307.861" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.960" colourspace="DeviceGray">UPDATE  </textline>
+</textbox>
+<textbox id="3" bbox="538.300,212.681,654.490,274.278" size="27.972">existing  
+record <textline bbox="538.300,246.294,654.490,274.278" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.984" colourspace="DeviceGray">existing  </textline>
+<textline bbox="538.300,212.681,626.318,240.641" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.960" colourspace="DeviceGray">record </textline>
+</textbox>
+<textbox id="4" bbox="511.300,132.034,583.807,160.018" size="27.984">EXIT <textline bbox="511.300,132.034,583.807,160.018" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.984" colourspace="DeviceGray">EXIT </textline>
+</textbox>
+<textbox id="5" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="6" bbox="669.000,28.036,676.806,42.076" size="14.04">7 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">7 </textline>
+</textbox>
+<figure name="Image47" bbox="30.000,60.720,450.000,414.000" src="Image47.283x238.bmp" width="420" height="353">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="112.870,424.441,624.478,512.401" size="39.96">Education and Experience  
+History <textline bbox="112.870,472.441,624.478,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Education and Experience  </textline>
+<textline bbox="288.820,424.441,431.277,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">History </textline>
+</textbox>
+<textbox id="1" bbox="139.220,317.050,179.108,335.050" size="18.0">2010 <textline bbox="139.220,317.050,179.108,335.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="441.500,203.630,668.246,243.230" size="18.0">All certificated employees  
+must have a 2010 record <textline bbox="441.500,225.230,668.246,243.230" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">All certificated employees  </textline>
+<textline bbox="450.140,203.630,660.002,221.630" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">must have a 2010 record </textline>
+</textbox>
+<textbox id="3" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="4" bbox="669.000,28.036,676.806,42.076" size="14.04">8 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8 </textline>
+</textbox>
+<figure name="Image50" bbox="90.000,12.000,607.320,426.000" src="Image50.690x472.bmp" width="517" height="414">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="38.232,369.402,659.808,489.949" size="36.048">Certificated Employment 
+All Certificated Employees MUST have  
+a 2010 Cert. Empl. Record <textline bbox="79.032,445.909,604.870,489.949" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="44.040" colourspace="DeviceGray">Certificated Employment </textline>
+<textline bbox="38.232,407.809,659.808,439.849" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="32.040" colourspace="DeviceGray">All Certificated Employees MUST have  </textline>
+<textline bbox="130.150,369.402,553.876,401.466" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="32.064" colourspace="DeviceGray">a 2010 Cert. Empl. Record </textline>
+</textbox>
+<textbox id="1" bbox="97.224,265.398,132.738,281.358" size="15.96">2010 <textline bbox="97.224,265.398,132.738,281.358" font="Arial-BoldMT" ncolour="0" size="15.960" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="669.000,28.036,676.806,42.076" size="14.04">9 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">9 </textline>
+</textbox>
+<figure name="Image53" bbox="42.000,-19.920,630.000,372.000" src="Image53.693x462.bmp" width="588" height="391">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="38.232,369.402,659.808,489.949" size="36.048">Assignment Record 
+All Certificated Employees MUST have  
+a 2010 Assignment Record <textline bbox="141.550,445.909,542.446,489.949" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="44.040" colourspace="DeviceGray">Assignment Record </textline>
+<textline bbox="38.232,407.809,659.808,439.849" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="32.040" colourspace="DeviceGray">All Certificated Employees MUST have  </textline>
+<textline bbox="134.350,369.402,549.579,401.466" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="32.064" colourspace="DeviceGray">a 2010 Assignment Record </textline>
+</textbox>
+<textbox id="1" bbox="139.220,269.050,179.108,287.050" size="18.0">2010 <textline bbox="139.220,269.050,179.108,287.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">10 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">10 </textline>
+</textbox>
+<figure name="Image56" bbox="84.000,0.000,623.880,367.320" src="Image56.688x468.bmp" width="539" height="367">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="36.528,376.764,701.303,483.631" size="31.968">Non-Certified Employment Record 
+All Non-Certificated Employees MUST have a  
+2010 Non-Certified Employment Record <textline bbox="36.528,443.671,701.303,483.631" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Non-Certified Employment Record </textline>
+<textline bbox="54.912,410.371,695.128,438.331" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.960" colourspace="DeviceGray">All Non-Certificated Employees MUST have a  </textline>
+<textline bbox="96.072,376.764,641.862,404.748" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.984" colourspace="DeviceGray">2010 Non-Certified Employment Record </textline>
+</textbox>
+<textbox id="1" bbox="145.220,281.050,185.108,299.050" size="18.0">2010 <textline bbox="145.220,281.050,185.108,299.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="662.280,28.036,676.802,42.076" size="14.04">11 <textline bbox="662.280,28.036,676.802,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">11 </textline>
+</textbox>
+<figure name="Image59" bbox="108.000,24.000,619.680,366.000" src="Image59.682x456.bmp" width="511" height="342">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="29.808,359.964,708.244,500.431" size="30.966">Paraprofessional Record 
+All Non-Certificated Employees  working as  
+Instructional Aides MUST have a  
+Paraprofessional Record &#8211; Becomes Permanent Record <textline bbox="136.750,460.471,601.125,500.431" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Paraprofessional Record </textline>
+<textline bbox="70.752,427.171,679.317,455.131" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.960" colourspace="DeviceGray">All Non-Certificated Employees  working as  </textline>
+<textline bbox="140.950,393.571,609.056,421.531" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="27.960" colourspace="DeviceGray">Instructional Aides MUST have a  </textline>
+<textline bbox="29.808,359.964,708.244,387.948">Paraprofessional Record &#8211; Becomes Permanent Record <text font="BCDEEE+ComicSansMS-Bold" bbox="29.808,359.964,44.723,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">P</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="44.723,359.964,60.283,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="60.171,359.964,73.603,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="73.603,359.964,89.162,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="89.162,359.964,104.134,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="104.134,359.964,117.566,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="117.566,359.964,132.285,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="132.285,359.964,146.501,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">f</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="146.501,359.964,162.144,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="162.060,359.964,175.689,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="175.689,359.964,189.317,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="189.177,359.964,197.012,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="197.012,359.964,211.732,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="211.732,359.964,226.368,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="226.368,359.964,241.927,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="241.927,359.964,249.594,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="249.594,359.964,261.739,387.948" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="261.991,359.964,279.901,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">R</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="279.901,359.964,295.544,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="295.544,359.964,309.928,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="309.928,359.964,324.647,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="324.647,359.964,338.080,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="338.080,359.964,354.506,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="354.506,359.964,366.651,387.948" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="366.840,359.964,379.181,387.948" colourspace="DeviceGray" ncolour="0" size="27.984">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="391.440,361.053,406.575,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">B</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="406.575,361.053,420.005,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="420.005,361.053,432.353,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="432.353,361.053,444.989,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="444.989,361.053,463.656,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="463.560,361.053,476.989,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="476.989,361.053,488.689,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="488.689,361.053,499.116,385.077" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="498.851,361.053,511.656,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">P</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="511.656,361.053,525.086,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="525.086,361.053,536.617,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="536.617,361.053,555.284,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="555.284,361.053,568.641,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="568.641,361.053,581.206,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="581.206,361.053,594.635,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="594.635,361.053,607.200,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="607.200,361.053,618.515,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="618.515,361.053,628.941,385.077" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="628.821,361.053,644.197,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">R</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="644.197,361.053,657.626,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="657.626,361.053,669.974,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="669.974,361.053,682.611,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="682.611,361.053,694.142,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="694.142,361.053,708.244,385.077" colourspace="DeviceGray" ncolour="0" size="24.024">d</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="151.220,251.045,191.121,269.069" size="18.024">2009 <textline bbox="151.220,251.045,191.121,269.069" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">2009 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">12 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">12 </textline>
+</textbox>
+<figure name="Image59" bbox="114.000,0.000,625.680,342.000" src="Image59.0.682x456.bmp" width="511" height="342">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="112.510,294.221,601.540,382.201" size="39.96">Approved Summer School 
+Certified Staff <textline bbox="112.510,342.241,601.540,382.201" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Approved Summer School </textline>
+<textline bbox="206.620,294.221,507.319,334.181" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Certified Staff </textline>
+</textbox>
+<textbox id="1" bbox="121.270,150.191,610.154,238.198" size="39.972">Approved Summer School 
+Non-Certified Staff <textline bbox="121.270,198.214,610.154,238.198" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.984" colourspace="DeviceGray">Approved Summer School </textline>
+<textline bbox="157.150,150.191,556.759,190.151" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Non-Certified Staff </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">13 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">13 </textline>
+</textbox>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="151.390,472.441,658.243,512.401" size="39.96">ADD   2010 Certificated  <textline bbox="151.390,472.441,658.243,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">ADD   2010 Certificated  </textline>
+</textbox>
+<textbox id="1" bbox="202.060,424.441,517.984,464.401" size="39.96">Contract Record <textline bbox="202.060,424.441,517.984,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Contract Record </textline>
+</textbox>
+<textbox id="2" bbox="91.224,263.050,131.112,281.050" size="18.0">2010 <textline bbox="91.224,263.050,131.112,281.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="3" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">14 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">14 </textline>
+</textbox>
+<figure name="Image66" bbox="78.000,-42.720,654.720,390.000" src="Image66.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="247.780,445.879,472.384,489.919" size="44.04">Hit  &#8220;Tab&#8221; <textline bbox="247.780,445.879,472.384,489.919" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="44.040" colourspace="DeviceGray">Hit  &#8220;Tab&#8221; </textline>
+</textbox>
+<textbox id="1" bbox="7.200,329.050,47.088,347.050" size="18.0">2010 <textline bbox="7.200,329.050,47.088,347.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">15 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">15 </textline>
+</textbox>
+<figure name="Image69" bbox="0.000,67.320,510.000,450.000" src="Image69.jpg" width="510" height="382">
+</figure>
+<figure name="Image70" bbox="366.000,21.000,705.000,188.880" src="Image70.412x204.bmp" width="339" height="167">
+</figure>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="46.152,424.441,691.026,512.401" size="39.96">2010 Record is &#8220;populated&#8221; with  
+2009 year data <textline bbox="46.152,472.441,691.026,512.401" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">2010 Record is &#8220;populated&#8221; with  </textline>
+<textline bbox="207.460,424.441,512.395,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">2009 year data </textline>
+</textbox>
+<textbox id="1" bbox="91.224,275.050,131.112,293.050" size="18.0">2010 <textline bbox="91.224,275.050,131.112,293.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">16 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">16 </textline>
+</textbox>
+<figure name="Image73" bbox="78.000,-24.720,630.720,408.000" src="Image73.jpg" width="552" height="432">
+</figure>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="67.752,372.241,669.511,508.231" size="39.967999999999996">Program is reminding you that  
+you need to &#8220;update&#8221; Years in  
+District <textline bbox="67.752,468.271,669.390,508.231" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Program is reminding you that  </textline>
+<textline bbox="67.752,420.264,669.511,460.248" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.984" colourspace="DeviceGray">you need to &#8220;update&#8221; Years in  </textline>
+<textline bbox="286.060,372.241,434.112,412.201" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">District </textline>
+</textbox>
+<textbox id="1" bbox="43.200,251.045,83.101,269.069" size="18.024">2010 <textline bbox="43.200,251.045,83.101,269.069" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">17 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">17 </textline>
+</textbox>
+<figure name="Image76" bbox="0.000,0.000,521.400,343.440" src="Image76.695x458.bmp" width="521" height="343">
+</figure>
+<figure name="Image77" bbox="372.000,234.720,672.720,378.000" src="Image77.361x172.bmp" width="300" height="143">
+</figure>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="67.752,372.241,669.511,508.231" size="39.967999999999996">Program is reminding you that  
+you need to &#8220;update&#8221; Years in  
+District ~ change to 14 <textline bbox="67.752,468.271,669.390,508.231" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Program is reminding you that  </textline>
+<textline bbox="67.752,420.264,669.511,460.248" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.984" colourspace="DeviceGray">you need to &#8220;update&#8221; Years in  </textline>
+<textline bbox="129.310,372.241,590.608,412.201" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">District ~ change to 14 </textline>
+</textbox>
+<textbox id="1" bbox="157.220,281.050,197.108,299.050" size="18.0">2010 <textline bbox="157.220,281.050,197.108,299.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">18 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">18 </textline>
+</textbox>
+<figure name="Image76" bbox="120.000,22.440,641.400,366.000" src="Image76.0.695x458.bmp" width="521" height="343">
+</figure>
+</page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="65.712,424.441,654.003,512.401" size="39.96">Make Changes to 2010 record 
+And &#8220;SAVE&#8221; <textline bbox="65.712,472.441,654.003,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Make Changes to 2010 record </textline>
+<textline bbox="242.740,424.441,477.305,464.401" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">And &#8220;SAVE&#8221; </textline>
+</textbox>
+<textbox id="1" bbox="85.224,317.050,125.112,335.050" size="18.0">2010 <textline bbox="85.224,317.050,125.112,335.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">19 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">19 </textline>
+</textbox>
+<figure name="Image82" bbox="36.000,0.000,671.160,425.400" src="Image82.687x460.bmp" width="635" height="425">
+</figure>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="106.270,445.879,613.743,489.919" size="44.04">Asking &#8220;Are You Sure?&#8221; <textline bbox="106.270,445.879,613.743,489.919" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="44.040" colourspace="DeviceGray">Asking &#8220;Are You Sure?&#8221; </textline>
+</textbox>
+<textbox id="1" bbox="91.224,323.050,131.112,341.050" size="18.0">2010 <textline bbox="91.224,323.050,131.112,341.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">20 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">20 </textline>
+</textbox>
+<figure name="Image85" bbox="36.000,0.000,687.840,433.440" src="Image85.693x461.bmp" width="651" height="433">
+</figure>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="43.200,424.441,663.020,512.401" size="39.96">Confirming ~ 
+&#8220;2010 Record Has Been Added&#8221; <textline bbox="43.200,472.441,287.276,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Confirming ~ </textline>
+<textline bbox="43.200,424.441,663.020,464.401" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">&#8220;2010 Record Has Been Added&#8221; </textline>
+</textbox>
+<textbox id="1" bbox="91.224,311.050,131.112,329.050" size="18.0">2010 <textline bbox="91.224,311.050,131.112,329.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">21 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">21 </textline>
+</textbox>
+<figure name="Image88" bbox="42.000,0.000,655.320,420.120" src="Image88.698x478.bmp" width="613" height="420">
+</figure>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="92.952,424.441,644.400,512.401" size="39.96">2010 Certificated Contract  
+Record Now Added <textline bbox="92.952,472.441,644.400,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">2010 Certificated Contract  </textline>
+<textline bbox="174.940,424.441,544.850,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Record Now Added </textline>
+</textbox>
+<textbox id="1" bbox="97.224,305.050,137.112,323.050" size="18.0">2010 <textline bbox="97.224,305.050,137.112,323.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="71.328,49.396,102.534,80.236" size="14.04">2010 
+2009 <textline bbox="71.328,66.196,102.534,80.236" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">2010 </textline>
+<textline bbox="71.328,49.396,102.534,63.436" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">2009 </textline>
+</textbox>
+<textbox id="3" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">22 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">22 </textline>
+</textbox>
+<figure name="Image91" bbox="36.000,0.000,661.320,419.400" src="Image91.698x468.bmp" width="625" height="419">
+</figure>
+</page>
+<page id="23" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="46.632,424.441,691.307,512.401" size="39.96">Every Contract Record MUST  
+have an 2010 Assignment Record <textline bbox="79.272,472.441,676.042,512.401">Every Contract Record MUST  <text font="BCDEEE+ComicSansMS-Bold" bbox="79.272,472.441,104.247,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">E</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="104.247,472.441,123.668,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">v</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="123.668,472.441,146.005,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="146.005,472.441,165.186,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="165.186,472.441,187.284,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">y</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="187.284,472.441,204.627,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="204.866,472.441,229.602,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">C</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="229.602,472.441,250.620,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="250.620,472.441,271.520,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="271.520,472.441,290.341,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="290.341,472.441,309.522,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="309.522,472.441,331.739,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="331.739,472.441,352.279,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="352.279,472.441,371.100,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="371.100,472.441,388.443,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="388.682,472.441,414.257,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">R</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="414.257,472.441,436.594,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="436.594,472.441,457.134,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="457.134,472.441,478.153,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="478.153,472.441,497.334,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="497.334,472.441,520.790,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="520.790,472.441,538.133,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="538.460,472.441,573.745,512.401" colourspace="DeviceGray" ncolour="(1, 0.2, 0)" size="39.960">M</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="573.745,472.441,603.195,512.401" colourspace="DeviceGray" ncolour="(1, 0.2, 0)" size="39.960">U</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="603.195,472.441,630.887,512.401" colourspace="DeviceGray" ncolour="(1, 0.2, 0)" size="39.960">S</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="630.887,472.441,658.700,512.401" colourspace="DeviceGray" ncolour="(1, 0.2, 0)" size="39.960">T</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="658.700,472.441,676.042,512.401" colourspace="DeviceGray" ncolour="(1, 0.2, 0)" size="39.960"> </text>
+</textline>
+<textline bbox="46.632,424.441,691.307,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">have an 2010 Assignment Record </textline>
+</textbox>
+<textbox id="1" bbox="91.224,311.050,131.112,329.050" size="18.0">2010 <textline bbox="91.224,311.050,131.112,329.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">23 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">23 </textline>
+</textbox>
+<figure name="Image94" bbox="30.000,0.000,655.320,415.200" src="Image94.690x458.bmp" width="625" height="415">
+</figure>
+</page>
+<page id="24" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="67.992,448.441,651.848,488.401" size="39.96">ADD 2010 Assignment Record <textline bbox="67.992,448.441,651.848,488.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">ADD 2010 Assignment Record </textline>
+</textbox>
+<textbox id="1" bbox="97.224,311.050,137.112,329.050" size="18.0">2010 <textline bbox="97.224,311.050,137.112,329.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">24 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">24 </textline>
+</textbox>
+<figure name="Image94" bbox="30.000,0.000,655.320,415.200" src="Image94.0.690x458.bmp" width="625" height="415">
+</figure>
+</page>
+<page id="25" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="55.992,424.441,663.981,512.401" size="39.96">Prior year assignment  
+information does NOT populate <textline bbox="149.830,472.441,587.512,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Prior year assignment  </textline>
+<textline bbox="55.992,424.441,663.981,464.401">information does NOT populate <text font="BCDEEE+ComicSansMS-Bold" bbox="55.992,424.441,67.181,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="67.181,424.441,88.080,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="88.080,424.441,108.380,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">f</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="108.380,424.441,129.399,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="129.399,424.441,148.579,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="148.579,424.441,179.628,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="179.628,424.441,201.846,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="201.846,424.441,220.667,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="220.667,424.441,231.856,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="231.856,424.441,252.875,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="252.875,424.441,273.774,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="273.774,424.441,291.117,464.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="291.756,424.441,315.213,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="315.213,424.441,336.231,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="336.231,424.441,358.569,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="358.569,424.441,378.030,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="378.030,424.441,395.372,464.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="395.520,424.441,428.007,464.401" colourspace="DeviceGray" ncolour="(1, 0.2, 0)" size="39.960">N</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="428.064,424.441,459.952,464.401" colourspace="DeviceGray" ncolour="(1, 0.2, 0)" size="39.960">O</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="460.009,424.441,487.821,464.401" colourspace="DeviceGray" ncolour="(1, 0.2, 0)" size="39.960">T</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="505.220,424.441,526.599,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="526.599,424.441,547.618,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="547.618,424.441,568.996,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="568.996,424.441,589.775,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">u</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="589.775,424.441,600.724,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="600.724,424.441,622.942,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="622.822,424.441,641.643,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="641.643,424.441,663.981,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="103.220,305.050,143.108,323.050" size="18.0">2010 <textline bbox="103.220,305.050,143.108,323.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">25 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">25 </textline>
+</textbox>
+<figure name="Image99" bbox="42.000,2.760,648.000,408.000" src="Image99.685x458.bmp" width="606" height="405">
+</figure>
+</page>
+<page id="26" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="121.510,424.441,615.735,512.401" size="39.96">Make Sure Contract and  
+Assignment Record Align <textline bbox="121.510,472.441,615.735,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Make Sure Contract and  </textline>
+<textline bbox="122.230,424.441,597.754,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Assignment Record Align </textline>
+</textbox>
+<textbox id="1" bbox="139.220,299.050,179.108,317.050" size="18.0">2010 <textline bbox="139.220,299.050,179.108,317.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">26 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">26 </textline>
+</textbox>
+<figure name="Image102" bbox="72.000,0.000,663.600,408.600" src="Image102.685x473.bmp" width="591" height="408">
+</figure>
+</page>
+<page id="27" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="81.432,424.441,655.817,512.401" size="39.96">Enter Data from Assignment  
+Sheet as of the &#8220;snap-shot&#8221;  <textline bbox="81.432,472.441,655.817,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Enter Data from Assignment  </textline>
+<textline bbox="81.672,424.441,655.743,464.401">Sheet as of the &#8220;snap-shot&#8221;  <text font="BCDGEE+ComicSansMS-Bold" bbox="81.672,424.441,109.364,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">S</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="109.364,424.441,132.461,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">h</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="132.461,424.441,154.799,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="154.799,424.441,177.136,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="177.136,424.441,195.958,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="195.958,424.441,213.300,464.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="213.500,424.441,235.718,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="235.718,424.441,255.178,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">s</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="255.178,424.441,272.521,464.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="272.601,424.441,293.620,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="293.620,424.441,313.920,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">f</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="313.920,424.441,331.262,464.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="331.262,424.441,350.083,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="350.083,424.441,373.180,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">h</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="373.180,424.441,395.518,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="395.518,424.441,412.860,464.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="413.100,424.441,430.443,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">&#8220;</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="430.443,424.441,449.903,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">s</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="449.903,424.441,470.802,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="470.802,424.441,493.020,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="492.900,424.441,514.279,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="514.460,424.441,538.836,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">-</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="538.820,424.441,558.281,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">s</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="558.281,424.441,581.377,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">h</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="581.377,424.441,602.396,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="602.396,424.441,621.218,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="621.218,424.441,638.560,464.401" colourspace="DeviceGray" ncolour="0" size="39.960">&#8221;</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="638.400,424.441,655.743,464.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+</textline>
+</textbox>
+<textbox id="1" bbox="97.224,281.050,137.112,299.050" size="18.0">2010 <textline bbox="97.224,281.050,137.112,299.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="561.530,269.014,614.576,287.014" size="18.0">SAVE <textline bbox="561.530,269.014,614.576,287.014" font="BCDHEE+Arial-Black" ncolour="0" size="18.000" colourspace="DeviceGray">SAVE </textline>
+</textbox>
+<textbox id="3" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">27 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">27 </textline>
+</textbox>
+<figure name="Image105" bbox="84.000,-18.000,660.000,414.000" src="Image105.1024x768.bmp" width="576" height="432">
+</figure>
+</page>
+<page id="28" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="60.672,400.441,676.520,488.401" size="39.96">Error &#8211; Entered an &#8220;invalid&#8221; or  
+&#8220;inactive&#8221; assignment Code <textline bbox="60.672,448.441,676.520,488.401">Error &#8211; Entered an &#8220;invalid&#8221; or  <text font="BCDEEE+ComicSansMS-Bold" bbox="60.672,448.441,85.647,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">E</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="85.647,448.441,104.828,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="104.828,448.441,124.009,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="124.009,448.441,145.028,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="145.028,448.441,164.208,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="164.208,448.441,181.551,488.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="181.780,448.441,199.402,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">&#8211;</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="216.820,448.441,241.795,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">E</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="241.795,448.441,262.694,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="262.694,448.441,281.515,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="281.515,448.441,303.853,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="303.853,448.441,323.034,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="323.034,448.441,345.371,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="345.371,448.441,368.828,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">d</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="368.828,448.441,386.170,488.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="386.570,448.441,408.788,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="408.788,448.441,429.687,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="429.687,448.441,447.030,488.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="447.149,448.441,464.492,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">&#8220;</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="464.492,448.441,475.681,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="475.681,448.441,496.580,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="496.580,448.441,516.001,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">v</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="516.001,448.441,538.218,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="538.218,448.441,549.167,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">l</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="549.047,448.441,560.236,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="560.236,448.441,583.693,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">d</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="583.693,448.441,601.035,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">&#8221;</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="601.035,448.441,618.378,488.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="618.977,448.441,639.996,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="639.996,448.441,659.177,488.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="659.177,448.441,676.520,488.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+</textline>
+<textline bbox="101.830,400.441,617.993,440.401" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">&#8220;inactive&#8221; assignment Code </textline>
+</textbox>
+<textbox id="1" bbox="121.220,245.045,161.121,263.069" size="18.024">2010 <textline bbox="121.220,245.045,161.121,263.069" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">28 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">28 </textline>
+</textbox>
+<figure name="Image110" bbox="90.000,-60.720,666.720,372.000" src="Image110.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="29" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="116.230,424.441,603.582,464.401" size="39.96">Correct Assignment Code <textline bbox="116.230,424.441,603.582,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Correct Assignment Code </textline>
+</textbox>
+<textbox id="1" bbox="121.220,269.050,161.108,287.050" size="18.0">2010 <textline bbox="121.220,269.050,161.108,287.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">29 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">29 </textline>
+</textbox>
+<figure name="Image110" bbox="96.000,-30.720,672.720,402.000" src="Image110.0.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="30" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="70.992,424.441,666.276,464.401" size="39.96">2010 Active Assignment Code  <textline bbox="70.992,424.441,666.276,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">2010 Active Assignment Code  </textline>
+</textbox>
+<textbox id="1" bbox="103.220,269.050,143.108,287.050" size="18.0">2010 <textline bbox="103.220,269.050,143.108,287.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="516.260,289.450,557.822,307.450" size="18.0">Save <textline bbox="516.260,289.450,557.822,307.450" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Save </textline>
+</textbox>
+<textbox id="3" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">30 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">30 </textline>
+</textbox>
+<figure name="Image115" bbox="66.000,-30.720,642.720,402.000" src="Image115.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="31" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="46.992,424.441,690.268,464.401" size="39.96">ERROR ~ Missing &#8220;Course Level&#8221;  <textline bbox="46.992,424.441,690.268,464.401" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">ERROR ~ Missing &#8220;Course Level&#8221;  </textline>
+</textbox>
+<textbox id="1" bbox="115.220,257.050,155.108,275.050" size="18.0">2010 <textline bbox="115.220,257.050,155.108,275.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">31 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">31 </textline>
+</textbox>
+<figure name="Image118" bbox="84.000,-48.720,660.720,384.000" src="Image118.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="32" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="45.888,405.379,674.641,483.601" size="36.0">Correct and Save 
+75% Instructional &amp; 25% Administrative <textline bbox="190.420,443.641,529.561,483.601" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Correct and Save </textline>
+<textline bbox="45.888,405.379,674.641,437.419" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="32.040" colourspace="DeviceGray">75% Instructional &amp; 25% Administrative </textline>
+</textbox>
+<textbox id="1" bbox="121.220,275.050,161.108,293.050" size="18.0">2010 <textline bbox="121.220,275.050,161.108,293.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="552.260,277.450,593.822,295.450" size="18.0">Save <textline bbox="552.260,277.450,593.822,295.450" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Save </textline>
+</textbox>
+<textbox id="3" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">32 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">32 </textline>
+</textbox>
+<figure name="Image121" bbox="90.000,-24.720,666.720,408.000" src="Image121.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="33" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="72.672,426.619,700.688,512.401" size="36.0">Correct and Save 
+50% Instructional &amp; 50% Administrative <textline bbox="208.420,472.441,547.561,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Correct and Save </textline>
+<textline bbox="72.672,426.619,700.688,458.659" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="32.040" colourspace="DeviceGray">50% Instructional &amp; 50% Administrative </textline>
+</textbox>
+<textbox id="1" bbox="127.220,281.050,167.108,299.050" size="18.0">2010 <textline bbox="127.220,281.050,167.108,299.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="552.260,277.450,593.822,295.450" size="18.0">Save <textline bbox="552.260,277.450,593.822,295.450" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Save </textline>
+</textbox>
+<textbox id="3" bbox="579.770,253.325,620.234,271.349" size="18.024">save <textline bbox="579.770,253.325,620.234,271.349" font="BCDIEE+ArialRoundedMTBold" ncolour="0" size="18.024" colourspace="DeviceGray">save </textline>
+</textbox>
+<textbox id="4" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">33 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">33 </textline>
+</textbox>
+<figure name="Image124" bbox="96.000,-18.720,672.720,414.000" src="Image124.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="34" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="205.780,441.264,514.297,481.248" size="39.984">&#8221;Are you sure?&#8221; <textline bbox="205.780,441.264,514.297,481.248" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.984" colourspace="DeviceGray">&#8221;Are you sure?&#8221; </textline>
+</textbox>
+<textbox id="1" bbox="91.224,299.050,131.112,317.050" size="18.0">2010 <textline bbox="91.224,299.050,131.112,317.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">34 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">34 </textline>
+</textbox>
+<figure name="Image129" bbox="60.000,0.000,636.720,432.720" src="Image129.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="35" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="77.712,400.441,659.450,488.401" size="39.96">Verifying ~ 2010 Assignment  
+Record has been added  <textline bbox="77.712,448.441,659.450,488.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Verifying ~ 2010 Assignment  </textline>
+<textline bbox="133.030,400.441,604.078,440.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Record has been added  </textline>
+</textbox>
+<textbox id="1" bbox="97.224,269.050,137.112,287.050" size="18.0">2010 <textline bbox="97.224,269.050,137.112,287.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">35 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">35 </textline>
+</textbox>
+<figure name="Image132" bbox="72.000,-18.720,648.720,390.000" src="Image132.jpg" width="576" height="408">
+</figure>
+</page>
+<page id="36" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="53.712,400.441,683.562,488.401" size="39.96">READ ONLY ~ Certificates and  
+Endorsements on file with SDE <textline bbox="53.712,448.441,683.562,488.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">READ ONLY ~ Certificates and  </textline>
+<textline bbox="58.392,400.441,661.348,440.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Endorsements on file with SDE </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="661.200,28.036,676.806,42.076" size="14.04">36 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">36 </textline>
+</textbox>
+<figure name="Image135" bbox="108.000,-30.720,684.720,402.000" src="Image135.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="37" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="53.712,400.441,683.562,488.401" size="39.96">READ ONLY ~ Certificates and  
+Endorsements on file with SDE <textline bbox="53.712,448.441,683.562,488.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">READ ONLY ~ Certificates and  </textline>
+<textline bbox="58.392,400.441,661.348,440.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Endorsements on file with SDE </textline>
+</textbox>
+<textbox id="1" bbox="481.100,238.953,658.943,278.560" size="18.012">Certificate ~ 
+Standard Secondary <textline bbox="513.020,260.560,627.032,278.560" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Certificate ~ </textline>
+<textline bbox="481.100,238.953,658.943,256.977" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.024" colourspace="DeviceGray">Standard Secondary </textline>
+</textbox>
+<textbox id="2" bbox="459.260,72.114,692.666,133.310" size="18.0">Endorsement attached 
+to this Certificate 
+7960 Industrial Arts 6/12 <textline bbox="478.460,115.310,673.616,133.310" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Endorsement attached </textline>
+<textline bbox="499.220,93.714,660.626,111.714" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">to this Certificate </textline>
+<textline bbox="459.260,72.114,692.666,90.114" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">7960 Industrial Arts 6/12 </textline>
+</textbox>
+<textbox id="3" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">37 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">37 </textline>
+</textbox>
+<figure name="Image135" bbox="84.000,-30.720,660.720,402.000" src="Image135.0.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="38" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="53.712,400.441,683.562,488.401" size="39.96">READ ONLY ~ Certificates and  
+Endorsements on file with SDE <textline bbox="53.712,448.441,683.562,488.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">READ ONLY ~ Certificates and  </textline>
+<textline bbox="58.392,400.441,661.348,440.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Endorsements on file with SDE </textline>
+</textbox>
+<textbox id="1" bbox="471.500,228.140,668.683,289.360" size="18.008">Certificate ~ 
+Standard Occupational 
+Specialist <textline bbox="513.020,271.360,627.032,289.360" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Certificate ~ </textline>
+<textline bbox="471.500,249.753,668.683,267.777" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.024" colourspace="DeviceGray">Standard Occupational </textline>
+<textline bbox="528.260,228.140,611.870,246.140" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Specialist </textline>
+</textbox>
+<textbox id="2" bbox="474.020,64.314,677.980,147.157" size="18.006">Endorsements attached 
+to this Certificate 
+6101 Carpentry &amp;  
+6105 Cabinetmaking &#8230; <textline bbox="474.020,129.133,677.980,147.157" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.024" colourspace="DeviceGray">Endorsements attached </textline>
+<textline bbox="499.220,107.510,660.626,125.510" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">to this Certificate </textline>
+<textline bbox="493.580,85.914,658.586,103.914" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">6101 Carpentry &amp;  </textline>
+<textline bbox="479.060,64.314,672.956,82.314" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">6105 Cabinetmaking &#8230; </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">38 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">38 </textline>
+</textbox>
+<textbox id="4" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<figure name="Image140" bbox="24.000,-42.000,600.000,390.000" src="Image140.1024x768.bmp" width="576" height="432">
+</figure>
+</page>
+<page id="39" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="160.150,376.434,559.759,512.401" size="39.967999999999996">Non-Certified Staff 
+Go to Personnel List 
+Select individual <textline bbox="160.150,472.441,559.759,512.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Non-Certified Staff </textline>
+<textline bbox="164.830,424.441,555.519,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Go to Personnel List </textline>
+<textline bbox="202.540,376.434,517.614,416.418" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.984" colourspace="DeviceGray">Select individual </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="661.200,28.036,676.806,42.076" size="14.04">39 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">39 </textline>
+</textbox>
+<figure name="Image143" bbox="72.000,-60.720,648.720,372.000" src="Image143.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="40" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="46.728,400.441,690.963,488.401" size="39.96">Non-Certified 
+Verify/Update Personnel Record  <textline bbox="223.900,448.441,496.226,488.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Non-Certified </textline>
+<textline bbox="46.728,400.441,690.963,440.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Verify/Update Personnel Record  </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="661.200,28.036,676.806,42.076" size="14.04">40 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">40 </textline>
+</textbox>
+<figure name="Image146" bbox="84.000,-42.000,660.000,390.000" src="Image146.1024x768.bmp" width="576" height="432">
+</figure>
+</page>
+<page id="41" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="91.392,424.441,645.979,464.401" size="39.96">2010 Non-Certified Record  <textline bbox="91.392,424.441,645.979,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">2010 Non-Certified Record  </textline>
+</textbox>
+<textbox id="1" bbox="109.220,287.050,149.108,305.050" size="18.0">2010 <textline bbox="109.220,287.050,149.108,305.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">41 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">41 </textline>
+</textbox>
+<figure name="Image149" bbox="90.000,-12.000,666.000,420.000" src="Image149.1024x768.bmp" width="576" height="432">
+</figure>
+</page>
+<page id="42" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="91.392,424.441,645.979,464.401" size="39.96">2010 Non-Certified Record  <textline bbox="91.392,424.441,645.979,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">2010 Non-Certified Record  </textline>
+</textbox>
+<textbox id="1" bbox="115.220,287.050,155.108,305.050" size="18.0">2010 <textline bbox="115.220,287.050,155.108,305.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">42 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">42 </textline>
+</textbox>
+<figure name="Image149" bbox="90.000,-12.000,666.000,420.000" src="Image149.0.1024x768.bmp" width="576" height="432">
+</figure>
+</page>
+<page id="43" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="265.420,424.441,471.853,464.401" size="39.96">Hit &#8220;Add&#8221;  <textline bbox="265.420,424.441,471.853,464.401" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Hit &#8220;Add&#8221;  </textline>
+</textbox>
+<textbox id="1" bbox="97.224,305.050,137.112,323.050" size="18.0">2010 <textline bbox="97.224,305.050,137.112,323.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">43 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">43 </textline>
+</textbox>
+<figure name="Image154" bbox="71.640,53.400,648.360,414.000" src="Image154.jpg" width="576" height="360">
+</figure>
+</page>
+<page id="44" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="82.512,400.441,654.659,488.401" size="39.96">&#8221;Prior Year Data Exists&#8230; Do  
+You Wish to Populate?&#8221;  <textline bbox="82.512,448.441,654.659,488.401" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">&#8221;Prior Year Data Exists&#8230; Do  </textline>
+<textline bbox="133.390,400.441,603.879,440.401" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">You Wish to Populate?&#8221;  </textline>
+</textbox>
+<textbox id="1" bbox="103.220,269.050,143.108,287.050" size="18.0">2010 <textline bbox="103.220,269.050,143.108,287.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">44 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">44 </textline>
+</textbox>
+<figure name="Image157" bbox="84.000,-30.720,660.720,402.000" src="Image157.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="45" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="129.910,424.441,607.312,464.401" size="39.96">Update with 2010 Data  <textline bbox="129.910,424.441,607.312,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Update with 2010 Data  </textline>
+</textbox>
+<textbox id="1" bbox="97.224,251.045,137.125,269.069" size="18.024">2010 <textline bbox="97.224,251.045,137.125,269.069" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">45 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">45 </textline>
+</textbox>
+<figure name="Image160" bbox="78.000,-48.720,654.720,384.000" src="Image160.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="46" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="169.270,484.902,550.839,504.966" size="20.064">2009 Record &#8211; 100% Business Manager <textline bbox="169.270,484.902,550.839,504.966">2009 Record &#8211; 100% Business Manager <text font="BCDEEE+ComicSansMS-Bold" bbox="169.270,484.902,181.509,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">2</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="181.509,484.902,193.748,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">0</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="193.748,484.902,205.987,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">0</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="206.047,484.902,218.286,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">9</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="218.286,484.902,226.994,504.966" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="226.994,484.902,239.835,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">R</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="239.835,484.902,251.051,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="250.971,484.902,261.284,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="261.284,484.902,271.837,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="271.837,484.902,281.468,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="281.468,484.902,293.245,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="293.245,484.902,301.953,504.966" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="301.540,484.902,310.388,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="319.080,484.902,331.319,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">1</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="331.319,484.902,343.558,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">0</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="343.558,484.902,355.797,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">0</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="355.797,484.902,372.250,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">%</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="372.250,484.902,380.957,504.966" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="380.877,484.902,393.517,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">B</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="393.517,484.902,403.951,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">u</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="403.951,484.902,413.722,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="413.642,484.902,419.260,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="419.260,484.902,429.753,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="429.753,484.902,440.969,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="440.889,484.902,450.660,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="450.660,484.902,460.431,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="460.331,484.902,469.038,504.966" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="468.978,484.902,486.695,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">M</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="486.614,484.902,497.770,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="497.770,484.902,508.263,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="508.263,484.902,519.419,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="519.419,484.902,530.073,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">g</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="530.073,484.902,541.289,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="541.209,484.902,550.839,504.966" colourspace="DeviceGray" ncolour="0" size="20.064">r</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="64.392,441.919,655.639,461.959" size="20.04">2010 Record &#8211; 65% Business Manager, 35% Title IV-B Aide <textline bbox="64.392,441.919,655.639,461.959">2010 Record &#8211; 65% Business Manager, 35% Title IV-B Aide <text font="BCDEEE+ComicSansMS-Bold" bbox="64.392,441.919,76.616,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">2</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="76.616,441.919,88.841,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">0</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="88.841,441.919,101.065,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">1</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="101.065,441.919,113.290,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">0</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="113.330,441.919,122.027,461.959" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="122.027,441.919,134.853,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">R</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="134.853,441.919,146.055,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="145.975,441.919,156.275,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="156.275,441.919,166.816,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="166.816,441.919,176.436,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="176.436,441.919,188.199,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="188.199,441.919,196.896,461.959" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="196.660,441.919,205.498,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="214.180,441.919,226.404,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">6</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="226.404,441.919,238.629,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">5</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="238.629,441.919,255.062,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">%</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="255.062,441.919,263.759,461.959" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="263.619,441.919,276.244,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">B</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="276.244,441.919,286.665,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="286.665,441.919,296.424,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="296.424,441.919,302.035,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="302.035,441.919,312.516,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="312.516,441.919,323.719,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="323.618,441.919,333.378,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="333.378,441.919,343.137,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="343.057,441.919,351.755,461.959" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="351.795,441.919,369.490,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">M</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="369.490,441.919,380.632,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="380.632,441.919,391.113,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="391.033,441.919,402.175,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="402.175,441.919,412.816,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="412.816,441.919,424.019,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="424.019,441.919,433.638,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="433.638,441.919,442.335,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">,</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="442.275,441.919,450.973,461.959" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="450.792,441.919,463.017,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">3</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="463.017,441.919,475.241,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">5</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="475.241,441.919,491.674,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">%</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="491.674,441.919,500.371,461.959" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="500.231,441.919,514.179,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">T</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="514.179,441.919,519.790,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="519.790,441.919,529.229,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="529.229,441.919,534.720,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="534.780,441.919,545.982,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="545.982,441.919,554.680,461.959" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="554.339,441.919,565.281,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">I</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="565.281,441.919,578.808,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">V</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="578.930,441.919,591.154,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">-</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="591.170,441.919,603.795,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">B</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="603.795,441.919,612.493,461.959" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="612.412,441.919,627.062,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">A</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="627.062,441.919,632.673,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="632.673,441.919,644.436,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="644.436,441.919,655.639,461.959" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="97.224,275.050,137.112,293.050" size="18.0">2010 <textline bbox="97.224,275.050,137.112,293.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="3" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">46 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">46 </textline>
+</textbox>
+<figure name="Image160" bbox="66.000,-24.720,642.720,408.000" src="Image160.0.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="47" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="52.632,365.641,678.583,453.601" size="39.96">2010 &#8211; wages will be paid from  
+two different sources <textline bbox="52.632,413.641,678.583,453.601">2010 &#8211; wages will be paid from  <text font="BCDEEE+ComicSansMS-Bold" bbox="52.632,413.641,77.008,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">2</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="76.992,413.641,101.368,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">0</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="101.352,413.641,125.728,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">1</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="125.712,413.641,150.088,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">0</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="150.072,413.641,167.415,453.601" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="167.470,413.641,185.092,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="202.540,413.641,229.873,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">w</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="229.873,413.641,252.090,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="252.090,413.641,273.309,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">g</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="273.309,413.641,295.647,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="295.647,413.641,315.107,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="315.107,413.641,332.450,453.601" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="332.570,413.641,359.902,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">w</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="359.902,413.641,371.091,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="371.091,413.641,382.040,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="382.040,413.641,392.989,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="392.989,413.641,410.332,453.601" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="410.532,413.641,434.228,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">b</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="434.228,413.641,456.566,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="456.566,413.641,473.908,453.601" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="474.108,413.641,495.487,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="495.487,413.641,517.705,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="517.705,413.641,528.893,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="528.893,413.641,552.350,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="552.350,413.641,569.692,453.601" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="569.692,413.641,589.992,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">f</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="589.992,413.641,609.173,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="609.173,413.641,630.192,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="630.192,413.641,661.241,453.601" colourspace="DeviceGray" ncolour="0" size="39.960">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="661.241,413.641,678.583,453.601" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+</textline>
+<textline bbox="144.910,365.641,569.005,405.601" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">two different sources </textline>
+</textbox>
+<textbox id="1" bbox="96.672,240.959,617.226,311.399" size="32.04">General Maintenance &amp; Operation 
+Title VI-B Federal Funds <textline bbox="96.672,279.359,617.226,311.399" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="32.040" colourspace="DeviceGray">General Maintenance &amp; Operation </textline>
+<textline bbox="158.710,240.959,555.462,272.999" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="32.040" colourspace="DeviceGray">Title VI-B Federal Funds </textline>
+</textbox>
+<textbox id="2" bbox="31.200,153.822,46.806,167.862" size="14.04">20 <textline bbox="31.200,153.822,46.806,167.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">20 </textline>
+</textbox>
+<textbox id="3" bbox="31.200,128.617,46.820,142.681" size="14.064">20 <textline bbox="31.200,128.617,46.820,142.681" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">20 </textline>
+</textbox>
+<textbox id="4" bbox="31.200,103.392,46.806,117.432" size="14.04">40 <textline bbox="31.200,103.392,46.806,117.432" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">40 </textline>
+</textbox>
+<textbox id="5" bbox="103.220,153.822,118.826,167.862" size="14.04">25 <textline bbox="103.220,153.822,118.826,167.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">25 </textline>
+</textbox>
+<textbox id="6" bbox="103.220,128.617,118.840,142.681" size="14.064">25 <textline bbox="103.220,128.617,118.840,142.681" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">25 </textline>
+</textbox>
+<textbox id="7" bbox="103.220,103.392,118.826,117.432" size="14.04">25 <textline bbox="103.220,103.392,118.826,117.432" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">25 </textline>
+</textbox>
+<textbox id="8" bbox="175.220,153.822,190.826,167.862" size="14.04">36 <textline bbox="175.220,153.822,190.826,167.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">36 </textline>
+</textbox>
+<textbox id="9" bbox="175.220,128.617,190.840,142.681" size="14.064">36 <textline bbox="175.220,128.617,190.840,142.681" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">36 </textline>
+</textbox>
+<textbox id="10" bbox="175.220,103.392,190.826,117.432" size="14.04">16 <textline bbox="175.220,103.392,190.826,117.432" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">16 </textline>
+</textbox>
+<textbox id="11" bbox="251.090,153.822,347.380,167.862" size="14.04">$ 18,000  35% <textline bbox="251.090,153.822,347.380,167.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">$ 18,000  35% </textline>
+</textbox>
+<textbox id="12" bbox="391.270,153.822,507.170,167.862" size="14.04">Business Manager <textline bbox="391.270,153.822,507.170,167.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Business Manager </textline>
+</textbox>
+<textbox id="13" bbox="251.090,128.617,347.401,142.681" size="14.064">$ 18,000  35% <textline bbox="251.090,128.617,347.401,142.681" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">$ 18,000  35% </textline>
+</textbox>
+<textbox id="14" bbox="391.270,128.617,576.967,142.681" size="14.064">Instructional Aide - Special Ed <textline bbox="391.270,128.617,576.967,142.681" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">Instructional Aide - Special Ed </textline>
+</textbox>
+<textbox id="15" bbox="251.090,103.392,347.380,117.432" size="14.04">$ 16,000  30% <textline bbox="251.090,103.392,347.380,117.432" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">$ 16,000  30% </textline>
+</textbox>
+<textbox id="16" bbox="391.270,103.392,507.170,117.432" size="14.04">Business Manager <textline bbox="391.270,103.392,507.170,117.432" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Business Manager </textline>
+</textbox>
+<textbox id="17" bbox="251.090,78.196,355.204,92.236" size="14.04">$ 52,000  100% <textline bbox="251.090,78.196,355.204,92.236" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">$ 52,000  100% </textline>
+</textbox>
+<textbox id="18" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="19" bbox="661.200,28.036,676.806,42.076" size="14.04">47 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">47 </textline>
+</textbox>
+<figure name="Image165" bbox="588.000,303.000,693.000,408.000" src="Image165.jpg" width="105" height="105">
+</figure>
+</page>
+<page id="48" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="137.950,400.441,581.906,488.401" size="39.96">Change Funding Source 
+Save  <textline bbox="137.950,448.441,581.906,488.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Change Funding Source </textline>
+<textline bbox="314.160,400.441,423.171,440.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Save  </textline>
+</textbox>
+<textbox id="1" bbox="109.220,251.045,149.121,269.069" size="18.024">2010 <textline bbox="109.220,251.045,149.121,269.069" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">48 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">48 </textline>
+</textbox>
+<figure name="Image169" bbox="96.000,-48.720,672.720,384.000" src="Image169.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="49" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="65.712,400.441,671.506,488.401" size="39.96">Let&#8217;s you know the record has  
+been updated  <textline bbox="65.712,448.441,671.506,488.401" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Let&#8217;s you know the record has  </textline>
+<textline bbox="230.260,400.441,506.943,440.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">been updated  </textline>
+</textbox>
+<textbox id="1" bbox="127.220,251.045,167.121,269.069" size="18.024">2010 <textline bbox="127.220,251.045,167.121,269.069" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">49 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">49 </textline>
+</textbox>
+<figure name="Image172" bbox="102.000,-48.720,678.720,384.000" src="Image172.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="50" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="39.192,366.550,685.607,504.049" size="28.026">This Non-Certified individual now works  
+as an Instructional Aide &#8211; Special Ed 
+(Remember &#8211; you need to complete a paraprofessional  
+record on instructional aides) <textline bbox="50.232,472.009,685.607,504.049" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="32.040" colourspace="DeviceGray">This Non-Certified individual now works  </textline>
+<textline bbox="63.912,426.042,644.111,458.106">as an Instructional Aide &#8211; Special Ed <text font="BCDEEE+ComicSansMS-Bold" bbox="63.912,426.042,81.740,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="81.740,426.042,97.355,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="97.355,426.042,111.271,458.106" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="111.271,426.042,129.098,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="128.938,426.042,145.707,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="145.707,426.042,159.623,458.106" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="159.623,426.042,177.130,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">I</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="177.130,426.042,193.899,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="193.899,426.042,209.515,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="209.515,426.042,224.617,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="224.617,426.042,240.007,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="240.007,426.042,256.681,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">u</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="256.681,426.042,273.162,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="273.065,426.042,288.168,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="288.168,426.042,297.146,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="297.146,426.042,314.011,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="314.011,426.042,330.781,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="330.781,426.042,348.608,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="348.608,426.042,357.394,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="357.394,426.042,371.310,458.106" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="371.117,426.042,394.556,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">A</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="394.556,426.042,403.534,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="403.534,426.042,422.355,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="422.355,426.042,440.279,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="440.279,426.042,454.195,458.106" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="454.100,426.042,468.240,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="482.060,426.042,504.280,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">S</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="504.280,426.042,521.435,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="521.435,426.042,539.358,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="539.358,426.042,555.839,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="555.743,426.042,564.721,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="564.721,426.042,582.549,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="582.549,426.042,591.334,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="591.334,426.042,605.250,458.106" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="605.250,426.042,625.290,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">E</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="625.290,426.042,644.111,458.106" colourspace="DeviceGray" ncolour="0" size="32.064">d</text>
+</textline>
+<textline bbox="39.192,395.350,679.108,419.350">(Remember &#8211; you need to complete a paraprofessional  <text font="BCDEEE+ComicSansMS-Bold" bbox="39.192,395.350,47.976,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">(</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="47.976,395.350,63.336,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="63.336,395.350,76.752,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="76.752,395.350,95.400,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="95.400,395.350,108.816,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="108.816,395.350,127.464,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="127.392,395.350,141.624,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="141.624,395.350,155.040,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="155.088,395.350,166.608,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="166.608,395.350,177.024,419.350" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="176.860,395.350,187.444,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="197.860,395.350,211.132,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">y</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="211.132,395.350,223.756,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="223.756,395.350,236.236,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="236.236,395.350,246.652,419.350" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="246.580,395.350,259.132,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="259.132,395.350,272.548,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="272.596,395.350,286.012,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="286.012,395.350,300.100,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="300.100,395.350,310.516,419.350" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="310.396,395.350,321.700,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="321.700,395.350,334.324,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="334.324,395.350,344.740,419.350" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="344.740,395.350,357.076,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="357.076,395.350,369.700,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="369.700,395.350,388.348,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="388.276,395.350,401.116,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="401.116,395.350,407.692,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="407.692,395.350,421.108,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="421.108,395.350,432.412,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="432.412,395.350,445.828,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="445.828,395.350,456.244,419.350" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="456.244,395.350,469.588,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="469.516,395.350,479.932,419.350" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="479.932,395.350,492.772,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="492.772,395.350,506.116,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="506.116,395.350,517.636,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="517.636,395.350,530.980,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="530.980,395.350,543.820,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="543.820,395.350,555.340,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="555.340,395.350,567.964,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="567.964,395.350,580.156,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="580.156,395.350,593.572,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="593.572,395.350,605.260,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="605.260,395.350,616.948,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="616.876,395.350,623.596,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="623.596,395.350,636.220,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="636.220,395.350,648.772,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="648.772,395.350,662.116,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="662.116,395.350,668.692,419.350" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="668.692,395.350,679.108,419.350" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+<textline bbox="183.220,366.550,524.860,390.550" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="24.000" colourspace="DeviceGray">record on instructional aides) </textline>
+</textbox>
+<textbox id="1" bbox="85.224,209.030,125.112,227.030" size="18.0">2010 <textline bbox="85.224,209.030,125.112,227.030" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">2010 </textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">50 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">50 </textline>
+</textbox>
+<figure name="Image160" bbox="66.000,-90.720,642.720,342.000" src="Image160.1.jpg" width="576" height="432">
+</figure>
+</page>
+<page id="51" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="127.750,400.441,609.468,488.401" size="39.96">Paraprofessional Record  
+Required  <textline bbox="127.750,448.441,609.468,488.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Paraprofessional Record  </textline>
+<textline bbox="277.180,400.441,460.157,440.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Required  </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="661.200,28.036,676.806,42.076" size="14.04">51 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">51 </textline>
+</textbox>
+<figure name="Image177" bbox="96.000,0.000,640.320,400.320" src="Image177.790x581.bmp" width="544" height="400">
+</figure>
+</page>
+<page id="52" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="107.710,400.441,629.508,488.401" size="39.96">Complete Paraprofessional  
+Information and Save <textline bbox="107.710,448.441,629.508,488.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Complete Paraprofessional  </textline>
+<textline bbox="148.870,400.441,571.127,440.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Information and Save </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="661.200,28.036,676.806,42.076" size="14.04">52 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">52 </textline>
+</textbox>
+<figure name="Image180" bbox="108.000,28.440,625.320,384.000" src="Image180.690x474.bmp" width="517" height="355">
+</figure>
+</page>
+<page id="53" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="43.200,417.940,672.024,499.231" size="31.98">New on Paraprofessional Record 
+&#8226; Diploma; if yes, check one or more <textline bbox="48.288,459.271,672.024,499.231" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">New on Paraprofessional Record </textline>
+<textline bbox="43.200,417.940,439.776,441.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Diploma; if yes, check one or more </textline>
+</textbox>
+<textbox id="1" bbox="43.200,337.270,666.600,361.270" size="24.0">&#8226; Praxis data can only be entered by teachers certification <textline bbox="43.200,337.270,666.600,361.270" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Praxis data can only be entered by teachers certification </textline>
+</textbox>
+<textbox id="2" bbox="43.200,223.970,541.392,247.970" size="24.0">&#8226; Applies to Idaho Paraprofessional standards <textline bbox="43.200,223.970,541.392,247.970" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Applies to Idaho Paraprofessional standards </textline>
+</textbox>
+<textbox id="3" bbox="70.224,204.650,245.172,216.650" size="12.0">(no longer a federal requirement) <textline bbox="70.224,204.650,245.172,216.650" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">(no longer a federal requirement) </textline>
+</textbox>
+<textbox id="4" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">53 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">53 </textline>
+</textbox>
+<figure name="Image183" bbox="138.000,363.960,510.000,408.000" src="Image183.309x43.bmp" width="372" height="44">
+</figure>
+<figure name="Image184" bbox="66.000,267.720,657.720,318.000" src="Image184.589x50.bmp" width="591" height="50">
+</figure>
+<figure name="Image185" bbox="54.000,66.000,690.000,192.000" src="Image185.688x119.bmp" width="636" height="126">
+</figure>
+</page>
+<page id="54" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="69.072,424.441,650.810,464.401" size="39.96">Error Message ~ missing data <textline bbox="69.072,424.441,650.810,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Error Message ~ missing data </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="661.200,28.036,676.806,42.076" size="14.04">54 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">54 </textline>
+</textbox>
+<figure name="Image180" bbox="84.000,52.440,601.320,408.000" src="Image180.0.690x474.bmp" width="517" height="355">
+</figure>
+<figure name="Image188" bbox="354.000,162.720,594.720,285.360" src="Image188.jpg" width="240" height="122">
+</figure>
+</page>
+<page id="55" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="73.752,376.434,663.442,512.401" size="39.967999999999996">Example &#8211; forgot to enter  
+&#8220;Institution&#8221; where Associate  
+Degree was Obtained <textline bbox="105.430,472.441,631.763,512.401">Example &#8211; forgot to enter  <text font="BCDEEE+ComicSansMS-Bold" bbox="105.430,472.441,130.405,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">E</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="130.405,472.441,153.981,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">x</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="153.981,472.441,176.199,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="176.199,472.441,207.248,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">m</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="207.248,472.441,228.627,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="228.627,472.441,239.576,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="239.576,472.441,261.913,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="261.913,472.441,279.256,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="279.580,472.441,297.202,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="314.640,472.441,334.940,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">f</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="334.940,472.441,355.959,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="355.959,472.441,375.139,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="375.139,472.441,396.358,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">g</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="396.358,472.441,417.377,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="417.377,472.441,436.198,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="436.198,472.441,453.541,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="453.661,472.441,472.482,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="472.482,472.441,493.501,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="493.501,472.441,510.844,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="510.844,472.441,533.181,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="533.181,472.441,554.080,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="554.080,472.441,572.901,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="572.901,472.441,595.239,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="595.239,472.441,614.420,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="614.420,472.441,631.763,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+</textline>
+<textline bbox="73.752,424.441,663.442,464.401" font="BCDGEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">&#8220;Institution&#8221; where Associate  </textline>
+<textline bbox="152.470,376.434,567.424,416.418" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.984" colourspace="DeviceGray">Degree was Obtained </textline>
+</textbox>
+<textbox id="1" bbox="251.980,229.430,263.986,247.430" size="18.0">A <textline bbox="251.980,229.430,263.986,247.430" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">A </textline>
+</textbox>
+<textbox id="2" bbox="462.260,229.430,552.134,247.430" size="18.0">05/31/2009 <textline bbox="462.260,229.430,552.134,247.430" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">05/31/2009 </textline>
+</textbox>
+<textbox id="3" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">55 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">55 </textline>
+</textbox>
+<figure name="Image180" bbox="120.000,16.440,637.320,372.000" src="Image180.1.690x474.bmp" width="517" height="355">
+</figure>
+</page>
+<page id="56" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="96.072,424.441,624.066,464.401" size="39.96">May Only be Verified By - <textline bbox="96.072,424.441,624.066,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">May Only be Verified By - </textline>
+</textbox>
+<textbox id="1" bbox="373.270,318.160,605.596,400.990" size="18.006">Superintendent, or 
+Charter Administrator, or 
+Principal, or 
+Special Education Director <textline bbox="373.270,382.990,538.060,400.990" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Superintendent, or </textline>
+<textline bbox="373.270,361.383,601.634,379.407" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.024" colourspace="DeviceGray">Charter Administrator, or </textline>
+<textline bbox="373.270,339.760,478.246,357.760" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Principal, or </textline>
+<textline bbox="373.270,318.160,605.596,336.160">Special Education Director <text font="BCDEEE+ComicSansMS-Bold" bbox="373.270,318.160,385.744,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">S</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="385.744,318.160,395.374,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="395.374,318.160,405.436,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="405.436,318.160,414.688,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="414.688,318.160,419.728,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="419.728,318.160,429.736,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="429.664,318.160,434.596,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="434.596,318.160,442.408,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="442.408,318.160,453.658,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">E</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="453.658,318.160,464.224,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="464.224,318.160,473.584,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">u</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="473.584,318.160,482.836,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="482.836,318.160,492.844,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="492.790,318.160,501.268,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="501.268,318.160,506.308,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="506.308,318.160,515.776,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="515.812,318.160,525.226,336.160" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.000">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="533.020,318.160,546.016,336.160" colourspace="DeviceGray" ncolour="0" size="18.000">D</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="546.016,318.160,551.056,336.160" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="551.056,318.160,559.696,336.160" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="559.696,318.160,569.758,336.160" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="569.758,318.160,579.010,336.160" colourspace="DeviceGray" ncolour="0" size="18.000">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="579.010,318.160,587.488,336.160" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="587.488,318.160,596.956,336.160" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="596.956,318.160,605.596,336.160" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">56 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">56 </textline>
+</textbox>
+<figure name="Image185" bbox="48.000,150.000,684.000,276.000" src="Image185.0.688x119.bmp" width="636" height="126">
+</figure>
+</page>
+<page id="57" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="43.200,424.441,199.356,464.401" size="39.96">Why??- <textline bbox="43.200,424.441,199.356,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Why??- </textline>
+</textbox>
+<textbox id="1" bbox="355.270,372.183,587.639,454.990" size="18.006">Superintendent, or 
+Charter Administrator, or 
+Principal, or 
+Special Education Director <textline bbox="355.270,436.990,520.060,454.990" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Superintendent, or </textline>
+<textline bbox="355.270,415.390,583.564,433.390" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Charter Administrator, or </textline>
+<textline bbox="355.270,393.790,460.246,411.790" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Principal, or </textline>
+<textline bbox="355.270,372.183,587.639,390.207">Special Education Director <text font="BCDEEE+ComicSansMS-Bold" bbox="355.270,372.183,367.761,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">S</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="367.761,372.183,377.403,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">p</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="377.403,372.183,387.479,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="387.479,372.183,396.743,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="396.671,372.183,401.718,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="401.718,372.183,411.739,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="411.667,372.183,416.606,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">l</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="416.606,372.183,424.428,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="424.428,372.183,435.693,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">E</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="435.693,372.183,446.273,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">d</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="446.273,372.183,455.646,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">u</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="455.592,372.183,464.856,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="464.856,372.183,474.877,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">a</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="474.787,372.183,483.276,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="483.276,372.183,488.323,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="488.323,372.183,497.804,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="497.804,372.183,507.230,390.207" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="18.024">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="515.020,372.183,528.033,390.207" colourspace="DeviceGray" ncolour="0" size="18.024">D</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="528.033,372.183,533.080,390.207" colourspace="DeviceGray" ncolour="0" size="18.024">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="533.026,372.183,541.677,390.207" colourspace="DeviceGray" ncolour="0" size="18.024">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="541.677,372.183,551.753,390.207" colourspace="DeviceGray" ncolour="0" size="18.024">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="551.753,372.183,561.017,390.207" colourspace="DeviceGray" ncolour="0" size="18.024">c</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="561.017,372.183,569.507,390.207" colourspace="DeviceGray" ncolour="0" size="18.024">t</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="569.507,372.183,578.987,390.207" colourspace="DeviceGray" ncolour="0" size="18.024">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="578.987,372.183,587.639,390.207" colourspace="DeviceGray" ncolour="0" size="18.024">r</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="495.140,159.740,634.778,264.177" size="18.0048">These Certified 
+Administrative  
+Positions  
+Require Idaho  
+Credentials <textline bbox="495.140,246.153,633.060,264.177" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.024" colourspace="DeviceGray">These Certified </textline>
+<textline bbox="501.380,224.540,634.778,242.540" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Administrative  </textline>
+<textline bbox="523.220,202.940,605.156,220.940" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Positions  </textline>
+<textline bbox="499.100,181.340,629.042,199.340" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Require Idaho  </textline>
+<textline bbox="515.420,159.740,612.620,177.740" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Credentials </textline>
+</textbox>
+<textbox id="3" bbox="499.580,73.314,628.496,134.510" size="18.0">And are KEY  
+players in the  
+HQT reporting <textline bbox="504.620,116.510,623.528,134.510" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">And are KEY  </textline>
+<textline bbox="499.700,94.914,628.418,112.914" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">players in the  </textline>
+<textline bbox="499.580,73.314,628.496,91.314" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">HQT reporting </textline>
+</textbox>
+<textbox id="4" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">57 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">57 </textline>
+</textbox>
+<figure name="Image185" bbox="36.000,204.000,672.000,330.000" src="Image185.1.688x119.bmp" width="636" height="126">
+</figure>
+</page>
+<page id="58" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="73.152,424.441,646.618,464.401" size="39.96">Save Paraprofessional Record <textline bbox="73.152,424.441,646.618,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Save Paraprofessional Record </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="661.200,28.036,676.806,42.076" size="14.04">58 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">58 </textline>
+</textbox>
+<figure name="Image180" bbox="96.000,46.440,613.320,402.000" src="Image180.2.690x474.bmp" width="517" height="355">
+</figure>
+</page>
+<page id="59" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="79.512,424.441,657.770,512.401" size="39.96">Verifying &#8211; Are you sure you  
+want to save? <textline bbox="79.512,472.441,657.770,512.401">Verifying &#8211; Are you sure you  <text font="BCDEEE+ComicSansMS-Bold" bbox="79.512,472.441,106.485,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">V</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="106.485,472.441,128.823,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="128.823,472.441,148.003,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="148.003,472.441,159.192,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="159.192,472.441,179.492,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">f</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="179.492,472.441,201.590,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">y</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="201.590,472.441,212.779,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="212.779,472.441,233.678,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="233.678,472.441,254.896,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">g</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="254.896,472.441,272.239,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="272.740,472.441,290.362,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">&#8211;</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="307.800,472.441,337.011,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">A</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="337.011,472.441,356.192,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="356.192,472.441,378.529,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="378.529,472.441,395.872,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="396.072,472.441,418.170,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">y</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="418.170,472.441,439.188,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="439.188,472.441,459.968,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">u</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="459.968,472.441,477.310,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="477.310,472.441,496.771,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">s</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="496.771,472.441,517.550,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">u</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="517.550,472.441,536.731,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="536.731,472.441,559.068,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="559.068,472.441,576.411,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="576.531,472.441,598.629,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">y</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="598.629,472.441,619.648,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="619.648,472.441,640.427,512.401" colourspace="DeviceGray" ncolour="0" size="39.960">u</text>
+<text font="BCDEEE+ComicSansMS-Bold" bbox="640.427,472.441,657.770,512.401" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+</textline>
+<textline bbox="224.980,424.441,495.110,464.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">want to save? </textline>
+</textbox>
+<textbox id="1" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<textbox id="2" bbox="661.200,28.036,676.806,42.076" size="14.04">59 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">59 </textline>
+</textbox>
+<figure name="Image180" bbox="108.000,28.440,625.320,384.000" src="Image180.3.690x474.bmp" width="517" height="355">
+</figure>
+<figure name="Image199" bbox="336.000,155.280,684.720,306.720" src="Image199.jpg" width="348" height="151">
+</figure>
+</page>
+<page id="60" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="91.992,400.441,645.358,488.401" size="39.96">Message ~ Paraprofessional  
+Record has been Saved ~ <textline bbox="91.992,448.441,645.358,488.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Message ~ Paraprofessional  </textline>
+<textline bbox="112.030,400.441,607.734,440.401" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="39.960" colourspace="DeviceGray">Record has been Saved ~ </textline>
+</textbox>
+<textbox id="1" bbox="475.300,306.160,634.888,324.160" size="18.0">Recommendation ~ <textline bbox="475.300,306.160,634.888,324.160" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Recommendation ~ </textline>
+</textbox>
+<textbox id="2" bbox="475.300,219.740,613.990,280.960" size="18.008">Make sure this  
+Information is  
+Accurate. <textline bbox="475.300,262.960,613.990,280.960" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Make sure this  </textline>
+<textline bbox="475.300,241.353,607.560,259.377" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.024" colourspace="DeviceGray">Information is  </textline>
+<textline bbox="475.300,219.740,561.322,237.740" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Accurate. </textline>
+</textbox>
+<textbox id="3" bbox="475.300,46.914,670.852,194.540" size="18.0">Once it is submitted 
+To SDE, this data 
+Will become a part 
+of that individuals 
+Permanent information 
+(until changed or  
+updated) <textline bbox="475.300,176.540,654.400,194.540" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Once it is submitted </textline>
+<textline bbox="475.300,154.940,636.688,172.940" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">To SDE, this data </textline>
+<textline bbox="475.300,133.340,642.268,151.340" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Will become a part </textline>
+<textline bbox="475.300,111.710,634.276,129.710" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">of that individuals </textline>
+<textline bbox="475.300,90.114,670.852,108.114" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">Permanent information </textline>
+<textline bbox="475.300,68.514,629.704,86.514" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">(until changed or  </textline>
+<textline bbox="475.300,46.914,550.504,64.914" font="BCDEEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">updated) </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">60 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">60 </textline>
+</textbox>
+<textbox id="5" bbox="43.200,28.036,70.564,42.076" size="14.04">8/28 <textline bbox="43.200,28.036,70.564,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8/28 </textline>
+</textbox>
+<figure name="Image180" bbox="108.000,28.440,625.320,384.000" src="Image180.4.690x474.bmp" width="517" height="355">
+</figure>
+<figure name="Image202" bbox="162.000,117.600,447.720,270.000" src="Image202.317x169.bmp" width="285" height="152">
+</figure>
+</page>
+</pages>

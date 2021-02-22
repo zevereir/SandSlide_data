@@ -1,0 +1,528 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="97.392,362.639,622.560,394.679" size="32.04">Design for a 2 MW graphite target <textline bbox="97.392,362.639,622.560,394.679" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="32.040" colourspace="DeviceGray">Design for a 2 MW graphite target </textline>
+</textbox>
+<textbox id="1" bbox="212.260,285.832,507.922,317.896" size="32.064">for a neutrino beam <textline bbox="212.260,285.832,507.922,317.896" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="32.064" colourspace="DeviceGray">for a neutrino beam </textline>
+</textbox>
+<textbox id="2" bbox="295.060,194.930,406.924,218.930" size="24.0">Jim Hylen <textline bbox="295.060,194.930,406.924,218.930" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000" colourspace="DeviceGray">Jim Hylen </textline>
+</textbox>
+<textbox id="3" bbox="56.352,110.150,645.712,151.756" size="19.032">Accelerator Physics and Technology Workshop for Project X 
+November 12-13, 2007 <textline bbox="56.352,131.692,645.712,151.756" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="20.064" colourspace="DeviceGray">Accelerator Physics and Technology Workshop for Project X </textline>
+<textline bbox="246.580,110.150,455.214,128.150" font="BCDFEE+ComicSansMS-Bold" ncolour="0" size="18.000" colourspace="DeviceGray">November 12-13, 2007 </textline>
+</textbox>
+<figure name="Image7" bbox="18.000,452.760,93.240,528.000" src="Image7.208x208.bmp" width="75" height="75">
+</figure>
+<figure name="Image8" bbox="77.520,341.460,644.580,412.080" src="Image8.1576x197.bmp" width="567" height="70">
+</figure>
+<figure name="Image12" bbox="192.360,264.660,529.740,335.280" src="Image12.938x197.bmp" width="337" height="70">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="303.480,491.993,446.663,516.017" size="24.024">Introduction <textline bbox="303.480,491.993,446.663,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Introduction </textline>
+</textbox>
+<textbox id="1" bbox="79.224,373.902,659.003,467.352" size="20.046">&#9642; Two years ago, a preliminary design study was done for a  
+target for proton driver beam parameters.  No further  
+work has been done since then.  All numbers, graphs shown  
+are for proton driver parameters ( about 10% different). <textline bbox="79.224,445.909,641.048,467.352">&#9642; Two years ago, a preliminary design study was done for a  <text font="BCDGEE+Wingdings-Regular" bbox="79.224,447.312,88.402,467.352" colourspace="DeviceGray" ncolour="0" size="20.040">&#9642;</text>
+<text font="BCDEEE+ComicSansMS" bbox="106.220,445.909,119.847,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">T</text>
+<text font="BCDEEE+ComicSansMS" bbox="119.847,445.909,133.555,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">w</text>
+<text font="BCDEEE+ComicSansMS" bbox="133.555,445.909,144.096,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="BCDEEE+ComicSansMS" bbox="144.096,445.909,150.088,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="150.027,445.909,160.468,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="BCDEEE+ComicSansMS" bbox="160.468,445.909,171.450,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="BCDEEE+ComicSansMS" bbox="171.390,445.909,181.651,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="BCDEEE+ComicSansMS" bbox="181.590,445.909,191.210,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="BCDEEE+ComicSansMS" bbox="191.210,445.909,200.969,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="BCDEEE+ComicSansMS" bbox="200.969,445.909,206.961,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="207.001,445.909,217.262,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="BCDEEE+ComicSansMS" bbox="217.202,445.909,227.843,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="BCDEEE+ComicSansMS" bbox="227.843,445.909,238.384,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="BCDEEE+ComicSansMS" bbox="238.384,445.909,243.935,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">,</text>
+<text font="BCDEEE+ComicSansMS" bbox="243.935,445.909,249.927,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="249.847,445.909,260.107,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="BCDEEE+ComicSansMS" bbox="260.047,445.909,266.039,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="266.039,445.909,276.760,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="BCDEEE+ComicSansMS" bbox="276.760,445.909,286.380,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="BCDEEE+ComicSansMS" bbox="286.380,445.909,297.362,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="BCDEEE+ComicSansMS" bbox="297.241,445.909,302.732,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="BCDEEE+ComicSansMS" bbox="302.732,445.909,308.343,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="BCDEEE+ComicSansMS" bbox="308.343,445.909,323.915,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="BCDEEE+ComicSansMS" bbox="323.975,445.909,329.586,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="BCDEEE+ComicSansMS" bbox="329.586,445.909,340.067,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="BCDEEE+ComicSansMS" bbox="340.067,445.909,350.327,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="BCDEEE+ComicSansMS" bbox="350.247,445.909,359.866,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="BCDEEE+ComicSansMS" bbox="359.866,445.909,370.307,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="BCDEEE+ComicSansMS" bbox="370.307,445.909,376.299,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="376.379,445.909,388.143,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="BCDEEE+ComicSansMS" bbox="388.143,445.909,399.125,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="BCDEEE+ComicSansMS" bbox="399.065,445.909,408.824,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="BCDEEE+ComicSansMS" bbox="408.824,445.909,414.435,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="BCDEEE+ComicSansMS" bbox="414.435,445.909,425.076,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="BCDEEE+ComicSansMS" bbox="425.076,445.909,435.557,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="BCDEEE+ComicSansMS" bbox="435.557,445.909,441.549,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="441.650,445.909,451.409,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="BCDEEE+ComicSansMS" bbox="451.409,445.909,460.848,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="BCDEEE+ComicSansMS" bbox="460.848,445.909,471.269,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="BCDEEE+ComicSansMS" bbox="471.269,445.909,483.032,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="BCDEEE+ComicSansMS" bbox="483.032,445.909,493.473,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="BCDEEE+ComicSansMS" bbox="493.473,445.909,499.465,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="499.244,445.909,512.952,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">w</text>
+<text font="BCDEEE+ComicSansMS" bbox="512.952,445.909,523.212,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="BCDEEE+ComicSansMS" bbox="523.132,445.909,532.892,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="BCDEEE+ComicSansMS" bbox="532.892,445.909,538.884,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="538.884,445.909,550.647,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="BCDEEE+ComicSansMS" bbox="550.647,445.909,561.188,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="BCDEEE+ComicSansMS" bbox="561.188,445.909,571.669,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="BCDEEE+ComicSansMS" bbox="571.669,445.909,582.651,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="BCDEEE+ComicSansMS" bbox="582.531,445.909,588.523,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="588.623,445.909,598.803,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="BCDEEE+ComicSansMS" bbox="598.803,445.909,609.344,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="BCDEEE+ComicSansMS" bbox="609.344,445.909,618.963,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="BCDEEE+ComicSansMS" bbox="618.963,445.909,624.955,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="624.855,445.909,635.116,465.949" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="BCDEEE+ComicSansMS" bbox="635.056,445.909,641.048,465.949" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+<textline bbox="106.220,421.909,628.262,441.949" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">target for proton driver beam parameters.  No further  </textline>
+<textline bbox="106.220,397.909,659.003,417.949" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">work has been done since then.  All numbers, graphs shown  </textline>
+<textline bbox="106.220,373.902,639.902,393.966" font="BCDEEE+ComicSansMS" ncolour="0" size="20.064" colourspace="DeviceGray">are for proton driver parameters ( about 10% different). </textline>
+</textbox>
+<textbox id="2" bbox="303.260,291.079,430.093,339.919" size="20.04">Proton Driver 
+(this talk) <textline bbox="303.260,319.879,430.093,339.919" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">Proton Driver </textline>
+<textline bbox="309.260,291.079,402.326,311.119" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">(this talk) </textline>
+</textbox>
+<textbox id="3" bbox="485.280,319.879,574.999,339.919" size="20.04">Project X <textline bbox="485.280,319.879,574.999,339.919" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">Project X </textline>
+</textbox>
+<textbox id="4" bbox="121.220,257.869,251.079,277.909" size="20.04">Protons / spill <textline bbox="121.220,257.869,251.079,277.909" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">Protons / spill </textline>
+</textbox>
+<textbox id="5" bbox="303.260,257.869,361.717,277.909" size="20.04">1.5e14 <textline bbox="303.260,257.869,361.717,277.909" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">1.5e14 </textline>
+</textbox>
+<textbox id="6" bbox="485.280,257.869,543.737,277.909" size="20.04">1.7e14 <textline bbox="485.280,257.869,543.737,277.909" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">1.7e14 </textline>
+</textbox>
+<textbox id="7" bbox="121.220,195.849,263.744,215.889" size="20.04">Repetition rate <textline bbox="121.220,195.849,263.744,215.889" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">Repetition rate </textline>
+</textbox>
+<textbox id="8" bbox="303.260,195.849,421.235,215.889" size="20.04">1.33 seconds <textline bbox="303.260,195.849,421.235,215.889" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">1.33 seconds </textline>
+</textbox>
+<textbox id="9" bbox="485.280,195.849,603.376,215.889" size="20.04">1.40 seconds <textline bbox="485.280,195.849,603.376,215.889" font="BCDEEE+ComicSansMS" ncolour="0" size="20.040" colourspace="DeviceGray">1.40 seconds </textline>
+</textbox>
+<textbox id="10" bbox="85.224,98.900,625.292,124.580" size="24.0">&#9642; This design is by Valeri Garkusha et. al, IHEP  <textline bbox="85.224,98.900,625.292,124.580">&#9642; This design is by Valeri Garkusha et. al, IHEP  <text font="BCDGEE+Wingdings-Regular" bbox="85.224,100.580,96.216,124.580" colourspace="DeviceGray" ncolour="0" size="24.000">&#9642;</text>
+<text font="BCDEEE+ComicSansMS" bbox="112.220,98.900,128.540,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+ComicSansMS" bbox="128.540,98.900,142.412,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+ComicSansMS" bbox="142.412,98.900,149.132,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+ComicSansMS" bbox="149.132,98.900,160.820,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS" bbox="160.820,98.900,167.996,122.900" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="167.996,98.900,182.084,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+ComicSansMS" bbox="182.084,98.900,195.236,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS" bbox="195.236,98.900,206.924,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS" bbox="206.924,98.900,213.644,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+ComicSansMS" bbox="213.644,98.900,226.388,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+ComicSansMS" bbox="226.388,98.900,238.940,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+ComicSansMS" bbox="238.940,98.900,246.116,122.900" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="246.116,98.900,252.836,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+ComicSansMS" bbox="252.836,98.900,264.524,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS" bbox="264.524,98.900,271.700,122.900" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="271.580,98.900,285.812,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="BCDEEE+ComicSansMS" bbox="285.812,98.900,298.316,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">y</text>
+<text font="BCDEEE+ComicSansMS" bbox="298.316,98.900,305.492,122.900" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="305.420,98.900,321.020,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">V</text>
+<text font="BCDEEE+ComicSansMS" bbox="321.020,98.900,333.308,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS" bbox="333.308,98.900,339.884,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+ComicSansMS" bbox="339.884,98.900,353.036,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS" bbox="353.036,98.900,364.556,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+ComicSansMS" bbox="364.556,98.900,371.276,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+ComicSansMS" bbox="371.276,98.900,378.452,122.900" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="378.452,98.900,394.772,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">G</text>
+<text font="BCDEEE+ComicSansMS" bbox="394.772,98.900,407.060,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS" bbox="407.060,98.900,418.580,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+ComicSansMS" bbox="418.580,98.900,431.540,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">k</text>
+<text font="BCDEEE+ComicSansMS" bbox="431.540,98.900,444.020,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+ComicSansMS" bbox="444.020,98.900,455.708,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+ComicSansMS" bbox="455.708,98.900,469.580,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+ComicSansMS" bbox="469.580,98.900,481.868,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS" bbox="481.868,98.900,489.044,122.900" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="489.044,98.900,502.196,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+ComicSansMS" bbox="502.196,98.900,513.500,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+ComicSansMS" bbox="513.500,98.900,519.476,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="BCDEEE+ComicSansMS" bbox="519.476,98.900,526.652,122.900" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="526.460,98.900,538.748,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+ComicSansMS" bbox="538.748,98.900,545.324,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+ComicSansMS" bbox="545.324,98.900,551.972,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">,</text>
+<text font="BCDEEE+ComicSansMS" bbox="551.900,98.900,559.076,122.900" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+ComicSansMS" bbox="559.076,98.900,572.180,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="BCDEEE+ComicSansMS" bbox="572.180,98.900,590.612,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">H</text>
+<text font="BCDEEE+ComicSansMS" bbox="590.612,98.900,605.612,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">E</text>
+<text font="BCDEEE+ComicSansMS" bbox="605.612,98.900,618.116,122.900" colourspace="DeviceGray" ncolour="0" size="24.000">P</text>
+<text font="BCDEEE+ComicSansMS" bbox="618.116,98.900,625.292,122.900" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+</textbox>
+<textbox id="11" bbox="112.220,70.104,409.172,94.104" size="24.0">Protvino (NuMI note 1100) <textline bbox="112.220,70.104,409.172,94.104" font="BCDEEE+ComicSansMS" ncolour="0" size="24.000" colourspace="DeviceGray">Protvino (NuMI note 1100) </textline>
+</textbox>
+<textbox id="12" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="13" bbox="657.480,11.597,664.815,23.621" size="12.024">2 <textline bbox="657.480,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">2 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.0.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image25" bbox="288.360,475.860,463.260,529.200" src="Image25.486x149.bmp" width="174" height="53">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="179.380,491.993,570.707,516.017" size="24.024">Important issues for target design <textline bbox="179.380,491.993,570.707,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Important issues for target design </textline>
+</textbox>
+<textbox id="1" bbox="127.220,407.092,387.176,425.092" size="18.0">&#8226; Dynamic stress from short pulse <textline bbox="127.220,407.092,387.176,425.092" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; Dynamic stress from short pulse </textline>
+</textbox>
+<textbox id="2" bbox="127.220,363.887,326.205,381.911" size="18.024">&#8226; Getting the DC heat out <textline bbox="127.220,363.887,326.205,381.911" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.024" colourspace="DeviceGray">&#8226; Getting the DC heat out </textline>
+</textbox>
+<textbox id="3" bbox="127.220,320.662,284.684,338.662" size="18.0">&#8226; Radiation damage <textline bbox="127.220,320.662,284.684,338.662" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; Radiation damage </textline>
+</textbox>
+<textbox id="4" bbox="127.220,277.462,395.438,295.462" size="18.0">&#8226; Efficiency of neutrino production <textline bbox="127.220,277.462,395.438,295.462" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; Efficiency of neutrino production </textline>
+</textbox>
+<textbox id="5" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="6" bbox="657.480,11.597,664.815,23.621" size="12.024">3 <textline bbox="657.480,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">3 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.1.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image34" bbox="164.280,475.860,587.340,529.200" src="Image34.1176x149.bmp" width="423" height="53">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="229.180,491.993,520.855,516.017" size="24.024">Issues for dynamic stress <textline bbox="229.180,491.993,520.855,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Issues for dynamic stress </textline>
+</textbox>
+<textbox id="1" bbox="73.224,433.492,304.434,473.092" size="18.0">To reduce dynamic stress, want: 
+&#8226; <textline bbox="73.224,455.092,304.434,473.092" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">To reduce dynamic stress, want: </textline>
+<textline bbox="73.224,433.492,79.524,451.492" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="2" bbox="100.220,433.492,246.704,451.492" size="18.0">Fewer protons/pulse <textline bbox="100.220,433.492,246.704,451.492" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Fewer protons/pulse </textline>
+</textbox>
+<textbox id="3" bbox="145.220,390.292,584.630,429.892" size="18.0">Neutrino production scales approximately with beam power 
+so fewer protons at 120 GeV than eg 30 GeV helps <textline bbox="145.220,411.892,577.040,429.892" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Neutrino production scales approximately with beam power </textline>
+<textline bbox="217.250,390.292,584.630,408.292" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">so fewer protons at 120 GeV than eg 30 GeV helps </textline>
+</textbox>
+<textbox id="4" bbox="145.220,368.687,535.241,386.711" size="18.024">Having more pulses of fewer protons each would help <textline bbox="145.220,368.687,535.241,386.711" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.024" colourspace="DeviceGray">Having more pulses of fewer protons each would help </textline>
+</textbox>
+<textbox id="5" bbox="73.224,325.462,79.524,343.462" size="18.0">&#8226; <textline bbox="73.224,325.462,79.524,343.462" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="6" bbox="100.220,325.462,544.928,343.462" size="18.0">Spread protons out in larger beam spot, use low density target <textline bbox="100.220,325.462,544.928,343.462" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Spread protons out in larger beam spot, use low density target </textline>
+</textbox>
+<textbox id="7" bbox="145.220,303.862,608.306,321.862" size="18.0">Horn has ~ 1m long depth of field, few mm wide collection area <textline bbox="145.220,303.862,608.306,321.862" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Horn has ~ 1m long depth of field, few mm wide collection area </textline>
+</textbox>
+<textbox id="8" bbox="217.250,282.262,413.396,300.262" size="18.0">so can use less dense target <textline bbox="217.250,282.262,413.396,300.262" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">so can use less dense target </textline>
+</textbox>
+<textbox id="9" bbox="73.224,239.057,528.488,257.081" size="18.024">&#8226; High heat capacity, so dE/dx produces less temperature rise <textline bbox="73.224,239.057,528.488,257.081" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.024" colourspace="DeviceGray">&#8226; High heat capacity, so dE/dx produces less temperature rise </textline>
+</textbox>
+<textbox id="10" bbox="73.224,195.842,695.228,213.842" size="18.0">&#8226; Low coefficient of thermal expansion, so temperature rise produces less expansion <textline bbox="73.224,195.842,695.228,213.842" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; Low coefficient of thermal expansion, so temperature rise produces less expansion </textline>
+</textbox>
+<textbox id="11" bbox="73.224,152.642,567.176,170.642" size="18.0">&#8226; Low Youngs Modulus, so thermal expansion produces less stress <textline bbox="73.224,152.642,567.176,170.642" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; Low Youngs Modulus, so thermal expansion produces less stress </textline>
+</textbox>
+<textbox id="12" bbox="73.224,109.412,239.252,127.412" size="18.0">&#8226; High yield strength <textline bbox="73.224,109.412,239.252,127.412" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; High yield strength </textline>
+</textbox>
+<textbox id="13" bbox="73.224,44.616,529.128,84.216" size="18.0">Beryllium has high yield strength, but high Youngs Modulus 
+Graphite has mediocre yield strength, but low Youngs Modulus <textline bbox="73.224,66.216,509.076,84.216" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Beryllium has high yield strength, but high Youngs Modulus </textline>
+<textline bbox="73.224,44.616,529.128,62.616" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Graphite has mediocre yield strength, but low Youngs Modulus </textline>
+</textbox>
+<textbox id="14" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="15" bbox="657.480,11.597,664.815,23.621" size="12.024">4 <textline bbox="657.480,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">4 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.2.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image38" bbox="214.080,475.860,537.420,529.200" src="Image38.899x149.bmp" width="323" height="53">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="173.020,491.993,577.104,516.017" size="24.024">NuMI baffle as prototype of target <textline bbox="173.020,491.993,577.104,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">NuMI baffle as prototype of target </textline>
+</textbox>
+<textbox id="1" bbox="89.976,452.092,445.458,470.092" size="18.0">Graphite is good in compression, poor in tension, <textline bbox="89.976,452.092,445.458,470.092" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">Graphite is good in compression, poor in tension, </textline>
+</textbox>
+<textbox id="2" bbox="103.420,430.492,606.790,448.492" size="18.0">so put pre-stress at outer radius by encapsulating in aluminum or steel <textline bbox="103.420,430.492,606.790,448.492" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">so put pre-stress at outer radius by encapsulating in aluminum or steel </textline>
+</textbox>
+<textbox id="3" bbox="73.224,119.037,695.232,137.061" size="18.024">Existing NuMI baffle is 1.5 m long, 6 cm diameter graphite encapsulated in aluminum <textline bbox="73.224,119.037,695.232,137.061" font="TimesNewRomanPSMT" ncolour="0" size="18.024" colourspace="DeviceGray">Existing NuMI baffle is 1.5 m long, 6 cm diameter graphite encapsulated in aluminum </textline>
+</textbox>
+<textbox id="4" bbox="73.224,75.816,637.528,93.816" size="18.0">Target would be 1 m long, 1.5 cm diameter &#8211; not too different from our baffle; <textline bbox="73.224,75.816,637.528,93.816" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">Target would be 1 m long, 1.5 cm diameter &#8211; not too different from our baffle; </textline>
+</textbox>
+<textbox id="5" bbox="145.220,54.216,505.184,72.216" size="18.0">get rid of air cooling fins, add water cooling tubes <textline bbox="145.220,54.216,505.184,72.216" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">get rid of air cooling fins, add water cooling tubes </textline>
+</textbox>
+<textbox id="6" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="7" bbox="657.480,11.597,664.815,23.621" size="12.024">5 <textline bbox="657.480,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">5 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.3.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image42" bbox="157.920,475.860,593.700,529.200" src="Image42.1211x149.bmp" width="435" height="53">
+</figure>
+<figure name="Image44" bbox="90.000,149.760,606.000,414.000" src="Image44.jpg" width="516" height="264">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="259.540,491.993,490.603,516.017" size="24.024">Other target details <textline bbox="259.540,491.993,490.603,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Other target details </textline>
+</textbox>
+<textbox id="1" bbox="67.224,393.892,631.434,455.092" size="18.0">&#8226; Graphite in 3 cm long segments with 0.2mm gaps for thermal expansion 
+&#8226; Helium atmosphere in target to prevent possibility of oxidation 
+&#8226; Encapsulation also maintains integrity of the target core in case of thermo- <textline bbox="67.224,437.092,615.072,455.092" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; Graphite in 3 cm long segments with 0.2mm gaps for thermal expansion </textline>
+<textline bbox="67.224,415.492,547.824,433.492" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; Helium atmosphere in target to prevent possibility of oxidation </textline>
+<textline bbox="67.224,393.892,631.434,411.892" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; Encapsulation also maintains integrity of the target core in case of thermo- </textline>
+</textbox>
+<textbox id="2" bbox="94.224,372.287,458.074,390.311" size="18.024">mechanical or radiation damage of some segments <textline bbox="94.224,372.287,458.074,390.311" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.024" colourspace="DeviceGray">mechanical or radiation damage of some segments </textline>
+</textbox>
+<textbox id="3" bbox="67.224,344.902,73.524,362.902" size="18.0">&#8226; <textline bbox="67.224,344.902,73.524,362.902" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="4" bbox="67.224,300.262,73.524,318.262" size="18.0">&#8226; <textline bbox="67.224,300.262,73.524,318.262" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="5" bbox="94.224,300.262,673.942,362.902" size="18.0">Encapsulation also prevents direct contact of the cooling water with the heated  
+surface of graphite while providing a good thermal contact 
+Study was done with Poco ZXF-5Q graphite (what we have in the NuMI target), <textline bbox="98.664,344.902,671.192,362.902" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Encapsulation also prevents direct contact of the cooling water with the heated  </textline>
+<textline bbox="94.224,321.862,517.260,339.862" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">surface of graphite while providing a good thermal contact </textline>
+<textline bbox="94.224,300.262,673.942,318.262" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Study was done with Poco ZXF-5Q graphite (what we have in the NuMI target), </textline>
+</textbox>
+<textbox id="6" bbox="139.220,278.662,648.888,296.662" size="18.0">although other graphites have up to 30% better Yield/Youngs-Modulus <textline bbox="139.220,278.662,648.888,296.662" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">although other graphites have up to 30% better Yield/Youngs-Modulus </textline>
+</textbox>
+<textbox id="7" bbox="67.224,235.442,645.072,253.442" size="18.0">Pre-stress:  ~ 10 MPa if 0.2 mm steel casing, ~13 MPa if 1mm aluminum casing <textline bbox="67.224,235.442,645.072,253.442" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Pre-stress:  ~ 10 MPa if 0.2 mm steel casing, ~13 MPa if 1mm aluminum casing </textline>
+</textbox>
+<textbox id="8" bbox="67.224,192.242,287.634,210.242" size="18.0">Beam spot size:  1.5 mm RMS <textline bbox="67.224,192.242,287.634,210.242" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Beam spot size:  1.5 mm RMS </textline>
+</textbox>
+<textbox id="9" bbox="67.224,149.042,245.784,167.042" size="18.0">Energy deposition (kW): <textline bbox="67.224,149.042,245.784,167.042" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Energy deposition (kW): </textline>
+</textbox>
+<textbox id="10" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="11" bbox="657.480,11.597,664.815,23.621" size="12.024">6 <textline bbox="657.480,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">6 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.4.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image47" bbox="244.440,475.860,507.180,529.200" src="Image47.730x149.bmp" width="262" height="53">
+</figure>
+<figure name="Image49" bbox="258.000,54.000,672.000,186.000" src="Image49.4.1000x319.png" width="414" height="132">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="156.550,491.993,593.450,516.017" size="24.024">Energy deposition (MARS Monte Carlo) <textline bbox="156.550,491.993,593.450,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Energy deposition (MARS Monte Carlo) </textline>
+</textbox>
+<textbox id="1" bbox="237.460,61.416,428.602,79.416" size="18.0">Distance along target (cm) <textline bbox="237.460,61.416,428.602,79.416" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">Distance along target (cm) </textline>
+</textbox>
+<textbox id="2" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="3" bbox="657.480,11.597,664.815,23.621" size="12.024">7 <textline bbox="657.480,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">7 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.5.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image52" bbox="141.480,475.860,610.020,529.200" src="Image52.1302x149.bmp" width="468" height="53">
+</figure>
+<figure name="Image54" bbox="108.000,66.000,546.000,480.000" src="Image54.4.1217x1150.png" width="438" height="414">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="161.470,491.993,588.376,516.017" size="24.024">Target temperature and cooling water <textline bbox="161.470,491.993,588.376,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Target temperature and cooling water </textline>
+</textbox>
+<textbox id="1" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="2" bbox="657.480,11.597,664.815,23.621" size="12.024">8 <textline bbox="657.480,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">8 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.6.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image57" bbox="146.400,475.860,605.100,529.200" src="Image57.1275x149.bmp" width="458" height="53">
+</figure>
+<figure name="Image59" bbox="126.000,259.320,594.000,480.000" src="Image59.4.1167x550.png" width="468" height="220">
+</figure>
+<figure name="Image60" bbox="120.000,42.240,594.000,270.000" src="Image60.4.1317x633.png" width="474" height="227">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="149.350,494.522,648.562,514.586" size="20.064">Time evolution of stresses (sigma1 and sigma3 shown) <textline bbox="149.350,494.522,648.562,514.586" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="20.064" colourspace="DeviceGray">Time evolution of stresses (sigma1 and sigma3 shown) </textline>
+</textbox>
+<textbox id="1" bbox="420.020,428.092,570.932,446.092" size="18.0">Midpoint of segment <textline bbox="420.020,428.092,570.932,446.092" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">Midpoint of segment </textline>
+</textbox>
+<textbox id="2" bbox="420.020,320.062,601.928,338.062" size="18.0">Center of end of segment <textline bbox="420.020,320.062,601.928,338.062" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">Center of end of segment </textline>
+</textbox>
+<textbox id="3" bbox="420.020,190.442,623.924,208.442" size="18.0">Outer radius end of segment <textline bbox="420.020,190.442,623.924,208.442" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">Outer radius end of segment </textline>
+</textbox>
+<textbox id="4" bbox="420.020,104.012,641.870,122.012" size="18.0">Outer radius center of segment <textline bbox="420.020,104.012,641.870,122.012" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">Outer radius center of segment </textline>
+</textbox>
+<textbox id="5" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="6" bbox="657.480,11.597,664.815,23.621" size="12.024">9 <textline bbox="657.480,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">9 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.7.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image63" bbox="136.800,480.900,662.820,525.600" src="Image63.1462x125.bmp" width="526" height="44">
+</figure>
+<figure name="Image65" bbox="72.000,48.000,390.000,474.000" src="Image65.4.1155x1546.png" width="318" height="426">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="231.700,491.993,518.258,516.017" size="24.024">Compare stress to failure <textline bbox="231.700,491.993,518.258,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Compare stress to failure </textline>
+</textbox>
+<textbox id="1" bbox="85.224,399.892,566.868,461.092" size="18.0">Taking into account decrease of yield strength of 0.5 due to fatigue 
+and applying Mohr-Coulomb criteria, the safety factors  
+(failure stress divided by calculated stress) are: <textline bbox="85.224,443.092,566.868,461.092" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Taking into account decrease of yield strength of 0.5 due to fatigue </textline>
+<textline bbox="94.224,421.492,496.856,439.492" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">and applying Mohr-Coulomb criteria, the safety factors  </textline>
+<textline bbox="94.224,399.892,432.316,417.892" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">(failure stress divided by calculated stress) are: </textline>
+</textbox>
+<textbox id="2" bbox="83.976,164.042,425.382,182.042" size="18.0">Hence calculation says graphite should not fail. <textline bbox="83.976,164.042,425.382,182.042" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Hence calculation says graphite should not fail. </textline>
+</textbox>
+<textbox id="3" bbox="83.976,120.837,672.315,138.861" size="18.024">(However, even if a segment fails, there is really no place for it to fall apart into?) <textline bbox="83.976,120.837,672.315,138.861" font="TimesNewRomanPSMT" ncolour="0" size="18.024" colourspace="DeviceGray">(However, even if a segment fails, there is really no place for it to fall apart into?) </textline>
+</textbox>
+<textbox id="4" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="5" bbox="652.080,11.597,664.815,23.621" size="12.024">10 <textline bbox="652.080,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">10 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.8.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image68" bbox="216.600,475.860,534.900,529.200" src="Image68.885x149.bmp" width="318" height="53">
+</figure>
+<figure name="Image70" bbox="78.000,218.400,636.000,390.000" src="Image70.4.1300x400.png" width="558" height="171">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="255.580,491.993,494.379,516.017" size="24.024">Target cooling design <textline bbox="255.580,491.993,494.379,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Target cooling design </textline>
+</textbox>
+<textbox id="1" bbox="79.224,403.492,652.164,443.092" size="18.0">Water in the cooling tube would experience 2 ksi hydraulic shock from heating  
+by the beam spill.  Two ways have been suggested to reduce this: <textline bbox="79.224,425.092,652.164,443.092" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Water in the cooling tube would experience 2 ksi hydraulic shock from heating  </textline>
+<textline bbox="79.224,403.492,547.998,421.492" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">by the beam spill.  Two ways have been suggested to reduce this: </textline>
+</textbox>
+<textbox id="2" bbox="79.224,360.287,577.425,378.311" size="18.024">&#8226; Two phase flow &#8211; e.g. bubble helium through the water similar to <textline bbox="79.224,360.287,577.425,378.311" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.024" colourspace="DeviceGray">&#8226; Two phase flow &#8211; e.g. bubble helium through the water similar to </textline>
+</textbox>
+<textbox id="3" bbox="151.220,338.662,549.880,357.358" size="18.0">what we did when the 1st NuMI target developed a leak <textline bbox="151.220,338.662,549.880,357.358">what we did when the 1st NuMI target developed a leak <text font="TimesNewRomanPSMT" bbox="151.220,338.662,164.216,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">w</text>
+<text font="TimesNewRomanPSMT" bbox="164.216,338.662,173.216,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">h</text>
+<text font="TimesNewRomanPSMT" bbox="173.216,338.662,181.208,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="181.208,338.662,186.212,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="186.212,338.662,190.712,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="190.712,338.662,203.708,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">w</text>
+<text font="TimesNewRomanPSMT" bbox="203.708,338.662,211.700,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="211.700,338.662,216.200,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="216.236,338.662,225.236,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="225.236,338.662,230.240,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="230.240,338.662,239.240,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="239.240,338.662,243.740,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="243.740,338.662,256.736,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">w</text>
+<text font="TimesNewRomanPSMT" bbox="256.682,338.662,265.682,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">h</text>
+<text font="TimesNewRomanPSMT" bbox="265.682,338.662,273.674,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="273.674,338.662,282.674,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="282.674,338.662,287.174,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="287.174,338.662,292.178,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="292.178,338.662,301.178,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">h</text>
+<text font="TimesNewRomanPSMT" bbox="301.178,338.662,309.170,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="309.224,338.662,313.724,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="313.670,338.662,322.670,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">1</text>
+<text font="TimesNewRomanPSMT" bbox="322.750,345.358,327.418,357.358" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="12.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="327.430,345.358,330.766,357.358" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="12.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="335.230,338.662,348.226,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">N</text>
+<text font="TimesNewRomanPSMT" bbox="348.226,338.662,357.226,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">u</text>
+<text font="TimesNewRomanPSMT" bbox="357.226,338.662,373.228,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">M</text>
+<text font="TimesNewRomanPSMT" bbox="373.156,338.662,379.150,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">I</text>
+<text font="TimesNewRomanPSMT" bbox="379.150,338.662,383.650,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="383.812,338.662,388.816,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="388.816,338.662,396.808,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="396.880,338.662,402.874,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="402.514,338.662,411.514,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">g</text>
+<text font="TimesNewRomanPSMT" bbox="411.514,338.662,419.506,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="419.506,338.662,424.510,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="424.582,338.662,429.082,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="428.902,338.662,437.902,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="437.902,338.662,445.894,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="445.894,338.662,454.894,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">v</text>
+<text font="TimesNewRomanPSMT" bbox="454.894,338.662,462.886,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="462.958,338.662,467.962,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="467.962,338.662,476.962,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="476.962,338.662,485.962,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">p</text>
+<text font="TimesNewRomanPSMT" bbox="485.962,338.662,493.954,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="494.026,338.662,503.026,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="503.026,338.662,507.526,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="507.346,338.662,515.338,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="515.338,338.662,519.838,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="519.838,338.662,524.842,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="524.842,338.662,532.834,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="532.888,338.662,540.880,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="540.880,338.662,549.880,356.662" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.8)" size="18.000">k</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="79.224,295.462,367.184,313.462" size="18.0">&#8226; Use &#8220;heat pipe&#8221; evaporative cooling <textline bbox="79.224,295.462,367.184,313.462" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">&#8226; Use &#8220;heat pipe&#8221; evaporative cooling </textline>
+</textbox>
+<textbox id="5" bbox="79.224,252.257,621.116,270.281" size="18.024">Work is needed to prototype and evaluate these and possibly other schemes <textline bbox="79.224,252.257,621.116,270.281" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.024" colourspace="DeviceGray">Work is needed to prototype and evaluate these and possibly other schemes </textline>
+</textbox>
+<textbox id="6" bbox="79.224,144.242,651.534,183.842" size="18.0">Further work is also needed on window design, although calculations for use of 
+graphite windows is encouraging. <textline bbox="79.224,165.842,651.534,183.842" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">Further work is also needed on window design, although calculations for use of </textline>
+<textline bbox="83.664,144.242,326.700,162.242" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="18.000" colourspace="DeviceGray">graphite windows is encouraging. </textline>
+</textbox>
+<textbox id="7" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="8" bbox="654.000,11.597,664.811,23.621" size="12.024">11 <textline bbox="654.000,11.597,664.811,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">11 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.9.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image73" bbox="240.480,475.860,511.020,529.200" src="Image73.752x149.bmp" width="270" height="53">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="278.020,491.993,471.918,516.017" size="24.024">Radiation damage <textline bbox="278.020,491.993,471.918,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Radiation damage </textline>
+</textbox>
+<textbox id="1" bbox="49.200,354.262,622.770,437.092" size="18.0">Although radiation damage data is not available for ZXF-5Q, 
+neutron damage data for AXFQ and AXZQ indicate that for one year operation  
+&#8226; 
+&#8226; <textline bbox="49.200,419.092,490.756,437.092" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">Although radiation damage data is not available for ZXF-5Q, </textline>
+<textline bbox="49.200,397.492,622.770,415.492" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">neutron damage data for AXFQ and AXZQ indicate that for one year operation  </textline>
+<textline bbox="49.200,375.892,55.500,393.892" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="49.200,354.262,55.500,372.262" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="2" bbox="76.224,289.462,599.142,393.892" size="18.0">dimensional changes are not very large 
+two times decrease of the thermal expansion coefficient will compensate 
+approximately the same increase of the modulus of elasticity keeping 
+by this means stresses constant 
+the strength of graphite increases with irradiation over this period <textline bbox="76.224,375.892,357.366,393.892" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">dimensional changes are not very large </textline>
+<textline bbox="76.224,354.262,599.142,372.262" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">two times decrease of the thermal expansion coefficient will compensate </textline>
+<textline bbox="76.224,332.662,574.554,350.662" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">approximately the same increase of the modulus of elasticity keeping </textline>
+<textline bbox="76.224,311.062,299.118,329.062" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">by this means stresses constant </textline>
+<textline bbox="76.224,289.462,547.644,307.462" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">the strength of graphite increases with irradiation over this period </textline>
+</textbox>
+<textbox id="3" bbox="49.200,289.462,55.500,307.462" size="18.0">&#8226; <textline bbox="49.200,289.462,55.500,307.462" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="4" bbox="49.200,246.257,551.817,264.281" size="18.024">(for a 40 GeV proton beam, radiation damage is about 3 times as fast) <textline bbox="49.200,246.257,551.817,264.281" font="TimesNewRomanPSMT" ncolour="0" size="18.024" colourspace="DeviceGray">(for a 40 GeV proton beam, radiation damage is about 3 times as fast) </textline>
+</textbox>
+<textbox id="5" bbox="49.200,203.042,463.866,221.042" size="18.0">So currently estimate radiation damage lifetime as 1 year. <textline bbox="49.200,203.042,463.866,221.042" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">So currently estimate radiation damage lifetime as 1 year. </textline>
+</textbox>
+<textbox id="6" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="7" bbox="652.080,11.597,664.815,23.621" size="12.024">12 <textline bbox="652.080,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">12 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.10.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image77" bbox="262.920,475.860,488.580,529.200" src="Image77.627x149.bmp" width="225" height="53">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="188.020,491.993,561.857,516.017" size="24.024">Efficiency of neutrino generation <textline bbox="188.020,491.993,561.857,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Efficiency of neutrino generation </textline>
+</textbox>
+<textbox id="1" bbox="97.224,69.816,594.006,131.012" size="18.0">The  &#8220;2MW&#8221; target is about 10% less efficient at neutrino generation 
+than a 0.4 MW &#8220;Medium Energy&#8221; target  
+(ME target is more optimized to NoVA than the existing LE target) <textline bbox="97.224,113.012,594.006,131.012" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">The  &#8220;2MW&#8221; target is about 10% less efficient at neutrino generation </textline>
+<textline bbox="106.220,91.416,401.258,109.416" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">than a 0.4 MW &#8220;Medium Energy&#8221; target  </textline>
+<textline bbox="97.224,69.816,578.706,87.816" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="DeviceGray">(ME target is more optimized to NoVA than the existing LE target) </textline>
+</textbox>
+<textbox id="2" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="3" bbox="652.080,11.597,664.815,23.621" size="12.024">13 <textline bbox="652.080,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">13 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.11.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image81" bbox="172.920,475.860,578.580,529.200" src="Image81.1127x149.bmp" width="405" height="53">
+</figure>
+<figure name="Image83" bbox="60.000,141.360,636.000,471.480" src="Image83.4.1367x783.png" width="576" height="330">
+</figure>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="145.870,491.993,604.176,516.017" size="24.024">Neutrinos vs. length and radius of target <textline bbox="145.870,491.993,604.176,516.017" font="BCDEEE+ComicSansMS" ncolour="(0.2, 0.2, 0.8)" size="24.024" colourspace="DeviceGray">Neutrinos vs. length and radius of target </textline>
+</textbox>
+<textbox id="1" bbox="217.250,457.453,403.423,473.413" size="15.96">Distance of Target from horn <textline bbox="217.250,457.453,403.423,473.413" font="TimesNewRomanPSMT" ncolour="(0.2, 0.2, 0.8)" size="15.960" colourspace="DeviceGray">Distance of Target from horn </textline>
+</textbox>
+<textbox id="2" bbox="463.300,451.453,619.181,467.413" size="15.96">Selected operating point <textline bbox="463.300,451.453,619.181,467.413" font="TimesNewRomanPSMT" ncolour="(1, 0.4, 0)" size="15.960" colourspace="DeviceGray">Selected operating point </textline>
+</textbox>
+<textbox id="3" bbox="157.150,9.706,542.199,23.770" size="14.064">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen <textline bbox="157.150,9.706,542.199,23.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Nov. 12, 2007 Project X Workshop &#8211; IHEP 2MW Target - Jim Hylen </textline>
+</textbox>
+<textbox id="4" bbox="652.080,11.597,664.815,23.621" size="12.024">14 <textline bbox="652.080,11.597,664.815,23.621" font="BCDEEE+ComicSansMS" ncolour="0" size="12.024" colourspace="DeviceGray">14 </textline>
+</textbox>
+<figure name="Image7" bbox="12.000,462.000,78.000,528.000" src="Image7.12.208x208.bmp" width="66" height="66">
+</figure>
+<figure name="Image86" bbox="130.800,475.860,620.820,529.200" src="Image86.1362x149.bmp" width="490" height="53">
+</figure>
+<figure name="Image88" bbox="-0.000,116.520,720.000,450.000" src="Image88.4.1367x633.png" width="720" height="333">
+</figure>
+</page>
+</pages>

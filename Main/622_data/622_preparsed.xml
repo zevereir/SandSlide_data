@@ -1,0 +1,1827 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="99.912,255.905,629.862,379.639" size="34.648">Intermediate Asset Management  
+Training 
+State of Indiana <textline bbox="99.912,339.679,629.862,379.639" font="TimesNewRomanPSMT" ncolour="1" size="39.960" colourspace="DeviceGray">Intermediate Asset Management  </textline>
+<textline bbox="291.100,291.679,428.922,331.639" font="TimesNewRomanPSMT" ncolour="1" size="39.960" colourspace="DeviceGray">Training </textline>
+<textline bbox="273.100,255.905,441.004,279.929" font="ArialMT" ncolour="0.918" size="24.024" colourspace="DeviceGray">State of Indiana </textline>
+</textbox>
+<textbox id="1" bbox="103.220,57.864,333.644,81.864" size="24.0">Instructor:  Bob Hegyi <textline bbox="103.220,57.864,333.644,81.864" font="ArialMT" ncolour="0.918" size="24.000" colourspace="DeviceGray">Instructor:  Bob Hegyi </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="588.000,477.000,694.560,522.000" src="Image14.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="306.460,421.387,443.645,465.427" size="44.04">Agenda <textline bbox="306.460,421.387,443.645,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Agenda </textline>
+</textbox>
+<textbox id="1" bbox="97.224,323.350,268.052,381.959" size="24.012">&#8226; Welcome 
+&#8226; Expectations: <textline bbox="97.224,357.935,224.232,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Welcome </textline>
+<textline bbox="97.224,323.350,268.052,347.350" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Expectations: </textline>
+</textbox>
+<textbox id="2" bbox="133.220,121.717,405.938,314.582" size="20.043428571428567">&#8211; Manual Additions 
+&#8211; Adjustments / Transfers 
+&#8211; Retirement / Reinstatement 
+&#8211; Integration Process 
+&#8211; Consolidation / Unitization 
+&#8211; Parent-Child Assets 
+&#8211; Correcting ChartField Errors <textline bbox="133.220,294.542,309.286,314.582" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Manual Additions </textline>
+<textline bbox="133.220,265.742,367.002,285.782" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Adjustments / Transfers </textline>
+<textline bbox="133.220,236.922,399.186,256.962" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Retirement / Reinstatement </textline>
+<textline bbox="133.220,208.122,328.104,228.162" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Integration Process </textline>
+<textline bbox="133.220,179.322,387.202,199.362" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Consolidation / Unitization </textline>
+<textline bbox="133.220,150.522,332.732,170.562" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Parent-Child Assets </textline>
+<textline bbox="133.220,121.717,405.938,141.781" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; Correcting ChartField Errors </textline>
+</textbox>
+<textbox id="3" bbox="669.000,28.036,676.806,42.076" size="14.04">2 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">2 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.0.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.0.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.0.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="261.220,421.387,488.863,465.427" size="44.04">Expectations <textline bbox="261.220,421.387,488.863,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Expectations </textline>
+</textbox>
+<textbox id="1" bbox="97.224,357.935,314.995,381.959" size="24.024">&#8226; Refresher course: <textline bbox="97.224,357.935,314.995,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Refresher course: </textline>
+</textbox>
+<textbox id="2" bbox="133.220,300.302,558.063,349.142" size="20.04">&#8211; AM presentation and process demonstrations 
+&#8211; PM open lab to complete exercises (optional) <textline bbox="133.220,329.102,558.063,349.142" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; AM presentation and process demonstrations </textline>
+<textline bbox="133.220,300.302,555.818,320.342" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; PM open lab to complete exercises (optional) </textline>
+</textbox>
+<textbox id="3" bbox="97.224,265.750,315.044,289.750" size="24.0">&#8226; Using the system: <textline bbox="97.224,265.750,315.044,289.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Using the system: </textline>
+</textbox>
+<textbox id="4" bbox="133.220,236.922,608.123,256.962" size="20.04">&#8211; Primary focus will be on the ENCOMPASS system  <textline bbox="133.220,236.922,608.123,256.962" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Primary focus will be on the ENCOMPASS system  </textline>
+</textbox>
+<textbox id="5" bbox="155.780,212.922,270.529,232.962" size="20.04">and changes <textline bbox="155.780,212.922,270.529,232.962" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">and changes </textline>
+</textbox>
+<textbox id="6" bbox="133.220,184.122,560.207,204.162" size="20.04">&#8211; Training database used for demos / exercises <textline bbox="133.220,184.122,560.207,204.162" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Training database used for demos / exercises </textline>
+</textbox>
+<textbox id="7" bbox="669.000,28.036,676.806,42.076" size="14.04">3 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">3 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.1.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.1.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.1.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="210.580,421.387,539.383,465.427" size="44.04">Training Materials <textline bbox="210.580,421.387,539.383,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Training Materials </textline>
+</textbox>
+<textbox id="1" bbox="97.224,265.750,360.332,384.839" size="24.006">&#8226; Presentation 
+&#8226; Exercises 
+&#8226; Participant Data sheet 
+&#8226; Training Manual  <textline bbox="97.224,360.815,258.947,384.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Presentation </textline>
+<textline bbox="97.224,329.110,228.068,353.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Exercises </textline>
+<textline bbox="97.224,297.430,360.332,321.430" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Participant Data sheet </textline>
+<textline bbox="97.224,265.750,302.948,289.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Training Manual  </textline>
+</textbox>
+<textbox id="2" bbox="97.224,175.962,611.204,226.370" size="22.02">&#8226; Materials available on ENCOMPASS website: 
+&#8211; ENCOMPASS Documents &gt; Training &gt; Asset  <textline bbox="97.224,202.370,611.204,226.370" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Materials available on ENCOMPASS website: </textline>
+<textline bbox="133.220,175.962,563.594,196.002" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; ENCOMPASS Documents &gt; Training &gt; Asset  </textline>
+</textbox>
+<textbox id="3" bbox="155.780,154.362,328.124,174.402" size="20.04">Management Class <textline bbox="155.780,154.362,328.124,174.402" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Management Class </textline>
+</textbox>
+<textbox id="4" bbox="669.000,28.036,676.806,42.076" size="14.04">4 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.2.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.2.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.2.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.630,421.387,610.065,465.427" size="44.04">Ground Rules for Training <textline bbox="139.630,421.387,610.065,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Ground Rules for Training </textline>
+</textbox>
+<textbox id="1" bbox="97.224,254.225,545.889,381.959" size="24.012">&#8226; Please be on time. 
+&#8226; Put cell phones on vibrate. 
+&#8226; Forget about the &#8220;office.&#8221; 
+&#8226; Stay focused on &#8220;Learning the System.&#8221; <textline bbox="97.224,357.935,323.139,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Please be on time. </textline>
+<textline bbox="97.224,323.350,407.036,347.350" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Put cell phones on vibrate. </textline>
+<textline bbox="97.224,288.790,387.044,312.790" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Forget about the &#8220;office.&#8221; </textline>
+<textline bbox="97.224,254.225,545.889,278.249" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Stay focused on &#8220;Learning the System.&#8221; </textline>
+</textbox>
+<textbox id="2" bbox="133.220,219.650,382.556,243.650" size="24.0">&#8211; No reading of emails. <textline bbox="133.220,219.650,382.556,243.650" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; No reading of emails. </textline>
+</textbox>
+<textbox id="3" bbox="97.224,115.940,428.396,209.090" size="24.0">&#8226; Ask questions. 
+&#8226; Limit sidebar conversations.  
+&#8226; Respect others. <textline bbox="97.224,185.090,280.196,209.090" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Ask questions. </textline>
+<textline bbox="97.224,150.530,428.396,174.530" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Limit sidebar conversations.  </textline>
+<textline bbox="97.224,115.940,292.364,139.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Respect others. </textline>
+</textbox>
+<textbox id="4" bbox="669.000,28.036,676.806,42.076" size="14.04">5 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">5 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.3.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.3.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.3.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="61.224,310.069,442.148,380.509" size="32.04">Chapter  1 
+Asset Management Overview <textline bbox="61.224,348.469,194.510,380.509" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Chapter  1 </textline>
+<textline bbox="61.224,310.069,442.148,342.109" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Asset Management Overview </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.4.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="164.590,421.387,585.568,465.427" size="44.04">AM Business Processes <textline bbox="164.590,421.387,585.568,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">AM Business Processes </textline>
+</textbox>
+<textbox id="1" bbox="229.300,339.580,283.555,360.630" size="9.0">Plan Capital 
+Acquisitions <textline bbox="229.300,351.630,280.852,360.630" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Plan Capital </textline>
+<textline bbox="229.510,339.580,283.555,348.580" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Acquisitions </textline>
+</textbox>
+<textbox id="2" bbox="324.050,333.680,405.671,366.530" size="9.0">Purchase, Lease, 
+or Build Asset with 
+Acquisition Details <textline bbox="327.550,357.530,401.134,366.530" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Purchase, Lease, </textline>
+<textline bbox="324.050,345.580,405.671,354.580" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">or Build Asset with </textline>
+<textline bbox="324.220,333.680,405.247,342.680" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Acquisition Details </textline>
+</textbox>
+<textbox id="3" bbox="437.830,333.680,506.752,366.530" size="9.0">Capitalize Asset 
+via Integration/ 
+Interfacing <textline bbox="437.830,357.530,506.752,366.530" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Capitalize Asset </textline>
+<textline bbox="440.860,345.580,504.985,354.580" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">via Integration/ </textline>
+<textline bbox="450.240,333.680,496.374,342.680" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Interfacing </textline>
+</textbox>
+<textbox id="4" bbox="196.540,280.010,274.696,301.060" size="9.0">Retire and 
+Dispose of Assets <textline bbox="213.380,292.060,257.354,301.060" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Retire and </textline>
+<textline bbox="196.540,280.010,274.696,289.010" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Dispose of Assets </textline>
+</textbox>
+<textbox id="5" bbox="188.930,225.560,262.082,246.610" size="9.0">Perform Physical 
+Inventory <textline bbox="188.930,237.610,262.082,246.610" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Perform Physical </textline>
+<textline bbox="206.040,225.560,246.558,234.560" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Inventory </textline>
+</textbox>
+<textbox id="6" bbox="193.920,164.980,258.522,197.859" size="9.008000000000001">Track Physical 
+Asset Location 
+and Custodian <textline bbox="194.300,188.835,257.026,197.859" font="Arial-BoldMT" ncolour="0" size="9.024" colourspace="DeviceGray">Track Physical </textline>
+<textline bbox="193.920,176.770,258.522,185.770" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Asset Location </textline>
+<textline bbox="194.400,164.980,256.977,173.980" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">and Custodian </textline>
+</textbox>
+<textbox id="7" bbox="200.660,105.410,269.798,138.250" size="9.0">Track Insurance 
+Replacement 
+Value <textline bbox="200.660,129.250,269.798,138.250" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Track Insurance </textline>
+<textline bbox="207.020,117.290,263.216,126.290" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Replacement </textline>
+<textline bbox="223.660,105.410,247.726,114.410" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Value </textline>
+</textbox>
+<textbox id="8" bbox="451.820,259.180,530.417,292.040" size="9.0">Track and Manage 
+Capital and 
+Operating Leases <textline bbox="451.820,283.040,530.417,292.040" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Track and Manage </textline>
+<textline bbox="468.340,271.250,516.868,280.250" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Capital and </textline>
+<textline bbox="454.080,259.180,529.698,268.180" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Operating Leases </textline>
+</textbox>
+<textbox id="9" bbox="468.460,205.610,536.401,226.570" size="9.0">Adjust and 
+Transfer Assets <textline bbox="479.590,217.570,526.075,226.570" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Adjust and </textline>
+<textline bbox="468.460,205.610,536.401,214.610" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Transfer Assets </textline>
+</textbox>
+<textbox id="10" bbox="464.230,155.960,540.361,176.840" size="9.0">Perform Financial 
+Accounting <textline bbox="464.230,167.840,540.361,176.840" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Perform Financial </textline>
+<textline bbox="478.490,155.960,527.981,164.960" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Accounting </textline>
+</textbox>
+<textbox id="11" bbox="466.080,106.180,522.378,127.090" size="9.0">Perform Tax 
+Calculations <textline bbox="466.080,118.090,518.586,127.090" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Perform Tax </textline>
+<textline bbox="468.720,106.180,522.378,115.180" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Calculations </textline>
+</textbox>
+<textbox id="12" bbox="218.160,56.742,291.366,77.526" size="9.0">Track Warranties 
+and Maintenance <textline bbox="218.160,68.526,291.267,77.526" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Track Warranties </textline>
+<textline bbox="218.160,56.742,291.366,65.742" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">and Maintenance </textline>
+</textbox>
+<textbox id="13" bbox="327.070,56.742,400.654,77.526" size="9.0">Track Regulatory 
+Compliance <textline bbox="327.070,68.526,400.654,77.526" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Track Regulatory </textline>
+<textline bbox="338.690,56.742,389.855,65.742" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Compliance </textline>
+</textbox>
+<textbox id="14" bbox="436.340,62.526,508.862,71.526" size="9.0">Produce Reports <textline bbox="436.340,62.526,508.862,71.526" font="Arial-BoldMT" ncolour="0" size="9.000" colourspace="DeviceGray">Produce Reports </textline>
+</textbox>
+<textbox id="15" bbox="669.000,28.036,676.806,42.076" size="14.04">7 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">7 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.5.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.4.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.4.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="230.500,423.709,519.451,463.669" size="39.96">AM Process Flow <textline bbox="230.500,423.709,519.451,463.669" font="TimesNewRomanPSMT" ncolour="1" size="39.960" colourspace="DeviceGray">AM Process Flow </textline>
+</textbox>
+<textbox id="1" bbox="669.000,28.036,676.806,42.076" size="14.04">8 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.6.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.5.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.5.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="269.260,421.387,480.652,465.427" size="44.04">Data Tables <textline bbox="269.260,421.387,480.652,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Data Tables </textline>
+</textbox>
+<textbox id="1" bbox="76.392,372.215,143.041,384.239" size="12.024">Component <textline bbox="76.392,372.215,143.041,384.239" font="Arial-BoldMT" ncolour="1" size="12.024" colourspace="DeviceGray">Component </textline>
+</textbox>
+<textbox id="2" bbox="206.040,372.215,236.581,384.239" size="12.024">Table <textline bbox="206.040,372.215,236.581,384.239" font="Arial-BoldMT" ncolour="1" size="12.024" colourspace="DeviceGray">Table </textline>
+</textbox>
+<textbox id="3" bbox="316.580,372.215,423.221,384.239" size="12.024">Navigation to View <textline bbox="316.580,372.215,423.221,384.239" font="Arial-BoldMT" ncolour="1" size="12.024" colourspace="DeviceGray">Navigation to View </textline>
+</textbox>
+<textbox id="4" bbox="528.430,372.215,594.574,384.239" size="12.024">Description <textline bbox="528.430,372.215,594.574,384.239" font="Arial-BoldMT" ncolour="1" size="12.024" colourspace="DeviceGray">Description </textline>
+</textbox>
+<textbox id="5" bbox="61.224,333.790,127.296,360.190" size="12.0">Asset Basic  
+Information <textline bbox="61.224,348.190,127.296,360.190" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Asset Basic  </textline>
+<textline bbox="61.224,333.790,121.476,345.790" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Information </textline>
+</textbox>
+<textbox id="6" bbox="172.730,348.190,203.054,360.190" size="12.0">Asset <textline bbox="172.730,348.190,203.054,360.190">Asset <text font="Arial-BoldMT" bbox="172.730,348.190,181.394,360.190" colourspace="DeviceGray" ncolour="0" size="12.000">A</text>
+<text font="ArialMT" bbox="181.010,348.190,187.010,360.190" colourspace="DeviceGray" ncolour="0" size="12.000">s</text>
+<text font="ArialMT" bbox="187.010,348.190,193.010,360.190" colourspace="DeviceGray" ncolour="0" size="12.000">s</text>
+<text font="ArialMT" bbox="193.010,348.190,199.682,360.190" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="ArialMT" bbox="199.718,348.190,203.054,360.190" colourspace="DeviceGray" ncolour="0" size="12.000">t</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="284.380,333.790,442.504,360.190" size="12.0">Asset Management &gt; Owned  
+Assets &gt; Basic Add <textline bbox="284.380,348.190,442.504,360.190" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Asset Management &gt; Owned  </textline>
+<textline bbox="284.380,333.790,387.448,345.790" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Assets &gt; Basic Add </textline>
+</textbox>
+<textbox id="8" bbox="470.160,304.990,654.816,360.190" size="12.0">Physical information (non- 
+financial) such as Description, Tag  
+Number, Status &amp; Manufacturer  
+Information <textline bbox="470.160,348.190,608.696,360.190" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Physical information (non- </textline>
+<textline bbox="470.160,333.790,654.816,345.790" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">financial) such as Description, Tag  </textline>
+<textline bbox="470.160,319.390,641.508,331.390" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Number, Status &amp; Manufacturer  </textline>
+<textline bbox="470.160,304.990,530.412,316.990" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Information </textline>
+</textbox>
+<textbox id="9" bbox="61.224,258.020,125.360,284.469" size="12.012">Asset Book  
+Definition <textline bbox="61.224,272.445,125.360,284.469" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Asset Book  </textline>
+<textline bbox="61.224,258.020,111.324,270.020" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Definition </textline>
+</textbox>
+<textbox id="10" bbox="172.730,272.445,200.822,284.469" size="12.024">Book <textline bbox="172.730,272.445,200.822,284.469">Book <text font="Arial-BoldMT" bbox="172.730,272.445,181.411,284.469" colourspace="DeviceGray" ncolour="0" size="12.024">B</text>
+<text font="ArialMT" bbox="181.370,272.445,188.055,284.469" colourspace="DeviceGray" ncolour="0" size="12.024">o</text>
+<text font="ArialMT" bbox="188.090,272.445,194.775,284.469" colourspace="DeviceGray" ncolour="0" size="12.024">o</text>
+<text font="ArialMT" bbox="194.810,272.445,200.822,284.469" colourspace="DeviceGray" ncolour="0" size="12.024">k</text>
+</textline>
+</textbox>
+<textbox id="11" bbox="284.380,229.220,442.544,284.469" size="12.006">Asset Management &gt; Owned  
+Assets &gt; Asset Book  
+Information &gt; Define Depr  
+Criteria <textline bbox="284.380,272.445,442.544,284.469" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Asset Management &gt; Owned  </textline>
+<textline bbox="284.380,258.020,397.552,270.020" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Assets &gt; Asset Book  </textline>
+<textline bbox="284.380,243.620,425.176,255.620" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Information &gt; Define Depr  </textline>
+<textline bbox="284.380,229.220,322.960,241.220" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Criteria </textline>
+</textbox>
+<textbox id="12" bbox="470.160,243.620,631.368,284.469" size="12.008000000000001">Depreciation Rules, such as  
+Method, Life, In Service Date,  
+Convention <textline bbox="470.160,272.445,622.360,284.469" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Depreciation Rules, such as  </textline>
+<textline bbox="470.160,258.020,631.368,270.020" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Method, Life, In Service Date,  </textline>
+<textline bbox="470.160,243.620,530.904,255.620" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Convention </textline>
+</textbox>
+<textbox id="13" bbox="61.224,182.140,145.440,208.540" size="12.0">Asset Cost  
+Adjust/ Transfer <textline bbox="61.224,196.540,122.604,208.540" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Asset Cost  </textline>
+<textline bbox="61.224,182.140,145.440,194.140" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Adjust/ Transfer </textline>
+</textbox>
+<textbox id="14" bbox="172.730,196.540,197.414,208.540" size="12.0">Cost <textline bbox="172.730,196.540,197.414,208.540">Cost <text font="Arial-BoldMT" bbox="172.730,196.540,181.394,208.540" colourspace="DeviceGray" ncolour="0" size="12.000">C</text>
+<text font="ArialMT" bbox="181.370,196.540,188.042,208.540" colourspace="DeviceGray" ncolour="0" size="12.000">o</text>
+<text font="ArialMT" bbox="188.078,196.540,194.078,208.540" colourspace="DeviceGray" ncolour="0" size="12.000">s</text>
+<text font="ArialMT" bbox="194.078,196.540,197.414,208.540" colourspace="DeviceGray" ncolour="0" size="12.000">t</text>
+</textline>
+</textbox>
+<textbox id="15" bbox="284.380,167.740,452.584,208.540" size="12.0">Asset Management &gt; Financial  
+Transactions &gt; Cost  
+Adjust/Transfer &gt; Asset <textline bbox="284.380,196.540,452.584,208.540" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Asset Management &gt; Financial  </textline>
+<textline bbox="284.380,182.140,394.216,194.140" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Transactions &gt; Cost  </textline>
+<textline bbox="284.380,167.740,408.244,179.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Adjust/Transfer &gt; Asset </textline>
+</textbox>
+<textbox id="16" bbox="470.160,167.740,628.296,208.540" size="12.0">Financial information such as  
+Cost, Quantity, ChartFields,  
+Category <textline bbox="470.160,196.540,628.296,208.540" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Financial information such as  </textline>
+<textline bbox="470.160,182.140,620.052,194.140" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Cost, Quantity, ChartFields,  </textline>
+<textline bbox="470.160,167.740,518.880,179.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Category </textline>
+</textbox>
+<textbox id="17" bbox="61.224,123.120,128.592,149.559" size="12.012">Asset  
+Depreciation <textline bbox="61.224,137.535,94.675,149.559" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Asset  </textline>
+<textline bbox="61.224,123.120,128.592,135.120" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Depreciation </textline>
+</textbox>
+<textbox id="18" bbox="172.730,137.535,240.107,149.559" size="12.024">Depreciation <textline bbox="172.730,137.535,240.107,149.559">Depreciation <text font="Arial-BoldMT" bbox="172.730,137.535,181.411,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">D</text>
+<text font="ArialMT" bbox="181.370,137.535,188.055,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">e</text>
+<text font="ArialMT" bbox="188.055,137.535,194.741,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">p</text>
+<text font="ArialMT" bbox="194.801,137.535,198.805,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">r</text>
+<text font="ArialMT" bbox="198.757,137.535,205.442,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">e</text>
+<text font="ArialMT" bbox="205.442,137.535,211.454,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">c</text>
+<text font="ArialMT" bbox="211.454,137.535,214.123,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">i</text>
+<text font="ArialMT" bbox="214.123,137.535,220.809,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">a</text>
+<text font="ArialMT" bbox="220.809,137.535,224.151,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">t</text>
+<text font="ArialMT" bbox="224.187,137.535,226.857,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">i</text>
+<text font="ArialMT" bbox="226.857,137.535,233.542,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">o</text>
+<text font="ArialMT" bbox="233.422,137.535,240.107,149.559" colourspace="DeviceGray" ncolour="0" size="12.024">n</text>
+</textline>
+</textbox>
+<textbox id="19" bbox="284.380,108.720,443.674,149.559" size="12.008000000000001">Asset Management &gt; Review  
+Cost/Depr Activity &gt; Asset  
+Depreciation <textline bbox="284.380,137.535,443.674,149.559" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Asset Management &gt; Review  </textline>
+<textline bbox="284.380,123.120,425.368,135.120" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Cost/Depr Activity &gt; Asset  </textline>
+<textline bbox="284.380,108.720,351.748,120.720" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Depreciation </textline>
+</textbox>
+<textbox id="20" bbox="470.160,108.720,639.746,149.559" size="12.008000000000001">Results of depreciation such as  
+Accumulated Depreciation and  
+Depreciation Adjustments <textline bbox="470.160,137.535,639.746,149.559" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Results of depreciation such as  </textline>
+<textline bbox="470.160,123.120,636.444,135.120" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Accumulated Depreciation and  </textline>
+<textline bbox="470.160,108.720,606.012,120.720" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Depreciation Adjustments </textline>
+</textbox>
+<textbox id="21" bbox="61.224,47.371,642.324,73.776" size="12.012">Any activity to the tables above (A, B, or C) creates Open Transactions.  Running Depreciation (AMDPCALC)  
+updates the Depreciation table  (D): <textline bbox="61.224,61.776,642.324,73.776" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Any activity to the tables above (A, B, or C) creates Open Transactions.  Running Depreciation (AMDPCALC)  </textline>
+<textline bbox="61.224,47.371,249.869,59.395" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">updates the Depreciation table  (D): </textline>
+</textbox>
+<textbox id="22" bbox="669.000,28.036,676.806,42.076" size="14.04">9 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">9 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.7.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.6.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.6.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="217.900,421.387,531.993,465.427" size="44.04">Integration Points <textline bbox="217.900,421.387,531.993,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Integration Points </textline>
+</textbox>
+<textbox id="1" bbox="97.224,343.878,539.826,385.191" size="18.012">&#8226; eProcurment (Requisitions / Purchase Orders)  
+&#8722; Sends key information:  Category Code, Profile ID <textline bbox="97.224,365.127,539.826,385.191" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; eProcurment (Requisitions / Purchase Orders)  </textline>
+<textline bbox="133.220,343.878,509.613,359.838" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8722; Sends key information:  Category Code, Profile ID </textline>
+</textbox>
+<textbox id="2" bbox="97.224,317.582,236.604,337.622" size="20.04">&#8226; PO Receipts <textline bbox="97.224,317.582,236.604,337.622" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; PO Receipts </textline>
+</textbox>
+<textbox id="3" bbox="133.220,293.770,561.625,311.770" size="18.0">&#8722; Sends non-financial information:  Tag Number, Location,  <textline bbox="133.220,293.770,561.625,311.770">&#8722; Sends non-financial information:  Tag Number, Location,  <text font="ArialMT" bbox="133.220,293.770,143.732,311.770" colourspace="DeviceGray" ncolour="0" size="18.000">&#8722;</text>
+<text font="ArialMT" bbox="155.780,293.770,167.786,311.770" colourspace="DeviceGray" ncolour="0" size="18.000">S</text>
+<text font="ArialMT" bbox="167.780,294.198,176.654,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">e</text>
+<text font="ArialMT" bbox="176.654,294.198,185.528,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="185.528,294.198,194.401,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">d</text>
+<text font="ArialMT" bbox="194.401,294.198,202.381,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">s</text>
+<text font="ArialMT" bbox="202.445,294.198,206.882,310.158" colourspace="DeviceGray" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="206.882,294.198,215.756,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="215.756,294.198,224.630,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">o</text>
+<text font="ArialMT" bbox="224.630,294.198,233.503,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="233.570,294.198,238.885,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">-</text>
+<text font="ArialMT" bbox="238.850,294.198,243.287,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">f</text>
+<text font="ArialMT" bbox="243.287,294.198,246.830,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="246.878,294.198,255.752,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="255.752,294.198,264.625,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="264.625,294.198,273.499,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="273.499,294.198,281.479,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">c</text>
+<text font="ArialMT" bbox="281.543,294.198,285.086,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="285.134,294.198,294.008,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="294.008,294.198,297.551,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">l</text>
+<text font="ArialMT" bbox="297.599,294.198,302.036,310.158" colourspace="DeviceGray" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="301.924,294.198,305.467,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="305.515,294.198,314.389,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="314.389,294.198,318.826,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">f</text>
+<text font="ArialMT" bbox="318.826,294.198,327.699,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">o</text>
+<text font="ArialMT" bbox="327.699,294.198,333.014,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">r</text>
+<text font="ArialMT" bbox="333.014,294.198,346.309,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">m</text>
+<text font="ArialMT" bbox="346.309,294.198,355.182,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="355.182,294.198,359.619,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">t</text>
+<text font="ArialMT" bbox="359.619,294.198,363.162,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="363.226,294.198,372.100,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">o</text>
+<text font="ArialMT" bbox="372.100,294.198,380.974,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="380.974,294.198,385.411,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">:</text>
+<text font="ArialMT" bbox="385.411,294.198,389.848,310.158" colourspace="DeviceGray" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="389.975,294.198,394.412,310.158" colourspace="DeviceGray" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="394.524,294.198,404.275,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">T</text>
+<text font="ArialMT" bbox="404.275,294.198,413.149,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="413.149,294.198,422.023,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">g</text>
+<text font="ArialMT" bbox="422.023,294.198,426.460,310.158" colourspace="DeviceGray" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="426.460,294.198,437.983,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">N</text>
+<text font="ArialMT" bbox="437.983,294.198,446.857,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">u</text>
+<text font="ArialMT" bbox="446.857,294.198,460.151,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">m</text>
+<text font="ArialMT" bbox="460.151,294.198,469.025,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">b</text>
+<text font="ArialMT" bbox="469.025,294.198,477.899,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">e</text>
+<text font="ArialMT" bbox="477.899,294.198,483.214,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">r</text>
+<text font="ArialMT" bbox="483.214,294.198,487.650,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">,</text>
+<text font="ArialMT" bbox="487.650,294.198,492.087,310.158" colourspace="DeviceGray" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="492.311,294.198,501.185,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">L</text>
+<text font="ArialMT" bbox="501.185,294.198,510.058,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">o</text>
+<text font="ArialMT" bbox="510.058,294.198,518.038,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">c</text>
+<text font="ArialMT" bbox="518.102,294.198,526.976,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="526.976,294.198,531.413,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">t</text>
+<text font="ArialMT" bbox="531.413,294.198,534.956,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="535.004,294.198,543.878,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">o</text>
+<text font="ArialMT" bbox="543.878,294.198,552.751,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="552.751,294.198,557.188,310.158" colourspace="DeviceGray" ncolour="0" size="15.960">,</text>
+<text font="ArialMT" bbox="557.188,294.198,561.625,310.158" colourspace="DeviceGray" ncolour="0" size="15.960"> </text>
+</textline>
+</textbox>
+<textbox id="4" bbox="155.780,276.438,576.230,292.398" size="15.96">Custodian, Serial Number, Manufacturer ID, Model Number <textline bbox="155.780,276.438,576.230,292.398" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Custodian, Serial Number, Manufacturer ID, Model Number </textline>
+</textbox>
+<textbox id="5" bbox="133.220,228.898,599.995,244.858" size="15.96">&#8722; Sends financial information:  Acquisition Date, Cost, Chartfield  <textline bbox="133.220,228.898,599.995,244.858" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8722; Sends financial information:  Acquisition Date, Cost, Chartfield  </textline>
+</textbox>
+<textbox id="6" bbox="97.224,250.137,284.291,270.201" size="20.064">&#8226; Accounts Payable <textline bbox="97.224,250.137,284.291,270.201" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; Accounts Payable </textline>
+</textbox>
+<textbox id="7" bbox="97.224,185.322,204.650,227.578" size="18.0">Values 
+&#8226; Projects <textline bbox="155.780,211.618,204.650,227.578" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Values </textline>
+<textline bbox="97.224,185.322,196.665,205.362" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Projects </textline>
+</textbox>
+<textbox id="8" bbox="133.220,164.098,480.965,180.058" size="15.96">&#8722; Sends Asset Transactions for Capital Projects <textline bbox="133.220,164.098,480.965,180.058" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8722; Sends Asset Transactions for Capital Projects </textline>
+</textbox>
+<textbox id="9" bbox="97.224,137.797,268.982,157.861" size="20.064">&#8226; General Ledger  <textline bbox="97.224,137.797,268.982,157.861" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; General Ledger  </textline>
+</textbox>
+<textbox id="10" bbox="133.220,116.548,610.433,132.508" size="15.96">&#8722; Receives input from AM to create Journal Entries for: Additions,  <textline bbox="133.220,116.548,610.433,132.508" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8722; Receives input from AM to create Journal Entries for: Additions,  </textline>
+</textbox>
+<textbox id="11" bbox="155.780,99.268,437.634,115.228" size="15.96">Adjustments, Retirements, Depreciation <textline bbox="155.780,99.268,437.634,115.228" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Adjustments, Retirements, Depreciation </textline>
+</textbox>
+<textbox id="12" bbox="661.200,28.036,676.806,42.076" size="14.04">10 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">10 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.8.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.7.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.7.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="61.224,316.069,379.638,386.509" size="32.04">Chapter  3 
+Manually Adding Assets <textline bbox="61.224,354.469,194.510,386.509" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Chapter  3 </textline>
+<textline bbox="61.224,316.069,379.638,348.109" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Manually Adding Assets </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.9.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="283.900,421.387,466.270,465.427" size="44.04">All Assets <textline bbox="283.900,421.387,466.270,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">All Assets </textline>
+</textbox>
+<textbox id="1" bbox="85.224,357.935,569.541,381.959" size="24.024">&#8226; Assets must be entered into ENCOMPASS <textline bbox="85.224,357.935,569.541,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Assets must be entered into ENCOMPASS </textline>
+</textbox>
+<textbox id="2" bbox="121.220,306.010,634.550,349.930" size="18.0">&#8211; Valued at $500 or Greater 
+&#8211; Agencies can (optional) enter assets valued at less than $500 <textline bbox="121.220,331.930,351.734,349.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Valued at $500 or Greater </textline>
+<textline bbox="121.220,306.010,634.550,324.010" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Agencies can (optional) enter assets valued at less than $500 </textline>
+</textbox>
+<textbox id="3" bbox="85.224,271.510,597.836,295.510" size="24.0">&#8226; Assets must include the following information: <textline bbox="85.224,271.510,597.836,295.510" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Assets must include the following information: </textline>
+</textbox>
+<textbox id="4" bbox="121.220,167.750,550.724,263.549" size="18.006">&#8211; Tag Number 
+&#8211; Location 
+&#8211; Custodian (active employee listed in HR) 
+&#8211; Chartfields (Fund, Department, Program, Bud Ref.) <textline bbox="121.220,245.525,243.633,263.549" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8211; Tag Number </textline>
+<textline bbox="121.220,219.590,211.640,237.590" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Location </textline>
+<textline bbox="121.220,193.670,468.698,211.670" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Custodian (active employee listed in HR) </textline>
+<textline bbox="121.220,167.750,550.724,185.750" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Chartfields (Fund, Department, Program, Bud Ref.) </textline>
+</textbox>
+<textbox id="5" bbox="157.220,144.658,630.287,160.618" size="15.96">&#8226; Agencies may require additional fields: Project, Product, Locality <textline bbox="157.220,144.658,630.287,160.618" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; Agencies may require additional fields: Project, Product, Locality </textline>
+</textbox>
+<textbox id="6" bbox="661.200,28.036,676.806,42.076" size="14.04">12 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">12 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.10.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.8.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.8.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="283.900,421.387,466.270,465.427" size="44.04">All Assets <textline bbox="283.900,421.387,466.270,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">All Assets </textline>
+</textbox>
+<textbox id="1" bbox="79.224,357.935,589.223,381.959" size="24.024">&#8226; The State requires all Assets be acquired via  <textline bbox="79.224,357.935,589.223,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; The State requires all Assets be acquired via  </textline>
+</textbox>
+<textbox id="2" bbox="106.220,303.130,629.558,353.110" size="21.0">Procurement Applications  
+&#8211; Assets will be added via the Integration Process: Purchasing,  <textline bbox="106.220,329.110,386.156,353.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Procurement Applications  </textline>
+<textline bbox="115.220,303.130,629.558,321.130" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Assets will be added via the Integration Process: Purchasing,  </textline>
+</textbox>
+<textbox id="3" bbox="137.780,281.530,370.394,299.530" size="18.0">Receiving, Accounts Payable <textline bbox="137.780,281.530,370.394,299.530" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Receiving, Accounts Payable </textline>
+</textbox>
+<textbox id="4" bbox="79.224,247.025,220.935,271.049" size="24.024">&#8226; Basic Add  <textline bbox="79.224,247.025,220.935,271.049" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Basic Add  </textline>
+</textbox>
+<textbox id="5" bbox="115.220,221.030,336.590,239.030" size="18.0">&#8211; Used in limited situations <textline bbox="115.220,221.030,336.590,239.030" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Used in limited situations </textline>
+</textbox>
+<textbox id="6" bbox="79.224,186.530,242.180,210.530" size="24.0">&#8226; Express Add <textline bbox="79.224,186.530,242.180,210.530" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Express Add </textline>
+</textbox>
+<textbox id="7" bbox="115.220,160.550,259.748,178.550" size="18.0">&#8211; No longer used <textline bbox="115.220,160.550,259.748,178.550" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; No longer used </textline>
+</textbox>
+<textbox id="8" bbox="661.200,28.036,676.806,42.076" size="14.04">13 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">13 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.11.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.9.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.9.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="284.500,421.387,465.504,465.427" size="44.04">Workflow <textline bbox="284.500,421.387,465.504,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Workflow </textline>
+</textbox>
+<textbox id="1" bbox="97.224,360.815,588.484,384.839" size="24.024">&#8226; All Financial Transactions require Financial  <textline bbox="97.224,360.815,588.484,384.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; All Financial Transactions require Financial  </textline>
+</textbox>
+<textbox id="2" bbox="124.220,263.530,464.132,358.870" size="19.5">Asset Manager (FAM) approval: 
+&#8211; Basic Adds 
+&#8211; Adjustments/Transfers 
+&#8211; Retirements/Reinstatements <textline bbox="124.220,334.870,464.132,358.870" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Asset Manager (FAM) approval: </textline>
+<textline bbox="133.220,311.050,245.708,329.050" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Basic Adds </textline>
+<textline bbox="133.220,287.290,335.744,305.290" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Adjustments/Transfers </textline>
+<textline bbox="133.220,263.530,382.454,281.530" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Retirements/Reinstatements </textline>
+</textbox>
+<textbox id="3" bbox="97.224,231.890,569.660,255.890" size="24.0">&#8226; Assets valued at $20,000 and greater will  <textline bbox="97.224,231.890,569.660,255.890" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Assets valued at $20,000 and greater will  </textline>
+</textbox>
+<textbox id="4" bbox="124.220,182.150,476.324,229.970" size="21.0">require Auditor of State approval: 
+&#8211; Exception:  Retirements <textline bbox="124.220,205.970,476.324,229.970" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">require Auditor of State approval: </textline>
+<textline bbox="133.220,182.150,346.562,200.150" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Exception:  Retirements </textline>
+</textbox>
+<textbox id="5" bbox="124.220,107.240,631.163,144.729" size="18.012">Note - if a transaction is denied, the AM Entry User receives an  
+email with the FAM&#8217;s denial comments. <textline bbox="124.220,126.705,631.163,144.729" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">Note - if a transaction is denied, the AM Entry User receives an  </textline>
+<textline bbox="124.220,107.240,436.106,125.240" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">email with the FAM&#8217;s denial comments. </textline>
+</textbox>
+<textbox id="6" bbox="661.200,28.036,676.806,42.076" size="14.04">14 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">14 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.12.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.10.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.10.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="282.700,421.387,467.404,465.427" size="44.04">Basic Add <textline bbox="282.700,421.387,467.404,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Basic Add </textline>
+</textbox>
+<textbox id="1" bbox="97.224,360.815,571.114,384.839" size="24.024">&#8226; Only to be used in specific circumstances: <textline bbox="97.224,360.815,571.114,384.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Only to be used in specific circumstances: </textline>
+</textbox>
+<textbox id="2" bbox="133.220,289.450,434.636,354.970" size="18.0">&#8211; Donated Assets 
+&#8211; Surplus acquired Assets 
+&#8211; Assets discovered during inventory <textline bbox="133.220,336.970,282.698,354.970" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Donated Assets </textline>
+<textline bbox="133.220,313.210,349.748,331.210" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Surplus acquired Assets </textline>
+<textline bbox="133.220,289.450,434.636,307.450" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Assets discovered during inventory </textline>
+</textbox>
+<textbox id="3" bbox="97.224,226.130,626.756,281.849" size="24.012">&#8226; Transaction Date = In Service Date 
+&#8226; Assets are sent to the AM Approver by clicking  <textline bbox="97.224,257.825,498.370,281.849" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Transaction Date = In Service Date </textline>
+<textline bbox="97.224,226.130,626.756,250.130" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Assets are sent to the AM Approver by clicking  </textline>
+</textbox>
+<textbox id="4" bbox="124.220,200.210,433.676,224.210" size="24.0">the &#8220;Submit Workflow&#8221; button <textline bbox="124.220,200.210,433.676,224.210" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">the &#8220;Submit Workflow&#8221; button </textline>
+</textbox>
+<textbox id="5" bbox="97.224,168.530,633.860,192.530" size="24.0">&#8226; Assets are capitalized automatically by the final  <textline bbox="97.224,168.530,633.860,192.530" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Assets are capitalized automatically by the final  </textline>
+</textbox>
+<textbox id="6" bbox="124.220,142.610,216.188,166.610" size="24.0">approval <textline bbox="124.220,142.610,216.188,166.610" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">approval </textline>
+</textbox>
+<textbox id="7" bbox="124.220,80.844,585.722,119.600" size="18.0">Note - Asset Status can be reviewed by using the Review  
+Approvals page. <textline bbox="124.220,101.600,585.722,119.600" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Note - Asset Status can be reviewed by using the Review  </textline>
+<textline bbox="124.220,80.844,254.018,98.844" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Approvals page. </textline>
+</textbox>
+<textbox id="8" bbox="661.200,28.036,676.806,42.076" size="14.04">15 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">15 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.13.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.11.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.11.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="132.310,421.387,617.461,465.427" size="44.04">Basic Add &#8211; Required Info. <textline bbox="132.310,421.387,617.461,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Basic Add &#8211; Required Info. </textline>
+</textbox>
+<textbox id="1" bbox="97.224,360.815,229.661,384.839" size="24.024">&#8226; Profile ID  <textline bbox="97.224,360.815,229.661,384.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Profile ID  </textline>
+</textbox>
+<textbox id="2" bbox="97.224,241.985,599.228,354.970" size="22.506">&#8722; Defaults in:  Asset Class, Book, Category, Depreciation 
+&#8226; Acquisition, Placement, and In Service dates 
+&#8226; Purchased Amount 
+&#8226; Tag number * <textline bbox="133.220,336.970,595.448,354.970" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8722; Defaults in:  Asset Class, Book, Category, Depreciation </textline>
+<textline bbox="97.224,305.350,599.228,329.350" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Acquisition, Placement, and In Service dates </textline>
+<textline bbox="97.224,273.670,328.340,297.670" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Purchased Amount </textline>
+<textline bbox="97.224,241.985,269.613,266.009" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Tag number * </textline>
+</textbox>
+<textbox id="3" bbox="133.220,218.150,558.602,236.150" size="18.0">&#8722; Last 3 digits of Agency&#8217;s BU and affixed Bar Code  <textline bbox="133.220,218.150,558.602,236.150" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8722; Last 3 digits of Agency&#8217;s BU and affixed Bar Code  </textline>
+</textbox>
+<textbox id="4" bbox="97.224,186.530,230.972,210.530" size="24.0">&#8226; Location * <textline bbox="97.224,186.530,230.972,210.530" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Location * </textline>
+</textbox>
+<textbox id="5" bbox="97.224,131.085,248.400,155.109" size="24.024">&#8226; Custodian * <textline bbox="97.224,131.085,248.400,155.109" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Custodian * </textline>
+</textbox>
+<textbox id="6" bbox="133.220,162.710,560.672,180.710" size="18.0">&#8211; A 7 digit alpha-numeric field defined by the Agency <textline bbox="133.220,162.710,560.672,180.710" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; A 7 digit alpha-numeric field defined by the Agency </textline>
+</textbox>
+<textbox id="7" bbox="133.220,107.240,605.672,125.240" size="18.0">&#8211; The person responsible for (or primary user) of the asset <textline bbox="133.220,107.240,605.672,125.240" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; The person responsible for (or primary user) of the asset </textline>
+</textbox>
+<textbox id="8" bbox="124.220,65.064,533.720,89.064" size="24.0">*  Required for all Assets valued at $500 or greater <textline bbox="124.220,65.064,533.720,89.064">*  Required for all Assets valued at $500 or greater <text font="ArialMT" bbox="124.220,65.064,133.556,89.064" colourspace="DeviceGray" ncolour="0" size="24.000">*</text>
+<text font="ArialMT" bbox="133.556,65.064,140.228,89.064" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="140.228,65.064,146.900,89.064" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="146.900,66.324,159.896,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">R</text>
+<text font="ArialMT" bbox="159.896,66.324,169.904,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="169.814,66.324,179.822,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">q</text>
+<text font="ArialMT" bbox="179.822,66.324,189.830,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">u</text>
+<text font="ArialMT" bbox="189.740,66.324,193.736,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="193.736,66.324,199.730,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="199.730,66.324,209.738,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="209.666,66.324,219.674,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">d</text>
+<text font="ArialMT" bbox="219.674,66.324,224.678,84.324" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="224.894,66.324,229.898,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">f</text>
+<text font="ArialMT" bbox="229.898,66.324,239.906,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="239.906,66.324,245.900,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="245.900,66.324,250.904,84.324" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="250.814,66.324,260.822,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="260.822,66.324,264.818,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">l</text>
+<text font="ArialMT" bbox="264.728,66.324,268.724,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">l</text>
+<text font="ArialMT" bbox="268.724,66.324,273.728,84.324" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="273.836,66.324,285.842,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">A</text>
+<text font="ArialMT" bbox="285.842,66.324,294.842,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="294.842,66.324,303.842,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="303.842,66.324,313.850,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="313.796,66.324,318.800,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="318.800,66.324,327.800,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="327.800,66.324,332.804,84.324" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="332.858,66.324,341.858,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">v</text>
+<text font="ArialMT" bbox="341.858,66.324,351.866,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="351.866,66.324,355.862,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">l</text>
+<text font="ArialMT" bbox="355.772,66.324,365.780,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">u</text>
+<text font="ArialMT" bbox="365.780,66.324,375.788,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="375.698,66.324,385.706,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">d</text>
+<text font="ArialMT" bbox="385.706,66.324,390.710,84.324" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="390.800,66.324,400.808,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="400.808,66.324,405.812,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="405.812,66.324,410.816,84.324" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="410.816,66.324,420.824,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">$</text>
+<text font="ArialMT" bbox="420.824,66.324,430.832,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">5</text>
+<text font="ArialMT" bbox="430.760,66.324,440.768,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">0</text>
+<text font="ArialMT" bbox="440.768,66.324,450.776,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">0</text>
+<text font="ArialMT" bbox="450.686,66.324,455.690,84.324" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="455.834,66.324,465.842,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="465.842,66.324,471.836,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="471.836,66.324,476.840,84.324" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="476.840,66.324,486.848,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">g</text>
+<text font="ArialMT" bbox="486.794,66.324,492.788,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="492.788,66.324,502.796,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="502.796,66.324,512.804,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="512.714,66.324,517.718,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="517.718,66.324,527.726,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="527.726,66.324,533.720,84.324" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+</textline>
+</textbox>
+<textbox id="9" bbox="661.200,28.036,676.806,42.076" size="14.04">16 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">16 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.14.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.12.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.12.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="131.710,421.387,618.088,465.427" size="44.04">Update: Physical Attributes <textline bbox="131.710,421.387,618.088,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Update: Physical Attributes </textline>
+</textbox>
+<textbox id="1" bbox="97.224,357.935,613.973,381.959" size="24.024">&#8226; Physical Attributes are changed via Basic Add <textline bbox="97.224,357.935,613.973,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Physical Attributes are changed via Basic Add </textline>
+</textbox>
+<textbox id="2" bbox="97.224,311.830,505.820,335.830" size="24.0">&#8226; Changes to Location and Custodian <textline bbox="97.224,311.830,505.820,335.830" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Changes to Location and Custodian </textline>
+</textbox>
+<textbox id="3" bbox="133.220,285.850,604.466,303.850" size="18.0">&#8211; Insert new Effective Dated Row to update, and maintain  <textline bbox="133.220,285.850,604.466,303.850" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Insert new Effective Dated Row to update, and maintain  </textline>
+</textbox>
+<textbox id="4" bbox="155.780,264.250,213.452,282.250" size="18.0">history. <textline bbox="155.780,264.250,213.452,282.250" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">history. </textline>
+</textbox>
+<textbox id="5" bbox="133.220,216.710,627.218,256.310" size="18.0">&#8211; If Effective Sequence field has a value of 1 or higher, click  
+on the Include History button to view Effective Dated Rows. <textline bbox="133.220,238.310,621.638,256.310" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; If Effective Sequence field has a value of 1 or higher, click  </textline>
+<textline bbox="155.780,216.710,627.218,234.710" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">on the Include History button to view Effective Dated Rows. </textline>
+</textbox>
+<textbox id="6" bbox="97.224,182.210,560.396,206.210" size="24.0">&#8226; Changes to Tag Number and Description <textline bbox="97.224,182.210,560.396,206.210" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Changes to Tag Number and Description </textline>
+</textbox>
+<textbox id="7" bbox="133.220,156.230,458.558,174.230" size="18.0">&#8211; Replace current value with new value. <textline bbox="133.220,156.230,458.558,174.230" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Replace current value with new value. </textline>
+</textbox>
+<textbox id="8" bbox="661.200,28.036,676.806,42.076" size="14.04">17 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">17 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.15.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.13.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.13.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="246.580,421.387,503.289,465.427" size="44.04">Copy an Asset <textline bbox="246.580,421.387,503.289,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Copy an Asset </textline>
+</textbox>
+<textbox id="1" bbox="97.224,357.935,488.352,381.959" size="24.024">&#8226; Copy an Asset can be used when: <textline bbox="97.224,357.935,488.352,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Copy an Asset can be used when: </textline>
+</textbox>
+<textbox id="2" bbox="133.220,306.010,633.518,349.930" size="18.0">&#8211; There are multiple number of Assets to be added. 
+&#8211; The asset shares similar Physical and Financial information  <textline bbox="133.220,331.930,550.556,349.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; There are multiple number of Assets to be added. </textline>
+<textline bbox="133.220,306.010,633.518,324.010" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; The asset shares similar Physical and Financial information  </textline>
+</textbox>
+<textbox id="3" bbox="97.224,249.905,376.352,302.410" size="21.012">to the original Asset. 
+&#8226; Copy an Asset Options: <textline bbox="155.780,284.410,318.734,302.410" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">to the original Asset. </textline>
+<textline bbox="97.224,249.905,376.352,273.929" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Copy an Asset Options: </textline>
+</textbox>
+<textbox id="4" bbox="133.220,197.990,620.504,241.910" size="18.0">&#8211; Select the information to be copied. 
+&#8211; Change the Physical and Financial information as needed. <textline bbox="133.220,223.910,437.642,241.910" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Select the information to be copied. </textline>
+<textline bbox="133.220,197.990,620.504,215.990" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Change the Physical and Financial information as needed. </textline>
+</textbox>
+<textbox id="5" bbox="97.224,128.925,624.424,187.490" size="24.012">&#8226; New Asset IDs are automatically assigned 
+&#8226; Other adjustments can be made via Basic Add  <textline bbox="97.224,163.490,572.300,187.490" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; New Asset IDs are automatically assigned </textline>
+<textline bbox="97.224,128.925,624.424,152.949" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Other adjustments can be made via Basic Add  </textline>
+</textbox>
+<textbox id="6" bbox="124.220,100.100,344.276,124.100" size="24.0">or Adjustment pages <textline bbox="124.220,100.100,344.276,124.100" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">or Adjustment pages </textline>
+</textbox>
+<textbox id="7" bbox="661.200,28.036,676.806,42.076" size="14.04">18 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">18 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.16.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.14.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.14.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="197.740,421.387,552.174,465.427" size="44.04">Asset Search Utility <textline bbox="197.740,421.387,552.174,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Asset Search Utility </textline>
+</textbox>
+<textbox id="1" bbox="85.224,357.935,589.625,381.959" size="24.024">&#8226; Assets entered in the system can be located  <textline bbox="85.224,357.935,589.625,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Assets entered in the system can be located  </textline>
+</textbox>
+<textbox id="2" bbox="112.220,329.110,357.548,353.110" size="24.0">using the Search Utility <textline bbox="112.220,329.110,357.548,353.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">using the Search Utility </textline>
+</textbox>
+<textbox id="3" bbox="85.224,294.550,636.308,318.550" size="24.0">&#8226; Criteria that can be used to locate assets include: <textline bbox="85.224,294.550,636.308,318.550" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Criteria that can be used to locate assets include: </textline>
+</textbox>
+<textbox id="4" bbox="157.220,98.548,572.135,114.508" size="15.96">Navigation:   Asset Management &gt; Search for an Asset <textline bbox="157.220,98.548,572.135,114.508" font="Arial-BoldItalicMT" ncolour="0" size="15.960" colourspace="DeviceGray">Navigation:   Asset Management &gt; Search for an Asset </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">19 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">19 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.17.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.15.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.15.jpg" width="106" height="45">
+</figure>
+<figure name="Image67" bbox="96.000,157.320,632.880,276.000" src="Image67.561x124.bmp" width="536" height="118">
+</figure>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="194.140,421.387,555.929,465.427" size="44.04">Demo and Exercises <textline bbox="194.140,421.387,555.929,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Demo and Exercises </textline>
+</textbox>
+<textbox id="1" bbox="85.224,356.598,423.806,384.558" size="27.96">&#8226; Are there any questions? <textline bbox="85.224,356.598,423.806,384.558" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Are there any questions? </textline>
+</textbox>
+<textbox id="2" bbox="85.224,282.678,294.323,310.638" size="27.96">&#8226; Demonstration <textline bbox="85.224,282.678,294.323,310.638" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Demonstration </textline>
+</textbox>
+<textbox id="3" bbox="85.224,208.738,233.622,236.698" size="27.96">&#8226; Exercises <textline bbox="85.224,208.738,233.622,236.698" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Exercises </textline>
+</textbox>
+<textbox id="4" bbox="121.220,81.864,533.330,200.930" size="24.0">&#8211; Exercise 1 &#8211; Add an Asset 
+&#8211; Exercise 2 &#8211; Change Custodian 
+&#8211; Exercise 3 &#8211; Change Location 
+&#8211; Exercise 4 &#8211; Change the Description <textline bbox="121.220,176.930,425.330,200.930" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Exercise 1 &#8211; Add an Asset </textline>
+<textline bbox="121.220,145.250,481.442,169.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Exercise 2 &#8211; Change Custodian </textline>
+<textline bbox="121.220,113.540,464.114,137.540" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Exercise 3 &#8211; Change Location </textline>
+<textline bbox="121.220,81.864,533.330,105.864" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Exercise 4 &#8211; Change the Description </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">20 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">20 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.18.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.16.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.16.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="61.224,275.869,627.659,384.709" size="32.04">Chapter  4 
+Adjusting, Recategorizing and Transferring  
+Assets <textline bbox="61.224,352.669,194.510,384.709" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Chapter  4 </textline>
+<textline bbox="61.224,314.269,627.659,346.309" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Adjusting, Recategorizing and Transferring  </textline>
+<textline bbox="61.224,275.869,144.977,307.909" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Assets </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.19.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="253.300,421.387,496.621,465.427" size="44.04">Adjust Assets <textline bbox="253.300,421.387,496.621,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Adjust Assets </textline>
+</textbox>
+<textbox id="1" bbox="85.224,360.815,435.175,384.839" size="24.024">&#8226; Adjustments are necessary to: <textline bbox="85.224,360.815,435.175,384.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Adjustments are necessary to: </textline>
+</textbox>
+<textbox id="2" bbox="121.220,289.450,393.620,354.970" size="18.0">&#8211; Update Asset Records 
+&#8211; Correct Errors  
+&#8211; Add newly received information <textline bbox="121.220,336.970,323.618,354.970" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Update Asset Records </textline>
+<textline bbox="121.220,313.210,261.698,331.210" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Correct Errors  </textline>
+<textline bbox="121.220,289.450,393.620,307.450" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Add newly received information </textline>
+</textbox>
+<textbox id="3" bbox="85.224,257.825,525.601,281.849" size="24.024">&#8226; Common types of adjustments include: <textline bbox="85.224,257.825,525.601,281.849" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Common types of adjustments include: </textline>
+</textbox>
+<textbox id="4" bbox="121.220,162.710,627.728,251.990" size="18.0">&#8211; Add a new cost row 
+&#8211; Adjust the total cost 
+&#8211; Recategorize an asset 
+&#8211; Transfer an asset to another Department, Business Unit, etc. <textline bbox="121.220,233.990,300.794,251.990" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Add a new cost row </textline>
+<textline bbox="121.220,210.230,300.722,228.230" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Adjust the total cost </textline>
+<textline bbox="121.220,186.470,322.664,204.470" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Recategorize an asset </textline>
+<textline bbox="121.220,162.710,627.728,180.710" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Transfer an asset to another Department, Business Unit, etc. </textline>
+</textbox>
+<textbox id="5" bbox="121.220,117.800,631.070,135.800" size="18.0">Note &#8211; Financial changes cannot be made via Basic Add pages  <textline bbox="121.220,117.800,631.070,135.800" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Note &#8211; Financial changes cannot be made via Basic Add pages  </textline>
+</textbox>
+<textbox id="6" bbox="143.780,98.360,439.538,116.360" size="18.0">once the asset has been capitalized.  <textline bbox="143.780,98.360,439.538,116.360" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">once the asset has been capitalized.  </textline>
+</textbox>
+<textbox id="7" bbox="661.200,28.036,676.806,42.076" size="14.04">22 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">22 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.20.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.17.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.17.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="23" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="138.430,421.387,611.420,465.427" size="44.04">Transfer/Adjustment Steps <textline bbox="138.430,421.387,611.420,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Transfer/Adjustment Steps </textline>
+</textbox>
+<textbox id="1" bbox="91.224,357.935,623.859,381.959" size="24.024">&#8226; The State of Indiana uses a three-step process  <textline bbox="91.224,357.935,623.859,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; The State of Indiana uses a three-step process  </textline>
+</textbox>
+<textbox id="2" bbox="118.220,329.110,379.604,353.110" size="24.0">to transfer/adjust assets: <textline bbox="118.220,329.110,379.604,353.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">to transfer/adjust assets: </textline>
+</textbox>
+<textbox id="3" bbox="127.220,259.977,555.574,308.822" size="20.052">&#8211; Step 1:  Enter the Asset Transfer/Adjustment 
+&#8211; Step 2:  Approval by Financial Asset Manager <textline bbox="127.220,288.782,546.271,308.822" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Step 1:  Enter the Asset Transfer/Adjustment </textline>
+<textline bbox="127.220,259.977,555.574,280.041" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; Step 2:  Approval by Financial Asset Manager </textline>
+</textbox>
+<textbox id="4" bbox="235.250,233.990,615.122,251.990" size="18.0">&#187; AOS, for assets valued at $20,000 or greater <textline bbox="235.250,233.990,615.122,251.990" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#187; AOS, for assets valued at $20,000 or greater </textline>
+</textbox>
+<textbox id="5" bbox="127.220,205.242,400.921,225.282" size="20.04">&#8211; Step 3:  Run the Finalization <textline bbox="127.220,205.242,400.921,225.282" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Step 3:  Run the Finalization </textline>
+</textbox>
+<textbox id="6" bbox="661.200,28.036,676.806,42.076" size="14.04">23 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">23 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.21.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.18.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.18.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="24" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="174.430,421.387,575.899,465.427" size="44.04">Transfers/Adjustments <textline bbox="174.430,421.387,575.899,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Transfers/Adjustments </textline>
+</textbox>
+<textbox id="1" bbox="73.224,357.935,392.424,381.959" size="24.024">&#8226; Asset are not updated until: <textline bbox="73.224,357.935,392.424,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Asset are not updated until: </textline>
+</textbox>
+<textbox id="2" bbox="109.220,306.010,483.626,349.930" size="18.0">&#8211; All necessary approvals have been received 
+&#8211; Finalization has been processed <textline bbox="109.220,331.930,483.626,349.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; All necessary approvals have been received </textline>
+<textline bbox="109.220,306.010,389.594,324.010" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Finalization has been processed </textline>
+</textbox>
+<textbox id="3" bbox="217.250,282.918,623.637,298.878" size="15.96">&#187; Additional changes can not be made until the previous  <textline bbox="217.250,282.918,623.637,298.878" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#187; Additional changes can not be made until the previous  </textline>
+</textbox>
+<textbox id="4" bbox="235.250,263.718,589.067,279.678" size="15.96">changes have been approved, denied or finalized. <textline bbox="235.250,263.718,589.067,279.678" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">changes have been approved, denied or finalized. </textline>
+</textbox>
+<textbox id="5" bbox="73.224,229.250,614.012,253.250" size="24.0">&#8226; Changes are updated on the Cost History pages <textline bbox="73.224,229.250,614.012,253.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Changes are updated on the Cost History pages </textline>
+</textbox>
+<textbox id="6" bbox="109.220,203.270,327.638,221.270" size="18.0">&#8211; Not via Basic Add pages <textline bbox="109.220,203.270,327.638,221.270" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Not via Basic Add pages </textline>
+</textbox>
+<textbox id="7" bbox="73.224,168.770,626.876,192.770" size="24.0">&#8226; Asset Changes must be sent to the AM Approver  <textline bbox="73.224,168.770,626.876,192.770" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Asset Changes must be sent to the AM Approver  </textline>
+</textbox>
+<textbox id="8" bbox="109.220,142.790,432.776,160.790" size="18.0">&#8211; Click on the &#8220;Submit Workflow&#8221; button <textline bbox="109.220,142.790,432.776,160.790" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Click on the &#8220;Submit Workflow&#8221; button </textline>
+</textbox>
+<textbox id="9" bbox="100.220,81.084,561.632,119.840" size="18.0">Note - Asset Status can be reviewed by using the Review  
+Approvals page. <textline bbox="100.220,101.840,561.632,119.840" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Note - Asset Status can be reviewed by using the Review  </textline>
+<textline bbox="100.220,81.084,230.018,99.084" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Approvals page. </textline>
+</textbox>
+<textbox id="10" bbox="661.200,28.036,676.806,42.076" size="14.04">24 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">24 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.22.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.19.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.19.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="25" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="238.780,421.387,511.167,465.427" size="44.04">Transfer Policy <textline bbox="238.780,421.387,511.167,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Transfer Policy </textline>
+</textbox>
+<textbox id="1" bbox="97.224,353.238,522.790,381.198" size="27.96">&#8226; State of Indiana Transfer Policy: <textline bbox="97.224,353.238,522.790,381.198" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; State of Indiana Transfer Policy: </textline>
+</textbox>
+<textbox id="2" bbox="133.220,318.550,599.948,342.550" size="24.0">&#8211; All transfers, sales, retirements and other  <textline bbox="133.220,318.550,599.948,342.550" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; All transfers, sales, retirements and other  </textline>
+</textbox>
+<textbox id="3" bbox="155.780,174.530,566.780,313.750" size="24.0">disposals of capital assets must be  
+processed and approved by the State  
+Surplus Property division of IDOA by  
+submitting Form 13812, Notification of  
+Surplus State-Owned Property. <textline bbox="155.780,289.750,533.348,313.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">disposals of capital assets must be  </textline>
+<textline bbox="155.780,260.950,561.476,284.950" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">processed and approved by the State  </textline>
+<textline bbox="155.780,232.130,551.924,256.130" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Surplus Property division of IDOA by  </textline>
+<textline bbox="155.780,203.330,566.780,227.330" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">submitting Form 13812, Notification of  </textline>
+<textline bbox="155.780,174.530,488.162,198.530" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Surplus State-Owned Property. </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">25 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">25 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.23.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.20.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.20.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="26" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="291.820,421.387,458.115,465.427" size="44.04">Transfers <textline bbox="291.820,421.387,458.115,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Transfers </textline>
+</textbox>
+<textbox id="1" bbox="97.224,357.935,105.632,381.959" size="24.024">&#8226; <textline bbox="97.224,357.935,105.632,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="2" bbox="97.224,252.785,105.632,276.809" size="24.024">&#8226; <textline bbox="97.224,252.785,105.632,276.809" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="3" bbox="124.220,331.930,621.692,381.959" size="21.012">IntraUnit Transfer 
+&#8211; Transfer an Asset within a Business Unit, typically used to  <textline bbox="124.220,357.935,310.935,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">IntraUnit Transfer </textline>
+<textline bbox="133.220,331.930,621.692,349.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Transfer an Asset within a Business Unit, typically used to  </textline>
+</textbox>
+<textbox id="4" bbox="155.780,310.330,359.558,328.330" size="18.0">update Chartfield values.  <textline bbox="155.780,310.330,359.558,328.330" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">update Chartfield values.  </textline>
+</textbox>
+<textbox id="5" bbox="241.250,287.238,556.601,303.198" size="15.96">&#187; Fund, Department, Program,  Project, etc. <textline bbox="241.250,287.238,556.601,303.198" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#187; Fund, Department, Program,  Project, etc. </textline>
+</textbox>
+<textbox id="6" bbox="124.220,226.790,503.666,276.809" size="21.012">InterUnit Transfer 
+&#8211; Transfer an Asset to another Business Unit. <textline bbox="124.220,252.785,310.959,276.809" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">InterUnit Transfer </textline>
+<textline bbox="133.220,226.790,503.666,244.790" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Transfer an Asset to another Business Unit. </textline>
+</textbox>
+<textbox id="7" bbox="241.250,203.698,626.889,219.658" size="15.96">&#187; The chartfield values of receiving Business Unit are  <textline bbox="241.250,203.698,626.889,219.658" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#187; The chartfield values of receiving Business Unit are  </textline>
+</textbox>
+<textbox id="8" bbox="259.250,184.498,463.873,200.458" size="15.96">required to enter transaction. <textline bbox="259.250,184.498,463.873,200.458" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">required to enter transaction. </textline>
+</textbox>
+<textbox id="9" bbox="661.200,28.036,676.806,42.076" size="14.04">26 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">26 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.24.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.21.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.21.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="27" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="181.780,421.387,568.143,465.427" size="44.04">Viewing Cost History <textline bbox="181.780,421.387,568.143,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Viewing Cost History </textline>
+</textbox>
+<textbox id="1" bbox="97.224,360.815,515.259,384.839" size="24.024">&#8226; Cost History displays information for  <textline bbox="97.224,360.815,515.259,384.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Cost History displays information for  </textline>
+</textbox>
+<textbox id="2" bbox="124.220,287.290,569.474,358.870" size="20.0">capitalized and non-capitalized assets 
+&#8211; List pages:  shows history of asset&#8217;s transactions 
+&#8211; Detail pages:  shows detailed information regarding  <textline bbox="124.220,334.870,529.006,358.870" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">capitalized and non-capitalized assets </textline>
+<textline bbox="133.220,311.050,544.544,329.050" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; List pages:  shows history of asset&#8217;s transactions </textline>
+<textline bbox="133.220,287.290,569.474,305.290" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Detail pages:  shows detailed information regarding  </textline>
+</textbox>
+<textbox id="3" bbox="155.780,267.850,323.684,285.850" size="18.0">financial transactions <textline bbox="155.780,267.850,323.684,285.850" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">financial transactions </textline>
+</textbox>
+<textbox id="4" bbox="97.224,236.210,616.676,260.210" size="24.0">&#8226; Cost History displays all financial transactions  <textline bbox="97.224,236.210,616.676,260.210" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Cost History displays all financial transactions  </textline>
+</textbox>
+<textbox id="5" bbox="124.220,210.290,632.396,234.290" size="24.0">that occurred to after the asset was capitalized   <textline bbox="124.220,210.290,632.396,234.290" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">that occurred to after the asset was capitalized   </textline>
+</textbox>
+<textbox id="6" bbox="133.220,149.510,610.112,167.510" size="18.0">Note - Basic Add only shows cost information from the time  <textline bbox="133.220,149.510,610.112,167.510" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Note - Basic Add only shows cost information from the time  </textline>
+</textbox>
+<textbox id="7" bbox="155.780,130.065,365.471,148.089" size="18.024">the asset was capitalized.  <textline bbox="155.780,130.065,365.471,148.089" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">the asset was capitalized.  </textline>
+</textbox>
+<textbox id="8" bbox="661.200,28.036,676.806,42.076" size="14.04">27 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">27 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.25.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.22.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.22.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="28" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="194.140,421.387,555.929,465.427" size="44.04">Demo and Exercises <textline bbox="194.140,421.387,555.929,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Demo and Exercises </textline>
+</textbox>
+<textbox id="1" bbox="85.224,353.238,423.806,381.198" size="27.96">&#8226; Are there any questions? <textline bbox="85.224,353.238,423.806,381.198" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Are there any questions? </textline>
+</textbox>
+<textbox id="2" bbox="85.224,272.598,294.323,300.558" size="27.96">&#8226; Demonstration <textline bbox="85.224,272.598,294.323,300.558" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Demonstration </textline>
+</textbox>
+<textbox id="3" bbox="85.224,191.938,233.622,219.898" size="27.96">&#8226; Exercises <textline bbox="85.224,191.938,233.622,219.898" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Exercises </textline>
+</textbox>
+<textbox id="4" bbox="121.220,53.544,475.946,181.250" size="24.006">&#8211; Exercise 5 &#8211; Cost Adjustment 
+&#8211; Exercise 6 &#8211; Recategorize 
+&#8211; Exercise 7 &#8211; IntraUnit Transfer  
+&#8211; Exercise 8 &#8211; InterUnit Transfer <textline bbox="121.220,157.250,458.618,181.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Exercise 5 &#8211; Cost Adjustment </textline>
+<textline bbox="121.220,122.685,423.887,146.709" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Exercise 6 &#8211; Recategorize </textline>
+<textline bbox="121.220,88.104,475.946,112.104" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Exercise 7 &#8211; IntraUnit Transfer  </textline>
+<textline bbox="121.220,53.544,469.274,77.544" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Exercise 8 &#8211; InterUnit Transfer </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">28 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">28 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.26.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.23.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.23.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="29" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="61.224,316.069,465.921,386.509" size="32.04">Chapter  5 
+Retiring and Reinstating Assets <textline bbox="61.224,354.469,194.510,386.509" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Chapter  5 </textline>
+<textline bbox="61.224,316.069,465.921,348.109" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Retiring and Reinstating Assets </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.27.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="30" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="215.380,421.387,534.450,465.427" size="44.04">Retirement Policy <textline bbox="215.380,421.387,534.450,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Retirement Policy </textline>
+</textbox>
+<textbox id="1" bbox="97.224,357.935,616.640,381.959" size="24.024">&#8226; Assets are considered retired if disposed of in  <textline bbox="97.224,357.935,616.640,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Assets are considered retired if disposed of in  </textline>
+</textbox>
+<textbox id="2" bbox="124.220,173.510,583.460,353.110" size="18.86057142857143">any of the following ways: 
+&#8211; Sent to State Surplus (property division) 
+&#8211; Traded In  
+&#8211; Scrapped 
+&#8211; Sold at Public Auction 
+&#8211; Sold to Local Unit of Government  
+&#8211; Stolen (reported to Capital Police prior to processing)  <textline bbox="124.220,329.110,397.748,353.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">any of the following ways: </textline>
+<textline bbox="133.220,303.130,473.480,321.130" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Sent to State Surplus (property division) </textline>
+<textline bbox="133.220,277.210,237.842,295.210" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Traded In  </textline>
+<textline bbox="133.220,251.285,232.670,269.309" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8211; Scrapped </textline>
+<textline bbox="133.220,225.350,330.686,243.350" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Sold at Public Auction </textline>
+<textline bbox="133.220,199.430,425.600,217.430" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Sold to Local Unit of Government  </textline>
+<textline bbox="133.220,173.510,583.460,191.510" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Stolen (reported to Capital Police prior to processing)  </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">30 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">30 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.28.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.24.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.24.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="31" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="194.140,421.387,555.973,465.427" size="44.04">Types of Retirement <textline bbox="194.140,421.387,555.973,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Types of Retirement </textline>
+</textbox>
+<textbox id="1" bbox="97.224,357.935,493.781,381.959" size="24.024">&#8226; Three 3 basic types of retirements: <textline bbox="97.224,357.935,493.781,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Three 3 basic types of retirements: </textline>
+</textbox>
+<textbox id="2" bbox="133.220,306.010,618.632,349.930" size="18.0">&#8211; Full, when all quantities &amp; costs of an asset are retired 
+&#8211; Partial, when only a portion of the quantities &amp; costs of an  <textline bbox="133.220,331.930,586.664,349.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Full, when all quantities &amp; costs of an asset are retired </textline>
+<textline bbox="133.220,306.010,618.632,324.010" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Partial, when only a portion of the quantities &amp; costs of an  </textline>
+</textbox>
+<textbox id="3" bbox="155.780,284.410,454.742,302.410" size="18.0">asset are retired.  (NOT used by SOI) <textline bbox="155.780,284.410,454.742,302.410" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">asset are retired.  (NOT used by SOI) </textline>
+</textbox>
+<textbox id="4" bbox="133.220,258.490,622.466,276.490" size="18.0">&#8211; Prior Period, when an asset is retired in a prior accounting  <textline bbox="133.220,258.490,622.466,276.490" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Prior Period, when an asset is retired in a prior accounting  </textline>
+</textbox>
+<textbox id="5" bbox="155.780,236.870,473.552,254.870" size="18.0">period but not recorded until next period <textline bbox="155.780,236.870,473.552,254.870" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">period but not recorded until next period </textline>
+</textbox>
+<textbox id="6" bbox="97.224,202.370,627.092,226.370" size="24.0">&#8226; Reinstatements can occur at any time, and are  <textline bbox="97.224,202.370,627.092,226.370" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Reinstatements can occur at any time, and are  </textline>
+</textbox>
+<textbox id="7" bbox="124.220,121.665,436.756,197.570" size="20.008">used:  
+&#8211; To correct errors 
+&#8211; To place an asset back into service <textline bbox="124.220,173.570,189.596,197.570" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">used:  </textline>
+<textline bbox="133.220,147.590,288.692,165.590" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; To correct errors </textline>
+<textline bbox="133.220,121.665,436.756,139.689" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8211; To place an asset back into service </textline>
+</textbox>
+<textbox id="8" bbox="661.200,28.036,676.806,42.076" size="14.04">31 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">31 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.29.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.25.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.25.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="32" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="201.940,421.387,548.050,465.427" size="44.04">Retirement Options <textline bbox="201.940,421.387,548.050,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Retirement Options </textline>
+</textbox>
+<textbox id="1" bbox="61.224,357.935,623.311,381.959" size="24.024">&#8226; The State of Indiana uses the following retirement  <textline bbox="61.224,357.935,623.311,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; The State of Indiana uses the following retirement  </textline>
+</textbox>
+<textbox id="2" bbox="88.224,121.665,457.724,353.110" size="18.672">options: 
+&#8211; Casualty Loss 
+&#8211; Disposal Due to Theft - (police report filed) 
+&#8211; Duplicate Asset  
+&#8211; Missing Asset 
+&#8211; Retirement by Sale 
+&#8211; Scrapped Asset  - (no value to surplus) 
+&#8211; State Surplus  
+&#8211; Traded In for Another Asset <textline bbox="88.224,329.110,172.200,353.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">options: </textline>
+<textline bbox="97.224,303.130,232.694,321.130" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Casualty Loss </textline>
+<textline bbox="97.224,277.210,457.724,295.210" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Disposal Due to Theft - (police report filed) </textline>
+<textline bbox="97.224,251.285,249.787,269.309" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8211; Duplicate Asset  </textline>
+<textline bbox="97.224,225.350,230.732,243.350" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Missing Asset </textline>
+<textline bbox="97.224,199.430,272.690,217.430" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Retirement by Sale </textline>
+<textline bbox="97.224,173.510,430.580,191.510" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Scrapped Asset  - (no value to surplus) </textline>
+<textline bbox="97.224,147.590,232.658,165.590" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; State Surplus  </textline>
+<textline bbox="97.224,121.665,340.754,139.689" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8211; Traded In for Another Asset </textline>
+</textbox>
+<textbox id="3" bbox="61.224,87.144,667.464,111.144" size="24.0">&#8226; Accounting entries are automatically generated based  <textline bbox="61.224,87.144,667.464,111.144" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Accounting entries are automatically generated based  </textline>
+</textbox>
+<textbox id="4" bbox="88.224,58.344,437.736,82.344" size="24.0">on the retirement option selected <textline bbox="88.224,58.344,437.736,82.344" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">on the retirement option selected </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">32 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">32 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.30.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.26.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.26.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="33" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="194.620,421.387,555.220,465.427" size="44.04">Retirement Warning <textline bbox="194.620,421.387,555.220,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Retirement Warning </textline>
+</textbox>
+<textbox id="1" bbox="61.224,357.935,427.169,381.959" size="24.024">&#8226; Retirements &#8211; cautionary notes: <textline bbox="61.224,357.935,427.169,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Retirements &#8211; cautionary notes: </textline>
+</textbox>
+<textbox id="2" bbox="97.224,331.930,649.772,349.930" size="18.0">&#8211; Assets can be retired, even if unprocessed Financial Transactions  <textline bbox="97.224,331.930,649.772,349.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Assets can be retired, even if unprocessed Financial Transactions  </textline>
+</textbox>
+<textbox id="3" bbox="119.780,310.330,161.630,328.330" size="18.0">exist  <textline bbox="119.780,310.330,161.630,328.330" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">exist  </textline>
+</textbox>
+<textbox id="4" bbox="97.224,284.410,574.622,302.410" size="18.0">&#8211; Once retired, Financial Transactions can not be Finalized <textline bbox="97.224,284.410,574.622,302.410" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Once retired, Financial Transactions can not be Finalized </textline>
+</textbox>
+<textbox id="5" bbox="61.224,223.970,609.888,247.970" size="24.0">&#8226; Verify all Financial Transactions have a status of  <textline bbox="61.224,223.970,609.888,247.970" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Verify all Financial Transactions have a status of  </textline>
+</textbox>
+<textbox id="6" bbox="88.224,195.170,491.232,219.170" size="24.0">&#8220;Completed&#8221; prior to retiring any asset <textline bbox="88.224,195.170,491.232,219.170" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8220;Completed&#8221; prior to retiring any asset </textline>
+</textbox>
+<textbox id="7" bbox="97.224,160.498,596.804,176.458" size="15.96">Navigation:  Asset Management &gt; Asset Transactions &gt; Financial  <textline bbox="97.224,160.498,596.804,176.458" font="Arial-BoldItalicMT" ncolour="0" size="15.960" colourspace="DeviceGray">Navigation:  Asset Management &gt; Asset Transactions &gt; Financial  </textline>
+</textbox>
+<textbox id="8" bbox="119.780,141.298,478.497,157.258" size="15.96">Transactions &gt; Review Transfer/Adj. Approvals <textline bbox="119.780,141.298,478.497,157.258" font="Arial-BoldItalicMT" ncolour="0" size="15.960" colourspace="DeviceGray">Transactions &gt; Review Transfer/Adj. Approvals </textline>
+</textbox>
+<textbox id="9" bbox="661.200,28.036,676.806,42.076" size="14.04">33 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">33 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.31.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.27.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.27.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="34" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="211.660,421.387,538.173,465.427" size="44.04">Reinstating Assets <textline bbox="211.660,421.387,538.173,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Reinstating Assets </textline>
+</textbox>
+<textbox id="1" bbox="97.224,357.935,609.961,381.959" size="24.024">&#8226; Reinstatement can be used on retired Assets: <textline bbox="97.224,357.935,609.961,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Reinstatement can be used on retired Assets: </textline>
+</textbox>
+<textbox id="2" bbox="97.224,271.510,429.740,349.930" size="20.0">&#8211; To correct errors 
+&#8211; To place an asset back in service 
+&#8226; When reinstatement occurs:  <textline bbox="133.220,331.930,288.692,349.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; To correct errors </textline>
+<textline bbox="133.220,306.010,421.712,324.010" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; To place an asset back in service </textline>
+<textline bbox="97.224,271.510,429.740,295.510" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; When reinstatement occurs:  </textline>
+</textbox>
+<textbox id="3" bbox="133.220,219.590,594.646,263.549" size="18.012">&#8211; All journal entries created for retired asset are reversed 
+&#8211; If depreciation has not processed for the retired asset,  <textline bbox="133.220,245.525,594.646,263.549" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8211; All journal entries created for retired asset are reversed </textline>
+<textline bbox="133.220,219.590,590.660,237.590" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; If depreciation has not processed for the retired asset,  </textline>
+</textbox>
+<textbox id="4" bbox="155.780,176.390,604.682,215.990" size="18.0">reinstatement will remove the RET transaction from the   
+Cost table <textline bbox="155.780,197.990,604.682,215.990" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">reinstatement will remove the RET transaction from the   </textline>
+<textline bbox="155.780,176.390,236.726,194.390" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Cost table </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">34 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">34 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.32.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.28.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.28.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="35" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="127.870,421.387,621.955,465.427" size="44.04">Retirements/Reinstatements <textline bbox="127.870,421.387,621.955,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Retirements/Reinstatements </textline>
+</textbox>
+<textbox id="1" bbox="85.224,357.935,601.877,381.959" size="24.024">&#8226; When the Retirement/Reinstatement is saved: <textline bbox="85.224,357.935,601.877,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; When the Retirement/Reinstatement is saved: </textline>
+</textbox>
+<textbox id="2" bbox="112.220,179.270,623.732,349.930" size="17.725714285714286">&#8211; Asset status is immediately changed 
+&#8226; Retirement &#8211; status changes to &#8220;Disposed&#8221; 
+&#8226; Reinstatement &#8211; status changes to &#8220;In Service&#8221; 
+&#8211; Asset is automatically placed into workflow  
+If the retirement/reinstatement is denied: 
+&#8211; Asset status does not automatically return to previous status 
+&#8211; AM Entry must take necessary action to change the status <textline bbox="121.220,331.930,434.624,349.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Asset status is immediately changed </textline>
+<textline bbox="157.220,311.762,440.098,325.802" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; Retirement &#8211; status changes to &#8220;Disposed&#8221; </textline>
+<textline bbox="157.220,291.602,465.426,305.642" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; Reinstatement &#8211; status changes to &#8220;In Service&#8221; </textline>
+<textline bbox="121.220,265.690,488.084,283.690" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Asset is automatically placed into workflow  </textline>
+<textline bbox="112.220,231.170,541.508,255.170" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">If the retirement/reinstatement is denied: </textline>
+<textline bbox="121.220,205.190,623.732,223.190" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Asset status does not automatically return to previous status </textline>
+<textline bbox="121.220,179.270,607.784,197.270" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; AM Entry must take necessary action to change the status </textline>
+</textbox>
+<textbox id="3" bbox="85.224,231.170,93.624,255.170" size="24.0">&#8226; <textline bbox="85.224,231.170,93.624,255.170" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="4" bbox="157.220,138.942,427.210,173.142" size="14.04">&#8226; Denied Retirement = Reinstate the asset 
+&#8226; Denied Reinstatement = Retire the asset <textline bbox="157.220,159.102,427.182,173.142" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; Denied Retirement = Reinstate the asset </textline>
+<textline bbox="157.220,138.942,427.210,152.982" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; Denied Reinstatement = Retire the asset </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">35 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">35 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.33.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.29.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.29.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="36" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="197.140,421.387,552.939,465.427" size="44.04">Disposal Worksheet <textline bbox="197.140,421.387,552.939,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Disposal Worksheet </textline>
+</textbox>
+<textbox id="1" bbox="85.224,357.935,441.901,381.959" size="24.024">&#8226; Disposal Worksheet is used to: <textline bbox="85.224,357.935,441.901,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Disposal Worksheet is used to: </textline>
+</textbox>
+<textbox id="2" bbox="121.220,300.302,652.860,349.142" size="19.02">&#8211; Dispose of several assets at one time 
+&#8211; Dispose of assets that have common data, such as: Profile ID,  <textline bbox="121.220,329.102,475.703,349.142" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Dispose of several assets at one time </textline>
+<textline bbox="121.220,300.302,652.860,320.342">&#8211; Dispose of assets that have common data, such as: Profile ID,  <text font="ArialMT" bbox="121.220,300.730,131.228,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">&#8211;</text>
+<text font="ArialMT" bbox="143.780,300.730,156.776,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">D</text>
+<text font="ArialMT" bbox="156.776,300.730,160.772,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="160.700,300.730,169.700,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="169.700,300.730,179.708,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">p</text>
+<text font="ArialMT" bbox="179.708,300.730,189.716,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="189.626,300.730,198.626,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="198.626,300.730,208.634,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="208.634,300.730,213.638,318.730" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="213.728,300.730,223.736,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="223.736,300.730,228.740,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">f</text>
+<text font="ArialMT" bbox="228.740,300.730,233.744,318.730" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="233.744,300.730,243.752,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="243.752,300.730,252.752,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="252.752,300.730,261.752,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="261.752,300.730,271.760,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="271.688,300.730,276.692,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="276.692,300.730,285.692,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="285.692,300.730,290.696,318.730" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="290.750,300.730,295.754,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="295.754,300.730,305.762,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">h</text>
+<text font="ArialMT" bbox="305.762,300.730,315.770,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="315.716,300.730,320.720,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="320.720,300.730,325.724,318.730" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="325.778,300.730,335.786,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">h</text>
+<text font="ArialMT" bbox="335.786,300.730,345.794,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="345.704,300.730,354.704,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">v</text>
+<text font="ArialMT" bbox="354.704,300.730,364.712,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="364.712,300.730,369.716,318.730" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="369.716,300.730,378.716,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">c</text>
+<text font="ArialMT" bbox="378.716,300.730,388.724,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="388.670,300.730,403.664,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="403.664,300.730,418.658,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="418.658,300.730,428.666,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="428.666,300.730,438.674,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="438.584,300.730,443.588,318.730" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="443.732,300.730,453.740,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">d</text>
+<text font="ArialMT" bbox="453.740,300.730,463.748,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="463.658,300.730,468.662,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="468.662,300.730,478.670,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="478.670,300.730,483.674,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">,</text>
+<text font="ArialMT" bbox="483.674,300.730,488.678,318.730" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="488.714,300.730,497.714,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="497.714,300.730,507.722,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">u</text>
+<text font="ArialMT" bbox="507.722,300.730,516.722,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">c</text>
+<text font="ArialMT" bbox="516.722,300.730,526.730,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">h</text>
+<text font="ArialMT" bbox="526.640,300.730,531.644,318.730" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="531.644,300.730,541.652,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="541.652,300.730,550.652,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="550.652,300.730,555.656,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">:</text>
+<text font="ArialMT" bbox="555.656,300.730,560.660,318.730" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="Arial-BoldMT" bbox="560.860,300.730,572.866,318.730" colourspace="DeviceGray" ncolour="0" size="18.000">P</text>
+<text font="ArialMT" bbox="572.860,300.302,579.533,320.342" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="579.533,300.302,590.676,320.342" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="590.716,300.302,596.287,320.342" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="596.287,300.302,600.736,320.342" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="600.736,300.302,605.185,320.342" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="605.124,300.302,616.267,320.342" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="616.267,300.302,621.838,320.342" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="621.677,300.302,627.249,320.342" colourspace="DeviceGray" ncolour="0" size="20.040">I</text>
+<text font="ArialMT" bbox="627.249,300.302,641.717,320.342" colourspace="DeviceGray" ncolour="0" size="20.040">D</text>
+<text font="ArialMT" bbox="641.717,300.302,647.289,320.342" colourspace="DeviceGray" ncolour="0" size="20.040">,</text>
+<text font="ArialMT" bbox="647.289,300.302,652.860,320.342" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</textbox>
+<textbox id="3" bbox="143.780,276.302,383.478,296.342" size="20.04">Category, Department, etc. <textline bbox="143.780,276.302,383.478,296.342" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Category, Department, etc. </textline>
+</textbox>
+<textbox id="4" bbox="85.224,241.745,324.256,265.769" size="24.024">&#8226; Three step process: <textline bbox="85.224,241.745,324.256,265.769" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Three step process: </textline>
+</textbox>
+<textbox id="5" bbox="121.220,163.910,398.534,233.750" size="18.0">&#8211; Select Assets for Disposal 
+&#8211; Approve Disposal Worksheet 
+&#8211; Process the Transaction Loader <textline bbox="121.220,215.750,352.580,233.750" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Select Assets for Disposal </textline>
+<textline bbox="121.220,189.830,375.710,207.830" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Approve Disposal Worksheet </textline>
+<textline bbox="121.220,163.910,398.534,181.910" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Process the Transaction Loader </textline>
+</textbox>
+<textbox id="6" bbox="157.220,123.577,373.199,157.782" size="14.052">&#8226; Locate the Interface ID 
+&#8226; Process the Transaction Loader <textline bbox="157.220,143.742,316.294,157.782" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; Locate the Interface ID </textline>
+<textline bbox="157.220,123.577,373.199,137.641" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">&#8226; Process the Transaction Loader </textline>
+</textbox>
+<textbox id="7" bbox="661.200,28.036,676.806,42.076" size="14.04">36 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">36 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.34.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.30.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.30.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="37" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="194.140,421.387,555.929,465.427" size="44.04">Demo and Exercises <textline bbox="194.140,421.387,555.929,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Demo and Exercises </textline>
+</textbox>
+<textbox id="1" bbox="85.224,353.238,423.806,381.198" size="27.96">&#8226; Are there any questions? <textline bbox="85.224,353.238,423.806,381.198" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Are there any questions? </textline>
+</textbox>
+<textbox id="2" bbox="85.224,272.598,294.323,300.558" size="27.96">&#8226; Demonstration <textline bbox="85.224,272.598,294.323,300.558" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Demonstration </textline>
+</textbox>
+<textbox id="3" bbox="85.224,191.938,233.622,219.898" size="27.96">&#8226; Exercises <textline bbox="85.224,191.938,233.622,219.898" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Exercises </textline>
+</textbox>
+<textbox id="4" bbox="121.220,122.685,497.411,181.250" size="24.012">&#8211; Exercise 9 &#8211; Retire an Asset 
+&#8211; Exercise 10 &#8211; Reinstate an Asset <textline bbox="121.220,157.250,446.690,181.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Exercise 9 &#8211; Retire an Asset </textline>
+<textline bbox="121.220,122.685,497.411,146.709" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Exercise 10 &#8211; Reinstate an Asset </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">37 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">37 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.35.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.31.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.31.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="38" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="61.224,316.069,586.616,386.509" size="32.04">Chapter  2 
+Integrating with PeopleSoft Procurement <textline bbox="61.224,354.469,194.510,386.509" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Chapter  2 </textline>
+<textline bbox="61.224,316.069,586.616,348.109" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Integrating with PeopleSoft Procurement </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.36.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="39" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="258.220,421.387,491.720,465.427" size="44.04">Asset Details <textline bbox="258.220,421.387,491.720,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Asset Details </textline>
+</textbox>
+<textbox id="1" bbox="97.224,360.815,544.376,384.839" size="24.024">&#8226; Asset Information Tab can be found on: <textline bbox="97.224,360.815,544.376,384.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Asset Information Tab can be found on: </textline>
+</textbox>
+<textbox id="2" bbox="133.220,334.382,597.401,354.422" size="20.04">&#8211; Requisition, Purchasing, Receiving and Accounts  <textline bbox="133.220,334.382,597.401,354.422" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Requisition, Purchasing, Receiving and Accounts  </textline>
+</textbox>
+<textbox id="3" bbox="155.780,312.782,288.305,332.822" size="20.04">Payable pages <textline bbox="155.780,312.782,288.305,332.822" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Payable pages </textline>
+</textbox>
+<textbox id="4" bbox="97.224,257.290,461.492,305.110" size="21.0">&#8226; Asset Information Tab contains: 
+&#8211; Business Unit, Asset ID and Profile ID <textline bbox="97.224,281.110,461.492,305.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Asset Information Tab contains: </textline>
+<textline bbox="133.220,257.290,457.712,275.290" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Business Unit, Asset ID and Profile ID </textline>
+</textbox>
+<textbox id="5" bbox="97.224,225.650,421.628,249.650" size="24.0">&#8226; PO Receipt pages contains: <textline bbox="97.224,225.650,421.628,249.650" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; PO Receipt pages contains: </textline>
+</textbox>
+<textbox id="6" bbox="133.220,201.830,454.562,219.830" size="18.0">&#8211; Tag Number, Location and Custodian <textline bbox="133.220,201.830,454.562,219.830" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Tag Number, Location and Custodian </textline>
+</textbox>
+<textbox id="7" bbox="124.220,119.025,594.056,157.790" size="18.012">Note &#8211; Asset Information will default in from the interfacing  
+modules.  However, interfaced data can be overwritten. <textline bbox="124.220,139.790,594.056,157.790" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Note &#8211; Asset Information will default in from the interfacing  </textline>
+<textline bbox="124.220,119.025,563.717,137.049" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">modules.  However, interfaced data can be overwritten. </textline>
+</textbox>
+<textbox id="8" bbox="661.200,28.036,676.806,42.076" size="14.04">39 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">39 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.37.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.32.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.32.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="40" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="296.020,423.709,453.902,463.669" size="39.96">Appendix <textline bbox="296.020,423.709,453.902,463.669" font="TimesNewRomanPSMT" ncolour="1" size="39.960" colourspace="DeviceGray">Appendix </textline>
+</textbox>
+<textbox id="1" bbox="85.224,360.815,596.949,384.839" size="24.024">&#8226; Asset manual contains an appendix detailing  <textline bbox="85.224,360.815,596.949,384.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Asset manual contains an appendix detailing  </textline>
+</textbox>
+<textbox id="2" bbox="115.220,239.765,523.532,358.870" size="19.2048">where Asset Information is located for: 
+&#8211; Requisition 
+&#8211; Purchase Order 
+&#8211; Receipt 
+&#8211; Voucher <textline bbox="115.220,334.870,523.532,358.870" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">where Asset Information is located for: </textline>
+<textline bbox="121.220,311.050,236.996,329.050" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Requisition </textline>
+<textline bbox="121.220,287.290,275.156,305.290" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Purchase Order </textline>
+<textline bbox="121.220,263.530,209.060,281.530" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Receipt </textline>
+<textline bbox="121.220,239.765,215.071,257.789" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8211; Voucher </textline>
+</textbox>
+<textbox id="3" bbox="85.224,208.130,608.612,232.130" size="24.0">&#8226; Asset manual is located on the ENCOMPASS  <textline bbox="85.224,208.130,608.612,232.130" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Asset manual is located on the ENCOMPASS  </textline>
+</textbox>
+<textbox id="4" bbox="115.220,95.724,620.852,206.210" size="19.2">Website, along with the other training materials: 
+&#8211; https://myshare.in.gov/sba/encompass/default.aspx 
+&#8211; AP Training documents: ENCOMPASS &gt; ENCOMPASS  
+Documents &gt; Training &gt; Asset Management Class &gt; AM  
+Course Manuals <textline bbox="115.220,182.210,620.852,206.210" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Website, along with the other training materials: </textline>
+<textline bbox="121.220,158.390,556.676,176.390">&#8211; https://myshare.in.gov/sba/encompass/default.aspx <text font="ArialMT" bbox="121.220,158.390,131.228,176.390" colourspace="DeviceGray" ncolour="0" size="18.000">&#8211;</text>
+<text font="ArialMT" bbox="148.220,158.390,158.228,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">h</text>
+<text font="ArialMT" bbox="158.228,158.390,163.232,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">t</text>
+<text font="ArialMT" bbox="163.232,158.390,168.236,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">t</text>
+<text font="ArialMT" bbox="168.236,158.390,178.244,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">p</text>
+<text font="ArialMT" bbox="178.244,158.390,187.244,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="187.244,158.390,192.248,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">:</text>
+<text font="ArialMT" bbox="192.248,158.390,197.252,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">/</text>
+<text font="ArialMT" bbox="197.252,158.390,202.256,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">/</text>
+<text font="ArialMT" bbox="202.328,158.390,217.322,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">m</text>
+<text font="ArialMT" bbox="217.322,158.390,226.322,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">y</text>
+<text font="ArialMT" bbox="226.088,158.390,235.088,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="235.088,158.390,245.096,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">h</text>
+<text font="ArialMT" bbox="245.096,158.390,255.104,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="255.014,158.390,261.008,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">r</text>
+<text font="ArialMT" bbox="261.008,158.390,271.016,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="271.016,158.390,276.020,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">.</text>
+<text font="ArialMT" bbox="276.020,158.390,280.016,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">i</text>
+<text font="ArialMT" bbox="280.016,158.390,290.024,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">n</text>
+<text font="ArialMT" bbox="289.934,158.390,294.938,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">.</text>
+<text font="ArialMT" bbox="294.938,158.390,304.946,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">g</text>
+<text font="ArialMT" bbox="304.946,158.390,314.954,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">o</text>
+<text font="ArialMT" bbox="314.900,158.390,323.900,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">v</text>
+<text font="ArialMT" bbox="323.900,158.390,328.904,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">/</text>
+<text font="ArialMT" bbox="328.904,158.390,337.904,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="337.904,158.390,347.912,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">b</text>
+<text font="ArialMT" bbox="347.912,158.390,357.920,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="357.866,158.390,362.870,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">/</text>
+<text font="ArialMT" bbox="362.870,158.390,372.878,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="372.878,158.390,382.886,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">n</text>
+<text font="ArialMT" bbox="382.832,158.390,391.832,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">c</text>
+<text font="ArialMT" bbox="391.832,158.390,401.840,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">o</text>
+<text font="ArialMT" bbox="401.840,158.390,416.834,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">m</text>
+<text font="ArialMT" bbox="416.834,158.390,426.842,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">p</text>
+<text font="ArialMT" bbox="426.752,158.390,436.760,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="436.760,158.390,445.760,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="445.760,158.390,454.760,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="454.760,158.390,459.764,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">/</text>
+<text font="ArialMT" bbox="459.764,158.390,469.772,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">d</text>
+<text font="ArialMT" bbox="469.718,158.390,479.726,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="479.726,158.390,484.730,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">f</text>
+<text font="ArialMT" bbox="484.730,158.390,494.738,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="494.684,158.390,504.692,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">u</text>
+<text font="ArialMT" bbox="504.692,158.390,508.688,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">l</text>
+<text font="ArialMT" bbox="508.598,158.390,513.602,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">t</text>
+<text font="ArialMT" bbox="513.602,158.390,518.606,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">.</text>
+<text font="ArialMT" bbox="518.660,158.390,528.668,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="528.668,158.390,537.668,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="537.668,158.390,547.676,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">p</text>
+<text font="ArialMT" bbox="547.676,158.390,556.676,176.390" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">x</text>
+</textline>
+<textline bbox="121.220,134.630,600.686,152.630" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; AP Training documents: ENCOMPASS &gt; ENCOMPASS  </textline>
+<textline bbox="148.220,115.160,602.702,133.160" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Documents &gt; Training &gt; Asset Management Class &gt; AM  </textline>
+<textline bbox="148.220,95.724,279.044,113.724" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Course Manuals </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">40 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">40 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.38.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.33.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.33.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="41" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="288.220,421.387,461.826,465.427" size="44.04">Interfaces <textline bbox="288.220,421.387,461.826,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Interfaces </textline>
+</textbox>
+<textbox id="1" bbox="97.224,360.815,524.340,384.839" size="24.024">&#8226; Asset Status created by the Interface: <textline bbox="97.224,360.815,524.340,384.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Asset Status created by the Interface: </textline>
+</textbox>
+<textbox id="2" bbox="133.220,336.970,596.672,354.970" size="18.0">&#8211; PO Receipt adds the Asset Status of &#8220;Received (Not in  <textline bbox="133.220,336.970,596.672,354.970" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; PO Receipt adds the Asset Status of &#8220;Received (Not in  </textline>
+</textbox>
+<textbox id="3" bbox="155.780,317.530,227.654,335.530" size="18.0">Service)&#8221; <textline bbox="155.780,317.530,227.654,335.530" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Service)&#8221; </textline>
+</textbox>
+<textbox id="4" bbox="133.220,254.890,589.724,311.770" size="18.0">&#8211; AP Voucher automatically capitalizes the asset for the  
+voucher amount and changes the Asset Status to &#8220;In  
+Service&#8221; <textline bbox="133.220,293.770,589.724,311.770" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; AP Voucher automatically capitalizes the asset for the  </textline>
+<textline bbox="155.780,274.330,579.842,292.330" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">voucher amount and changes the Asset Status to &#8220;In  </textline>
+<textline bbox="155.780,254.890,221.660,272.890" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Service&#8221; </textline>
+</textbox>
+<textbox id="5" bbox="97.224,223.250,105.624,247.250" size="24.0">&#8226; <textline bbox="97.224,223.250,105.624,247.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="6" bbox="124.220,199.430,573.470,247.250" size="21.0">Interfaces process automatically 
+&#8211; AM Entry Users can process the interfaces manually <textline bbox="124.220,223.250,466.940,247.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Interfaces process automatically </textline>
+<textline bbox="133.220,199.430,573.470,217.430" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; AM Entry Users can process the interfaces manually </textline>
+</textbox>
+<textbox id="7" bbox="97.224,157.250,623.012,181.250" size="24.0">&#8226; Four steps to interface Receipts/Vouchers into  <textline bbox="97.224,157.250,623.012,181.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Four steps to interface Receipts/Vouchers into  </textline>
+</textbox>
+<textbox id="8" bbox="124.220,107.480,579.674,155.349" size="21.012">Asset Management: 
+&#8211; Pre-Interface tables, Interface Loader, Consolidate /   <textline bbox="124.220,131.325,337.553,155.349" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Asset Management: </textline>
+<textline bbox="133.220,107.480,579.674,125.480" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Pre-Interface tables, Interface Loader, Consolidate /   </textline>
+</textbox>
+<textbox id="9" bbox="155.780,88.044,420.794,106.044" size="18.0">Unitize, and Transaction Loader   <textline bbox="155.780,88.044,420.794,106.044" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Unitize, and Transaction Loader   </textline>
+</textbox>
+<textbox id="10" bbox="661.200,28.036,676.806,42.076" size="14.04">41 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">41 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.39.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.34.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.34.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="42" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="154.990,435.787,595.170,479.827" size="44.04">Integration Process Flow <textline bbox="154.990,435.787,595.170,479.827" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Integration Process Flow </textline>
+</textbox>
+<textbox id="1" bbox="661.200,28.036,676.806,42.076" size="14.04">42 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">42 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.40.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.35.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.35.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="43" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="278.380,421.387,471.716,465.427" size="44.04">Integration <textline bbox="278.380,421.387,471.716,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Integration </textline>
+</textbox>
+<textbox id="1" bbox="73.224,357.935,433.673,381.959" size="24.024">&#8226; Four integration steps involved: <textline bbox="73.224,357.935,433.673,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Four integration steps involved: </textline>
+</textbox>
+<textbox id="2" bbox="109.220,329.102,558.632,349.142" size="20.04">&#8211; Step 1 involves pushing the Receipt or Voucher  <textline bbox="109.220,329.102,558.632,349.142" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Step 1 involves pushing the Receipt or Voucher  </textline>
+</textbox>
+<textbox id="3" bbox="131.780,281.102,611.518,325.142" size="20.04">information from Procurement into AM.  It will process  
+automatically. <textline bbox="131.780,305.102,611.518,325.142" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">information from Procurement into AM.  It will process  </textline>
+<textline bbox="131.780,281.102,254.285,301.142" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">automatically. </textline>
+</textbox>
+<textbox id="4" bbox="109.220,252.297,656.614,272.361" size="20.064">&#8211; Step 2 is the Interface Loader.  It pulls information from the  <textline bbox="109.220,252.297,656.614,272.361" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; Step 2 is the Interface Loader.  It pulls information from the  </textline>
+</textbox>
+<textbox id="5" bbox="131.780,204.282,585.009,248.322" size="20.04">Pre-Interface table and populates the Physical and  
+Financial tables.  It will process automatically. <textline bbox="131.780,228.282,585.009,248.322" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Pre-Interface table and populates the Physical and  </textline>
+<textline bbox="131.780,204.282,535.325,224.322" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Financial tables.  It will process automatically. </textline>
+</textbox>
+<textbox id="6" bbox="109.220,151.482,601.017,195.522" size="20.04">&#8211; Step 3 is Consolidation/Unitization.  This is manually  
+controlled and must be processed prior to Step 4. <textline bbox="109.220,175.482,601.017,195.522" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Step 3 is Consolidation/Unitization.  This is manually  </textline>
+<textline bbox="131.780,151.482,568.011,171.522" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">controlled and must be processed prior to Step 4. </textline>
+</textbox>
+<textbox id="7" bbox="109.220,122.677,638.677,142.741" size="20.064">&#8211; Step 4 is the Transaction Loader.  It creates the asset.  It  <textline bbox="109.220,122.677,638.677,142.741" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; Step 4 is the Transaction Loader.  It creates the asset.  It  </textline>
+</textbox>
+<textbox id="8" bbox="131.780,98.652,363.162,118.692" size="20.04">will process automatically. <textline bbox="131.780,98.652,363.162,118.692" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">will process automatically. </textline>
+</textbox>
+<textbox id="9" bbox="661.200,28.036,676.806,42.076" size="14.04">43 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">43 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.41.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.36.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.36.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="44" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="187.900,421.387,561.976,465.427" size="44.04">Consolidate / Unitize <textline bbox="187.900,421.387,561.976,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Consolidate / Unitize </textline>
+</textbox>
+<textbox id="1" bbox="97.224,357.935,567.439,381.959" size="24.024">&#8226; Consolidation is used to combine several  <textline bbox="97.224,357.935,567.439,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Consolidation is used to combine several  </textline>
+</textbox>
+<textbox id="2" bbox="124.220,329.110,467.252,353.110" size="24.0">components into a single asset.  <textline bbox="124.220,329.110,467.252,353.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">components into a single asset.  </textline>
+</textbox>
+<textbox id="3" bbox="97.224,208.130,612.692,318.550" size="24.0">&#8226; Unitization is used to convert asset lines from  
+PO Receipts or Vouchers with multiple asset  
+quantities into separate assets having a  
+quantity of one. <textline bbox="97.224,294.550,612.692,318.550" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Unitization is used to convert asset lines from  </textline>
+<textline bbox="124.220,265.750,604.556,289.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">PO Receipts or Vouchers with multiple asset  </textline>
+<textline bbox="124.220,236.930,552.644,260.930" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">quantities into separate assets having a  </textline>
+<textline bbox="124.220,208.130,288.236,232.130" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">quantity of one. </textline>
+</textbox>
+<textbox id="4" bbox="97.224,144.770,618.044,197.570" size="24.0">&#8226; Consolidation / Unitization must be completed  
+prior to processing the Transaction Loader. <textline bbox="97.224,173.570,618.044,197.570" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Consolidation / Unitization must be completed  </textline>
+<textline bbox="124.220,144.770,581.780,168.770" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">prior to processing the Transaction Loader. </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">44 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">44 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.42.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.37.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.37.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="45" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="194.140,421.387,555.929,465.427" size="44.04">Demo and Exercises <textline bbox="194.140,421.387,555.929,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Demo and Exercises </textline>
+</textbox>
+<textbox id="1" bbox="85.224,357.935,378.934,381.959" size="24.024">&#8226; Are there any questions? <textline bbox="85.224,357.935,378.934,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Are there any questions? </textline>
+</textbox>
+<textbox id="2" bbox="85.224,288.790,268.268,312.790" size="24.0">&#8226; Demonstration <textline bbox="85.224,288.790,268.268,312.790" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Demonstration </textline>
+</textbox>
+<textbox id="3" bbox="85.224,219.650,216.068,243.650" size="24.0">&#8226; Exercises <textline bbox="85.224,219.650,216.068,243.650" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Exercises </textline>
+</textbox>
+<textbox id="4" bbox="121.220,162.042,468.465,210.882" size="20.04">&#8211; Exercise 11 &#8211; Unitization of Assets 
+&#8211; Exercise 12 &#8211; Consolidation of Assts <textline bbox="121.220,190.842,451.772,210.882" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Exercise 11 &#8211; Unitization of Assets </textline>
+<textline bbox="121.220,162.042,468.465,182.082" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Exercise 12 &#8211; Consolidation of Assts </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">45 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">45 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.43.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.38.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.38.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="46" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="61.224,313.069,481.109,383.509" size="32.04">Chapter  6 
+Maintaining Parent-Child Assets <textline bbox="61.224,351.469,194.510,383.509" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Chapter  6 </textline>
+<textline bbox="61.224,313.069,481.109,345.109" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Maintaining Parent-Child Assets </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.44.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="47" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="223.300,399.709,536.722,487.669" size="39.96">Parent-Child Asset  
+Relationships <textline bbox="223.300,447.709,536.722,487.669" font="TimesNewRomanPSMT" ncolour="1" size="39.960" colourspace="DeviceGray">Parent-Child Asset  </textline>
+<textline bbox="265.900,399.709,483.802,439.669" font="TimesNewRomanPSMT" ncolour="1" size="39.960" colourspace="DeviceGray">Relationships </textline>
+</textbox>
+<textbox id="1" bbox="85.224,363.695,340.222,387.719" size="24.024">&#8226; Parent-Child Assets: <textline bbox="85.224,363.695,340.222,387.719" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Parent-Child Assets: </textline>
+</textbox>
+<textbox id="2" bbox="121.220,315.662,562.220,359.702" size="20.04">&#8211; Grouped together for processing and reporting 
+&#8211; Three methods of grouping assets: <textline bbox="121.220,339.662,562.220,359.702" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Grouped together for processing and reporting </textline>
+<textline bbox="121.220,315.662,460.117,335.702" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Three methods of grouping assets: </textline>
+</textbox>
+<textbox id="3" bbox="157.220,294.010,642.122,312.010" size="18.0">&#8226; Single asset with multiple acquisition detail lines for each  <textline bbox="157.220,294.010,642.122,312.010" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; Single asset with multiple acquisition detail lines for each  </textline>
+</textbox>
+<textbox id="4" bbox="184.220,276.730,273.194,294.730" size="18.0">component <textline bbox="184.220,276.730,273.194,294.730" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">component </textline>
+</textbox>
+<textbox id="5" bbox="157.220,255.130,588.032,273.130" size="18.0">&#8226; One component designated as the parent with the  <textline bbox="157.220,255.130,588.032,273.130" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; One component designated as the parent with the  </textline>
+</textbox>
+<textbox id="6" bbox="184.220,237.830,489.752,255.830" size="18.0">remaining components as child assets <textline bbox="184.220,237.830,489.752,255.830" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">remaining components as child assets </textline>
+</textbox>
+<textbox id="7" bbox="157.220,216.230,628.046,234.230" size="18.0">&#8226; Parent only asset with each component as a child asset <textline bbox="157.220,216.230,628.046,234.230" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; Parent only asset with each component as a child asset </textline>
+</textbox>
+<textbox id="8" bbox="121.220,182.682,628.974,202.722" size="20.04">&#8211; Each component can have its own cost, depreciation,  <textline bbox="121.220,182.682,628.974,202.722" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Each component can have its own cost, depreciation,  </textline>
+</textbox>
+<textbox id="9" bbox="151.220,163.482,367.071,183.522" size="20.04">and physical information <textline bbox="151.220,163.482,367.071,183.522" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">and physical information </textline>
+</textbox>
+<textbox id="10" bbox="85.224,105.748,610.653,121.708" size="15.96">Navigation:  Asset Management &gt; Asset Transactions &gt; Parent-Child  <textline bbox="85.224,105.748,610.653,121.708" font="Arial-BoldItalicMT" ncolour="0" size="15.960" colourspace="DeviceGray">Navigation:  Asset Management &gt; Asset Transactions &gt; Parent-Child  </textline>
+</textbox>
+<textbox id="11" bbox="179.660,90.392,462.183,106.352" size="15.96">Relationship &gt; Review Parent - Child  <textline bbox="179.660,90.392,462.183,106.352" font="Arial-BoldItalicMT" ncolour="0" size="15.960" colourspace="DeviceGray">Relationship &gt; Review Parent - Child  </textline>
+</textbox>
+<textbox id="12" bbox="661.200,28.036,676.806,42.076" size="14.04">47 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">47 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.45.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.39.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.39.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="48" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="150.430,423.709,599.356,463.669" size="39.96">Adding Parent-Child Assets <textline bbox="150.430,423.709,599.356,463.669" font="TimesNewRomanPSMT" ncolour="1" size="39.960" colourspace="DeviceGray">Adding Parent-Child Assets </textline>
+</textbox>
+<textbox id="1" bbox="97.224,329.110,603.426,384.839" size="24.012">&#8226; Parent-Child Assets are added via Basic Add 
+&#8226; Parent Asset must be established prior to  <textline bbox="97.224,360.815,603.426,384.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Parent-Child Assets are added via Basic Add </textline>
+<textline bbox="97.224,329.110,569.876,353.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Parent Asset must be established prior to  </textline>
+</textbox>
+<textbox id="2" bbox="124.220,303.190,417.956,327.190" size="24.0">assigning any Child Assets  <textline bbox="124.220,303.190,417.956,327.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">assigning any Child Assets  </textline>
+</textbox>
+<textbox id="3" bbox="97.224,271.510,623.060,295.510" size="24.0">&#8226; Child Assets can have a cost and depreciation  <textline bbox="97.224,271.510,623.060,295.510" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Child Assets can have a cost and depreciation  </textline>
+</textbox>
+<textbox id="4" bbox="124.220,245.585,400.544,269.609" size="24.024">independent of the Parent <textline bbox="124.220,245.585,400.544,269.609" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">independent of the Parent </textline>
+</textbox>
+<textbox id="5" bbox="97.224,213.890,612.548,237.890" size="24.0">&#8226; Once established, special security is required  <textline bbox="97.224,213.890,612.548,237.890" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Once established, special security is required  </textline>
+</textbox>
+<textbox id="6" bbox="124.220,187.970,519.214,211.970" size="24.0">to change a Parent-Child designation <textline bbox="124.220,187.970,519.214,211.970" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">to change a Parent-Child designation </textline>
+</textbox>
+<textbox id="7" bbox="661.200,28.036,676.806,42.076" size="14.04">48 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">48 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.46.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.40.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.40.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="49" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="121.870,421.387,627.947,465.427" size="44.04">Retiring Parent-Child Assets <textline bbox="121.870,421.387,627.947,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Retiring Parent-Child Assets </textline>
+</textbox>
+<textbox id="1" bbox="97.224,242.697,528.639,381.959" size="20.8416">&#8226; Parent-Child Assets can be retired by: 
+&#8211; Retiring the parent and all child assets 
+&#8211; Retiring the parent and some child assets 
+&#8211; Retiring just the child assets 
+&#8211; Retiring just some of the child assets <textline bbox="97.224,357.935,528.639,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Parent-Child Assets can be retired by: </textline>
+<textline bbox="133.220,329.102,494.937,349.142" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Retiring the parent and all child assets </textline>
+<textline bbox="133.220,300.302,523.574,320.342" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Retiring the parent and some child assets </textline>
+<textline bbox="133.220,271.502,404.897,291.542" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Retiring just the child assets </textline>
+<textline bbox="133.220,242.697,481.439,262.761" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; Retiring just some of the child assets </textline>
+</textbox>
+<textbox id="2" bbox="661.200,28.036,676.806,42.076" size="14.04">49 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">49 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.47.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.41.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.41.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="50" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="244.060,421.387,505.834,465.427" size="44.04">Demonstration <textline bbox="244.060,421.387,505.834,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Demonstration </textline>
+</textbox>
+<textbox id="1" bbox="85.224,353.238,423.806,381.198" size="27.96">&#8226; Are there any questions? <textline bbox="85.224,353.238,423.806,381.198" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Are there any questions? </textline>
+</textbox>
+<textbox id="2" bbox="85.224,272.598,294.323,300.558" size="27.96">&#8226; Demonstration <textline bbox="85.224,272.598,294.323,300.558" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Demonstration </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">50 
+50 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">50 </textline>
+<textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">50 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.48.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.42.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.42.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="51" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="61.224,313.069,430.998,383.509" size="32.04">Chapter  7 
+Correcting ChartField Errors <textline bbox="61.224,351.469,194.510,383.509" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Chapter  7 </textline>
+<textline bbox="61.224,313.069,430.998,345.109" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Correcting ChartField Errors </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.49.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="52" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="251.140,423.709,498.732,463.669" size="39.96">ChartField Edit <textline bbox="251.140,423.709,498.732,463.669" font="TimesNewRomanPSMT" ncolour="1" size="39.960" colourspace="DeviceGray">ChartField Edit </textline>
+</textbox>
+<textbox id="1" bbox="97.224,242.697,615.174,381.959" size="21.633599999999994">&#8226; A custom Chartfield Edit process was created  
+to run after Accounting Entries are created to: 
+&#8211; Validate ChartField values 
+&#8211; Validate Chartfield combinations 
+&#8211; Flag any Chartfield errors <textline bbox="97.224,357.935,615.174,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; A custom Chartfield Edit process was created  </textline>
+<textline bbox="124.220,329.110,608.468,353.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">to run after Accounting Entries are created to: </textline>
+<textline bbox="133.220,300.302,389.486,320.342" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Validate ChartField values </textline>
+<textline bbox="133.220,271.502,442.833,291.542" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Validate Chartfield combinations </textline>
+<textline bbox="133.220,242.697,381.600,262.761" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; Flag any Chartfield errors </textline>
+</textbox>
+<textbox id="2" bbox="97.224,167.810,584.372,220.610" size="24.0">&#8226; Line errors must be correct in order to post  
+accounting information to General Ledger <textline bbox="97.224,196.610,584.372,220.610" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Line errors must be correct in order to post  </textline>
+<textline bbox="124.220,167.810,565.796,191.810" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">accounting information to General Ledger </textline>
+</textbox>
+<textbox id="3" bbox="124.220,100.040,627.084,141.009" size="18.012">Note &#8211; Agencies are responsibility for reviewing and correcting  
+any identified ChartField errors at the end of each month. <textline bbox="124.220,122.985,627.084,141.009" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">Note &#8211; Agencies are responsibility for reviewing and correcting  </textline>
+<textline bbox="124.220,100.040,579.026,118.040" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">any identified ChartField errors at the end of each month. </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">52 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">52 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.50.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.43.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.43.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="53" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="244.060,421.387,505.834,465.427" size="44.04">Demonstration <textline bbox="244.060,421.387,505.834,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Demonstration </textline>
+</textbox>
+<textbox id="1" bbox="85.224,353.238,423.806,381.198" size="27.96">&#8226; Are there any questions? <textline bbox="85.224,353.238,423.806,381.198" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Are there any questions? </textline>
+</textbox>
+<textbox id="2" bbox="85.224,272.598,294.323,300.558" size="27.96">&#8226; Demonstration <textline bbox="85.224,272.598,294.323,300.558" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Demonstration </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">53 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">53 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.51.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.44.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.44.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="54" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="200.980,423.709,548.752,463.669" size="39.96">Post Go Live Support <textline bbox="200.980,423.709,548.752,463.669" font="TimesNewRomanPSMT" ncolour="1" size="39.960" colourspace="DeviceGray">Post Go Live Support </textline>
+</textbox>
+<textbox id="1" bbox="85.224,357.935,343.160,381.959" size="24.024">&#8226; Post Go Live Support <textline bbox="85.224,357.935,343.160,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Post Go Live Support </textline>
+</textbox>
+<textbox id="2" bbox="121.220,271.502,622.507,349.142" size="20.04">&#8211; &#8220;Report an Issue&#8221; link on the Sign In page  
+&#8211; &#8220;Report an Issue&#8221; link under the ENCOMPASS menu  
+&#8211; Call 317-234-HELP to create a helpdesk ticket <textline bbox="121.220,329.102,522.447,349.142" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; &#8220;Report an Issue&#8221; link on the Sign In page  </textline>
+<textline bbox="121.220,300.302,622.507,320.342" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; &#8220;Report an Issue&#8221; link under the ENCOMPASS menu  </textline>
+<textline bbox="121.220,271.502,558.388,291.542" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Call 317-234-HELP to create a helpdesk ticket </textline>
+</textbox>
+<textbox id="3" bbox="85.224,216.282,297.664,236.322" size="20.04">&#8226; Encompass Website <textline bbox="85.224,216.282,297.664,236.322" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Encompass Website </textline>
+</textbox>
+<textbox id="4" bbox="121.220,168.710,600.686,210.470" size="18.0">&#8211; https://myshare.in.gov/sba/encompass/default.aspx 
+&#8211; AP Training documents: ENCOMPASS &gt; ENCOMPASS  <textline bbox="121.220,192.470,556.676,210.470">&#8211; https://myshare.in.gov/sba/encompass/default.aspx <text font="ArialMT" bbox="121.220,192.470,131.228,210.470" colourspace="DeviceGray" ncolour="0" size="18.000">&#8211;</text>
+<text font="ArialMT" bbox="148.220,192.470,158.228,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">h</text>
+<text font="ArialMT" bbox="158.228,192.470,163.232,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">t</text>
+<text font="ArialMT" bbox="163.232,192.470,168.236,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">t</text>
+<text font="ArialMT" bbox="168.236,192.470,178.244,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">p</text>
+<text font="ArialMT" bbox="178.244,192.470,187.244,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="187.244,192.470,192.248,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">:</text>
+<text font="ArialMT" bbox="192.248,192.470,197.252,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">/</text>
+<text font="ArialMT" bbox="197.252,192.470,202.256,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">/</text>
+<text font="ArialMT" bbox="202.328,192.470,217.322,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">m</text>
+<text font="ArialMT" bbox="217.322,192.470,226.322,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">y</text>
+<text font="ArialMT" bbox="226.088,192.470,235.088,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="235.088,192.470,245.096,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">h</text>
+<text font="ArialMT" bbox="245.096,192.470,255.104,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="255.014,192.470,261.008,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">r</text>
+<text font="ArialMT" bbox="261.008,192.470,271.016,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="271.016,192.470,276.020,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">.</text>
+<text font="ArialMT" bbox="276.020,192.470,280.016,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">i</text>
+<text font="ArialMT" bbox="280.016,192.470,290.024,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">n</text>
+<text font="ArialMT" bbox="289.934,192.470,294.938,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">.</text>
+<text font="ArialMT" bbox="294.938,192.470,304.946,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">g</text>
+<text font="ArialMT" bbox="304.946,192.470,314.954,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">o</text>
+<text font="ArialMT" bbox="314.900,192.470,323.900,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">v</text>
+<text font="ArialMT" bbox="323.900,192.470,328.904,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">/</text>
+<text font="ArialMT" bbox="328.904,192.470,337.904,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="337.904,192.470,347.912,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">b</text>
+<text font="ArialMT" bbox="347.912,192.470,357.920,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="357.866,192.470,362.870,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">/</text>
+<text font="ArialMT" bbox="362.870,192.470,372.878,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="372.878,192.470,382.886,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">n</text>
+<text font="ArialMT" bbox="382.832,192.470,391.832,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">c</text>
+<text font="ArialMT" bbox="391.832,192.470,401.840,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">o</text>
+<text font="ArialMT" bbox="401.840,192.470,416.834,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">m</text>
+<text font="ArialMT" bbox="416.834,192.470,426.842,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">p</text>
+<text font="ArialMT" bbox="426.752,192.470,436.760,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="436.760,192.470,445.760,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="445.760,192.470,454.760,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="454.760,192.470,459.764,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">/</text>
+<text font="ArialMT" bbox="459.764,192.470,469.772,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">d</text>
+<text font="ArialMT" bbox="469.718,192.470,479.726,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="479.726,192.470,484.730,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">f</text>
+<text font="ArialMT" bbox="484.730,192.470,494.738,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="494.684,192.470,504.692,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">u</text>
+<text font="ArialMT" bbox="504.692,192.470,508.688,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">l</text>
+<text font="ArialMT" bbox="508.598,192.470,513.602,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">t</text>
+<text font="ArialMT" bbox="513.602,192.470,518.606,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">.</text>
+<text font="ArialMT" bbox="518.660,192.470,528.668,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="528.668,192.470,537.668,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="537.668,192.470,547.676,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">p</text>
+<text font="ArialMT" bbox="547.676,192.470,556.676,210.470" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">x</text>
+</textline>
+<textline bbox="121.220,168.710,600.686,186.710" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; AP Training documents: ENCOMPASS &gt; ENCOMPASS  </textline>
+</textbox>
+<textbox id="5" bbox="148.220,149.270,555.092,167.270" size="18.0">Documents &gt; Training &gt; Asset Management Class  <textline bbox="148.220,149.270,555.092,167.270" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Documents &gt; Training &gt; Asset Management Class  </textline>
+</textbox>
+<textbox id="6" bbox="661.200,28.036,676.806,42.076" size="14.04">54 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">54 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.52.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.45.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.45.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="55" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="270.940,421.387,479.029,465.427" size="44.04">Evaluations <textline bbox="270.940,421.387,479.029,465.427" font="TimesNewRomanPSMT" ncolour="1" size="44.040" colourspace="DeviceGray">Evaluations </textline>
+</textbox>
+<textbox id="1" bbox="97.224,249.425,578.771,381.198" size="24.996000000000002">&#8226; Course evaluation 
+&#8211; Please be honest 
+&#8211; Provide suggestions for improvements  
+&#8211; Evaluations are used to adjust the class <textline bbox="97.224,353.238,350.165,381.198" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Course evaluation </textline>
+<textline bbox="133.220,318.550,341.228,342.550" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Please be honest </textline>
+<textline bbox="133.220,283.990,570.716,307.990" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Provide suggestions for improvements  </textline>
+<textline bbox="133.220,249.425,578.771,273.449" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Evaluations are used to adjust the class </textline>
+</textbox>
+<textbox id="2" bbox="661.200,28.036,676.806,42.076" size="14.04">55 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">55 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.53.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.46.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.46.jpg" width="106" height="45">
+</figure>
+</page>
+<page id="56" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="661.200,28.036,676.806,42.076" size="14.04">56 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">56 </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.54.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="0.000,378.000,125.280,540.000" src="Image12.47.jpg" width="125" height="162">
+</figure>
+<figure name="Image14" bbox="600.000,477.000,706.560,522.000" src="Image14.47.jpg" width="106" height="45">
+</figure>
+</page>
+</pages>

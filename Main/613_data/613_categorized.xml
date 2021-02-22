@@ -1,0 +1,655 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="151.270,461.236,552.982,514.075" size="24.012" unique_id="0">Black carbon in Arctic snow:   
+Quantifying its effect on surface albedo <textline bbox="203.860,490.051,512.689,514.075" font="TimesNewRomanPS-BoldMT" ncolour="1" size="24.024" colourspace="DeviceGray">Black carbon in Arctic snow:   </textline>
+<textline bbox="151.270,461.236,552.982,485.236" font="TimesNewRomanPS-BoldMT" ncolour="1" size="24.000" colourspace="DeviceGray">Quantifying its effect on surface albedo </textline>
+</title>
+<normal_text id="1" bbox="175.630,346.006,529.407,398.855" size="24.012" unique_id="1">Stephen Warren, Thomas Grenfell 
+University of Washington <textline bbox="175.630,374.831,529.407,398.855" font="TimesNewRomanPS-BoldMT" ncolour="1" size="24.024" colourspace="DeviceGray">Stephen Warren, Thomas Grenfell </textline>
+<textline bbox="228.820,346.006,475.540,370.006" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">University of Washington </textline>
+</normal_text>
+<normal_text id="2" bbox="250.900,259.601,453.302,312.406" size="24.012" unique_id="2">Antony Clarke 
+University of Hawaii <textline bbox="275.740,288.406,428.548,312.406" font="TimesNewRomanPS-BoldMT" ncolour="1" size="24.000" colourspace="DeviceGray">Antony Clarke </textline>
+<textline bbox="250.900,259.601,453.302,283.625" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">University of Hawaii </textline>
+</normal_text>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[24.96, 444.471, 484.898, 536.531]">
+<title id="0" bbox="24.960,444.471,484.898,536.531" size="20.046" unique_id="0">Warren 
+What affects snow albedo? 
+Where and when does snow albedo matter for climate? 
+Why are impurities so effective at reducing snow albedo? <textline bbox="24.960,516.491,86.964,536.531" font="TimesNewRomanPS-BoldItalicMT" ncolour="1" size="20.040" colourspace="DeviceGray">Warren </textline>
+<textline bbox="24.960,492.491,240.490,512.531" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">What affects snow albedo? </textline>
+<textline bbox="24.960,468.486,464.101,488.550" font="TimesNewRomanPSMT" ncolour="1" size="20.064" colourspace="DeviceGray">Where and when does snow albedo matter for climate? </textline>
+<textline bbox="24.960,444.471,484.898,464.511" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Why are impurities so effective at reducing snow albedo? </textline>
+</title>
+<normal_text id="1" bbox="24.960,300.451,614.022,416.511" size="20.0448" unique_id="1">Clarke 
+Historical (1982-6) Arctic measurements of black carbon in air and snow: 
+Atmospheric concentrations and optical properties 
+Soot and dust in snow 
+Scavenging ratio from atmosphere to snow <textline bbox="24.960,396.471,80.571,416.511" font="TimesNewRomanPS-BoldItalicMT" ncolour="1" size="20.040" colourspace="DeviceGray">Clarke </textline>
+<textline bbox="24.960,372.471,614.022,392.511" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Historical (1982-6) Arctic measurements of black carbon in air and snow: </textline>
+<textline bbox="24.960,348.466,427.685,368.530" font="TimesNewRomanPSMT" ncolour="1" size="20.064" colourspace="DeviceGray">Atmospheric concentrations and optical properties </textline>
+<textline bbox="24.960,324.451,201.532,344.491" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Soot and dust in snow </textline>
+<textline bbox="24.960,300.451,368.165,320.491" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Scavenging ratio from atmosphere to snow </textline>
+</normal_text>
+<normal_text id="2" bbox="24.960,180.421,321.305,272.491" size="20.046" unique_id="2">Grenfell 
+Recent measurements in Arctic snow 
+Comparison to 1983-4 values 
+Planned measurements <textline bbox="24.960,252.451,93.998,272.491" font="TimesNewRomanPS-BoldItalicMT" ncolour="1" size="20.040" colourspace="DeviceGray">Grenfell </textline>
+<textline bbox="24.960,228.446,321.305,248.510" font="TimesNewRomanPSMT" ncolour="1" size="20.064" colourspace="DeviceGray">Recent measurements in Arctic snow </textline>
+<textline bbox="24.960,204.421,260.991,224.461" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Comparison to 1983-4 values </textline>
+<textline bbox="24.960,180.421,208.526,200.461" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Planned measurements </textline>
+</normal_text>
+<normal_text id="3" bbox="24.960,12.399,642.710,152.461" size="20.043999999999997" unique_id="3">Additional topics  
+Why do impurities reduce snow albedo more than they reduce cloud albedo ? 
+Uncertainties in measuring BC in snow 
+Uncertainties in modeling effect of BC on snow albedo 
+Errors in albedo measurement 
+Why remote sensing is not useful to determine BC's effect on snow albedo <textline bbox="24.960,132.421,169.228,152.461" font="TimesNewRomanPS-BoldItalicMT" ncolour="1" size="20.040" colourspace="DeviceGray">Additional topics  </textline>
+<textline bbox="24.960,108.416,642.710,128.480" font="TimesNewRomanPSMT" ncolour="1" size="20.064" colourspace="DeviceGray">Why do impurities reduce snow albedo more than they reduce cloud albedo ? </textline>
+<textline bbox="24.960,84.399,339.508,104.439" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Uncertainties in measuring BC in snow </textline>
+<textline bbox="24.960,60.399,466.141,80.439" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Uncertainties in modeling effect of BC on snow albedo </textline>
+<textline bbox="24.960,36.399,265.019,56.439" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Errors in albedo measurement </textline>
+<textline bbox="24.960,12.399,620.529,32.439" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Why remote sensing is not useful to determine BC's effect on snow albedo </textline>
+</normal_text>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[72.304, 365.4676666666667, 461.68066666666664, 488.97433333333333]">
+<normal_text id="0" bbox="23.952,498.796,282.696,522.796" size="24.0" unique_id="0">What affects snow albedo? <textline bbox="23.952,498.796,282.696,522.796" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">What affects snow albedo? </textline>
+</normal_text>
+<title id="1" bbox="95.976,325.966,450.072,465.196" size="24.0048" unique_id="1">Grain size (age) 
+Variation of grain size with depth 
+Snow depth (&amp; vegetation) 
+Impurities:  dust, black carbon (soot) 
+Sun angle <textline bbox="95.976,441.196,249.240,465.196" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Grain size (age) </textline>
+<textline bbox="95.976,412.391,416.216,436.415" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">Variation of grain size with depth </textline>
+<textline bbox="95.976,383.566,356.616,407.566" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Snow depth (&amp; vegetation) </textline>
+<textline bbox="95.976,354.766,450.072,378.766" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Impurities:  dust, black carbon (soot) </textline>
+<textline bbox="95.976,325.966,191.304,349.966" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Sun angle </textline>
+</title>
+<normal_text id="2" bbox="23.952,239.546,422.736,292.346" size="24.0" unique_id="2">Why does albedo vary with wavelength:   
+Absorption spectrum of ice <textline bbox="23.952,268.346,422.736,292.346" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Why does albedo vary with wavelength:   </textline>
+<textline bbox="95.976,239.546,357.816,263.546" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Absorption spectrum of ice </textline>
+</normal_text>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[72.304, 365.4676666666667, 461.68066666666664, 488.97433333333333]">
+<background name="Image19" bbox="-0.000,58.080,720.120,540.000" src="Image19.jpg" width="720" height="481" unique_id="0">
+</background>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.642, 431.13183333333336, 561.7623333333333, 504.8851666666667]">
+<title id="0" bbox="144.980,496.796,661.844,520.796" size="24.0" unique_id="0">Effect of snow grain size (Wiscombe &amp; Warren 1980) <textline bbox="144.980,496.796,661.844,520.796" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Effect of snow grain size (Wiscombe &amp; Warren 1980) </textline>
+</title>
+<normal_text id="1" bbox="49.968,275.764,73.968,282.436" size="6.672" unique_id="1">l <textline bbox="49.968,275.764,73.968,282.436" font="TimesNewRomanPS-BoldMT" ncolour="0" size="6.672" colourspace="DeviceGray">l </textline>
+</normal_text>
+<normal_text id="2" bbox="49.968,197.500,73.968,331.780" size="13.631999999999998" unique_id="2">o 
+d 
+e 
+b 
+A 
+w 
+o 
+n 
+S <textline bbox="49.968,319.780,73.968,331.780" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">o </textline>
+<textline bbox="49.968,306.436,73.968,319.780" font="TimesNewRomanPS-BoldMT" ncolour="0" size="13.344" colourspace="DeviceGray">d </textline>
+<textline bbox="49.968,295.780,73.968,306.436" font="TimesNewRomanPS-BoldMT" ncolour="0" size="10.656" colourspace="DeviceGray">e </textline>
+<textline bbox="49.968,282.436,73.968,295.780" font="TimesNewRomanPS-BoldMT" ncolour="0" size="13.344" colourspace="DeviceGray">b </textline>
+<textline bbox="49.968,258.436,73.968,275.764" font="TimesNewRomanPS-BoldMT" ncolour="0" size="17.328" colourspace="DeviceGray">A </textline>
+<textline bbox="49.968,236.188,73.968,253.516" font="TimesNewRomanPS-BoldMT" ncolour="0" size="17.328" colourspace="DeviceGray">w </textline>
+<textline bbox="49.968,224.188,73.968,236.188" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">o </textline>
+<textline bbox="49.968,210.844,73.968,224.188" font="TimesNewRomanPS-BoldMT" ncolour="0" size="13.344" colourspace="DeviceGray">n </textline>
+<textline bbox="49.968,197.500,73.968,210.844" font="TimesNewRomanPS-BoldMT" ncolour="0" size="13.344" colourspace="DeviceGray">S </textline>
+</normal_text>
+<normal_text id="3" bbox="49.968,253.396,73.968,259.396" size="6.0" unique_id="3">  <textline bbox="49.968,253.396,73.968,259.396" font="TimesNewRomanPS-BoldMT" ncolour="0" size="6.000" colourspace="DeviceGray">  </textline>
+</normal_text>
+<background name="Image22" bbox="12.000,2.400,708.000,537.600" src="Image22.jpg" width="696" height="535" unique_id="4">
+</background>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[137.1772, 460.5975, 536.3262000000001, 514.4495000000001]">
+<title id="0" bbox="179.980,504.796,498.172,528.796" size="24.0" unique_id="0">Interaction of sunlight with snow <textline bbox="179.980,504.796,498.172,528.796" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Interaction of sunlight with snow </textline>
+</title>
+<normal_text id="1" bbox="49.200,96.356,686.616,177.986" size="24.008" unique_id="1">To get the same number of refraction events, the distance traveled  
+through ice is greater in coarse-grained snow.  Therefore, coarse- 
+grained snow has lower albedo. <textline bbox="49.200,153.986,686.616,177.986" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">To get the same number of refraction events, the distance traveled  </textline>
+<textline bbox="49.200,125.181,672.800,149.205" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">through ice is greater in coarse-grained snow.  Therefore, coarse- </textline>
+<textline bbox="49.200,96.356,352.512,120.356" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">grained snow has lower albedo. </textline>
+</normal_text>
+<picture name="Image25" bbox="78.000,219.360,616.560,492.000" src="Image25.jpg" width="538" height="272" unique_id="2">
+</picture>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[99.43546666666666, 444.5286666666667, 560.0091333333334, 498.0316666666667]">
+<normal_text id="0" bbox="23.952,498.796,565.200,522.796" size="24.0" unique_id="0">Where and when does snow albedo matter for climate? <textline bbox="23.952,498.796,565.200,522.796" font="TimesNewRomanPS-BoldItalicMT" ncolour="(1, 1, 0)" size="24.000" colourspace="DeviceGray">Where and when does snow albedo matter for climate? </textline>
+</normal_text>
+<title id="1" bbox="23.952,412.391,607.375,465.196" size="24.012" unique_id="1">Whenever snow is exposed to significant solar energy 
+(snow albedo is less important in winter and in boreal forest) <textline bbox="23.952,441.196,541.056,465.196" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Whenever snow is exposed to significant solar energy </textline>
+<textline bbox="23.952,412.391,607.375,436.415" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">(snow albedo is less important in winter and in boreal forest) </textline>
+</title>
+<enlisting bbox="23.952,9.096,580.152,378.766" unique_id="['2', '3', '4']">Arctic snow 
+- Tundra in spring 
+- Sea ice in spring (covered with snow) 
+- Greenland Ice Sheet in spring (cold snow) 
+- Greenland Ice Sheet in summer (melting snow) Non-Arctic snow 
+- Great Plains of North America 
+- Steppes of Asia:  Kazakhstan, Mongolia, Xinjiang, Tibet Glacier ice and sea ice are also important: 
+- Ablation zone of Greenland Ice Sheet in summer 
+- Arctic ocean in summer <normal_text id="2" bbox="23.952,239.546,491.952,378.766" size="24.0048" unique_id="2">Arctic snow 
+- Tundra in spring 
+- Sea ice in spring (covered with snow) 
+- Greenland Ice Sheet in spring (cold snow) 
+- Greenland Ice Sheet in summer (melting snow) <textline bbox="23.952,354.766,140.496,378.766" font="TimesNewRomanPS-BoldItalicMT" ncolour="1" size="24.000" colourspace="DeviceGray">Arctic snow </textline>
+<textline bbox="23.952,325.966,196.656,349.966" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">- Tundra in spring </textline>
+<textline bbox="23.952,297.161,400.178,321.185" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">- Sea ice in spring (covered with snow) </textline>
+<textline bbox="23.952,268.346,442.752,292.346" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">- Greenland Ice Sheet in spring (cold snow) </textline>
+<textline bbox="23.952,239.546,491.952,263.546" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">- Greenland Ice Sheet in summer (melting snow) </textline>
+</normal_text>
+<normal_text id="3" bbox="23.952,124.316,580.152,205.965" size="24.008" unique_id="3">Non-Arctic snow 
+- Great Plains of North America 
+- Steppes of Asia:  Kazakhstan, Mongolia, Xinjiang, Tibet <textline bbox="23.952,181.941,191.325,205.965" font="TimesNewRomanPS-BoldItalicMT" ncolour="1" size="24.024" colourspace="DeviceGray">Non-Arctic snow </textline>
+<textline bbox="23.952,153.116,331.008,177.116" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">- Great Plains of North America </textline>
+<textline bbox="23.952,124.316,580.152,148.316" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">- Steppes of Asia:  Kazakhstan, Mongolia, Xinjiang, Tibet </textline>
+</normal_text>
+<normal_text id="4" bbox="23.952,9.096,505.704,90.739" size="24.008" unique_id="4">Glacier ice and sea ice are also important: 
+- Ablation zone of Greenland Ice Sheet in summer 
+- Arctic ocean in summer <textline bbox="23.952,66.715,441.874,90.739" font="TimesNewRomanPS-BoldItalicMT" ncolour="1" size="24.024" colourspace="DeviceGray">Glacier ice and sea ice are also important: </textline>
+<textline bbox="23.952,37.896,505.704,61.896" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">- Ablation zone of Greenland Ice Sheet in summer </textline>
+<textline bbox="23.952,9.096,266.016,33.096" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">- Arctic ocean in summer </textline>
+</normal_text>
+</enlisting></page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[77.8687619047619, 427.11076190476194, 582.7879523809524, 480.4269047619048]">
+<normal_text id="0" bbox="23.952,469.996,587.136,493.996" size="24.0" unique_id="0">Why are impurities so effective at reducing snow albedo? <textline bbox="23.952,469.996,587.136,493.996" font="TimesNewRomanPS-BoldItalicMT" ncolour="(1, 1, 0)" size="24.000" colourspace="DeviceGray">Why are impurities so effective at reducing snow albedo? </textline>
+</normal_text>
+<title id="1" bbox="23.952,383.566,639.735,436.415" size="24.012" unique_id="1">Because absorption by ice is very weak at visible wavelengths:   
+ice is nearly transparent. <textline bbox="23.952,412.391,639.735,436.415" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">Because absorption by ice is very weak at visible wavelengths:   </textline>
+<textline bbox="23.952,383.566,258.480,407.566" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">ice is nearly transparent. </textline>
+</title>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[206.91907142857144, 408.12457142857147, 612.4464642857143, 468.5239285714286]">
+<normal_text id="2" bbox="151.945,307.468,175.969,314.147" size="6.679" unique_id="2">l <textline bbox="151.945,307.468,175.969,314.147" font="TimesNewRomanPS-BoldMT" ncolour="0" size="6.679" colourspace="DeviceGray">l </textline>
+</normal_text>
+<normal_text id="3" bbox="151.945,229.270,175.969,363.444" size="13.645444444444443" unique_id="3">o 
+d 
+e 
+b 
+A 
+w 
+o 
+n 
+S <textline bbox="151.945,351.432,175.969,363.444" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.012" colourspace="DeviceGray">o </textline>
+<textline bbox="151.945,338.171,175.969,351.528" font="TimesNewRomanPS-BoldMT" ncolour="0" size="13.357" colourspace="DeviceGray">d </textline>
+<textline bbox="151.945,327.504,175.969,338.171" font="TimesNewRomanPS-BoldMT" ncolour="0" size="10.667" colourspace="DeviceGray">e </textline>
+<textline bbox="151.945,314.147,175.969,327.504" font="TimesNewRomanPS-BoldMT" ncolour="0" size="13.357" colourspace="DeviceGray">b </textline>
+<textline bbox="151.945,290.123,175.969,307.468" font="TimesNewRomanPS-BoldMT" ncolour="0" size="17.345" colourspace="DeviceGray">A </textline>
+<textline bbox="151.945,267.925,175.969,285.270" font="TimesNewRomanPS-BoldMT" ncolour="0" size="17.345" colourspace="DeviceGray">w </textline>
+<textline bbox="151.945,255.913,175.969,267.925" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.012" colourspace="DeviceGray">o </textline>
+<textline bbox="151.945,242.627,175.969,255.985" font="TimesNewRomanPS-BoldMT" ncolour="0" size="13.357" colourspace="DeviceGray">n </textline>
+<textline bbox="151.945,229.270,175.969,242.627" font="TimesNewRomanPS-BoldMT" ncolour="0" size="13.357" colourspace="DeviceGray">S </textline>
+</normal_text>
+<normal_text id="4" bbox="151.945,285.078,175.969,291.084" size="6.006" unique_id="4">  <textline bbox="151.945,285.078,175.969,291.084" font="TimesNewRomanPS-BoldMT" ncolour="0" size="6.006" colourspace="DeviceGray">  </textline>
+</normal_text>
+<title id="8" bbox="594.070,351.166,701.422,432.815" size="24.008" unique_id="8">Warren &amp;  
+Wiscombe  
+1980 <textline bbox="594.070,408.791,694.707,432.815" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">Warren &amp;  </textline>
+<textline bbox="594.070,379.966,701.422,403.966" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Wiscombe  </textline>
+<textline bbox="594.070,351.166,642.070,375.166" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">1980 </textline>
+</title>
+<picture name="Image32" bbox="144.000,0.000,567.960,540.000" src="Image32.jpg" width="423" height="540" unique_id="9">
+</picture>
+<enlisting bbox="223.25,153.033,352.45,488.363" unique_id="['0', '1', '5', '6', '7']">0.5ppm 0.05ppm 5 ppm    0.05 ppm 0.5 ppm 5 ppm    <normal_text id="0" bbox="226.180,469.663,352.450,488.363" size="15.96" unique_id="0">0.5ppm 0.05ppm <textline bbox="226.180,469.663,352.450,488.363" font="TimesNewRomanPSMT" ncolour="0" size="15.960" colourspace="DeviceGray">0.5ppm 0.05ppm </textline>
+</normal_text>
+<normal_text id="1" bbox="263.640,433.593,316.101,449.553" size="15.96" unique_id="1">5 ppm    <textline bbox="263.640,433.593,316.101,449.553" font="TimesNewRomanPSMT" ncolour="0" size="15.960" colourspace="DeviceGray">5 ppm    </textline>
+</normal_text>
+<normal_text id="5" bbox="223.250,235.403,283.754,251.363" size="15.96" unique_id="5">0.05 ppm <textline bbox="223.250,235.403,283.754,251.363" font="TimesNewRomanPSMT" ncolour="0" size="15.960" colourspace="DeviceGray">0.05 ppm </textline>
+</normal_text>
+<normal_text id="6" bbox="240.860,197.143,293.321,213.103" size="15.96" unique_id="6">0.5 ppm <textline bbox="240.860,197.143,293.321,213.103" font="TimesNewRomanPSMT" ncolour="0" size="15.960" colourspace="DeviceGray">0.5 ppm </textline>
+</normal_text>
+<normal_text id="7" bbox="265.370,153.033,317.831,168.993" size="15.96" unique_id="7">5 ppm    <textline bbox="265.370,153.033,317.831,168.993" font="TimesNewRomanPSMT" ncolour="0" size="15.960" colourspace="DeviceGray">5 ppm    </textline>
+</normal_text>
+</enlisting></page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[206.91907142857144, 408.12457142857147, 612.4464642857143, 468.5239285714286]">
+<normal_text id="0" bbox="121.220,466.036,422.924,490.036" size="24.0" unique_id="0">Absorptive impurities in snow: <textline bbox="121.220,466.036,422.924,490.036" font="TimesNewRomanPS-BoldItalicMT" ncolour="(1, 1, 0)" size="24.000" colourspace="DeviceGray">Absorptive impurities in snow: </textline>
+</normal_text>
+<title id="1" bbox="121.220,350.806,555.960,403.655" size="24.012" unique_id="1">To reduce albedo of old melting snow by 1%  
+requires mass fractions: <textline bbox="121.220,379.631,555.960,403.655">To reduce albedo of old melting snow by 1%  <text font="TimesNewRomanPSMT" bbox="121.220,379.631,135.899,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">T</text>
+<text font="TimesNewRomanPSMT" bbox="134.169,379.631,146.181,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPSMT" bbox="146.181,379.631,152.187,403.655" colourspace="DeviceGray" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPSMT" bbox="152.187,379.631,160.187,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">r</text>
+<text font="TimesNewRomanPSMT" bbox="160.187,379.631,170.854,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">e</text>
+<text font="TimesNewRomanPSMT" bbox="170.854,379.631,182.866,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">d</text>
+<text font="TimesNewRomanPSMT" bbox="182.866,379.631,194.878,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">u</text>
+<text font="TimesNewRomanPSMT" bbox="194.878,379.631,205.544,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">c</text>
+<text font="TimesNewRomanPSMT" bbox="205.544,379.631,216.211,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">e</text>
+<text font="TimesNewRomanPSMT" bbox="216.211,379.631,222.217,403.655" colourspace="DeviceGray" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPSMT" bbox="222.001,379.631,232.667,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">a</text>
+<text font="TimesNewRomanPSMT" bbox="232.667,379.631,239.346,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">l</text>
+<text font="TimesNewRomanPSMT" bbox="239.346,379.631,251.358,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">b</text>
+<text font="TimesNewRomanPSMT" bbox="251.358,379.631,262.025,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">e</text>
+<text font="TimesNewRomanPSMT" bbox="262.025,379.631,274.037,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">d</text>
+<text font="TimesNewRomanPSMT" bbox="274.037,379.631,286.049,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPSMT" bbox="286.049,379.631,292.055,403.655" colourspace="DeviceGray" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPSMT" bbox="291.959,379.631,303.971,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPSMT" bbox="303.971,379.631,311.971,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">f</text>
+<text font="TimesNewRomanPSMT" bbox="311.874,379.631,317.880,403.655" colourspace="DeviceGray" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="317.930,379.631,329.942,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="329.942,379.631,336.621,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">l</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="336.669,379.631,348.681,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">d</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="348.681,379.631,354.687,403.655" colourspace="DeviceGray" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="354.591,379.631,371.936,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">m</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="371.936,379.631,382.603,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="382.603,379.631,389.281,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">l</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="389.281,379.631,395.960,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="396.056,379.631,402.735,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">i</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="402.735,379.631,414.747,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">n</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="414.795,379.631,426.807,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">g</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="426.807,379.631,432.813,403.655" colourspace="DeviceGray" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="432.597,379.631,441.942,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">s</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="441.942,379.631,453.954,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">n</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="453.954,379.631,465.966,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="465.966,379.631,481.990,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">w</text>
+<text font="TimesNewRomanPSMT" bbox="487.900,379.631,499.912,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">b</text>
+<text font="TimesNewRomanPSMT" bbox="499.912,379.631,511.924,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">y</text>
+<text font="TimesNewRomanPSMT" bbox="511.924,379.631,517.930,403.655" colourspace="DeviceGray" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPSMT" bbox="517.930,379.631,529.942,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">1</text>
+<text font="TimesNewRomanPSMT" bbox="529.942,379.631,549.954,403.655" colourspace="DeviceGray" ncolour="1" size="24.024">%</text>
+<text font="TimesNewRomanPSMT" bbox="549.954,379.631,555.960,403.655" colourspace="DeviceGray" ncolour="1" size="24.024"> </text>
+</textline>
+<textline bbox="121.220,350.806,349.172,374.806" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">requires mass fractions: </textline>
+</title>
+<enlisting id="2" bbox="133.220,264.406,421.292,317.206" size="24.0" unique_id="2">~10 ppb  black carbon (soot) 
+~500 ppb  soil dust <textline bbox="145.220,293.206,421.292,317.206" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">~10 ppb  black carbon (soot) </textline>
+<textline bbox="133.220,264.406,316.844,288.406" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">~500 ppb  soil dust </textline>
+</enlisting>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[206.91907142857144, 408.12457142857147, 612.4464642857143, 468.5239285714286]">
+<title id="0" bbox="588.050,369.166,695.546,450.815" size="24.008" unique_id="0">Warren &amp;  
+Wiscombe  
+(1985); <textline bbox="588.050,426.791,688.831,450.815" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">Warren &amp;  </textline>
+<textline bbox="588.050,397.966,695.546,421.966" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Wiscombe  </textline>
+<textline bbox="588.050,369.166,658.826,393.166" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">(1985); </textline>
+</title>
+<normal_text id="1" bbox="588.050,253.946,682.754,335.566" size="24.0" unique_id="1">Warren &amp; 
+Clarke 
+(1986) <textline bbox="588.050,311.566,682.754,335.566" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Warren &amp; </textline>
+<textline bbox="588.050,282.746,652.178,306.746" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Clarke </textline>
+<textline bbox="588.050,253.946,652.154,277.946" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">(1986) </textline>
+</normal_text>
+<normal_text id="2" bbox="588.050,81.120,710.954,220.346" size="24.0048" unique_id="2">Soot  
+contents  
+from Clarke  
+&amp; Noone  
+(1985) <textline bbox="588.050,196.346,638.162,220.346" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Soot  </textline>
+<textline bbox="588.050,167.541,674.320,191.565" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">contents  </textline>
+<textline bbox="588.050,138.716,710.954,162.716" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">from Clarke  </textline>
+<textline bbox="588.050,109.916,682.706,133.916" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">&amp; Noone  </textline>
+<textline bbox="588.050,81.120,652.154,105.120" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">(1985) </textline>
+</normal_text>
+<picture name="Image39" bbox="0.000,3.120,564.000,540.000" src="Image39.jpg" width="564" height="536" unique_id="3">
+</picture>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[186.0526111111111, 421.26044444444443, 614.0014722222222, 479.9797222222222]">
+<title id="0" bbox="113.020,467.236,619.444,520.075" size="24.012" unique_id="0">Vertical redistribution of BC during melting 
+Do particles collect at the surface as the snow melts? <textline bbox="146.620,496.051,580.758,520.075" font="TimesNewRomanPS-BoldItalicMT" ncolour="(1, 1, 0)" size="24.024" colourspace="DeviceGray">Vertical redistribution of BC during melting </textline>
+<textline bbox="113.020,467.236,619.444,491.236" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Do particles collect at the surface as the snow melts? </textline>
+</title>
+<picture name="Image42" bbox="-0.000,113.640,720.000,432.000" src="Image42.jpg" width="720" height="318" unique_id="1">
+</picture>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[186.0526111111111, 421.26044444444443, 614.0014722222222, 479.9797222222222]">
+<background name="Image45" bbox="-0.000,69.480,720.000,540.000" src="Image45.jpg" width="720" height="470" unique_id="0">
+</background>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[186.0526111111111, 421.26044444444443, 614.0014722222222, 479.9797222222222]">
+<background name="Image48" bbox="0.000,54.000,730.920,540.000" src="Image48.jpg" width="730" height="486" unique_id="0">
+</background>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[199.3480888888889, 438.61955555555556, 584.9167777777777, 490.3949777777778]">
+<title id="0" bbox="252.530,508.056,468.578,532.056" size="24.0" unique_id="0">Summary of strategy <textline bbox="252.530,508.056,468.578,532.056" font="TimesNewRomanPS-BoldMT" ncolour="1" size="24.000" colourspace="DeviceGray">Summary of strategy </textline>
+</title>
+<normal_text id="1" bbox="25.200,364.031,694.872,474.436" size="24.006" unique_id="1">Climatic effect of BC on snow albedo is expected to be at most a few  
+percent, and snow albedo depends on several other variables.   
+Therefore we do not directly measure the albedo reduction.   
+Instead: <textline bbox="25.200,450.436,694.872,474.436" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Climatic effect of BC on snow albedo is expected to be at most a few  </textline>
+<textline bbox="61.224,421.636,658.992,445.636" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">percent, and snow albedo depends on several other variables.   </textline>
+<textline bbox="61.224,392.836,639.456,416.836" font="TimesNewRomanPS-ItalicMT" ncolour="1" size="24.000" colourspace="DeviceGray">Therefore we do not directly measure the albedo reduction.   </textline>
+<textline bbox="61.224,364.031,139.999,388.055" font="TimesNewRomanPS-ItalicMT" ncolour="1" size="24.024" colourspace="DeviceGray">Instead: </textline>
+</normal_text>
+<enlisting bbox="25.2,75.96,690.954,330.406" unique_id="['2', '   4', '   6', '  3', ' 5', '7']">1. Collect snow samples, melt and filter them.  Analyze the filters  2. Use the BC amount together with snow grain size in a radiative- 3. Direct measurement of albedo-reduction (to verify the modeling)  <normal_text id="2" bbox="25.200,306.406,671.592,330.406" size="24.0" unique_id="2">1. Collect snow samples, melt and filter them.  Analyze the filters  <textline bbox="25.200,306.406,671.592,330.406" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">1. Collect snow samples, melt and filter them.  Analyze the filters  </textline>
+</normal_text>
+<normal_text id="4" bbox="25.200,219.986,677.592,243.986" size="24.0" unique_id="4">2. Use the BC amount together with snow grain size in a radiative- <textline bbox="25.200,219.986,677.592,243.986" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">2. Use the BC amount together with snow grain size in a radiative- </textline>
+</normal_text>
+<normal_text id="6" bbox="25.200,133.581,690.954,157.605" size="24.024" unique_id="6">3. Direct measurement of albedo-reduction (to verify the modeling)  <textline bbox="25.200,133.581,690.954,157.605" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">3. Direct measurement of albedo-reduction (to verify the modeling)  </textline>
+</normal_text>
+<normal_text id="3" bbox="61.224,277.606,219.936,301.606" size="24.0" unique_id="3">for BC and dust. <textline bbox="61.224,277.606,219.936,301.606" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">for BC and dust. </textline>
+</normal_text>
+<normal_text id="5" bbox="61.224,191.186,485.186,215.186" size="24.0" unique_id="5">transfer model to compute albedo reduction. <textline bbox="61.224,191.186,485.186,215.186">transfer model to compute albedo reduction. <text font="TimesNewRomanPSMT" bbox="61.224,191.186,67.896,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="67.896,191.186,75.888,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="75.960,191.186,86.616,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="86.616,191.186,98.616,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="98.616,191.186,107.952,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="107.952,191.186,115.944,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="TimesNewRomanPSMT" bbox="115.944,191.186,126.600,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="126.600,191.186,134.592,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="134.592,191.186,140.592,215.186" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="140.400,191.186,159.072,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="158.880,191.186,170.880,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="170.880,191.186,182.880,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="182.880,191.186,193.536,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="193.536,191.186,200.208,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="200.208,191.186,206.208,215.186" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="206.208,191.186,212.880,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="212.976,191.186,224.976,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="224.976,191.186,230.976,215.186" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="231.050,191.186,241.706,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="241.706,191.186,253.706,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="253.706,191.186,271.034,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="271.034,191.186,283.034,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">p</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="283.034,191.186,295.034,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="295.034,191.186,301.706,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="301.706,191.186,312.362,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="318.290,191.186,328.946,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="328.946,191.186,335.618,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="335.714,191.186,347.714,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">b</text>
+<text font="TimesNewRomanPSMT" bbox="347.714,191.186,358.370,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="358.370,191.186,370.370,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="370.442,191.186,382.442,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="382.442,191.186,388.442,215.186" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="388.250,191.186,396.242,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="396.242,191.186,406.898,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="406.994,191.186,418.994,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="418.994,191.186,430.994,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="TimesNewRomanPSMT" bbox="430.994,191.186,441.650,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPSMT" bbox="441.722,191.186,448.394,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="448.394,191.186,455.066,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="455.186,191.186,467.186,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="467.186,191.186,479.186,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="479.186,191.186,485.186,215.186" colourspace="DeviceGray" ncolour="1" size="24.000">.</text>
+</textline>
+</normal_text>
+<normal_text id="7" bbox="61.224,75.960,613.584,128.756" size="24.0" unique_id="7">may be possible where all other variables (grain size) are  
+constant:  e.g. a transect outward from a pollution source. <textline bbox="61.224,104.756,613.584,128.756" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">may be possible where all other variables (grain size) are  </textline>
+<textline bbox="61.224,75.960,612.360,99.960" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">constant:  e.g. a transect outward from a pollution source. </textline>
+</normal_text>
+</enlisting></page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[164.41207272727274, 450.3896363636364, 586.0791818181817, 497.8393454545455]">
+<title id="0" bbox="7.200,503.355,591.310,531.339" size="24.0" unique_id="0">Uncertainties in computing climatic effects of BC in snow <textline bbox="7.200,503.355,591.310,531.339">Uncertainties in computing climatic effects of BC in snow <text font="TimesNewRomanPS-BoldItalicMT" bbox="7.200,504.216,24.528,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">U</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="24.528,504.216,37.872,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="37.800,504.216,48.456,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="48.456,504.216,59.112,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="59.112,504.216,68.448,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="68.496,504.216,75.168,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="75.168,504.216,87.168,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="87.168,504.216,93.840,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="93.912,504.216,107.256,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="107.256,504.216,113.928,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="113.928,504.216,120.600,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="120.648,504.216,131.304,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="131.304,504.216,140.640,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="140.640,504.216,146.640,528.216" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="146.328,504.216,153.000,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="153.000,504.216,166.344,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="166.344,504.216,172.344,528.216" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="172.344,504.216,183.000,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="183.000,504.216,195.000,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="195.000,504.216,213.672,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="213.744,504.216,225.744,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">p</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="225.744,504.216,239.088,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="239.088,504.216,245.760,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="245.760,504.216,252.432,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="252.480,504.216,265.824,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="265.824,504.216,277.824,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">g</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="283.730,503.355,296.155,531.339" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.984">c</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="296.155,503.355,303.934,531.339" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.984">l</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="303.934,503.355,311.714,531.339" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.984">i</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="311.714,503.355,333.486,531.339" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.984">m</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="333.486,503.355,347.478,531.339" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.984">a</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="347.478,503.355,355.257,531.339" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.984">t</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="355.257,503.355,363.037,531.339" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.984">i</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="363.037,503.355,375.462,531.339" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.984">c</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="381.310,504.216,391.966,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="391.966,504.216,399.958,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="399.550,504.216,407.542,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="407.542,504.216,418.198,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="418.198,504.216,428.854,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="428.926,504.216,435.598,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="435.598,504.216,444.934,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="444.934,504.216,450.934,528.216" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="450.646,504.216,462.646,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="462.646,504.216,470.638,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="470.638,504.216,476.638,528.216" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="476.638,504.216,492.646,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">B</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="492.646,504.216,508.654,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">C</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="508.654,504.216,514.654,528.216" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="514.702,504.216,521.374,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="521.374,504.216,534.718,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="534.718,504.216,540.718,528.216" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="540.622,504.216,549.958,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="549.958,504.216,563.302,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="563.302,504.216,575.302,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="575.302,504.216,591.310,528.216" colourspace="DeviceGray" ncolour="1" size="24.000">w</text>
+</textline>
+</title>
+<normal_text id="1" bbox="7.200,416.836,617.450,440.836" size="24.0" unique_id="1">BC content of snow: inadequate temporal and spatial sampling <textline bbox="7.200,416.836,617.450,440.836">BC content of snow: inadequate temporal and spatial sampling <text font="TimesNewRomanPSMT" bbox="7.200,416.836,23.208,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">B</text>
+<text font="TimesNewRomanPSMT" bbox="23.208,416.836,39.216,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">C</text>
+<text font="TimesNewRomanPSMT" bbox="39.120,416.836,45.120,440.836" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="45.216,416.836,55.872,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPSMT" bbox="55.872,416.836,67.872,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="67.872,416.836,79.872,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="79.872,416.836,86.544,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="86.544,416.836,97.200,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="97.272,416.836,109.272,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="109.272,416.836,115.944,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="115.944,416.836,121.944,440.836" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="121.632,416.836,133.632,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="133.632,416.836,141.624,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="TimesNewRomanPSMT" bbox="141.624,416.836,147.624,440.836" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="147.624,416.836,156.960,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="157.008,416.836,169.008,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="169.008,416.836,181.008,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="181.008,416.836,198.336,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">w</text>
+<text font="TimesNewRomanPSMT" bbox="198.336,416.836,205.008,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">:</text>
+<text font="TimesNewRomanPSMT" bbox="205.008,416.836,211.008,440.836" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="211.130,416.836,217.802,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="217.802,416.836,229.802,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="229.802,416.836,241.802,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="241.802,416.836,253.802,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="253.802,416.836,264.458,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="264.458,416.836,276.458,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">q</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="276.458,416.836,288.458,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="288.458,416.836,300.458,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="300.458,416.836,307.130,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="307.226,416.836,317.882,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="317.882,416.836,323.882,440.836" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="323.546,416.836,330.218,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="330.218,416.836,340.874,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="340.874,416.836,358.202,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="358.202,416.836,370.202,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">p</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="370.202,416.836,382.202,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="382.202,416.836,391.538,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="391.538,416.836,403.538,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="403.538,416.836,410.210,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="410.282,416.836,416.282,440.836" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="416.162,416.836,428.162,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="428.162,416.836,440.162,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="440.162,416.836,452.162,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="452.162,416.836,458.162,440.836" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="458.162,416.836,467.498,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="467.498,416.836,479.498,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">p</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="479.498,416.836,491.498,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="491.498,416.836,498.170,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="498.218,416.836,504.890,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="504.890,416.836,516.890,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="516.890,416.836,523.562,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="523.634,416.836,529.634,440.836" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="529.394,416.836,538.730,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="538.730,416.836,550.730,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="550.730,416.836,568.058,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="568.058,416.836,580.058,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">p</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="580.058,416.836,586.730,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="586.730,416.836,593.402,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="593.450,416.836,605.450,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="605.450,416.836,617.450,440.836" colourspace="DeviceGray" ncolour="1" size="24.000">g</text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="79.224,330.406,299.764,412.036" size="24.008" unique_id="2">Seasonal variation 
+Geographical variation 
+Vertical redistribution <textline bbox="79.224,388.036,255.864,412.036" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Seasonal variation </textline>
+<textline bbox="79.224,359.231,299.764,383.255" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">Geographical variation </textline>
+<textline bbox="79.224,330.406,289.080,354.406" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Vertical redistribution </textline>
+</normal_text>
+<normal_text id="3" bbox="7.200,272.806,486.218,296.806" size="24.0" unique_id="3">Effect on snow albedo:  inadequate knowledge of  <textline bbox="7.200,272.806,486.218,296.806">Effect on snow albedo:  inadequate knowledge of  <text font="TimesNewRomanPSMT" bbox="7.200,272.806,21.864,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">E</text>
+<text font="TimesNewRomanPSMT" bbox="21.864,272.806,29.856,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="TimesNewRomanPSMT" bbox="29.280,272.806,37.272,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="TimesNewRomanPSMT" bbox="37.272,272.806,47.928,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="47.928,272.806,58.584,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPSMT" bbox="58.584,272.806,65.256,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="65.256,272.806,71.256,296.806" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="71.256,272.806,83.256,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="83.256,272.806,95.256,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="95.256,272.806,101.256,296.806" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="101.256,272.806,110.592,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="110.592,272.806,122.592,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="122.592,272.806,134.592,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="134.592,272.806,151.920,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">w</text>
+<text font="TimesNewRomanPSMT" bbox="151.920,272.806,157.920,296.806" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="158.016,272.806,168.672,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="168.672,272.806,175.344,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="175.344,272.806,187.344,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">b</text>
+<text font="TimesNewRomanPSMT" bbox="187.344,272.806,198.000,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="198.072,272.806,210.072,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="210.072,272.806,222.072,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="222.072,272.806,228.744,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">:</text>
+<text font="TimesNewRomanPSMT" bbox="228.744,272.806,234.744,296.806" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="234.432,272.806,240.432,296.806" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="240.530,272.806,247.202,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="247.202,272.806,259.202,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="259.202,272.806,271.202,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="271.202,272.806,283.202,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="283.202,272.806,293.858,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="293.858,272.806,305.858,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">q</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="305.858,272.806,317.858,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="317.858,272.806,329.858,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="329.858,272.806,336.530,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="336.626,272.806,347.282,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="347.282,272.806,353.282,296.806" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="353.066,272.806,363.722,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">k</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="363.722,272.806,375.722,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="375.722,272.806,387.722,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="387.722,272.806,403.730,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">w</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="403.730,272.806,410.402,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="410.402,272.806,421.058,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="421.058,272.806,433.058,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="433.058,272.806,445.058,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">g</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="445.058,272.806,455.714,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="455.714,272.806,461.714,296.806" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="461.546,272.806,473.546,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="473.546,272.806,480.218,296.806" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="480.218,272.806,486.218,296.806" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+</textline>
+</normal_text>
+<normal_text id="4" bbox="79.224,215.186,606.839,268.025" size="24.012" unique_id="4">Snow grain size (varies seasonally and geographically) 
+Snow depth <textline bbox="79.224,244.001,606.839,268.025" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">Snow grain size (varies seasonally and geographically) </textline>
+<textline bbox="79.224,215.186,193.272,239.186" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Snow depth </textline>
+</normal_text>
+<normal_text id="5" bbox="7.200,157.586,636.454,181.586" size="24.0" unique_id="5">Importance of snow albedo for climate:  what is hiding the snow? <textline bbox="7.200,157.586,636.454,181.586">Importance of snow albedo for climate:  what is hiding the snow? <text font="TimesNewRomanPSMT" bbox="7.200,157.586,15.192,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">I</text>
+<text font="TimesNewRomanPSMT" bbox="15.192,157.586,33.864,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="33.720,157.586,45.720,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">p</text>
+<text font="TimesNewRomanPSMT" bbox="45.720,157.586,57.720,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="57.720,157.586,65.712,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="65.712,157.586,72.384,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="72.456,157.586,83.112,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="83.112,157.586,95.112,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="95.112,157.586,105.768,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPSMT" bbox="105.768,157.586,116.424,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="116.424,157.586,122.424,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="122.256,157.586,134.256,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="134.256,157.586,142.248,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="TimesNewRomanPSMT" bbox="142.248,157.586,148.248,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="148.248,157.586,157.584,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="157.632,157.586,169.632,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="169.632,157.586,181.632,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="181.632,157.586,198.960,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">w</text>
+<text font="TimesNewRomanPSMT" bbox="198.960,157.586,204.960,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="205.008,157.586,215.664,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="215.664,157.586,222.336,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="222.336,157.586,234.336,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">b</text>
+<text font="TimesNewRomanPSMT" bbox="234.336,157.586,244.992,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="245.064,157.586,257.064,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="257.064,157.586,269.064,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="269.064,157.586,275.064,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="274.824,157.586,282.816,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="TimesNewRomanPSMT" bbox="282.816,157.586,294.816,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="294.816,157.586,302.808,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="302.808,157.586,308.808,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="308.880,157.586,319.536,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPSMT" bbox="319.536,157.586,326.208,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="326.208,157.586,332.880,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="332.976,157.586,351.648,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="351.456,157.586,362.112,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="362.112,157.586,368.784,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="368.784,157.586,379.440,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="379.512,157.586,386.184,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">:</text>
+<text font="TimesNewRomanPSMT" bbox="386.184,157.586,392.184,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="391.752,157.586,397.752,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="397.990,157.586,413.998,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">w</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="413.998,157.586,425.998,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">h</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="425.998,157.586,437.998,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="437.998,157.586,444.670,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="444.670,157.586,450.670,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="450.670,157.586,457.342,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="457.342,157.586,466.678,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="466.678,157.586,472.678,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="472.678,157.586,484.678,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">h</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="484.678,157.586,491.350,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="491.350,157.586,503.350,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="503.350,157.586,510.022,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="510.022,157.586,522.022,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="522.022,157.586,534.022,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">g</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="534.022,157.586,540.022,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="539.950,157.586,546.622,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="546.622,157.586,558.622,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">h</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="558.622,157.586,569.278,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="569.278,157.586,575.278,181.586" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="575.110,157.586,584.446,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="584.446,157.586,596.446,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="596.446,157.586,608.446,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="608.446,157.586,624.454,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">w</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="624.454,157.586,636.454,181.586" colourspace="DeviceGray" ncolour="1" size="24.000">?</text>
+</textline>
+</normal_text>
+<normal_text id="6" bbox="79.224,71.160,241.026,152.805" size="24.008" unique_id="6">Vegetation cover 
+Cloud cover 
+Cloud thickness <textline bbox="79.224,128.781,241.026,152.805" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">Vegetation cover </textline>
+<textline bbox="79.224,99.956,197.208,123.956" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Cloud cover </textline>
+<textline bbox="79.224,71.160,233.304,95.160" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Cloud thickness </textline>
+</normal_text>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[142.21006060606064, 460.000696969697, 532.1793181818182, 503.5421212121212]">
+<title id="0" bbox="31.200,508.056,262.680,532.056" size="24.0" unique_id="0">Planned measurements <textline bbox="31.200,508.056,262.680,532.056" font="TimesNewRomanPS-BoldItalicMT" ncolour="(1, 1, 0)" size="24.000" colourspace="DeviceGray">Planned measurements </textline>
+</title>
+<enlisting bbox="31.2,18.355,638.904,474.436" unique_id="['1', '   5', '   6', '  2', ' 3', '4']">1. Survey (update of Clarke &amp; Noone 1985) 
+(expand to eastern Arctic, several years at some locations) 2.  Process studies 
+Scavenging ratio for BC in snowfall 
+Vertical redistribution of BC with melting 3.  Methods intercomparison 
+with Gerland, Berntsen <normal_text id="1" bbox="31.200,421.636,588.480,474.436" size="24.0" unique_id="1">1. Survey (update of Clarke &amp; Noone 1985) 
+(expand to eastern Arctic, several years at some locations) <textline bbox="31.200,450.436,472.368,474.436" font="TimesNewRomanPS-BoldItalicMT" ncolour="(1, 1, 0)" size="24.000" colourspace="DeviceGray">1. Survey (update of Clarke &amp; Noone 1985) </textline>
+<textline bbox="31.200,421.636,588.480,445.636" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="24.000" colourspace="DeviceGray">(expand to eastern Arctic, several years at some locations) </textline>
+</normal_text>
+<normal_text id="5" bbox="31.200,104.756,432.528,186.386" size="24.008" unique_id="5">2.  Process studies 
+Scavenging ratio for BC in snowfall 
+Vertical redistribution of BC with melting <textline bbox="31.200,162.386,211.224,186.386" font="TimesNewRomanPS-BoldItalicMT" ncolour="(1, 1, 0)" size="24.000" colourspace="DeviceGray">2.  Process studies </textline>
+<textline bbox="31.200,133.581,378.131,157.605" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">Scavenging ratio for BC in snowfall </textline>
+<textline bbox="31.200,104.756,432.528,128.756" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Vertical redistribution of BC with melting </textline>
+</normal_text>
+<normal_text id="6" bbox="31.200,18.355,315.384,71.160" size="24.012" unique_id="6">3.  Methods intercomparison 
+with Gerland, Berntsen <textline bbox="31.200,47.160,315.384,71.160" font="TimesNewRomanPS-BoldItalicMT" ncolour="(1, 1, 0)" size="24.000" colourspace="DeviceGray">3.  Methods intercomparison </textline>
+<textline bbox="31.200,18.355,254.479,42.379" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">with Gerland, Berntsen </textline>
+</normal_text>
+<normal_text id="2" bbox="31.200,306.406,507.384,388.055" size="24.008" unique_id="2">Arctic tundra, ice sheet, sea ice 
+Alaska, Canada, Greenland, Russia, Arctic Ocean 
+March-May (time of maximum snow depth,  <textline bbox="31.200,364.031,330.011,388.055" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">Arctic tundra, ice sheet, sea ice </textline>
+<textline bbox="31.200,335.206,507.384,359.206" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Alaska, Canada, Greenland, Russia, Arctic Ocean </textline>
+<textline bbox="31.200,306.406,459.476,330.406" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">March-May (time of maximum snow depth,  </textline>
+</normal_text>
+<normal_text id="3" bbox="61.224,277.606,350.664,301.606" size="24.0" unique_id="3">sample several vertical levels) <textline bbox="61.224,277.606,350.664,301.606" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">sample several vertical levels) </textline>
+</normal_text>
+<normal_text id="4" bbox="31.200,219.986,638.904,243.986" size="24.0" unique_id="4">Summer:  Greenland Ice Sheet (melting snow), melting sea ice. <textline bbox="31.200,219.986,638.904,243.986" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Summer:  Greenland Ice Sheet (melting snow), melting sea ice. </textline>
+</normal_text>
+</enlisting></page>
+</pages>

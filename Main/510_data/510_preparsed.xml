@@ -1,0 +1,56 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="31.560,43.523,505.624,113.968" size="32.052">Potential Locations for a Swan  
+Falls Inflow Monitoring Site <textline bbox="31.560,81.928,505.624,113.968" font="Arial-BoldMT" ncolour="1" size="32.040" colourspace="DeviceGray">Potential Locations for a Swan  </textline>
+<textline bbox="31.560,43.523,447.013,75.587" font="Arial-BoldMT" ncolour="1" size="32.064" colourspace="DeviceGray">Falls Inflow Monitoring Site </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<figure name="Image12" bbox="0.000,0.000,720.000,540.000" src="Image12.jpg" width="720" height="540">
+</figure>
+<figure name="Image13" bbox="85.320,13.320,650.640,450.240" src="Image13.jpg" width="565" height="436">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="32.088,430.451,110.544,458.411" size="27.96">Site #1 <textline bbox="32.088,430.451,110.544,458.411" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">Site #1 </textline>
+</textbox>
+<figure name="Image12" bbox="0.000,0.000,720.000,540.000" src="Image12.0.jpg" width="720" height="540">
+</figure>
+<figure name="Image16" bbox="255.600,17.880,683.520,427.680" src="Image16.jpg" width="427" height="409">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="32.088,430.451,110.544,458.411" size="27.96">Site #2 <textline bbox="32.088,430.451,110.544,458.411" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">Site #2 </textline>
+</textbox>
+<figure name="Image12" bbox="0.000,0.000,720.000,540.000" src="Image12.1.jpg" width="720" height="540">
+</figure>
+<figure name="Image21" bbox="195.600,24.120,685.680,427.560" src="Image21.jpg" width="490" height="403">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="32.088,430.451,110.544,458.411" size="27.96">Site #3 <textline bbox="32.088,430.451,110.544,458.411" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">Site #3 </textline>
+</textbox>
+<figure name="Image12" bbox="0.000,0.000,720.000,540.000" src="Image12.2.jpg" width="720" height="540">
+</figure>
+<figure name="Image24" bbox="254.640,18.480,578.640,431.880" src="Image24.jpg" width="324" height="413">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="32.088,430.451,110.544,458.411" size="27.96">Site #4 <textline bbox="32.088,430.451,110.544,458.411" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">Site #4 </textline>
+</textbox>
+<figure name="Image12" bbox="0.000,0.000,720.000,540.000" src="Image12.3.jpg" width="720" height="540">
+</figure>
+<figure name="Image27" bbox="252.840,17.760,648.840,433.320" src="Image27.jpg" width="396" height="415">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="31.512,425.308,260.057,453.268" size="27.96">Velocity Profiling <textline bbox="31.512,425.308,260.057,453.268" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="DeviceGray">Velocity Profiling </textline>
+</textbox>
+<figure name="Image12" bbox="0.000,0.000,720.000,540.000" src="Image12.4.jpg" width="720" height="540">
+</figure>
+<figure name="Image30" bbox="275.280,25.800,693.360,426.240" src="Image30.jpg" width="418" height="400">
+</figure>
+</page>
+</pages>

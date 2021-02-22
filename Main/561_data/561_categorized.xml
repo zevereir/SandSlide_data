@@ -1,0 +1,477 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="125.830,376.002,606.216,472.881" size="44.052" unique_id="0">Tropospheric Air Quality  
+Working Group Report <textline bbox="125.830,428.817,606.216,472.881" font="ArialMT" ncolour="1" size="44.064" colourspace="DeviceGray">Tropospheric Air Quality  </textline>
+<textline bbox="140.230,376.002,579.749,420.042" font="ArialMT" ncolour="1" size="44.040" colourspace="DeviceGray">Working Group Report </textline>
+</title>
+<normal_text id="1" bbox="148.990,100.332,565.029,224.562" size="32.04" unique_id="1">Ken Pickering (NASA GSFC) 
+Annmarie Eldering (JPL)  
+Bryan Duncan (NASA GSFC) <textline bbox="151.510,192.522,562.359,224.562" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Ken Pickering (NASA GSFC) </textline>
+<textline bbox="182.860,146.442,540.202,178.482" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Annmarie Eldering (JPL)  </textline>
+<textline bbox="148.990,100.332,565.029,132.372" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Bryan Duncan (NASA GSFC) </textline>
+</normal_text>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[297.94, 452.35, 422.14, 488.35]">
+<title id="0" bbox="297.940,452.350,422.140,488.350" size="36.0" unique_id="0">Agenda <textline bbox="297.940,452.350,422.140,488.350" font="ArialMT" ncolour="1" size="36.000" colourspace="DeviceGray">Agenda </textline>
+</title>
+<enlisting bbox="43.2,165.162,651.256,404.631" unique_id="['1', ' 3', '2']">&#8226; Discussion of objectives 
+&#8226; Seven short talks &#8211; main focus on  &#8226; Discussion of what is needed to improve  
+usefulness of Aura data for air quality  
+purposes <normal_text id="1" bbox="43.200,326.462,558.697,404.631" size="32.052" unique_id="1">&#8226; Discussion of objectives 
+&#8226; Seven short talks &#8211; main focus on  <textline bbox="43.200,372.567,411.513,404.631" font="ArialMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; Discussion of objectives </textline>
+<textline bbox="43.200,326.462,558.697,358.502" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Seven short talks &#8211; main focus on  </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,165.162,651.256,274.041" size="32.048" unique_id="3">&#8226; Discussion of what is needed to improve  
+usefulness of Aura data for air quality  
+purposes <textline bbox="43.200,241.977,651.256,274.041" font="ArialMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; Discussion of what is needed to improve  </textline>
+<textline bbox="70.224,203.562,604.715,235.602" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">usefulness of Aura data for air quality  </textline>
+<textline bbox="70.224,165.162,201.812,197.202" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">purposes </textline>
+</normal_text>
+<normal_text id="2" bbox="70.224,288.062,342.083,320.102" size="32.04" unique_id="2">tropospheric ozone <textline bbox="70.224,288.062,342.083,320.102" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">tropospheric ozone </textline>
+</normal_text>
+</enlisting></page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[163.28133333333332, 472.78000000000003, 556.7800000000001, 508.796]">
+<title id="0" bbox="95.952,482.995,624.100,519.019" size="36.024" unique_id="0">Current Aura Air Quality Activities <textline bbox="95.952,482.995,624.100,519.019" font="ArialMT" ncolour="1" size="36.024" colourspace="DeviceGray">Current Aura Air Quality Activities </textline>
+</title>
+<enlisting bbox="37.2,71.056,664.277,460.772" unique_id="['1', ' 2', '3']">&#8226; Fishman:  OMI &#8211; NCEP/GFS SCO; Texas case studies 
+&#8226; Yang:  OMI &#8211; MLS with PV mapping 
+&#8226; Pickering:  OMI &#8211; MLS (Ziemke) vs. Eta/CMAQ 
+&#8226; Chatfield:  South-Central Calif. Air Quality analysis 
+&#8226; Kurosu:  OMI HCHO and CHO-CHO 
+&#8226; Levelt:  European air quality modeling and assimilations systems 
+&#8226; Bowman:  Use of TES O3 and CO in Texas AQS &#8226; Krotkov:  Tropospheric SO2 over highly polluted regions 
+&#8226; Hoff:  Use of SSA from OMI in air quality analysis system 
+&#8226; Cohen:  Use of OMI NO2 in emission inventory for Calif. 
+&#8226; Hegarty:  Use of Aura data in North American outflow study 
+&#8226; Allen:  Comparisons of Aura data with WRF-Chem simulations over  <normal_text id="1" bbox="37.200,267.902,636.566,460.772" size="20.039999999999996" unique_id="1">&#8226; Fishman:  OMI &#8211; NCEP/GFS SCO; Texas case studies 
+&#8226; Yang:  OMI &#8211; MLS with PV mapping 
+&#8226; Pickering:  OMI &#8211; MLS (Ziemke) vs. Eta/CMAQ 
+&#8226; Chatfield:  South-Central Calif. Air Quality analysis 
+&#8226; Kurosu:  OMI HCHO and CHO-CHO 
+&#8226; Levelt:  European air quality modeling and assimilations systems 
+&#8226; Bowman:  Use of TES O3 and CO in Texas AQS <textline bbox="37.200,440.732,548.130,460.772" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Fishman:  OMI &#8211; NCEP/GFS SCO; Texas case studies </textline>
+<textline bbox="37.200,411.932,383.034,431.972" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Yang:  OMI &#8211; MLS with PV mapping </textline>
+<textline bbox="37.200,383.132,480.504,403.172" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Pickering:  OMI &#8211; MLS (Ziemke) vs. Eta/CMAQ </textline>
+<textline bbox="37.200,354.302,508.709,374.342" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Chatfield:  South-Central Calif. Air Quality analysis </textline>
+<textline bbox="37.200,325.502,386.581,345.542" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Kurosu:  OMI HCHO and CHO-CHO </textline>
+<textline bbox="37.200,296.702,636.566,316.742" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Levelt:  European air quality modeling and assimilations systems </textline>
+<textline bbox="37.200,267.902,492.178,287.942" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Bowman:  Use of TES O3 and CO in Texas AQS </textline>
+</normal_text>
+<normal_text id="2" bbox="37.200,95.056,664.277,230.322" size="20.0448" unique_id="2">&#8226; Krotkov:  Tropospheric SO2 over highly polluted regions 
+&#8226; Hoff:  Use of SSA from OMI in air quality analysis system 
+&#8226; Cohen:  Use of OMI NO2 in emission inventory for Calif. 
+&#8226; Hegarty:  Use of Aura data in North American outflow study 
+&#8226; Allen:  Comparisons of Aura data with WRF-Chem simulations over  <textline bbox="37.200,210.282,558.671,230.322" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Krotkov:  Tropospheric SO2 over highly polluted regions </textline>
+<textline bbox="37.200,181.482,566.767,201.522" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Hoff:  Use of SSA from OMI in air quality analysis system </textline>
+<textline bbox="37.200,152.682,559.272,172.722" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Cohen:  Use of OMI NO2 in emission inventory for Calif. </textline>
+<textline bbox="37.200,123.877,586.189,143.941" font="ArialMT" ncolour="1" size="20.064" colourspace="DeviceGray">&#8226; Hegarty:  Use of Aura data in North American outflow study </textline>
+<textline bbox="37.200,95.056,664.277,115.096" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">&#8226; Allen:  Comparisons of Aura data with WRF-Chem simulations over  </textline>
+</normal_text>
+<normal_text id="3" bbox="109.220,71.056,211.424,91.096" size="20.04" unique_id="3">Mid Atlantic <textline bbox="109.220,71.056,211.424,91.096" font="ArialMT" ncolour="1" size="20.040" colourspace="DeviceGray">Mid Atlantic </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[180.72566666666668, 478.6035, 539.27, 512.6435]">
+<title id="0" bbox="198.170,484.427,521.760,516.491" size="32.064" unique_id="0">Definition of Air Quality <textline bbox="198.170,484.427,521.760,516.491" font="ArialMT" ncolour="1" size="32.064" colourspace="DeviceGray">Definition of Air Quality </textline>
+</title>
+<enlisting id="1" bbox="70.224,253.977,636.691,431.852" size="32.0496" unique_id="1">&#61662;EPA &#8211; health based (boundary layer) 
+&#61662;Atmospheric Composition/Satellite  
+Community (lower tropospheric regime;  
+including regional and long-range  
+transport) <textline bbox="70.224,399.619,621.860,431.852">&#61662;EPA &#8211; health based (boundary layer) <text font="SymbolMT" bbox="70.224,399.619,101.847,431.659" colourspace="DeviceGray" ncolour="1" size="32.040">&#61662;</text>
+<text font="ArialMT" bbox="101.780,399.812,123.151,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">E</text>
+<text font="ArialMT" bbox="123.151,399.812,144.521,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">P</text>
+<text font="ArialMT" bbox="142.086,399.812,163.457,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">A</text>
+<text font="ArialMT" bbox="161.631,399.812,170.538,431.852" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="170.660,399.812,188.474,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">&#8211;</text>
+<text font="ArialMT" bbox="197.330,399.812,215.144,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">h</text>
+<text font="ArialMT" bbox="215.144,399.812,232.958,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="ArialMT" bbox="232.862,399.812,250.677,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">a</text>
+<text font="ArialMT" bbox="250.677,399.812,257.789,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="ArialMT" bbox="257.789,399.812,266.697,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">t</text>
+<text font="ArialMT" bbox="266.568,399.812,284.383,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">h</text>
+<text font="ArialMT" bbox="284.383,399.812,293.290,431.852" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="293.290,399.812,311.104,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">b</text>
+<text font="ArialMT" bbox="310.976,399.812,328.790,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">a</text>
+<text font="ArialMT" bbox="328.790,399.812,344.810,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">s</text>
+<text font="ArialMT" bbox="344.810,399.812,362.624,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="ArialMT" bbox="362.624,399.812,380.439,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">d</text>
+<text font="ArialMT" bbox="380.342,399.812,389.250,431.852" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="389.089,399.812,399.759,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">(</text>
+<text font="ArialMT" bbox="399.759,399.812,417.573,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">b</text>
+<text font="ArialMT" bbox="417.573,399.812,435.387,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">o</text>
+<text font="ArialMT" bbox="435.291,399.812,453.105,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">u</text>
+<text font="ArialMT" bbox="453.105,399.812,470.920,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">n</text>
+<text font="ArialMT" bbox="470.823,399.812,488.638,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">d</text>
+<text font="ArialMT" bbox="488.638,399.812,506.452,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">a</text>
+<text font="ArialMT" bbox="506.356,399.812,517.025,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">r</text>
+<text font="ArialMT" bbox="517.025,399.812,533.045,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">y</text>
+<text font="ArialMT" bbox="533.045,399.812,541.952,431.852" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="541.760,399.812,548.873,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="ArialMT" bbox="548.873,399.812,566.687,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">a</text>
+<text font="ArialMT" bbox="566.687,399.812,582.707,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">y</text>
+<text font="ArialMT" bbox="582.707,399.812,600.521,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="ArialMT" bbox="600.521,399.812,611.191,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">r</text>
+<text font="ArialMT" bbox="611.191,399.812,621.860,431.852" colourspace="DeviceGray" ncolour="1" size="32.040">)</text>
+</textline>
+<textline bbox="70.224,357.374,597.650,389.631">&#61662;Atmospheric Composition/Satellite  <text font="SymbolMT" bbox="70.224,357.374,101.871,389.438" colourspace="DeviceGray" ncolour="1" size="32.064">&#61662;</text>
+<text font="ArialMT" bbox="101.780,357.567,123.167,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">A</text>
+<text font="ArialMT" bbox="123.167,357.567,132.080,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="ArialMT" bbox="132.080,357.567,158.790,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">m</text>
+<text font="ArialMT" bbox="158.662,357.567,176.489,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">o</text>
+<text font="ArialMT" bbox="176.489,357.567,192.521,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">s</text>
+<text font="ArialMT" bbox="192.521,357.567,210.349,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">p</text>
+<text font="ArialMT" bbox="210.349,357.567,228.176,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">h</text>
+<text font="ArialMT" bbox="228.016,357.567,245.844,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">e</text>
+<text font="ArialMT" bbox="245.844,357.567,256.521,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">r</text>
+<text font="ArialMT" bbox="256.521,357.567,263.639,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">i</text>
+<text font="ArialMT" bbox="263.543,357.567,279.575,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">c</text>
+<text font="ArialMT" bbox="279.575,357.567,288.489,389.631" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="ArialMT" bbox="288.392,357.567,311.543,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">C</text>
+<text font="ArialMT" bbox="311.543,357.567,329.370,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">o</text>
+<text font="ArialMT" bbox="329.370,357.567,356.080,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">m</text>
+<text font="ArialMT" bbox="355.951,357.567,373.779,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">p</text>
+<text font="ArialMT" bbox="373.779,357.567,391.606,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">o</text>
+<text font="ArialMT" bbox="391.478,357.567,407.510,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">s</text>
+<text font="ArialMT" bbox="407.510,357.567,414.628,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">i</text>
+<text font="ArialMT" bbox="414.628,357.567,423.542,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="ArialMT" bbox="423.542,357.567,430.660,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">i</text>
+<text font="ArialMT" bbox="430.660,357.567,448.488,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">o</text>
+<text font="ArialMT" bbox="448.360,357.567,466.187,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">n</text>
+<text font="ArialMT" bbox="466.187,357.567,475.101,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">/</text>
+<text font="ArialMT" bbox="475.005,357.567,496.392,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">S</text>
+<text font="ArialMT" bbox="496.392,357.567,514.219,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">a</text>
+<text font="ArialMT" bbox="514.219,357.567,523.133,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="ArialMT" bbox="523.005,357.567,540.832,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">e</text>
+<text font="ArialMT" bbox="540.832,357.567,547.951,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">l</text>
+<text font="ArialMT" bbox="547.854,357.567,554.973,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">l</text>
+<text font="ArialMT" bbox="554.973,357.567,562.091,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">i</text>
+<text font="ArialMT" bbox="562.091,357.567,571.005,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="ArialMT" bbox="570.908,357.567,588.736,389.631" colourspace="DeviceGray" ncolour="1" size="32.064">e</text>
+<text font="ArialMT" bbox="588.736,357.567,597.650,389.631" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+</textline>
+<textline bbox="70.224,323.102,636.691,355.142" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Community (lower tropospheric regime;  </textline>
+<textline bbox="70.224,288.542,551.661,320.582" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">including regional and long-range  </textline>
+<textline bbox="70.224,253.977,207.169,286.041" font="ArialMT" ncolour="1" size="32.064" colourspace="DeviceGray">transport) </textline>
+</enlisting>
+<normal_text id="2" bbox="70.224,100.332,667.097,201.522" size="32.048" unique_id="2">Air pollution often travels above boundary  
+layer &amp; impacts surface via subsidence  
+and/or fumigation. <textline bbox="70.224,169.482,667.097,201.522" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Air pollution often travels above boundary  </textline>
+<textline bbox="70.224,134.917,631.761,166.981" font="ArialMT" ncolour="1" size="32.064" colourspace="DeviceGray">layer &amp; impacts surface via subsidence  </textline>
+<textline bbox="70.224,100.332,325.935,132.372" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">and/or fumigation. </textline>
+</normal_text>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[120.7426, 485.4513, 599.4276, 521.8689]">
+<title id="0" bbox="30.768,495.723,689.664,535.707" size="39.984" unique_id="0">Data Product Intercomparison Issues <textline bbox="30.768,495.723,689.664,535.707" font="ArialMT" ncolour="1" size="39.984" colourspace="DeviceGray">Data Product Intercomparison Issues </textline>
+</title>
+<enlisting bbox="43.2,78.984,680.444,471.7" unique_id="['1', '  2', '  3', '  5', '  6', ' 4', '7']">&#8226; Talks by Fishman, Yang, &amp; Pickering raised issue:  How  
+do we compare Aura tropospheric ozone products using  
+residual methods?  &#61662; Difficulties arise due to various tropopause definitions.  
+Therefore, standard definition is required.  But which  
+one?  Compute TCO &gt; 500 mb instead? &#8226; Lack of spatial continuity of cross-track observations  &#8226; Coarseness of stratospheric column ozone removal. &#8226; Should NASA support more near-real time data  <normal_text id="1" bbox="43.200,401.620,670.752,471.700" size="24.0" unique_id="1">&#8226; Talks by Fishman, Yang, &amp; Pickering raised issue:  How  
+do we compare Aura tropospheric ozone products using  
+residual methods?  <textline bbox="43.200,447.700,666.816,471.700" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">&#8226; Talks by Fishman, Yang, &amp; Pickering raised issue:  How  </textline>
+<textline bbox="70.224,424.660,670.752,448.660" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">do we compare Aura tropospheric ozone products using  </textline>
+<textline bbox="70.224,401.620,273.072,425.620" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">residual methods?  </textline>
+</normal_text>
+<normal_text id="2" bbox="70.224,297.910,680.444,367.990" size="24.0" unique_id="2">&#61662; Difficulties arise due to various tropopause definitions.  
+Therefore, standard definition is required.  But which  
+one?  Compute TCO &gt; 500 mb instead? <textline bbox="70.224,343.846,680.444,367.990">&#61662; Difficulties arise due to various tropopause definitions.  <text font="SymbolMT" bbox="70.224,343.846,93.912,367.846" colourspace="DeviceGray" ncolour="1" size="24.000">&#61662;</text>
+<text font="ArialMT" bbox="100.460,343.990,117.788,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">D</text>
+<text font="ArialMT" bbox="117.788,343.990,123.116,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="123.020,343.990,129.692,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="ArialMT" bbox="129.260,343.990,135.932,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="ArialMT" bbox="135.932,343.990,141.260,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="141.260,343.990,153.260,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="ArialMT" bbox="153.260,343.990,166.604,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="ArialMT" bbox="166.604,343.990,171.932,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="ArialMT" bbox="171.932,343.990,178.604,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="178.604,343.990,183.932,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="183.932,343.990,197.276,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="197.180,343.990,209.180,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="209.180,343.990,215.852,367.990" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="216.116,343.990,229.460,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="ArialMT" bbox="229.460,343.990,237.452,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="237.452,343.990,242.780,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="242.780,343.990,254.780,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="254.780,343.990,268.124,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="268.124,343.990,274.796,367.990" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="274.892,343.990,288.236,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="ArialMT" bbox="288.236,343.990,301.580,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="ArialMT" bbox="301.580,343.990,314.924,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="314.852,343.990,321.524,367.990" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="321.524,343.990,328.196,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="328.268,343.990,341.612,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="341.612,343.990,348.284,367.990" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="348.188,343.990,360.188,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">v</text>
+<text font="ArialMT" bbox="360.188,343.990,373.532,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="ArialMT" bbox="373.532,343.990,381.524,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="381.524,343.990,386.852,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="386.852,343.990,400.196,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="400.196,343.990,413.540,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="ArialMT" bbox="413.540,343.990,425.540,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="425.540,343.990,432.212,367.990" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="432.284,343.990,438.956,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="438.956,343.990,446.948,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="447.020,343.990,460.364,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="460.364,343.990,473.708,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">p</text>
+<text font="ArialMT" bbox="473.708,343.990,487.052,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="486.980,343.990,500.324,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">p</text>
+<text font="ArialMT" bbox="500.324,343.990,513.668,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="ArialMT" bbox="513.668,343.990,527.012,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="ArialMT" bbox="526.940,343.990,538.940,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="538.940,343.990,552.284,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="552.284,343.990,558.956,367.990" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="559.196,343.990,572.540,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="ArialMT" bbox="572.540,343.990,585.884,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="585.884,343.990,592.556,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="ArialMT" bbox="592.556,343.990,597.884,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="597.884,343.990,611.228,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="ArialMT" bbox="611.156,343.990,616.484,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="616.484,343.990,623.156,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="623.156,343.990,628.484,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="628.484,343.990,641.828,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="641.756,343.990,655.100,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="ArialMT" bbox="655.100,343.990,667.100,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="667.100,343.990,673.772,367.990" colourspace="DeviceGray" ncolour="1" size="24.000">.</text>
+<text font="ArialMT" bbox="673.772,343.990,680.444,367.990" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+</textline>
+<textline bbox="70.224,320.950,633.144,344.950" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">Therefore, standard definition is required.  But which  </textline>
+<textline bbox="70.224,297.910,495.888,321.910" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">one?  Compute TCO &gt; 500 mb instead? </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,240.305,631.855,264.329" size="24.024" unique_id="3">&#8226; Lack of spatial continuity of cross-track observations  <textline bbox="43.200,240.305,631.855,264.329" font="ArialMT" ncolour="1" size="24.024" colourspace="DeviceGray">&#8226; Lack of spatial continuity of cross-track observations  </textline>
+</normal_text>
+<normal_text id="5" bbox="43.200,159.650,624.000,183.650" size="24.0" unique_id="5">&#8226; Coarseness of stratospheric column ozone removal. <textline bbox="43.200,159.650,624.000,183.650" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">&#8226; Coarseness of stratospheric column ozone removal. </textline>
+</normal_text>
+<normal_text id="6" bbox="43.200,102.020,578.734,126.020" size="24.0" unique_id="6">&#8226; Should NASA support more near-real time data  <textline bbox="43.200,102.020,578.734,126.020" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">&#8226; Should NASA support more near-real time data  </textline>
+</normal_text>
+<normal_text id="4" bbox="70.224,217.250,289.200,241.250" size="24.0" unique_id="4">(variable pixel size).  <textline bbox="70.224,217.250,289.200,241.250" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">(variable pixel size).  </textline>
+</normal_text>
+<normal_text id="7" bbox="70.224,78.984,676.104,102.984" size="24.0" unique_id="7">processing for mission planning &amp; air quality forecasting? <textline bbox="70.224,78.984,676.104,102.984" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">processing for mission planning &amp; air quality forecasting? </textline>
+</normal_text>
+</enlisting></page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[95.99906666666666, 465.66020000000003, 627.7627333333332, 519.2586]">
+<title id="0" bbox="46.512,426.078,684.433,514.038" size="39.96" unique_id="0">How well represented is convection  
+in regional/global models? <textline bbox="46.512,474.078,684.433,514.038" font="ArialMT" ncolour="1" size="39.960" colourspace="DeviceGray">How well represented is convection  </textline>
+<textline bbox="127.630,426.078,592.285,466.038" font="ArialMT" ncolour="1" size="39.960" colourspace="DeviceGray">in regional/global models? </textline>
+</title>
+<enlisting bbox="43.2,135.157,668.891,374.582" unique_id="['1', ' 2', '3']">&#8226; Boundary layer venting by convection is a  
+critical process for air quality and long- 
+range transport. &#8226; Can Aura data be used to evaluate  <normal_text id="1" bbox="43.200,265.742,668.891,374.582" size="32.04" unique_id="1">&#8226; Boundary layer venting by convection is a  
+critical process for air quality and long- 
+range transport. <textline bbox="43.200,342.542,668.891,374.582" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Boundary layer venting by convection is a  </textline>
+<textline bbox="70.224,304.142,615.469,336.182" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">critical process for air quality and long- </textline>
+<textline bbox="70.224,265.742,295.914,297.782" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">range transport. </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,173.562,571.169,205.602" size="32.04" unique_id="2">&#8226; Can Aura data be used to evaluate  <textline bbox="43.200,173.562,571.169,205.602" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Can Aura data be used to evaluate  </textline>
+</normal_text>
+<normal_text id="3" bbox="70.224,135.157,629.837,167.221" size="32.064" unique_id="3">convective parameterizations in CTMs? <textline bbox="70.224,135.157,629.837,167.221" font="ArialMT" ncolour="1" size="32.064" colourspace="DeviceGray">convective parameterizations in CTMs? </textline>
+</normal_text>
+</enlisting></page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[89.1627619047619, 461.20814285714283, 633.4693809523809, 510.90985714285716]">
+<title id="0" bbox="72.072,450.078,647.736,490.038" size="39.96" unique_id="0">Vertical Composition Information <textline bbox="72.072,450.078,647.736,490.038" font="ArialMT" ncolour="1" size="39.960" colourspace="DeviceGray">Vertical Composition Information </textline>
+</title>
+<enlisting bbox="43.2,88.336,677.754,404.631" unique_id="['1', '2']">&#8226; Vertical profile information is critical for  
+assessing transport &amp; air quality (e.g.,  
+above boundary layer versus near-surface  
+composition and transport). &#8226; Necessary to understand long-range  
+transport versus in situ production of  
+pollution. <normal_text id="1" bbox="43.200,257.337,677.754,404.631" size="32.052" unique_id="1">&#8226; Vertical profile information is critical for  
+assessing transport &amp; air quality (e.g.,  
+above boundary layer versus near-surface  
+composition and transport). <textline bbox="43.200,372.567,624.482,404.631" font="ArialMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; Vertical profile information is critical for  </textline>
+<textline bbox="70.224,334.142,613.751,366.182" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">assessing transport &amp; air quality (e.g.,  </textline>
+<textline bbox="70.224,295.742,677.754,327.782" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">above boundary layer versus near-surface  </textline>
+<textline bbox="70.224,257.337,457.653,289.401" font="ArialMT" ncolour="1" size="32.064" colourspace="DeviceGray">composition and transport). </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,88.336,595.941,197.202" size="32.048" unique_id="2">&#8226; Necessary to understand long-range  
+transport versus in situ production of  
+pollution. <textline bbox="43.200,165.162,595.941,197.202" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Necessary to understand long-range  </textline>
+<textline bbox="70.224,126.757,594.112,158.885">transport versus in situ production of  <text font="ArialMT" bbox="70.224,126.757,79.138,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="ArialMT" bbox="79.138,126.757,89.815,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">r</text>
+<text font="ArialMT" bbox="89.815,126.757,107.643,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">a</text>
+<text font="ArialMT" bbox="107.546,126.757,125.374,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">n</text>
+<text font="ArialMT" bbox="125.374,126.757,141.406,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">s</text>
+<text font="ArialMT" bbox="141.406,126.757,159.234,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">p</text>
+<text font="ArialMT" bbox="159.234,126.757,177.061,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">o</text>
+<text font="ArialMT" bbox="176.901,126.757,187.578,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">r</text>
+<text font="ArialMT" bbox="187.578,126.757,196.492,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="ArialMT" bbox="196.492,126.757,205.406,158.821" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="ArialMT" bbox="205.085,126.757,221.117,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">v</text>
+<text font="ArialMT" bbox="221.117,126.757,238.945,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">e</text>
+<text font="ArialMT" bbox="238.945,126.757,249.622,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">r</text>
+<text font="ArialMT" bbox="249.622,126.757,265.654,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">s</text>
+<text font="ArialMT" bbox="265.654,126.757,283.482,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">u</text>
+<text font="ArialMT" bbox="283.482,126.757,299.514,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">s</text>
+<text font="ArialMT" bbox="299.514,126.757,308.427,158.821" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="Arial-ItalicMT" bbox="308.090,126.821,315.208,158.885" colourspace="DeviceGray" ncolour="1" size="32.064">i</text>
+<text font="Arial-ItalicMT" bbox="315.208,126.821,333.036,158.885" colourspace="DeviceGray" ncolour="1" size="32.064">n</text>
+<text font="Arial-ItalicMT" bbox="333.036,126.821,341.950,158.885" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="Arial-ItalicMT" bbox="341.950,126.821,357.982,158.885" colourspace="DeviceGray" ncolour="1" size="32.064">s</text>
+<text font="Arial-ItalicMT" bbox="357.982,126.821,365.100,158.885" colourspace="DeviceGray" ncolour="1" size="32.064">i</text>
+<text font="Arial-ItalicMT" bbox="365.100,126.821,374.014,158.885" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="Arial-ItalicMT" bbox="374.014,126.821,391.841,158.885" colourspace="DeviceGray" ncolour="1" size="32.064">u</text>
+<text font="ArialMT" bbox="400.510,126.757,418.338,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">p</text>
+<text font="ArialMT" bbox="418.338,126.757,429.015,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">r</text>
+<text font="ArialMT" bbox="429.015,126.757,446.842,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">o</text>
+<text font="ArialMT" bbox="446.714,126.757,464.542,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">d</text>
+<text font="ArialMT" bbox="464.542,126.757,482.369,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">u</text>
+<text font="ArialMT" bbox="482.241,126.757,498.273,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">c</text>
+<text font="ArialMT" bbox="498.273,126.757,507.187,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="ArialMT" bbox="507.187,126.757,514.305,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">i</text>
+<text font="ArialMT" bbox="514.305,126.757,532.133,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">o</text>
+<text font="ArialMT" bbox="532.133,126.757,549.960,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">n</text>
+<text font="ArialMT" bbox="549.800,126.757,558.714,158.821" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="ArialMT" bbox="558.553,126.757,576.381,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">o</text>
+<text font="ArialMT" bbox="576.381,126.757,585.295,158.821" colourspace="DeviceGray" ncolour="1" size="32.064">f</text>
+<text font="ArialMT" bbox="585.199,126.757,594.112,158.821" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+</textline>
+<textline bbox="70.224,88.336,198.096,120.376" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">pollution. </textline>
+</normal_text>
+</enlisting></page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[114.62707142857143, 457.8216071428571, 607.3037857142857, 506.1078928571429]">
+<title id="0" bbox="191.020,447.662,528.807,491.702" size="44.04" unique_id="0">Neglected Issues <textline bbox="191.020,447.662,528.807,491.702" font="ArialMT" ncolour="1" size="44.040" colourspace="DeviceGray">Neglected Issues </textline>
+</title>
+<enlisting bbox="43.2,90.984,678.68,408.82" unique_id="['1', '   2', '   4', '   6', '  3', ' 5', '7']">&#8226; We mostly discussed troposphere column ozone. &#8226; But what about aerosols, NOx, CO, SO2, etc.?  Topics for  &#8226; What is/can be Aura&#8217;s contribution to regional air quality  &#8226; How well does Aura compare with surface observations?  <normal_text id="1" bbox="43.200,384.820,592.776,408.820" size="24.0" unique_id="1">&#8226; We mostly discussed troposphere column ozone. <textline bbox="43.200,384.820,592.776,408.820" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">&#8226; We mostly discussed troposphere column ozone. </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,317.238,678.580,345.430" size="24.0" unique_id="2">&#8226; But what about aerosols, NOx, CO, SO2, etc.?  Topics for  <textline bbox="43.200,317.238,678.580,345.430">&#8226; But what about aerosols, NOx, CO, SO2, etc.?  Topics for  <text font="ArialMT" bbox="43.200,321.430,51.600,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">&#8226;</text>
+<text font="ArialMT" bbox="70.224,321.430,86.232,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">B</text>
+<text font="ArialMT" bbox="86.232,321.430,99.576,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="ArialMT" bbox="99.504,321.430,106.176,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="106.176,321.430,112.848,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="112.848,321.430,130.176,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">w</text>
+<text font="ArialMT" bbox="130.104,321.430,143.448,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">h</text>
+<text font="ArialMT" bbox="143.448,321.430,156.792,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="ArialMT" bbox="156.792,321.430,163.464,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="163.464,321.430,170.136,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="170.136,321.430,183.480,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="ArialMT" bbox="183.480,321.430,196.824,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">b</text>
+<text font="ArialMT" bbox="196.824,321.430,210.168,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="210.168,321.430,223.512,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="ArialMT" bbox="223.512,321.430,230.184,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="230.184,321.430,236.856,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="237.000,321.430,250.344,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">a</text>
+<text font="ArialMT" bbox="250.344,321.430,263.688,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="263.688,321.430,271.680,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="271.680,321.430,285.024,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="285.024,321.430,297.024,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="297.024,321.430,310.368,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="310.368,321.430,315.696,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="ArialMT" bbox="315.600,321.430,327.600,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="327.600,321.430,334.272,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">,</text>
+<text font="ArialMT" bbox="334.272,321.430,340.944,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="341.016,321.430,358.344,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">N</text>
+<text font="ArialMT" bbox="358.344,321.430,377.016,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">O</text>
+<text font="ArialMT" bbox="377.110,317.238,385.090,333.198" colourspace="DeviceGray" ncolour="1" size="15.960">x</text>
+<text font="ArialMT" bbox="385.030,321.430,391.702,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">,</text>
+<text font="ArialMT" bbox="391.702,321.430,398.374,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="398.374,321.430,415.702,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">C</text>
+<text font="ArialMT" bbox="415.630,321.430,434.302,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">O</text>
+<text font="ArialMT" bbox="434.302,321.430,440.974,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">,</text>
+<text font="ArialMT" bbox="441.046,321.430,447.718,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="447.718,321.430,463.726,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">S</text>
+<text font="ArialMT" bbox="463.606,321.430,482.278,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">O</text>
+<text font="ArialMT" bbox="482.380,317.238,491.254,333.198" colourspace="DeviceGray" ncolour="1" size="15.960">2</text>
+<text font="ArialMT" bbox="491.260,321.430,497.932,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">,</text>
+<text font="ArialMT" bbox="497.932,321.430,504.604,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="504.460,321.430,517.804,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="517.804,321.430,524.476,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="524.476,321.430,536.476,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="ArialMT" bbox="536.476,321.430,543.148,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">.</text>
+<text font="ArialMT" bbox="543.196,321.430,556.540,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">?</text>
+<text font="ArialMT" bbox="556.540,321.430,563.212,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="562.996,321.430,569.668,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="569.236,321.430,583.900,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">T</text>
+<text font="ArialMT" bbox="581.236,321.430,594.580,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="594.580,321.430,607.924,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">p</text>
+<text font="ArialMT" bbox="607.924,321.430,613.252,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="613.156,321.430,625.156,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">c</text>
+<text font="ArialMT" bbox="625.156,321.430,637.156,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="637.156,321.430,643.828,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="643.828,321.430,650.500,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">f</text>
+<text font="ArialMT" bbox="650.572,321.430,663.916,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="663.916,321.430,671.908,345.430" colourspace="DeviceGray" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="671.908,321.430,678.580,345.430" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+</textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,232.130,667.512,256.130" size="24.0" unique_id="4">&#8226; What is/can be Aura&#8217;s contribution to regional air quality  <textline bbox="43.200,232.130,667.512,256.130" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">&#8226; What is/can be Aura&#8217;s contribution to regional air quality  </textline>
+</normal_text>
+<normal_text id="6" bbox="43.200,116.925,678.680,140.949" size="24.024" unique_id="6">&#8226; How well does Aura compare with surface observations?  <textline bbox="43.200,116.925,678.680,140.949" font="ArialMT" ncolour="1" size="24.024" colourspace="DeviceGray">&#8226; How well does Aura compare with surface observations?  </textline>
+</normal_text>
+<normal_text id="3" bbox="70.224,295.510,220.872,319.510" size="24.0" unique_id="3">next meeting? <textline bbox="70.224,295.510,220.872,319.510" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">next meeting? </textline>
+</normal_text>
+<normal_text id="5" bbox="70.224,180.290,614.688,230.210" size="24.0" unique_id="5">issues?  Aura data coupled with surface data (e.g.,  
+AIRNow). <textline bbox="70.224,206.210,614.688,230.210" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">issues?  Aura data coupled with surface data (e.g.,  </textline>
+<textline bbox="70.224,180.290,172.728,204.290" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">AIRNow). </textline>
+</normal_text>
+<normal_text id="7" bbox="70.224,90.984,282.240,114.984" size="24.0" unique_id="7">More work needed.  <textline bbox="70.224,90.984,282.240,114.984" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">More work needed.  </textline>
+</normal_text>
+</enlisting></page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[128.6366111111111, 455.56391666666667, 592.9022777777777, 502.9065833333334]">
+<title id="0" bbox="177.670,447.662,542.497,491.702" size="44.04" unique_id="0">Holistic Approach? <textline bbox="177.670,447.662,542.497,491.702" font="ArialMT" ncolour="1" size="44.040" colourspace="DeviceGray">Holistic Approach? </textline>
+</title>
+<enlisting id="1" bbox="43.2,257.337,658.094,404.695" size="32.064" unique_id="['1', '2']">&#8226; Can Aura data be coupled with in situ <textline bbox="43.200,372.567,597.955,404.695">&#8226; Can Aura data be coupled with in situ <text font="ArialMT" bbox="43.200,372.567,54.422,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">&#8226;</text>
+<text font="ArialMT" bbox="70.224,372.567,93.374,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">C</text>
+<text font="ArialMT" bbox="93.374,372.567,111.202,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">a</text>
+<text font="ArialMT" bbox="111.202,372.567,129.029,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">n</text>
+<text font="ArialMT" bbox="128.901,372.567,137.815,404.631" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="ArialMT" bbox="135.987,372.567,157.374,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">A</text>
+<text font="ArialMT" bbox="157.374,372.567,175.202,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">u</text>
+<text font="ArialMT" bbox="175.202,372.567,185.879,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">r</text>
+<text font="ArialMT" bbox="185.879,372.567,203.706,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">a</text>
+<text font="ArialMT" bbox="203.546,372.567,212.460,404.631" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="ArialMT" bbox="212.300,372.567,230.127,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">d</text>
+<text font="ArialMT" bbox="230.127,372.567,247.955,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">a</text>
+<text font="ArialMT" bbox="247.826,372.567,256.740,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="ArialMT" bbox="256.740,372.567,274.568,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">a</text>
+<text font="ArialMT" bbox="274.472,372.567,283.385,404.631" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="ArialMT" bbox="283.385,372.567,301.213,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">b</text>
+<text font="ArialMT" bbox="301.117,372.567,318.944,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">e</text>
+<text font="ArialMT" bbox="318.944,372.567,327.858,404.631" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="ArialMT" bbox="327.762,372.567,343.794,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">c</text>
+<text font="ArialMT" bbox="343.794,372.567,361.622,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">o</text>
+<text font="ArialMT" bbox="361.622,372.567,379.449,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">u</text>
+<text font="ArialMT" bbox="379.449,372.567,397.277,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">p</text>
+<text font="ArialMT" bbox="397.116,372.567,404.235,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">l</text>
+<text font="ArialMT" bbox="404.235,372.567,422.062,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">e</text>
+<text font="ArialMT" bbox="421.966,372.567,439.794,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">d</text>
+<text font="ArialMT" bbox="439.794,372.567,448.707,404.631" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="ArialMT" bbox="448.483,372.567,471.633,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">w</text>
+<text font="ArialMT" bbox="471.633,372.567,478.751,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">i</text>
+<text font="ArialMT" bbox="478.751,372.567,487.665,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="ArialMT" bbox="487.665,372.567,505.493,404.631" colourspace="DeviceGray" ncolour="1" size="32.064">h</text>
+<text font="ArialMT" bbox="505.365,372.567,514.278,404.631" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="Arial-ItalicMT" bbox="514.300,372.631,521.418,404.695" colourspace="DeviceGray" ncolour="1" size="32.064">i</text>
+<text font="Arial-ItalicMT" bbox="521.418,372.631,539.246,404.695" colourspace="DeviceGray" ncolour="1" size="32.064">n</text>
+<text font="Arial-ItalicMT" bbox="539.150,372.631,548.063,404.695" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="Arial-ItalicMT" bbox="548.063,372.631,564.095,404.695" colourspace="DeviceGray" ncolour="1" size="32.064">s</text>
+<text font="Arial-ItalicMT" bbox="564.095,372.631,571.214,404.695" colourspace="DeviceGray" ncolour="1" size="32.064">i</text>
+<text font="Arial-ItalicMT" bbox="571.214,372.631,580.127,404.695" colourspace="DeviceGray" ncolour="1" size="32.064">t</text>
+<text font="Arial-ItalicMT" bbox="580.127,372.631,597.955,404.695" colourspace="DeviceGray" ncolour="1" size="32.064">u</text>
+</textline>
+<normal_text id="2" bbox="70.224,257.337,658.094,366.182" size="32.048" unique_id="2">observations, assimilations, models, etc.  
+to provide a more comprehensive picture  
+of air quality? <textline bbox="70.224,334.142,651.109,366.182" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">observations, assimilations, models, etc.  </textline>
+<textline bbox="70.224,295.742,658.094,327.782" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">to provide a more comprehensive picture  </textline>
+<textline bbox="70.224,257.337,260.364,289.401" font="ArialMT" ncolour="1" size="32.064" colourspace="DeviceGray">of air quality? </textline>
+</normal_text>
+</enlisting>
+<normal_text id="3" bbox="70.224,165.162,663.669,197.202" size="32.04" unique_id="3">European approach?  RAQMS approach? <textline bbox="70.224,165.162,663.669,197.202" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">European approach?  RAQMS approach? </textline>
+</normal_text>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[157.31328888888888, 454.92113333333333, 563.9410222222223, 499.99526666666674]">
+<title id="0" bbox="272.020,452.350,448.096,488.350" size="36.0" unique_id="0">The Future <textline bbox="272.020,452.350,448.096,488.350" font="ArialMT" ncolour="1" size="36.000" colourspace="DeviceGray">The Future </textline>
+</title>
+<enlisting bbox="43.2,226.37,668.04,405.94" unique_id="['1', ' 2', '3']">&#8226; The working group only touched the surface of all of the  
+issues related to use of Aura data for air quality.  We  
+needed more time. &#8226; Suggest keeping the dialog ongoing through e-mail  <normal_text id="1" bbox="43.200,324.310,668.040,405.940" size="24.0" unique_id="1">&#8226; The working group only touched the surface of all of the  
+issues related to use of Aura data for air quality.  We  
+needed more time. <textline bbox="43.200,381.940,668.040,405.940" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">&#8226; The working group only touched the surface of all of the  </textline>
+<textline bbox="70.224,353.110,630.840,377.110" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">issues related to use of Aura data for air quality.  We  </textline>
+<textline bbox="70.224,324.310,270.384,348.310" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">needed more time. </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,255.185,619.255,279.209" size="24.024" unique_id="2">&#8226; Suggest keeping the dialog ongoing through e-mail  <textline bbox="43.200,255.185,619.255,279.209" font="ArialMT" ncolour="1" size="24.024" colourspace="DeviceGray">&#8226; Suggest keeping the dialog ongoing through e-mail  </textline>
+</normal_text>
+<normal_text id="3" bbox="70.224,226.370,164.856,250.370" size="24.0" unique_id="3">listserve. <textline bbox="70.224,226.370,164.856,250.370" font="ArialMT" ncolour="1" size="24.000" colourspace="DeviceGray">listserve. </textline>
+</normal_text>
+</enlisting></page>
+</pages>

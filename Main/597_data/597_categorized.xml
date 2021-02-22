@@ -1,0 +1,1459 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="130.970,234.368,665.772,295.967" size="27.972" unique_id="0">Federal Medication Terminologies (FMT) 
+Enabling Health IT Interoperability <textline bbox="130.970,267.983,665.772,295.967" font="Arial-BoldMT" ncolour="1" size="27.984" colourspace="Pattern">Federal Medication Terminologies (FMT) </textline>
+<textline bbox="130.970,234.368,585.180,262.328" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">Enabling Health IT Interoperability </textline>
+</title>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.194x343.bmp" width="69" height="123" unique_id="1">
+</picture>
+<picture name="Image9" bbox="0.000,172.440,126.000,362.280" src="Image9.336x576.bmp" width="126" height="189" unique_id="2">
+</picture>
+<picture name="Image10" bbox="131.520,334.680,704.280,350.760" src="Image10.936x27.bmp" width="572" height="16" unique_id="3">
+</picture>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<normal_text id="0" bbox="79.584,478.858,167.518,506.818" size="27.96" unique_id="0">Topics <textline bbox="79.584,478.858,167.518,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="Pattern">Topics </textline>
+</normal_text>
+<enlisting id="1" bbox="126.840,175.618,326.737,405.247" size="27.968000000000004" unique_id="1">&#8226; Goal 
+&#8226; Background 
+&#8226; Components 
+&#8226; Accessibility 
+&#8226; Collaboration  
+&#8226; Summary <textline bbox="126.840,377.263,212.962,405.247" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Goal </textline>
+<textline bbox="126.840,336.918,303.306,364.878" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Background </textline>
+<textline bbox="126.840,296.598,312.533,324.558" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Components </textline>
+<textline bbox="126.840,256.273,306.485,284.257" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Accessibility </textline>
+<textline bbox="126.840,215.938,326.737,243.898" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Collaboration  </textline>
+<textline bbox="126.840,175.618,273.529,203.578" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Summary </textline>
+</enlisting>
+<slide_number id="2" bbox="682.510,28.036,690.316,42.076" size="14.04" unique_id="2">2 <textline bbox="682.510,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">2 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.0.194x343.bmp" width="69" height="123" unique_id="3">
+</picture>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.584, 478.858, 141.739, 506.818]">
+<title id="0" bbox="79.584,478.858,141.739,506.818" size="27.96" unique_id="0">Goal <textline bbox="79.584,478.858,141.739,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">Goal </textline>
+</title>
+<normal_text id="5" bbox="87.696,101.730,244.763,132.608" size="14.052" unique_id="5">U.S. Department of Health  
+and Human Services <textline bbox="87.696,118.544,244.763,132.608" font="BCDEEE+Calibri-Bold" ncolour="(0.145, 0.114, 0.576)" size="14.064" colourspace="DeviceGray">U.S. Department of Health  </textline>
+<textline bbox="87.696,101.730,205.337,115.770" font="BCDEEE+Calibri-Bold" ncolour="(0.145, 0.114, 0.576)" size="14.040" colourspace="DeviceGray">and Human Services </textline>
+</normal_text>
+<slide_number id="7" bbox="682.510,28.036,690.316,42.076" size="14.04" unique_id="7">3 <textline bbox="682.510,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">3 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.1.194x343.bmp" width="69" height="123" unique_id="8">
+</picture>
+<picture name="Image29" bbox="253.320,88.080,636.240,146.160" src="Image29.jpg" width="382" height="58" unique_id="9" caption="Advancing  &#10;Excellence  &#10;in Health  &#10;Care " caption_ids="['6']">
+</picture>
+<picture name="Image30" bbox="573.240,30.240,704.400,78.600" src="Image30.252x93.bmp" width="131" height="48" unique_id="10">
+</picture>
+<picture name="Image31" bbox="589.680,91.800,680.640,186.600" src="Image31.245x244.bmp" width="90" height="94" unique_id="11">
+</picture>
+<picture name="Image33" bbox="11.160,22.200,374.280,72.480" src="Image33.729x68.bmp" width="363" height="50" unique_id="12">
+</picture>
+<picture name="Image36" bbox="17.280,93.000,71.040,162.480" src="Image36.jpg" width="53" height="69" unique_id="13">
+</picture>
+<picture name="Image38" bbox="380.280,17.520,472.680,80.880" src="Image38.118x81.bmp" width="92" height="63" unique_id="14">
+</picture>
+<picture name="Image41" bbox="486.960,27.179,547.980,47.760" src="Image41.170x58.bmp" width="61" height="20" unique_id="15">
+</picture>
+<picture name="Image45" bbox="486.720,18.539,548.220,39.120" src="Image45.171x58.bmp" width="61" height="20" unique_id="16">
+</picture>
+<picture name="Image47" bbox="491.040,9.899,544.020,30.480" src="Image47.148x58.bmp" width="52" height="20" unique_id="17">
+</picture>
+<picture name="Image49" bbox="500.040,1.259,532.620,21.840" src="Image49.91x58.bmp" width="32" height="20" unique_id="18">
+</picture>
+<picture name="Image51" bbox="477.120,51.000,557.400,91.800" src="Image51.222x113.bmp" width="80" height="40" unique_id="19">
+</picture>
+<picture name="Image53" bbox="466.080,87.960,568.080,186.960" src="Image53.jpg" width="101" height="98" unique_id="20">
+</picture>
+<enlisting bbox="7.2,185.927,715.248,428.858" unique_id="['1', '  3', ' 2', '4']">&#8226; To make available comprehensive, freely and easily accessible  &#8226; To facilitate federal interagency collaboration in order to provide: 
+&#8211; Access to common language for communicating medication information 
+&#8211; Processes for maintaining terminologies 
+&#8211; Infrastructure for sharing that information 
+&#8211; Identification of initial terminology components endorsed through  <normal_text id="1" bbox="7.200,404.810,708.552,428.858" size="24.0" unique_id="1">&#8226; To make available comprehensive, freely and easily accessible  <textline bbox="7.200,404.810,708.552,428.858">&#8226; To make available comprehensive, freely and easily accessible  <text font="ArialMT" bbox="7.200,404.810,15.600,428.810" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">&#8226;</text>
+<text font="Arial-ItalicMT" bbox="34.200,404.858,48.864,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">T</text>
+<text font="Arial-ItalicMT" bbox="46.680,404.858,60.024,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">o</text>
+<text font="Arial-ItalicMT" bbox="60.024,404.858,66.696,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="66.600,404.858,86.592,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">m</text>
+<text font="Arial-ItalicMT" bbox="86.400,404.858,99.744,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="99.744,404.858,111.744,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">k</text>
+<text font="Arial-ItalicMT" bbox="111.744,404.858,125.088,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="125.088,404.858,131.760,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="131.976,404.858,145.320,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="145.320,404.858,157.320,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">v</text>
+<text font="Arial-ItalicMT" bbox="157.320,404.858,170.664,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="170.664,404.858,175.992,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">i</text>
+<text font="Arial-ItalicMT" bbox="175.896,404.858,181.224,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">l</text>
+<text font="Arial-ItalicMT" bbox="181.224,404.858,194.568,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="194.496,404.858,207.840,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">b</text>
+<text font="Arial-ItalicMT" bbox="207.840,404.858,213.168,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">l</text>
+<text font="Arial-ItalicMT" bbox="213.096,404.858,226.440,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="226.440,404.858,233.112,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="233.592,404.858,245.592,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">c</text>
+<text font="Arial-ItalicMT" bbox="245.592,404.858,258.936,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">o</text>
+<text font="Arial-ItalicMT" bbox="258.936,404.858,278.928,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">m</text>
+<text font="Arial-ItalicMT" bbox="278.712,404.858,292.056,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">p</text>
+<text font="Arial-ItalicMT" bbox="292.056,404.858,300.048,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">r</text>
+<text font="Arial-ItalicMT" bbox="300.048,404.858,313.392,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="313.392,404.858,326.736,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">h</text>
+<text font="Arial-ItalicMT" bbox="326.736,404.858,340.080,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="340.080,404.858,353.424,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">n</text>
+<text font="Arial-ItalicMT" bbox="353.424,404.858,365.424,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">s</text>
+<text font="Arial-ItalicMT" bbox="365.424,404.858,370.752,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">i</text>
+<text font="Arial-ItalicMT" bbox="370.632,404.858,382.632,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">v</text>
+<text font="Arial-ItalicMT" bbox="382.632,404.858,395.976,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="395.976,404.858,402.648,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">,</text>
+<text font="Arial-ItalicMT" bbox="402.648,404.858,409.320,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="409.848,404.858,416.520,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">f</text>
+<text font="Arial-ItalicMT" bbox="416.520,404.858,424.512,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">r</text>
+<text font="Arial-ItalicMT" bbox="424.584,404.858,437.928,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="437.928,404.858,451.272,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="451.272,404.858,456.600,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">l</text>
+<text font="Arial-ItalicMT" bbox="456.504,404.858,468.504,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">y</text>
+<text font="Arial-ItalicMT" bbox="468.504,404.858,475.176,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="475.104,404.858,488.448,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="488.448,404.858,501.792,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">n</text>
+<text font="Arial-ItalicMT" bbox="501.792,404.858,515.136,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">d</text>
+<text font="Arial-ItalicMT" bbox="515.064,404.858,521.736,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="521.880,404.858,535.224,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="535.224,404.858,548.568,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="548.568,404.858,560.568,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">s</text>
+<text font="Arial-ItalicMT" bbox="560.568,404.858,565.896,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">i</text>
+<text font="Arial-ItalicMT" bbox="565.800,404.858,571.128,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">l</text>
+<text font="Arial-ItalicMT" bbox="571.128,404.858,583.128,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">y</text>
+<text font="Arial-ItalicMT" bbox="583.128,404.858,589.800,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="590.016,404.858,603.360,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="603.360,404.858,615.360,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">c</text>
+<text font="Arial-ItalicMT" bbox="615.360,404.858,627.360,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">c</text>
+<text font="Arial-ItalicMT" bbox="627.360,404.858,640.704,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="640.704,404.858,652.704,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">s</text>
+<text font="Arial-ItalicMT" bbox="652.704,404.858,664.704,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">s</text>
+<text font="Arial-ItalicMT" bbox="664.704,404.858,670.032,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">i</text>
+<text font="Arial-ItalicMT" bbox="669.936,404.858,683.280,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">b</text>
+<text font="Arial-ItalicMT" bbox="683.280,404.858,688.608,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">l</text>
+<text font="Arial-ItalicMT" bbox="688.536,404.858,701.880,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="701.880,404.858,708.552,428.858" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="7.200,224.292,715.248,344.378" size="20.8368" unique_id="3">&#8226; To facilitate federal interagency collaboration in order to provide: 
+&#8211; Access to common language for communicating medication information 
+&#8211; Processes for maintaining terminologies 
+&#8211; Infrastructure for sharing that information 
+&#8211; Identification of initial terminology components endorsed through  <textline bbox="7.200,320.330,715.248,344.378">&#8226; To facilitate federal interagency collaboration in order to provide: <text font="ArialMT" bbox="7.200,320.330,15.600,344.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">&#8226;</text>
+<text font="Arial-ItalicMT" bbox="34.200,320.378,48.864,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">T</text>
+<text font="Arial-ItalicMT" bbox="46.680,320.378,60.024,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">o</text>
+<text font="Arial-ItalicMT" bbox="60.024,320.378,66.696,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="66.600,320.378,73.272,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">f</text>
+<text font="Arial-ItalicMT" bbox="73.272,320.378,86.616,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="86.616,320.378,98.616,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">c</text>
+<text font="Arial-ItalicMT" bbox="98.616,320.378,103.944,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">i</text>
+<text font="Arial-ItalicMT" bbox="103.944,320.378,109.272,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">l</text>
+<text font="Arial-ItalicMT" bbox="109.272,320.378,114.600,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">i</text>
+<text font="Arial-ItalicMT" bbox="114.480,320.378,121.152,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">t</text>
+<text font="Arial-ItalicMT" bbox="121.152,320.378,134.496,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="134.496,320.378,141.168,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">t</text>
+<text font="Arial-ItalicMT" bbox="141.216,320.378,154.560,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="154.560,320.378,161.232,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="161.352,320.378,168.024,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">f</text>
+<text font="Arial-ItalicMT" bbox="168.024,320.378,181.368,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="181.368,320.378,194.712,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">d</text>
+<text font="Arial-ItalicMT" bbox="194.712,320.378,208.056,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="208.056,320.378,216.048,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">r</text>
+<text font="Arial-ItalicMT" bbox="216.048,320.378,229.392,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="229.392,320.378,234.720,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">l</text>
+<text font="Arial-ItalicMT" bbox="234.720,320.378,241.392,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="241.392,320.378,246.720,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">i</text>
+<text font="Arial-ItalicMT" bbox="246.720,320.378,260.064,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">n</text>
+<text font="Arial-ItalicMT" bbox="260.064,320.378,266.736,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">t</text>
+<text font="Arial-ItalicMT" bbox="266.736,320.378,280.080,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="280.080,320.378,288.072,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">r</text>
+<text font="Arial-ItalicMT" bbox="288.072,320.378,301.416,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="301.416,320.378,314.760,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">g</text>
+<text font="Arial-ItalicMT" bbox="314.760,320.378,328.104,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="328.104,320.378,341.448,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">n</text>
+<text font="Arial-ItalicMT" bbox="341.352,320.378,353.352,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">c</text>
+<text font="Arial-ItalicMT" bbox="353.352,320.378,365.352,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">y</text>
+<text font="Arial-ItalicMT" bbox="365.352,320.378,372.024,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="372.288,320.378,384.288,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">c</text>
+<text font="Arial-ItalicMT" bbox="384.288,320.378,397.632,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">o</text>
+<text font="Arial-ItalicMT" bbox="397.632,320.378,402.960,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">l</text>
+<text font="Arial-ItalicMT" bbox="402.960,320.378,408.288,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">l</text>
+<text font="Arial-ItalicMT" bbox="408.168,320.378,421.512,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="421.512,320.378,434.856,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">b</text>
+<text font="Arial-ItalicMT" bbox="434.856,320.378,448.200,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">o</text>
+<text font="Arial-ItalicMT" bbox="448.128,320.378,456.120,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">r</text>
+<text font="Arial-ItalicMT" bbox="456.120,320.378,469.464,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">a</text>
+<text font="Arial-ItalicMT" bbox="469.464,320.378,476.136,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">t</text>
+<text font="Arial-ItalicMT" bbox="476.136,320.378,481.464,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">i</text>
+<text font="Arial-ItalicMT" bbox="481.464,320.378,494.808,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">o</text>
+<text font="Arial-ItalicMT" bbox="494.808,320.378,508.152,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">n</text>
+<text font="Arial-ItalicMT" bbox="508.152,320.378,514.824,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="515.304,320.378,520.632,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">i</text>
+<text font="Arial-ItalicMT" bbox="520.632,320.378,533.976,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">n</text>
+<text font="Arial-ItalicMT" bbox="533.904,320.378,540.576,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="540.576,320.378,553.920,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">o</text>
+<text font="Arial-ItalicMT" bbox="553.920,320.378,561.912,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">r</text>
+<text font="Arial-ItalicMT" bbox="561.960,320.378,575.304,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">d</text>
+<text font="Arial-ItalicMT" bbox="575.304,320.378,588.648,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="588.648,320.378,596.640,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">r</text>
+<text font="Arial-ItalicMT" bbox="596.640,320.378,603.312,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="603.312,320.378,609.984,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">t</text>
+<text font="Arial-ItalicMT" bbox="610.056,320.378,623.400,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">o</text>
+<text font="Arial-ItalicMT" bbox="623.400,320.378,630.072,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="629.976,320.378,643.320,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">p</text>
+<text font="Arial-ItalicMT" bbox="643.320,320.378,651.312,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">r</text>
+<text font="Arial-ItalicMT" bbox="651.312,320.378,664.656,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">o</text>
+<text font="Arial-ItalicMT" bbox="664.656,320.378,676.656,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">v</text>
+<text font="Arial-ItalicMT" bbox="676.656,320.378,681.984,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">i</text>
+<text font="Arial-ItalicMT" bbox="681.984,320.378,695.328,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">d</text>
+<text font="Arial-ItalicMT" bbox="695.328,320.378,708.672,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">e</text>
+<text font="Arial-ItalicMT" bbox="708.576,320.378,715.248,344.378" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="24.000">:</text>
+</textline>
+<textline bbox="43.200,296.317,697.880,316.421">&#8211; Access to common language for communicating medication information <text font="ArialMT" bbox="43.200,296.317,54.356,316.381" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">&#8211;</text>
+<text font="Arial-ItalicMT" bbox="65.784,296.357,79.167,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">A</text>
+<text font="Arial-ItalicMT" bbox="79.106,296.357,89.138,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">c</text>
+<text font="Arial-ItalicMT" bbox="89.138,296.357,99.170,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">c</text>
+<text font="Arial-ItalicMT" bbox="99.251,296.357,110.406,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">e</text>
+<text font="Arial-ItalicMT" bbox="110.406,296.357,120.438,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">s</text>
+<text font="Arial-ItalicMT" bbox="120.438,296.357,130.470,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">s</text>
+<text font="Arial-ItalicMT" bbox="130.551,296.357,136.128,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="135.707,296.357,141.285,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">t</text>
+<text font="Arial-ItalicMT" bbox="141.285,296.357,152.440,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">o</text>
+<text font="Arial-ItalicMT" bbox="152.440,296.357,158.018,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="157.898,296.357,167.930,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">c</text>
+<text font="Arial-ItalicMT" bbox="167.930,296.357,179.085,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">o</text>
+<text font="Arial-ItalicMT" bbox="179.085,296.357,195.799,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">m</text>
+<text font="Arial-ItalicMT" bbox="195.698,296.357,212.412,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">m</text>
+<text font="Arial-ItalicMT" bbox="212.251,296.357,223.407,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">o</text>
+<text font="Arial-ItalicMT" bbox="223.407,296.357,234.562,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">n</text>
+<text font="Arial-ItalicMT" bbox="234.562,296.357,240.140,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="239.980,296.357,244.434,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">l</text>
+<text font="Arial-ItalicMT" bbox="244.434,296.357,255.589,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">a</text>
+<text font="Arial-ItalicMT" bbox="255.589,296.357,266.745,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">n</text>
+<text font="Arial-ItalicMT" bbox="266.745,296.357,277.901,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">g</text>
+<text font="Arial-ItalicMT" bbox="277.901,296.357,289.056,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">u</text>
+<text font="Arial-ItalicMT" bbox="289.056,296.357,300.212,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">a</text>
+<text font="Arial-ItalicMT" bbox="300.212,296.357,311.367,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">g</text>
+<text font="Arial-ItalicMT" bbox="311.367,296.357,322.523,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">e</text>
+<text font="Arial-ItalicMT" bbox="322.523,296.357,328.101,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="327.820,296.357,333.398,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">f</text>
+<text font="Arial-ItalicMT" bbox="333.398,296.357,344.553,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">o</text>
+<text font="Arial-ItalicMT" bbox="344.553,296.357,351.235,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">r</text>
+<text font="Arial-ItalicMT" bbox="351.235,296.357,356.812,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="356.612,296.357,366.644,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">c</text>
+<text font="Arial-ItalicMT" bbox="366.644,296.357,377.799,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">o</text>
+<text font="Arial-ItalicMT" bbox="377.799,296.357,394.513,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">m</text>
+<text font="Arial-ItalicMT" bbox="394.412,296.357,411.126,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">m</text>
+<text font="Arial-ItalicMT" bbox="410.965,296.357,422.121,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">u</text>
+<text font="Arial-ItalicMT" bbox="422.121,296.357,433.276,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">n</text>
+<text font="Arial-ItalicMT" bbox="433.276,296.357,437.730,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="437.730,296.357,447.762,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">c</text>
+<text font="Arial-ItalicMT" bbox="447.762,296.357,458.918,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">a</text>
+<text font="Arial-ItalicMT" bbox="458.918,296.357,464.496,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">t</text>
+<text font="Arial-ItalicMT" bbox="464.496,296.357,468.950,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="468.950,296.357,480.106,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">n</text>
+<text font="Arial-ItalicMT" bbox="480.106,296.357,491.261,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">g</text>
+<text font="Arial-ItalicMT" bbox="491.261,296.357,496.839,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="496.638,296.357,513.352,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">m</text>
+<text font="Arial-ItalicMT" bbox="513.191,296.357,524.347,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">e</text>
+<text font="Arial-ItalicMT" bbox="524.347,296.357,535.502,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">d</text>
+<text font="Arial-ItalicMT" bbox="535.502,296.357,539.957,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="539.957,296.357,549.989,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">c</text>
+<text font="Arial-ItalicMT" bbox="549.989,296.357,561.144,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">a</text>
+<text font="Arial-ItalicMT" bbox="561.144,296.357,566.722,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">t</text>
+<text font="Arial-ItalicMT" bbox="566.722,296.357,571.176,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="571.176,296.357,582.332,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">o</text>
+<text font="Arial-ItalicMT" bbox="582.332,296.357,593.487,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">n</text>
+<text font="Arial-ItalicMT" bbox="593.487,296.357,599.065,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="598.864,296.357,603.319,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="603.319,296.357,614.474,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">n</text>
+<text font="Arial-ItalicMT" bbox="614.474,296.357,620.052,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">f</text>
+<text font="Arial-ItalicMT" bbox="619.992,296.357,631.147,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">o</text>
+<text font="Arial-ItalicMT" bbox="631.147,296.357,637.829,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">r</text>
+<text font="Arial-ItalicMT" bbox="637.829,296.357,654.542,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">m</text>
+<text font="Arial-ItalicMT" bbox="654.442,296.357,665.597,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">a</text>
+<text font="Arial-ItalicMT" bbox="665.597,296.357,671.175,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">t</text>
+<text font="Arial-ItalicMT" bbox="671.175,296.357,675.629,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="675.569,296.357,686.725,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">o</text>
+<text font="Arial-ItalicMT" bbox="686.725,296.357,697.880,316.421" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.064">n</text>
+</textline>
+<textline bbox="43.200,272.292,420.312,292.372">&#8211; Processes for maintaining terminologies <text font="ArialMT" bbox="43.200,272.292,54.342,292.332" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">&#8211;</text>
+<text font="Arial-ItalicMT" bbox="65.784,272.332,79.151,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">P</text>
+<text font="Arial-ItalicMT" bbox="79.151,272.332,85.824,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="85.824,272.332,96.966,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="96.966,272.332,106.986,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">c</text>
+<text font="Arial-ItalicMT" bbox="107.046,272.332,118.189,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="118.189,272.332,128.209,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="128.269,272.332,138.289,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="138.289,272.332,149.431,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="149.491,272.332,159.511,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="159.511,272.332,165.082,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="164.601,272.332,170.172,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="170.172,272.332,181.315,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="181.315,272.332,187.988,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="187.988,272.332,193.559,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="193.399,272.332,210.092,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">m</text>
+<text font="Arial-ItalicMT" bbox="209.952,272.332,221.094,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="221.094,272.332,225.543,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="225.543,272.332,236.685,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="236.685,272.332,242.256,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="242.256,272.332,253.398,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="253.398,272.332,257.847,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="257.847,272.332,268.990,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="268.990,272.332,273.438,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="273.438,272.332,284.581,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="284.581,272.332,295.723,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">g</text>
+<text font="Arial-ItalicMT" bbox="295.723,272.332,301.294,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="301.294,272.332,306.865,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="306.785,272.332,317.927,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="317.927,272.332,324.601,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="324.641,272.332,341.334,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">m</text>
+<text font="Arial-ItalicMT" bbox="341.194,272.332,345.643,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="345.643,272.332,356.785,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="356.785,272.332,367.927,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="367.927,272.332,372.376,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">l</text>
+<text font="Arial-ItalicMT" bbox="372.376,272.332,383.518,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="383.518,272.332,394.660,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">g</text>
+<text font="Arial-ItalicMT" bbox="394.660,272.332,399.109,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="399.109,272.332,410.252,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="410.292,272.332,420.312,292.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">s</text>
+</textline>
+<textline bbox="43.200,248.292,426.304,268.372">&#8211; Infrastructure for sharing that information <text font="ArialMT" bbox="43.200,248.292,54.342,268.332" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">&#8211;</text>
+<text font="Arial-ItalicMT" bbox="65.784,248.332,71.355,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">I</text>
+<text font="Arial-ItalicMT" bbox="71.355,248.332,82.497,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="82.497,248.332,88.068,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="87.988,248.332,94.662,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="94.662,248.332,105.804,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="105.844,248.332,115.864,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="115.864,248.332,121.435,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="121.435,248.332,128.108,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="128.108,248.332,139.251,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">u</text>
+<text font="Arial-ItalicMT" bbox="139.251,248.332,149.271,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">c</text>
+<text font="Arial-ItalicMT" bbox="149.271,248.332,154.842,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="154.842,248.332,165.984,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">u</text>
+<text font="Arial-ItalicMT" bbox="165.844,248.332,172.517,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="172.437,248.332,183.579,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="183.579,248.332,189.150,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="188.749,248.332,194.321,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="194.321,248.332,205.463,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="205.463,248.332,212.136,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="212.136,248.332,217.707,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="217.547,248.332,227.567,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="227.567,248.332,238.709,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">h</text>
+<text font="Arial-ItalicMT" bbox="238.769,248.332,249.912,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="249.912,248.332,256.585,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="256.625,248.332,261.074,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="261.074,248.332,272.216,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="272.216,248.332,283.358,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">g</text>
+<text font="Arial-ItalicMT" bbox="283.358,248.332,288.929,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="288.549,248.332,294.120,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="294.120,248.332,305.262,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">h</text>
+<text font="Arial-ItalicMT" bbox="305.262,248.332,316.404,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="316.404,248.332,321.975,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="321.915,248.332,327.486,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="327.306,248.332,331.755,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="331.755,248.332,342.897,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="342.897,248.332,348.468,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="348.468,248.332,359.610,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="359.610,248.332,366.284,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="366.284,248.332,382.977,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">m</text>
+<text font="Arial-ItalicMT" bbox="382.857,248.332,393.999,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="393.999,248.332,399.570,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="399.570,248.332,404.019,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="404.019,248.332,415.161,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="415.161,248.332,426.304,268.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+</textline>
+<textline bbox="43.200,224.292,642.515,244.372">&#8211; Identification of initial terminology components endorsed through  <text font="ArialMT" bbox="43.200,224.292,54.342,244.332" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">&#8211;</text>
+<text font="Arial-ItalicMT" bbox="65.784,224.332,71.355,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">I</text>
+<text font="Arial-ItalicMT" bbox="71.355,224.332,82.497,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">d</text>
+<text font="Arial-ItalicMT" bbox="82.497,224.332,93.640,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="93.640,224.332,104.782,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="104.782,224.332,110.353,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="110.353,224.332,114.802,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="114.802,224.332,120.373,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="120.273,224.332,124.722,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="124.722,224.332,134.742,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">c</text>
+<text font="Arial-ItalicMT" bbox="134.742,224.332,145.884,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="145.924,224.332,151.495,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="151.495,224.332,155.944,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="155.944,224.332,167.086,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="167.086,224.332,178.228,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="178.228,224.332,183.800,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="183.479,224.332,194.621,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="194.621,224.332,200.192,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="200.192,224.332,205.763,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="205.683,224.332,210.132,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="210.132,224.332,221.274,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="221.274,224.332,225.723,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="225.723,224.332,231.294,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="231.294,224.332,235.743,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="235.743,224.332,246.885,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="246.885,224.332,251.334,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">l</text>
+<text font="Arial-ItalicMT" bbox="251.334,224.332,256.905,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="256.905,224.332,262.477,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="262.477,224.332,273.619,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="273.619,224.332,280.292,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="280.292,224.332,296.985,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">m</text>
+<text font="Arial-ItalicMT" bbox="296.885,224.332,301.334,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="301.334,224.332,312.476,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="312.476,224.332,323.619,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="323.619,224.332,328.068,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">l</text>
+<text font="Arial-ItalicMT" bbox="328.068,224.332,339.210,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="339.210,224.332,350.352,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">g</text>
+<text font="Arial-ItalicMT" bbox="350.352,224.332,360.372,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">y</text>
+<text font="Arial-ItalicMT" bbox="360.472,224.332,366.043,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="365.743,224.332,375.763,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">c</text>
+<text font="Arial-ItalicMT" bbox="375.763,224.332,386.905,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="386.965,224.332,403.658,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">m</text>
+<text font="Arial-ItalicMT" bbox="403.518,224.332,414.660,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">p</text>
+<text font="Arial-ItalicMT" bbox="414.660,224.332,425.803,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="425.803,224.332,436.945,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="436.945,224.332,448.087,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="448.147,224.332,459.289,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="459.289,224.332,464.861,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="464.861,224.332,474.881,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="474.881,224.332,480.452,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="480.071,224.332,491.213,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="491.213,224.332,502.355,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="502.355,224.332,513.498,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">d</text>
+<text font="Arial-ItalicMT" bbox="513.498,224.332,524.640,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="524.700,224.332,531.373,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="531.373,224.332,541.393,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="541.473,224.332,552.616,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="552.616,224.332,563.758,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">d</text>
+<text font="Arial-ItalicMT" bbox="563.758,224.332,569.329,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="568.948,224.332,574.519,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="574.519,224.332,585.662,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">h</text>
+<text font="Arial-ItalicMT" bbox="585.662,224.332,592.335,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="592.335,224.332,603.477,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="603.477,224.332,614.619,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">u</text>
+<text font="Arial-ItalicMT" bbox="614.619,224.332,625.762,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">g</text>
+<text font="Arial-ItalicMT" bbox="625.802,224.332,636.944,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040">h</text>
+<text font="Arial-ItalicMT" bbox="636.944,224.332,642.515,244.372" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="20.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="34.200,358.778,616.344,405.818" size="24.0" unique_id="2">standard medication terminologies to enable Health IT  
+interoperability  <textline bbox="34.200,381.818,616.344,405.818" font="Arial-ItalicMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">standard medication terminologies to enable Health IT  </textline>
+<textline bbox="34.200,358.778,196.728,382.778" font="Arial-ItalicMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">interoperability  </textline>
+</normal_text>
+<normal_text id="4" bbox="65.784,185.927,712.856,225.172" size="20.052" unique_id="4">Consolidated Health Informatics (CHI) and further development efforts to  
+increase robustness of FMT <textline bbox="65.784,205.132,712.856,225.172" font="Arial-ItalicMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">Consolidated Health Informatics (CHI) and further development efforts to  </textline>
+<textline bbox="65.784,185.927,313.474,205.991" font="Arial-ItalicMT" ncolour="(0.145, 0.114, 0.576)" size="20.064" colourspace="DeviceGray">increase robustness of FMT </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.584, 478.858, 158.92499999999998, 506.818]">
+<title id="0" bbox="79.584,478.858,167.518,506.818" size="27.96" unique_id="0">Topics <textline bbox="79.584,478.858,167.518,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="Pattern">Topics </textline>
+</title>
+<enlisting id="1" bbox="126.840,175.618,501.263,405.247" size="27.968000000000004" unique_id="1">&#8226; Overview / Goal 
+&#8226; Background 
+&#8226; Components 
+&#8226; Accessibility 
+&#8226; Collaboration / Coordination 
+&#8226; Summary <textline bbox="126.840,377.263,353.022,405.247" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Overview / Goal </textline>
+<textline bbox="126.840,336.918,303.306,364.878" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Background </textline>
+<textline bbox="126.840,296.598,312.533,324.558" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Components </textline>
+<textline bbox="126.840,256.273,306.485,284.257" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Accessibility </textline>
+<textline bbox="126.840,215.938,501.263,243.898" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Collaboration / Coordination </textline>
+<textline bbox="126.840,175.618,273.529,203.578" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Summary </textline>
+</enlisting>
+<slide_number id="2" bbox="682.510,28.036,690.316,42.076" size="14.04" unique_id="2">4 <textline bbox="682.510,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.2.194x343.bmp" width="69" height="123" unique_id="3">
+</picture>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.584, 478.858, 200.82799999999997, 506.818]">
+<title id="0" bbox="79.584,478.858,242.731,506.818" size="27.96" unique_id="0">Background <textline bbox="79.584,478.858,242.731,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">Background </textline>
+</title>
+<normal_text id="5" bbox="233.090,234.680,453.914,252.680" size="18.0" unique_id="5">Medication Terminologies <textline bbox="233.090,234.680,453.914,252.680" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Medication Terminologies </textline>
+</normal_text>
+<normal_text id="6" bbox="128.980,215.418,217.273,225.378" size="9.96" unique_id="6">UNII, NDF-RT, NCIt <textline bbox="128.980,215.418,217.273,225.378" font="Arial-ItalicMT" ncolour="0" size="9.960" colourspace="DeviceGray">UNII, NDF-RT, NCIt </textline>
+</normal_text>
+<normal_text id="7" bbox="280.420,218.778,298.076,228.738" size="9.96" unique_id="7">NDC <textline bbox="280.420,218.778,298.076,228.738" font="BCDGEE+ArialNarrow-Italic" ncolour="0" size="9.960" colourspace="DeviceGray">NDC </textline>
+</normal_text>
+<normal_text id="8" bbox="444.980,218.898,578.543,228.858" size="9.96" unique_id="8">RxNORM, NDC, UNII, NDF-RT, NCIt <textline bbox="444.980,218.898,578.543,228.858" font="BCDGEE+ArialNarrow-Italic" ncolour="0" size="9.960" colourspace="DeviceGray">RxNORM, NDC, UNII, NDF-RT, NCIt </textline>
+</normal_text>
+<normal_text id="9" bbox="30.096,151.888,66.858,173.848" size="9.96" unique_id="9">Drug  
+Research <textline bbox="38.976,163.888,60.310,173.848" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Drug  </textline>
+<textline bbox="30.096,151.888,66.858,161.848" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Research </textline>
+</normal_text>
+<normal_text id="10" bbox="87.888,152.128,139.062,174.088" size="9.96" unique_id="10">Drug  
+Development <textline bbox="103.850,164.128,125.184,174.088" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Drug  </textline>
+<textline bbox="87.888,152.128,139.062,162.088" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Development </textline>
+</normal_text>
+<normal_text id="11" bbox="160.560,152.898,183.334,174.858" size="9.96" unique_id="11">Drug  
+Trials <textline bbox="162.000,164.898,183.334,174.858" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Drug  </textline>
+<textline bbox="160.560,152.898,182.362,162.858" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Trials </textline>
+</normal_text>
+<normal_text id="12" bbox="210.290,155.898,245.758,177.858" size="9.96" unique_id="12">Drug  
+Approval <textline bbox="218.570,167.898,239.904,177.858" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Drug  </textline>
+<textline bbox="210.290,155.898,245.758,165.858" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Approval </textline>
+</normal_text>
+<normal_text id="13" bbox="267.380,152.128,290.129,174.088" size="9.96" unique_id="13">NDC  
+Code  <textline bbox="267.380,164.128,287.291,174.088" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">NDC  </textline>
+<textline bbox="267.380,152.128,290.129,162.088" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Code  </textline>
+</normal_text>
+<normal_text id="14" bbox="318.500,152.128,361.706,174.088" size="9.96" unique_id="14">Drug  
+Distributed <textline bbox="330.620,164.128,351.954,174.088" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Drug  </textline>
+<textline bbox="318.500,152.128,361.706,162.088" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Distributed </textline>
+</normal_text>
+<normal_text id="15" bbox="372.840,154.388,414.991,176.348" size="9.96" unique_id="15">Drug   
+Prescribed <textline bbox="384.480,166.388,408.085,176.348" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Drug   </textline>
+<textline bbox="372.840,154.388,414.991,164.348" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Prescribed </textline>
+</normal_text>
+<normal_text id="16" bbox="429.910,152.128,471.354,174.088" size="9.96" unique_id="16">Drug   
+Dispensed <textline bbox="441.070,164.128,464.675,174.088" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Drug   </textline>
+<textline bbox="429.910,152.128,471.354,162.088" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Dispensed </textline>
+</normal_text>
+<normal_text id="17" bbox="489.550,154.008,515.028,175.988" size="9.96" unique_id="17">Drug  
+Admin <textline bbox="489.550,166.028,510.884,175.988" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Drug  </textline>
+<textline bbox="489.550,154.008,515.028,163.968" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Admin </textline>
+</normal_text>
+<normal_text id="18" bbox="543.050,159.648,584.225,169.608" size="9.96" unique_id="18">PHR / EHR <textline bbox="543.050,159.648,584.225,169.608" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">PHR / EHR </textline>
+</normal_text>
+<normal_text id="19" bbox="604.250,150.768,648.343,172.728" size="9.96" unique_id="19">Secondary  
+Use <textline bbox="604.250,162.768,648.343,172.728" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Secondary  </textline>
+<textline bbox="617.690,150.768,632.670,160.728" font="BCDFEE+ArialNarrow-Bold" ncolour="0" size="9.960" colourspace="DeviceGray">Use </textline>
+</normal_text>
+<normal_text id="20" bbox="71.976,97.888,306.066,107.848" size="9.96" unique_id="20">FDA / Pharma / HL7 SPL /Drug Knowledge Suppliers <textline bbox="71.976,97.888,306.066,107.848" font="Arial-ItalicMT" ncolour="0" size="9.960" colourspace="DeviceGray">FDA / Pharma / HL7 SPL /Drug Knowledge Suppliers </textline>
+</normal_text>
+<normal_text id="21" bbox="397.900,84.400,650.605,106.360" size="9.96" unique_id="21">ePrescribing / CMS / NCPDP / Medication Reconciliation/ 
+ONC Use Case / HITSP IS <textline bbox="397.900,96.400,650.605,106.360" font="Arial-ItalicMT" ncolour="0" size="9.960" colourspace="DeviceGray">ePrescribing / CMS / NCPDP / Medication Reconciliation/ </textline>
+<textline bbox="465.100,84.400,583.863,94.360" font="Arial-ItalicMT" ncolour="0" size="9.960" colourspace="DeviceGray">ONC Use Case / HITSP IS </textline>
+</normal_text>
+<normal_text id="22" bbox="248.280,58.404,449.214,76.404" size="18.0" unique_id="22">Initiatives / Participants <textline bbox="248.280,58.404,449.214,76.404" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Initiatives / Participants </textline>
+</normal_text>
+<slide_number id="23" bbox="682.510,28.036,690.316,42.076" size="14.04" unique_id="23">5 <textline bbox="682.510,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">5 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.3.194x343.bmp" width="69" height="123" unique_id="24">
+</picture>
+<enlisting bbox="16.584,277.39,677.614,420.94" unique_id="['1', '2', '3', '4']">&#8226; Consolidated Health Informatics (CHI) 2003-2006 &#8211; National Committee on Vital and Health Statistics (NCVHS) / CHI endorsed  
+selection of medication standards http://www.hhs.gov/healthit/chiinitiative.html &#8211; Drug code, semantic clinical drug, classifications, ingredients, units &#8226; Need for standardization of medication terminology <normal_text id="1" bbox="16.584,396.940,569.424,420.940" size="24.0" unique_id="1">&#8226; Consolidated Health Informatics (CHI) 2003-2006 <textline bbox="16.584,396.940,569.424,420.940" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">&#8226; Consolidated Health Informatics (CHI) 2003-2006 </textline>
+</normal_text>
+<normal_text id="2" bbox="52.584,349.330,677.614,388.979" size="18.012" unique_id="2">&#8211; National Committee on Vital and Health Statistics (NCVHS) / CHI endorsed  
+selection of medication standards http://www.hhs.gov/healthit/chiinitiative.html <textline bbox="52.584,370.955,677.614,388.979" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024" colourspace="DeviceGray">&#8211; National Committee on Vital and Health Statistics (NCVHS) / CHI endorsed  </textline>
+<textline bbox="75.144,349.330,654.454,367.330">selection of medication standards http://www.hhs.gov/healthit/chiinitiative.html <text font="ArialMT" bbox="75.144,349.330,84.144,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">s</text>
+<text font="ArialMT" bbox="84.144,349.330,94.152,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">e</text>
+<text font="ArialMT" bbox="94.152,349.330,98.148,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">l</text>
+<text font="ArialMT" bbox="98.058,349.330,108.066,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">e</text>
+<text font="ArialMT" bbox="108.066,349.330,117.066,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">c</text>
+<text font="ArialMT" bbox="117.066,349.330,122.070,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">t</text>
+<text font="ArialMT" bbox="122.070,349.330,126.066,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">i</text>
+<text font="ArialMT" bbox="126.066,349.330,136.074,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">o</text>
+<text font="ArialMT" bbox="135.984,349.330,145.992,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">n</text>
+<text font="ArialMT" bbox="145.992,349.330,150.996,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000"> </text>
+<text font="ArialMT" bbox="151.086,349.330,161.094,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">o</text>
+<text font="ArialMT" bbox="161.094,349.330,166.098,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">f</text>
+<text font="ArialMT" bbox="166.098,349.330,171.102,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000"> </text>
+<text font="ArialMT" bbox="171.102,349.330,186.096,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">m</text>
+<text font="ArialMT" bbox="186.096,349.330,196.104,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">e</text>
+<text font="ArialMT" bbox="196.104,349.330,206.112,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">d</text>
+<text font="ArialMT" bbox="206.040,349.330,210.036,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">i</text>
+<text font="ArialMT" bbox="210.036,349.330,219.036,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">c</text>
+<text font="ArialMT" bbox="219.036,349.330,229.044,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">a</text>
+<text font="ArialMT" bbox="228.954,349.330,233.958,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">t</text>
+<text font="ArialMT" bbox="233.958,349.330,237.954,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">i</text>
+<text font="ArialMT" bbox="237.954,349.330,247.962,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">o</text>
+<text font="ArialMT" bbox="247.962,349.330,257.970,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">n</text>
+<text font="ArialMT" bbox="257.880,349.330,262.884,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000"> </text>
+<text font="ArialMT" bbox="263.136,349.330,272.136,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">s</text>
+<text font="ArialMT" bbox="272.136,349.330,277.140,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">t</text>
+<text font="ArialMT" bbox="277.140,349.330,287.148,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">a</text>
+<text font="ArialMT" bbox="287.148,349.330,297.156,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">n</text>
+<text font="ArialMT" bbox="297.102,349.330,307.110,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">d</text>
+<text font="ArialMT" bbox="307.110,349.330,317.118,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">a</text>
+<text font="ArialMT" bbox="317.028,349.330,323.022,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">r</text>
+<text font="ArialMT" bbox="323.022,349.330,333.030,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">d</text>
+<text font="ArialMT" bbox="333.030,349.330,342.030,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000">s</text>
+<text font="ArialMT" bbox="342.030,349.330,347.034,367.330" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="18.000"> </text>
+<text font="ArialMT" bbox="347.230,349.758,356.104,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text font="ArialMT" bbox="356.110,349.758,360.547,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text font="ArialMT" bbox="360.553,349.758,364.990,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text font="ArialMT" bbox="364.996,349.758,373.870,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">p</text>
+<text font="ArialMT" bbox="373.876,349.758,378.313,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">:</text>
+<text font="ArialMT" bbox="378.319,349.758,382.756,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">/</text>
+<text font="ArialMT" bbox="382.762,349.758,387.199,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">/</text>
+<text font="ArialMT" bbox="387.206,349.758,398.729,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">w</text>
+<text font="ArialMT" bbox="398.591,349.758,410.114,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">w</text>
+<text font="ArialMT" bbox="409.993,349.758,421.516,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">w</text>
+<text font="ArialMT" bbox="420.549,349.758,424.986,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">.</text>
+<text font="ArialMT" bbox="424.992,349.758,433.866,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text font="ArialMT" bbox="433.872,349.758,442.746,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text font="ArialMT" bbox="442.752,349.758,450.732,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">s</text>
+<text font="ArialMT" bbox="450.770,349.758,455.207,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">.</text>
+<text font="ArialMT" bbox="455.213,349.758,464.087,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">g</text>
+<text font="ArialMT" bbox="464.093,349.758,472.967,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">o</text>
+<text font="ArialMT" bbox="472.973,349.758,480.953,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">v</text>
+<text font="ArialMT" bbox="480.991,349.758,485.428,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">/</text>
+<text font="ArialMT" bbox="485.434,349.758,494.308,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text font="ArialMT" bbox="494.314,349.758,503.188,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">e</text>
+<text font="ArialMT" bbox="503.194,349.758,512.068,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">a</text>
+<text font="ArialMT" bbox="512.074,349.758,515.618,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">l</text>
+<text font="ArialMT" bbox="515.624,349.758,520.061,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text font="ArialMT" bbox="520.067,349.758,528.941,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text font="ArialMT" bbox="528.947,349.758,532.490,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text font="ArialMT" bbox="532.576,349.758,537.013,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text font="ArialMT" bbox="537.019,349.758,541.456,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">/</text>
+<text font="ArialMT" bbox="541.462,349.758,549.442,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">c</text>
+<text font="ArialMT" bbox="549.449,349.758,558.322,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text font="ArialMT" bbox="558.329,349.758,561.872,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text font="ArialMT" bbox="561.958,349.758,565.501,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text font="ArialMT" bbox="565.539,349.758,574.413,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">n</text>
+<text font="ArialMT" bbox="574.419,349.758,577.962,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text font="ArialMT" bbox="578.000,349.758,582.437,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text font="ArialMT" bbox="582.443,349.758,585.987,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text font="ArialMT" bbox="585.993,349.758,594.867,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">a</text>
+<text font="ArialMT" bbox="594.873,349.758,599.310,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text font="ArialMT" bbox="599.316,349.758,602.859,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">i</text>
+<text font="ArialMT" bbox="602.945,349.758,610.925,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">v</text>
+<text font="ArialMT" bbox="610.963,349.758,619.837,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">e</text>
+<text font="ArialMT" bbox="619.843,349.758,624.280,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">.</text>
+<text font="ArialMT" bbox="624.286,349.758,633.160,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">h</text>
+<text font="ArialMT" bbox="633.166,349.758,637.603,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">t</text>
+<text font="ArialMT" bbox="637.609,349.758,650.904,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">m</text>
+<text font="ArialMT" bbox="650.910,349.758,654.454,365.718" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="15.960">l</text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="52.584,323.410,606.972,341.410" size="18.0" unique_id="3">&#8211; Drug code, semantic clinical drug, classifications, ingredients, units <textline bbox="52.584,323.410,606.972,341.410" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Drug code, semantic clinical drug, classifications, ingredients, units </textline>
+</normal_text>
+<normal_text id="4" bbox="16.584,277.390,585.312,301.390" size="24.0" unique_id="4">&#8226; Need for standardization of medication terminology <textline bbox="16.584,277.390,585.312,301.390" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">&#8226; Need for standardization of medication terminology </textline>
+</normal_text>
+</enlisting></page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.584, 478.858, 187.504, 506.81800000000004]">
+<title id="0" bbox="79.584,478.858,167.518,506.818" size="27.96" unique_id="0">Topics <textline bbox="79.584,478.858,167.518,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="Pattern">Topics </textline>
+</title>
+<enlisting id="1" bbox="126.840,175.618,501.263,405.247" size="27.968000000000004" unique_id="1">&#8226; Overview / Goal 
+&#8226; Background 
+&#8226; Components 
+&#8226; Accessibility 
+&#8226; Collaboration / Coordination 
+&#8226; Summary <textline bbox="126.840,377.263,353.022,405.247" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Overview / Goal </textline>
+<textline bbox="126.840,336.918,303.306,364.878" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Background </textline>
+<textline bbox="126.840,296.598,312.533,324.558" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Components </textline>
+<textline bbox="126.840,256.273,306.485,284.257" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Accessibility </textline>
+<textline bbox="126.840,215.938,501.263,243.898" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Collaboration / Coordination </textline>
+<textline bbox="126.840,175.618,273.529,203.578" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Summary </textline>
+</enlisting>
+<slide_number id="2" bbox="682.510,28.036,690.316,42.076" size="14.04" unique_id="2">6 <textline bbox="682.510,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">6 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.4.194x343.bmp" width="69" height="123" unique_id="3">
+</picture>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.584, 478.858, 296.5033333333333, 506.81800000000004]">
+<title id="0" bbox="79.584,478.858,514.502,506.818" size="27.96" unique_id="0">Component Vocabulary Systems <textline bbox="79.584,478.858,514.502,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">Component Vocabulary Systems </textline>
+</title>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.5.194x343.bmp" width="69" height="123" unique_id="10">
+</picture>
+<picture name="Image33" bbox="451.920,390.120,693.720,423.600" src="Image33.0.729x68.bmp" width="241" height="33" unique_id="11">
+</picture>
+<picture name="Image29" bbox="435.600,291.360,654.960,324.600" src="Image29.0.jpg" width="219" height="33" unique_id="12">
+</picture>
+<picture name="Image31" bbox="494.400,187.800,570.240,266.880" src="Image31.0.245x244.bmp" width="75" height="79" unique_id="13">
+</picture>
+<picture name="Image38" bbox="402.000,94.680,478.080,146.880" src="Image38.0.118x81.bmp" width="76" height="52" unique_id="14">
+</picture>
+<picture name="Image75" bbox="641.520,36.900,702.540,57.600" src="Image75.170x58.bmp" width="61" height="20" unique_id="15">
+</picture>
+<picture name="Image77" bbox="641.280,28.260,702.780,48.960" src="Image77.171x58.bmp" width="61" height="20" unique_id="16">
+</picture>
+<picture name="Image79" bbox="645.600,19.620,698.580,40.320" src="Image79.148x58.bmp" width="52" height="20" unique_id="17">
+</picture>
+<picture name="Image81" bbox="654.600,10.980,687.180,31.680" src="Image81.91x58.bmp" width="32" height="20" unique_id="18">
+</picture>
+<picture name="Image51" bbox="631.680,60.720,711.840,101.520" src="Image51.0.222x113.bmp" width="80" height="40" unique_id="19" caption="Excellence  &#10;7 &#10;in Health  &#10;Care " caption_ids="['9']">
+</picture>
+<enlisting bbox="45.096,43.662,696.056,418.367" unique_id="['1', ' 3', ' 5', ' 7', ' 8', '2', ' 4', ' 6']">&#8226; Food and Drug Administration &#8226; National Library of Medicine &#8226; Department of Veterans Affairs/ 
+Veterans Health Administration  &#8226; National Cancer Institute 
+&#8211; NCI Thesaurus (NCIt) &#8226; Agency for Healthcare Quality and Research Advancing  &#8211; Substance Registration System (SRS) 
+&#8211; Drug Registration and Listing (eLIST) &#8211; RxNorm &#8211; National Drug File Reference Terminology (NDF-RT) <normal_text bbox="45.096,43.662,696.056,418.367" unique_id="['1', '3', '5', '7', '8']">&#8226; Food and Drug Administration &#8226; National Library of Medicine &#8226; Department of Veterans Affairs/ 
+Veterans Health Administration  &#8226; National Cancer Institute 
+&#8211; NCI Thesaurus (NCIt) &#8226; Agency for Healthcare Quality and Research Advancing  <normal_text id="1" bbox="45.096,390.383,442.912,418.367" size="27.984" unique_id="1">&#8226; Food and Drug Administration <textline bbox="45.096,390.383,442.912,418.367" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="DeviceGray">&#8226; Food and Drug Administration </textline>
+</normal_text>
+<normal_text id="3" bbox="45.096,292.448,419.443,320.408" size="27.96" unique_id="3">&#8226; National Library of Medicine <textline bbox="45.096,292.448,419.443,320.408" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="DeviceGray">&#8226; National Library of Medicine </textline>
+</normal_text>
+<normal_text id="5" bbox="45.096,182.988,462.949,251.268" size="27.96" unique_id="5">&#8226; Department of Veterans Affairs/ 
+Veterans Health Administration  <textline bbox="45.096,223.308,460.964,251.268" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="DeviceGray">&#8226; Department of Veterans Affairs/ </textline>
+<textline bbox="72.096,182.988,462.949,210.948" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="DeviceGray">Veterans Health Administration  </textline>
+</normal_text>
+<normal_text id="7" bbox="45.096,84.904,379.013,141.798" size="24.0" unique_id="7">&#8226; National Cancer Institute 
+&#8211; NCI Thesaurus (NCIt) <textline bbox="45.096,113.838,379.013,141.798" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="DeviceGray">&#8226; National Cancer Institute </textline>
+<textline bbox="117.100,84.904,328.205,104.944" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; NCI Thesaurus (NCIt) </textline>
+</normal_text>
+<normal_text id="8" bbox="45.096,43.662,696.056,72.680" size="27.96" unique_id="8">&#8226; Agency for Healthcare Quality and Research Advancing  <textline bbox="45.096,43.662,696.056,72.680">&#8226; Agency for Healthcare Quality and Research Advancing  <text font="ArialMT" bbox="45.096,44.720,54.882,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">&#8226;</text>
+<text font="ArialMT" bbox="72.096,44.720,90.745,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">A</text>
+<text font="ArialMT" bbox="90.745,44.720,106.291,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">g</text>
+<text font="ArialMT" bbox="106.291,44.720,121.837,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">e</text>
+<text font="ArialMT" bbox="121.837,44.720,137.383,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">n</text>
+<text font="ArialMT" bbox="137.466,44.720,151.446,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">c</text>
+<text font="ArialMT" bbox="151.446,44.720,165.426,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">y</text>
+<text font="ArialMT" bbox="165.510,44.720,173.283,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960"> </text>
+<text font="ArialMT" bbox="173.283,44.720,181.056,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">f</text>
+<text font="ArialMT" bbox="181.056,44.720,196.602,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">o</text>
+<text font="ArialMT" bbox="196.686,44.720,205.996,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">r</text>
+<text font="ArialMT" bbox="205.996,44.720,213.769,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960"> </text>
+<text font="ArialMT" bbox="213.769,44.720,233.956,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">H</text>
+<text font="ArialMT" bbox="233.956,44.720,249.502,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">e</text>
+<text font="ArialMT" bbox="249.502,44.720,265.048,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">a</text>
+<text font="ArialMT" bbox="265.048,44.720,271.255,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">l</text>
+<text font="ArialMT" bbox="271.255,44.720,279.028,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">t</text>
+<text font="ArialMT" bbox="279.084,44.720,294.630,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">h</text>
+<text font="ArialMT" bbox="294.630,44.720,308.610,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">c</text>
+<text font="ArialMT" bbox="308.694,44.720,324.239,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">a</text>
+<text font="ArialMT" bbox="324.239,44.720,333.550,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">r</text>
+<text font="ArialMT" bbox="333.634,44.720,349.180,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">e</text>
+<text font="ArialMT" bbox="349.180,44.720,356.952,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960"> </text>
+<text font="ArialMT" bbox="357.120,44.720,378.873,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">Q</text>
+<text font="ArialMT" bbox="378.873,44.720,394.419,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">u</text>
+<text font="ArialMT" bbox="394.419,44.720,409.965,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">a</text>
+<text font="ArialMT" bbox="409.965,44.720,416.172,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">l</text>
+<text font="ArialMT" bbox="416.256,44.720,422.463,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">i</text>
+<text font="ArialMT" bbox="422.463,44.720,430.236,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">t</text>
+<text font="ArialMT" bbox="430.236,44.720,444.216,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">y</text>
+<text font="ArialMT" bbox="444.300,44.720,452.072,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960"> </text>
+<text font="ArialMT" bbox="452.072,44.720,467.618,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">a</text>
+<text font="ArialMT" bbox="467.618,44.720,483.164,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">n</text>
+<text font="ArialMT" bbox="483.276,44.720,498.822,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">d</text>
+<text font="ArialMT" bbox="498.822,44.720,506.594,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960"> </text>
+<text font="ArialMT" bbox="506.594,44.720,526.782,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">R</text>
+<text font="ArialMT" bbox="526.782,44.720,542.327,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">e</text>
+<text font="ArialMT" bbox="542.411,44.720,556.391,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">s</text>
+<text font="ArialMT" bbox="556.391,44.720,571.937,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">e</text>
+<text font="ArialMT" bbox="572.021,44.720,587.567,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">a</text>
+<text font="ArialMT" bbox="587.567,44.720,596.877,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">r</text>
+<text font="ArialMT" bbox="596.961,44.720,610.941,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">c</text>
+<text font="ArialMT" bbox="610.941,44.720,626.487,72.680" colourspace="DeviceGray" ncolour="(0.145, 0.114, 0.576)" size="27.960">h</text>
+<text font="Arial-BoldItalicMT" bbox="647.420,43.662,653.918,52.662" colourspace="Pattern" ncolour="(0.4, 0.8, 1)" size="9.000">A</text>
+<text font="Arial-BoldItalicMT" bbox="653.918,43.662,659.417,52.662" colourspace="Pattern" ncolour="(0.4, 0.8, 1)" size="9.000">d</text>
+<text font="Arial-BoldItalicMT" bbox="659.417,43.662,664.421,52.662" colourspace="Pattern" ncolour="(0.4, 0.8, 1)" size="9.000">v</text>
+<text font="Arial-BoldItalicMT" bbox="664.448,43.662,669.452,52.662" colourspace="Pattern" ncolour="(0.4, 0.8, 1)" size="9.000">a</text>
+<text font="Arial-BoldItalicMT" bbox="669.479,43.662,674.978,52.662" colourspace="Pattern" ncolour="(0.4, 0.8, 1)" size="9.000">n</text>
+<text font="Arial-BoldItalicMT" bbox="674.978,43.662,679.982,52.662" colourspace="Pattern" ncolour="(0.4, 0.8, 1)" size="9.000">c</text>
+<text font="Arial-BoldItalicMT" bbox="680.027,43.662,682.529,52.662" colourspace="Pattern" ncolour="(0.4, 0.8, 1)" size="9.000">i</text>
+<text font="Arial-BoldItalicMT" bbox="682.529,43.662,688.028,52.662" colourspace="Pattern" ncolour="(0.4, 0.8, 1)" size="9.000">n</text>
+<text font="Arial-BoldItalicMT" bbox="688.055,43.662,693.554,52.662" colourspace="Pattern" ncolour="(0.4, 0.8, 1)" size="9.000">g</text>
+<text font="Arial-BoldItalicMT" bbox="693.554,43.662,696.056,52.662" colourspace="Pattern" ncolour="(0.4, 0.8, 1)" size="9.000"> </text>
+</textline>
+</normal_text>
+</normal_text><normal_text bbox="117.1,154.047,599.576,381.472" unique_id="['2', '4', '6']">&#8211; Substance Registration System (SRS) 
+&#8211; Drug Registration and Listing (eLIST) &#8211; RxNorm &#8211; National Drug File Reference Terminology (NDF-RT) <normal_text id="2" bbox="117.100,332.632,473.976,381.472" size="20.04" unique_id="2">&#8211; Substance Registration System (SRS) 
+&#8211; Drug Registration and Listing (eLIST) <textline bbox="117.100,361.432,473.976,381.472" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Substance Registration System (SRS) </textline>
+<textline bbox="117.100,332.632,465.159,352.672" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Drug Registration and Listing (eLIST) </textline>
+</normal_text>
+<normal_text id="4" bbox="117.100,263.507,208.655,283.571" size="20.064" unique_id="4">&#8211; RxNorm <textline bbox="117.100,263.507,208.655,283.571" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.064" colourspace="DeviceGray">&#8211; RxNorm </textline>
+</normal_text>
+<normal_text id="6" bbox="117.100,154.047,599.576,174.111" size="20.064" unique_id="6">&#8211; National Drug File Reference Terminology (NDF-RT) <textline bbox="117.100,154.047,599.576,174.111" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.064" colourspace="DeviceGray">&#8211; National Drug File Reference Terminology (NDF-RT) </textline>
+</normal_text>
+</normal_text></enlisting></page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.584, 478.858, 353.89952380952377, 506.818]">
+<title id="0" bbox="79.584,478.858,497.390,506.818" size="27.96" unique_id="0">FMT Component Terminologies <textline bbox="79.584,478.858,497.390,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">FMT Component Terminologies </textline>
+</title>
+<slide_number id="9" bbox="682.510,28.036,690.316,42.076" size="14.04" unique_id="9">8 <textline bbox="682.510,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.6.194x343.bmp" width="69" height="123" unique_id="10">
+</picture>
+<enlisting bbox="80.352,14.291,437.887,423.82" unique_id="['1', '2', '3', '4', '5', '6', '7', '8']">&#8226; FDA SRS and eLIST &#8211; National Drug Code (NDC) 
+&#8211; Unique Ingredient Identifier (UNII) &#8226; NLM RxNorm  &#8211; Semantic Clinical Drug (SCD) 
+&#8211; Brand Name (BN) &#8226; VA NDF-RT  &#8211; Mechanism of action 
+&#8211; Physiologic effect 
+&#8211; Structural class &#8226; NCI NCIt (SPL subset) &#8211; Pharmaceutical dose form 
+&#8211; Route of administration 
+&#8211; Unit of presentation 
+&#8211; Package type <normal_text id="1" bbox="80.352,399.820,327.310,423.820" size="24.0" unique_id="1">&#8226; FDA SRS and eLIST <textline bbox="80.352,399.820,327.310,423.820" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">&#8226; FDA SRS and eLIST </textline>
+</normal_text>
+<normal_text id="2" bbox="116.350,346.982,437.887,393.471" size="20.052" unique_id="2">&#8211; National Drug Code (NDC) 
+&#8211; Unique Ingredient Identifier (UNII) <textline bbox="116.350,373.407,377.030,393.471" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.064" colourspace="DeviceGray">&#8211; National Drug Code (NDC) </textline>
+<textline bbox="116.350,346.982,437.887,367.022" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Unique Ingredient Identifier (UNII) </textline>
+</normal_text>
+<normal_text id="3" bbox="80.352,315.310,259.174,339.310" size="24.0" unique_id="3">&#8226; NLM RxNorm  <textline bbox="80.352,315.310,259.174,339.310" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">&#8226; NLM RxNorm  </textline>
+</normal_text>
+<normal_text id="4" bbox="116.350,262.502,402.556,308.942" size="20.04" unique_id="4">&#8211; Semantic Clinical Drug (SCD) 
+&#8211; Brand Name (BN) <textline bbox="116.350,288.902,402.556,308.942" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Semantic Clinical Drug (SCD) </textline>
+<textline bbox="116.350,262.502,297.787,282.542" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Brand Name (BN) </textline>
+</normal_text>
+<normal_text id="5" bbox="80.352,230.810,237.790,254.810" size="24.0" unique_id="5">&#8226; VA NDF-RT  <textline bbox="80.352,230.810,237.790,254.810" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">&#8226; VA NDF-RT  </textline>
+</normal_text>
+<normal_text id="6" bbox="116.350,151.602,322.236,224.442" size="20.04" unique_id="6">&#8211; Mechanism of action 
+&#8211; Physiologic effect 
+&#8211; Structural class <textline bbox="116.350,204.402,322.236,224.442" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Mechanism of action </textline>
+<textline bbox="116.350,178.002,294.420,198.042" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Physiologic effect </textline>
+<textline bbox="116.350,151.602,275.523,171.642" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Structural class </textline>
+</normal_text>
+<normal_text id="7" bbox="80.352,119.925,347.686,143.949" size="24.024" unique_id="7">&#8226; NCI NCIt (SPL subset) <textline bbox="80.352,119.925,347.686,143.949" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.024" colourspace="DeviceGray">&#8226; NCI NCIt (SPL subset) </textline>
+</normal_text>
+<normal_text id="8" bbox="116.350,14.291,371.194,113.536" size="20.046" unique_id="8">&#8211; Pharmaceutical dose form 
+&#8211; Route of administration 
+&#8211; Unit of presentation 
+&#8211; Package type <textline bbox="116.350,93.496,371.194,113.536" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Pharmaceutical dose form </textline>
+<textline bbox="116.350,67.096,344.681,87.136" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Route of administration </textline>
+<textline bbox="116.350,40.696,312.496,60.736" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Unit of presentation </textline>
+<textline bbox="116.350,14.291,260.097,34.355" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.064" colourspace="DeviceGray">&#8211; Package type </textline>
+</normal_text>
+</enlisting></page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.58399999999999, 478.858, 389.7721428571428, 506.8179999999999]">
+<title id="0" bbox="79.584,478.858,497.390,506.818" size="27.96" unique_id="0">FMT Component Terminologies <textline bbox="79.584,478.858,497.390,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">FMT Component Terminologies </textline>
+</title>
+<slide_number id="8" bbox="682.510,28.036,690.316,42.076" size="14.04" unique_id="8">9 <textline bbox="682.510,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">9 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.7.194x343.bmp" width="69" height="123" unique_id="9">
+</picture>
+<enlisting bbox="26.328,203.46,563.352,413.3" unique_id="['1', ' 2', ' 4', ' 5', '6']">&#8226; National Drug Code (NDC) &#8211; Maintained and distributed by FDA  &#8226; Unique Ingredient Identifier (UNII) &#8211; Maintained by FDA and EPA, distributed by FDA Substance  <normal_text id="1" bbox="26.328,389.300,338.952,413.300" size="24.0" unique_id="1">&#8226; National Drug Code (NDC) <textline bbox="26.328,389.300,338.952,413.300" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">&#8226; National Drug Code (NDC) </textline>
+</normal_text>
+<normal_text id="2" bbox="62.328,362.892,396.093,382.932" size="20.04" unique_id="2">&#8211; Maintained and distributed by FDA  <textline bbox="62.328,362.892,396.093,382.932" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Maintained and distributed by FDA  </textline>
+</normal_text>
+<normal_text id="4" bbox="26.328,246.720,412.344,270.720" size="24.0" unique_id="4">&#8226; Unique Ingredient Identifier (UNII) <textline bbox="26.328,246.720,412.344,270.720" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">&#8226; Unique Ingredient Identifier (UNII) </textline>
+</normal_text>
+<normal_text id="5" bbox="62.328,222.900,563.352,240.900" size="18.0" unique_id="5">&#8211; Maintained by FDA and EPA, distributed by FDA Substance  <textline bbox="62.328,222.900,563.352,240.900" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Maintained by FDA and EPA, distributed by FDA Substance  </textline>
+</normal_text>
+<normal_text id="6" bbox="84.912,203.460,299.814,221.460" size="18.0" unique_id="6">Registration System (SRS) <textline bbox="84.912,203.460,299.814,221.460" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">Registration System (SRS) </textline>
+</normal_text>
+</enlisting><enlisting bbox="98.352,37.092,582.068,356.532" unique_id="['3', '7']">(in conjunction with the manufacturers) 
+&#8226; Tylox 100 capsules in a bottle - NDC - 0045-0526-60 
+&#8226; Tylox 100 capsules in a blister pack - NDC - 0045-0526-79 &#8226; Oxycodone hydrochloride UNII - C1ENJ2TE6C  
+&#8226; Oxycodone - UNII - CD35PMG570  
+&#8226; Acetaminophen  - UNII - 362O9ITL9D 
+&#8226; Peanut - UNII - QE1QX6B99R  
+&#8226; Milk - UNII - 917J3173FT  
+&#8226; Citronella oil - UNII - H711OZ709T 
+&#8226; Tartrazine (FD&amp;C Yellow #5) - UNII - I753WB2F1M <normal_text id="3" bbox="98.352,288.900,582.068,356.532" size="18.688" unique_id="3">(in conjunction with the manufacturers) 
+&#8226; Tylox 100 capsules in a bottle - NDC - 0045-0526-60 
+&#8226; Tylox 100 capsules in a blister pack - NDC - 0045-0526-79 <textline bbox="98.352,336.492,441.777,356.532" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">(in conjunction with the manufacturers) </textline>
+<textline bbox="98.352,312.675,535.041,330.699" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024" colourspace="DeviceGray">&#8226; Tylox 100 capsules in a bottle - NDC - 0045-0526-60 </textline>
+<textline bbox="98.352,288.900,582.068,306.900" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Tylox 100 capsules in a blister pack - NDC - 0045-0526-79 </textline>
+</normal_text>
+<normal_text id="7" bbox="98.352,37.092,520.326,197.719" size="18.006857142857143" unique_id="7">&#8226; Oxycodone hydrochloride UNII - C1ENJ2TE6C  
+&#8226; Oxycodone - UNII - CD35PMG570  
+&#8226; Acetaminophen  - UNII - 362O9ITL9D 
+&#8226; Peanut - UNII - QE1QX6B99R  
+&#8226; Milk - UNII - 917J3173FT  
+&#8226; Citronella oil - UNII - H711OZ709T 
+&#8226; Tartrazine (FD&amp;C Yellow #5) - UNII - I753WB2F1M <textline bbox="98.352,179.695,495.367,197.719" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024" colourspace="DeviceGray">&#8226; Oxycodone hydrochloride UNII - C1ENJ2TE6C  </textline>
+<textline bbox="98.352,155.920,397.204,173.920" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Oxycodone - UNII - CD35PMG570  </textline>
+<textline bbox="98.352,132.160,417.376,150.160" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Acetaminophen  - UNII - 362O9ITL9D </textline>
+<textline bbox="98.352,108.400,363.226,126.400" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Peanut - UNII - QE1QX6B99R  </textline>
+<textline bbox="98.352,84.636,321.928,102.636" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Milk - UNII - 917J3173FT  </textline>
+<textline bbox="98.352,60.871,390.933,78.895" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024" colourspace="DeviceGray">&#8226; Citronella oil - UNII - H711OZ709T </textline>
+<textline bbox="98.352,37.092,520.326,55.092" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Tartrazine (FD&amp;C Yellow #5) - UNII - I753WB2F1M </textline>
+</normal_text>
+</enlisting></page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.584, 478.85799999999995, 413.68722222222215, 506.8179999999999]">
+<title id="0" bbox="79.584,478.858,497.390,506.818" size="27.96" unique_id="0">FMT Component Terminologies <textline bbox="79.584,478.858,497.390,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">FMT Component Terminologies </textline>
+</title>
+<slide_number id="7" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="7">10 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">10 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.8.194x343.bmp" width="69" height="123" unique_id="8">
+</picture>
+<enlisting bbox="24.84,260.217,392.357,396.599" unique_id="['1', '2', '3', '5']">&#8226; RxNorm  &#8211; Maintained and distributed by NLM &#8226; Semantic Clinical Drug (SCD) &#8226; Brand Name (BN) <normal_text id="1" bbox="24.840,372.575,146.302,396.599" size="24.024" unique_id="1">&#8226; RxNorm  <textline bbox="24.840,372.575,146.302,396.599" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.024" colourspace="DeviceGray">&#8226; RxNorm  </textline>
+</normal_text>
+<normal_text id="2" bbox="60.840,343.742,392.357,363.782" size="20.04" unique_id="2">&#8211; Maintained and distributed by NLM <textline bbox="60.840,343.742,392.357,363.782" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Maintained and distributed by NLM </textline>
+</normal_text>
+<normal_text id="3" bbox="96.840,314.942,378.486,334.982" size="20.04" unique_id="3">&#8226; Semantic Clinical Drug (SCD) <textline bbox="96.840,314.942,378.486,334.982" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8226; Semantic Clinical Drug (SCD) </textline>
+</normal_text>
+<normal_text id="5" bbox="96.840,260.217,273.807,280.281" size="20.064" unique_id="5">&#8226; Brand Name (BN) <textline bbox="96.840,260.217,273.807,280.281" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.064" colourspace="DeviceGray">&#8226; Brand Name (BN) </textline>
+</normal_text>
+</enlisting><enlisting bbox="132.84,234.23,520.468,306.97" unique_id="['4', '6']">&#8211; Diazepam 10 MG Oral Tablet &#8211; RxCUI 197590 &#8211; Valium &#8211; RxCUI 202472 <normal_text id="4" bbox="132.840,288.970,520.468,306.970" size="18.0" unique_id="4">&#8211; Diazepam 10 MG Oral Tablet &#8211; RxCUI 197590 <textline bbox="132.840,288.970,520.468,306.970" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Diazepam 10 MG Oral Tablet &#8211; RxCUI 197590 </textline>
+</normal_text>
+<normal_text id="6" bbox="132.840,234.230,342.350,252.230" size="18.0" unique_id="6">&#8211; Valium &#8211; RxCUI 202472 <textline bbox="132.840,234.230,342.350,252.230" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Valium &#8211; RxCUI 202472 </textline>
+</normal_text>
+</enlisting></page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.58399999999999, 478.858, 430.4277777777778, 506.8179999999999]">
+<title id="0" bbox="79.584,478.858,497.390,506.818" size="27.96" unique_id="0">FMT Component Terminologies <textline bbox="79.584,478.858,497.390,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">FMT Component Terminologies </textline>
+</title>
+<slide_number id="9" bbox="675.790,28.036,690.312,42.076" size="14.04" unique_id="9">11 <textline bbox="675.790,28.036,690.312,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">11 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.9.194x343.bmp" width="69" height="123" unique_id="10">
+</picture>
+<enlisting bbox="36.84,208.332,398.425,405.17" unique_id="['1', '2', '3', '5', '7']">&#8226; NDF-RT  &#8211; Maintain by VA, distributed by NCI &#8226; Mechanism of Action &#8226; Physiologic effect &#8226; Structural class <normal_text id="1" bbox="36.840,381.170,158.712,405.170" size="24.0" unique_id="1">&#8226; NDF-RT  <textline bbox="36.840,381.170,158.712,405.170" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">&#8226; NDF-RT  </textline>
+</normal_text>
+<normal_text id="2" bbox="72.840,352.362,398.425,372.402" size="20.04" unique_id="2">&#8211; Maintain by VA, distributed by NCI <textline bbox="72.840,352.362,398.425,372.402" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Maintain by VA, distributed by NCI </textline>
+</normal_text>
+<normal_text id="3" bbox="108.840,323.562,311.288,343.602" size="20.04" unique_id="3">&#8226; Mechanism of Action <textline bbox="108.840,323.562,311.288,343.602" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8226; Mechanism of Action </textline>
+</normal_text>
+<normal_text id="5" bbox="108.840,265.932,282.370,285.972" size="20.04" unique_id="5">&#8226; Physiologic effect <textline bbox="108.840,265.932,282.370,285.972" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8226; Physiologic effect </textline>
+</normal_text>
+<normal_text id="7" bbox="108.840,208.332,263.473,228.372" size="20.04" unique_id="7">&#8226; Structural class <textline bbox="108.840,208.332,263.473,228.372" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8226; Structural class </textline>
+</normal_text>
+</enlisting><enlisting bbox="144.86,179.532,476.579,314.802" unique_id="['4', '6', '8']">&#8211; Adrenergic agonists &#8211; N000000012 &#8211; Bronchodilation &#8211; N0000008321 &#8211; Alkaloids &#8211; 0000007503 <normal_text id="4" bbox="144.860,294.762,476.579,314.802" size="20.04" unique_id="4">&#8211; Adrenergic agonists &#8211; N000000012 <textline bbox="144.860,294.762,476.579,314.802" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Adrenergic agonists &#8211; N000000012 </textline>
+</normal_text>
+<normal_text id="6" bbox="144.860,237.132,449.022,257.172" size="20.04" unique_id="6">&#8211; Bronchodilation &#8211; N0000008321 <textline bbox="144.860,237.132,449.022,257.172" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Bronchodilation &#8211; N0000008321 </textline>
+</normal_text>
+<normal_text id="8" bbox="144.860,179.532,377.019,199.572" size="20.04" unique_id="8">&#8211; Alkaloids &#8211; 0000007503 <textline bbox="144.860,179.532,377.019,199.572" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Alkaloids &#8211; 0000007503 </textline>
+</normal_text>
+</enlisting></page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.584, 478.85800000000006, 442.6027272727273, 506.818]">
+<title id="0" bbox="79.584,478.858,497.390,506.818" size="27.96" unique_id="0">FMT Component Terminologies <textline bbox="79.584,478.858,497.390,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">FMT Component Terminologies </textline>
+</title>
+<slide_number id="9" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="9">12 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">12 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.10.194x343.bmp" width="69" height="123" unique_id="10">
+</picture>
+<enlisting bbox="42.072,369.112,401.861,421.92" unique_id="['1', '2']">&#8226; NCIt code sets &#8211; Maintained and distributed by NCI <normal_text id="1" bbox="42.072,397.920,226.464,421.920" size="24.0" unique_id="1">&#8226; NCIt code sets <textline bbox="42.072,397.920,226.464,421.920" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">&#8226; NCIt code sets </textline>
+</normal_text>
+<normal_text id="2" bbox="78.096,369.112,401.861,389.152" size="20.04" unique_id="2">&#8211; Maintained and distributed by NCI <textline bbox="78.096,369.112,401.861,389.152" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8211; Maintained and distributed by NCI </textline>
+</normal_text>
+</enlisting><enlisting bbox="114.1,150.13,464.036,360.352" unique_id="['3', '4', '5', '6', '7', '8']">&#8226; NCIt Pharmaceutical Dosage Form &#8211; Tablet, orally disintegrating &#8211; C42999 &#8226; NCIt Route of Administration &#8211; Oral &#8211; C38286 &#8226; NCIt Potency (Units of Presentation) &#8211; Spray - C48537 
+&#8226; NCIt Package type 
+&#8211; Bottle &#8211; C43169 <normal_text id="3" bbox="114.100,340.312,442.159,360.352" size="20.04" unique_id="3">&#8226; NCIt Pharmaceutical Dosage Form <textline bbox="114.100,340.312,442.159,360.352" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8226; NCIt Pharmaceutical Dosage Form </textline>
+</normal_text>
+<normal_text id="4" bbox="150.100,314.340,464.036,332.340" size="18.0" unique_id="4">&#8211; Tablet, orally disintegrating &#8211; C42999 <textline bbox="150.100,314.340,464.036,332.340" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Tablet, orally disintegrating &#8211; C42999 </textline>
+</normal_text>
+<normal_text id="5" bbox="114.100,285.587,384.465,305.651" size="20.064" unique_id="5">&#8226; NCIt Route of Administration <textline bbox="114.100,285.587,384.465,305.651" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.064" colourspace="DeviceGray">&#8226; NCIt Route of Administration </textline>
+</normal_text>
+<normal_text id="6" bbox="150.100,259.600,284.976,277.600" size="18.0" unique_id="6">&#8211; Oral &#8211; C38286 <textline bbox="150.100,259.600,284.976,277.600" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Oral &#8211; C38286 </textline>
+</normal_text>
+<normal_text id="7" bbox="114.100,230.852,454.423,250.892" size="20.04" unique_id="7">&#8226; NCIt Potency (Units of Presentation) <textline bbox="114.100,230.852,454.423,250.892" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8226; NCIt Potency (Units of Presentation) </textline>
+</normal_text>
+<normal_text id="8" bbox="114.100,150.130,298.732,222.880" size="18.688" unique_id="8">&#8211; Spray - C48537 
+&#8226; NCIt Package type 
+&#8211; Bottle &#8211; C43169 <textline bbox="150.100,204.880,293.976,222.880" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Spray - C48537 </textline>
+<textline bbox="114.100,176.127,298.732,196.191" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.064" colourspace="DeviceGray">&#8226; NCIt Package type </textline>
+<textline bbox="150.100,150.130,296.976,168.130" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Bottle &#8211; C43169 </textline>
+</normal_text>
+</enlisting></page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.584, 476.8366666666667, 485.0316060606061, 508.93666666666667]">
+<title id="0" bbox="79.584,466.730,697.176,519.530" size="24.0" unique_id="0">Federal Medication Terminologies (FMT) Components  
+and Structured Product Labeling (SPL) <textline bbox="79.584,495.530,697.176,519.530" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="24.000" colourspace="DeviceGray">Federal Medication Terminologies (FMT) Components  </textline>
+<textline bbox="79.584,466.730,521.808,490.730" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="24.000" colourspace="DeviceGray">and Structured Product Labeling (SPL) </textline>
+</title>
+<slide_number id="15" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="15">13 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">13 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.11.194x343.bmp" width="69" height="123" unique_id="16">
+</picture>
+<enlisting bbox="36.456,79.716,639.815,419.052" unique_id="['1', '     3', '     4', '     7', '     8', '     9', '     11', '     13', '     14', '    2', '   5', '  6', ' 10', '12']">&#8226; SPL is an ANSI accredited HL7 standard for the exchange of  &#8211; FDA uses SPL for exchanging information on approved prescription  &#8211; Future use for additional FDA regulated products (e.g., OTC, animal  &#8226; Federal Medication Terminologies Standards in SPL &#8211; FDA &#8211; NDC, Unique Ingredient Identifier (UNII) &#8211; VA NDF-RT- mechanism of action, physiologic effect and structural  &#8211; NCIt - pharmaceutical dose form, route of administration, unit of  &#8226; Federal Medication Terminologies Standards supported by SPL &#8211; NLM &#8211; RxNorm SCD, RxNorm BN <normal_text id="1" bbox="36.456,399.012,604.576,419.052" size="20.04" unique_id="1">&#8226; SPL is an ANSI accredited HL7 standard for the exchange of  <textline bbox="36.456,399.012,604.576,419.052" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8226; SPL is an ANSI accredited HL7 standard for the exchange of  </textline>
+</normal_text>
+<normal_text id="3" bbox="72.456,351.680,636.030,369.680" size="18.0" unique_id="3">&#8211; FDA uses SPL for exchanging information on approved prescription  <textline bbox="72.456,351.680,636.030,369.680" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; FDA uses SPL for exchanging information on approved prescription  </textline>
+</normal_text>
+<normal_text id="4" bbox="72.456,306.315,639.815,324.339" size="18.024" unique_id="4">&#8211; Future use for additional FDA regulated products (e.g., OTC, animal  <textline bbox="72.456,306.315,639.815,324.339" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024" colourspace="DeviceGray">&#8211; Future use for additional FDA regulated products (e.g., OTC, animal  </textline>
+</normal_text>
+<normal_text id="7" bbox="36.456,257.872,523.194,277.912" size="20.04" unique_id="7">&#8226; Federal Medication Terminologies Standards in SPL <textline bbox="36.456,257.872,523.194,277.912" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8226; Federal Medication Terminologies Standards in SPL </textline>
+</normal_text>
+<normal_text id="8" bbox="72.456,229.740,467.916,247.740" size="18.0" unique_id="8">&#8211; FDA &#8211; NDC, Unique Ingredient Identifier (UNII) <textline bbox="72.456,229.740,467.916,247.740" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; FDA &#8211; NDC, Unique Ingredient Identifier (UNII) </textline>
+</normal_text>
+<normal_text id="9" bbox="72.456,201.660,629.946,219.660" size="18.0" unique_id="9">&#8211; VA NDF-RT- mechanism of action, physiologic effect and structural  <textline bbox="72.456,201.660,629.946,219.660" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; VA NDF-RT- mechanism of action, physiologic effect and structural  </textline>
+</normal_text>
+<normal_text id="11" bbox="72.456,156.280,606.036,174.280" size="18.0" unique_id="11">&#8211; NCIt - pharmaceutical dose form, route of administration, unit of  <textline bbox="72.456,156.280,606.036,174.280" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; NCIt - pharmaceutical dose form, route of administration, unit of  </textline>
+</normal_text>
+<normal_text id="13" bbox="36.456,107.852,622.933,127.892" size="20.04" unique_id="13">&#8226; Federal Medication Terminologies Standards supported by SPL <textline bbox="36.456,107.852,622.933,127.892" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">&#8226; Federal Medication Terminologies Standards supported by SPL </textline>
+</normal_text>
+<normal_text id="14" bbox="72.456,79.716,368.010,97.716" size="18.0" unique_id="14">&#8211; NLM &#8211; RxNorm SCD, RxNorm BN <textline bbox="72.456,79.716,368.010,97.716" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; NLM &#8211; RxNorm SCD, RxNorm BN </textline>
+</normal_text>
+<normal_text id="2" bbox="63.456,379.812,234.658,399.852" size="20.04" unique_id="2">product information <textline bbox="63.456,379.812,234.658,399.852" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="20.040" colourspace="DeviceGray">product information </textline>
+</normal_text>
+<normal_text id="5" bbox="95.040,334.400,204.912,352.400" size="18.0" unique_id="5">drug products <textline bbox="95.040,334.400,204.912,352.400" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">drug products </textline>
+</normal_text>
+<normal_text id="6" bbox="95.040,289.020,169.884,307.020" size="18.0" unique_id="6">products) <textline bbox="95.040,289.020,169.884,307.020" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">products) </textline>
+</normal_text>
+<normal_text id="10" bbox="95.040,184.375,141.001,202.399" size="18.024" unique_id="10">class  <textline bbox="95.040,184.375,141.001,202.399" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024" colourspace="DeviceGray">class  </textline>
+</normal_text>
+<normal_text id="12" bbox="95.040,139.000,340.902,157.000" size="18.0" unique_id="12">presentation and package type <textline bbox="95.040,139.000,340.902,157.000" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">presentation and package type </textline>
+</normal_text>
+</enlisting></page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.58399999999999, 477.4971794871795, 488.3375128205128, 508.3510256410256]">
+<title id="0" bbox="79.584,481.130,506.520,505.130" size="24.0" unique_id="0">SPL and Other Federal Terminologies <textline bbox="79.584,481.130,506.520,505.130" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="24.000" colourspace="DeviceGray">SPL and Other Federal Terminologies </textline>
+</title>
+<slide_number id="14" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="14">14 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">14 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.12.194x343.bmp" width="69" height="123" unique_id="15" caption="&#8226; NCIt " caption_ids="['2']">
+</picture>
+<enlisting bbox="7.2,63.66,505.826,429.49" unique_id="['1', '  3', '  4', '  6', '  12', ' 9', '10']">&#8226; VA &#8211; VA/KP Problem List - MIGRAINE (disorder) (37796009) &#8211; For solid oral dosage form appearance &#8211; For drug interactions &#8211; Other <normal_text id="1" bbox="7.200,411.490,56.882,429.490" size="18.0" unique_id="1">&#8226; VA <textline bbox="7.200,411.490,56.882,429.490" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; VA </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,387.710,505.826,405.710" size="18.0" unique_id="3">&#8211; VA/KP Problem List - MIGRAINE (disorder) (37796009) <textline bbox="43.200,387.710,505.826,405.710" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; VA/KP Problem List - MIGRAINE (disorder) (37796009) </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,340.190,374.502,358.190" size="18.0" unique_id="4">&#8211; For solid oral dosage form appearance <textline bbox="43.200,340.190,374.502,358.190" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; For solid oral dosage form appearance </textline>
+</normal_text>
+<normal_text id="6" bbox="43.200,268.905,230.559,286.929" size="18.024" unique_id="6">&#8211; For drug interactions <textline bbox="43.200,268.905,230.559,286.929" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024" colourspace="DeviceGray">&#8211; For drug interactions </textline>
+</normal_text>
+<normal_text id="12" bbox="43.200,63.660,110.766,81.660" size="18.0" unique_id="12">&#8211; Other <textline bbox="43.200,63.660,110.766,81.660" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Other </textline>
+</normal_text>
+<normal_text id="9" bbox="97.224,201.920,160.080,219.920" size="18.0" unique_id="9">C54386 <textline bbox="97.224,201.920,160.080,219.920" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">C54386 </textline>
+</normal_text>
+<normal_text id="10" bbox="97.224,158.715,160.078,176.739" size="18.024" unique_id="10">C54355 <textline bbox="97.224,158.715,160.078,176.739" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024" colourspace="DeviceGray">C54355 </textline>
+</normal_text>
+</enlisting><enlisting bbox="79.224,39.895,676.06,334.43" unique_id="['5', '7', '8', '11', '13']">&#8226; SPL Color - BLUE C48333 
+&#8226; SPL Shape - ROUND C48348 &#8226; Contributing Factor -General - FOOD OR FOOD PRODUCT C1949 
+&#8226; Type of Drug Interaction Consequence - PHARMACOKINETIC EFFECT  &#8226; Pharmacokinetic Effect Consequence - INCREASED DRUG LEVEL  &#8226; Limitation of Use - CONTRAINDICATION C50646 
+&#8226; Sex - FEMALE C16576 
+&#8226; Race - ASIAN C41259 &#8226; SPL DEA Schedule - CII C48675 <normal_text id="5" bbox="79.224,292.670,337.454,334.430" size="18.0" unique_id="5">&#8226; SPL Color - BLUE C48333 
+&#8226; SPL Shape - ROUND C48348 <textline bbox="79.224,316.430,309.392,334.430" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; SPL Color - BLUE C48333 </textline>
+<textline bbox="79.224,292.670,337.454,310.670" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; SPL Shape - ROUND C48348 </textline>
+</normal_text>
+<normal_text id="7" bbox="79.224,221.360,676.060,263.120" size="18.0" unique_id="7">&#8226; Contributing Factor -General - FOOD OR FOOD PRODUCT C1949 
+&#8226; Type of Drug Interaction Consequence - PHARMACOKINETIC EFFECT  <textline bbox="79.224,245.120,633.820,263.120" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Contributing Factor -General - FOOD OR FOOD PRODUCT C1949 </textline>
+<textline bbox="79.224,221.360,676.060,239.360" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Type of Drug Interaction Consequence - PHARMACOKINETIC EFFECT  </textline>
+</normal_text>
+<normal_text id="8" bbox="79.224,178.160,641.194,196.160" size="18.0" unique_id="8">&#8226; Pharmacokinetic Effect Consequence - INCREASED DRUG LEVEL  <textline bbox="79.224,178.160,641.194,196.160" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Pharmacokinetic Effect Consequence - INCREASED DRUG LEVEL  </textline>
+</normal_text>
+<normal_text id="11" bbox="79.224,87.420,493.778,152.940" size="18.0" unique_id="11">&#8226; Limitation of Use - CONTRAINDICATION C50646 
+&#8226; Sex - FEMALE C16576 
+&#8226; Race - ASIAN C41259 <textline bbox="79.224,134.940,493.778,152.940" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Limitation of Use - CONTRAINDICATION C50646 </textline>
+<textline bbox="79.224,111.180,284.030,129.180" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Sex - FEMALE C16576 </textline>
+<textline bbox="79.224,87.420,276.116,105.420" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Race - ASIAN C41259 </textline>
+</normal_text>
+<normal_text id="13" bbox="79.224,39.895,358.461,57.919" size="18.024" unique_id="13">&#8226; SPL DEA Schedule - CII C48675 <textline bbox="79.224,39.895,358.461,57.919" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024" colourspace="DeviceGray">&#8226; SPL DEA Schedule - CII C48675 </textline>
+</normal_text>
+</enlisting></page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.63885714285713, 475.30872527472525, 495.07386813186815, 505.74916483516483]">
+<title id="0" bbox="79.968,462.178,535.492,490.138" size="27.96" unique_id="0">FMT Support to Health IT Systems <textline bbox="79.968,462.178,535.492,490.138" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">FMT Support to Health IT Systems </textline>
+</title>
+<normal_text id="1" bbox="37.200,379.776,211.128,403.776" size="24.0" unique_id="1">Health IT systems <textline bbox="37.200,379.776,211.128,403.776" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Health IT systems </textline>
+</normal_text>
+<normal_text id="2" bbox="475.300,361.776,560.402,385.776" size="24.0" unique_id="2">NDF-RT <textline bbox="475.300,361.776,560.402,385.776" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">NDF-RT </textline>
+</normal_text>
+<normal_text id="3" bbox="427.270,317.068,672.706,357.888" size="12.008000000000001" unique_id="3">Links RxNorm SCD, BN, NDC, UNII, route, dose  
+form, unit, MoA, PE, Structural class to marketed  
+drug products <textline bbox="427.270,345.888,672.706,357.888" font="TimesNewRomanPSMT" ncolour="0" size="12.000" colourspace="DeviceGray">Links RxNorm SCD, BN, NDC, UNII, route, dose  </textline>
+<textline bbox="427.270,331.483,669.397,343.507" font="TimesNewRomanPSMT" ncolour="0" size="12.024" colourspace="DeviceGray">form, unit, MoA, PE, Structural class to marketed  </textline>
+<textline bbox="427.270,317.068,493.462,329.068" font="TimesNewRomanPSMT" ncolour="0" size="12.000" colourspace="DeviceGray">drug products </textline>
+</normal_text>
+<normal_text id="4" bbox="307.250,283.756,391.250,307.756" size="24.0" unique_id="4">RxNorm <textline bbox="307.250,283.756,391.250,307.756" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">RxNorm </textline>
+</normal_text>
+<normal_text id="5" bbox="373.270,247.468,559.450,273.868" size="12.0" unique_id="5">Links RxNorm SCD, BN, NDC, UNII  
+to marketed drug products <textline bbox="373.270,261.868,559.450,273.868" font="TimesNewRomanPSMT" ncolour="0" size="12.000" colourspace="DeviceGray">Links RxNorm SCD, BN, NDC, UNII  </textline>
+<textline bbox="373.270,247.468,499.678,259.468" font="TimesNewRomanPSMT" ncolour="0" size="12.000" colourspace="DeviceGray">to marketed drug products </textline>
+</normal_text>
+<normal_text id="6" bbox="181.220,181.726,222.572,205.726" size="24.0" unique_id="6">SPL <textline bbox="181.220,181.726,222.572,205.726" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">SPL </textline>
+</normal_text>
+<normal_text id="7" bbox="199.250,145.438,433.298,171.838" size="12.0" unique_id="7">Links NDC, UNII, route, dose form, unit, MoA,  
+PE, Structural class to marketed drug products <textline bbox="199.250,159.838,433.298,171.838" font="TimesNewRomanPSMT" ncolour="0" size="12.000" colourspace="DeviceGray">Links NDC, UNII, route, dose form, unit, MoA,  </textline>
+<textline bbox="199.250,145.438,422.570,157.438" font="TimesNewRomanPSMT" ncolour="0" size="12.000" colourspace="DeviceGray">PE, Structural class to marketed drug products </textline>
+</normal_text>
+<normal_text id="8" bbox="61.224,57.816,407.216,85.704" size="24.0" unique_id="8">NCIt, VA Provides terminologies for dose form, route, unit  <textline bbox="61.224,57.816,407.216,85.704">NCIt, VA Provides terminologies for dose form, route, unit  <text font="TimesNewRomanPSMT" bbox="61.224,61.704,78.552,85.704" colourspace="DeviceGray" ncolour="0" size="24.000">N</text>
+<text font="TimesNewRomanPSMT" bbox="78.552,61.704,94.560,85.704" colourspace="DeviceGray" ncolour="0" size="24.000">C</text>
+<text font="TimesNewRomanPSMT" bbox="94.464,61.704,102.456,85.704" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="TimesNewRomanPSMT" bbox="102.456,61.704,109.128,85.704" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="109.200,61.704,115.200,85.704" colourspace="DeviceGray" ncolour="0" size="24.000">,</text>
+<text font="TimesNewRomanPSMT" bbox="115.200,61.704,121.200,85.704" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="120.720,61.704,138.048,85.704" colourspace="DeviceGray" ncolour="0" size="24.000">V</text>
+<text font="TimesNewRomanPSMT" bbox="134.880,61.704,152.208,85.704" colourspace="DeviceGray" ncolour="0" size="24.000">A</text>
+<text font="TimesNewRomanPSMT" bbox="169.220,57.816,175.892,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">P</text>
+<text font="TimesNewRomanPSMT" bbox="175.928,57.816,179.924,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="179.924,57.816,185.924,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="185.924,57.816,191.924,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">v</text>
+<text font="TimesNewRomanPSMT" bbox="191.924,57.816,195.260,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="195.260,57.816,201.260,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="201.260,57.816,206.588,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="206.528,57.816,211.196,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="211.196,57.816,214.196,69.816" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="214.196,57.816,217.532,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="217.532,57.816,222.860,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="222.860,57.816,226.856,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="226.808,57.816,236.144,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="236.144,57.816,239.480,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="239.516,57.816,245.516,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="245.516,57.816,251.516,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="251.516,57.816,254.852,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="254.852,57.816,260.852,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="260.852,57.816,266.852,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">g</text>
+<text font="TimesNewRomanPSMT" bbox="266.756,57.816,270.092,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="270.092,57.816,275.420,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="275.420,57.816,280.088,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="280.088,57.816,283.088,69.816" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="283.424,57.816,287.420,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">f</text>
+<text font="TimesNewRomanPSMT" bbox="287.420,57.816,293.420,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="293.420,57.816,297.416,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="297.344,57.816,300.344,69.816" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="300.452,57.816,306.452,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="306.452,57.816,312.452,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="312.452,57.816,317.120,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="317.120,57.816,322.448,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="322.412,57.816,325.412,69.816" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="325.412,57.816,329.408,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">f</text>
+<text font="TimesNewRomanPSMT" bbox="329.408,57.816,335.408,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="335.408,57.816,339.404,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="339.332,57.816,348.668,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="348.668,57.816,351.668,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">,</text>
+<text font="TimesNewRomanPSMT" bbox="351.668,57.816,354.668,69.816" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="354.800,57.816,358.796,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="358.796,57.816,364.796,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="364.796,57.816,370.796,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">u</text>
+<text font="TimesNewRomanPSMT" bbox="370.796,57.816,374.132,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="374.132,57.816,379.460,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="379.400,57.816,382.400,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">,</text>
+<text font="TimesNewRomanPSMT" bbox="382.400,57.816,385.400,69.816" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="385.508,57.816,391.508,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">u</text>
+<text font="TimesNewRomanPSMT" bbox="391.508,57.816,397.508,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="397.508,57.816,400.844,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="400.844,57.816,404.180,69.816" colourspace="DeviceGray" ncolour="0" size="12.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="404.216,57.816,407.216,69.816" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+</textline>
+</normal_text>
+<normal_text id="9" bbox="169.220,43.416,383.828,55.416" size="12.0" unique_id="9">and package type, MoA, PE, Structural class <textline bbox="169.220,43.416,383.828,55.416" font="TimesNewRomanPSMT" ncolour="0" size="12.000" colourspace="DeviceGray">and package type, MoA, PE, Structural class </textline>
+</normal_text>
+<slide_number id="10" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="10">15 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">15 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.13.194x343.bmp" width="69" height="123" unique_id="11">
+</picture>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.63154285714286, 475.7819619047619, 451.3997523809524, 505.8916761904762]">
+<title id="0" bbox="79.584,478.858,167.518,506.818" size="27.96" unique_id="0">Topics <textline bbox="79.584,478.858,167.518,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="Pattern">Topics </textline>
+</title>
+<enlisting id="1" bbox="126.840,175.618,501.263,405.247" size="27.968000000000004" unique_id="1">&#8226; Overview / Goal 
+&#8226; Background 
+&#8226; Components 
+&#8226; Accessibility 
+&#8226; Collaboration / Coordination 
+&#8226; Summary <textline bbox="126.840,377.263,353.022,405.247" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Overview / Goal </textline>
+<textline bbox="126.840,336.918,303.306,364.878" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Background </textline>
+<textline bbox="126.840,296.598,312.533,324.558" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Components </textline>
+<textline bbox="126.840,256.273,306.485,284.257" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Accessibility </textline>
+<textline bbox="126.840,215.938,501.263,243.898" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Collaboration / Coordination </textline>
+<textline bbox="126.840,175.618,273.529,203.578" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Summary </textline>
+</enlisting>
+<slide_number id="2" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="2">16 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">16 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.14.194x343.bmp" width="69" height="123" unique_id="3">
+</picture>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.6256, 476.71459166666665, 440.5254083333333, 506.55859166666664]">
+<title id="0" bbox="79.584,483.243,364.405,511.227" size="27.984" unique_id="0">Accessibility Options <textline bbox="79.584,483.243,364.405,511.227" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.984" colourspace="DeviceGray">Accessibility Options </textline>
+</title>
+<normal_text id="1" bbox="89.040,395.700,631.002,436.912" size="19.02" unique_id="1">All Components are accessible from: FMT Web Portal  
+http://www.cancer.gov/cancertopics/terminologyresources/FMT <textline bbox="92.520,416.872,606.386,436.912" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">All Components are accessible from: FMT Web Portal  </textline>
+<textline bbox="89.040,395.700,631.002,413.700" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000" colourspace="DeviceGray">http://www.cancer.gov/cancertopics/terminologyresources/FMT </textline>
+</normal_text>
+<normal_text id="2" bbox="249.410,326.080,486.128,365.680" size="18.0" unique_id="2">Federal Medication  
+Terminologies Components <textline bbox="286.250,347.680,454.262,365.680" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Federal Medication  </textline>
+<textline bbox="249.410,326.080,486.128,344.080" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Terminologies Components </textline>
+</normal_text>
+<normal_text id="3" bbox="244.630,280.430,457.606,298.430" size="18.0" unique_id="3">Interrelated Components <textline bbox="244.630,280.430,457.606,298.430" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Interrelated Components </textline>
+</normal_text>
+<normal_text id="4" bbox="259.030,246.299,303.800,268.259" size="9.96" unique_id="4">UNIIs 
+Ingredients <textline bbox="268.510,258.299,294.466,268.259" font="TimesNewRomanPS-BoldMT" ncolour="0" size="9.960" colourspace="DeviceGray">UNIIs </textline>
+<textline bbox="259.030,246.299,303.800,256.259" font="TimesNewRomanPSMT" ncolour="0" size="9.960" colourspace="DeviceGray">Ingredients </textline>
+</normal_text>
+<normal_text id="5" bbox="184.750,219.098,253.570,231.098" size="12.0" unique_id="5">Public Access <textline bbox="184.750,219.098,253.570,231.098" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Public Access </textline>
+</normal_text>
+<normal_text id="6" bbox="237.840,176.409,294.004,198.369" size="9.96" unique_id="6">RxNorm 
+Clinical drugs <textline bbox="247.560,188.409,284.721,198.369" font="TimesNewRomanPS-BoldMT" ncolour="0" size="9.960" colourspace="DeviceGray">RxNorm </textline>
+<textline bbox="237.840,176.409,294.004,186.369" font="TimesNewRomanPSMT" ncolour="0" size="9.960" colourspace="DeviceGray">Clinical drugs </textline>
+</normal_text>
+<normal_text id="7" bbox="351.430,181.019,382.575,203.099" size="9.96" unique_id="7">NDC 
+Product <textline bbox="356.230,193.139,377.821,203.099" font="TimesNewRomanPS-BoldMT" ncolour="0" size="9.960" colourspace="DeviceGray">NDC </textline>
+<textline bbox="351.430,181.019,382.575,190.979" font="TimesNewRomanPSMT" ncolour="0" size="9.960" colourspace="DeviceGray">Product </textline>
+</normal_text>
+<normal_text id="8" bbox="184.460,140.468,253.280,152.468" size="12.0" unique_id="8">Public Access <textline bbox="184.460,140.468,253.280,152.468" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Public Access </textline>
+</normal_text>
+<normal_text id="9" bbox="419.380,238.739,486.022,272.819" size="9.96" unique_id="9">NDF-RT 
+Actions, Effects, 
+Class <textline bbox="433.900,262.859,471.623,272.819" font="TimesNewRomanPS-BoldMT" ncolour="0" size="9.960" colourspace="DeviceGray">NDF-RT </textline>
+<textline bbox="419.380,250.859,486.022,260.819" font="TimesNewRomanPSMT" ncolour="0" size="9.960" colourspace="DeviceGray">Actions, Effects, </textline>
+<textline bbox="442.060,238.739,463.603,248.699" font="TimesNewRomanPSMT" ncolour="0" size="9.960" colourspace="DeviceGray">Class </textline>
+</normal_text>
+<normal_text id="10" bbox="423.430,163.449,497.725,209.529" size="9.96" unique_id="10">NCIt 
+Dose Form, RoA,  
+Package Type,  
+Units, other codes <textline bbox="448.990,199.569,470.563,209.529" font="TimesNewRomanPS-BoldMT" ncolour="0" size="9.960" colourspace="DeviceGray">NCIt </textline>
+<textline bbox="424.270,187.569,497.725,197.529" font="TimesNewRomanPSMT" ncolour="0" size="9.960" colourspace="DeviceGray">Dose Form, RoA,  </textline>
+<textline bbox="430.270,175.569,491.753,185.529" font="TimesNewRomanPSMT" ncolour="0" size="9.960" colourspace="DeviceGray">Package Type,  </textline>
+<textline bbox="423.430,163.449,495.979,173.409" font="TimesNewRomanPSMT" ncolour="0" size="9.960" colourspace="DeviceGray">Units, other codes </textline>
+</normal_text>
+<normal_text id="11" bbox="471.290,214.108,540.110,226.108" size="12.0" unique_id="11">Public Access <textline bbox="471.290,214.108,540.110,226.108" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Public Access </textline>
+</normal_text>
+<normal_text id="12" bbox="472.030,135.338,541.066,147.338" size="12.0" unique_id="12">Public Access <textline bbox="472.030,135.338,541.066,147.338" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Public Access </textline>
+</normal_text>
+<normal_text id="13" bbox="332.520,106.078,401.340,118.078" size="12.0" unique_id="13">Public Access <textline bbox="332.520,106.078,401.340,118.078" font="TimesNewRomanPS-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Public Access </textline>
+</normal_text>
+<slide_number id="14" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="14">17 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">17 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.15.194x343.bmp" width="69" height="123" unique_id="15">
+</picture>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.62070588235295, 479.10028676470586, 464.60441911764707, 508.7254632352941]">
+<title id="0" bbox="79.584,496.993,645.197,524.977" size="27.984" unique_id="0">Federal Medication Terminologies Website <textline bbox="79.584,496.993,645.197,524.977" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.984" colourspace="DeviceGray">Federal Medication Terminologies Website </textline>
+</title>
+<footer id="1" bbox="50.208,17.124,592.170,35.124" size="18.0" unique_id="1">http://www.cancer.gov/cancertopics/terminologyresources/FMT <textline bbox="50.208,17.124,592.170,35.124" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000" colourspace="DeviceGray">http://www.cancer.gov/cancertopics/terminologyresources/FMT </textline>
+</footer>
+<slide_number id="2" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="2">18 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">18 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.16.194x343.bmp" width="69" height="123" unique_id="3">
+</picture>
+<picture name="Image119" bbox="20.040,46.800,706.560,476.520" src="Image119.1280x769.bmp" width="686" height="429" unique_id="4">
+</picture>
+</page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[82.21396078431373, 479.32025490196077, 448.59503921568626, 508.3204117647059]">
+<title id="0" bbox="102.960,481.080,320.520,505.080" size="24.0" unique_id="0">FDA Terminologies <textline bbox="102.960,481.080,320.520,505.080" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="24.000" colourspace="DeviceGray">FDA Terminologies </textline>
+</title>
+<enlisting id="1" bbox="169.340,452.260,644.348,476.260" size="24.0" unique_id="1">* On NCI Website (include NCIt code sets) <textline bbox="169.340,452.260,644.348,476.260">* On NCI Website (include NCIt code sets) <text font="Arial-BoldMT" bbox="169.340,452.260,178.676,476.260" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="24.000">*</text>
+<text font="Arial-BoldMT" bbox="178.676,452.260,185.348,476.260" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="185.180,452.260,203.852,476.260" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="24.000">O</text>
+<text font="Arial-BoldMT" bbox="203.852,452.260,218.516,476.260" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="24.000">n</text>
+<text font="Arial-BoldMT" bbox="218.516,452.260,225.188,476.260" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="225.140,452.260,242.468,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">N</text>
+<text font="Arial-BoldMT" bbox="242.468,452.260,259.796,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">C</text>
+<text font="Arial-BoldMT" bbox="259.700,452.260,266.372,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">I</text>
+<text font="Arial-BoldMT" bbox="266.372,452.260,273.044,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="273.116,452.260,295.772,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">W</text>
+<text font="Arial-BoldMT" bbox="295.340,452.260,308.684,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">e</text>
+<text font="Arial-BoldMT" bbox="308.684,452.260,323.348,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">b</text>
+<text font="Arial-BoldMT" bbox="323.348,452.260,336.692,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">s</text>
+<text font="Arial-BoldMT" bbox="336.620,452.260,343.292,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">i</text>
+<text font="Arial-BoldMT" bbox="343.292,452.260,351.284,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">t</text>
+<text font="Arial-BoldMT" bbox="351.356,452.260,364.700,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">e</text>
+<text font="Arial-BoldMT" bbox="364.700,452.260,371.372,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="371.276,452.260,379.268,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">(</text>
+<text font="Arial-BoldMT" bbox="379.268,452.260,385.940,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">i</text>
+<text font="Arial-BoldMT" bbox="386.012,452.260,400.676,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">n</text>
+<text font="Arial-BoldMT" bbox="400.676,452.260,414.020,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">c</text>
+<text font="Arial-BoldMT" bbox="414.020,452.260,420.692,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">l</text>
+<text font="Arial-BoldMT" bbox="420.692,452.260,435.356,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">u</text>
+<text font="Arial-BoldMT" bbox="435.356,452.260,450.020,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">d</text>
+<text font="Arial-BoldMT" bbox="450.020,452.260,463.364,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">e</text>
+<text font="Arial-BoldMT" bbox="463.292,452.260,469.964,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="469.772,452.260,487.100,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">N</text>
+<text font="Arial-BoldMT" bbox="487.100,452.260,504.428,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">C</text>
+<text font="Arial-BoldMT" bbox="504.332,452.260,511.004,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">I</text>
+<text font="Arial-BoldMT" bbox="511.004,452.260,518.996,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">t</text>
+<text font="Arial-BoldMT" bbox="519.068,452.260,525.740,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="525.740,452.260,539.084,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">c</text>
+<text font="Arial-BoldMT" bbox="538.988,452.260,553.652,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">o</text>
+<text font="Arial-BoldMT" bbox="553.652,452.260,568.316,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">d</text>
+<text font="Arial-BoldMT" bbox="568.316,452.260,581.660,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">e</text>
+<text font="Arial-BoldMT" bbox="581.660,452.260,588.332,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="588.332,452.260,601.676,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">s</text>
+<text font="Arial-BoldMT" bbox="601.676,452.260,615.020,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">e</text>
+<text font="Arial-BoldMT" bbox="615.020,452.260,623.012,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">t</text>
+<text font="Arial-BoldMT" bbox="623.012,452.260,636.356,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">s</text>
+<text font="Arial-BoldMT" bbox="636.356,452.260,644.348,476.260" colourspace="DeviceGray" ncolour="(0.153, 0.118, 0.588)" size="24.000">)</text>
+</textline>
+</enlisting>
+<normal_text id="2" bbox="562.780,202.400,651.718,328.430" size="18.004" unique_id="2">Only a  
+portion of  
+NCIt is  
+included  
+in the  
+FMT <textline bbox="577.300,310.430,637.348,328.430" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Only a  </textline>
+<textline bbox="562.780,288.830,651.718,306.830" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">portion of  </textline>
+<textline bbox="576.340,267.230,638.476,285.230" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">NCIt is  </textline>
+<textline bbox="567.700,245.625,646.843,263.649" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">included  </textline>
+<textline bbox="580.780,224.000,633.898,242.000" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">in the  </textline>
+<textline bbox="586.320,202.400,623.310,220.400" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">FMT </textline>
+</normal_text>
+<footer id="3" bbox="62.952,3.876,605.076,21.876" size="18.0" unique_id="3">http://www.cancer.gov/cancertopics/terminologyresources/FDA <textline bbox="62.952,3.876,605.076,21.876" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000" colourspace="DeviceGray">http://www.cancer.gov/cancertopics/terminologyresources/FDA </textline>
+</footer>
+<slide_number id="4" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="4">19 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">19 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.17.194x343.bmp" width="69" height="123" unique_id="5">
+</picture>
+<picture name="Image122" bbox="22.560,25.440,695.280,446.040" src="Image122.1920x1200.bmp" width="672" height="420" unique_id="6">
+</picture>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[81.93712280701756, 479.2715964912281, 416.1209298245614, 508.16226315789476]">
+<title id="0" bbox="79.584,478.858,140.091,506.818" size="27.96" unique_id="0">NDC <textline bbox="79.584,478.858,140.091,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">NDC </textline>
+</title>
+<footer id="2" bbox="183.740,13.375,511.975,31.399" size="18.024" unique_id="2">http://www.fda.gov/cder/ndc/database/ <textline bbox="183.740,13.375,511.975,31.399" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.024" colourspace="DeviceGray">http://www.fda.gov/cder/ndc/database/ </textline>
+</footer>
+<slide_number id="3" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="3">20 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">20 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.18.194x343.bmp" width="69" height="123" unique_id="4">
+</picture>
+<picture name="Image126" bbox="90.000,70.680,612.720,462.720" src="Image126.1400x1050.bmp" width="522" height="392" unique_id="5" caption="http://www.cancer.gov/cancertopics/terminologyresources/FMT " caption_ids="['1']">
+</picture>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[81.7018105263158, 479.2302368421052, 388.0592368421053, 508.0278368421053]">
+<title id="0" bbox="79.584,478.858,135.504,506.818" size="27.96" unique_id="0">UNII <textline bbox="79.584,478.858,135.504,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">UNII </textline>
+</title>
+<footer id="1" bbox="68.208,33.876,610.170,51.876" size="18.0" unique_id="1">http://www.cancer.gov/cancertopics/terminologyresources/FMT <textline bbox="68.208,33.876,610.170,51.876" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000" colourspace="DeviceGray">http://www.cancer.gov/cancertopics/terminologyresources/FMT </textline>
+</footer>
+<slide_number id="2" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="2">21 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">21 </textline>
+</slide_number>
+<footer id="3" bbox="153.720,3.876,525.186,21.876" size="18.0" unique_id="3">http://www.fda.gov/oc/datacouncil/SRS.htm <textline bbox="153.720,3.876,525.186,21.876" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000" colourspace="DeviceGray">http://www.fda.gov/oc/datacouncil/SRS.htm </textline>
+</footer>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.19.194x343.bmp" width="69" height="123" unique_id="4">
+</picture>
+<picture name="Image131" bbox="82.560,61.080,606.000,453.720" src="Image131.1400x1050.bmp" width="523" height="392" unique_id="5">
+</picture>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[81.50011428571429, 479.19478571428573, 370.21883333333335, 507.9126142857143]">
+<title id="0" bbox="79.584,478.858,200.735,506.818" size="27.96" unique_id="0">RxNORM <textline bbox="79.584,478.858,200.735,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">RxNORM </textline>
+</title>
+<normal_text id="1" bbox="617.540,188.315,706.478,335.959" size="18.006857142857143" unique_id="1">Only a  
+portion of  
+RxNorm  
+is  
+included  
+in the  
+FMT <textline bbox="632.060,317.935,692.044,335.959" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">Only a  </textline>
+<textline bbox="617.540,296.320,706.478,314.320" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">portion of  </textline>
+<textline bbox="624.620,274.720,699.464,292.720" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">RxNorm  </textline>
+<textline bbox="652.100,253.120,672.116,271.120" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">is  </textline>
+<textline bbox="622.460,231.520,701.588,249.520" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">included  </textline>
+<textline bbox="635.540,209.920,688.514,227.920" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">in the  </textline>
+<textline bbox="641.060,188.315,678.099,206.339" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">FMT </textline>
+</normal_text>
+<footer id="2" bbox="35.208,35.364,577.170,53.364" size="18.0" unique_id="2">http://www.cancer.gov/cancertopics/terminologyresources/FMT <textline bbox="35.208,35.364,577.170,53.364" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000" colourspace="DeviceGray">http://www.cancer.gov/cancertopics/terminologyresources/FMT </textline>
+</footer>
+<footer id="3" bbox="59.952,7.620,546.186,25.620" size="18.0" unique_id="3">http://www.nlm.nih.gov/research/umls/rxnorm/index.html <textline bbox="59.952,7.620,546.186,25.620" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000" colourspace="DeviceGray">http://www.nlm.nih.gov/research/umls/rxnorm/index.html </textline>
+</footer>
+<slide_number id="4" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="4">22 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">22 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.20.194x343.bmp" width="69" height="123" unique_id="5">
+</picture>
+<picture name="Image137" bbox="22.560,61.920,607.080,438.000" src="Image137.1280x1024.bmp" width="584" height="376" unique_id="6">
+</picture>
+</page>
+<page id="23" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[81.32592207792209, 479.1641688311688, 353.25112121212123, 507.81310389610394]">
+<title id="0" bbox="79.584,478.858,183.574,506.818" size="27.96" unique_id="0">NDF-RT <textline bbox="79.584,478.858,183.574,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">NDF-RT </textline>
+</title>
+<normal_text id="1" bbox="625.610,203.920,717.638,329.959" size="18.004" unique_id="1">Only a  
+portion of  
+NDF-RT is  
+included  
+in the  
+FMT <textline bbox="641.570,311.935,701.554,329.959" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">Only a  </textline>
+<textline bbox="627.050,290.320,715.988,308.320" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">portion of  </textline>
+<textline bbox="625.610,268.720,717.638,286.720" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">NDF-RT is  </textline>
+<textline bbox="631.970,247.120,711.098,265.120" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">included  </textline>
+<textline bbox="645.050,225.520,698.024,243.520" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">in the  </textline>
+<textline bbox="650.570,203.920,687.560,221.920" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">FMT </textline>
+</normal_text>
+<footer id="2" bbox="62.208,32.868,604.170,50.868" size="18.0" unique_id="2">http://www.cancer.gov/cancertopics/terminologyresources/FMT <textline bbox="62.208,32.868,604.170,50.868" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000" colourspace="DeviceGray">http://www.cancer.gov/cancertopics/terminologyresources/FMT </textline>
+</footer>
+<slide_number id="3" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="3">23 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">23 </textline>
+</slide_number>
+<footer id="4" bbox="148.490,3.876,554.948,21.876" size="18.0" unique_id="4">ftp://ftp1.nci.nih.gov/pub/cacore/EVS/FDA/ndfrt/ <textline bbox="148.490,3.876,554.948,21.876" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="18.000" colourspace="DeviceGray">ftp://ftp1.nci.nih.gov/pub/cacore/EVS/FDA/ndfrt/ </textline>
+</footer>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.21.194x343.bmp" width="69" height="123" unique_id="5">
+</picture>
+<picture name="Image141" bbox="96.000,70.440,622.560,465.360" src="Image141.1400x1050.bmp" width="526" height="394" unique_id="6">
+</picture>
+</page>
+<page id="24" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[81.17445059288536, 479.13754545454543, 337.10041501976286, 507.72657312252966]">
+<title id="0" bbox="79.584,478.858,167.518,506.818" size="27.96" unique_id="0">Topics <textline bbox="79.584,478.858,167.518,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="Pattern">Topics </textline>
+</title>
+<enlisting id="1" bbox="126.840,175.618,501.263,405.247" size="27.968000000000004" unique_id="1">&#8226; Overview / Goal 
+&#8226; Background 
+&#8226; Components 
+&#8226; Accessibility 
+&#8226; Collaboration / Coordination 
+&#8226; Summary <textline bbox="126.840,377.263,353.022,405.247" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Overview / Goal </textline>
+<textline bbox="126.840,336.918,303.306,364.878" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Background </textline>
+<textline bbox="126.840,296.598,312.533,324.558" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Components </textline>
+<textline bbox="126.840,256.273,306.485,284.257" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Accessibility </textline>
+<textline bbox="126.840,215.938,501.263,243.898" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Collaboration / Coordination </textline>
+<textline bbox="126.840,175.618,273.529,203.578" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Summary </textline>
+</enlisting>
+<slide_number id="2" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="2">24 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">24 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.22.194x343.bmp" width="69" height="123" unique_id="3">
+</picture>
+</page>
+<page id="25" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[81.04191304347826, 479.11424999999997, 345.80954710144925, 507.65085869565223]">
+<title id="0" bbox="79.584,478.858,441.610,506.818" size="27.96" unique_id="0">Collaboration/Coordination <textline bbox="79.584,478.858,441.610,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">Collaboration/Coordination </textline>
+</title>
+<slide_number id="13" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="13">25 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">25 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.23.194x343.bmp" width="69" height="123" unique_id="14">
+</picture>
+<enlisting bbox="46.584,26.628,520.814,442.44" unique_id="['1', ' 2', ' 3', ' 6', ' 10', ' 11', ' 12', '8']">&#8226; Fed Med Collaboration efforts: &#8211; NCI EVS 
+&#8211; SPL &#8211; HITSP &#8211; NIST HCSL, USHIK 
+&#8211; CHDR 
+&#8211; SDO efforts: NCPDP, HL7, ICH, ISO &#8211; ePrescribing &#8226; SNOMED Mappings 
+&#8226; Fed Med Coordination efforts &#8211; Authoritative Source 
+&#8211; Terminology Development 
+&#8211; Maintenance, Distribution and Accessibility Planning <normal_text id="1" bbox="46.584,418.440,396.216,442.440" size="24.0" unique_id="1">&#8226; Fed Med Collaboration efforts: <textline bbox="46.584,418.440,396.216,442.440" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.000" colourspace="DeviceGray">&#8226; Fed Med Collaboration efforts: </textline>
+</normal_text>
+<normal_text id="2" bbox="82.584,375.180,177.230,414.780" size="18.0" unique_id="2">&#8211; NCI EVS 
+&#8211; SPL <textline bbox="82.584,396.780,177.230,414.780" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; NCI EVS </textline>
+<textline bbox="82.584,375.180,139.196,393.180" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; SPL </textline>
+</normal_text>
+<normal_text id="3" bbox="82.584,331.975,158.401,349.999" size="18.024" unique_id="3">&#8211; HITSP <textline bbox="82.584,331.975,158.401,349.999" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.024" colourspace="DeviceGray">&#8211; HITSP </textline>
+</normal_text>
+<normal_text id="6" bbox="82.584,223.960,395.048,285.160" size="18.0" unique_id="6">&#8211; NIST HCSL, USHIK 
+&#8211; CHDR 
+&#8211; SDO efforts: NCPDP, HL7, ICH, ISO <textline bbox="82.584,267.160,264.062,285.160" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; NIST HCSL, USHIK </textline>
+<textline bbox="82.584,245.560,157.088,263.560" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; CHDR </textline>
+<textline bbox="82.584,223.960,395.048,241.960" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; SDO efforts: NCPDP, HL7, ICH, ISO </textline>
+</normal_text>
+<normal_text id="10" bbox="82.584,141.850,205.112,159.850" size="18.0" unique_id="10">&#8211; ePrescribing <textline bbox="82.584,141.850,205.112,159.850" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; ePrescribing </textline>
+</normal_text>
+<normal_text id="11" bbox="46.584,91.507,384.238,138.250" size="21.012" unique_id="11">&#8226; SNOMED Mappings 
+&#8226; Fed Med Coordination efforts <textline bbox="118.610,120.250,298.376,138.250" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; SNOMED Mappings </textline>
+<textline bbox="46.584,91.507,384.238,115.531" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="24.024" colourspace="DeviceGray">&#8226; Fed Med Coordination efforts </textline>
+</normal_text>
+<normal_text id="12" bbox="82.584,26.628,520.814,87.828" size="18.0" unique_id="12">&#8211; Authoritative Source 
+&#8211; Terminology Development 
+&#8211; Maintenance, Distribution and Accessibility Planning <textline bbox="82.584,69.828,267.410,87.828" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Authoritative Source </textline>
+<textline bbox="82.584,48.228,313.238,66.228" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Terminology Development </textline>
+<textline bbox="82.584,26.628,520.814,44.628" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8211; Maintenance, Distribution and Accessibility Planning </textline>
+</normal_text>
+<normal_text id="8" bbox="136.610,185.050,331.424,203.050" size="18.0" unique_id="8">Statistics, Administration <textline bbox="136.610,185.050,331.424,203.050" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">Statistics, Administration </textline>
+</normal_text>
+</enlisting><enlisting bbox="118.61,163.45,667.322,371.58" unique_id="['4', '5', '7', '9']">&#8226; FMT, SNOMED, LOINC &#8226; Consumer Empowerment Medication History Use Case 
+&#8226; Care Delivery Medication Mangement Use Case &#8226; Regulatory submissions, Discovery research, Clinical data, Billing,  &#8226; Industry agreements, nationally accredited, global standardization <normal_text id="4" bbox="118.610,353.580,325.664,371.580" size="18.0" unique_id="4">&#8226; FMT, SNOMED, LOINC <textline bbox="118.610,353.580,325.664,371.580" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; FMT, SNOMED, LOINC </textline>
+</normal_text>
+<normal_text id="5" bbox="118.610,288.760,577.520,328.360" size="18.0" unique_id="5">&#8226; Consumer Empowerment Medication History Use Case 
+&#8226; Care Delivery Medication Mangement Use Case <textline bbox="118.610,310.360,577.520,328.360" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Consumer Empowerment Medication History Use Case </textline>
+<textline bbox="118.610,288.760,521.450,306.760" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Care Delivery Medication Mangement Use Case </textline>
+</normal_text>
+<normal_text id="7" bbox="118.610,202.330,667.322,220.330" size="18.0" unique_id="7">&#8226; Regulatory submissions, Discovery research, Clinical data, Billing,  <textline bbox="118.610,202.330,667.322,220.330" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Regulatory submissions, Discovery research, Clinical data, Billing,  </textline>
+</normal_text>
+<normal_text id="9" bbox="118.610,163.450,659.312,181.450" size="18.0" unique_id="9">&#8226; Industry agreements, nationally accredited, global standardization <textline bbox="118.610,163.450,659.312,181.450" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="18.000" colourspace="DeviceGray">&#8226; Industry agreements, nationally accredited, global standardization </textline>
+</normal_text>
+</enlisting></page>
+<page id="26" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[80.92528, 479.09375, 331.54622333333333, 507.5842300000001]">
+<title id="0" bbox="79.584,478.858,167.518,506.818" size="27.96" unique_id="0">Topics <textline bbox="79.584,478.858,167.518,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="Pattern">Topics </textline>
+</title>
+<enlisting id="1" bbox="126.840,175.618,501.263,405.247" size="27.968000000000004" unique_id="1">&#8226; Overview / Goal 
+&#8226; Background 
+&#8226; Components 
+&#8226; Accessibility 
+&#8226; Collaboration / Coordination 
+&#8226; Summary <textline bbox="126.840,377.263,353.022,405.247" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Overview / Goal </textline>
+<textline bbox="126.840,336.918,303.306,364.878" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Background </textline>
+<textline bbox="126.840,296.598,312.533,324.558" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Components </textline>
+<textline bbox="126.840,256.273,306.485,284.257" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="Pattern">&#8226; Accessibility </textline>
+<textline bbox="126.840,215.938,501.263,243.898" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Collaboration / Coordination </textline>
+<textline bbox="126.840,175.618,273.529,203.578" font="ArialMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="Pattern">&#8226; Summary </textline>
+</enlisting>
+<slide_number id="2" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="2">26 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">26 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.24.194x343.bmp" width="69" height="123" unique_id="3">
+</picture>
+</page>
+<page id="27" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[80.8221046153846, 479.07561538461545, 321.95912923076924, 507.5252892307694]">
+<title id="0" bbox="79.584,478.858,206.914,506.818" size="27.96" unique_id="0">Summary <textline bbox="79.584,478.858,206.914,506.818" font="Arial-BoldMT" ncolour="(0.153, 0.118, 0.588)" size="27.960" colourspace="DeviceGray">Summary </textline>
+</title>
+<normal_text id="1" bbox="128.900,213.868,594.134,443.497" size="27.968000000000004" unique_id="1">Make available  
+comprehensive, freely 
+and easily accessible  
+standard medication terminologies 
+to enable  
+Health IT interoperability <textline bbox="263.450,415.513,467.537,443.497" font="Arial-BoldItalicMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="DeviceGray">Make available  </textline>
+<textline bbox="213.650,375.178,509.579,403.138" font="Arial-BoldItalicMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="DeviceGray">comprehensive, freely </textline>
+<textline bbox="219.050,334.858,511.875,362.818" font="Arial-BoldItalicMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="DeviceGray">and easily accessible  </textline>
+<textline bbox="128.900,294.533,594.134,322.517" font="Arial-BoldItalicMT" ncolour="(0.145, 0.114, 0.576)" size="27.984" colourspace="DeviceGray">standard medication terminologies </textline>
+<textline bbox="300.290,254.188,431.087,282.148" font="Arial-BoldItalicMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="DeviceGray">to enable  </textline>
+<textline bbox="197.450,213.868,525.672,241.828" font="Arial-BoldItalicMT" ncolour="(0.145, 0.114, 0.576)" size="27.960" colourspace="DeviceGray">Health IT interoperability </textline>
+</normal_text>
+<normal_text id="2" bbox="87.696,101.730,244.763,132.608" size="14.052" unique_id="2">U.S. Department of Health  
+and Human Services <textline bbox="87.696,118.544,244.763,132.608" font="BCDEEE+Calibri-Bold" ncolour="(0.145, 0.114, 0.576)" size="14.064" colourspace="DeviceGray">U.S. Department of Health  </textline>
+<textline bbox="87.696,101.730,205.337,115.770" font="BCDEEE+Calibri-Bold" ncolour="(0.145, 0.114, 0.576)" size="14.040" colourspace="DeviceGray">and Human Services </textline>
+</normal_text>
+<slide_number id="4" bbox="674.710,28.036,690.316,42.076" size="14.04" unique_id="4">27 <textline bbox="674.710,28.036,690.316,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">27 </textline>
+</slide_number>
+<picture name="Image6" bbox="0.000,416.400,69.960,540.000" src="Image6.25.194x343.bmp" width="69" height="123" unique_id="5">
+</picture>
+<picture name="Image29" bbox="253.320,88.080,636.240,146.160" src="Image29.1.jpg" width="382" height="58" unique_id="6" caption="Advancing  &#10;Excellence  &#10;in Health  &#10;Care " caption_ids="['3']">
+</picture>
+<picture name="Image30" bbox="573.240,30.240,704.400,78.600" src="Image30.0.252x93.bmp" width="131" height="48" unique_id="7">
+</picture>
+<picture name="Image31" bbox="589.680,91.800,680.640,186.600" src="Image31.1.245x244.bmp" width="90" height="94" unique_id="8">
+</picture>
+<picture name="Image33" bbox="11.160,22.200,374.280,72.480" src="Image33.1.729x68.bmp" width="363" height="50" unique_id="9">
+</picture>
+<picture name="Image36" bbox="17.280,93.000,71.040,162.480" src="Image36.0.jpg" width="53" height="69" unique_id="10">
+</picture>
+<picture name="Image38" bbox="380.280,17.520,472.680,80.880" src="Image38.1.118x81.bmp" width="92" height="63" unique_id="11">
+</picture>
+<picture name="Image41" bbox="486.960,27.179,547.980,47.760" src="Image41.0.170x58.bmp" width="61" height="20" unique_id="12">
+</picture>
+<picture name="Image45" bbox="486.720,18.539,548.220,39.120" src="Image45.0.171x58.bmp" width="61" height="20" unique_id="13">
+</picture>
+<picture name="Image47" bbox="491.040,9.899,544.020,30.480" src="Image47.0.148x58.bmp" width="52" height="20" unique_id="14">
+</picture>
+<picture name="Image49" bbox="500.040,1.259,532.620,21.840" src="Image49.0.91x58.bmp" width="32" height="20" unique_id="15">
+</picture>
+<picture name="Image51" bbox="477.120,51.000,557.400,91.800" src="Image51.1.222x113.bmp" width="80" height="40" unique_id="16">
+</picture>
+<picture name="Image53" bbox="466.080,87.960,568.080,186.960" src="Image53.0.jpg" width="101" height="98" unique_id="17">
+</picture>
+</page>
+</pages>

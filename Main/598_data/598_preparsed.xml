@@ -1,0 +1,389 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="43.992,273.538,675.959,500.628" size="38.3808">USING ARCVIEW SPATIAL ANALYST 
+TO DETERMINE POTENTIAL 
+AQUIFER RECHARGES ZONES 
+BASED ON SOIL MAPPING 
+AND SLOPE ASPECT <textline bbox="43.992,460.668,675.959,500.628" font="BCDEEE+Tahoma" ncolour="1" size="39.960" colourspace="DeviceGray">USING ARCVIEW SPATIAL ANALYST </textline>
+<textline bbox="112.510,412.668,607.415,452.628" font="BCDEEE+Tahoma" ncolour="1" size="39.960" colourspace="DeviceGray">TO DETERMINE POTENTIAL </textline>
+<textline bbox="102.670,364.663,629.619,404.647" font="BCDEEE+Tahoma" ncolour="1" size="39.984" colourspace="DeviceGray">AQUIFER RECHARGES ZONES </textline>
+<textline bbox="157.270,317.458,575.482,353.458" font="BCDEEE+Tahoma" ncolour="1" size="36.000" colourspace="DeviceGray">BASED ON SOIL MAPPING </textline>
+<textline bbox="200.140,273.538,519.964,309.538" font="BCDEEE+Tahoma" ncolour="1" size="36.000" colourspace="DeviceGray">AND SLOPE ASPECT </textline>
+</textbox>
+<textbox id="1" bbox="7.200,12.618,261.306,117.014" size="18.0">By Jonathan Mulder 
+Engineering Geologist 
+Geologic Investigations Unit 
+Northern District 
+Department of Water Resources <textline bbox="7.200,99.014,164.376,117.014" font="BCDEEE+Tahoma" ncolour="1" size="18.000" colourspace="DeviceGray">By Jonathan Mulder </textline>
+<textline bbox="7.200,77.418,179.802,95.418" font="BCDEEE+Tahoma" ncolour="1" size="18.000" colourspace="DeviceGray">Engineering Geologist </textline>
+<textline bbox="7.200,55.818,228.222,73.818" font="BCDEEE+Tahoma" ncolour="1" size="18.000" colourspace="DeviceGray">Geologic Investigations Unit </textline>
+<textline bbox="7.200,34.218,138.240,52.218" font="BCDEEE+Tahoma" ncolour="1" size="18.000" colourspace="DeviceGray">Northern District </textline>
+<textline bbox="7.200,12.618,261.306,30.618" font="BCDEEE+Tahoma" ncolour="1" size="18.000" colourspace="DeviceGray">Department of Water Resources </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="85.224,339.502,409.056,363.502" size="24.0">Ground Water Recharge Zones <textline bbox="85.224,339.502,409.056,363.502" font="BCDEEE+Tahoma" ncolour="1" size="24.000" colourspace="DeviceGray">Ground Water Recharge Zones </textline>
+</textbox>
+<textbox id="1" bbox="95.982,292.744,326.334,310.744" size="18.0">Some feature characteristics <textline bbox="95.982,292.744,326.334,310.744" font="BCDEEE+Tahoma" ncolour="1" size="18.000" colourspace="DeviceGray">Some feature characteristics </textline>
+</textbox>
+<textbox id="2" bbox="145.220,226.724,645.554,244.724" size="18.0">&#8226;Permeable Surface Layer (based on geology or soils mapping) <textline bbox="145.220,226.724,645.554,244.724">&#8226;Permeable Surface Layer (based on geology or soils mapping) <text font="BCDFEE+Tahoma" bbox="145.220,226.724,153.410,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">&#8226;</text>
+<text font="BCDEEE+Tahoma" bbox="153.380,226.724,163.298,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">P</text>
+<text font="BCDEEE+Tahoma" bbox="162.974,226.724,172.442,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="172.442,226.724,178.922,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">r</text>
+<text font="BCDEEE+Tahoma" bbox="178.922,226.724,194.042,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">m</text>
+<text font="BCDEEE+Tahoma" bbox="194.042,226.724,203.510,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="203.510,226.724,212.960,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="212.996,226.724,222.950,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">b</text>
+<text font="BCDEEE+Tahoma" bbox="222.950,226.724,227.072,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="227.072,226.724,236.540,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="236.540,226.724,242.174,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="242.174,226.724,252.200,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">S</text>
+<text font="BCDEEE+Tahoma" bbox="252.200,226.724,262.244,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">u</text>
+<text font="BCDEEE+Tahoma" bbox="262.298,226.724,268.778,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">r</text>
+<text font="BCDEEE+Tahoma" bbox="268.778,226.724,274.502,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">f</text>
+<text font="BCDEEE+Tahoma" bbox="274.304,226.724,283.754,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="283.754,226.724,292.052,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">c</text>
+<text font="BCDEEE+Tahoma" bbox="292.052,226.724,301.520,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="301.520,226.724,307.154,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="307.064,226.724,316.028,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">L</text>
+<text font="BCDEEE+Tahoma" bbox="316.028,226.724,325.478,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="325.424,226.724,334.388,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">y</text>
+<text font="BCDEEE+Tahoma" bbox="334.298,226.724,343.766,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="343.766,226.724,350.246,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">r</text>
+<text font="BCDEEE+Tahoma" bbox="350.246,226.724,355.880,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="355.880,226.724,362.774,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">(</text>
+<text font="BCDEEE+Tahoma" bbox="362.774,226.724,372.728,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">b</text>
+<text font="BCDEEE+Tahoma" bbox="372.728,226.724,382.178,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="382.178,226.724,390.206,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">s</text>
+<text font="BCDEEE+Tahoma" bbox="390.206,226.724,399.674,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="399.674,226.724,409.628,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">d</text>
+<text font="BCDEEE+Tahoma" bbox="409.628,226.724,415.262,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="415.406,226.724,425.180,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="425.180,226.724,435.224,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">n</text>
+<text font="BCDEEE+Tahoma" bbox="435.224,226.724,440.858,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="440.858,226.724,450.812,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">g</text>
+<text font="BCDEEE+Tahoma" bbox="450.812,226.724,460.280,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="460.280,226.724,470.054,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="470.054,226.724,474.176,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="474.086,226.724,483.860,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="483.860,226.724,493.814,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">g</text>
+<text font="BCDEEE+Tahoma" bbox="493.814,226.724,502.778,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">y</text>
+<text font="BCDEEE+Tahoma" bbox="502.778,226.724,508.412,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="508.502,226.724,518.276,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="518.276,226.724,524.756,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">r</text>
+<text font="BCDEEE+Tahoma" bbox="524.756,226.724,530.390,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="530.444,226.724,538.472,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">s</text>
+<text font="BCDEEE+Tahoma" bbox="538.472,226.724,548.246,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="548.246,226.724,552.368,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">i</text>
+<text font="BCDEEE+Tahoma" bbox="552.278,226.724,556.400,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="556.400,226.724,564.428,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">s</text>
+<text font="BCDEEE+Tahoma" bbox="564.428,226.724,570.062,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="570.062,226.724,585.182,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">m</text>
+<text font="BCDEEE+Tahoma" bbox="585.182,226.724,594.632,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="594.632,226.724,604.586,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">p</text>
+<text font="BCDEEE+Tahoma" bbox="604.586,226.724,614.540,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">p</text>
+<text font="BCDEEE+Tahoma" bbox="614.540,226.724,618.662,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">i</text>
+<text font="BCDEEE+Tahoma" bbox="618.662,226.724,628.706,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">n</text>
+<text font="BCDEEE+Tahoma" bbox="628.706,226.724,638.660,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">g</text>
+<text font="BCDEEE+Tahoma" bbox="638.660,226.724,645.554,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">)</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="145.220,172.724,393.338,190.724" size="18.0">&#8226;Flat or nearly flat slope aspect <textline bbox="145.220,172.724,393.338,190.724">&#8226;Flat or nearly flat slope aspect <text font="BCDFEE+Tahoma" bbox="145.220,172.724,153.410,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">&#8226;</text>
+<text font="BCDEEE+Tahoma" bbox="153.380,172.724,162.758,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">F</text>
+<text font="BCDEEE+Tahoma" bbox="162.758,172.724,166.880,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="166.826,172.724,176.276,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="176.276,172.724,182.288,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="182.288,172.724,187.922,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="188.048,172.724,197.822,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="197.822,172.724,204.302,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">r</text>
+<text font="BCDEEE+Tahoma" bbox="204.302,172.724,209.936,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="209.936,172.724,219.980,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">n</text>
+<text font="BCDEEE+Tahoma" bbox="219.980,172.724,229.448,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="229.448,172.724,238.898,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="238.898,172.724,245.378,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">r</text>
+<text font="BCDEEE+Tahoma" bbox="245.378,172.724,249.500,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="249.500,172.724,258.464,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">y</text>
+<text font="BCDEEE+Tahoma" bbox="258.464,172.724,264.098,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="264.098,172.724,269.822,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">f</text>
+<text font="BCDEEE+Tahoma" bbox="269.876,172.724,273.998,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="273.998,172.724,283.448,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="283.448,172.724,289.460,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="289.460,172.724,295.094,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="295.094,172.724,303.122,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">s</text>
+<text font="BCDEEE+Tahoma" bbox="303.122,172.724,307.244,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="307.244,172.724,317.018,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="316.910,172.724,326.864,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">p</text>
+<text font="BCDEEE+Tahoma" bbox="326.864,172.724,336.332,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="336.332,172.724,341.966,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="342.092,172.724,351.542,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="351.542,172.724,359.570,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">s</text>
+<text font="BCDEEE+Tahoma" bbox="359.570,172.724,369.524,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">p</text>
+<text font="BCDEEE+Tahoma" bbox="369.524,172.724,378.992,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="379.028,172.724,387.326,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">c</text>
+<text font="BCDEEE+Tahoma" bbox="387.326,172.724,393.338,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="145.220,118.719,393.604,136.743" size="18.024">&#8226;Vegetation cover and land use <textline bbox="145.220,118.719,393.604,136.743">&#8226;Vegetation cover and land use <text font="BCDFEE+Tahoma" bbox="145.220,118.719,153.421,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">&#8226;</text>
+<text font="BCDEEE+Tahoma" bbox="153.380,118.719,164.140,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">V</text>
+<text font="BCDEEE+Tahoma" bbox="163.347,118.719,172.828,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">e</text>
+<text font="BCDEEE+Tahoma" bbox="172.828,118.719,182.795,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">g</text>
+<text font="BCDEEE+Tahoma" bbox="182.795,118.719,192.276,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">e</text>
+<text font="BCDEEE+Tahoma" bbox="192.276,118.719,198.296,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">t</text>
+<text font="BCDEEE+Tahoma" bbox="198.296,118.719,207.758,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">a</text>
+<text font="BCDEEE+Tahoma" bbox="207.758,118.719,213.778,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">t</text>
+<text font="BCDEEE+Tahoma" bbox="213.778,118.719,217.906,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">i</text>
+<text font="BCDEEE+Tahoma" bbox="217.834,118.719,227.621,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">o</text>
+<text font="BCDEEE+Tahoma" bbox="227.549,118.719,237.606,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">n</text>
+<text font="BCDEEE+Tahoma" bbox="237.606,118.719,243.248,136.743" colourspace="DeviceGray" ncolour="1" size="18.024"> </text>
+<text font="BCDEEE+Tahoma" bbox="243.248,118.719,251.557,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">c</text>
+<text font="BCDEEE+Tahoma" bbox="251.557,118.719,261.344,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">o</text>
+<text font="BCDEEE+Tahoma" bbox="261.145,118.719,270.121,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">v</text>
+<text font="BCDEEE+Tahoma" bbox="270.031,118.719,279.512,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">e</text>
+<text font="BCDEEE+Tahoma" bbox="279.512,118.719,286.001,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">r</text>
+<text font="BCDEEE+Tahoma" bbox="286.001,118.719,291.642,136.743" colourspace="DeviceGray" ncolour="1" size="18.024"> </text>
+<text font="BCDEEE+Tahoma" bbox="291.732,118.719,301.195,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">a</text>
+<text font="BCDEEE+Tahoma" bbox="301.195,118.719,311.252,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">n</text>
+<text font="BCDEEE+Tahoma" bbox="311.252,118.719,321.219,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">d</text>
+<text font="BCDEEE+Tahoma" bbox="321.219,118.719,326.861,136.743" colourspace="DeviceGray" ncolour="1" size="18.024"> </text>
+<text font="BCDEEE+Tahoma" bbox="326.771,118.719,330.898,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">l</text>
+<text font="BCDEEE+Tahoma" bbox="330.898,118.719,340.361,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">a</text>
+<text font="BCDEEE+Tahoma" bbox="340.361,118.719,350.418,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">n</text>
+<text font="BCDEEE+Tahoma" bbox="350.418,118.719,360.386,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">d</text>
+<text font="BCDEEE+Tahoma" bbox="360.386,118.719,366.027,136.743" colourspace="DeviceGray" ncolour="1" size="18.024"> </text>
+<text font="BCDEEE+Tahoma" bbox="366.027,118.719,376.085,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">u</text>
+<text font="BCDEEE+Tahoma" bbox="376.085,118.719,384.123,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">s</text>
+<text font="BCDEEE+Tahoma" bbox="384.123,118.719,393.604,136.743" colourspace="DeviceGray" ncolour="1" size="18.024">e</text>
+</textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.0.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.1.jpg" width="720" height="540">
+</figure>
+<figure name="Image39" bbox="-36.000,-36.000,756.000,576.000" src="Image39.jpg" width="792" height="612">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.2.jpg" width="720" height="540">
+</figure>
+<figure name="Image42" bbox="0.000,-0.240,720.000,540.000" src="Image42.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.3.jpg" width="720" height="540">
+</figure>
+<figure name="Image48" bbox="492.000,228.000,692.160,540.000" src="Image48.jpg" width="200" height="312">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.4.jpg" width="720" height="540">
+</figure>
+<figure name="Image39" bbox="0.000,-16.200,720.000,540.000" src="Image39.0.jpg" width="720" height="556">
+</figure>
+<figure name="Image51" bbox="0.000,-16.320,720.000,540.000" src="Image51.jpg" width="720" height="556">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="529.300,80.298,696.060,292.744" size="18.0048">10  -- 0 to 1% 
+9    -- 1 to 2% 
+8    -- 2 to 3% 
+7    -- 3 to 5% 
+6    -- 5 to 7% 
+5    -- 7 to 10% 
+4    -- 10 to 15% 
+3    -- 15 to 25% 
+2    -- 25 to 50% 
+1    -- 50 to 100% <textline bbox="529.300,274.744,662.496,292.744" font="BCDGEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">10  -- 0 to 1% </textline>
+<textline bbox="529.300,253.139,661.544,271.163" font="BCDGEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="18.024" colourspace="DeviceGray">9    -- 1 to 2% </textline>
+<textline bbox="529.300,231.524,661.536,249.524" font="BCDGEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">8    -- 2 to 3% </textline>
+<textline bbox="529.300,209.924,661.536,227.924" font="BCDGEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">7    -- 3 to 5% </textline>
+<textline bbox="529.300,188.324,661.536,206.324" font="BCDGEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">6    -- 5 to 7% </textline>
+<textline bbox="529.300,166.724,673.002,184.724" font="BCDGEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">5    -- 7 to 10% </textline>
+<textline bbox="529.300,145.124,684.504,163.124" font="BCDGEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">4    -- 10 to 15% </textline>
+<textline bbox="529.300,123.519,684.525,141.543" font="BCDGEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="18.024" colourspace="DeviceGray">3    -- 15 to 25% </textline>
+<textline bbox="529.300,101.894,684.504,119.894" font="BCDGEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">2    -- 25 to 50% </textline>
+<textline bbox="529.300,80.298,696.060,98.298" font="BCDGEE+Tahoma-Bold" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">1    -- 50 to 100% </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.5.jpg" width="720" height="540">
+</figure>
+<figure name="Image54" bbox="0.000,-16.320,720.000,540.000" src="Image54.jpg" width="720" height="556">
+</figure>
+<figure name="Image55" bbox="0.000,-16.320,720.000,540.000" src="Image55.jpg" width="720" height="556">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="80.592,395.247,639.265,524.012" size="27.966">Using Raster Calculator, 
+multiply values from each raster layer 
+to combine a new layer 
+symbolizing potential aquifer recharge zones. <textline bbox="214.300,496.052,505.587,524.012" font="BCDEEE+Tahoma" ncolour="1" size="27.960" colourspace="DeviceGray">Using Raster Calculator, </textline>
+<textline bbox="127.870,462.452,591.922,490.412" font="BCDEEE+Tahoma" ncolour="1" size="27.960" colourspace="DeviceGray">multiply values from each raster layer </textline>
+<textline bbox="215.740,428.852,504.203,456.812" font="BCDEEE+Tahoma" ncolour="1" size="27.960" colourspace="DeviceGray">to combine a new layer </textline>
+<textline bbox="80.592,395.247,639.265,423.231" font="BCDEEE+Tahoma" ncolour="1" size="27.984" colourspace="DeviceGray">symbolizing potential aquifer recharge zones. </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.6.jpg" width="720" height="540">
+</figure>
+<figure name="Image68" bbox="360.600,0.000,720.000,384.000" src="Image68.jpg" width="359" height="384">
+</figure>
+<figure name="Image69" bbox="0.000,0.000,359.280,384.000" src="Image69.jpg" width="359" height="384">
+</figure>
+<figure name="Image70" bbox="180.360,0.000,539.640,384.000" src="Image70.jpg" width="359" height="384">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="133.030,437.358,587.048,525.367" size="39.972">Use Geoprocessing model 
+to automate procedure. <textline bbox="133.030,485.383,587.048,525.367" font="BCDEEE+Tahoma" ncolour="1" size="39.984" colourspace="DeviceGray">Use Geoprocessing model </textline>
+<textline bbox="151.630,437.358,568.573,477.318" font="BCDEEE+Tahoma" ncolour="1" size="39.960" colourspace="DeviceGray">to automate procedure. </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.7.jpg" width="720" height="540">
+</figure>
+<figure name="Image77" bbox="0.000,0.000,720.000,414.000" src="Image77.jpg" width="720" height="414">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="32.688,94.068,407.320,358.874" size="38.047999999999995">Potential Aquifer  
+Recharge Zones of  
+Sacramento Valley  
+(utilizing soil 
+data sets 
+from 14 counties) <textline bbox="53.352,314.834,386.382,358.874" font="BCDEEE+Tahoma" ncolour="1" size="44.040" colourspace="DeviceGray">Potential Aquifer  </textline>
+<textline bbox="32.688,262.029,407.320,306.093" font="BCDEEE+Tahoma" ncolour="1" size="44.064" colourspace="DeviceGray">Recharge Zones of  </textline>
+<textline bbox="34.968,209.214,404.860,253.254" font="BCDEEE+Tahoma" ncolour="1" size="44.040" colourspace="DeviceGray">Sacramento Valley  </textline>
+<textline bbox="124.630,170.898,301.299,202.938" font="BCDEEE+Tahoma" ncolour="1" size="32.040" colourspace="DeviceGray">(utilizing soil </textline>
+<textline bbox="153.910,132.493,282.102,164.557" font="BCDEEE+Tahoma" ncolour="1" size="32.064" colourspace="DeviceGray">data sets </textline>
+<textline bbox="92.952,94.068,343.088,126.108" font="BCDEEE+Tahoma" ncolour="1" size="32.040" colourspace="DeviceGray">from 14 counties) </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.8.jpg" width="720" height="540">
+</figure>
+<figure name="Image92" bbox="405.840,0.000,720.000,540.000" src="Image92.jpg" width="314" height="540">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.9.jpg" width="720" height="540">
+</figure>
+<figure name="Image95" bbox="366.840,0.000,720.000,540.000" src="Image95.jpg" width="353" height="540">
+</figure>
+<figure name="Image96" bbox="0.000,0.000,353.160,540.000" src="Image96.jpg" width="353" height="540">
+</figure>
+<figure name="Image97" bbox="183.360,0.000,536.520,540.000" src="Image97.jpg" width="353" height="540">
+</figure>
+<figure name="Image98" bbox="0.000,0.000,353.160,540.000" src="Image98.jpg" width="353" height="540">
+</figure>
+<figure name="Image99" bbox="366.840,0.000,720.000,540.000" src="Image99.jpg" width="353" height="540">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="115.220,226.724,449.414,244.724" size="18.0">&#8226;Spatial Analysis will not solve everything! <textline bbox="115.220,226.724,449.414,244.724">&#8226;Spatial Analysis will not solve everything! <text font="BCDFEE+Tahoma" bbox="115.220,226.724,123.410,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">&#8226;</text>
+<text font="BCDEEE+Tahoma" bbox="123.380,226.724,133.406,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">S</text>
+<text font="BCDEEE+Tahoma" bbox="133.442,226.724,143.396,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">p</text>
+<text font="BCDEEE+Tahoma" bbox="143.396,226.724,152.846,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="152.846,226.724,158.858,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="158.858,226.724,162.980,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">i</text>
+<text font="BCDEEE+Tahoma" bbox="162.980,226.724,172.430,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="172.430,226.724,176.552,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="176.552,226.724,182.186,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="182.258,226.724,193.058,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">A</text>
+<text font="BCDEEE+Tahoma" bbox="193.058,226.724,203.102,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">n</text>
+<text font="BCDEEE+Tahoma" bbox="203.102,226.724,212.552,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="212.606,226.724,216.728,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="216.728,226.724,225.692,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">y</text>
+<text font="BCDEEE+Tahoma" bbox="225.692,226.724,233.720,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">s</text>
+<text font="BCDEEE+Tahoma" bbox="233.720,226.724,237.842,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">i</text>
+<text font="BCDEEE+Tahoma" bbox="237.842,226.724,245.870,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">s</text>
+<text font="BCDEEE+Tahoma" bbox="245.870,226.724,251.504,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="251.360,226.724,264.716,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">w</text>
+<text font="BCDEEE+Tahoma" bbox="264.716,226.724,268.838,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">i</text>
+<text font="BCDEEE+Tahoma" bbox="268.766,226.724,272.888,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="272.888,226.724,277.010,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="276.920,226.724,282.554,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="282.788,226.724,292.832,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">n</text>
+<text font="BCDEEE+Tahoma" bbox="292.832,226.724,302.606,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="302.606,226.724,308.618,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="308.618,226.724,314.252,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="314.108,226.724,322.136,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">s</text>
+<text font="BCDEEE+Tahoma" bbox="322.136,226.724,331.910,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="331.910,226.724,336.032,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="335.942,226.724,344.906,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">v</text>
+<text font="BCDEEE+Tahoma" bbox="344.816,226.724,354.284,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="354.284,226.724,359.918,244.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="359.918,226.724,369.386,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="369.386,226.724,378.350,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">v</text>
+<text font="BCDEEE+Tahoma" bbox="378.296,226.724,387.764,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="387.764,226.724,394.244,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">r</text>
+<text font="BCDEEE+Tahoma" bbox="394.244,226.724,403.208,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">y</text>
+<text font="BCDEEE+Tahoma" bbox="403.208,226.724,409.220,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="409.220,226.724,419.264,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">h</text>
+<text font="BCDEEE+Tahoma" bbox="419.318,226.724,423.440,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">i</text>
+<text font="BCDEEE+Tahoma" bbox="423.440,226.724,433.484,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">n</text>
+<text font="BCDEEE+Tahoma" bbox="433.484,226.724,443.438,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">g</text>
+<text font="BCDEEE+Tahoma" bbox="443.438,226.724,449.414,244.724" colourspace="DeviceGray" ncolour="1" size="18.000">!</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="115.220,172.724,421.802,190.724" size="18.0">&#8226;It is only another tool in the tool belt! <textline bbox="115.220,172.724,421.802,190.724">&#8226;It is only another tool in the tool belt! <text font="BCDFEE+Tahoma" bbox="115.220,172.724,123.410,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">&#8226;</text>
+<text font="BCDEEE+Tahoma" bbox="123.380,172.724,130.094,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">I</text>
+<text font="BCDEEE+Tahoma" bbox="130.094,172.724,136.106,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="136.106,172.724,141.740,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="141.740,172.724,145.862,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">i</text>
+<text font="BCDEEE+Tahoma" bbox="145.862,172.724,153.890,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">s</text>
+<text font="BCDEEE+Tahoma" bbox="153.890,172.724,159.524,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="159.524,172.724,169.298,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="169.226,172.724,179.270,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">n</text>
+<text font="BCDEEE+Tahoma" bbox="179.270,172.724,183.392,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="183.392,172.724,192.356,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">y</text>
+<text font="BCDEEE+Tahoma" bbox="192.356,172.724,197.990,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="197.990,172.724,207.440,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="207.494,172.724,217.538,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">n</text>
+<text font="BCDEEE+Tahoma" bbox="217.538,172.724,227.312,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="227.312,172.724,233.324,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="233.324,172.724,243.368,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">h</text>
+<text font="BCDEEE+Tahoma" bbox="243.368,172.724,252.836,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="252.836,172.724,259.316,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">r</text>
+<text font="BCDEEE+Tahoma" bbox="259.316,172.724,264.950,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="264.860,172.724,270.872,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="270.872,172.724,280.646,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="280.574,172.724,290.348,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="290.348,172.724,294.470,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="294.380,172.724,300.014,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="300.122,172.724,304.244,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">i</text>
+<text font="BCDEEE+Tahoma" bbox="304.244,172.724,314.288,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">n</text>
+<text font="BCDEEE+Tahoma" bbox="314.288,172.724,319.922,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="319.922,172.724,325.934,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="325.934,172.724,335.978,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">h</text>
+<text font="BCDEEE+Tahoma" bbox="335.978,172.724,345.446,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="345.446,172.724,351.080,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="351.008,172.724,357.020,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="357.020,172.724,366.794,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="366.722,172.724,376.496,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="376.496,172.724,380.618,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="380.528,172.724,386.162,190.724" colourspace="DeviceGray" ncolour="1" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="386.270,172.724,396.224,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">b</text>
+<text font="BCDEEE+Tahoma" bbox="396.224,172.724,405.692,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="405.692,172.724,409.814,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">l</text>
+<text font="BCDEEE+Tahoma" bbox="409.814,172.724,415.826,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="415.826,172.724,421.802,190.724" colourspace="DeviceGray" ncolour="1" size="18.000">!</text>
+</textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.10.jpg" width="720" height="540">
+</figure>
+<figure name="Image102" bbox="102.000,300.000,297.960,498.000" src="Image102.100x101.bmp" width="195" height="198">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="29.544,153.482,156.559,177.482" size="24.0">Thank you! <textline bbox="29.544,153.482,156.559,177.482" font="BCDEEE+Tahoma" ncolour="1" size="24.000" colourspace="DeviceGray">Thank you! </textline>
+</textbox>
+<textbox id="1" bbox="31.200,110.252,207.072,134.252" size="24.0">Jonathan Mulder <textline bbox="31.200,110.252,207.072,134.252" font="BCDEEE+Tahoma" ncolour="1" size="24.000" colourspace="DeviceGray">Jonathan Mulder </textline>
+</textbox>
+<textbox id="2" bbox="31.200,67.056,257.688,91.056" size="24.0">Mulder@water.ca.gov <textline bbox="31.200,67.056,257.688,91.056" font="BCDEEE+Tahoma" ncolour="1" size="24.000" colourspace="DeviceGray">Mulder@water.ca.gov </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.11.jpg" width="720" height="540">
+</figure>
+<figure name="Image107" bbox="0.000,247.680,390.000,540.000" src="Image107.jpg" width="390" height="292">
+</figure>
+<figure name="Image108" bbox="390.000,292.440,720.000,540.000" src="Image108.jpg" width="330" height="247">
+</figure>
+<figure name="Image109" bbox="384.000,0.000,720.000,318.720" src="Image109.jpg" width="336" height="318">
+</figure>
+</page>
+</pages>

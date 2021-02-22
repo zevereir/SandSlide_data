@@ -1,0 +1,669 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<picture name="Image6" bbox="192.000,312.000,474.000,396.000" src="Image6.315x48.bmp" width="282" height="84" unique_id="0">
+</picture>
+<picture name="Image7" bbox="42.000,36.000,226.080,162.000" src="Image7.91x46.bmp" width="184" height="126" unique_id="1">
+</picture>
+<picture name="Image8" bbox="146.400,204.540,657.420,298.560" src="Image8.1420x262.bmp" width="511" height="94" unique_id="2">
+</picture>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[124.87, 421.387, 595.129, 465.427]">
+<title id="0" bbox="124.870,421.387,595.129,465.427" size="44.04" unique_id="0">The goal of XML Protocol <textline bbox="124.870,421.387,595.129,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">The goal of XML Protocol </textline>
+</title>
+<enlisting bbox="61.272,119.679,618.214,374.489" unique_id="['1', ' 3', '2']">&#8226; Develop technologies allowing  peers to  &#8226; ...in a distributed environment... 
+&#8226; ...using XML as  encapsulation language. 
+&#8226; Extensible and simple messaging format. 
+&#8226; Layered architecture. <normal_text id="1" bbox="61.272,342.449,611.005,374.489" size="32.04" unique_id="1">&#8226; Develop technologies allowing  peers to  <textline bbox="61.272,342.449,611.005,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Develop technologies allowing  peers to  </textline>
+</normal_text>
+<normal_text id="3" bbox="61.272,119.679,618.214,290.028" size="32.046" unique_id="3">&#8226; ...in a distributed environment... 
+&#8226; ...using XML as  encapsulation language. 
+&#8226; Extensible and simple messaging format. 
+&#8226; Layered architecture. <textline bbox="61.272,257.964,498.403,290.028" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; ...in a distributed environment... </textline>
+<textline bbox="61.272,211.859,618.214,243.899" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; ...using XML as  encapsulation language. </textline>
+<textline bbox="61.272,165.779,615.650,197.819" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Extensible and simple messaging format. </textline>
+<textline bbox="61.272,119.679,360.580,151.719" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Layered architecture. </textline>
+</normal_text>
+<normal_text id="2" bbox="88.272,304.049,301.146,336.089" size="32.04" unique_id="2">communicate&#8230;. <textline bbox="88.272,304.049,301.146,336.089" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">communicate&#8230;. </textline>
+</normal_text>
+</enlisting></page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[228.57000000000002, 421.387, 491.3123333333333, 465.42699999999996]">
+<title id="0" bbox="280.420,421.387,439.404,465.427" size="44.04" unique_id="0">Layering <textline bbox="280.420,421.387,439.404,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Layering </textline>
+</title>
+<enlisting bbox="61.272,173.459,658.049,374.489" unique_id="['1', ' 2', '3']">&#8226; &#8220;XP supports applications layered on top  &#8226; as well as the capability of XP to be layered  <normal_text id="1" bbox="61.272,342.449,620.617,374.489" size="32.04" unique_id="1">&#8226; &#8220;XP supports applications layered on top  <textline bbox="61.272,342.449,620.617,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; &#8220;XP supports applications layered on top  </textline>
+</normal_text>
+<normal_text id="2" bbox="61.272,250.284,658.049,282.348" size="32.064" unique_id="2">&#8226; as well as the capability of XP to be layered  <textline bbox="61.272,250.284,658.049,282.348" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; as well as the capability of XP to be layered  </textline>
+</normal_text>
+<normal_text id="3" bbox="88.272,173.459,542.279,243.899" size="32.04" unique_id="3">on top of (or bound to) a variety of  
+underlying protocols.&#8221; <textline bbox="88.272,211.859,542.279,243.899" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">on top of (or bound to) a variety of  </textline>
+<textline bbox="88.272,173.459,376.472,205.499" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">underlying protocols.&#8221; </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[145.161, 421.387, 574.7711666666667, 465.42699999999996]">
+<title id="0" bbox="61.752,421.387,658.230,465.427" size="44.04" unique_id="0">Application Protocols over XP&#8230;. <textline bbox="61.752,421.387,658.230,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Application Protocols over XP&#8230;. </textline>
+</title>
+<normal_text id="1" bbox="127.630,328.006,166.318,352.006" size="24.0" unique_id="1">P3P <textline bbox="127.630,328.006,166.318,352.006" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">P3P </textline>
+</normal_text>
+<normal_text id="2" bbox="275.020,328.006,331.036,352.006" size="24.0" unique_id="2">CIRC <textline bbox="275.020,328.006,331.036,352.006" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">CIRC </textline>
+</normal_text>
+<normal_text id="3" bbox="556.700,328.006,625.436,352.006" size="24.0" unique_id="3">Z39.50 <textline bbox="556.700,328.006,625.436,352.006" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Z39.50 </textline>
+</normal_text>
+<normal_text id="4" bbox="409.320,313.606,478.728,366.406" size="24.0" unique_id="4">Dienst/ 
+OAI <textline bbox="409.320,342.406,478.728,366.406" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Dienst/ </textline>
+<textline bbox="422.760,313.606,465.312,337.606" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">OAI </textline>
+</normal_text>
+<normal_text id="5" bbox="383.760,198.986,414.384,222.986" size="24.0" unique_id="5">XP <textline bbox="383.760,198.986,414.384,222.986" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">XP </textline>
+</normal_text>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[145.161, 421.387, 574.7711666666667, 465.42699999999996]">
+<enlisting id="0" bbox="65.592,423.709,653.963,463.669" size="39.96" unique_id="0">&#8230;and XP over lower layer protocols <textline bbox="65.592,423.709,653.963,463.669" font="TimesNewRomanPSMT" ncolour="0.796" size="39.960" colourspace="DeviceGray">&#8230;and XP over lower layer protocols </textline>
+</enlisting>
+<title id="1" bbox="286.660,343.006,487.204,367.006" size="24.0" unique_id="1">Application Protocol <textline bbox="286.660,343.006,487.204,367.006" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Application Protocol </textline>
+</title>
+<normal_text id="2" bbox="371.760,253.001,402.397,277.025" size="24.024" unique_id="2">XP <textline bbox="371.760,253.001,402.397,277.025" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">XP </textline>
+</normal_text>
+<normal_text id="3" bbox="363.120,162.986,423.048,186.986" size="24.0" unique_id="3">HTTP <textline bbox="363.120,162.986,423.048,186.986" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">HTTP </textline>
+</normal_text>
+<normal_text id="4" bbox="365.040,66.960,409.056,90.960" size="24.0" unique_id="4">TCP <textline bbox="365.040,66.960,409.056,90.960" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">TCP </textline>
+</normal_text>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[178.3846, 421.387, 541.5647, 465.427]">
+<title id="0" bbox="228.220,421.387,491.755,465.427" size="44.04" unique_id="0">Without HTTP <textline bbox="228.220,421.387,491.755,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Without HTTP </textline>
+</title>
+<normal_text id="1" bbox="286.660,343.006,487.204,367.006" size="24.0" unique_id="1">Application Protocol <textline bbox="286.660,343.006,487.204,367.006" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Application Protocol </textline>
+</normal_text>
+<normal_text id="2" bbox="371.760,228.986,402.384,252.986" size="24.0" unique_id="2">XP <textline bbox="371.760,228.986,402.384,252.986" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">XP </textline>
+</normal_text>
+<normal_text id="3" bbox="365.040,114.956,409.056,138.956" size="24.0" unique_id="3">TCP <textline bbox="365.040,114.956,409.056,138.956" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">TCP </textline>
+</normal_text>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[157.82639999999998, 421.387, 562.0871333333333, 465.427]">
+<title id="0" bbox="116.710,421.387,603.132,465.427" size="44.04" unique_id="0">Over SMTP instead of TCP <textline bbox="116.710,421.387,603.132,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Over SMTP instead of TCP </textline>
+</title>
+<normal_text id="1" bbox="286.660,343.006,487.204,367.006" size="24.0" unique_id="1">Application Protocol <textline bbox="286.660,343.006,487.204,367.006" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Application Protocol </textline>
+</normal_text>
+<normal_text id="2" bbox="371.760,228.986,402.384,252.986" size="24.0" unique_id="2">XP <textline bbox="371.760,228.986,402.384,252.986" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">XP </textline>
+</normal_text>
+<normal_text id="3" bbox="361.680,108.956,424.368,132.956" size="24.0" unique_id="3">SMTP <textline bbox="361.680,108.956,424.368,132.956" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">SMTP </textline>
+</normal_text>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[175.81314285714285, 421.387, 544.1448095238096, 465.427]">
+<title id="0" bbox="220.780,421.387,499.289,465.427" size="44.04" unique_id="0">XP Alternatives <textline bbox="220.780,421.387,499.289,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">XP Alternatives </textline>
+</title>
+<normal_text id="1" bbox="56.712,250.001,87.349,274.025" size="24.024" unique_id="1">XP <textline bbox="56.712,250.001,87.349,274.025" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">XP </textline>
+</normal_text>
+<normal_text id="2" bbox="170.350,250.001,231.659,274.025" size="24.024" unique_id="2">SOAP <textline bbox="170.350,250.001,231.659,274.025" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">SOAP </textline>
+</normal_text>
+<normal_text id="3" bbox="296.380,235.586,357.672,288.406" size="24.0" unique_id="3">XML- 
+RPC <textline bbox="296.380,264.406,357.672,288.406" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">XML- </textline>
+<textline bbox="304.440,235.586,349.728,259.586" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">RPC </textline>
+</normal_text>
+<normal_text id="4" bbox="444.740,256.001,491.443,280.025" size="24.024" unique_id="4">XMI <textline bbox="444.740,256.001,491.443,280.025" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">XMI </textline>
+</normal_text>
+<normal_text id="5" bbox="588.410,241.601,641.791,294.406" size="24.012" unique_id="5">Eb 
+XML <textline bbox="601.730,270.406,628.370,294.406" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Eb </textline>
+<textline bbox="588.410,241.601,641.791,265.625" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">XML </textline>
+</normal_text>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[179.67485714285712, 421.387, 540.2821071428572, 465.427]">
+<title id="0" bbox="191.260,421.387,528.694,465.427" size="44.04" unique_id="0">Components of XP <textline bbox="191.260,421.387,528.694,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Components of XP </textline>
+</title>
+<enlisting id="1" bbox="61.272,204.179,250.298,374.489" size="32.046" unique_id="1">&#8226; Envelope 
+&#8226; Serialization 
+&#8226; RPC 
+&#8226; Binding  <textline bbox="61.272,342.449,209.479,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Envelope </textline>
+<textline bbox="61.272,296.369,250.298,328.409" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Serialization </textline>
+<textline bbox="61.272,250.284,148.873,282.348" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; RPC </textline>
+<textline bbox="61.272,204.179,199.643,236.219" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Binding  </textline>
+</enlisting>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[201.26266666666666, 421.38699999999994, 518.7578611111112, 465.42699999999996]">
+<title id="0" bbox="276.820,421.387,443.423,465.427" size="44.04" unique_id="0">Envelope <textline bbox="276.820,421.387,443.423,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Envelope </textline>
+</title>
+<enlisting bbox="61.272,81.279,636.797,374.489" unique_id="['1', ' 3', ' 4', '2']">&#8226; Outermost syntactical construct within  &#8226; Described via XML Schema. &#8226; Processing Model. <normal_text id="1" bbox="61.272,342.449,591.524,374.489" size="32.04" unique_id="1">&#8226; Outermost syntactical construct within  <textline bbox="61.272,342.449,591.524,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Outermost syntactical construct within  </textline>
+</normal_text>
+<normal_text id="3" bbox="61.272,173.459,460.673,205.499" size="32.04" unique_id="3">&#8226; Described via XML Schema. <textline bbox="61.272,173.459,460.673,205.499" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Described via XML Schema. </textline>
+</normal_text>
+<normal_text id="4" bbox="61.272,81.279,326.746,113.319" size="32.04" unique_id="4">&#8226; Processing Model. <textline bbox="61.272,81.279,326.746,113.319" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Processing Model. </textline>
+</normal_text>
+<normal_text id="2" bbox="88.272,265.644,636.797,336.089" size="32.052" unique_id="2">which all other syntactical elements of the  
+message are enclosed.  <textline bbox="88.272,304.049,636.797,336.089" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">which all other syntactical elements of the  </textline>
+<textline bbox="88.272,265.644,380.471,297.708" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">message are enclosed.  </textline>
+</normal_text>
+</enlisting></page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[201.35013333333333, 421.387, 518.6582888888889, 465.427]">
+<title id="0" bbox="201.700,421.387,518.260,465.427" size="44.04" unique_id="0">Processing Model <textline bbox="201.700,421.387,518.260,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Processing Model </textline>
+</title>
+<enlisting bbox="61.272,88.959,643.107,374.489" unique_id="['1', ' 2', ' 4', ' 5', '3']">&#8226; Defines what it means to properly process  an XP envelope or produce a fault.  
+&#8226; Independent of any extensions carried  &#8226; Applies both to intermediaries as well as  
+ultimate destinations of an XP envelope. &#8226; Extensible. <normal_text id="1" bbox="61.272,342.449,643.107,374.489" size="32.04" unique_id="1">&#8226; Defines what it means to properly process  <textline bbox="61.272,342.449,643.107,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Defines what it means to properly process  </textline>
+</normal_text>
+<normal_text id="2" bbox="61.272,257.964,583.629,336.089" size="32.052" unique_id="2">an XP envelope or produce a fault.  
+&#8226; Independent of any extensions carried  <textline bbox="88.272,304.049,540.420,336.089" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">an XP envelope or produce a fault.  </textline>
+<textline bbox="61.272,257.964,583.629,290.028" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; Independent of any extensions carried  </textline>
+</normal_text>
+<normal_text id="4" bbox="61.272,135.054,617.252,205.499" size="32.052" unique_id="4">&#8226; Applies both to intermediaries as well as  
+ultimate destinations of an XP envelope. <textline bbox="61.272,173.459,617.252,205.499" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Applies both to intermediaries as well as  </textline>
+<textline bbox="88.272,135.054,606.619,167.118" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">ultimate destinations of an XP envelope. </textline>
+</normal_text>
+<normal_text id="5" bbox="61.272,88.959,231.651,120.999" size="32.04" unique_id="5">&#8226; Extensible. <textline bbox="61.272,88.959,231.651,120.999" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Extensible. </textline>
+</normal_text>
+<normal_text id="3" bbox="88.272,219.539,357.024,251.579" size="32.04" unique_id="3">within the envelope.  <textline bbox="88.272,219.539,357.024,251.579" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">within the envelope.  </textline>
+</normal_text>
+</enlisting></page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[209.70465454545453, 421.387, 510.27769090909095, 465.427]">
+<title id="0" bbox="247.300,421.387,472.565,465.427" size="44.04" unique_id="0">Extensibility <textline bbox="247.300,421.387,472.565,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Extensibility </textline>
+</title>
+<enlisting bbox="97.272,49.641,662.316,375.986" unique_id="['1', '    2', '    5', '    7', '   3', '  4', ' 6', '8']">&#8211; Application specific payloads inside the XP envelope. 
+&#8211; Reference to application specific payloads outside the  &#8211; Nested XP envelopes as application specific data within  &#8211; Reference to XP envelopes as application specific data  &#8211; Semantics to indicate to an XP processor which  <normal_text id="1" bbox="97.272,317.426,642.094,375.986" size="24.0" unique_id="1">&#8211; Application specific payloads inside the XP envelope. 
+&#8211; Reference to application specific payloads outside the  <textline bbox="97.272,351.986,637.678,375.986" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">&#8211; Application specific payloads inside the XP envelope. </textline>
+<textline bbox="97.272,317.426,642.094,341.426" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">&#8211; Reference to application specific payloads outside the  </textline>
+</normal_text>
+<normal_text id="2" bbox="97.272,254.061,662.316,278.085" size="24.024" unique_id="2">&#8211; Nested XP envelopes as application specific data within  <textline bbox="97.272,254.061,662.316,278.085" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">&#8211; Nested XP envelopes as application specific data within  </textline>
+</normal_text>
+<normal_text id="5" bbox="97.272,190.676,650.086,214.676" size="24.0" unique_id="5">&#8211; Reference to XP envelopes as application specific data  <textline bbox="97.272,190.676,650.086,214.676" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">&#8211; Reference to XP envelopes as application specific data  </textline>
+</normal_text>
+<normal_text id="7" bbox="97.272,116.841,659.095,144.801" size="27.96" unique_id="7">&#8211; Semantics to indicate to an XP processor which  <textline bbox="97.272,116.841,659.095,144.801" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">&#8211; Semantics to indicate to an XP processor which  </textline>
+</normal_text>
+<normal_text id="3" bbox="119.830,288.626,248.398,312.626" size="24.0" unique_id="3">XP envelope. <textline bbox="119.830,288.626,248.398,312.626" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">XP envelope. </textline>
+</normal_text>
+<normal_text id="4" bbox="119.830,225.236,283.678,249.236" size="24.0" unique_id="4">the XP envelope. <textline bbox="119.830,225.236,283.678,249.236" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">the XP envelope. </textline>
+</normal_text>
+<normal_text id="6" bbox="119.830,157.181,360.030,185.141" size="24.0" unique_id="6">outside the XP envelope. <textline bbox="119.830,157.181,360.030,185.141">outside the XP envelope. <text font="TimesNewRomanPSMT" bbox="119.830,158.036,131.830,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="131.830,158.036,143.830,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">u</text>
+<text font="TimesNewRomanPSMT" bbox="143.830,158.036,150.502,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="150.502,158.036,159.838,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="159.838,158.036,166.510,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="166.606,158.036,178.606,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="178.606,158.036,189.262,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="189.262,158.036,195.262,182.036" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="195.046,158.036,201.718,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="201.718,158.036,213.718,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">h</text>
+<text font="TimesNewRomanPSMT" bbox="213.718,158.036,224.374,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="224.374,158.036,230.374,182.036" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="230.374,158.036,247.702,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">X</text>
+<text font="TimesNewRomanPSMT" bbox="247.606,158.036,260.950,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">P</text>
+<text font="TimesNewRomanPSMT" bbox="260.086,158.036,266.086,182.036" colourspace="DeviceGray" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="266.182,158.036,276.838,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="276.838,158.036,288.838,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="288.838,158.036,300.838,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">v</text>
+<text font="TimesNewRomanPSMT" bbox="300.838,158.036,311.494,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="311.494,158.036,318.166,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="318.238,158.036,330.238,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="330.238,158.036,342.238,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">p</text>
+<text font="TimesNewRomanPSMT" bbox="342.238,158.036,352.894,182.036" colourspace="DeviceGray" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="353.040,157.181,360.030,185.141" colourspace="DeviceGray" ncolour="1" size="27.960">.</text>
+</textline>
+</normal_text>
+<normal_text id="8" bbox="119.830,49.641,548.317,111.201" size="27.96" unique_id="8">extensions are optional and which are  
+mandatory. <textline bbox="119.830,83.241,548.317,111.201" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">extensions are optional and which are  </textline>
+<textline bbox="119.830,49.641,244.671,77.601" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">mandatory. </textline>
+</normal_text>
+</enlisting></page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[227.8138787878788, 421.387, 492.1640757575758, 465.427]">
+<title id="0" bbox="318.360,421.387,401.596,465.427" size="44.04" unique_id="0">RPC <textline bbox="318.360,421.387,401.596,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">RPC </textline>
+</title>
+<enlisting bbox="61.272,102.441,624.429,374.489" unique_id="['1', ' 3', '2']">&#8226; A convention for the content of the  &#8226; RPC is explicitly supported, but arbitrary  
+messaging patterns and scenarios are  
+implicitly supported.  
+&#8211; (e.g one way) <normal_text id="1" bbox="61.272,342.449,544.201,374.489" size="32.04" unique_id="1">&#8226; A convention for the content of the  <textline bbox="61.272,342.449,544.201,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; A convention for the content of the  </textline>
+</normal_text>
+<normal_text id="3" bbox="61.272,102.441,624.429,251.579" size="31.026000000000003" unique_id="3">&#8226; RPC is explicitly supported, but arbitrary  
+messaging patterns and scenarios are  
+implicitly supported.  
+&#8211; (e.g one way) <textline bbox="61.272,219.539,624.429,251.579" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; RPC is explicitly supported, but arbitrary  </textline>
+<textline bbox="88.272,181.139,569.481,213.179" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">messaging patterns and scenarios are  </textline>
+<textline bbox="88.272,142.734,363.253,174.798" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">implicitly supported.  </textline>
+<textline bbox="97.272,102.441,272.743,130.401" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">&#8211; (e.g one way) </textline>
+</normal_text>
+<normal_text id="2" bbox="88.272,265.644,588.064,336.089" size="32.052" unique_id="2">envelope when used for RPC (Remote  
+Procedure Call) applications. <textline bbox="88.272,304.049,588.064,336.089" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">envelope when used for RPC (Remote  </textline>
+<textline bbox="88.272,265.644,461.112,297.708" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">Procedure Call) applications. </textline>
+</normal_text>
+</enlisting></page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[223.7594358974359, 421.387, 496.2163717948718, 465.42699999999996]">
+<title id="0" bbox="201.460,421.387,518.504,465.427" size="44.04" unique_id="0">RPC Conventions <textline bbox="201.460,421.387,518.504,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">RPC Conventions </textline>
+</title>
+<enlisting bbox="61.272,104.319,658.968,374.489" unique_id="['1', '  3', ' 2', '4']">&#8226; Unique specification of the program or  &#8226; Provisions for matching response messages  <normal_text id="1" bbox="61.272,342.449,594.792,374.489" size="32.04" unique_id="1">&#8226; Unique specification of the program or  <textline bbox="61.272,342.449,594.792,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Unique specification of the program or  </textline>
+</normal_text>
+<normal_text id="3" bbox="61.272,219.539,652.913,251.579" size="32.04" unique_id="3">&#8226; Provisions for matching response messages  <textline bbox="61.272,219.539,652.913,251.579" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Provisions for matching response messages  </textline>
+</normal_text>
+<normal_text id="2" bbox="88.272,265.644,658.968,336.089" size="32.052" unique_id="2">object and procedure or method to be called  
+based on URI  <textline bbox="88.272,304.049,658.968,336.089" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">object and procedure or method to be called  </textline>
+<textline bbox="88.272,265.644,272.416,297.708" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">based on URI  </textline>
+</normal_text>
+<normal_text id="4" bbox="88.272,104.319,649.328,213.179" size="32.048" unique_id="4">to request messages for cases in which  
+matching is not provided by the underlying  
+transport protocol <textline bbox="88.272,181.139,590.980,213.179" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">to request messages for cases in which  </textline>
+<textline bbox="88.272,142.734,649.328,174.798" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">matching is not provided by the underlying  </textline>
+<textline bbox="88.272,104.319,316.877,136.359" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">transport protocol </textline>
+</normal_text>
+</enlisting></page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[205.29551648351648, 421.38700000000006, 514.6668901098901, 465.42699999999996]">
+<title id="0" bbox="94.512,421.387,625.370,465.427" size="44.04" unique_id="0">RPC Conventions (continued) <textline bbox="94.512,421.387,625.370,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">RPC Conventions (continued) </textline>
+</title>
+<enlisting bbox="61.272,181.139,664.447,374.489" unique_id="['1', '  3', ' 2', '4']">&#8226; The ability to specify the parameters to a  &#8226; Provisions for specifying errors in a reply  <normal_text id="1" bbox="61.272,342.449,619.784,374.489" size="32.04" unique_id="1">&#8226; The ability to specify the parameters to a  <textline bbox="61.272,342.449,619.784,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; The ability to specify the parameters to a  </textline>
+</normal_text>
+<normal_text id="3" bbox="61.272,219.539,629.620,251.579" size="32.04" unique_id="3">&#8226; Provisions for specifying errors in a reply  <textline bbox="61.272,219.539,629.620,251.579" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Provisions for specifying errors in a reply  </textline>
+</normal_text>
+<normal_text id="2" bbox="88.272,265.644,664.447,336.089" size="32.052" unique_id="2">call in a request message and the results of a  
+call in a reply messages <textline bbox="88.272,304.049,664.447,336.089" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">call in a request message and the results of a  </textline>
+<textline bbox="88.272,265.644,392.559,297.708" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">call in a reply messages </textline>
+</normal_text>
+<normal_text id="4" bbox="88.272,181.139,196.984,213.179" size="32.04" unique_id="4">message <textline bbox="88.272,181.139,196.984,213.179" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">message </textline>
+</normal_text>
+</enlisting></page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[203.18411428571426, 421.387, 516.7729047619048, 465.42699999999996]">
+<title id="0" bbox="189.460,421.387,530.462,465.427" size="44.04" unique_id="0">Messaging patterns <textline bbox="189.460,421.387,530.462,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Messaging patterns </textline>
+</title>
+<enlisting id="1" bbox="61.272,119.679,630.677,374.489" size="32.044799999999995" unique_id="['1', '2']">&#8226; RPC 
+&#8226; One way 
+&#8226; Publish-subscribe 
+&#8226; multicast 
+&#8226; permanently and intermittently connected  <textline bbox="61.272,342.449,148.828,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; RPC </textline>
+<textline bbox="61.272,296.369,202.911,328.409" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; One way </textline>
+<textline bbox="61.272,250.284,316.326,282.348" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; Publish-subscribe </textline>
+<textline bbox="61.272,204.179,205.859,236.219" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; multicast </textline>
+<textline bbox="61.272,158.099,630.677,190.139" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; permanently and intermittently connected  </textline>
+<normal_text id="2" bbox="88.272,119.679,207.685,151.719" size="32.04" unique_id="2">scenarios <textline bbox="88.272,119.679,207.685,151.719" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">scenarios </textline>
+</normal_text>
+</enlisting>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[208.8636, 421.387, 511.0815416666666, 465.42699999999996]">
+<title id="0" bbox="248.620,421.387,471.242,465.427" size="44.04" unique_id="0">Serialization <textline bbox="248.620,421.387,471.242,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Serialization </textline>
+</title>
+<enlisting id="1" bbox="61.272,151.421,623.5,374.489" size="30.412800000000004" unique_id="['1', '2']">&#8226; mechanism for serializing data based on  
+data models not directly representable by  
+XML Schema types.  
+&#8211; object graphs and directed labeled graphs 
+&#8211; subordinate relationships known from  <textline bbox="61.272,342.449,611.101,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; mechanism for serializing data based on  </textline>
+<textline bbox="88.272,304.049,623.500,336.089" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">data models not directly representable by  </textline>
+<textline bbox="88.272,265.644,359.341,297.708" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">XML Schema types.  </textline>
+<textline bbox="97.272,225.341,583.267,253.301" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">&#8211; object graphs and directed labeled graphs </textline>
+<textline bbox="97.272,185.021,551.560,212.981" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">&#8211; subordinate relationships known from  </textline>
+<normal_text id="2" bbox="119.830,151.421,421.686,179.381" size="27.96" unique_id="2">attachments and manifests. <textline bbox="119.830,151.421,421.686,179.381" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">attachments and manifests. </textline>
+</normal_text>
+</enlisting>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[211.25376470588233, 421.38700000000006, 508.6720661764706, 465.427]">
+<title id="0" bbox="229.180,421.387,490.601,465.427" size="44.04" unique_id="0">HTTP Binding <textline bbox="229.180,421.387,490.601,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">HTTP Binding </textline>
+</title>
+<normal_text id="1" bbox="63.960,155.291,639.311,351.271" size="27.964000000000002" unique_id="1">&#8220;A mechanism for using HTTP transport in the  
+context of an XML Protocol. This does not mean  
+that HTTP  is the only transport mechanism ..., nor  
+that support for HTTP transport is mandatory. &#8230;  
+merely addresses the fact that HTTP transport is  
+expected  to be widely used, &#8230;..&#8221; <textline bbox="63.960,323.311,595.899,351.271" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">&#8220;A mechanism for using HTTP transport in the  </textline>
+<textline bbox="63.960,289.711,618.351,317.671" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">context of an XML Protocol. This does not mean  </textline>
+<textline bbox="63.960,256.105,639.311,284.089" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="DeviceGray">that HTTP  is the only transport mechanism ..., nor  </textline>
+<textline bbox="63.960,222.491,618.351,250.451" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">that support for HTTP transport is mandatory. &#8230;  </textline>
+<textline bbox="63.960,188.891,609.599,216.851" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">merely addresses the fact that HTTP transport is  </textline>
+<textline bbox="63.960,155.291,442.007,183.251" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">expected  to be widely used, &#8230;..&#8221; </textline>
+</normal_text>
+</page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[213.64556862745096, 421.387, 506.2812810457516, 465.427]">
+<title id="0" bbox="232.780,421.387,487.155,465.427" size="44.04" unique_id="0">Intermediaries <textline bbox="232.780,421.387,487.155,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Intermediaries </textline>
+</title>
+<enlisting id="1" bbox="61.272,204.179,404.031,374.489" size="32.046" unique_id="1">&#8226; proxies,  
+&#8226; caches,  
+&#8226; store-and-forward hops,  
+&#8226; gateways <textline bbox="61.272,342.449,198.778,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; proxies,  </textline>
+<textline bbox="61.272,296.369,189.903,328.409" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; caches,  </textline>
+<textline bbox="61.272,250.284,404.031,282.348" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; store-and-forward hops,  </textline>
+<textline bbox="61.272,204.179,215.693,236.219" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; gateways </textline>
+</enlisting>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[215.45761403508772, 421.387, 504.4692514619883, 465.427]">
+<title id="0" bbox="230.860,421.387,489.067,465.427" size="44.04" unique_id="0">Not Supported <textline bbox="230.860,421.387,489.067,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Not Supported </textline>
+</title>
+<enlisting id="1" bbox="61.272,158.099,365.001,374.489" size="32.044799999999995" unique_id="1">&#8226; Binary 
+&#8226; compression 
+&#8226; transport 
+&#8226; application semantics 
+&#8226; metadata <textline bbox="61.272,342.449,175.485,374.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Binary </textline>
+<textline bbox="61.272,296.369,250.491,328.409" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; compression </textline>
+<textline bbox="61.272,250.284,202.356,282.348" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; transport </textline>
+<textline bbox="61.272,204.179,365.001,236.219" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; application semantics </textline>
+<textline bbox="61.272,158.099,204.129,190.139" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; metadata </textline>
+</enlisting>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[200.03905263157893, 420.6424, 516.0588263157895, 466.43440000000004]">
+<title id="0" bbox="61.272,413.941,620.365,475.501" size="27.96" unique_id="0">XP should provide facilities (e.g. optional header  
+elements) to encourage a common approach to: <textline bbox="61.272,447.541,620.365,475.501">XP should provide facilities (e.g. optional header  <text font="TimesNewRomanPSMT" bbox="61.272,447.541,81.459,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">X</text>
+<text font="TimesNewRomanPSMT" bbox="81.459,447.541,97.005,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">P</text>
+<text font="TimesNewRomanPSMT" bbox="95.942,447.541,102.932,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960"> </text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="103.150,447.541,114.026,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">s</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="114.026,447.541,129.572,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">h</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="129.628,447.541,143.608,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">o</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="143.608,447.541,159.154,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">u</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="159.238,447.541,167.011,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">l</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="167.011,447.541,180.991,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">d</text>
+<text font="TimesNewRomanPS-BoldItalicMT" bbox="181.047,447.541,188.037,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="188.020,447.541,202.000,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">p</text>
+<text font="TimesNewRomanPSMT" bbox="202.000,447.541,211.311,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="211.395,447.541,225.375,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="225.375,447.541,239.355,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">v</text>
+<text font="TimesNewRomanPSMT" bbox="239.438,447.541,247.211,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="247.211,447.541,261.191,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="261.247,447.541,273.661,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="273.661,447.541,280.651,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="280.456,447.541,289.766,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">f</text>
+<text font="TimesNewRomanPSMT" bbox="289.766,447.541,302.181,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="302.181,447.541,314.595,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">c</text>
+<text font="TimesNewRomanPSMT" bbox="314.595,447.541,322.368,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="322.368,447.541,330.141,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="330.141,447.541,337.914,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="337.914,447.541,345.686,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="345.686,447.541,353.459,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="353.459,447.541,365.874,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="365.874,447.541,376.750,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="376.750,447.541,383.740,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="383.544,447.541,392.855,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">(</text>
+<text font="TimesNewRomanPSMT" bbox="392.855,447.541,405.269,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="405.269,447.541,412.259,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="412.259,447.541,426.239,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">g</text>
+<text font="TimesNewRomanPSMT" bbox="426.239,447.541,433.229,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="433.229,447.541,440.219,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="440.275,447.541,454.255,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="454.255,447.541,468.235,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">p</text>
+<text font="TimesNewRomanPSMT" bbox="468.319,447.541,476.092,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="476.092,447.541,483.865,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="483.865,447.541,497.845,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="497.929,447.541,511.909,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="511.909,447.541,524.323,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="524.323,447.541,532.096,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="532.096,447.541,539.086,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="538.862,447.541,552.842,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">h</text>
+<text font="TimesNewRomanPSMT" bbox="552.842,447.541,565.256,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="565.256,447.541,577.671,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="577.671,447.541,591.651,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="591.651,447.541,604.065,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="604.065,447.541,613.375,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="613.375,447.541,620.365,475.501" colourspace="DeviceGray" ncolour="0.796" size="27.960"> </text>
+</textline>
+<textline bbox="61.272,413.941,590.667,441.901" font="TimesNewRomanPSMT" ncolour="0.796" size="27.960" colourspace="DeviceGray">elements) to encourage a common approach to: </textline>
+</title>
+<enlisting id="1" bbox="67.272,146.094,317.395,362.489" size="32.044799999999995" unique_id="['1', '2']">&#8226; authentication,  
+&#8226; encryption, 
+&#8226; 
+&#8226; sessions,  
+&#8226; transactions <textline bbox="67.272,330.449,291.927,362.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; authentication,  </textline>
+<textline bbox="67.272,284.369,239.509,316.409" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; encryption, </textline>
+<textline bbox="67.272,238.259,78.486,270.299" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="67.272,192.179,223.485,224.219" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; sessions,  </textline>
+<textline bbox="67.272,146.094,247.506,178.158" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; transactions </textline>
+<normal_text id="2" bbox="102.310,238.259,317.395,270.299" size="32.04" unique_id="2">reliable delivery, <textline bbox="102.310,238.259,317.395,270.299" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">reliable delivery, </textline>
+</normal_text>
+</enlisting>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[186.82314285714287, 420.7133142857143, 523.286938095238, 466.3384571428571]">
+<title id="0" bbox="61.272,421.387,591.954,465.427" size="44.04" unique_id="0">Caution: Fictitious Example <textline bbox="61.272,421.387,591.954,465.427" font="TimesNewRomanPS-BoldMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Caution: Fictitious Example </textline>
+</title>
+<normal_text id="1" bbox="61.224,386.731,289.299,406.771" size="20.04" unique_id="1">OST /StockQuote HTTP/1.1 <textline bbox="61.224,386.731,289.299,406.771" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">OST /StockQuote HTTP/1.1 </textline>
+</normal_text>
+<normal_text id="2" bbox="116.180,290.701,436.406,382.790" size="20.046" unique_id="2">Host: www.stockquoteserver.com 
+Content-Type: text/xml; charset="utf-8" 
+Content-Length: nnnn 
+XPAction: "Some-URI" <textline bbox="116.180,362.726,385.619,382.790" font="TimesNewRomanPSMT" ncolour="1" size="20.064" colourspace="DeviceGray">Host: www.stockquoteserver.com </textline>
+<textline bbox="116.180,338.701,436.406,358.741" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Content-Type: text/xml; charset="utf-8" </textline>
+<textline bbox="116.180,314.701,293.634,334.741" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Content-Length: nnnn </textline>
+<textline bbox="116.180,290.701,307.935,310.741" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">XPAction: "Some-URI" </textline>
+</normal_text>
+<normal_text id="3" bbox="67.224,238.001,264.237,262.025" size="24.024" unique_id="3">&lt;XP-ENV:Envelope <textline bbox="67.224,238.001,264.237,262.025" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">&lt;XP-ENV:Envelope </textline>
+</normal_text>
+<normal_text id="4" bbox="115.220,209.186,287.036,233.186" size="24.0" unique_id="4">&lt;XP-ENV:Body&gt; <textline bbox="115.220,209.186,287.036,233.186" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">&lt;XP-ENV:Body&gt; </textline>
+</normal_text>
+<normal_text id="5" bbox="145.220,180.386,604.492,204.386" size="24.0" unique_id="5">&lt;m:GetLastTradePrice xmlns:m="Some-URI"&gt; <textline bbox="145.220,180.386,604.492,204.386" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">&lt;m:GetLastTradePrice xmlns:m="Some-URI"&gt; </textline>
+</normal_text>
+<normal_text id="6" bbox="193.250,151.586,433.874,175.586" size="24.0" unique_id="6">&lt;symbol&gt;DIS&lt;/symbol&gt; <textline bbox="193.250,151.586,433.874,175.586" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">&lt;symbol&gt;DIS&lt;/symbol&gt; </textline>
+</normal_text>
+<normal_text id="7" bbox="139.220,122.781,378.619,146.805" size="24.024" unique_id="7">&lt;/m:GetLastTradePrice&gt; <textline bbox="139.220,122.781,378.619,146.805" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">&lt;/m:GetLastTradePrice&gt; </textline>
+</normal_text>
+<normal_text id="8" bbox="115.220,93.960,293.756,117.960" size="24.0" unique_id="8">&lt;/XP-ENV:Body&gt; <textline bbox="115.220,93.960,293.756,117.960" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">&lt;/XP-ENV:Body&gt; </textline>
+</normal_text>
+<normal_text id="9" bbox="61.224,65.160,278.468,89.160" size="24.0" unique_id="9">&lt;/XP-ENV:Envelope&gt; <textline bbox="61.224,65.160,278.468,89.160" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">&lt;/XP-ENV:Envelope&gt; </textline>
+</normal_text>
+</page>
+<page id="23" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[195.22285714285715, 420.7745584415585, 515.7883982683983, 466.2555974025974]">
+<title id="0" bbox="279.220,421.387,440.803,465.427" size="44.04" unique_id="0">Schedule <textline bbox="279.220,421.387,440.803,465.427" font="TimesNewRomanPSMT" ncolour="0.796" size="44.040" colourspace="DeviceGray">Schedule </textline>
+</title>
+<enlisting id="1" bbox="61.272,152.381,585.334,375.251" size="27.964800000000004" unique_id="['1', '2']">&#8226; September 2000: Working Group formed  
+&#8226; October 2000: requirements Working Draft  
+&#8226; January 2001: Initial Working Draft for XP 
+&#8226; April 2001: Candidate Recommendation 
+&#8226; August 2001: Proposed Recommendation  <textline bbox="61.272,347.291,554.021,375.251">&#8226; September 2000: Working Group formed  <text font="TimesNewRomanPSMT" bbox="61.272,347.291,71.058,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">&#8226;</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="88.272,347.291,102.252,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">S</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="102.252,347.291,114.666,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="114.666,347.291,128.646,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="128.646,347.291,136.419,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="136.475,347.291,148.889,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="148.889,347.291,169.076,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="169.076,347.291,183.056,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">b</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="183.056,347.291,195.471,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="195.471,347.291,206.347,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="206.347,347.291,213.337,375.251" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="213.337,347.291,227.317,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">2</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="227.317,347.291,241.297,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="241.297,347.291,255.277,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="255.361,347.291,269.341,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="269.500,347.291,277.273,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">:</text>
+<text font="TimesNewRomanPSMT" bbox="277.273,347.291,284.263,375.251" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="283.536,347.291,309.930,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">W</text>
+<text font="TimesNewRomanPSMT" bbox="307.665,347.291,321.645,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="321.645,347.291,330.956,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="331.040,347.291,345.020,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">k</text>
+<text font="TimesNewRomanPSMT" bbox="345.020,347.291,352.793,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="352.849,347.291,366.829,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="366.829,347.291,380.809,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">g</text>
+<text font="TimesNewRomanPSMT" bbox="380.893,347.291,387.883,375.251" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="387.743,347.291,407.930,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">G</text>
+<text font="TimesNewRomanPSMT" bbox="407.930,347.291,417.241,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="417.241,347.291,431.221,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="431.221,347.291,445.201,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">u</text>
+<text font="TimesNewRomanPSMT" bbox="445.312,347.291,459.292,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPSMT" bbox="459.292,347.291,466.282,375.251" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="466.282,347.291,475.593,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">f</text>
+<text font="TimesNewRomanPSMT" bbox="475.593,347.291,489.573,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="489.685,347.291,498.996,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="498.996,347.291,520.749,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="520.637,347.291,533.051,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="533.051,347.291,547.031,375.251" colourspace="DeviceGray" ncolour="1" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="547.031,347.291,554.021,375.251" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+</textline>
+<textline bbox="61.272,306.971,580.270,334.931">&#8226; October 2000: requirements Working Draft  <text font="TimesNewRomanPSMT" bbox="61.272,306.971,71.058,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">&#8226;</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="88.272,306.971,108.459,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">O</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="108.459,306.971,120.873,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">c</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="120.873,306.971,128.646,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="128.646,306.971,142.626,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="142.626,306.971,156.606,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">b</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="156.606,306.971,169.020,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="169.020,306.971,179.897,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="179.897,306.971,186.887,334.931" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="186.887,306.971,200.867,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">2</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="200.923,306.971,214.903,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="214.903,306.971,228.883,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="228.967,306.971,242.947,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="243.100,306.971,250.873,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">:</text>
+<text font="TimesNewRomanPSMT" bbox="250.873,306.971,257.863,334.931" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="257.611,306.971,266.922,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="266.922,306.971,279.336,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="279.336,306.971,293.316,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">q</text>
+<text font="TimesNewRomanPSMT" bbox="293.316,306.971,307.296,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">u</text>
+<text font="TimesNewRomanPSMT" bbox="307.380,306.971,315.153,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="315.153,306.971,324.464,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="324.464,306.971,336.878,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="336.878,306.971,358.631,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="358.491,306.971,370.905,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="370.905,306.971,384.885,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="384.885,306.971,392.658,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="392.658,306.971,403.534,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="403.534,306.971,410.524,334.931" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="410.077,306.971,436.471,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">W</text>
+<text font="TimesNewRomanPSMT" bbox="434.207,306.971,448.187,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="448.187,306.971,457.497,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="457.581,306.971,471.561,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">k</text>
+<text font="TimesNewRomanPSMT" bbox="471.561,306.971,479.334,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="479.390,306.971,493.370,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="493.370,306.971,507.350,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">g</text>
+<text font="TimesNewRomanPSMT" bbox="507.434,306.971,514.424,334.931" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="514.284,306.971,534.471,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">D</text>
+<text font="TimesNewRomanPSMT" bbox="534.471,306.971,543.782,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="543.782,306.971,556.196,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="556.196,306.971,565.507,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">f</text>
+<text font="TimesNewRomanPSMT" bbox="565.507,306.971,573.280,334.931" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="573.280,306.971,580.270,334.931" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+</textline>
+<textline bbox="61.272,266.645,585.334,294.629">&#8226; January 2001: Initial Working Draft for XP <text font="TimesNewRomanPSMT" bbox="61.272,266.645,71.066,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">&#8226;</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="88.272,266.645,100.697,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">J</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="100.697,266.645,114.689,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="114.689,266.645,128.681,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">n</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="128.681,266.645,142.673,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">u</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="142.673,266.645,156.665,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">a</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="156.777,266.645,167.663,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">r</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="167.663,266.645,180.088,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">y</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="180.088,266.645,187.084,294.629" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="186.888,266.645,200.880,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">2</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="200.880,266.645,214.872,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="214.928,266.645,228.920,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="228.920,266.645,242.912,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">1</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="242.968,266.645,252.286,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">:</text>
+<text font="TimesNewRomanPSMT" bbox="266.260,266.645,275.579,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">I</text>
+<text font="TimesNewRomanPSMT" bbox="275.579,266.645,289.571,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">n</text>
+<text font="TimesNewRomanPSMT" bbox="289.627,266.645,297.406,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">i</text>
+<text font="TimesNewRomanPSMT" bbox="297.406,266.645,305.186,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">t</text>
+<text font="TimesNewRomanPSMT" bbox="305.186,266.645,312.965,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">i</text>
+<text font="TimesNewRomanPSMT" bbox="312.965,266.645,325.390,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">a</text>
+<text font="TimesNewRomanPSMT" bbox="325.390,266.645,333.170,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">l</text>
+<text font="TimesNewRomanPSMT" bbox="333.170,266.645,340.166,294.629" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="339.550,266.645,365.967,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">W</text>
+<text font="TimesNewRomanPSMT" bbox="363.672,266.645,377.664,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">o</text>
+<text font="TimesNewRomanPSMT" bbox="377.664,266.645,386.983,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">r</text>
+<text font="TimesNewRomanPSMT" bbox="387.039,266.645,401.031,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">k</text>
+<text font="TimesNewRomanPSMT" bbox="401.031,266.645,408.810,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">i</text>
+<text font="TimesNewRomanPSMT" bbox="408.810,266.645,422.802,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">n</text>
+<text font="TimesNewRomanPSMT" bbox="422.886,266.645,436.878,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">g</text>
+<text font="TimesNewRomanPSMT" bbox="436.878,266.645,443.874,294.629" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="443.763,266.645,463.967,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">D</text>
+<text font="TimesNewRomanPSMT" bbox="463.967,266.645,473.286,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">r</text>
+<text font="TimesNewRomanPSMT" bbox="473.286,266.645,485.711,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">a</text>
+<text font="TimesNewRomanPSMT" bbox="485.711,266.645,495.029,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">f</text>
+<text font="TimesNewRomanPSMT" bbox="495.029,266.645,502.809,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">t</text>
+<text font="TimesNewRomanPSMT" bbox="502.809,266.645,509.805,294.629" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="509.805,266.645,519.123,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">f</text>
+<text font="TimesNewRomanPSMT" bbox="519.207,266.645,533.199,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">o</text>
+<text font="TimesNewRomanPSMT" bbox="533.199,266.645,542.518,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">r</text>
+<text font="TimesNewRomanPSMT" bbox="542.574,266.645,549.570,294.629" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="549.570,266.645,569.774,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">X</text>
+<text font="TimesNewRomanPSMT" bbox="569.774,266.645,585.334,294.629" colourspace="DeviceGray" ncolour="1" size="27.984">P</text>
+</textline>
+<textline bbox="61.272,226.301,540.673,254.261">&#8226; April 2001: Candidate Recommendation <text font="TimesNewRomanPSMT" bbox="61.272,226.301,71.058,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">&#8226;</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="88.272,226.301,105.356,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">A</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="105.356,226.301,119.336,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="119.336,226.301,130.212,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="130.212,226.301,137.985,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="138.041,226.301,145.814,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="145.814,226.301,152.804,254.261" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="152.692,226.301,166.672,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">2</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="166.672,226.301,180.652,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="180.736,226.301,194.716,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="194.716,226.301,208.696,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">1</text>
+<text font="TimesNewRomanPSMT" bbox="208.900,226.301,216.673,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">:</text>
+<text font="TimesNewRomanPSMT" bbox="216.673,226.301,223.663,254.261" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="223.551,226.301,242.200,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">C</text>
+<text font="TimesNewRomanPSMT" bbox="242.200,226.301,254.615,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="254.503,226.301,268.483,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="268.483,226.301,282.463,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="282.547,226.301,290.320,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="290.320,226.301,304.300,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="304.355,226.301,316.770,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="316.770,226.301,324.543,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="324.543,226.301,336.957,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="336.957,226.301,343.947,254.261" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="343.723,226.301,362.372,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">R</text>
+<text font="TimesNewRomanPSMT" bbox="362.372,226.301,374.787,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="374.675,226.301,387.089,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">c</text>
+<text font="TimesNewRomanPSMT" bbox="387.089,226.301,401.069,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="401.069,226.301,422.822,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="422.682,226.301,444.435,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="444.295,226.301,456.709,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="456.709,226.301,470.689,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="470.689,226.301,484.669,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="484.669,226.301,497.084,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="497.084,226.301,504.857,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="504.857,226.301,512.629,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="512.629,226.301,526.609,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="526.693,226.301,540.673,254.261" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+</textline>
+<textline bbox="61.272,185.981,558.940,213.941">&#8226; August 2001: Proposed Recommendation  <text font="TimesNewRomanPSMT" bbox="61.272,185.981,71.058,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">&#8226;</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="88.272,185.981,105.356,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">A</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="105.356,185.981,119.336,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">u</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="119.336,185.981,133.316,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">g</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="133.316,185.981,147.296,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">u</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="147.407,185.981,158.284,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">s</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="158.284,185.981,166.057,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="166.057,185.981,173.047,213.941" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="173.047,185.981,187.027,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">2</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="187.027,185.981,201.007,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="201.007,185.981,214.987,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="215.071,185.981,229.051,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">1</text>
+<text font="TimesNewRomanPSMT" bbox="229.180,185.981,236.953,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">:</text>
+<text font="TimesNewRomanPSMT" bbox="236.953,185.981,243.943,213.941" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="243.831,185.981,259.377,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">P</text>
+<text font="TimesNewRomanPSMT" bbox="259.377,185.981,268.687,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="268.771,185.981,282.751,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="282.751,185.981,296.731,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPSMT" bbox="296.815,185.981,310.795,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="310.795,185.981,321.672,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="321.756,185.981,334.170,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="334.170,185.981,348.150,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="348.150,185.981,355.140,213.941" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="355.000,185.981,373.649,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">R</text>
+<text font="TimesNewRomanPSMT" bbox="373.649,185.981,386.064,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="385.952,185.981,398.366,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">c</text>
+<text font="TimesNewRomanPSMT" bbox="398.366,185.981,412.346,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="412.346,185.981,434.099,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="433.959,185.981,455.712,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="455.572,185.981,467.986,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="467.986,185.981,481.966,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="481.966,185.981,495.946,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="495.946,185.981,508.361,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="508.361,185.981,516.133,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="516.133,185.981,523.906,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="523.906,185.981,537.886,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="537.970,185.981,551.950,213.941" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="551.950,185.981,558.940,213.941" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+</textline>
+<normal_text id="2" bbox="88.272,152.381,480.961,180.341" size="27.96" unique_id="2">September 2001: Recommendation <textline bbox="88.272,152.381,480.961,180.341">September 2001: Recommendation <text font="TimesNewRomanPS-ItalicMT" bbox="88.272,152.381,102.252,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">S</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="102.252,152.381,114.666,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="114.666,152.381,128.646,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="128.646,152.381,136.419,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="136.475,152.381,148.889,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="148.889,152.381,169.076,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="169.076,152.381,183.056,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">b</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="183.056,152.381,195.471,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="195.471,152.381,206.347,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="206.347,152.381,213.337,180.341" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="213.337,152.381,227.317,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">2</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="227.317,152.381,241.297,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="241.297,152.381,255.277,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="255.361,152.381,269.341,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">1</text>
+<text font="TimesNewRomanPSMT" bbox="269.500,152.381,277.273,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">:</text>
+<text font="TimesNewRomanPSMT" bbox="277.273,152.381,284.263,180.341" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="284.011,152.381,302.661,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">R</text>
+<text font="TimesNewRomanPSMT" bbox="302.661,152.381,315.075,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="314.963,152.381,327.377,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">c</text>
+<text font="TimesNewRomanPSMT" bbox="327.377,152.381,341.357,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="341.357,152.381,363.110,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="362.970,152.381,384.723,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="384.583,152.381,396.998,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="396.998,152.381,410.978,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="410.978,152.381,424.958,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="424.958,152.381,437.372,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="437.372,152.381,445.145,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="445.145,152.381,452.918,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="452.918,152.381,466.898,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="466.981,152.381,480.961,180.341" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+</textline>
+</normal_text>
+</enlisting>
+</page>
+</pages>
