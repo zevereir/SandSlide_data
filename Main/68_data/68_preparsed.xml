@@ -1,0 +1,1549 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="242.520,375.103,622.528,415.087" size="39.984">Obtaining MISR Data <textline bbox="242.520,375.103,622.528,415.087" font="TimesNewRomanPS-BoldMT" ncolour="0" size="39.984" colourspace="DeviceGray">Obtaining MISR Data </textline>
+</textbox>
+<textbox id="1" bbox="339.290,266.988,703.050,294.948" size="27.96">Nancy Ritchey                       <textline bbox="339.290,266.988,703.050,294.948" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Nancy Ritchey                       </textline>
+</textbox>
+<textbox id="2" bbox="202.700,233.383,668.382,261.367" size="27.984">Atmospheric Sciences Data Center <textline bbox="202.700,233.383,668.382,261.367" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Atmospheric Sciences Data Center </textline>
+</textbox>
+<textbox id="3" bbox="304.850,166.158,566.416,194.118" size="27.96">September 19, 2005 <textline bbox="304.850,166.158,566.416,194.118" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">September 19, 2005 </textline>
+</textbox>
+<figure name="Image6" bbox="43.200,119.760,194.040,335.760" src="Image6.107x153.bmp" width="150" height="216">
+</figure>
+<figure name="Image10" bbox="606.000,21.000,696.000,102.000" src="Image10.156x136.bmp" width="90" height="81">
+</figure>
+<figure name="Image12" bbox="24.000,397.440,219.720,510.000" src="Image12.jpg" width="195" height="112">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="297.580,447.662,422.477,491.702" size="44.04">Topics <textline bbox="297.580,447.662,422.477,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Topics </textline>
+</textbox>
+<textbox id="1" bbox="139.220,303.902,470.023,420.452" size="32.04">&#8226; Obtaining information 
+&#8226; MISR Terminology 
+&#8226; Ordering data <textline bbox="139.220,388.412,470.023,420.452" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Obtaining information </textline>
+<textline bbox="139.220,346.142,426.833,378.182" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; MISR Terminology </textline>
+<textline bbox="139.220,303.902,361.568,335.942" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Ordering data </textline>
+</textbox>
+<textbox id="2" bbox="175.220,192.898,560.703,294.798" size="27.959999999999997">&#8211; Subsetting/Reformatting data 
+&#8211; Data Pool 
+&#8211; Beta MISR Order Tool <textline bbox="175.220,266.838,560.703,294.798" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Subsetting/Reformatting data </textline>
+<textline bbox="175.220,229.858,320.722,257.818" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Data Pool </textline>
+<textline bbox="175.220,192.898,471.176,220.914">&#8211; Beta MISR Order Tool <text font="ArialMT" bbox="175.220,192.898,190.766,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">&#8211;</text>
+<text font="Arial-ItalicMT" bbox="197.810,192.954,216.459,220.914" colourspace="DeviceGray" ncolour="0" size="27.960">B</text>
+<text font="Arial-ItalicMT" bbox="216.459,192.954,232.005,220.914" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-ItalicMT" bbox="232.005,192.954,239.778,220.914" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-ItalicMT" bbox="239.778,192.954,255.324,220.914" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="ArialMT" bbox="263.210,192.898,286.501,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">M</text>
+<text font="ArialMT" bbox="286.501,192.898,294.274,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">I</text>
+<text font="ArialMT" bbox="294.274,192.898,312.923,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">S</text>
+<text font="ArialMT" bbox="312.923,192.898,333.110,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">R</text>
+<text font="ArialMT" bbox="333.110,192.898,340.883,220.858" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="ArialMT" bbox="340.939,192.898,362.692,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">O</text>
+<text font="ArialMT" bbox="362.692,192.898,372.002,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="ArialMT" bbox="372.002,192.898,387.548,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="ArialMT" bbox="387.548,192.898,403.094,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="ArialMT" bbox="403.178,192.898,412.488,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="ArialMT" bbox="412.488,192.898,420.261,220.858" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="ArialMT" bbox="419.870,192.898,436.953,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">T</text>
+<text font="ArialMT" bbox="433.794,192.898,449.340,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="ArialMT" bbox="449.340,192.898,464.885,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="ArialMT" bbox="464.969,192.898,471.176,220.858" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="139.220,76.712,349.884,182.802" size="29.320000000000004">&#8226; Imagery 
+&#8211; Level 3  
+&#8211; Browse Tool <textline bbox="139.220,150.762,281.724,182.802" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Imagery </textline>
+<textline bbox="175.220,113.668,295.978,141.628" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Level 3  </textline>
+<textline bbox="175.220,76.712,349.884,104.672" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Browse Tool </textline>
+</textbox>
+<figure name="Image6" bbox="31.320,412.200,111.600,527.040" src="Image6.0.107x153.bmp" width="80" height="114">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="187.220,369.980,661.160,492.410" size="36.008">ATMOSPHERIC                      
+SCIENCES                      
+DATA CENTER <textline bbox="187.220,456.410,661.160,492.410" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="36.000" colourspace="DeviceGray">ATMOSPHERIC                      </textline>
+<textline bbox="187.220,413.205,581.863,449.229" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="36.024" colourspace="DeviceGray">SCIENCES                      </textline>
+<textline bbox="187.220,369.980,438.752,405.980" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="36.000" colourspace="DeviceGray">DATA CENTER </textline>
+</textbox>
+<textbox id="1" bbox="129.720,209.458,616.393,249.418" size="39.96">http://eosweb.larc.nasa.gov <textline bbox="129.720,209.458,616.393,249.418" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">http://eosweb.larc.nasa.gov </textline>
+</textbox>
+<textbox id="2" bbox="129.720,137.453,472.543,177.437" size="39.984">larc@eos.nasa.gov <textline bbox="129.720,137.453,472.543,177.437" font="ArialMT" ncolour="0" size="39.984" colourspace="DeviceGray">larc@eos.nasa.gov </textline>
+</textbox>
+<figure name="Image6" bbox="13.320,311.040,164.160,527.040" src="Image6.1.107x153.bmp" width="150" height="215">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="625.320,335.110,717.360,387.959" size="24.012">MISR   
+Imagery <textline bbox="625.320,363.935,698.593,387.959" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">MISR   </textline>
+<textline bbox="625.320,335.110,717.360,359.110" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Imagery </textline>
+</textbox>
+<textbox id="1" bbox="625.320,176.690,686.184,229.490" size="24.0">Data  
+Table <textline bbox="625.320,205.490,683.928,229.490" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Data  </textline>
+<textline bbox="625.320,176.690,686.184,200.690" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Table </textline>
+</textbox>
+<figure name="Image30" bbox="0.000,0.000,618.000,538.440" src="Image30.900x718.bmp" width="618" height="538">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="10.560,371.135,149.352,423.940" size="24.012">Processing  
+Information <textline bbox="13.440,399.940,149.352,423.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Processing  </textline>
+<textline bbox="10.560,371.135,142.692,395.159" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Information </textline>
+</textbox>
+<textbox id="1" bbox="7.200,239.105,145.848,315.910" size="24.008">Documents, 
+Tools, 
+Imagery <textline bbox="8.640,291.910,145.848,315.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Documents, </textline>
+<textline bbox="7.200,265.510,76.056,289.510" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Tools, </textline>
+<textline bbox="7.200,239.105,99.332,263.129" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Imagery </textline>
+</textbox>
+<textbox id="2" bbox="25.200,101.060,129.144,153.909" size="24.012">Data  
+Products <textline bbox="25.200,129.885,83.843,153.909" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Data  </textline>
+<textline bbox="25.200,101.060,129.144,125.060" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Products </textline>
+</textbox>
+<textbox id="3" bbox="643.610,371.135,711.698,423.940" size="24.012">MISR  
+News <textline bbox="645.050,399.940,711.698,423.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">MISR  </textline>
+<textline bbox="643.610,371.135,706.505,395.159" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">News </textline>
+</textbox>
+<textbox id="4" bbox="631.320,224.682,718.173,268.761" size="20.052">Special  
+Products <textline bbox="631.320,248.697,707.042,268.761" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">Special  </textline>
+<textline bbox="631.320,224.682,718.173,244.722" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Products </textline>
+</textbox>
+<figure name="Image33" bbox="156.000,268.200,628.920,522.000" src="Image33.900x615.bmp" width="472" height="253">
+</figure>
+<figure name="Image34" bbox="157.080,11.040,627.840,277.680" src="Image34.896x646.bmp" width="470" height="266">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="25.200,227.090,126.624,279.929" size="24.012">Easy  
+Ordering <textline bbox="25.200,255.905,87.566,279.929" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Easy  </textline>
+<textline bbox="25.200,227.090,126.624,251.090" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Ordering </textline>
+</textbox>
+<textbox id="1" bbox="25.200,101.060,129.144,153.909" size="24.012">Data  
+Products <textline bbox="25.200,129.885,83.843,153.909" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Data  </textline>
+<textline bbox="25.200,101.060,129.144,125.060" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Products </textline>
+</textbox>
+<figure name="Image37" bbox="168.000,100.200,708.000,531.240" src="Image37.900x718.bmp" width="540" height="431">
+</figure>
+<figure name="Image38" bbox="169.200,18.000,709.200,114.000" src="Image38.900x160.bmp" width="540" height="96">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="50.592,457.668,209.233,519.267" size="27.972">Processing  
+Status <textline bbox="50.592,491.283,209.233,519.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Processing  </textline>
+<textline bbox="83.232,457.668,168.762,485.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Status </textline>
+</textbox>
+<textbox id="1" bbox="61.272,387.940,167.832,411.940" size="24.0">Schedule <textline bbox="61.272,387.940,167.832,411.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Schedule </textline>
+</textbox>
+<textbox id="2" bbox="37.248,315.910,166.728,339.910" size="24.0">Collections <textline bbox="37.248,315.910,166.728,339.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Collections </textline>
+</textbox>
+<textbox id="3" bbox="85.272,141.890,158.616,165.890" size="24.0">Status <textline bbox="85.272,141.890,158.616,165.890" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Status </textline>
+</textbox>
+<figure name="Image41" bbox="216.000,246.360,703.200,540.000" src="Image41.999x712.bmp" width="487" height="293">
+</figure>
+<figure name="Image42" bbox="216.000,20.400,703.200,285.960" src="Image42.999x644.bmp" width="487" height="265">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="225.100,503.283,470.772,531.267" size="27.984">Production Report <textline bbox="225.100,503.283,470.772,531.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Production Report </textline>
+</textbox>
+<figure name="Image45" bbox="66.000,139.440,665.640,494.520" src="Image45.999x676.bmp" width="599" height="355">
+</figure>
+<figure name="Image46" bbox="66.000,6.000,665.640,200.520" src="Image46.999x370.bmp" width="599" height="194">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="126.430,496.158,569.538,527.979" size="27.96">Special Support Products &#8211; UAE2 <textline bbox="126.430,496.158,569.538,527.979">Special Support Products &#8211; UAE2 <text font="Arial-BoldMT" bbox="126.430,496.158,145.079,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">S</text>
+<text font="Arial-BoldMT" bbox="145.079,496.158,162.163,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="Arial-BoldMT" bbox="162.079,496.158,177.625,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="177.625,496.158,193.171,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="Arial-BoldMT" bbox="193.254,496.158,201.027,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="201.027,496.158,216.573,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="216.573,496.158,224.346,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="Arial-BoldMT" bbox="224.430,496.158,232.203,524.118" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="232.203,496.158,250.852,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">S</text>
+<text font="Arial-BoldMT" bbox="250.852,496.158,267.936,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="Arial-BoldMT" bbox="267.936,496.158,285.019,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="Arial-BoldMT" bbox="284.907,496.158,301.991,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="Arial-BoldMT" bbox="301.991,496.158,319.074,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="318.991,496.158,329.867,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="329.867,496.158,339.178,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="339.234,496.158,347.006,524.118" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="347.370,496.158,366.019,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">P</text>
+<text font="Arial-BoldMT" bbox="366.019,496.158,376.896,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="376.896,496.158,393.979,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="393.979,496.158,411.063,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="Arial-BoldMT" bbox="410.979,496.158,428.062,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="Arial-BoldMT" bbox="428.062,496.158,443.608,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="Arial-BoldMT" bbox="443.608,496.158,452.919,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="452.919,496.158,468.465,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="Arial-BoldMT" bbox="468.549,496.158,476.321,524.118" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="476.780,496.158,492.326,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">&#8211;</text>
+<text font="Arial-BoldMT" bbox="500.180,496.158,520.367,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">U</text>
+<text font="Arial-BoldMT" bbox="520.340,496.158,540.527,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">A</text>
+<text font="Arial-BoldMT" bbox="540.500,496.158,559.149,524.118" colourspace="DeviceGray" ncolour="0" size="27.960">E</text>
+<text font="Arial-BoldMT" bbox="559.130,509.259,569.538,527.979" colourspace="DeviceGray" ncolour="0" size="18.720">2</text>
+</textline>
+</textbox>
+<figure name="Image54" bbox="30.000,15.000,702.000,468.000" src="Image54.896x604.bmp" width="672" height="453">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="213.220,454.985,506.816,491.009" size="36.024">MISR Terminology <textline bbox="213.220,454.985,506.816,491.009" font="ArialMT" ncolour="0" size="36.024" colourspace="DeviceGray">MISR Terminology </textline>
+</textbox>
+<textbox id="1" bbox="92.352,354.657,423.164,374.721" size="20.064">&#8226; MISR orbits the earth 15 times/day. <textline bbox="92.352,354.657,423.164,374.721">&#8226; MISR orbits the earth 15 times/day. <text font="ArialMT" bbox="92.352,354.657,99.374,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">&#8226;</text>
+<text font="ArialMT" bbox="104.830,354.657,121.543,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">M</text>
+<text font="ArialMT" bbox="121.543,354.657,127.121,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">I</text>
+<text font="ArialMT" bbox="127.021,354.657,140.403,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">S</text>
+<text font="ArialMT" bbox="140.343,354.657,154.829,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">R</text>
+<text font="ArialMT" bbox="154.829,354.657,160.407,374.721" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="Arial-BoldMT" bbox="160.270,354.657,172.529,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">o</text>
+<text font="Arial-BoldMT" bbox="172.529,354.657,180.334,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">r</text>
+<text font="Arial-BoldMT" bbox="180.334,354.657,192.593,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">b</text>
+<text font="Arial-BoldMT" bbox="192.593,354.657,198.171,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="Arial-BoldMT" bbox="198.071,354.657,204.752,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="Arial-BoldMT" bbox="204.752,354.657,215.907,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">s</text>
+<text font="ArialMT" bbox="221.380,354.657,226.958,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="ArialMT" bbox="226.958,354.657,238.113,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">h</text>
+<text font="ArialMT" bbox="238.113,354.657,249.269,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="ArialMT" bbox="249.269,354.657,254.847,374.721" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="ArialMT" bbox="254.626,354.657,265.782,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="ArialMT" bbox="265.782,354.657,276.937,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="ArialMT" bbox="276.937,354.657,283.619,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">r</text>
+<text font="ArialMT" bbox="283.619,354.657,289.196,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="ArialMT" bbox="289.196,354.657,300.352,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">h</text>
+<text font="ArialMT" bbox="300.352,354.657,305.930,374.721" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="ArialMT" bbox="305.629,354.657,316.784,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">1</text>
+<text font="ArialMT" bbox="316.784,354.657,327.940,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">5</text>
+<text font="ArialMT" bbox="327.940,354.657,333.518,374.721" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="ArialMT" bbox="333.357,354.657,338.935,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="ArialMT" bbox="338.935,354.657,343.389,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="ArialMT" bbox="343.309,354.657,360.022,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">m</text>
+<text font="ArialMT" bbox="360.022,354.657,371.178,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="ArialMT" bbox="371.178,354.657,381.210,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">s</text>
+<text font="ArialMT" bbox="381.210,354.657,386.788,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">/</text>
+<text font="ArialMT" bbox="386.788,354.657,397.943,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">d</text>
+<text font="ArialMT" bbox="397.943,354.657,409.099,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="ArialMT" bbox="409.099,354.657,419.131,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">y</text>
+<text font="ArialMT" bbox="417.586,354.657,423.164,374.721" colourspace="DeviceGray" ncolour="0" size="20.064">.</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="92.352,318.642,668.950,338.682" size="20.04">&#8226; Orbit numbers indicate the number of revolutions since launch.  <textline bbox="92.352,318.642,668.950,338.682">&#8226; Orbit numbers indicate the number of revolutions since launch.  <text font="ArialMT" bbox="92.352,318.642,99.366,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="104.830,318.642,120.421,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">O</text>
+<text font="Arial-BoldMT" bbox="120.421,318.642,128.217,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="Arial-BoldMT" bbox="128.217,318.642,140.461,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="Arial-BoldMT" bbox="140.461,318.642,146.032,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="146.032,318.642,152.706,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="157.990,318.642,169.132,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="169.132,318.642,180.274,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="180.274,318.642,196.968,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="196.968,318.642,208.110,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="ArialMT" bbox="208.110,318.642,219.252,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="219.252,318.642,225.926,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="226.006,318.642,236.026,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="236.026,318.642,241.597,338.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="241.116,318.642,245.565,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="245.565,318.642,256.707,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="256.707,318.642,267.849,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="267.849,318.642,272.298,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="272.298,318.642,282.318,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="282.378,318.642,293.521,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="293.521,318.642,299.092,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="299.092,318.642,310.234,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="310.234,318.642,315.805,338.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="315.625,318.642,321.196,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="321.196,318.642,332.338,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="332.338,318.642,343.480,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="343.480,318.642,349.051,338.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="348.871,318.642,360.013,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="360.013,318.642,371.155,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="371.155,318.642,387.849,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="387.849,318.642,398.991,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="ArialMT" bbox="398.991,318.642,410.133,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="410.133,318.642,416.807,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="416.887,318.642,422.458,338.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="422.157,318.642,433.300,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="433.300,318.642,438.871,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="438.871,318.642,444.442,338.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="444.241,318.642,450.915,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="450.915,318.642,462.057,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="462.097,318.642,472.117,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">v</text>
+<text font="ArialMT" bbox="472.117,318.642,483.259,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="483.259,318.642,487.708,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="487.708,318.642,498.850,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="498.850,318.642,504.421,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="504.341,318.642,508.790,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="508.790,318.642,519.932,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="519.932,318.642,531.075,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="531.075,318.642,541.095,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="541.155,318.642,546.726,338.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="546.425,318.642,556.445,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="556.445,318.642,560.894,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="560.894,318.642,572.036,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="572.077,318.642,582.097,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="582.097,318.642,593.239,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="593.299,318.642,598.870,338.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="598.690,318.642,603.139,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="603.139,318.642,614.281,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="614.281,318.642,625.423,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="625.423,318.642,636.565,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="636.565,318.642,646.585,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="646.665,318.642,657.808,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="657.808,318.642,663.379,338.682" colourspace="DeviceGray" ncolour="0" size="20.040">.</text>
+<text font="ArialMT" bbox="663.379,318.642,668.950,338.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</textbox>
+<textbox id="3" bbox="92.352,282.642,534.619,302.682" size="20.04">&#8226; 233 distinct orbit paths repeated every 16 days.  <textline bbox="92.352,282.642,534.619,302.682">&#8226; 233 distinct orbit paths repeated every 16 days.  <text font="ArialMT" bbox="92.352,282.642,99.366,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">&#8226;</text>
+<text font="ArialMT" bbox="104.830,282.642,115.972,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">2</text>
+<text font="ArialMT" bbox="115.972,282.642,127.114,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">3</text>
+<text font="ArialMT" bbox="127.114,282.642,138.257,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">3</text>
+<text font="ArialMT" bbox="138.257,282.642,143.828,302.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="143.708,282.642,154.850,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="154.850,282.642,159.299,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="159.299,282.642,169.319,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="169.359,282.642,174.930,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="174.930,282.642,179.379,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="179.379,282.642,190.521,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="190.521,282.642,200.541,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="200.541,282.642,206.112,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="206.112,282.642,211.683,302.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="211.363,282.642,222.505,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="222.505,282.642,229.178,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="229.218,282.642,240.361,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="ArialMT" bbox="240.361,282.642,244.809,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="244.809,282.642,250.381,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="250.381,282.642,255.952,302.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="255.820,282.642,268.064,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="Arial-BoldMT" bbox="268.064,282.642,279.207,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="279.207,282.642,285.880,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="285.880,282.642,298.124,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="Arial-BoldMT" bbox="298.124,282.642,309.267,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="314.740,282.642,321.413,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="321.413,282.642,332.556,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="332.596,282.642,343.738,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="ArialMT" bbox="343.738,282.642,354.880,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="354.880,282.642,366.022,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="366.022,282.642,371.593,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="371.593,282.642,382.736,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="382.736,282.642,393.878,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="393.878,282.642,399.449,302.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="399.068,282.642,410.211,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="410.211,282.642,420.231,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">v</text>
+<text font="ArialMT" bbox="420.231,282.642,431.373,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="431.373,282.642,438.046,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="438.046,282.642,448.066,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="448.066,282.642,453.637,302.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="453.437,282.642,464.579,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">1</text>
+<text font="ArialMT" bbox="464.579,282.642,475.721,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">6</text>
+<text font="ArialMT" bbox="475.721,282.642,481.292,302.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="481.152,282.642,492.294,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="492.294,282.642,503.437,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="503.437,282.642,513.457,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="513.457,282.642,523.477,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="523.477,282.642,529.048,302.682" colourspace="DeviceGray" ncolour="0" size="20.040">.</text>
+<text font="ArialMT" bbox="529.048,282.642,534.619,302.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</textbox>
+<textbox id="4" bbox="92.352,246.642,565.151,266.682" size="20.04">&#8226; Each of these 16 days is referred to as a Data Day.  <textline bbox="92.352,246.642,565.151,266.682">&#8226; Each of these 16 days is referred to as a Data Day.  <text font="ArialMT" bbox="92.352,246.642,99.366,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">&#8226;</text>
+<text font="ArialMT" bbox="104.830,246.642,118.197,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">E</text>
+<text font="ArialMT" bbox="118.197,246.642,129.339,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="129.339,246.642,139.359,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="139.359,246.642,150.501,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="150.501,246.642,156.072,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="155.952,246.642,167.094,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="167.094,246.642,172.665,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="172.665,246.642,178.237,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="178.036,246.642,183.607,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="183.607,246.642,194.749,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="194.749,246.642,205.892,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="205.892,246.642,215.912,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="215.912,246.642,227.054,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="227.094,246.642,232.665,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="232.365,246.642,243.507,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">1</text>
+<text font="ArialMT" bbox="243.507,246.642,254.649,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">6</text>
+<text font="ArialMT" bbox="254.649,246.642,260.220,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="260.220,246.642,271.362,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="271.362,246.642,282.505,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="282.505,246.642,292.525,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="292.525,246.642,302.545,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="302.545,246.642,308.116,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="307.955,246.642,312.404,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="312.404,246.642,322.424,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="322.424,246.642,327.995,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="327.875,246.642,334.549,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="334.549,246.642,345.691,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="345.731,246.642,351.302,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="351.302,246.642,362.444,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="362.444,246.642,369.118,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="369.118,246.642,375.791,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="375.791,246.642,386.933,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="386.993,246.642,398.135,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="398.135,246.642,403.707,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="403.186,246.642,408.757,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="408.757,246.642,419.899,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="419.899,246.642,425.470,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="425.390,246.642,436.532,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="436.532,246.642,446.552,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="446.612,246.642,452.183,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="452.003,246.642,463.145,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="463.145,246.642,468.716,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="468.740,246.642,483.209,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">D</text>
+<text font="Arial-BoldMT" bbox="483.209,246.642,494.351,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="494.391,246.642,501.065,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="501.065,246.642,512.207,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="512.247,246.642,517.818,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="517.517,246.642,531.986,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">D</text>
+<text font="Arial-BoldMT" bbox="531.986,246.642,543.128,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="543.169,246.642,554.311,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="554.060,246.642,559.631,266.682" colourspace="DeviceGray" ncolour="0" size="20.040">.</text>
+<text font="ArialMT" bbox="559.580,246.642,565.151,266.682" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</textbox>
+<textbox id="5" bbox="92.352,210.612,483.551,230.652" size="20.04">&#8226; The 233 repeating orbits are called paths.  <textline bbox="92.352,210.612,483.551,230.652">&#8226; The 233 repeating orbits are called paths.  <text font="ArialMT" bbox="92.352,210.612,99.366,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">&#8226;</text>
+<text font="ArialMT" bbox="104.470,210.612,116.714,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">T</text>
+<text font="ArialMT" bbox="116.714,210.612,127.857,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="127.857,210.612,138.999,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="138.999,210.612,144.570,230.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="144.430,210.612,155.572,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">2</text>
+<text font="ArialMT" bbox="155.572,210.612,166.714,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">3</text>
+<text font="ArialMT" bbox="166.714,210.612,177.856,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">3</text>
+<text font="ArialMT" bbox="177.856,210.612,183.428,230.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="183.307,210.612,189.981,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="189.981,210.612,201.123,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="201.163,210.612,212.305,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="ArialMT" bbox="212.305,210.612,223.447,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="223.447,210.612,234.590,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="234.590,210.612,240.161,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="240.161,210.612,244.610,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="244.610,210.612,255.752,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="255.752,210.612,266.894,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="ArialMT" bbox="266.894,210.612,272.465,230.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="272.205,210.612,283.347,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="283.347,210.612,290.020,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="290.060,210.612,301.203,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="ArialMT" bbox="301.203,210.612,305.652,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="305.652,210.612,311.223,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="311.223,210.612,321.243,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="321.243,210.612,326.814,230.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="326.533,210.612,337.675,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="337.675,210.612,344.349,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="344.389,210.612,355.531,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="355.531,210.612,361.102,230.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="360.822,210.612,370.842,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="370.842,210.612,381.984,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="382.044,210.612,386.493,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="386.493,210.612,390.942,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="390.942,210.612,402.084,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="402.084,210.612,413.226,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="413.226,210.612,418.797,230.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="418.920,210.612,431.164,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="Arial-BoldMT" bbox="431.164,210.612,442.307,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="442.307,210.612,448.980,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="448.980,210.612,461.224,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="Arial-BoldMT" bbox="461.224,210.612,472.367,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="472.460,210.612,478.031,230.652" colourspace="DeviceGray" ncolour="0" size="20.040">.</text>
+<text font="ArialMT" bbox="477.980,210.612,483.551,230.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</textbox>
+<textbox id="6" bbox="92.352,174.612,440.571,194.652" size="20.04">&#8226; Each path is divided into 180 blocks.  <textline bbox="92.352,174.612,440.571,194.652">&#8226; Each path is divided into 180 blocks.  <text font="ArialMT" bbox="92.352,174.612,99.366,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">&#8226;</text>
+<text font="ArialMT" bbox="104.830,174.612,118.197,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">E</text>
+<text font="ArialMT" bbox="118.197,174.612,129.339,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="129.339,174.612,139.359,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="139.359,174.612,150.501,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="150.501,174.612,156.072,194.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="155.952,174.612,167.094,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="ArialMT" bbox="167.094,174.612,178.237,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="178.237,174.612,183.808,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="183.808,174.612,194.950,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="194.950,174.612,200.521,194.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="200.361,174.612,204.810,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="204.810,174.612,214.830,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="214.830,174.612,220.401,194.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="220.280,174.612,231.423,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="231.423,174.612,235.872,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="235.872,174.612,245.892,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">v</text>
+<text font="ArialMT" bbox="245.892,174.612,250.340,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="250.340,174.612,261.483,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="261.483,174.612,272.625,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="272.625,174.612,283.767,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="283.767,174.612,289.338,194.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="289.338,174.612,293.787,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="293.727,174.612,304.869,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="304.869,174.612,310.440,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="310.440,174.612,321.583,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="321.583,174.612,327.154,194.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="327.094,174.612,338.236,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">1</text>
+<text font="ArialMT" bbox="338.236,174.612,349.378,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">8</text>
+<text font="ArialMT" bbox="349.378,174.612,360.520,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">0</text>
+<text font="ArialMT" bbox="360.520,174.612,366.091,194.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="366.000,174.612,378.244,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="Arial-BoldMT" bbox="378.244,174.612,383.816,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="383.816,174.612,396.060,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="396.060,174.612,407.202,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="Arial-BoldMT" bbox="407.202,174.612,418.344,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">k</text>
+<text font="Arial-BoldMT" bbox="418.344,174.612,429.487,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="429.480,174.612,435.051,194.652" colourspace="DeviceGray" ncolour="0" size="20.040">.</text>
+<text font="ArialMT" bbox="435.000,174.612,440.571,194.652" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</textbox>
+<textbox id="7" bbox="92.352,138.612,593.886,158.652" size="20.04">&#8226; Paths overlap allowing near global coverage in 9 days.  <textline bbox="92.352,138.612,593.886,158.652" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Paths overlap allowing near global coverage in 9 days.  </textline>
+</textbox>
+<figure name="Image6" bbox="43.200,419.400,114.120,521.040" src="Image6.2.107x153.bmp" width="70" height="101">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="117.790,479.283,673.804,507.267" size="27.984">Ordering MISR Level 2 Aerosol Data           <textline bbox="117.790,479.283,673.804,507.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Ordering MISR Level 2 Aerosol Data           </textline>
+</textbox>
+<figure name="Image59" bbox="30.000,76.920,704.400,450.000" src="Image59.999x553.bmp" width="674" height="373">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="179.230,479.283,559.337,507.267" size="27.984">Ordering MISR Data via EDG <textline bbox="179.230,479.283,559.337,507.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Ordering MISR Data via EDG </textline>
+</textbox>
+<figure name="Image62" bbox="30.360,108.000,689.640,450.000" src="Image62.879x456.bmp" width="659" height="342">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="245.620,491.283,474.305,519.267" size="27.984">Select MISR Path <textline bbox="245.620,491.283,474.305,519.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Select MISR Path </textline>
+</textbox>
+<figure name="Image65" bbox="30.720,24.000,690.000,480.000" src="Image65.879x608.bmp" width="659" height="456">
+</figure>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="19.200,102.260,179.272,183.890" size="24.008">Enter Path  
+Numbers and  
+Click OK! <textline bbox="19.200,159.890,145.896,183.890" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Enter Path  </textline>
+<textline bbox="19.200,131.085,179.272,155.109" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Numbers and  </textline>
+<textline bbox="19.200,102.260,127.224,126.260" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Click OK! </textline>
+</textbox>
+<figure name="Image68" bbox="204.000,173.880,665.400,528.360" src="Image68.879x675.bmp" width="461" height="354">
+</figure>
+<figure name="Image69" bbox="204.000,0.000,665.400,228.480" src="Image69.879x435.bmp" width="461" height="228">
+</figure>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="55.584,407.140,174.192,459.940" size="24.0">Note Path  
+Numbers <textline bbox="55.584,435.940,174.192,459.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Note Path  </textline>
+<textline bbox="55.584,407.140,159.528,431.140" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Numbers </textline>
+</textbox>
+<textbox id="1" bbox="85.224,227.090,264.972,279.929" size="24.012">Do Not Choose  
+search area <textline bbox="85.224,255.905,264.972,279.929" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Do Not Choose  </textline>
+<textline bbox="85.224,227.090,218.688,251.090" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">search area </textline>
+</textbox>
+<textbox id="2" bbox="97.848,141.740,255.120,165.740" size="24.0">Specify Dates <textline bbox="97.848,141.740,255.120,165.740" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Specify Dates </textline>
+</textbox>
+<textbox id="3" bbox="85.224,69.816,169.056,122.620" size="24.0">Limit #  
+of files <textline bbox="85.224,98.620,169.056,122.620" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Limit #  </textline>
+<textline bbox="85.224,69.816,162.648,93.816" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">of files </textline>
+</textbox>
+<textbox id="4" bbox="139.220,27.864,280.508,51.864" size="24.0">Start Search <textline bbox="139.220,27.864,280.508,51.864" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Start Search </textline>
+</textbox>
+<figure name="Image72" bbox="282.000,284.880,710.280,534.000" src="Image72.879x710.bmp" width="428" height="249">
+</figure>
+<figure name="Image73" bbox="282.000,101.040,710.280,324.000" src="Image73.879x635.bmp" width="428" height="222">
+</figure>
+<figure name="Image74" bbox="282.000,17.880,710.280,108.720" src="Image74.879x259.bmp" width="428" height="90">
+</figure>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="248.620,491.283,471.317,519.267" size="27.984">Select Data Files <textline bbox="248.620,491.283,471.317,519.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Select Data Files </textline>
+</textbox>
+<textbox id="1" bbox="7.200,323.110,89.832,375.910" size="24.0">Add to  
+Cart <textline bbox="7.200,351.910,89.832,375.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Add to  </textline>
+<textline bbox="7.200,323.110,55.128,347.110" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Cart </textline>
+</textbox>
+<figure name="Image77" bbox="96.000,41.880,710.640,468.000" src="Image77.1024x710.bmp" width="614" height="426">
+</figure>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="194.380,491.283,525.822,519.267" size="27.984">Accept Quality Summary <textline bbox="194.380,491.283,525.822,519.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Accept Quality Summary </textline>
+</textbox>
+<figure name="Image80" bbox="10.920,36.000,709.080,465.000" src="Image80.931x572.bmp" width="698" height="429">
+</figure>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="155.350,491.283,564.504,519.267" size="27.984">Step 1:  Choose Order Options <textline bbox="155.350,491.283,564.504,519.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Step 1:  Choose Order Options </textline>
+</textbox>
+<figure name="Image83" bbox="57.360,36.000,672.000,462.120" src="Image83.1024x710.bmp" width="614" height="426">
+</figure>
+</page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="169.180,473.268,562.773,501.228" size="27.96">Step 1:  Choose Order Option <textline bbox="169.180,473.268,562.773,501.228" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Step 1:  Choose Order Option </textline>
+</textbox>
+<figure name="Image86" bbox="66.000,30.000,680.640,456.120" src="Image86.1024x710.bmp" width="614" height="426">
+</figure>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="23.040,491.283,220.607,519.267" size="27.984">Order Option 1 <textline bbox="23.040,491.283,220.607,519.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Order Option 1 </textline>
+</textbox>
+<textbox id="1" bbox="19.200,403.668,240.084,465.228" size="27.96">Use for Subsets  
+or Reformats <textline bbox="19.200,437.268,240.084,465.228" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Use for Subsets  </textline>
+<textline bbox="19.200,403.668,193.335,431.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">or Reformats </textline>
+</textbox>
+<textbox id="2" bbox="49.200,221.082,187.095,321.910" size="22.025999999999996">Native  
+Granule 
+FtpPull, CD,  
+DVD, DLT,8mm <textline bbox="49.200,297.910,127.896,321.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Native  </textline>
+<textline bbox="49.200,269.110,139.968,293.110" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Granule </textline>
+<textline bbox="49.200,245.097,162.762,265.161" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">FtpPull, CD,  </textline>
+<textline bbox="49.200,221.082,187.095,241.122" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">DVD, DLT,8mm </textline>
+</textbox>
+<textbox id="3" bbox="115.340,53.064,203.348,105.864" size="24.0">Submit  
+Order <textline bbox="115.340,81.864,203.348,105.864" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Submit  </textline>
+<textline bbox="131.300,53.064,196.652,77.064" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Order </textline>
+</textbox>
+<figure name="Image89" bbox="249.480,202.440,798.000,540.000" src="Image89.914x643.bmp" width="548" height="337">
+</figure>
+<figure name="Image90" bbox="249.480,-3.360,798.000,300.600" src="Image90.914x579.bmp" width="548" height="303">
+</figure>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="-0.960,474.340,204.387,531.267" size="25.992">Order Option 2  
+FTP Push <textline bbox="-0.960,503.283,204.387,531.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Order Option 2  </textline>
+<textline bbox="86.664,474.340,196.776,498.340" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">FTP Push </textline>
+</textbox>
+<textbox id="1" bbox="25.200,294.310,115.896,375.910" size="24.0">Native  
+Granule 
+FtpPush <textline bbox="25.200,351.910,103.896,375.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Native  </textline>
+<textline bbox="25.200,323.110,115.896,347.110" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Granule </textline>
+<textline bbox="25.200,294.310,114.504,318.310" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">FtpPush </textline>
+</textbox>
+<textbox id="2" bbox="43.200,113.640,163.344,195.260" size="24.008">FtpPush 
+Delivery  
+Information <textline bbox="43.200,171.260,139.128,195.260" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">FtpPush </textline>
+<textline bbox="43.200,142.455,136.437,166.479" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Delivery  </textline>
+<textline bbox="43.200,113.640,163.344,137.640" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Information </textline>
+</textbox>
+<textbox id="3" bbox="91.344,23.064,179.352,75.864" size="24.0">Submit  
+Order <textline bbox="91.344,51.864,179.352,75.864" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Submit  </textline>
+<textline bbox="107.300,23.064,172.652,47.064" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Order </textline>
+</textbox>
+<figure name="Image93" bbox="192.120,212.520,732.000,546.000" src="Image93.899x635.bmp" width="539" height="333">
+</figure>
+<figure name="Image94" bbox="192.120,-0.240,732.000,249.240" src="Image94.899x475.bmp" width="539" height="249">
+</figure>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="-0.960,474.340,204.387,531.267" size="25.992">Order Option 3  
+Secure Copy <textline bbox="-0.960,503.283,204.387,531.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Order Option 3  </textline>
+<textline bbox="50.280,474.340,197.136,498.340" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Secure Copy </textline>
+</textbox>
+<textbox id="1" bbox="25.200,294.310,115.896,375.910" size="24.0">Native  
+Granule 
+scp <textline bbox="25.200,351.910,103.896,375.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Native  </textline>
+<textline bbox="25.200,323.110,115.896,347.110" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Granule </textline>
+<textline bbox="25.200,294.310,62.544,318.310" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">scp </textline>
+</textbox>
+<textbox id="2" bbox="43.200,107.640,163.344,189.260" size="24.008">scp 
+Delivery  
+Information <textline bbox="43.200,165.260,84.504,189.260" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">scp </textline>
+<textline bbox="43.200,136.455,136.437,160.479" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Delivery  </textline>
+<textline bbox="43.200,107.640,163.344,131.640" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Information </textline>
+</textbox>
+<textbox id="3" bbox="91.344,23.064,179.352,75.864" size="24.0">Submit  
+Order <textline bbox="91.344,51.864,179.352,75.864" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Submit  </textline>
+<textline bbox="107.300,23.064,172.652,47.064" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Order </textline>
+</textbox>
+<figure name="Image97" bbox="198.000,207.480,737.880,540.000" src="Image97.899x643.bmp" width="539" height="332">
+</figure>
+<figure name="Image98" bbox="198.000,-2.040,737.880,233.880" src="Image98.899x456.bmp" width="539" height="235">
+</figure>
+</page>
+<page id="23" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="231.650,496.158,520.728,524.118" size="27.96">Confirm Order Option <textline bbox="231.650,496.158,520.728,524.118" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Confirm Order Option </textline>
+</textbox>
+<figure name="Image101" bbox="18.000,15.720,713.640,486.000" src="Image101.928x627.bmp" width="695" height="470">
+</figure>
+</page>
+<page id="24" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="37.368,491.283,292.666,519.267" size="27.984">Step 2: Order Form <textline bbox="37.368,491.283,292.666,519.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Step 2: Order Form </textline>
+</textbox>
+<textbox id="1" bbox="151.220,288.310,317.660,369.910" size="24.0">Complete all  
+information in  
+bold. <textline bbox="151.220,345.910,300.644,369.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Complete all  </textline>
+<textline bbox="151.220,317.110,317.660,341.110" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">information in  </textline>
+<textline bbox="151.220,288.310,208.556,312.310" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">bold. </textline>
+</textbox>
+<textbox id="2" bbox="121.220,177.890,202.460,201.890" size="24.0">Submit <textline bbox="121.220,177.890,202.460,201.890" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Submit </textline>
+</textbox>
+<figure name="Image104" bbox="349.680,350.520,708.000,540.000" src="Image104.956x722.bmp" width="358" height="189">
+</figure>
+<figure name="Image105" bbox="349.200,178.800,708.000,368.280" src="Image105.957x657.bmp" width="358" height="189">
+</figure>
+<figure name="Image106" bbox="349.200,4.800,708.000,194.280" src="Image106.957x633.bmp" width="358" height="189">
+</figure>
+</page>
+<page id="25" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="25.200,458.732,149.889,502.811" size="20.052">Order  
+Confirmation <textline bbox="25.200,482.747,85.412,502.811" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">Order  </textline>
+<textline bbox="25.200,458.732,149.889,478.772" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Confirmation </textline>
+</textbox>
+<textbox id="1" bbox="19.200,195.932,123.669,244.722" size="20.04">Request ID 
+Order ID <textline bbox="19.200,224.682,123.669,244.722" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Request ID </textline>
+<textline bbox="43.200,195.932,123.120,215.972" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Order ID </textline>
+</textbox>
+<textbox id="2" bbox="37.200,128.677,117.480,172.722" size="20.052">Contact  
+for help <textline bbox="37.200,152.682,117.480,172.722" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Contact  </textline>
+<textline bbox="37.200,128.677,110.534,148.741" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">for help </textline>
+</textbox>
+<figure name="Image109" bbox="162.000,127.440,700.320,533.760" src="Image109.957x722.bmp" width="538" height="406">
+</figure>
+<figure name="Image110" bbox="162.000,12.000,699.600,197.040" src="Image110.957x329.bmp" width="537" height="185">
+</figure>
+</page>
+<page id="26" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="52.656,441.820,217.848,465.820" size="24.0">E-mail Receipt <textline bbox="52.656,441.820,217.848,465.820" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">E-mail Receipt </textline>
+</textbox>
+<figure name="Image113" bbox="324.000,6.000,700.200,197.880" src="Image113.717x512.bmp" width="376" height="191">
+</figure>
+<figure name="Image114" bbox="322.200,182.880,700.200,348.000" src="Image114.720x505.bmp" width="378" height="165">
+</figure>
+<figure name="Image115" bbox="322.200,345.000,700.200,540.000" src="Image115.720x520.bmp" width="378" height="195">
+</figure>
+</page>
+<page id="27" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="31.200,395.450,169.915,477.070" size="24.008">E-mail  
+Notification  
+for FtpPull <textline bbox="31.200,453.070,109.992,477.070" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">E-mail  </textline>
+<textline bbox="31.200,424.265,169.915,448.289" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Notification  </textline>
+<textline bbox="31.200,395.450,151.128,419.450" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">for FtpPull </textline>
+</textbox>
+<figure name="Image118" bbox="202.560,27.120,720.000,372.000" src="Image118.720x461.bmp" width="517" height="344">
+</figure>
+<figure name="Image119" bbox="203.640,342.000,720.000,510.000" src="Image119.720x224.bmp" width="516" height="168">
+</figure>
+</page>
+<page id="28" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="169.220,479.283,561.444,507.267" size="27.984">Subset/Reformat Instructions <textline bbox="169.220,479.283,561.444,507.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Subset/Reformat Instructions </textline>
+</textbox>
+<figure name="Image122" bbox="66.720,51.600,666.000,478.680" src="Image122.999x712.bmp" width="599" height="427">
+</figure>
+<figure name="Image123" bbox="66.720,-18.000,666.000,188.280" src="Image123.999x344.bmp" width="599" height="206">
+</figure>
+</page>
+<page id="29" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="31.200,418.068,191.355,513.267" size="27.968">Subset - 
+Reformat  
+Instructions <textline bbox="31.200,485.283,141.819,513.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Subset - </textline>
+<textline bbox="31.200,451.668,161.773,479.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Reformat  </textline>
+<textline bbox="31.200,418.068,191.355,446.028" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Instructions </textline>
+</textbox>
+<textbox id="1" bbox="43.200,233.090,143.280,285.910" size="24.0">Link to  
+Interface <textline bbox="43.200,261.910,128.448,285.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Link to  </textline>
+<textline bbox="43.200,233.090,143.280,257.090" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Interface </textline>
+</textbox>
+<figure name="Image126" bbox="204.000,269.520,728.760,534.000" src="Image126.999x588.bmp" width="524" height="264">
+</figure>
+<figure name="Image127" bbox="204.000,1.320,728.760,287.520" src="Image127.999x636.bmp" width="524" height="286">
+</figure>
+</page>
+<page id="30" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.728,471.940,704.208,495.940" size="24.0">Enter Order Information to Access Subset/Reformat Interface <textline bbox="7.728,471.940,704.208,495.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Enter Order Information to Access Subset/Reformat Interface </textline>
+</textbox>
+<figure name="Image130" bbox="48.360,94.080,671.640,445.920" src="Image130.831x469.bmp" width="623" height="351">
+</figure>
+</page>
+<page id="31" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="37.200,359.135,118.545,411.940" size="24.012">Select  
+Format <textline bbox="37.200,387.940,114.504,411.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select  </textline>
+<textline bbox="37.200,359.135,118.545,383.159" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Format </textline>
+</textbox>
+<textbox id="1" bbox="31.200,227.090,108.557,279.929" size="24.012">Select  
+Files <textline bbox="31.200,255.905,108.557,279.929" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Select  </textline>
+<textline bbox="31.200,227.090,85.896,251.090" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Files </textline>
+</textbox>
+<textbox id="2" bbox="37.200,54.264,127.920,135.860" size="24.0">Select  
+Subset  
+Options <textline bbox="37.200,111.860,114.504,135.860" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select  </textline>
+<textline bbox="37.200,83.064,123.792,107.064" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Subset  </textline>
+<textline bbox="37.200,54.264,127.920,78.264" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Options </textline>
+</textbox>
+<figure name="Image133" bbox="234.240,244.920,701.880,527.640" src="Image133.831x711.bmp" width="467" height="282">
+</figure>
+<figure name="Image134" bbox="234.000,93.600,701.640,281.280" src="Image134.831x472.bmp" width="467" height="187">
+</figure>
+<figure name="Image135" bbox="234.000,0.000,701.640,106.320" src="Image135.831x268.bmp" width="467" height="106">
+</figure>
+</page>
+<page id="32" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="197.500,461.268,528.770,489.228" size="27.96">Subset/Format Summary <textline bbox="197.500,461.268,528.770,489.228" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Subset/Format Summary </textline>
+</textbox>
+<figure name="Image138" bbox="60.000,66.000,683.280,432.000" src="Image138.831x488.bmp" width="623" height="366">
+</figure>
+</page>
+<page id="33" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="173.980,461.268,551.915,489.228" size="27.96">Subset/Format Confirmation <textline bbox="173.980,461.268,551.915,489.228" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Subset/Format Confirmation </textline>
+</textbox>
+<figure name="Image141" bbox="66.000,60.000,689.280,438.000" src="Image141.831x504.bmp" width="623" height="378">
+</figure>
+</page>
+<page id="34" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="31.200,489.955,242.227,513.979" size="24.024">E-mail Notification <textline bbox="31.200,489.955,242.227,513.979" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">E-mail Notification </textline>
+</textbox>
+<textbox id="1" bbox="61.224,255.905,249.236,279.929" size="24.024">Reprints Please! <textline bbox="61.224,255.905,249.236,279.929" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Reprints Please! </textline>
+</textbox>
+<textbox id="2" bbox="61.224,198.290,190.704,222.290" size="24.0">Data Policy <textline bbox="61.224,198.290,190.704,222.290" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Data Policy </textline>
+</textbox>
+<textbox id="3" bbox="37.512,81.864,241.608,105.864" size="24.0">Order Information <textline bbox="37.512,81.864,241.608,105.864" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Order Information </textline>
+</textbox>
+<figure name="Image144" bbox="287.640,308.280,720.000,534.960" src="Image144.720x504.bmp" width="432" height="226">
+</figure>
+<figure name="Image145" bbox="287.400,142.800,720.000,337.080" src="Image145.721x432.bmp" width="432" height="194">
+</figure>
+<figure name="Image146" bbox="287.400,6.000,720.000,146.400" src="Image146.721x312.bmp" width="432" height="140">
+</figure>
+</page>
+<page id="35" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="263.260,439.292,456.640,483.332" size="44.04">Data Pool <textline bbox="263.260,439.292,456.640,483.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Data Pool </textline>
+</textbox>
+<textbox id="1" bbox="122.230,214.957,580.606,362.241" size="32.052">Data Pool allows quick access  
+to recently processed data. Use  
+the ordering tool to obtain ALL 
+data products <textline bbox="122.230,330.177,561.443,362.241" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">Data Pool allows quick access  </textline>
+<textline bbox="122.230,291.762,580.606,323.802">to recently processed data. Use  <text font="ArialMT" bbox="122.230,291.762,131.137,323.802" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="ArialMT" bbox="131.137,291.762,148.951,323.802" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="ArialMT" bbox="148.951,291.762,157.858,323.802" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="157.750,291.762,168.419,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">r</text>
+<text font="ArialMT" bbox="168.419,291.762,186.234,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">e</text>
+<text font="ArialMT" bbox="186.234,291.762,202.254,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">c</text>
+<text font="ArialMT" bbox="202.254,291.762,220.068,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">e</text>
+<text font="ArialMT" bbox="220.068,291.762,237.882,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">n</text>
+<text font="ArialMT" bbox="237.882,291.762,246.789,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">t</text>
+<text font="ArialMT" bbox="246.661,291.762,253.774,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">l</text>
+<text font="ArialMT" bbox="253.774,291.762,269.794,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">y</text>
+<text font="ArialMT" bbox="269.794,291.762,278.701,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040"> </text>
+<text font="ArialMT" bbox="278.477,291.762,296.291,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">p</text>
+<text font="ArialMT" bbox="296.291,291.762,306.960,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">r</text>
+<text font="ArialMT" bbox="306.960,291.762,324.775,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">o</text>
+<text font="ArialMT" bbox="324.678,291.762,340.698,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">c</text>
+<text font="ArialMT" bbox="340.698,291.762,358.513,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">e</text>
+<text font="ArialMT" bbox="358.513,291.762,374.533,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">s</text>
+<text font="ArialMT" bbox="374.533,291.762,390.553,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">s</text>
+<text font="ArialMT" bbox="390.649,291.762,408.463,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">e</text>
+<text font="ArialMT" bbox="408.463,291.762,426.277,323.802" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="32.040">d</text>
+<text font="ArialMT" bbox="434.760,291.762,452.574,323.802" colourspace="DeviceGray" ncolour="0" size="32.040">d</text>
+<text font="ArialMT" bbox="452.574,291.762,470.388,323.802" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="ArialMT" bbox="470.292,291.762,479.199,323.802" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="ArialMT" bbox="479.199,291.762,497.014,323.802" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="ArialMT" bbox="497.014,291.762,505.921,323.802" colourspace="DeviceGray" ncolour="0" size="32.040">.</text>
+<text font="ArialMT" bbox="505.825,291.762,514.732,323.802" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="514.732,291.762,537.865,323.802" colourspace="DeviceGray" ncolour="0" size="32.040">U</text>
+<text font="ArialMT" bbox="537.865,291.762,553.885,323.802" colourspace="DeviceGray" ncolour="0" size="32.040">s</text>
+<text font="ArialMT" bbox="553.885,291.762,571.699,323.802" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="ArialMT" bbox="571.699,291.762,580.606,323.802" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+</textline>
+<textline bbox="122.230,253.362,548.519,285.402">the ordering tool to obtain ALL <text font="ArialMT" bbox="122.230,253.362,131.137,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="ArialMT" bbox="131.137,253.362,148.951,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">h</text>
+<text font="ArialMT" bbox="148.951,253.362,166.766,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="ArialMT" bbox="166.637,253.362,175.545,285.402" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="175.545,253.362,193.359,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="ArialMT" bbox="193.359,253.362,204.028,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">r</text>
+<text font="ArialMT" bbox="204.028,253.362,221.842,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">d</text>
+<text font="ArialMT" bbox="221.714,253.362,239.528,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="ArialMT" bbox="239.528,253.362,250.198,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">r</text>
+<text font="ArialMT" bbox="250.198,253.362,257.311,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="ArialMT" bbox="257.311,253.362,275.125,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">n</text>
+<text font="ArialMT" bbox="274.997,253.362,292.811,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">g</text>
+<text font="ArialMT" bbox="292.811,253.362,301.718,285.402" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="301.526,253.362,310.433,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="ArialMT" bbox="310.433,253.362,328.247,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="ArialMT" bbox="328.247,253.362,346.061,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="ArialMT" bbox="345.933,253.362,353.046,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">l</text>
+<text font="ArialMT" bbox="353.046,253.362,361.953,285.402" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="361.953,253.362,370.860,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="ArialMT" bbox="370.860,253.362,388.675,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="ArialMT" bbox="388.546,253.362,397.454,285.402" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="397.454,253.362,415.268,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="ArialMT" bbox="415.268,253.362,433.082,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">b</text>
+<text font="ArialMT" bbox="432.954,253.362,441.861,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="ArialMT" bbox="441.861,253.362,459.675,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="ArialMT" bbox="459.675,253.362,466.788,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="ArialMT" bbox="466.660,253.362,484.474,285.402" colourspace="DeviceGray" ncolour="0" size="32.040">n</text>
+<text font="ArialMT" bbox="484.474,253.362,493.381,285.402" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="491.520,253.362,512.891,285.402" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">A</text>
+<text font="ArialMT" bbox="512.891,253.362,530.705,285.402" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">L</text>
+<text font="ArialMT" bbox="530.705,253.362,548.519,285.402" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">L</text>
+</textline>
+<textline bbox="122.230,214.957,316.057,247.021" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">data products </textline>
+</textbox>
+<textbox id="2" bbox="20.568,126.882,696.708,158.922" size="32.04">http://eosweb.larc.nasa.gov/HPDOCS/datapool/ <textline bbox="20.568,126.882,696.708,158.922" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">http://eosweb.larc.nasa.gov/HPDOCS/datapool/ </textline>
+</textbox>
+<figure name="Image6" bbox="31.320,402.000,111.600,516.720" src="Image6.3.107x153.bmp" width="80" height="114">
+</figure>
+</page>
+<page id="36" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="207.940,486.587,524.155,518.651" size="32.064">Accessing Data Pool <textline bbox="207.940,486.587,524.155,518.651" font="Arial-BoldMT" ncolour="0" size="32.064" colourspace="DeviceGray">Accessing Data Pool </textline>
+</textbox>
+<figure name="Image151" bbox="72.000,24.000,690.000,474.000" src="Image151.900x600.bmp" width="618" height="450">
+</figure>
+</page>
+<page id="37" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="67.128,474.572,654.517,506.612" size="32.04">Accessing Data Pool via Web Interface <textline bbox="67.128,474.572,654.517,506.612" font="Arial-BoldMT" ncolour="0" size="32.040" colourspace="DeviceGray">Accessing Data Pool via Web Interface </textline>
+</textbox>
+<figure name="Image154" bbox="76.680,113.640,684.000,461.880" src="Image154.999x644.bmp" width="607" height="348">
+</figure>
+<figure name="Image155" bbox="76.680,12.000,684.000,126.600" src="Image155.999x212.bmp" width="607" height="114">
+</figure>
+</page>
+<page id="38" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="52.872,490.982,685.455,511.022" size="20.04">Accessing MISR Data Products via Data Pool Web Interface 1 of 10 <textline bbox="52.872,490.982,685.455,511.022" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Accessing MISR Data Products via Data Pool Web Interface 1 of 10 </textline>
+</textbox>
+<figure name="Image158" bbox="24.000,144.600,699.120,426.000" src="Image158.999x416.bmp" width="675" height="281">
+</figure>
+</page>
+<page id="39" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="52.872,490.982,685.455,511.022" size="20.04">Accessing MISR Data Products via Data Pool Web Interface 2 of 10 <textline bbox="52.872,490.982,685.455,511.022" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Accessing MISR Data Products via Data Pool Web Interface 2 of 10 </textline>
+</textbox>
+<figure name="Image161" bbox="22.200,60.000,696.000,459.240" src="Image161.999x592.bmp" width="673" height="399">
+</figure>
+</page>
+<page id="40" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="52.872,490.982,685.455,511.022" size="20.04">Accessing MISR Data Products via Data Pool Web Interface 3 of 10 <textline bbox="52.872,490.982,685.455,511.022" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Accessing MISR Data Products via Data Pool Web Interface 3 of 10 </textline>
+</textbox>
+<textbox id="1" bbox="7.200,342.310,132.437,423.940" size="24.008">Choose a  
+MISR Data  
+Product <textline bbox="7.200,399.940,121.872,423.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Choose a  </textline>
+<textline bbox="7.200,371.135,132.437,395.159" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">MISR Data  </textline>
+<textline bbox="7.200,342.310,97.800,366.310" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Product </textline>
+</textbox>
+<textbox id="2" bbox="7.200,87.576,150.960,284.400" size="24.0">Earth  
+Science  
+Data Types  
+(ESDT) can  
+be found on  
+the MISR  
+Data Table. <textline bbox="7.200,260.400,75.192,284.400" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Earth  </textline>
+<textline bbox="7.200,231.600,104.520,255.600" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Science  </textline>
+<textline bbox="7.200,202.800,139.848,226.800" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Data Types  </textline>
+<textline bbox="7.200,173.980,141.768,197.980" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">(ESDT) can  </textline>
+<textline bbox="7.200,145.180,150.960,169.180" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">be found on  </textline>
+<textline bbox="7.200,116.380,116.448,140.380" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">the MISR  </textline>
+<textline bbox="7.200,87.576,133.512,111.576" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Data Table. </textline>
+</textbox>
+<figure name="Image164" bbox="146.400,98.520,719.640,480.000" src="Image164.943x635.bmp" width="573" height="381">
+</figure>
+<figure name="Image165" bbox="146.640,26.520,720.000,103.440" src="Image165.943x128.bmp" width="573" height="76">
+</figure>
+</page>
+<page id="41" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="49.368,494.747,683.390,514.811" size="20.064">Accessing MISR Data Products via Data Pool Web Interface 4 of 10 <textline bbox="49.368,494.747,683.390,514.811" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">Accessing MISR Data Products via Data Pool Web Interface 4 of 10 </textline>
+</textbox>
+<textbox id="1" bbox="31.200,368.727,192.783,412.772" size="20.052">Monthly Aerosol  
+Example <textline bbox="31.200,392.732,192.783,412.772" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Monthly Aerosol  </textline>
+<textline bbox="31.200,368.727,113.523,388.791" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">Example </textline>
+</textbox>
+<textbox id="2" bbox="25.200,224.682,185.079,268.761" size="20.052">There are  
+multiple options. <textline bbox="25.200,248.697,120.885,268.761" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">There are  </textline>
+<textline bbox="25.200,224.682,185.079,244.722" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">multiple options. </textline>
+</textbox>
+<textbox id="3" bbox="19.368,33.864,219.336,57.864" size="24.0">Enter Date Range <textline bbox="19.368,33.864,219.336,57.864" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Enter Date Range </textline>
+</textbox>
+<figure name="Image168" bbox="240.000,250.320,710.760,493.440" src="Image168.896x540.bmp" width="470" height="243">
+</figure>
+<figure name="Image169" bbox="240.000,0.000,710.760,289.920" src="Image169.896x644.bmp" width="470" height="289">
+</figure>
+</page>
+<page id="42" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="19.200,404.732,180.374,520.811" size="20.0448">Accessing MISR  
+Data Products  
+via Data Pool  
+Web Interface 5  
+of 10 <textline bbox="19.200,500.747,180.374,520.811" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">Accessing MISR  </textline>
+<textline bbox="19.200,476.732,160.402,496.772" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Data Products  </textline>
+<textline bbox="19.200,452.732,150.121,472.772" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">via Data Pool  </textline>
+<textline bbox="19.200,428.732,172.085,448.772" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Web Interface 5  </textline>
+<textline bbox="19.200,404.732,65.853,424.772" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">of 10 </textline>
+</textbox>
+<textbox id="1" bbox="31.008,303.910,129.624,327.910" size="24.0">Get Data <textline bbox="31.008,303.910,129.624,327.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Get Data </textline>
+</textbox>
+<figure name="Image172" bbox="222.000,201.480,692.760,522.000" src="Image172.896x712.bmp" width="470" height="320">
+</figure>
+<figure name="Image173" bbox="222.000,23.280,692.760,305.880" src="Image173.896x628.bmp" width="470" height="282">
+</figure>
+</page>
+<page id="43" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="52.872,490.982,685.455,511.022" size="20.04">Accessing MISR Data Products via Data Pool Web Interface 6 of 10 <textline bbox="52.872,490.982,685.455,511.022" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Accessing MISR Data Products via Data Pool Web Interface 6 of 10 </textline>
+</textbox>
+<textbox id="1" bbox="7.200,401.140,209.520,453.940" size="24.0">Several options  
+for obtaining data <textline bbox="7.200,429.940,192.672,453.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Several options  </textline>
+<textline bbox="7.200,401.140,209.520,425.140" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">for obtaining data </textline>
+</textbox>
+<textbox id="2" bbox="58.464,281.110,235.536,333.910" size="24.0">Download data  
+with right click <textline bbox="58.464,309.910,235.536,333.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Download data  </textline>
+<textline bbox="59.784,281.110,227.520,305.110" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">with right click </textline>
+</textbox>
+<textbox id="3" bbox="21.072,131.085,235.824,183.890" size="24.012">Data compression  
+options <textline bbox="21.072,159.890,235.824,183.890" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Data compression  </textline>
+<textline bbox="21.072,131.085,107.727,155.109" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">options </textline>
+</textbox>
+<textbox id="4" bbox="135.380,21.864,301.700,45.864" size="24.0">View metadata <textline bbox="135.380,21.864,301.700,45.864" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">View metadata </textline>
+</textbox>
+<textbox id="5" bbox="400.080,57.864,582.576,81.864" size="24.0">Add data to cart <textline bbox="400.080,57.864,582.576,81.864" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Add data to cart </textline>
+</textbox>
+<figure name="Image176" bbox="236.280,117.720,720.000,492.000" src="Image176.896x712.bmp" width="483" height="374">
+</figure>
+<figure name="Image177" bbox="236.280,94.680,720.000,170.280" src="Image177.896x144.bmp" width="483" height="75">
+</figure>
+</page>
+<page id="44" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="52.872,490.982,685.455,511.022" size="20.04">Accessing MISR Data Products via Data Pool Web Interface 7 of 10 <textline bbox="52.872,490.982,685.455,511.022" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Accessing MISR Data Products via Data Pool Web Interface 7 of 10 </textline>
+</textbox>
+<textbox id="1" bbox="25.200,345.910,190.128,369.910" size="24.0">Shopping Cart <textline bbox="25.200,345.910,190.128,369.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Shopping Cart </textline>
+</textbox>
+<figure name="Image180" bbox="203.040,94.320,714.000,468.000" src="Image180.896x712.bmp" width="510" height="373">
+</figure>
+<figure name="Image181" bbox="203.040,14.520,714.000,209.760" src="Image181.896x372.bmp" width="510" height="195">
+</figure>
+</page>
+<page id="45" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="52.872,490.982,685.455,511.022" size="20.04">Accessing MISR Data Products via Data Pool Web Interface 8 of 10 <textline bbox="52.872,490.982,685.455,511.022" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Accessing MISR Data Products via Data Pool Web Interface 8 of 10 </textline>
+</textbox>
+<textbox id="1" bbox="25.200,317.110,177.264,369.910" size="24.0">Select Media  
+Option <textline bbox="25.200,345.910,177.264,369.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select Media  </textline>
+<textline bbox="25.200,317.110,102.576,341.110" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Option </textline>
+</textbox>
+<figure name="Image184" bbox="234.000,114.840,704.040,432.000" src="Image184.896x604.bmp" width="470" height="317">
+</figure>
+</page>
+<page id="46" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="52.872,490.982,685.455,511.022" size="20.04">Accessing MISR Data Products via Data Pool Web Interface 9 of 10 <textline bbox="52.872,490.982,685.455,511.022" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Accessing MISR Data Products via Data Pool Web Interface 9 of 10 </textline>
+</textbox>
+<textbox id="1" bbox="37.200,201.890,161.160,225.890" size="24.0">Order Data <textline bbox="37.200,201.890,161.160,225.890" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Order Data </textline>
+</textbox>
+<figure name="Image187" bbox="182.400,87.480,720.000,426.000" src="Image187.896x564.bmp" width="537" height="338">
+</figure>
+</page>
+<page id="47" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="559.300,374.727,704.570,514.811" size="20.048">Accessing  
+MISR Data  
+Products via  
+Data Pool Web  
+Interface  
+10 of 10 <textline bbox="559.300,494.747,665.238,514.811" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">Accessing  </textline>
+<textline bbox="559.300,470.732,663.829,490.772" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">MISR Data  </textline>
+<textline bbox="559.300,446.732,684.790,466.772" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Products via  </textline>
+<textline bbox="559.300,422.732,704.570,442.772" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Data Pool Web  </textline>
+<textline bbox="559.300,398.732,648.458,418.772" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Interface  </textline>
+<textline bbox="559.300,374.727,633.697,394.791" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">10 of 10 </textline>
+</textbox>
+<figure name="Image190" bbox="12.000,226.800,549.600,537.000" src="Image190.896x460.bmp" width="537" height="310">
+</figure>
+<figure name="Image191" bbox="186.000,0.000,701.400,261.960" src="Image191.859x388.bmp" width="515" height="261">
+</figure>
+</page>
+<page id="48" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="70.872,474.572,651.052,506.612" size="32.04">Accessing Data Pool via FTP Interface <textline bbox="70.872,474.572,651.052,506.612" font="Arial-BoldMT" ncolour="0" size="32.040" colourspace="DeviceGray">Accessing Data Pool via FTP Interface </textline>
+</textbox>
+<figure name="Image154" bbox="76.680,113.640,684.000,461.880" src="Image154.0.999x644.bmp" width="607" height="348">
+</figure>
+<figure name="Image155" bbox="76.680,12.000,684.000,126.600" src="Image155.0.999x212.bmp" width="607" height="114">
+</figure>
+</page>
+<page id="49" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="102.840,503.395,619.572,527.419" size="24.024">Accessing MISR Data Products via FTP 1 of 3 <textline bbox="102.840,503.395,619.572,527.419" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Accessing MISR Data Products via FTP 1 of 3 </textline>
+</textbox>
+<textbox id="1" bbox="31.200,279.910,200.449,447.940" size="24.004">Earth Science  
+Data Type  
+(ESDT) can be  
+found on the  
+MISR Data  
+Table. <textline bbox="31.200,423.940,196.488,447.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Earth Science  </textline>
+<textline bbox="31.200,395.140,150.576,419.140" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Data Type  </textline>
+<textline bbox="31.200,366.335,200.449,390.359" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">(ESDT) can be  </textline>
+<textline bbox="31.200,337.510,182.832,361.510" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">found on the  </textline>
+<textline bbox="31.200,308.710,156.408,332.710" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">MISR Data  </textline>
+<textline bbox="31.200,279.910,98.736,303.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Table. </textline>
+</textbox>
+<textbox id="2" bbox="565.300,69.804,689.374,131.000" size="18.0">MISR Monthly  
+Aerosol  
+Product <textline bbox="565.300,113.000,689.374,131.000" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">MISR Monthly  </textline>
+<textline bbox="565.300,91.404,636.796,109.404" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Aerosol  </textline>
+<textline bbox="565.300,69.804,633.358,87.804" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Product </textline>
+</textbox>
+<figure name="Image196" bbox="198.000,21.000,870.000,486.000" src="Image196.896x620.bmp" width="672" height="465">
+</figure>
+</page>
+<page id="50" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="101.590,491.395,618.322,515.419" size="24.024">Accessing MISR Data Products via FTP 2 of 3 <textline bbox="101.590,491.395,618.322,515.419" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Accessing MISR Data Products via FTP 2 of 3 </textline>
+</textbox>
+<textbox id="1" bbox="391.270,285.910,527.254,309.910" size="24.0">Select Date. <textline bbox="391.270,285.910,527.254,309.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select Date. </textline>
+</textbox>
+<textbox id="2" bbox="391.270,161.082,549.826,253.122" size="20.04">Determine  
+Orbit/Date from  
+the Tools on the  
+MISR Data Table <textline bbox="391.270,233.082,494.817,253.122" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Determine  </textline>
+<textline bbox="391.270,209.082,543.374,229.122" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Orbit/Date from  </textline>
+<textline bbox="391.270,185.082,549.826,205.122" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">the Tools on the  </textline>
+<textline bbox="391.270,161.082,546.520,181.122" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">MISR Data Table </textline>
+</textbox>
+<figure name="Image199" bbox="30.000,0.000,702.000,465.000" src="Image199.896x620.bmp" width="672" height="465">
+</figure>
+</page>
+<page id="51" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="101.590,459.310,618.238,483.310" size="24.0">Accessing MISR Data Products via FTP 3 of 3 <textline bbox="101.590,459.310,618.238,483.310" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Accessing MISR Data Products via FTP 3 of 3 </textline>
+</textbox>
+<textbox id="1" bbox="135.500,118.083,557.611,146.067" size="27.984">Right click on data to download <textline bbox="135.500,118.083,557.611,146.067" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Right click on data to download </textline>
+</textbox>
+<figure name="Image202" bbox="24.000,210.000,696.000,402.000" src="Image202.896x256.bmp" width="672" height="192">
+</figure>
+</page>
+<page id="52" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="61.152,486.587,661.646,518.651" size="32.064">Accessing MISR Data via Beta Interface <textline bbox="61.152,486.587,661.646,518.651">Accessing MISR Data via Beta Interface <text font="Arial-BoldMT" bbox="61.152,486.587,84.302,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">A</text>
+<text font="Arial-BoldMT" bbox="84.302,486.587,102.130,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">c</text>
+<text font="Arial-BoldMT" bbox="102.130,486.587,119.957,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">c</text>
+<text font="Arial-BoldMT" bbox="119.829,486.587,137.657,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">e</text>
+<text font="Arial-BoldMT" bbox="137.657,486.587,155.484,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">s</text>
+<text font="Arial-BoldMT" bbox="155.356,486.587,173.184,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">s</text>
+<text font="Arial-BoldMT" bbox="173.184,486.587,182.097,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">i</text>
+<text font="Arial-BoldMT" bbox="182.001,486.587,201.592,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">n</text>
+<text font="Arial-BoldMT" bbox="201.592,486.587,221.183,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">g</text>
+<text font="Arial-BoldMT" bbox="221.183,486.587,230.097,518.651" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="Arial-BoldMT" bbox="229.777,486.587,256.486,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">M</text>
+<text font="Arial-BoldMT" bbox="256.486,486.587,265.400,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">I</text>
+<text font="Arial-BoldMT" bbox="265.303,486.587,286.690,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">S</text>
+<text font="Arial-BoldMT" bbox="286.690,486.587,309.840,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">R</text>
+<text font="Arial-BoldMT" bbox="309.840,486.587,318.754,518.651" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="Arial-BoldMT" bbox="318.754,486.587,341.904,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">D</text>
+<text font="Arial-BoldMT" bbox="341.904,486.587,359.732,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="Arial-BoldMT" bbox="359.636,486.587,370.313,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">t</text>
+<text font="Arial-BoldMT" bbox="370.313,486.587,388.141,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="Arial-BoldMT" bbox="388.141,486.587,397.054,518.651" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="Arial-BoldMT" bbox="396.830,486.587,414.658,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">v</text>
+<text font="Arial-BoldMT" bbox="414.658,486.587,423.571,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">i</text>
+<text font="Arial-BoldMT" bbox="423.475,486.587,441.303,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="Arial-BoldMT" bbox="441.303,486.587,450.217,518.651" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="Arial-BoldItalicMT" bbox="450.140,486.587,473.290,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">B</text>
+<text font="Arial-BoldItalicMT" bbox="473.290,486.587,491.118,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">e</text>
+<text font="Arial-BoldItalicMT" bbox="491.118,486.587,501.795,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">t</text>
+<text font="Arial-BoldItalicMT" bbox="501.795,486.587,519.623,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="Arial-BoldMT" bbox="528.260,486.587,537.174,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">I</text>
+<text font="Arial-BoldMT" bbox="537.174,486.587,556.765,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">n</text>
+<text font="Arial-BoldMT" bbox="556.765,486.587,567.442,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">t</text>
+<text font="Arial-BoldMT" bbox="567.442,486.587,585.270,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">e</text>
+<text font="Arial-BoldMT" bbox="585.142,486.587,597.614,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">r</text>
+<text font="Arial-BoldMT" bbox="597.614,486.587,608.292,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">f</text>
+<text font="Arial-BoldMT" bbox="608.292,486.587,626.119,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="Arial-BoldMT" bbox="626.119,486.587,643.947,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">c</text>
+<text font="Arial-BoldMT" bbox="643.819,486.587,661.646,518.651" colourspace="DeviceGray" ncolour="0" size="32.064">e</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="25.200,317.110,181.104,369.910" size="24.0">Select a Data  
+Product <textline bbox="25.200,345.910,181.104,369.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select a Data  </textline>
+<textline bbox="25.200,317.110,115.800,341.110" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Product </textline>
+</textbox>
+<textbox id="2" bbox="25.200,201.890,191.904,254.690" size="24.0">Select Date or  
+Orbit <textline bbox="25.200,230.690,191.904,254.690" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select Date or  </textline>
+<textline bbox="25.200,201.890,82.608,225.890" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Orbit </textline>
+</textbox>
+<textbox id="3" bbox="25.200,57.864,191.856,139.460" size="24.0">Select Path or  
+Geographic  
+Region <textline bbox="25.200,115.460,191.856,139.460" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select Path or  </textline>
+<textline bbox="25.200,86.664,165.240,110.664" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Geographic  </textline>
+<textline bbox="25.200,57.864,106.464,81.864" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Region </textline>
+</textbox>
+<figure name="Image207" bbox="204.480,16.440,627.960,269.880" src="Image207.807x675.bmp" width="423" height="253">
+</figure>
+<figure name="Image208" bbox="204.000,269.880,627.960,480.000" src="Image208.808x560.bmp" width="423" height="210">
+</figure>
+</page>
+<page id="53" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="210.290,480.587,441.407,512.651" size="32.064">Search Results <textline bbox="210.290,480.587,441.407,512.651" font="Arial-BoldMT" ncolour="0" size="32.064" colourspace="DeviceGray">Search Results </textline>
+</textbox>
+<textbox id="1" bbox="7.200,371.135,143.184,423.940" size="24.012">Select Data  
+Granule <textline bbox="7.200,399.940,143.184,423.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select Data  </textline>
+<textline bbox="7.200,371.135,97.987,395.159" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Granule </textline>
+</textbox>
+<textbox id="2" bbox="7.200,48.264,175.128,129.860" size="24.0">Add to Cart 
+OR  
+Subset/Format <textline bbox="7.200,105.860,137.544,129.860" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Add to Cart </textline>
+<textline bbox="7.200,77.064,49.872,101.064" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">OR  </textline>
+<textline bbox="7.200,48.264,175.128,72.264" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Subset/Format </textline>
+</textbox>
+<figure name="Image211" bbox="164.160,75.960,750.000,474.000" src="Image211.977x590.bmp" width="585" height="398">
+</figure>
+</page>
+<page id="54" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="119.470,485.283,600.235,513.267" size="27.984">Example:  Order Complete Granules <textline bbox="119.470,485.283,600.235,513.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Example:  Order Complete Granules </textline>
+</textbox>
+<figure name="Image214" bbox="65.280,30.360,672.000,468.000" src="Image214.899x729.bmp" width="606" height="437">
+</figure>
+</page>
+<page id="55" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="140.350,503.283,579.335,531.267" size="27.984">Example:  Subset by Block 1 of 2 <textline bbox="140.350,503.283,579.335,531.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Example:  Subset by Block 1 of 2 </textline>
+</textbox>
+<textbox id="1" bbox="13.200,389.140,169.104,441.940" size="24.0">Select a Data  
+Granule <textline bbox="13.200,417.940,169.104,441.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select a Data  </textline>
+<textline bbox="13.200,389.140,103.896,413.140" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Granule </textline>
+</textbox>
+<textbox id="2" bbox="13.200,158.690,146.688,211.490" size="24.0">Select Grid  
+&amp;/or Field <textline bbox="13.200,187.490,146.688,211.490" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select Grid  </textline>
+<textline bbox="13.200,158.690,123.840,182.690" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">&amp;/or Field </textline>
+</textbox>
+<textbox id="3" bbox="13.200,14.659,153.240,125.060" size="24.006">Select  
+Geographic  
+Region or  
+Block <textline bbox="13.200,101.060,90.504,125.060" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Select  </textline>
+<textline bbox="13.200,72.264,153.240,96.264" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Geographic  </textline>
+<textline bbox="13.200,43.464,131.712,67.464" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Region or  </textline>
+<textline bbox="13.200,14.659,78.521,38.683" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Block </textline>
+</textbox>
+<figure name="Image217" bbox="249.720,0.000,720.000,492.360" src="Image217.627x729.bmp" width="470" height="492">
+</figure>
+</page>
+<page id="56" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="143.350,479.283,582.335,507.267" size="27.984">Example:  Subset by Block 2 of 2 <textline bbox="143.350,479.283,582.335,507.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Example:  Subset by Block 2 of 2 </textline>
+</textbox>
+<figure name="Image220" bbox="120.000,20.640,590.280,456.000" src="Image220.627x581.bmp" width="470" height="435">
+</figure>
+</page>
+<page id="57" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="216.340,491.283,449.727,519.267" size="27.984">User Registration <textline bbox="216.340,491.283,449.727,519.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">User Registration </textline>
+</textbox>
+<figure name="Image223" bbox="102.000,162.120,587.040,468.000" src="Image223.899x729.bmp" width="485" height="305">
+</figure>
+<figure name="Image224" bbox="102.840,39.720,587.880,254.640" src="Image224.899x512.bmp" width="485" height="214">
+</figure>
+</page>
+<page id="58" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="233.260,467.268,444.610,495.228" size="27.96">Order Submittal <textline bbox="233.260,467.268,444.610,495.228" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Order Submittal </textline>
+</textbox>
+<textbox id="1" bbox="383.570,236.518,506.666,246.478" size="9.96">n.a.ritchey@larc.nasa.gov <textline bbox="383.570,236.518,506.666,246.478" font="Arial-BoldItalicMT" ncolour="0" size="9.960" colourspace="DeviceGray">n.a.ritchey@larc.nasa.gov </textline>
+</textbox>
+<figure name="Image227" bbox="24.000,222.000,698.280,414.000" src="Image227.899x256.bmp" width="674" height="192">
+</figure>
+</page>
+<page id="59" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="284.500,447.108,437.747,487.068" size="39.96">Imagery <textline bbox="284.500,447.108,437.747,487.068" font="Arial-BoldMT" ncolour="0" size="39.960" colourspace="DeviceGray">Imagery </textline>
+</textbox>
+<textbox id="1" bbox="44.592,323.110,504.456,375.910" size="24.0">&#8226; MISR Browse Tool &#8211;L1B2 image viewer.  
+http://eosweb.larc.nasa.gov/MISRBR/ <textline bbox="44.592,351.910,504.456,375.910">&#8226; MISR Browse Tool &#8211;L1B2 image viewer.  <text font="ArialMT" bbox="44.592,351.910,52.992,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="Arial-BoldMT" bbox="59.592,351.910,79.584,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">M</text>
+<text font="Arial-BoldMT" bbox="79.584,351.910,86.256,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="Arial-BoldMT" bbox="86.328,351.910,102.336,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="Arial-BoldMT" bbox="102.336,351.910,119.664,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="Arial-BoldMT" bbox="119.568,351.910,126.240,375.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="126.240,351.910,143.568,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">B</text>
+<text font="Arial-BoldMT" bbox="143.448,351.910,152.784,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="Arial-BoldMT" bbox="152.784,351.910,167.448,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="Arial-BoldMT" bbox="167.448,351.910,186.120,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">w</text>
+<text font="Arial-BoldMT" bbox="186.384,351.910,199.728,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="Arial-BoldMT" bbox="199.728,351.910,213.072,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="Arial-BoldMT" bbox="213.072,351.910,219.744,375.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="219.624,351.910,234.288,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="Arial-BoldMT" bbox="232.464,351.910,247.128,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="Arial-BoldMT" bbox="247.128,351.910,261.792,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="Arial-BoldMT" bbox="261.792,351.910,268.464,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="ArialMT" bbox="275.020,351.910,288.364,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="ArialMT" bbox="288.360,351.910,301.704,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">L</text>
+<text font="ArialMT" bbox="301.704,351.910,315.048,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">1</text>
+<text font="ArialMT" bbox="315.048,351.910,331.056,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">B</text>
+<text font="ArialMT" bbox="330.960,351.910,344.304,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">2</text>
+<text font="ArialMT" bbox="344.304,351.910,350.976,375.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="351.096,351.910,356.424,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="356.424,351.910,376.416,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="376.416,351.910,389.760,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="389.760,351.910,403.104,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="ArialMT" bbox="403.104,351.910,416.448,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="416.448,351.910,423.120,375.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="423.192,351.910,435.192,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="ArialMT" bbox="435.192,351.910,440.520,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="440.520,351.910,453.864,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="453.792,351.910,471.120,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">w</text>
+<text font="ArialMT" bbox="471.120,351.910,484.464,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="484.392,351.910,492.384,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="491.112,351.910,497.784,375.910" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="ArialMT" bbox="497.784,351.910,504.456,375.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+<textline bbox="80.592,323.110,479.376,347.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">http://eosweb.larc.nasa.gov/MISRBR/ </textline>
+</textbox>
+<textbox id="2" bbox="44.592,207.890,628.632,289.510" size="24.0">&#8226; Level 3 Imagery &#8211; quick access to images and data. 
+http://eosweb.larc.nasa.gov/PRODOCS/misr/level3/ 
+overview.html <textline bbox="44.592,265.510,621.364,289.510">&#8226; Level 3 Imagery &#8211; quick access to images and data. <text font="ArialMT" bbox="44.592,265.510,52.992,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="Arial-BoldMT" bbox="59.592,265.510,74.256,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">L</text>
+<text font="Arial-BoldMT" bbox="74.256,265.510,87.600,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="Arial-BoldMT" bbox="87.600,265.510,100.944,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="Arial-BoldMT" bbox="100.872,265.510,114.216,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="Arial-BoldMT" bbox="114.216,265.510,120.888,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="Arial-BoldMT" bbox="120.888,265.510,127.560,289.510" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="127.608,265.510,140.952,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">3</text>
+<text font="Arial-BoldMT" bbox="140.952,265.510,147.624,289.510" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="147.624,265.510,154.296,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="Arial-BoldMT" bbox="154.344,265.510,175.680,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="Arial-BoldMT" bbox="175.680,265.510,189.024,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="Arial-BoldMT" bbox="189.024,265.510,203.688,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="Arial-BoldMT" bbox="203.688,265.510,217.032,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="Arial-BoldMT" bbox="217.032,265.510,226.368,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="Arial-BoldMT" bbox="226.368,265.510,239.712,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">y</text>
+<text font="ArialMT" bbox="246.340,265.510,259.684,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="ArialMT" bbox="266.380,265.510,279.724,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">q</text>
+<text font="ArialMT" bbox="279.724,265.510,293.068,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="ArialMT" bbox="293.068,265.510,298.396,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="298.300,265.510,310.300,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="310.300,265.510,322.300,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">k</text>
+<text font="ArialMT" bbox="322.300,265.510,328.972,289.510" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="329.116,265.510,342.460,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="342.460,265.510,354.460,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="354.460,265.510,366.460,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="366.460,265.510,379.804,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="379.804,265.510,391.804,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="391.804,265.510,403.804,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="403.804,265.510,410.476,289.510" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="410.476,265.510,417.148,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="417.148,265.510,430.492,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="430.492,265.510,437.164,289.510" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="437.164,265.510,442.492,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="442.396,265.510,462.388,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="462.388,265.510,475.732,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="475.732,265.510,489.076,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="ArialMT" bbox="489.076,265.510,502.420,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="502.420,265.510,514.420,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="514.420,265.510,521.092,289.510" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="521.212,265.510,534.556,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="534.556,265.510,547.900,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="ArialMT" bbox="547.900,265.510,561.244,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="ArialMT" bbox="561.172,265.510,567.844,289.510" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="567.988,265.510,581.332,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="ArialMT" bbox="581.332,265.510,594.676,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="594.676,265.510,601.348,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="601.348,265.510,614.692,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="614.692,265.510,621.364,289.510" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+</textline>
+<textline bbox="80.592,236.690,628.632,260.690" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">http://eosweb.larc.nasa.gov/PRODOCS/misr/level3/ </textline>
+<textline bbox="80.592,207.890,225.888,231.890" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">overview.html </textline>
+</textbox>
+<textbox id="3" bbox="44.592,121.485,701.260,174.290" size="24.012">&#8226; MISR Imagery &#8211; Image of the week, Field Campaigns, U.S.  
+Atlas.  http://eosweb.larc.nasa.gov/HPDOCS/misr/index.html <textline bbox="44.592,150.290,701.260,174.290">&#8226; MISR Imagery &#8211; Image of the week, Field Campaigns, U.S.  <text font="ArialMT" bbox="44.592,150.290,52.992,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="Arial-BoldMT" bbox="59.592,150.290,79.584,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">M</text>
+<text font="Arial-BoldMT" bbox="79.584,150.290,86.256,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="Arial-BoldMT" bbox="86.328,150.290,102.336,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="Arial-BoldMT" bbox="102.336,150.290,119.664,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="Arial-BoldMT" bbox="119.568,150.290,126.240,174.290" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="126.240,150.290,132.912,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="Arial-BoldMT" bbox="132.912,150.290,154.248,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="Arial-BoldMT" bbox="154.248,150.290,167.592,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="Arial-BoldMT" bbox="167.592,150.290,182.256,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="Arial-BoldMT" bbox="182.256,150.290,195.600,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="Arial-BoldMT" bbox="195.600,150.290,204.936,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="Arial-BoldMT" bbox="204.936,150.290,218.280,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">y</text>
+<text font="ArialMT" bbox="224.980,150.290,238.324,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="ArialMT" bbox="245.020,150.290,251.692,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="ArialMT" bbox="251.692,150.290,271.684,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="271.756,150.290,285.100,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="285.100,150.290,298.444,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="ArialMT" bbox="298.444,150.290,311.788,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="311.716,150.290,318.388,174.290" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="318.388,150.290,331.732,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="331.636,150.290,338.308,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="ArialMT" bbox="338.308,150.290,344.980,174.290" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="344.980,150.290,351.652,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="351.652,150.290,364.996,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="ArialMT" bbox="364.996,150.290,378.340,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="378.340,150.290,385.012,174.290" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="385.012,150.290,402.340,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">w</text>
+<text font="ArialMT" bbox="402.340,150.290,415.684,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="415.684,150.290,429.028,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="429.028,150.290,441.028,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">k</text>
+<text font="ArialMT" bbox="441.028,150.290,447.700,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">,</text>
+<text font="ArialMT" bbox="447.700,150.290,454.372,174.290" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="454.372,150.290,469.036,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">F</text>
+<text font="ArialMT" bbox="469.036,150.290,474.364,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="474.364,150.290,487.708,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="487.708,150.290,493.036,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="ArialMT" bbox="492.916,150.290,506.260,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="ArialMT" bbox="506.260,150.290,512.932,174.290" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="513.052,150.290,530.380,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">C</text>
+<text font="ArialMT" bbox="530.380,150.290,543.724,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="543.652,150.290,563.644,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="563.644,150.290,576.988,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="ArialMT" bbox="576.988,150.290,590.332,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="590.332,150.290,595.660,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="595.660,150.290,609.004,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="ArialMT" bbox="609.004,150.290,622.348,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="ArialMT" bbox="622.252,150.290,634.252,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="634.252,150.290,640.924,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">,</text>
+<text font="ArialMT" bbox="640.924,150.290,647.596,174.290" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="647.908,150.290,665.236,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">U</text>
+<text font="ArialMT" bbox="665.236,150.290,671.908,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="ArialMT" bbox="671.908,150.290,687.916,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="ArialMT" bbox="687.916,150.290,694.588,174.290" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="ArialMT" bbox="694.588,150.290,701.260,174.290" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+<textline bbox="44.592,121.485,687.234,145.509" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Atlas.  http://eosweb.larc.nasa.gov/HPDOCS/misr/index.html </textline>
+</textbox>
+<figure name="Image6" bbox="31.320,412.200,111.600,527.040" src="Image6.4.107x153.bmp" width="80" height="114">
+</figure>
+</page>
+<page id="60" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="6.168,448.668,293.932,476.628" size="27.96">MISR Level 3 Imagery <textline bbox="6.168,448.668,293.932,476.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">MISR Level 3 Imagery </textline>
+</textbox>
+<figure name="Image232" bbox="294.000,290.400,697.080,516.000" src="Image232.896x668.bmp" width="403" height="225">
+</figure>
+<figure name="Image233" bbox="294.000,95.880,697.080,305.280" src="Image233.896x620.bmp" width="403" height="209">
+</figure>
+<figure name="Image234" bbox="294.000,23.040,697.080,135.120" src="Image234.896x332.bmp" width="403" height="112">
+</figure>
+</page>
+<page id="61" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="13.200,449.868,301.071,511.467" size="27.972">MISR Level 3 Imagery 
+Product Descriptions <textline bbox="13.200,483.483,301.071,511.467" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">MISR Level 3 Imagery </textline>
+<textline bbox="13.200,449.868,296.295,477.828" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Product Descriptions </textline>
+</textbox>
+<figure name="Image237" bbox="326.040,312.240,696.000,510.360" src="Image237.896x652.bmp" width="369" height="198">
+</figure>
+<figure name="Image238" bbox="326.040,185.760,696.000,381.480" src="Image238.896x644.bmp" width="369" height="195">
+</figure>
+<figure name="Image239" bbox="326.040,18.000,696.000,211.320" src="Image239.896x636.bmp" width="369" height="193">
+</figure>
+</page>
+<page id="62" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,367.063,187.682,462.228" size="27.968">MISR Level 3  
+Imagery 
+Aerosol <textline bbox="7.200,434.268,187.682,462.228" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">MISR Level 3  </textline>
+<textline bbox="7.200,400.668,114.510,428.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Imagery </textline>
+<textline bbox="7.200,367.063,111.384,395.047" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Aerosol </textline>
+</textbox>
+<figure name="Image242" bbox="182.400,12.000,720.000,312.480" src="Image242.896x636.bmp" width="537" height="300">
+</figure>
+<figure name="Image243" bbox="182.400,306.720,720.000,516.480" src="Image243.896x444.bmp" width="537" height="209">
+</figure>
+</page>
+<page id="63" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,350.238,187.682,479.028" size="27.966">MISR Level 3  
+Imagery 
+Data  
+Download <textline bbox="7.200,451.068,187.682,479.028" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">MISR Level 3  </textline>
+<textline bbox="7.200,417.468,114.510,445.428" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Imagery </textline>
+<textline bbox="7.200,383.863,75.621,411.847" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Data  </textline>
+<textline bbox="7.200,350.238,140.681,378.198" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Download </textline>
+</textbox>
+<figure name="Image246" bbox="192.000,245.400,696.480,528.000" src="Image246.896x580.bmp" width="504" height="282">
+</figure>
+<figure name="Image247" bbox="192.000,15.480,696.480,253.200" src="Image247.896x488.bmp" width="504" height="237">
+</figure>
+</page>
+<page id="64" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="211.250,485.283,532.954,513.267" size="27.984">Access the Browse Tool <textline bbox="211.250,485.283,532.954,513.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Access the Browse Tool </textline>
+</textbox>
+<figure name="Image122" bbox="66.720,51.600,666.000,478.680" src="Image122.0.999x712.bmp" width="599" height="427">
+</figure>
+<figure name="Image123" bbox="66.720,-18.000,666.000,188.280" src="Image123.0.999x344.bmp" width="599" height="206">
+</figure>
+</page>
+<page id="65" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<figure name="Image252" bbox="102.960,258.000,611.040,527.880" src="Image252.1262x731.bmp" width="508" height="269">
+</figure>
+<figure name="Image253" bbox="104.760,12.240,610.920,261.360" src="Image253.jpg" width="506" height="249">
+</figure>
+</page>
+<page id="66" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="55.320,417.352,138.726,437.392" size="20.04">Data Day <textline bbox="55.320,417.352,138.726,437.392" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Data Day </textline>
+</textbox>
+<textbox id="1" bbox="77.400,218.817,128.643,238.881" size="20.064">Paths <textline bbox="77.400,218.817,128.643,238.881" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">Paths </textline>
+</textbox>
+<textbox id="2" bbox="561.600,439.982,612.762,460.022" size="20.04">Paths <textline bbox="561.600,439.982,612.762,460.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Paths </textline>
+</textbox>
+<textbox id="3" bbox="572.520,170.922,631.598,190.962" size="20.04">Blocks <textline bbox="572.520,170.922,631.598,190.962" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Blocks </textline>
+</textbox>
+<textbox id="4" bbox="169.990,18.828,536.902,101.628" size="18.0">Run the cursor over a path on the map to see  
+block information listed on window border.  
+Click on a block within a path to view a  
+browse image centered at that block.  <textline bbox="169.990,83.628,536.902,101.628" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Run the cursor over a path on the map to see  </textline>
+<textline bbox="169.990,62.028,508.858,80.028" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">block information listed on window border.  </textline>
+<textline bbox="169.990,40.428,482.902,58.428" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Click on a block within a path to view a  </textline>
+<textline bbox="169.990,18.828,468.790,36.828" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">browse image centered at that block.  </textline>
+</textbox>
+<figure name="Image256" bbox="43.200,142.800,662.640,521.040" src="Image256.1268x774.bmp" width="619" height="378">
+</figure>
+</page>
+<page id="67" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="31.200,437.140,168.456,489.940" size="24.0">Determine  
+Orbit or Date <textline bbox="31.200,465.940,148.536,489.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Determine  </textline>
+<textline bbox="31.200,437.140,168.456,461.140" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Orbit or Date </textline>
+</textbox>
+<figure name="Image252" bbox="192.600,257.160,700.680,527.040" src="Image252.0.1262x731.bmp" width="508" height="269">
+</figure>
+<figure name="Image253" bbox="194.400,8.880,700.560,258.000" src="Image253.0.jpg" width="506" height="249">
+</figure>
+<figure name="Image259" bbox="13.320,174.000,254.880,425.160" src="Image259.512x532.bmp" width="241" height="251">
+</figure>
+</page>
+<page id="68" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="23.952,402.340,138.768,483.940" size="24.0">Enter  
+Latitude &amp;  
+Longitude <textline bbox="23.952,459.940,87.960,483.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Enter  </textline>
+<textline bbox="23.952,431.140,138.768,455.140" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Latitude &amp;  </textline>
+<textline bbox="23.952,402.340,129.216,426.340" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Longitude </textline>
+</textbox>
+<textbox id="1" bbox="319.250,30.264,410.090,111.864" size="24.0">Obtain  
+Paths &amp;  
+Blocks <textline bbox="319.250,87.864,396.746,111.864" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Obtain  </textline>
+<textline bbox="319.250,59.064,410.090,83.064" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Paths &amp;  </textline>
+<textline bbox="319.250,30.264,389.930,54.264" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Blocks </textline>
+</textbox>
+<figure name="Image262" bbox="174.000,182.160,701.400,525.000" src="Image262.1280x832.bmp" width="527" height="342">
+</figure>
+<figure name="Image263" bbox="174.000,15.120,699.840,186.960" src="Image263.jpg" width="525" height="171">
+</figure>
+<figure name="Image264" bbox="24.000,144.000,259.080,388.920" src="Image264.512x534.bmp" width="235" height="244">
+</figure>
+<figure name="Image265" bbox="222.000,14.400,470.640,276.000" src="Image265.512x539.bmp" width="248" height="261">
+</figure>
+</page>
+<page id="69" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="20.568,336.212,163.921,452.272" size="20.0448">Select path of  
+interest, Ex.  
+Path 160      
+Blocks 68 &#8211; 75  
+Data Day 10 <textline bbox="20.568,432.232,157.461,452.272" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Select path of  </textline>
+<textline bbox="20.568,408.232,139.545,428.272" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">interest, Ex.  </textline>
+<textline bbox="20.568,384.227,130.719,404.291" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">Path 160      </textline>
+<textline bbox="20.568,360.212,163.921,380.252" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Blocks 68 &#8211; 75  </textline>
+<textline bbox="20.568,336.212,134.095,356.252" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Data Day 10 </textline>
+</textbox>
+<textbox id="1" bbox="20.640,242.697,170.398,262.761" size="20.064">Or click on map <textline bbox="20.640,242.697,170.398,262.761" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">Or click on map </textline>
+</textbox>
+<figure name="Image252" bbox="198.600,270.120,706.680,540.000" src="Image252.1.1262x731.bmp" width="508" height="269">
+</figure>
+<figure name="Image253" bbox="198.600,24.360,704.760,273.480" src="Image253.1.jpg" width="506" height="249">
+</figure>
+</page>
+<page id="70" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="504.790,314.202,620.260,382.262" size="20.04">Block  
+selected on  
+map <textline bbox="504.790,362.222,564.930,382.262" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Block  </textline>
+<textline bbox="504.790,338.202,620.260,358.242" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">selected on  </textline>
+<textline bbox="504.790,314.202,545.992,334.242" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">map </textline>
+</textbox>
+<figure name="Image270" bbox="67.080,52.440,670.680,491.160" src="Image270.612x597.bmp" width="603" height="438">
+</figure>
+</page>
+<page id="71" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="159.840,374.222,267.451,394.262" size="18.0">JPEG Image <textline bbox="159.840,374.222,267.451,394.262">JPEG Image <text font="ArialMT" bbox="159.840,374.650,168.840,392.650" colourspace="DeviceGray" ncolour="(0.733, 0.878, 0.89)" size="18.000">J</text>
+<text font="ArialMT" bbox="168.840,374.650,180.846,392.650" colourspace="DeviceGray" ncolour="(0.733, 0.878, 0.89)" size="18.000">P</text>
+<text font="ArialMT" bbox="180.846,374.650,192.852,392.650" colourspace="DeviceGray" ncolour="(0.733, 0.878, 0.89)" size="18.000">E</text>
+<text font="ArialMT" bbox="192.852,374.650,206.856,392.650" colourspace="DeviceGray" ncolour="(0.733, 0.878, 0.89)" size="18.000">G</text>
+<text font="ArialMT" bbox="206.856,374.650,211.860,392.650" colourspace="DeviceGray" ncolour="(0.733, 0.878, 0.89)" size="18.000"> </text>
+<text font="ArialMT" bbox="211.820,374.222,217.391,394.262" colourspace="DeviceGray" ncolour="(0.733, 0.878, 0.89)" size="20.040">I</text>
+<text font="ArialMT" bbox="217.391,374.222,234.084,394.262" colourspace="DeviceGray" ncolour="(0.733, 0.878, 0.89)" size="20.040">m</text>
+<text font="ArialMT" bbox="234.024,374.222,245.167,394.262" colourspace="DeviceGray" ncolour="(0.733, 0.878, 0.89)" size="20.040">a</text>
+<text font="ArialMT" bbox="245.167,374.222,256.309,394.262" colourspace="DeviceGray" ncolour="(0.733, 0.878, 0.89)" size="20.040">g</text>
+<text font="ArialMT" bbox="256.309,374.222,267.451,394.262" colourspace="DeviceGray" ncolour="(0.733, 0.878, 0.89)" size="20.040">e</text>
+</textline>
+</textbox>
+<figure name="Image273" bbox="43.680,28.920,693.000,509.040" src="Image273.jpg" width="649" height="480">
+</figure>
+</page>
+<page id="72" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="187.220,369.980,661.160,492.410" size="36.008">ATMOSPHERIC                      
+SCIENCES                      
+DATA CENTER <textline bbox="187.220,456.410,661.160,492.410" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="36.000" colourspace="DeviceGray">ATMOSPHERIC                      </textline>
+<textline bbox="187.220,413.205,581.863,449.229" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="36.024" colourspace="DeviceGray">SCIENCES                      </textline>
+<textline bbox="187.220,369.980,438.752,405.980" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="36.000" colourspace="DeviceGray">DATA CENTER </textline>
+</textbox>
+<textbox id="1" bbox="105.840,209.458,592.513,249.418" size="39.96">http://eosweb.larc.nasa.gov <textline bbox="105.840,209.458,592.513,249.418" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">http://eosweb.larc.nasa.gov </textline>
+</textbox>
+<textbox id="2" bbox="105.840,137.453,448.663,177.437" size="39.984">larc@eos.nasa.gov <textline bbox="105.840,137.453,448.663,177.437" font="ArialMT" ncolour="0" size="39.984" colourspace="DeviceGray">larc@eos.nasa.gov </textline>
+</textbox>
+<figure name="Image6" bbox="13.320,311.040,164.160,527.040" src="Image6.5.107x153.bmp" width="150" height="215">
+</figure>
+</page>
+</pages>

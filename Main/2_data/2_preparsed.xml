@@ -1,0 +1,866 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="388.150,525.860,712.764,537.860" size="12.0">Reducing Canada's vulnerability to climate change - ESS <textline bbox="388.150,525.860,712.764,537.860" font="Arial-BoldItalicMT" ncolour="(1, 0.886, 0.655)" size="12.000" colourspace="DeviceGray">Reducing Canada's vulnerability to climate change - ESS </textline>
+</textbox>
+<textbox id="1" bbox="87.912,390.332,631.657,434.372" size="20.04">Is anomalous vertical motion in WAIS Ice Streams tied to  
+subglacial water transport? <textline bbox="87.912,414.332,631.657,434.372" font="Arial-BoldMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">Is anomalous vertical motion in WAIS Ice Streams tied to  </textline>
+<textline bbox="226.420,390.332,487.561,410.372" font="Arial-BoldMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">subglacial water transport? </textline>
+</textbox>
+<textbox id="2" bbox="101.830,270.182,612.169,314.342" size="20.04">Laurence Gray, Ian Joughin, Slawek Tulaczyk,  
+Vandy Blue Spikes, Bob Bindschadler and Ken Jezek. <textline bbox="139.750,294.302,579.688,314.342" font="Arial-BoldMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">Laurence Gray, Ian Joughin, Slawek Tulaczyk,  </textline>
+<textline bbox="101.830,270.182,612.169,290.222" font="Arial-BoldMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">Vandy Blue Spikes, Bob Bindschadler and Ken Jezek. </textline>
+</textbox>
+<textbox id="3" bbox="43.200,108.252,612.827,181.122" size="20.048">Acknowledgements; 
+&#8226; CSA/NASA for the AMM RADARSAT data. 
+&#8226; SOAR, U Texas, &amp; NSF for bed and surface height data from  <textline bbox="43.200,161.082,222.598,181.122" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Acknowledgements; </textline>
+<textline bbox="43.200,134.677,446.484,154.741" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; CSA/NASA for the AMM RADARSAT data. </textline>
+<textline bbox="43.200,108.252,612.827,128.292" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; SOAR, U Texas, &amp; NSF for bed and surface height data from  </textline>
+</textbox>
+<textbox id="4" bbox="70.224,86.656,168.941,106.696" size="20.04">CASERTZ  <textline bbox="70.224,86.656,168.941,106.696" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">CASERTZ  </textline>
+</textbox>
+<figure name="Image6" bbox="0.000,-0.600,720.000,540.000" src="Image6.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="57.072,477.332,212.528,521.411" size="20.052">Ice motion from  
+RADARSAT <textline bbox="57.072,501.347,212.528,521.411" font="Arial-BoldMT" ncolour="(0.4, 0, 0.2)" size="20.064" colourspace="DeviceGray">Ice motion from  </textline>
+<textline bbox="76.392,477.332,187.594,497.372" font="Arial-BoldMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">RADARSAT </textline>
+</textbox>
+<textbox id="1" bbox="7.200,318.010,235.980,433.240" size="18.0">Ice motion in the WAIS has  
+been measured using range  
+and azimuth shifts from  
+passes separated by 24  
+days. The surface parallel  
+flow assumption was used. <textline bbox="7.200,415.240,228.456,433.240" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">Ice motion in the WAIS has  </textline>
+<textline bbox="7.200,395.800,235.980,413.800" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">been measured using range  </textline>
+<textline bbox="7.200,376.360,198.162,394.360" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">and azimuth shifts from  </textline>
+<textline bbox="7.200,356.890,203.094,374.890" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">passes separated by 24  </textline>
+<textline bbox="7.200,337.450,217.656,355.450" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">days. The surface parallel  </textline>
+<textline bbox="7.200,318.010,222.084,336.010" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">flow assumption was used. </textline>
+</textbox>
+<textbox id="2" bbox="7.200,140.870,227.160,275.530" size="18.0">In a few areas there are  
+overlapping ascending and  
+descending passes which  
+allow estimation of all 3  
+components of ice  
+displacement in the 24 day  
+repeat period. <textline bbox="7.200,257.530,202.122,275.530" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">In a few areas there are  </textline>
+<textline bbox="7.200,238.070,227.160,256.070" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">overlapping ascending and  </textline>
+<textline bbox="7.200,218.630,216.702,236.630" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">descending passes which  </textline>
+<textline bbox="7.200,199.190,198.216,217.190" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">allow estimation of all 3  </textline>
+<textline bbox="7.200,179.750,158.130,197.750" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">components of ice  </textline>
+<textline bbox="7.200,160.310,225.882,178.310" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">displacement in the 24 day  </textline>
+<textline bbox="7.200,140.870,118.098,158.870" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">repeat period. </textline>
+</textbox>
+<textbox id="3" bbox="7.200,81.294,240.930,119.450" size="9.0">Joughin, I. L. Gray R. Bindschadler, S. Price, D. Morse, C.  
+Hulbe, K. Mattar, and C. Werner, Tributaries of West  
+Antarctic Ice Streams revealed by RADARSAT  
+interferometry, Science, 286, (5438), 283-286, 1999. <textline bbox="7.200,110.450,240.930,119.450" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="9.000" colourspace="DeviceGray">Joughin, I. L. Gray R. Bindschadler, S. Price, D. Morse, C.  </textline>
+<textline bbox="7.200,100.730,218.880,109.730" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="9.000" colourspace="DeviceGray">Hulbe, K. Mattar, and C. Werner, Tributaries of West  </textline>
+<textline bbox="7.200,91.014,195.426,100.014" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="9.000" colourspace="DeviceGray">Antarctic Ice Streams revealed by RADARSAT  </textline>
+<textline bbox="7.200,81.294,216.299,90.294" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="9.000" colourspace="DeviceGray">interferometry, Science, 286, (5438), 283-286, 1999. </textline>
+</textbox>
+<figure name="Image21" bbox="0.000,0.000,720.000,37.800" src="Image21.jpg" width="720" height="37">
+</figure>
+<figure name="Image22" bbox="252.000,54.000,720.000,522.000" src="Image22.jpg" width="468" height="468">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="135.910,483.955,583.958,507.979" size="24.024">Examples of vertical surface displacement <textline bbox="135.910,483.955,583.958,507.979" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="24.024" colourspace="DeviceGray">Examples of vertical surface displacement </textline>
+</textbox>
+<textbox id="1" bbox="61.224,61.164,579.174,131.000" size="18.0">Area A1 includes an area of the Kamb Ice Stream (&#8220;C&#8221;). 
+Area A2 includes a tributary of the Bindschadler Ice Stream (&#8220;D&#8221;). 
+L1 and L2 are lidar flight lines flown by SOAR in 1998 and 2000. <textline bbox="61.224,113.000,503.160,131.000" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">Area A1 includes an area of the Kamb Ice Stream (&#8220;C&#8221;). </textline>
+<textline bbox="61.224,87.084,579.174,105.084" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">Area A2 includes a tributary of the Bindschadler Ice Stream (&#8220;D&#8221;). </textline>
+<textline bbox="61.224,61.164,571.992,79.164" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">L1 and L2 are lidar flight lines flown by SOAR in 1998 and 2000. </textline>
+</textbox>
+<figure name="Image21" bbox="0.000,0.000,720.000,37.800" src="Image21.0.jpg" width="720" height="37">
+</figure>
+<figure name="Image25" bbox="0.000,155.400,720.000,468.000" src="Image25.jpg" width="720" height="312">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="397.270,489.955,413.294,513.979" size="24.024">A <textline bbox="397.270,489.955,413.294,513.979" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">A </textline>
+</textbox>
+<textbox id="1" bbox="397.270,237.905,413.294,261.929" size="24.024">B <textline bbox="397.270,237.905,413.294,261.929" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">B </textline>
+</textbox>
+<textbox id="2" bbox="67.224,254.697,317.123,322.742" size="20.048">A: Ice speed displayed as a  
+color overlay for the  
+overlap area. <textline bbox="67.224,302.702,317.123,322.742" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">A: Ice speed displayed as a  </textline>
+<textline bbox="94.224,278.702,275.225,298.742" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">color overlay for the  </textline>
+<textline bbox="94.224,254.697,211.117,274.761" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.064" colourspace="DeviceGray">overlap area. </textline>
+</textbox>
+<textbox id="3" bbox="67.224,101.052,339.443,217.122" size="20.0448">B:  Solution for 24-day vertical  
+displacement. Note the  
+blue area with significant  
+surface deflation, up to ~  
+50 cm. <textline bbox="67.224,197.082,339.443,217.122" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">B:  Solution for 24-day vertical  </textline>
+<textline bbox="94.224,173.082,304.203,193.122" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">displacement. Note the  </textline>
+<textline bbox="94.224,149.082,318.872,169.122" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">blue area with significant  </textline>
+<textline bbox="94.224,125.077,319.001,145.141" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.064" colourspace="DeviceGray">surface deflation, up to ~  </textline>
+<textline bbox="94.224,101.052,154.224,121.092" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">50 cm. </textline>
+</textbox>
+<figure name="Image21" bbox="0.000,0.000,720.000,37.800" src="Image21.1.jpg" width="720" height="37">
+</figure>
+<figure name="Image28" bbox="420.000,278.160,720.000,540.000" src="Image28.jpg" width="300" height="261">
+</figure>
+<figure name="Image29" bbox="420.000,42.000,720.000,277.080" src="Image29.925x725.bmp" width="300" height="235">
+</figure>
+<figure name="Image25" bbox="30.000,376.080,366.000,522.000" src="Image25.0.jpg" width="336" height="145">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="61.224,391.892,437.595,523.192" size="20.043999999999997">Phase images from both ascending and  
+descending SRI pairs. Note that the  
+patterns, which reflect &#8216;line-of-sight  
+displacement&#8217;, are different in the 2  
+geometries except for the concentric rings  
+over the position of the surface deflation. <textline bbox="61.224,503.152,418.818,523.192" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">Phase images from both ascending and  </textline>
+<textline bbox="61.224,481.547,382.288,501.611" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.064" colourspace="DeviceGray">descending SRI pairs. Note that the  </textline>
+<textline bbox="61.224,459.932,374.766,479.972" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">patterns, which reflect &#8216;line-of-sight  </textline>
+<textline bbox="61.224,438.332,377.215,458.372" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">displacement&#8217;, are different in the 2  </textline>
+<textline bbox="61.224,416.732,437.595,436.772" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">geometries except for the concentric rings  </textline>
+<textline bbox="61.224,391.892,420.982,411.932" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">over the position of the surface deflation. </textline>
+</textbox>
+<figure name="Image32" bbox="48.000,48.360,666.000,366.000" src="Image32.jpg" width="618" height="317">
+</figure>
+<figure name="Image21" bbox="0.000,0.000,720.000,37.800" src="Image21.2.jpg" width="720" height="37">
+</figure>
+<figure name="Image33" bbox="492.000,376.080,678.000,540.000" src="Image33.jpg" width="186" height="163">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="367.270,495.955,383.294,519.979" size="24.024">A <textline bbox="367.270,495.955,383.294,519.979" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">A </textline>
+</textbox>
+<textbox id="1" bbox="367.270,261.910,383.278,285.910" size="24.0">B <textline bbox="367.270,261.910,383.278,285.910" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">B </textline>
+</textbox>
+<textbox id="2" bbox="43.200,316.330,302.202,373.210" size="18.0">A: Horizontal velocity field  
+interpolated from repeated GPS  
+measurements*. <textline bbox="43.200,355.210,255.480,373.210">A: Horizontal velocity field  <text font="Arial-BoldMT" bbox="43.200,355.210,56.196,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">A</text>
+<text font="ArialMT" bbox="55.680,355.210,60.684,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">:</text>
+<text font="ArialMT" bbox="60.720,355.210,65.724,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="66.246,355.210,79.242,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">H</text>
+<text font="ArialMT" bbox="79.242,355.210,89.250,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">o</text>
+<text font="ArialMT" bbox="89.250,355.210,95.244,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">r</text>
+<text font="ArialMT" bbox="95.244,355.210,99.240,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">i</text>
+<text font="ArialMT" bbox="99.240,355.210,108.240,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">z</text>
+<text font="ArialMT" bbox="108.240,355.210,118.248,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">o</text>
+<text font="ArialMT" bbox="118.248,355.210,128.256,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">n</text>
+<text font="ArialMT" bbox="128.184,355.210,133.188,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">t</text>
+<text font="ArialMT" bbox="133.224,355.210,143.232,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">a</text>
+<text font="ArialMT" bbox="143.232,355.210,147.228,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">l</text>
+<text font="ArialMT" bbox="147.174,355.210,152.178,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="152.340,355.210,161.340,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">v</text>
+<text font="ArialMT" bbox="161.340,355.210,171.348,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="171.348,355.210,175.344,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">l</text>
+<text font="ArialMT" bbox="175.344,355.210,185.352,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">o</text>
+<text font="ArialMT" bbox="185.298,355.210,194.298,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">c</text>
+<text font="ArialMT" bbox="194.298,355.210,198.294,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">i</text>
+<text font="ArialMT" bbox="198.294,355.210,203.298,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">t</text>
+<text font="ArialMT" bbox="203.298,355.210,212.298,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">y</text>
+<text font="ArialMT" bbox="212.136,355.210,217.140,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="217.536,355.210,222.540,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">f</text>
+<text font="ArialMT" bbox="222.576,355.210,226.572,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">i</text>
+<text font="ArialMT" bbox="226.572,355.210,236.580,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="236.526,355.210,240.522,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">l</text>
+<text font="ArialMT" bbox="240.522,355.210,250.530,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">d</text>
+<text font="ArialMT" bbox="250.476,355.210,255.480,373.210" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+</textline>
+<textline bbox="43.200,335.770,302.202,353.770" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">interpolated from repeated GPS  </textline>
+<textline bbox="43.200,316.330,173.970,334.330" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">measurements*. </textline>
+</textbox>
+<textbox id="3" bbox="43.200,113.240,343.044,286.810" size="18.005333333333333">B: This was used to estimate the 24- 
+day horizontal displacements which  
+was then combined with the radar  
+line-of-sight displacement from an  
+interferometric pair (from Sept. 26  
+and Oct. 20, 1997) to derive the local  
+vertical displacement. The red and  
+blue areas represent uplift and  
+subsidence, respectively.  <textline bbox="43.200,268.810,334.864,286.810">B: This was used to estimate the 24- <text font="Arial-BoldMT" bbox="43.200,268.810,56.196,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">B</text>
+<text font="ArialMT" bbox="56.160,268.810,61.164,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">:</text>
+<text font="ArialMT" bbox="61.224,268.810,66.228,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="65.904,268.810,76.902,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">T</text>
+<text font="ArialMT" bbox="77.046,268.810,87.054,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">h</text>
+<text font="ArialMT" bbox="87.054,268.810,91.050,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">i</text>
+<text font="ArialMT" bbox="90.960,268.810,99.960,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">s</text>
+<text font="ArialMT" bbox="99.960,268.810,104.964,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="104.874,268.810,117.870,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">w</text>
+<text font="ArialMT" bbox="117.474,268.810,127.482,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">a</text>
+<text font="ArialMT" bbox="127.482,268.810,136.482,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">s</text>
+<text font="ArialMT" bbox="136.482,268.810,141.486,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="141.810,268.810,151.818,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">u</text>
+<text font="ArialMT" bbox="151.818,268.810,160.818,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">s</text>
+<text font="ArialMT" bbox="160.818,268.810,170.826,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="170.736,268.810,180.744,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">d</text>
+<text font="ArialMT" bbox="180.744,268.810,185.748,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="185.838,268.810,190.842,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">t</text>
+<text font="ArialMT" bbox="190.842,268.810,200.850,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">o</text>
+<text font="ArialMT" bbox="200.850,268.810,205.854,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="205.854,268.810,215.862,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="215.862,268.810,224.862,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">s</text>
+<text font="ArialMT" bbox="224.862,268.810,229.866,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">t</text>
+<text font="ArialMT" bbox="229.866,268.810,233.862,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">i</text>
+<text font="ArialMT" bbox="233.862,268.810,248.856,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">m</text>
+<text font="ArialMT" bbox="248.856,268.810,258.864,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">a</text>
+<text font="ArialMT" bbox="258.792,268.810,263.796,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">t</text>
+<text font="ArialMT" bbox="263.796,268.810,273.804,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="273.804,268.810,278.808,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="278.808,268.810,283.812,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">t</text>
+<text font="ArialMT" bbox="283.848,268.810,293.856,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">h</text>
+<text font="ArialMT" bbox="293.856,268.810,303.864,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="303.774,268.810,308.778,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="308.778,268.810,318.786,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">2</text>
+<text font="ArialMT" bbox="318.786,268.810,328.794,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">4</text>
+<text font="ArialMT" bbox="328.870,268.810,334.864,286.810" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">-</text>
+</textline>
+<textline bbox="43.200,249.365,330.719,267.389" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.024" colourspace="DeviceGray">day horizontal displacements which  </textline>
+<textline bbox="43.200,229.910,317.106,247.910" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">was then combined with the radar  </textline>
+<textline bbox="43.200,210.470,318.060,228.470" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">line-of-sight displacement from an  </textline>
+<textline bbox="43.200,191.030,317.088,209.030" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">interferometric pair (from Sept. 26  </textline>
+<textline bbox="43.200,171.590,343.044,189.590" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">and Oct. 20, 1997) to derive the local  </textline>
+<textline bbox="43.200,152.150,322.758,170.150" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">vertical displacement. The red and  </textline>
+<textline bbox="43.200,132.705,291.048,150.729" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.024" colourspace="DeviceGray">blue areas represent uplift and  </textline>
+<textline bbox="43.200,113.240,247.482,131.240" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">subsidence, respectively.  </textline>
+</textbox>
+<textbox id="4" bbox="43.200,60.174,331.867,98.334" size="9.0">* Chen, X., Bindschadler, R. A. &amp; Vornberger, P. L. Determination of  
+velocity field and strain-rate field in West Antarctica using high precision  
+GPS measurements. Surveying and Land Information Systems. 58, 247- 
+255 (1998). <textline bbox="43.200,89.334,319.011,98.334" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="9.000" colourspace="DeviceGray">* Chen, X., Bindschadler, R. A. &amp; Vornberger, P. L. Determination of  </textline>
+<textline bbox="43.200,79.614,331.307,88.614" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="9.000" colourspace="DeviceGray">velocity field and strain-rate field in West Antarctica using high precision  </textline>
+<textline bbox="43.200,69.894,331.867,78.894">GPS measurements. Surveying and Land Information Systems. 58, 247- <text font="ArialMT" bbox="43.200,69.894,50.202,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">G</text>
+<text font="ArialMT" bbox="50.157,69.894,56.160,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">P</text>
+<text font="ArialMT" bbox="56.160,69.894,62.163,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">S</text>
+<text font="ArialMT" bbox="62.163,69.894,64.665,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000"> </text>
+<text font="ArialMT" bbox="64.665,69.894,72.162,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">m</text>
+<text font="ArialMT" bbox="72.225,69.894,77.229,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">e</text>
+<text font="ArialMT" bbox="77.256,69.894,82.260,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">a</text>
+<text font="ArialMT" bbox="82.287,69.894,86.787,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">s</text>
+<text font="ArialMT" bbox="86.841,69.894,91.845,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">u</text>
+<text font="ArialMT" bbox="91.872,69.894,94.869,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">r</text>
+<text font="ArialMT" bbox="94.869,69.894,99.873,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">e</text>
+<text font="ArialMT" bbox="99.900,69.894,107.397,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">m</text>
+<text font="ArialMT" bbox="107.451,69.894,112.455,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">e</text>
+<text font="ArialMT" bbox="112.482,69.894,117.486,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">n</text>
+<text font="ArialMT" bbox="117.513,69.894,120.015,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">t</text>
+<text font="ArialMT" bbox="119.916,69.894,124.416,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">s</text>
+<text font="ArialMT" bbox="124.470,69.894,126.972,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">.</text>
+<text font="ArialMT" bbox="126.972,69.894,129.474,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000"> </text>
+<text font="ArialMT" bbox="129.150,69.894,135.153,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">S</text>
+<text font="ArialMT" bbox="135.153,69.894,140.157,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">u</text>
+<text font="ArialMT" bbox="140.184,69.894,143.181,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">r</text>
+<text font="ArialMT" bbox="143.181,69.894,147.681,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">v</text>
+<text font="ArialMT" bbox="147.627,69.894,152.631,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">e</text>
+<text font="ArialMT" bbox="152.658,69.894,157.158,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">y</text>
+<text font="ArialMT" bbox="157.095,69.894,159.093,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">i</text>
+<text font="ArialMT" bbox="159.129,69.894,164.133,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">n</text>
+<text font="ArialMT" bbox="164.160,69.894,169.164,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">g</text>
+<text font="ArialMT" bbox="169.191,69.894,171.693,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000"> </text>
+<text font="ArialMT" bbox="171.594,69.894,176.598,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">a</text>
+<text font="ArialMT" bbox="176.625,69.894,181.629,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">n</text>
+<text font="ArialMT" bbox="181.656,69.894,186.660,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">d</text>
+<text font="ArialMT" bbox="186.687,69.894,189.189,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000"> </text>
+<text font="ArialMT" bbox="189.090,69.894,194.094,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">L</text>
+<text font="ArialMT" bbox="194.121,69.894,199.125,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">a</text>
+<text font="ArialMT" bbox="199.152,69.894,204.156,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">n</text>
+<text font="ArialMT" bbox="204.183,69.894,209.187,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">d</text>
+<text font="ArialMT" bbox="209.214,69.894,211.716,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000"> </text>
+<text font="ArialMT" bbox="211.491,69.894,213.993,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">I</text>
+<text font="ArialMT" bbox="213.993,69.894,218.997,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">n</text>
+<text font="ArialMT" bbox="219.042,69.894,221.544,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">f</text>
+<text font="ArialMT" bbox="221.544,69.894,226.548,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">o</text>
+<text font="ArialMT" bbox="226.593,69.894,229.590,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">r</text>
+<text font="ArialMT" bbox="229.590,69.894,237.087,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">m</text>
+<text font="ArialMT" bbox="237.141,69.894,242.145,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">a</text>
+<text font="ArialMT" bbox="242.172,69.894,244.674,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">t</text>
+<text font="ArialMT" bbox="244.674,69.894,246.672,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">i</text>
+<text font="ArialMT" bbox="246.726,69.894,251.730,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">o</text>
+<text font="ArialMT" bbox="251.757,69.894,256.761,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">n</text>
+<text font="ArialMT" bbox="256.788,69.894,259.290,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000"> </text>
+<text font="ArialMT" bbox="258.948,69.894,264.951,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">S</text>
+<text font="ArialMT" bbox="264.951,69.894,269.451,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">y</text>
+<text font="ArialMT" bbox="269.388,69.894,273.888,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">s</text>
+<text font="ArialMT" bbox="273.942,69.894,276.444,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">t</text>
+<text font="ArialMT" bbox="276.444,69.894,281.448,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">e</text>
+<text font="ArialMT" bbox="281.493,69.894,288.990,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">m</text>
+<text font="ArialMT" bbox="289.044,69.894,293.544,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">s</text>
+<text font="ArialMT" bbox="293.598,69.894,296.100,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">.</text>
+<text font="ArialMT" bbox="296.100,69.894,298.602,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000"> </text>
+<text font="Arial-BoldMT" bbox="298.730,69.894,303.734,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">5</text>
+<text font="Arial-BoldMT" bbox="303.770,69.894,308.774,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">8</text>
+<text font="ArialMT" bbox="308.810,69.894,311.312,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">,</text>
+<text font="ArialMT" bbox="311.312,69.894,313.814,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000"> </text>
+<text font="ArialMT" bbox="313.733,69.894,318.737,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">2</text>
+<text font="ArialMT" bbox="318.764,69.894,323.768,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">4</text>
+<text font="ArialMT" bbox="323.795,69.894,328.799,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">7</text>
+<text font="ArialMT" bbox="328.870,69.894,331.867,78.894" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="9.000">-</text>
+</textline>
+<textline bbox="43.200,60.174,89.316,69.174" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="9.000" colourspace="DeviceGray">255 (1998). </textline>
+</textbox>
+<figure name="Image36" bbox="390.000,303.840,720.000,540.000" src="Image36.jpg" width="330" height="236">
+</figure>
+<figure name="Image37" bbox="390.000,57.240,720.000,294.000" src="Image37.jpg" width="330" height="236">
+</figure>
+<figure name="Image21" bbox="0.000,0.000,720.000,37.800" src="Image21.3.jpg" width="720" height="37">
+</figure>
+<figure name="Image38" bbox="48.000,413.520,312.000,540.000" src="Image38.jpg" width="264" height="126">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="37.200,389.092,330.420,515.112" size="18.0">Airborne laser altimetry also shows  
+surface uplifts and depressions. While  
+the height changes (~4 m vs. 0.5 m) and  
+time span (2 years vs. 24 days) are  
+larger, the differences are similar in  
+shape to those  based on interferometry. <textline bbox="37.200,497.112,297.516,515.112" font="TimesNewRomanPSMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">Airborne laser altimetry also shows  </textline>
+<textline bbox="37.200,475.492,315.786,493.492" font="TimesNewRomanPSMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">surface uplifts and depressions. While  </textline>
+<textline bbox="37.200,453.892,330.420,471.892" font="TimesNewRomanPSMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">the height changes (~4 m vs. 0.5 m) and  </textline>
+<textline bbox="37.200,432.292,290.676,450.292" font="TimesNewRomanPSMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">time span (2 years vs. 24 days) are  </textline>
+<textline bbox="37.200,410.692,297.228,428.692" font="TimesNewRomanPSMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">larger, the differences are similar in  </textline>
+<textline bbox="37.200,389.092,323.814,407.092" font="TimesNewRomanPSMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">shape to those  based on interferometry. </textline>
+</textbox>
+<textbox id="1" bbox="29.952,57.860,339.412,91.820" size="9.96">Data from Spikes et al. Thickness changes on Whillans Ice Stream  
+and Ice Stream C, West Antarctica, derived from laser altimeter  
+measurements. J. Glaciol. 49, 165, 2003. <textline bbox="29.952,81.860,339.412,91.820">Data from Spikes et al. Thickness changes on Whillans Ice Stream  <text font="ArialMT" bbox="29.952,81.860,37.143,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">D</text>
+<text font="ArialMT" bbox="37.143,81.860,42.681,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="ArialMT" bbox="42.681,81.860,45.450,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="ArialMT" bbox="45.450,81.860,50.988,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="ArialMT" bbox="50.948,81.860,53.717,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="53.717,81.860,56.485,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="ArialMT" bbox="56.575,81.860,59.892,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="ArialMT" bbox="59.922,81.860,65.459,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="ArialMT" bbox="65.459,81.860,73.756,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="ArialMT" bbox="73.955,81.860,76.724,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="76.356,81.860,82.999,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">S</text>
+<text font="ArialMT" bbox="82.959,81.860,88.497,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">p</text>
+<text font="ArialMT" bbox="88.497,81.860,90.708,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="ArialMT" bbox="90.638,81.860,95.618,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">k</text>
+<text font="ArialMT" bbox="95.788,81.860,101.325,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="ArialMT" bbox="101.325,81.860,106.305,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="ArialMT" bbox="106.335,81.860,109.104,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="108.975,81.860,114.512,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="ArialMT" bbox="114.512,81.860,117.281,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="ArialMT" bbox="117.281,81.860,120.050,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="120.010,81.860,125.548,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="ArialMT" bbox="125.548,81.860,127.759,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="ArialMT" bbox="127.689,81.860,130.458,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">.</text>
+<text font="ArialMT" bbox="130.458,81.860,133.227,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="133.300,81.860,139.386,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">T</text>
+<text font="Arial-BoldMT" bbox="139.535,81.860,145.621,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Arial-BoldMT" bbox="145.640,81.860,148.409,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Arial-BoldMT" bbox="148.409,81.860,153.947,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="Arial-BoldMT" bbox="153.947,81.860,159.485,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">k</text>
+<text font="Arial-BoldMT" bbox="159.445,81.860,165.531,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Arial-BoldMT" bbox="165.550,81.860,171.088,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="171.088,81.860,176.626,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Arial-BoldMT" bbox="176.586,81.860,182.124,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Arial-BoldMT" bbox="182.124,81.860,184.893,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="184.743,81.860,190.281,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="Arial-BoldMT" bbox="190.281,81.860,196.367,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Arial-BoldMT" bbox="196.367,81.860,201.904,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Arial-BoldMT" bbox="201.904,81.860,207.990,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Arial-BoldMT" bbox="208.010,81.860,214.096,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">g</text>
+<text font="Arial-BoldMT" bbox="214.115,81.860,219.653,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="219.653,81.860,225.191,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Arial-BoldMT" bbox="225.151,81.860,227.920,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="227.791,81.860,233.876,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Arial-BoldMT" bbox="233.896,81.860,239.982,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Arial-BoldMT" bbox="240.001,81.860,242.770,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="242.770,81.860,252.173,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">W</text>
+<text font="Arial-BoldMT" bbox="252.232,81.860,258.318,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Arial-BoldMT" bbox="258.338,81.860,261.107,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Arial-BoldMT" bbox="261.107,81.860,263.876,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Arial-BoldMT" bbox="263.876,81.860,266.644,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Arial-BoldMT" bbox="266.644,81.860,272.182,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Arial-BoldMT" bbox="272.142,81.860,278.228,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Arial-BoldMT" bbox="278.248,81.860,283.786,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Arial-BoldMT" bbox="283.786,81.860,286.555,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="286.555,81.860,289.323,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">I</text>
+<text font="Arial-BoldMT" bbox="289.284,81.860,294.821,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="Arial-BoldMT" bbox="294.821,81.860,300.359,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="300.319,81.860,303.088,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="302.959,81.860,309.602,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">S</text>
+<text font="Arial-BoldMT" bbox="309.562,81.860,312.879,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Arial-BoldMT" bbox="312.909,81.860,316.783,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Arial-BoldMT" bbox="316.753,81.860,322.291,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="322.291,81.860,327.829,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Arial-BoldMT" bbox="327.789,81.860,336.643,91.820" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="Arial-BoldMT" bbox="336.643,81.860,339.412,91.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+</textline>
+<textline bbox="29.952,69.860,330.186,79.820" font="Arial-BoldMT" ncolour="0" size="9.960" colourspace="DeviceGray">and Ice Stream C, West Antarctica, derived from laser altimeter  </textline>
+<textline bbox="29.952,57.860,215.559,67.820">measurements. J. Glaciol. 49, 165, 2003. <text font="Arial-BoldMT" bbox="29.952,57.860,38.806,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="Arial-BoldMT" bbox="38.806,57.860,44.344,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="44.344,57.860,49.882,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Arial-BoldMT" bbox="49.882,57.860,55.420,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Arial-BoldMT" bbox="55.420,57.860,61.505,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">u</text>
+<text font="Arial-BoldMT" bbox="61.505,57.860,65.380,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Arial-BoldMT" bbox="65.380,57.860,70.917,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="70.868,57.860,79.722,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="Arial-BoldMT" bbox="79.722,57.860,85.260,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="85.260,57.860,91.345,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Arial-BoldMT" bbox="91.375,57.860,94.692,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Arial-BoldMT" bbox="94.722,57.860,100.260,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Arial-BoldMT" bbox="100.260,57.860,103.029,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">.</text>
+<text font="ArialMT" bbox="105.700,57.860,110.680,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">J</text>
+<text font="ArialMT" bbox="110.730,57.860,113.499,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">.</text>
+<text font="ArialMT" bbox="113.499,57.860,116.268,67.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="116.268,57.860,124.016,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">G</text>
+<text font="ArialMT" bbox="124.036,57.860,126.247,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="ArialMT" bbox="126.198,57.860,131.735,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="ArialMT" bbox="131.735,57.860,136.715,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="ArialMT" bbox="136.745,57.860,138.956,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="ArialMT" bbox="138.907,57.860,144.444,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="ArialMT" bbox="144.444,57.860,146.656,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="ArialMT" bbox="146.586,57.860,149.355,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">.</text>
+<text font="ArialMT" bbox="149.355,57.860,152.124,67.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="152.213,57.860,157.751,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">4</text>
+<text font="ArialMT" bbox="157.751,57.860,163.289,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">9</text>
+<text font="ArialMT" bbox="163.249,57.860,166.018,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">,</text>
+<text font="ArialMT" bbox="166.018,57.860,168.787,67.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="168.647,57.860,174.185,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">1</text>
+<text font="ArialMT" bbox="174.185,57.860,179.723,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">6</text>
+<text font="ArialMT" bbox="179.683,57.860,185.221,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">5</text>
+<text font="ArialMT" bbox="185.221,57.860,187.990,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">,</text>
+<text font="ArialMT" bbox="187.990,57.860,190.758,67.820" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="190.719,57.860,196.256,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">2</text>
+<text font="ArialMT" bbox="196.256,57.860,201.794,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="201.754,57.860,207.292,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="207.292,57.860,212.830,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">3</text>
+<text font="ArialMT" bbox="212.790,57.860,215.559,67.820" colourspace="DeviceGray" ncolour="0" size="9.960">.</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="370.900,57.711,709.278,71.751" size="14.04">Lidar data courtesy of the SOAR facility, U Texas, and NSF. <textline bbox="370.900,57.711,709.278,71.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Lidar data courtesy of the SOAR facility, U Texas, and NSF. </textline>
+</textbox>
+<figure name="Image43" bbox="378.000,92.520,720.000,372.000" src="Image43.jpg" width="342" height="279">
+</figure>
+<figure name="Image38" bbox="390.000,384.240,689.760,528.000" src="Image38.0.jpg" width="299" height="143">
+</figure>
+<figure name="Image44" bbox="18.000,107.520,354.000,366.000" src="Image44.jpg" width="336" height="258">
+</figure>
+<figure name="Image21" bbox="0.000,0.000,720.000,37.800" src="Image21.4.jpg" width="720" height="37">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="19.200,374.727,319.079,514.811" size="20.048">The colored dots are surface and  
+bed elevations from the  
+CASERTZ program. There  
+appears to be a dip in both the  
+surface and bed elevations at the  
+site of the surface deflation. <textline bbox="19.200,494.747,318.033,514.811" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.064" colourspace="DeviceGray">The colored dots are surface and  </textline>
+<textline bbox="19.200,470.732,232.466,490.772" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">bed elevations from the  </textline>
+<textline bbox="19.200,446.732,260.963,466.772" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">CASERTZ program. There  </textline>
+<textline bbox="19.200,422.732,294.650,442.772" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">appears to be a dip in both the  </textline>
+<textline bbox="19.200,398.732,319.079,418.772" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">surface and bed elevations at the  </textline>
+<textline bbox="19.200,374.727,263.439,394.791" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.064" colourspace="DeviceGray">site of the surface deflation. </textline>
+</textbox>
+<textbox id="1" bbox="73.224,303.842,267.229,317.882" size="14.04">Surface and bed elevations (m) <textline bbox="73.224,303.842,267.229,317.882" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="14.040" colourspace="DeviceGray">Surface and bed elevations (m) </textline>
+</textbox>
+<figure name="Image21" bbox="0.000,0.000,720.000,37.800" src="Image21.5.jpg" width="720" height="37">
+</figure>
+<figure name="Image47" bbox="456.000,288.000,720.000,516.000" src="Image47.jpg" width="264" height="228">
+</figure>
+<figure name="Image48" bbox="12.000,40.440,330.000,294.000" src="Image48.1025x817.bmp" width="318" height="253">
+</figure>
+<figure name="Image49" bbox="456.000,39.360,720.000,264.000" src="Image49.jpg" width="264" height="224">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="31.200,473.480,386.142,513.080" size="18.0">Possible explanations for the anomalous  
+vertical motion ? <textline bbox="31.200,495.080,386.142,513.080" font="Arial-BoldMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">Possible explanations for the anomalous  </textline>
+<textline bbox="31.200,473.480,175.128,491.480" font="Arial-BoldMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">vertical motion ? </textline>
+</textbox>
+<textbox id="1" bbox="31.200,238.805,390.066,451.240" size="18.002181818181818">1.   Ice motion (non-equilibrium)&#8230; then  
+continuity should apply. The 24 day ice  
+volume flux through G1 is ~ (18.1&#177;2).106  m3, 
+G2 is ~ (18.5&#177;2).106  m3, but the surface  
+subsidence is equivalent to a volume of ~  
+(6.7&#177;1). 106  m3.  So if the subsurface ice  
+motion mirrors the surface motion then there  
+is not enough ice going out through G2. As  
+we don&#8217;t have precise ice thickness  
+estimates for G1 and G2 the error margins  
+are just estimates. <textline bbox="31.200,433.240,347.222,451.240" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">1.   Ice motion (non-equilibrium)&#8230; then  </textline>
+<textline bbox="31.200,413.800,344.400,431.800" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">continuity should apply. The 24 day ice  </textline>
+<textline bbox="31.200,394.360,387.754,413.020">volume flux through G1 is ~ (18.1&#177;2).106  m3, <text font="ArialMT" bbox="31.200,394.360,40.200,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">v</text>
+<text font="ArialMT" bbox="40.200,394.360,50.208,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">o</text>
+<text font="ArialMT" bbox="50.208,394.360,54.204,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">l</text>
+<text font="ArialMT" bbox="54.114,394.360,64.122,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">u</text>
+<text font="ArialMT" bbox="64.122,394.360,79.116,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">m</text>
+<text font="ArialMT" bbox="79.116,394.360,89.124,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="89.034,394.360,94.038,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="94.182,394.360,99.186,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">f</text>
+<text font="ArialMT" bbox="99.186,394.360,103.182,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">l</text>
+<text font="ArialMT" bbox="103.182,394.360,113.190,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">u</text>
+<text font="ArialMT" bbox="113.190,394.360,122.190,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">x</text>
+<text font="ArialMT" bbox="122.028,394.360,127.032,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="127.176,394.360,132.180,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">t</text>
+<text font="ArialMT" bbox="132.180,394.360,142.188,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">h</text>
+<text font="ArialMT" bbox="142.188,394.360,148.182,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">r</text>
+<text font="ArialMT" bbox="148.182,394.360,158.190,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">o</text>
+<text font="ArialMT" bbox="158.136,394.360,168.144,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">u</text>
+<text font="ArialMT" bbox="168.144,394.360,178.152,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">g</text>
+<text font="ArialMT" bbox="178.062,394.360,188.070,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">h</text>
+<text font="ArialMT" bbox="188.070,394.360,193.074,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="193.164,394.360,207.168,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">G</text>
+<text font="ArialMT" bbox="207.168,394.360,217.176,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">1</text>
+<text font="ArialMT" bbox="217.176,394.360,222.180,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="222.180,394.360,226.176,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">i</text>
+<text font="ArialMT" bbox="226.176,394.360,235.176,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">s</text>
+<text font="ArialMT" bbox="235.176,394.360,240.180,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="240.180,394.360,250.692,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">~</text>
+<text font="ArialMT" bbox="250.746,394.360,255.750,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="255.660,394.360,261.654,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">(</text>
+<text font="ArialMT" bbox="261.654,394.360,271.662,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">1</text>
+<text font="ArialMT" bbox="271.662,394.360,281.670,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">8</text>
+<text font="ArialMT" bbox="281.580,394.360,286.584,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">.</text>
+<text font="ArialMT" bbox="286.584,394.360,296.592,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">1</text>
+<text font="ArialMT" bbox="296.690,394.360,306.572,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">&#177;</text>
+<text font="ArialMT" bbox="306.530,394.360,316.538,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">2</text>
+<text font="ArialMT" bbox="316.538,394.360,322.532,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">)</text>
+<text font="ArialMT" bbox="322.532,394.360,327.536,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">.</text>
+<text font="ArialMT" bbox="327.550,394.360,337.558,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">1</text>
+<text font="ArialMT" bbox="337.510,394.360,347.518,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">0</text>
+<text font="ArialMT" bbox="347.470,401.020,354.142,413.020" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000">6</text>
+<text font="ArialMT" bbox="354.178,401.020,357.514,413.020" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000"> </text>
+<text font="ArialMT" bbox="357.646,401.020,360.982,413.020" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000"> </text>
+<text font="ArialMT" bbox="361.030,394.360,376.024,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">m</text>
+<text font="ArialMT" bbox="376.030,401.020,382.702,413.020" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000">3</text>
+<text font="ArialMT" bbox="382.750,394.360,387.754,412.360" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">,</text>
+</textline>
+<textline bbox="31.200,374.920,354.488,393.580">G2 is ~ (18.5&#177;2).106  m3, but the surface  <text font="ArialMT" bbox="31.200,374.920,45.204,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">G</text>
+<text font="ArialMT" bbox="45.204,374.920,55.212,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">2</text>
+<text font="ArialMT" bbox="55.212,374.920,60.216,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="60.216,374.920,64.212,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">i</text>
+<text font="ArialMT" bbox="64.212,374.920,73.212,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">s</text>
+<text font="ArialMT" bbox="73.212,374.920,78.216,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="78.216,374.920,88.728,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">~</text>
+<text font="ArialMT" bbox="88.782,374.920,93.786,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="93.696,374.920,99.690,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">(</text>
+<text font="ArialMT" bbox="99.690,374.920,109.698,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">1</text>
+<text font="ArialMT" bbox="109.698,374.920,119.706,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">8</text>
+<text font="ArialMT" bbox="119.616,374.920,124.620,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">.</text>
+<text font="ArialMT" bbox="124.620,374.920,134.628,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">5</text>
+<text font="ArialMT" bbox="134.660,374.920,144.542,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">&#177;</text>
+<text font="ArialMT" bbox="144.500,374.920,154.508,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">2</text>
+<text font="ArialMT" bbox="154.508,374.920,160.502,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">)</text>
+<text font="ArialMT" bbox="160.502,374.920,165.506,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">.</text>
+<text font="ArialMT" bbox="165.500,374.920,175.508,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">1</text>
+<text font="ArialMT" bbox="175.460,374.920,185.468,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">0</text>
+<text font="ArialMT" bbox="185.420,381.580,192.092,393.580" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000">6</text>
+<text font="ArialMT" bbox="192.152,381.580,195.488,393.580" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000"> </text>
+<text font="ArialMT" bbox="195.620,381.580,198.956,393.580" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000"> </text>
+<text font="ArialMT" bbox="199.010,374.920,214.004,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">m</text>
+<text font="ArialMT" bbox="214.010,381.580,220.682,393.580" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000">3</text>
+<text font="ArialMT" bbox="220.730,374.920,225.734,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">,</text>
+<text font="ArialMT" bbox="225.734,374.920,230.738,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="230.576,374.920,240.584,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">b</text>
+<text font="ArialMT" bbox="240.584,374.920,250.592,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">u</text>
+<text font="ArialMT" bbox="250.502,374.920,255.506,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">t</text>
+<text font="ArialMT" bbox="255.506,374.920,260.510,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="260.564,374.920,265.568,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">t</text>
+<text font="ArialMT" bbox="265.568,374.920,275.576,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">h</text>
+<text font="ArialMT" bbox="275.576,374.920,285.584,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="285.530,374.920,290.534,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="290.534,374.920,299.534,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">s</text>
+<text font="ArialMT" bbox="299.534,374.920,309.542,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">u</text>
+<text font="ArialMT" bbox="309.542,374.920,315.536,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">r</text>
+<text font="ArialMT" bbox="315.536,374.920,320.540,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">f</text>
+<text font="ArialMT" bbox="320.540,374.920,330.548,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">a</text>
+<text font="ArialMT" bbox="330.548,374.920,339.548,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">c</text>
+<text font="ArialMT" bbox="339.548,374.920,349.556,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="349.484,374.920,354.488,392.920" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+</textline>
+<textline bbox="31.200,355.450,362.554,373.450" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">subsidence is equivalent to a volume of ~  </textline>
+<textline bbox="31.200,336.010,358.394,354.670">(6.7&#177;1). 106  m3.  So if the subsurface ice  <text font="ArialMT" bbox="31.200,336.010,37.194,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">(</text>
+<text font="ArialMT" bbox="37.194,336.010,47.202,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">6</text>
+<text font="ArialMT" bbox="47.202,336.010,52.206,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">.</text>
+<text font="ArialMT" bbox="52.206,336.010,62.214,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">7</text>
+<text font="ArialMT" bbox="62.184,336.010,72.066,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">&#177;</text>
+<text font="ArialMT" bbox="72.024,336.010,82.032,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">1</text>
+<text font="ArialMT" bbox="82.032,336.010,88.026,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">)</text>
+<text font="ArialMT" bbox="88.026,336.010,93.030,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">.</text>
+<text font="ArialMT" bbox="93.030,336.010,98.034,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="98.064,336.010,108.072,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">1</text>
+<text font="ArialMT" bbox="108.024,336.010,118.032,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">0</text>
+<text font="ArialMT" bbox="117.980,342.670,124.652,354.670" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000">6</text>
+<text font="ArialMT" bbox="124.688,342.670,128.024,354.670" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000"> </text>
+<text font="ArialMT" bbox="128.024,342.670,131.360,354.670" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000"> </text>
+<text font="ArialMT" bbox="131.420,336.010,146.414,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">m</text>
+<text font="ArialMT" bbox="146.420,342.670,153.092,354.670" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="12.000">3</text>
+<text font="ArialMT" bbox="153.140,336.010,158.144,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">.</text>
+<text font="ArialMT" bbox="158.180,336.010,163.184,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="166.460,336.010,178.466,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">S</text>
+<text font="ArialMT" bbox="178.466,336.010,188.474,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">o</text>
+<text font="ArialMT" bbox="188.420,336.010,193.424,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="193.424,336.010,197.420,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">i</text>
+<text font="ArialMT" bbox="197.420,336.010,202.424,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">f</text>
+<text font="ArialMT" bbox="202.424,336.010,207.428,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="207.482,336.010,212.486,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">t</text>
+<text font="ArialMT" bbox="212.486,336.010,222.494,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">h</text>
+<text font="ArialMT" bbox="222.494,336.010,232.502,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="232.448,336.010,237.452,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="237.452,336.010,246.452,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">s</text>
+<text font="ArialMT" bbox="246.452,336.010,256.460,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">u</text>
+<text font="ArialMT" bbox="256.460,336.010,266.468,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">b</text>
+<text font="ArialMT" bbox="266.414,336.010,275.414,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">s</text>
+<text font="ArialMT" bbox="275.414,336.010,285.422,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">u</text>
+<text font="ArialMT" bbox="285.422,336.010,291.416,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">r</text>
+<text font="ArialMT" bbox="291.416,336.010,296.420,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">f</text>
+<text font="ArialMT" bbox="296.420,336.010,306.428,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">a</text>
+<text font="ArialMT" bbox="306.374,336.010,315.374,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">c</text>
+<text font="ArialMT" bbox="315.374,336.010,325.382,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="325.382,336.010,330.386,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+<text font="ArialMT" bbox="330.476,336.010,334.472,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">i</text>
+<text font="ArialMT" bbox="334.472,336.010,343.472,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">c</text>
+<text font="ArialMT" bbox="343.472,336.010,353.480,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000">e</text>
+<text font="ArialMT" bbox="353.390,336.010,358.394,354.010" colourspace="DeviceGray" ncolour="(0.4, 0, 0.2)" size="18.000"> </text>
+</textline>
+<textline bbox="31.200,316.570,390.066,334.570" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">motion mirrors the surface motion then there  </textline>
+<textline bbox="31.200,297.130,376.098,315.130" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">is not enough ice going out through G2. As  </textline>
+<textline bbox="31.200,277.690,317.994,295.690" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">we don&#8217;t have precise ice thickness  </textline>
+<textline bbox="31.200,258.250,373.992,276.250" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">estimates for G1 and G2 the error margins  </textline>
+<textline bbox="31.200,238.805,177.140,256.829" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.024" colourspace="DeviceGray">are just estimates. </textline>
+</textbox>
+<textbox id="2" bbox="31.200,89.724,384.524,209.270" size="18.004">Maybe the missing volume is not ice but  
+water, so that we are observing&#8230; 
+2.   Movement of &#8216;pockets&#8217; of subglacial  
+water. Also, all the &#8216;features&#8217; appear to be at  
+hydropotential wells so water can certainly  
+collect there. <textline bbox="31.200,191.270,355.074,209.270" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">Maybe the missing volume is not ice but  </textline>
+<textline bbox="31.200,171.830,297.942,189.830" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">water, so that we are observing&#8230; </textline>
+<textline bbox="31.200,148.070,349.134,166.070" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">2.   Movement of &#8216;pockets&#8217; of subglacial  </textline>
+<textline bbox="31.200,128.625,384.524,146.649" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.024" colourspace="DeviceGray">water. Also, all the &#8216;features&#8217; appear to be at  </textline>
+<textline bbox="31.200,109.160,372.768,127.160" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">hydropotential wells so water can certainly  </textline>
+<textline bbox="31.200,89.724,133.188,107.724" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="18.000" colourspace="DeviceGray">collect there. </textline>
+</textbox>
+<textbox id="3" bbox="421.270,279.842,429.076,293.882" size="14.04">0 <textline bbox="421.270,279.842,429.076,293.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">0 </textline>
+</textbox>
+<textbox id="4" bbox="403.270,255.842,446.026,269.882" size="14.04">-20 cm <textline bbox="403.270,255.842,446.026,269.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">-20 cm </textline>
+</textbox>
+<textbox id="5" bbox="403.270,225.822,446.026,239.862" size="14.04">-40 cm <textline bbox="403.270,225.822,446.026,239.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">-40 cm </textline>
+</textbox>
+<textbox id="6" bbox="402.020,200.952,422.306,214.992" size="14.04">-60 <textline bbox="402.020,200.952,422.306,214.992" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">-60 </textline>
+</textbox>
+<textbox id="7" bbox="409.270,111.792,424.876,125.832" size="14.04">50 <textline bbox="409.270,111.792,424.876,125.832" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">50 </textline>
+</textbox>
+<textbox id="8" bbox="409.270,81.796,424.876,95.836" size="14.04">40 <textline bbox="409.270,81.796,424.876,95.836" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">40 </textline>
+</textbox>
+<textbox id="9" bbox="409.270,51.796,424.876,65.836" size="14.04">30 <textline bbox="409.270,51.796,424.876,65.836" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">30 </textline>
+</textbox>
+<textbox id="10" bbox="535.300,381.872,554.026,395.912" size="14.04">G1 <textline bbox="535.300,381.872,554.026,395.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">G1 </textline>
+</textbox>
+<textbox id="11" bbox="619.320,393.872,638.046,407.912" size="14.04">G2 <textline bbox="619.320,393.872,638.046,407.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">G2 </textline>
+</textbox>
+<textbox id="12" bbox="468.050,296.977,693.355,311.041" size="14.064">24 day vertical displacement profiles <textline bbox="468.050,296.977,693.355,311.041" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">24 day vertical displacement profiles </textline>
+</textbox>
+<textbox id="13" bbox="570.050,176.947,594.957,191.011" size="14.064">Km. <textline bbox="570.050,176.947,594.957,191.011" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">Km. </textline>
+</textbox>
+<textbox id="14" bbox="468.050,152.932,613.982,166.972" size="14.04">Ice speed profiles (m/a) <textline bbox="468.050,152.932,613.982,166.972" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Ice speed profiles (m/a) </textline>
+</textbox>
+<figure name="Image21" bbox="0.000,0.000,720.000,37.800" src="Image21.6.jpg" width="720" height="37">
+</figure>
+<figure name="Image52" bbox="462.000,329.640,690.000,540.000" src="Image52.325x300.bmp" width="228" height="210">
+</figure>
+<figure name="Image53" bbox="432.000,48.000,720.000,324.000" src="Image53.344x884.bmp" width="288" height="276">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="19.200,487.443,238.085,503.427" size="15.984">Time varying basal conditions? <textline bbox="19.200,487.443,238.085,503.427" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.984" colourspace="DeviceGray">Time varying basal conditions? </textline>
+</textbox>
+<textbox id="1" bbox="19.200,333.798,282.920,464.988" size="15.96342857142857">The upper image is the vertical  
+displacement data with a black line  
+indicating the position of BAS near- 
+surface RES data illustrated in the  
+lower image. This is data courtesy of  
+Ed King, BAS, and was presented at  
+the IGS, Chamonix meeting.  <textline bbox="19.200,449.028,242.417,464.988" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">The upper image is the vertical  </textline>
+<textline bbox="19.200,429.828,270.666,445.788" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">displacement data with a black line  </textline>
+<textline bbox="19.200,410.628,268.885,426.588" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">indicating the position of BAS near- </textline>
+<textline bbox="19.200,391.428,265.303,407.388" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">surface RES data illustrated in the  </textline>
+<textline bbox="19.200,372.223,282.920,388.207" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.984" colourspace="DeviceGray">lower image. This is data courtesy of  </textline>
+<textline bbox="19.200,352.998,282.205,368.958" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">Ed King, BAS, and was presented at  </textline>
+<textline bbox="19.200,333.798,224.685,349.758" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">the IGS, Chamonix meeting.  </textline>
+</textbox>
+<textbox id="2" bbox="19.200,141.778,288.461,311.358" size="15.960000000000004">Note the folds in the layering and the  
+changes over time in the way in  
+which the peaks and troughs are  
+positioned in the along-flow direction.  
+While there are undoubtedly changes  
+in accumulation in this area, is the  
+complexity of the layer folding  
+evidence for changing basal  
+conditions ? <textline bbox="19.200,295.398,283.992,311.358" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">Note the folds in the layering and the  </textline>
+<textline bbox="19.200,276.198,247.779,292.158" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">changes over time in the way in  </textline>
+<textline bbox="19.200,256.998,254.674,272.958" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">which the peaks and troughs are  </textline>
+<textline bbox="19.200,237.778,286.843,253.738" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">positioned in the along-flow direction.  </textline>
+<textline bbox="19.200,218.578,288.461,234.538" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">While there are undoubtedly changes  </textline>
+<textline bbox="19.200,199.378,264.457,215.338" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">in accumulation in this area, is the  </textline>
+<textline bbox="19.200,180.178,234.437,196.138" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">complexity of the layer folding  </textline>
+<textline bbox="19.200,160.978,222.722,176.938" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">evidence for changing basal  </textline>
+<textline bbox="19.200,141.778,104.347,157.738" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="15.960" colourspace="DeviceGray">conditions ? </textline>
+</textbox>
+<textbox id="3" bbox="19.200,50.492,288.948,108.448" size="9.96">Lower image from Radar profiles from the onset region of  
+Ice Stream D1, Siple Coast, West Antarctic, by E.C. King,  
+D.L. Morse, R.B. Alley, S. Anandakrishnan, D.D.  
+Blankenship, A.M. Smith, poster presented at the IGS  
+Symposium, Chamonix, 2002 <textline bbox="19.200,98.488,288.948,108.448">Lower image from Radar profiles from the onset region of  <text font="ArialMT" bbox="19.200,98.488,24.738,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">L</text>
+<text font="ArialMT" bbox="24.738,98.488,30.276,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="ArialMT" bbox="30.236,98.488,37.427,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">w</text>
+<text font="ArialMT" bbox="37.317,98.488,42.855,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="ArialMT" bbox="42.855,98.488,46.172,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="ArialMT" bbox="46.172,98.488,48.941,108.448" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="49.070,98.488,51.281,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="ArialMT" bbox="51.231,98.488,59.528,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="ArialMT" bbox="59.737,98.488,65.275,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="ArialMT" bbox="65.275,98.488,70.813,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">g</text>
+<text font="ArialMT" bbox="70.773,98.488,76.311,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="ArialMT" bbox="76.311,98.488,79.080,108.448" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="78.930,98.488,81.699,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="ArialMT" bbox="81.799,98.488,85.115,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="ArialMT" bbox="85.145,98.488,90.683,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="ArialMT" bbox="90.683,98.488,98.980,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="Arial-BoldMT" bbox="101.660,98.488,108.851,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">R</text>
+<text font="Arial-BoldMT" bbox="108.851,98.488,114.389,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Arial-BoldMT" bbox="114.389,98.488,120.474,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">d</text>
+<text font="Arial-BoldMT" bbox="120.474,98.488,126.012,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Arial-BoldMT" bbox="126.012,98.488,129.887,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Arial-BoldMT" bbox="129.887,98.488,132.656,108.448" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="132.725,98.488,138.811,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">p</text>
+<text font="Arial-BoldMT" bbox="138.831,98.488,142.705,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Arial-BoldMT" bbox="142.675,98.488,148.761,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Arial-BoldMT" bbox="148.781,98.488,152.097,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Arial-BoldMT" bbox="152.127,98.488,154.896,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Arial-BoldMT" bbox="154.896,98.488,157.665,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Arial-BoldMT" bbox="157.665,98.488,163.203,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="163.163,98.488,168.701,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Arial-BoldMT" bbox="168.701,98.488,171.470,108.448" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="171.470,98.488,174.786,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Arial-BoldMT" bbox="174.786,98.488,178.661,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Arial-BoldMT" bbox="178.661,98.488,184.746,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Arial-BoldMT" bbox="184.746,98.488,193.601,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="Arial-BoldMT" bbox="193.631,98.488,196.400,108.448" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="196.400,98.488,199.716,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Arial-BoldMT" bbox="199.736,98.488,205.822,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Arial-BoldMT" bbox="205.842,98.488,211.379,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="211.379,98.488,214.148,108.448" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="214.148,98.488,220.234,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Arial-BoldMT" bbox="220.234,98.488,226.319,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Arial-BoldMT" bbox="226.349,98.488,231.887,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Arial-BoldMT" bbox="231.887,98.488,237.425,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="237.385,98.488,240.702,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Arial-BoldMT" bbox="240.731,98.488,243.500,108.448" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="243.500,98.488,247.375,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Arial-BoldMT" bbox="247.335,98.488,252.873,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="252.873,98.488,258.958,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">g</text>
+<text font="Arial-BoldMT" bbox="258.958,98.488,261.727,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Arial-BoldMT" bbox="261.727,98.488,267.813,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Arial-BoldMT" bbox="267.843,98.488,273.928,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Arial-BoldMT" bbox="273.948,98.488,276.717,108.448" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="276.717,98.488,282.803,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Arial-BoldMT" bbox="282.803,98.488,286.119,108.448" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Arial-BoldMT" bbox="286.179,98.488,288.948,108.448" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+</textline>
+<textline bbox="19.200,86.492,286.379,96.452">Ice Stream D1, Siple Coast, West Antarctic, by E.C. King,  <text font="Arial-BoldMT" bbox="19.200,86.492,21.969,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">I</text>
+<text font="Arial-BoldMT" bbox="21.969,86.492,27.507,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="Arial-BoldMT" bbox="27.507,86.492,33.044,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="33.005,86.492,35.773,96.452" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="35.644,86.492,42.287,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">S</text>
+<text font="Arial-BoldMT" bbox="42.247,86.492,45.564,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Arial-BoldMT" bbox="45.594,86.492,49.468,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Arial-BoldMT" bbox="49.439,86.492,54.976,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="54.976,86.492,60.514,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Arial-BoldMT" bbox="60.474,86.492,69.329,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="Arial-BoldMT" bbox="69.329,86.492,72.098,96.452" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="72.227,86.492,79.418,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">D</text>
+<text font="Arial-BoldMT" bbox="79.418,86.492,84.956,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">1</text>
+<text font="Arial-BoldMT" bbox="84.956,86.492,87.725,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">,</text>
+<text font="Arial-BoldMT" bbox="87.725,86.492,90.494,96.452" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="90.494,86.492,97.137,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">S</text>
+<text font="Arial-BoldMT" bbox="97.067,86.492,99.836,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Arial-BoldMT" bbox="99.836,86.492,105.922,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">p</text>
+<text font="Arial-BoldMT" bbox="105.922,86.492,108.691,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Arial-BoldMT" bbox="108.691,86.492,114.228,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="114.228,86.492,116.997,96.452" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="116.997,86.492,124.188,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">C</text>
+<text font="Arial-BoldMT" bbox="124.188,86.492,130.274,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Arial-BoldMT" bbox="130.294,86.492,135.832,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Arial-BoldMT" bbox="135.832,86.492,141.369,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Arial-BoldMT" bbox="141.330,86.492,144.646,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Arial-BoldMT" bbox="144.676,86.492,147.445,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">,</text>
+<text font="Arial-BoldMT" bbox="147.445,86.492,150.214,96.452" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="150.214,86.492,159.616,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">W</text>
+<text font="Arial-BoldMT" bbox="159.666,86.492,165.204,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Arial-BoldMT" bbox="165.204,86.492,170.741,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Arial-BoldMT" bbox="170.702,86.492,174.018,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Arial-BoldMT" bbox="174.048,86.492,176.817,96.452" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Arial-BoldMT" bbox="176.817,86.492,184.008,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">A</text>
+<text font="Arial-BoldMT" bbox="183.650,86.492,189.735,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Arial-BoldMT" bbox="189.755,86.492,193.072,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Arial-BoldMT" bbox="193.102,86.492,198.639,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Arial-BoldMT" bbox="198.639,86.492,202.514,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Arial-BoldMT" bbox="202.464,86.492,208.002,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="Arial-BoldMT" bbox="208.002,86.492,211.318,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Arial-BoldMT" bbox="211.318,86.492,214.087,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Arial-BoldMT" bbox="214.087,86.492,219.625,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="Arial-BoldMT" bbox="219.625,86.492,222.394,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">,</text>
+<text font="Arial-BoldMT" bbox="222.394,86.492,225.163,96.452" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="225.650,86.492,231.188,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">b</text>
+<text font="ArialMT" bbox="231.170,86.492,236.150,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">y</text>
+<text font="ArialMT" bbox="238.850,86.492,245.493,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">E</text>
+<text font="ArialMT" bbox="245.453,86.492,248.222,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">.</text>
+<text font="ArialMT" bbox="248.222,86.492,255.413,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">C</text>
+<text font="ArialMT" bbox="255.413,86.492,258.182,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">.</text>
+<text font="ArialMT" bbox="258.182,86.492,260.951,96.452" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="261.041,86.492,267.684,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">K</text>
+<text font="ArialMT" bbox="267.644,86.492,269.855,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="ArialMT" bbox="269.806,86.492,275.343,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="ArialMT" bbox="275.343,86.492,280.881,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">g</text>
+<text font="ArialMT" bbox="280.841,86.492,283.610,96.452" colourspace="DeviceGray" ncolour="0" size="9.960">,</text>
+<text font="ArialMT" bbox="283.610,86.492,286.379,96.452" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+</textline>
+<textline bbox="19.200,74.492,234.635,84.452" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">D.L. Morse, R.B. Alley, S. Anandakrishnan, D.D.  </textline>
+<textline bbox="19.200,62.492,257.692,72.452" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Blankenship, A.M. Smith, poster presented at the IGS  </textline>
+<textline bbox="19.200,50.492,149.258,60.452" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Symposium, Chamonix, 2002 </textline>
+</textbox>
+<figure name="Image21" bbox="0.000,0.000,720.000,37.800" src="Image21.7.jpg" width="720" height="37">
+</figure>
+<figure name="Image56" bbox="306.000,261.600,693.600,540.000" src="Image56.1090x783.bmp" width="387" height="278">
+</figure>
+<figure name="Image57" bbox="294.000,48.000,690.000,294.000" src="Image57.jpg" width="396" height="246">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="388.150,525.860,712.764,537.860" size="12.0">Reducing Canada's vulnerability to climate change - ESS <textline bbox="388.150,525.860,712.764,537.860" font="Arial-BoldItalicMT" ncolour="(1, 0.886, 0.655)" size="12.000" colourspace="DeviceGray">Reducing Canada's vulnerability to climate change - ESS </textline>
+</textbox>
+<textbox id="1" bbox="285.700,462.520,422.410,492.520" size="30.0">Summary <textline bbox="285.700,462.520,422.410,492.520" font="Arial-BoldMT" ncolour="(0.4, 0, 0.2)" size="30.000" colourspace="DeviceGray">Summary </textline>
+</textbox>
+<textbox id="2" bbox="61.224,237.882,662.871,406.772" size="20.043428571428567">&#8226; We have shown vertical displacement of surface ice in tributary  
+flow in West Antarctica. The vertical movement is up to ~ 2 cm  
+day, and could not be maintained on the long term. 
+Ice volume continuity, the shape of the features, and the position  
+of the areas over hydropotential wells suggest that the relatively  
+rapid height change could be due to movement of pockets of  
+subglacial water. <textline bbox="61.224,386.732,651.027,406.772" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">&#8226; We have shown vertical displacement of surface ice in tributary  </textline>
+<textline bbox="88.224,362.727,643.174,382.791" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.064" colourspace="DeviceGray">flow in West Antarctica. The vertical movement is up to ~ 2 cm  </textline>
+<textline bbox="88.224,338.702,536.599,358.742" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">day, and could not be maintained on the long term. </textline>
+<textline bbox="88.224,309.902,662.871,329.942" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">Ice volume continuity, the shape of the features, and the position  </textline>
+<textline bbox="88.224,285.902,656.619,305.942" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">of the areas over hydropotential wells suggest that the relatively  </textline>
+<textline bbox="88.224,261.902,628.903,281.942" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">rapid height change could be due to movement of pockets of  </textline>
+<textline bbox="88.224,237.882,236.400,257.922" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">subglacial water. </textline>
+</textbox>
+<textbox id="3" bbox="61.224,309.902,68.238,329.942" size="20.04">&#8226; <textline bbox="61.224,309.902,68.238,329.942" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="4" bbox="61.224,161.082,644.995,229.122" size="20.04">&#8226; The results may help explain the recent borehole observations  
+of near bottom debris layers, and a 1.5m layer of subglacial  
+water. <textline bbox="61.224,209.082,644.995,229.122" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">&#8226; The results may help explain the recent borehole observations  </textline>
+<textline bbox="88.224,185.082,617.861,205.122" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">of near bottom debris layers, and a 1.5m layer of subglacial  </textline>
+<textline bbox="88.224,161.082,141.771,181.122" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">water. </textline>
+</textbox>
+<textbox id="5" bbox="61.224,108.252,623.532,152.341" size="20.052">&#8226; Finally, we seem to have a tenuous (?) handle on subglacial  
+water movement. &#8230; further systematic work is required. <textline bbox="61.224,132.277,623.532,152.341" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.064" colourspace="DeviceGray">&#8226; Finally, we seem to have a tenuous (?) handle on subglacial  </textline>
+<textline bbox="88.224,108.252,582.150,128.292" font="ArialMT" ncolour="(0.4, 0, 0.2)" size="20.040" colourspace="DeviceGray">water movement. &#8230; further systematic work is required. </textline>
+</textbox>
+<figure name="Image6" bbox="0.000,-0.600,720.000,540.000" src="Image6.0.jpg" width="720" height="540">
+</figure>
+</page>
+</pages>
