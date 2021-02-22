@@ -1,0 +1,92 @@
+<pages>
+<page id="1" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="76.944,510.023,717.728,550.007" size="39.984">KCA Certificates for Linux Firefox <textline bbox="76.944,510.023,717.728,550.007" font="Arial-BoldItalicMT" ncolour="0" size="39.984" colourspace="Pattern">KCA Certificates for Linux Firefox </textline>
+</textbox>
+<textbox id="1" bbox="194.140,257.079,652.889,333.759" size="32.04">How to import KCA Certificates in  
+Scientific Linux Fermi Firefox <textline bbox="194.140,301.719,652.889,333.759" font="TimesNewRomanPSMT" ncolour="0.902" size="32.040" colourspace="Pattern">How to import KCA Certificates in  </textline>
+<textline bbox="222.600,257.079,616.308,289.119" font="TimesNewRomanPSMT" ncolour="0.902" size="32.040" colourspace="Pattern">Scientific Linux Fermi Firefox </textline>
+</textbox>
+<textbox id="2" bbox="318.840,123.494,520.298,200.059" size="32.052">Connie Sieh 
+csieh@fnal.gov <textline bbox="340.800,168.019,498.148,200.059" font="TimesNewRomanPSMT" ncolour="0.902" size="32.040" colourspace="Pattern">Connie Sieh </textline>
+<textline bbox="318.840,123.494,520.298,155.558" font="TimesNewRomanPSMT" ncolour="0.902" size="32.064" colourspace="Pattern">csieh@fnal.gov </textline>
+</textbox>
+</page>
+<page id="2" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="133.630,506.909,627.970,546.869" size="39.96">Firefox &#8211; Try to access a page <textline bbox="133.630,506.909,627.970,546.869" font="TimesNewRomanPS-BoldItalicMT" ncolour="0" size="39.960" colourspace="Pattern">Firefox &#8211; Try to access a page </textline>
+</textbox>
+<figure name="Image24" bbox="47.520,14.520,746.400,470.880" src="Image24.768x509.bmp" width="698" height="456">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="133.630,506.909,627.970,546.869" size="39.96">Firefox &#8211; Try to access a page <textline bbox="133.630,506.909,627.970,546.869" font="TimesNewRomanPS-BoldItalicMT" ncolour="0" size="39.960" colourspace="Pattern">Firefox &#8211; Try to access a page </textline>
+</textbox>
+<figure name="Image30" bbox="121.800,31.680,697.800,454.320" src="Image30.768x509.bmp" width="576" height="422">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="166.780,506.909,594.616,546.869" size="39.96">Firefox &#8211; view certificates <textline bbox="166.780,506.909,594.616,546.869" font="TimesNewRomanPS-BoldItalicMT" ncolour="0" size="39.960" colourspace="Pattern">Firefox &#8211; view certificates </textline>
+</textbox>
+<figure name="Image36" bbox="40.320,-0.120,751.920,462.720" src="Image36.800x600.bmp" width="711" height="462">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="153.860,510.023,640.766,550.007" size="39.984">Firefox &#8211; view certificates <textline bbox="153.860,510.023,640.766,550.007" font="Arial-BoldItalicMT" ncolour="0" size="39.984" colourspace="Pattern">Firefox &#8211; view certificates </textline>
+</textbox>
+<figure name="Image46" bbox="140.880,17.040,673.200,468.240" src="Image46.569x546.bmp" width="532" height="451">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="163.220,510.078,659.531,550.038" size="39.96">Firefox &#8211; View Certificates <textline bbox="163.220,510.078,659.531,550.038" font="Arial-BoldItalicMT" ncolour="0" size="39.960" colourspace="Pattern">Firefox &#8211; View Certificates </textline>
+</textbox>
+<figure name="Image52" bbox="116.160,20.880,684.960,468.960" src="Image52.569x546.bmp" width="568" height="448">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="86.064,510.023,708.392,550.007" size="39.984">Firefox &#8211; Your certificates before <textline bbox="86.064,510.023,708.392,550.007" font="Arial-BoldItalicMT" ncolour="0" size="39.984" colourspace="Pattern">Firefox &#8211; Your certificates before </textline>
+</textbox>
+<figure name="Image58" bbox="79.920,17.880,728.760,454.320" src="Image58.649x456.bmp" width="648" height="436">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="157.460,510.023,637.334,550.007" size="39.984">Firefox &#8211; STOP FIREFOX <textline bbox="157.460,510.023,637.334,550.007" font="Arial-BoldItalicMT" ncolour="0" size="39.984" colourspace="Pattern">Firefox &#8211; STOP FIREFOX </textline>
+</textbox>
+<figure name="Image64" bbox="45.720,17.040,755.520,468.240" src="Image64.800x600.bmp" width="709" height="451">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="138.500,510.023,656.158,550.007" size="39.984">Firefox &#8211; kinit &lt;username&gt; <textline bbox="138.500,510.023,656.158,550.007" font="Arial-BoldItalicMT" ncolour="0" size="39.984" colourspace="Pattern">Firefox &#8211; kinit &lt;username&gt; </textline>
+</textbox>
+<figure name="Image69" bbox="65.160,18.960,731.760,454.320" src="Image69.671x483.bmp" width="666" height="435">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="81.600,510.023,712.953,550.007" size="39.984">Firefox &#8211; getcert waiting for user <textline bbox="81.600,510.023,712.953,550.007" font="Arial-BoldItalicMT" ncolour="0" size="39.984" colourspace="Pattern">Firefox &#8211; getcert waiting for user </textline>
+</textbox>
+<figure name="Image75" bbox="62.160,9.840,708.600,468.960" src="Image75.671x562.bmp" width="646" height="459">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="188.420,510.023,606.554,550.007" size="39.984">Firefox &#8211; getcert done <textline bbox="188.420,510.023,606.554,550.007" font="Arial-BoldItalicMT" ncolour="0" size="39.984" colourspace="Pattern">Firefox &#8211; getcert done </textline>
+</textbox>
+<figure name="Image81" bbox="123.360,27.720,626.640,449.160" src="Image81.671x562.bmp" width="503" height="421">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="187.220,510.023,607.637,550.007" size="39.984">Firefox &#8211; after getcert <textline bbox="187.220,510.023,607.637,550.007" font="Arial-BoldItalicMT" ncolour="0" size="39.984" colourspace="Pattern">Firefox &#8211; after getcert </textline>
+</textbox>
+<figure name="Image87" bbox="80.520,9.840,708.000,459.840" src="Image87.800x600.bmp" width="627" height="450">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="157.100,510.023,637.453,550.007" size="39.984">Firefox &#8211; view certs after <textline bbox="157.100,510.023,637.453,550.007" font="Arial-BoldItalicMT" ncolour="0" size="39.984" colourspace="Pattern">Firefox &#8211; view certs after </textline>
+</textbox>
+<figure name="Image92" bbox="76.080,15.960,725.040,459.840" src="Image92.649x456.bmp" width="648" height="443">
+</figure>
+</page>
+<page id="14" bbox="0.000,0.000,793.800,595.200" rotate="0">
+<textbox id="0" bbox="93.864,510.023,700.746,550.007" size="39.984">Firefox &#8211; have cert &#8211; page loads <textline bbox="93.864,510.023,700.746,550.007" font="Arial-BoldItalicMT" ncolour="0" size="39.984" colourspace="Pattern">Firefox &#8211; have cert &#8211; page loads </textline>
+</textbox>
+<figure name="Image98" bbox="106.080,26.280,742.800,450.720" src="Image98.768x509.bmp" width="636" height="424">
+</figure>
+</page>
+</pages>

@@ -1,0 +1,1415 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="151.220,250.952,678.995,347.797" size="44.052" unique_id="0">Deploying and Operating the  
+SAM-Grid: lesson learned <textline bbox="151.220,303.757,678.995,347.797" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="44.040" colourspace="Pattern">Deploying and Operating the  </textline>
+<textline bbox="151.220,250.952,615.759,295.016" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="44.064" colourspace="Pattern">SAM-Grid: lesson learned </textline>
+</title>
+<normal_text id="1" bbox="55.200,91.792,643.820,169.957" size="32.052" unique_id="1">Gabriele Garzoglio for the SAM-Grid Team 
+Sep 28, 2004 <textline bbox="55.200,137.893,643.820,169.957" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">Gabriele Garzoglio for the SAM-Grid Team </textline>
+<textline bbox="55.200,91.792,242.666,123.832" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</normal_text>
+<picture name="Image9" bbox="42.000,264.000,128.280,344.280" src="Image9.115x107.bmp" width="86" height="80" unique_id="2">
+</picture>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[109.22, 477.723, 262.439, 517.707]">
+<title id="0" bbox="109.220,477.723,262.439,517.707" size="39.984" unique_id="0">Overview <textline bbox="109.220,477.723,262.439,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">Overview </textline>
+</title>
+<enlisting id="1" bbox="88.224,150.382,530.56,433.988" size="32.04" unique_id="['1', '2']">Introduction to the SAM-Grid 
+The SAM-Grid deployment and  
+operations 
+Lesson learned <textline bbox="88.224,401.948,496.030,433.988" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">Introduction to the SAM-Grid </textline>
+<textline bbox="88.224,355.838,530.560,387.878" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">The SAM-Grid deployment and  </textline>
+<textline bbox="88.224,317.438,235.608,349.478" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">operations </textline>
+<textline bbox="88.224,271.358,299.656,303.398" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">Lesson learned </textline>
+<normal_text id="2" bbox="119.780,150.382,369.826,258.982" size="27.959999999999997" unique_id="2">Cluster 
+Grid/Fabric interface 
+Grid services <textline bbox="119.780,231.022,205.170,258.982" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Cluster </textline>
+<textline bbox="119.780,190.702,369.826,218.662" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Grid/Fabric interface </textline>
+<textline bbox="119.780,150.382,276.971,178.342" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Grid services </textline>
+</normal_text>
+</enlisting>
+<footer id="3" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="3">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="4" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="4">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="5" bbox="651.720,21.711,658.740,35.751" size="14.04" unique_id="5">2 <textline bbox="651.720,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">2 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.0.115x107.bmp" width="70" height="65" unique_id="6">
+</picture>
+<enlisting_image name="Image21" bbox="61.200,410.040,83.160,432.480" src="Image21.20x20.bmp" width="21" height="22" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,363.960,83.160,386.400" src="Image21.0.20x20.bmp" width="21" height="22" unique_id="8">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,279.480,83.160,301.920" src="Image21.1.20x20.bmp" width="21" height="22" unique_id="9">
+</enlisting_image>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[113.21999999999998, 476.339, 430.439, 519.027]">
+<title id="0" bbox="115.220,475.647,514.439,519.687" size="44.04" unique_id="0">The SAM-Grid Project <textline bbox="115.220,475.647,514.439,519.687" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="44.040" colourspace="Pattern">The SAM-Grid Project </textline>
+</title>
+<enlisting id="1" bbox="58.200,49.796,686.337,440.712" size="27.966545454545454" unique_id="1">Mission: enable fully distributed computing for 
+DZero and CDF 
+Strategy: enhance the distributed data handling 
+system of the experiments (SAM), incorporating 
+standard Grid tools and protocols, and developing 
+new solutions for Grid computing (JIM) 
+History: SAM from 1997, JIM from end of 2001 
+Funds: received some funding from the Particle 
+Physics Data Grid (US) and GridPP (UK) 
+People: Computer scientists and Physicists from 
+Fermilab and the collaborating Institutions <textline bbox="58.200,412.752,686.208,440.712">Mission: enable fully distributed computing for <text font="BCDFEE+Tahoma-Bold" bbox="58.200,412.752,83.168,440.712" colourspace="Pattern" ncolour="0" size="27.960">M</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="83.168,412.752,91.612,440.712" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="91.612,412.752,106.012,440.712" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="106.012,412.752,120.411,440.712" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="120.551,412.752,128.995,440.712" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="128.995,412.752,146.246,440.712" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="146.246,412.752,164.140,440.712" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="164.060,412.752,173.958,440.712" colourspace="Pattern" ncolour="0" size="27.960">:</text>
+<text font="BCDEEE+Tahoma" bbox="190.940,412.752,205.647,440.712" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="205.647,412.752,221.249,440.712" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="221.333,412.752,236.012,440.712" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="236.095,412.752,251.557,440.712" colourspace="Pattern" ncolour="0" size="27.960">b</text>
+<text font="BCDEEE+Tahoma" bbox="251.557,412.752,257.960,440.712" colourspace="Pattern" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="257.960,412.752,272.667,440.712" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="289.730,412.752,298.621,440.712" colourspace="Pattern" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="298.370,412.752,313.971,440.712" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="313.971,412.752,320.374,440.712" colourspace="Pattern" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="320.374,412.752,326.777,440.712" colourspace="Pattern" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="326.777,412.752,340.701,440.712" colourspace="Pattern" ncolour="0" size="27.960">y</text>
+<text font="BCDEEE+Tahoma" bbox="357.670,412.752,373.132,440.712" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="373.132,412.752,379.535,440.712" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="379.535,412.752,392.005,440.712" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="392.005,412.752,401.344,440.712" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="401.455,412.752,411.521,440.712" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="411.633,412.752,418.036,440.712" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="418.036,412.752,433.498,440.712" colourspace="Pattern" ncolour="0" size="27.960">b</text>
+<text font="BCDEEE+Tahoma" bbox="433.498,412.752,449.099,440.712" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="449.099,412.752,458.438,440.712" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="458.438,412.752,473.145,440.712" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="473.145,412.752,488.607,440.712" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="505.660,412.752,518.550,440.712" colourspace="Pattern" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="518.550,412.752,533.732,440.712" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="533.844,412.752,557.330,440.712" colourspace="Pattern" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Tahoma" bbox="557.330,412.752,572.792,440.712" colourspace="Pattern" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+Tahoma" bbox="572.792,412.752,588.394,440.712" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="588.394,412.752,597.732,440.712" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="597.732,412.752,604.135,440.712" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="604.135,412.752,619.737,440.712" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="619.737,412.752,635.199,440.712" colourspace="Pattern" ncolour="0" size="27.960">g</text>
+<text font="BCDEEE+Tahoma" bbox="652.320,412.752,661.211,440.712" colourspace="Pattern" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="660.960,412.752,676.142,440.712" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="676.142,412.752,686.208,440.712" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+</textline>
+<textline bbox="58.200,379.147,245.624,407.131" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">DZero and CDF </textline>
+<textline bbox="58.200,338.802,686.337,366.762">Strategy: enhance the distributed data handling <text font="BCDFEE+Tahoma-Bold" bbox="58.200,338.802,75.899,366.762" colourspace="Pattern" ncolour="0" size="27.960">S</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="75.955,338.802,87.586,366.762" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="87.586,338.802,99.721,366.762" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="99.721,338.802,116.469,366.762" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="116.469,338.802,128.100,366.762" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="128.100,338.802,144.708,366.762" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="144.708,338.802,162.295,366.762" colourspace="Pattern" ncolour="0" size="27.960">g</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="162.295,338.802,178.400,366.762" colourspace="Pattern" ncolour="0" size="27.960">y</text>
+<text font="BCDEEE+Tahoma" bbox="178.460,338.802,188.358,366.762" colourspace="Pattern" ncolour="0" size="27.960">:</text>
+<text font="BCDEEE+Tahoma" bbox="201.050,338.802,215.757,366.762" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="215.757,338.802,231.359,366.762" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="231.359,338.802,246.960,366.762" colourspace="Pattern" ncolour="0" size="27.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="246.960,338.802,261.639,366.762" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="261.639,338.802,277.241,366.762" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="277.241,338.802,290.131,366.762" colourspace="Pattern" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="290.298,338.802,305.005,366.762" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="317.810,338.802,327.149,366.762" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="327.149,338.802,342.750,366.762" colourspace="Pattern" ncolour="0" size="27.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="342.750,338.802,357.457,366.762" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="370.270,338.802,385.732,366.762" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="385.732,338.802,392.135,366.762" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="392.135,338.802,404.605,366.762" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="404.605,338.802,413.944,366.762" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="413.944,338.802,424.009,366.762" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="424.009,338.802,430.412,366.762" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="430.412,338.802,445.874,366.762" colourspace="Pattern" ncolour="0" size="27.960">b</text>
+<text font="BCDEEE+Tahoma" bbox="445.874,338.802,461.476,366.762" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="461.476,338.802,470.814,366.762" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="470.814,338.802,485.521,366.762" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="485.521,338.802,500.983,366.762" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="513.940,338.802,529.402,366.762" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="529.402,338.802,544.081,366.762" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="544.081,338.802,553.420,366.762" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="553.503,338.802,568.182,366.762" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="580.900,338.802,596.502,366.762" colourspace="Pattern" ncolour="0" size="27.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="596.614,338.802,611.293,366.762" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="611.293,338.802,626.894,366.762" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="627.006,338.802,642.468,366.762" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="642.468,338.802,648.871,366.762" colourspace="Pattern" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="648.871,338.802,655.274,366.762" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="655.274,338.802,670.875,366.762" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="670.875,338.802,686.337,366.762" colourspace="Pattern" ncolour="0" size="27.960">g</text>
+</textline>
+<textline bbox="58.200,305.202,686.180,333.162" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">system of the experiments (SAM), incorporating </textline>
+<textline bbox="58.200,271.602,686.133,299.562" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">standard Grid tools and protocols, and developing </textline>
+<textline bbox="58.200,237.997,541.499,265.981" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">new solutions for Grid computing (JIM) </textline>
+<textline bbox="58.200,197.662,650.546,225.622">History: SAM from 1997, JIM from end of 2001 <text font="BCDFEE+Tahoma-Bold" bbox="58.200,197.662,79.561,225.622" colourspace="Pattern" ncolour="0" size="27.960">H</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="79.561,197.662,88.005,225.622" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="88.005,197.662,102.405,225.622" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="102.405,197.662,114.036,225.622" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="114.036,197.662,131.287,225.622" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="131.371,197.662,143.506,225.622" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="143.506,197.662,159.611,225.622" colourspace="Pattern" ncolour="0" size="27.960">y</text>
+<text font="BCDEEE+Tahoma" bbox="159.500,197.662,169.398,225.622" colourspace="Pattern" ncolour="0" size="27.960">:</text>
+<text font="BCDEEE+Tahoma" bbox="178.220,197.662,193.794,225.622" colourspace="Pattern" ncolour="0" size="27.960">S</text>
+<text font="BCDEEE+Tahoma" bbox="193.598,197.662,210.374,225.622" colourspace="Pattern" ncolour="0" size="27.960">A</text>
+<text font="BCDEEE+Tahoma" bbox="210.374,197.662,231.931,225.622" colourspace="Pattern" ncolour="0" size="27.960">M</text>
+<text font="BCDEEE+Tahoma" bbox="240.770,197.662,249.661,225.622" colourspace="Pattern" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="249.521,197.662,259.587,225.622" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="259.475,197.662,274.658,225.622" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="274.658,197.662,298.144,225.622" colourspace="Pattern" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Tahoma" bbox="307.010,197.662,322.276,225.622" colourspace="Pattern" ncolour="0" size="27.960">1</text>
+<text font="BCDEEE+Tahoma" bbox="322.274,197.662,337.540,225.622" colourspace="Pattern" ncolour="0" size="27.960">9</text>
+<text font="BCDEEE+Tahoma" bbox="337.538,197.662,352.804,225.622" colourspace="Pattern" ncolour="0" size="27.960">9</text>
+<text font="BCDEEE+Tahoma" bbox="352.802,197.662,368.068,225.622" colourspace="Pattern" ncolour="0" size="27.960">7</text>
+<text font="BCDEEE+Tahoma" bbox="365.950,197.662,374.422,225.622" colourspace="Pattern" ncolour="0" size="27.960">,</text>
+<text font="BCDEEE+Tahoma" bbox="383.230,197.662,394.889,225.622" colourspace="Pattern" ncolour="0" size="27.960">J</text>
+<text font="BCDEEE+Tahoma" bbox="394.889,197.662,405.318,225.622" colourspace="Pattern" ncolour="0" size="27.960">I</text>
+<text font="BCDEEE+Tahoma" bbox="405.318,197.662,426.876,225.622" colourspace="Pattern" ncolour="0" size="27.960">M</text>
+<text font="BCDEEE+Tahoma" bbox="435.790,197.662,444.681,225.622" colourspace="Pattern" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="444.541,197.662,454.607,225.622" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="454.495,197.662,469.678,225.622" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="469.678,197.662,493.164,225.622" colourspace="Pattern" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Tahoma" bbox="502.060,197.662,516.767,225.622" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="516.767,197.662,532.369,225.622" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="532.369,197.662,547.831,225.622" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="556.660,197.662,571.842,225.622" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="571.900,197.662,580.791,225.622" colourspace="Pattern" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="589.560,197.662,604.826,225.622" colourspace="Pattern" ncolour="0" size="27.960">2</text>
+<text font="BCDEEE+Tahoma" bbox="604.800,197.662,620.066,225.622" colourspace="Pattern" ncolour="0" size="27.960">0</text>
+<text font="BCDEEE+Tahoma" bbox="620.040,197.662,635.306,225.622" colourspace="Pattern" ncolour="0" size="27.960">0</text>
+<text font="BCDEEE+Tahoma" bbox="635.280,197.662,650.546,225.622" colourspace="Pattern" ncolour="0" size="27.960">1</text>
+</textline>
+<textline bbox="58.200,157.342,686.184,185.302">Funds: received some funding from the Particle <text font="BCDFEE+Tahoma-Bold" bbox="58.200,157.342,74.445,185.302" colourspace="Pattern" ncolour="0" size="27.960">F</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="74.445,157.342,92.339,185.302" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="92.339,157.342,110.234,185.302" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="110.234,157.342,127.820,185.302" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="127.820,157.342,142.220,185.302" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="142.220,157.342,152.118,185.302" colourspace="Pattern" ncolour="0" size="27.960">:</text>
+<text font="BCDEEE+Tahoma" bbox="166.340,157.342,176.406,185.302" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="176.406,157.342,191.113,185.302" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="191.113,157.342,204.002,185.302" colourspace="Pattern" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="204.114,157.342,218.821,185.302" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="218.821,157.342,225.224,185.302" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="225.224,157.342,239.148,185.302" colourspace="Pattern" ncolour="0" size="27.960">v</text>
+<text font="BCDEEE+Tahoma" bbox="238.924,157.342,253.631,185.302" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="253.631,157.342,269.093,185.302" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="283.490,157.342,295.960,185.302" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="296.072,157.342,311.254,185.302" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="311.254,157.342,334.741,185.302" colourspace="Pattern" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Tahoma" bbox="334.797,157.342,349.504,185.302" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="363.910,157.342,372.801,185.302" colourspace="Pattern" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="372.550,157.342,388.151,185.302" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="388.151,157.342,403.753,185.302" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="403.753,157.342,419.215,185.302" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="419.215,157.342,425.618,185.302" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="425.618,157.342,441.219,185.302" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="441.219,157.342,456.681,185.302" colourspace="Pattern" ncolour="0" size="27.960">g</text>
+<text font="BCDEEE+Tahoma" bbox="470.980,157.342,479.871,185.302" colourspace="Pattern" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="479.731,157.342,489.797,185.302" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="489.685,157.342,504.868,185.302" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="505.007,157.342,528.494,185.302" colourspace="Pattern" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Tahoma" bbox="542.860,157.342,552.199,185.302" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="552.199,157.342,567.800,185.302" colourspace="Pattern" ncolour="0" size="27.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="567.800,157.342,582.507,185.302" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="596.880,157.342,612.286,185.302" colourspace="Pattern" ncolour="0" size="27.960">P</text>
+<text font="BCDEEE+Tahoma" bbox="611.643,157.342,626.322,185.302" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="626.322,157.342,636.387,185.302" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="636.443,157.342,645.782,185.302" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="645.782,157.342,652.185,185.302" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="652.185,157.342,665.074,185.302" colourspace="Pattern" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="665.074,157.342,671.477,185.302" colourspace="Pattern" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="671.477,157.342,686.184,185.302" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+</textline>
+<textline bbox="58.200,123.737,547.508,151.721" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">Physics Data Grid (US) and GridPP (UK) </textline>
+<textline bbox="58.200,83.396,686.174,111.356">People: Computer scientists and Physicists from <text font="BCDFEE+Tahoma-Bold" bbox="58.200,83.396,76.570,111.356" colourspace="Pattern" ncolour="0" size="27.960">P</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="76.570,83.396,93.178,111.356" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="93.178,83.396,110.429,111.356" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="110.429,83.396,128.016,111.356" colourspace="Pattern" ncolour="0" size="27.960">p</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="128.100,83.396,136.544,111.356" colourspace="Pattern" ncolour="0" size="27.960">l</text>
+<text font="BCDFEE+Tahoma-Bold" bbox="136.628,83.396,153.236,111.356" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="153.140,83.396,163.038,111.356" colourspace="Pattern" ncolour="0" size="27.960">:</text>
+<text font="BCDEEE+Tahoma" bbox="176.900,83.396,193.704,111.356" colourspace="Pattern" ncolour="0" size="27.960">C</text>
+<text font="BCDEEE+Tahoma" bbox="193.704,83.396,208.886,111.356" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="208.970,83.396,232.457,111.356" colourspace="Pattern" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Tahoma" bbox="232.457,83.396,247.918,111.356" colourspace="Pattern" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+Tahoma" bbox="248.002,83.396,263.604,111.356" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="263.604,83.396,272.943,111.356" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="272.943,83.396,287.650,111.356" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="287.733,83.396,297.799,111.356" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="311.690,83.396,324.160,111.356" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="324.160,83.396,337.050,111.356" colourspace="Pattern" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="337.162,83.396,343.564,111.356" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="343.564,83.396,358.271,111.356" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="358.271,83.396,373.873,111.356" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="373.873,83.396,383.212,111.356" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="383.212,83.396,389.615,111.356" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="389.615,83.396,402.085,111.356" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="402.085,83.396,411.423,111.356" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="411.619,83.396,424.089,111.356" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="437.950,83.396,452.629,111.356" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="452.629,83.396,468.231,111.356" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="468.231,83.396,483.693,111.356" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="497.620,83.396,513.026,111.356" colourspace="Pattern" ncolour="0" size="27.960">P</text>
+<text font="BCDEEE+Tahoma" bbox="513.026,83.396,528.628,111.356" colourspace="Pattern" ncolour="0" size="27.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="528.460,83.396,542.384,111.356" colourspace="Pattern" ncolour="0" size="27.960">y</text>
+<text font="BCDEEE+Tahoma" bbox="542.384,83.396,554.854,111.356" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="554.854,83.396,561.257,111.356" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="561.257,83.396,574.147,111.356" colourspace="Pattern" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="574.147,83.396,580.549,111.356" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="580.549,83.396,593.020,111.356" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="593.020,83.396,602.358,111.356" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="602.358,83.396,614.828,111.356" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="628.800,83.396,637.691,111.356" colourspace="Pattern" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="637.551,83.396,647.617,111.356" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="647.505,83.396,662.688,111.356" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="662.688,83.396,686.174,111.356" colourspace="Pattern" ncolour="0" size="27.960">m</text>
+</textline>
+<textline bbox="58.200,49.796,580.180,77.756" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Fermilab and the collaborating Institutions </textline>
+</enlisting>
+<footer id="2" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="2">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="3" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="3">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="4" bbox="651.720,21.711,658.740,35.751" size="14.04" unique_id="4">3 <textline bbox="651.720,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">3 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.1.115x107.bmp" width="70" height="65" unique_id="5">
+</picture>
+<enlisting_image name="Image21" bbox="31.200,419.880,50.160,439.440" src="Image21.2.20x20.bmp" width="18" height="19" unique_id="6">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="31.200,345.960,50.160,365.520" src="Image21.3.20x20.bmp" width="18" height="19" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="31.200,204.840,50.160,224.400" src="Image21.4.20x20.bmp" width="18" height="19" unique_id="8">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="31.200,164.520,50.160,184.080" src="Image21.5.20x20.bmp" width="18" height="19" unique_id="9">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="31.200,90.600,50.160,110.160" src="Image21.6.20x20.bmp" width="18" height="19" unique_id="10">
+</enlisting_image>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[111.21999999999998, 477.031, 498.8475, 518.3670000000001]">
+<title id="0" bbox="109.220,477.723,567.256,517.707" size="39.984" unique_id="0">What is SAM-Grid used for? <textline bbox="109.220,477.723,567.256,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">What is SAM-Grid used for? </textline>
+</title>
+<normal_text id="1" bbox="88.224,401.948,546.813,433.988" size="32.04" unique_id="1">Montecarlo production for DZero <textline bbox="88.224,401.948,546.813,433.988" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">Montecarlo production for DZero </textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,248.313,630.572,389.611" size="28.991999999999997" unique_id="2">From March 2004 produced &gt; 2,000,000  
+events, equivalent to 11 yrs GHz  
+computation 
+Other Activities: <textline bbox="119.780,361.627,630.572,389.611" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">From March 2004 produced &gt; 2,000,000  </textline>
+<textline bbox="119.780,328.002,529.813,355.962" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">events, equivalent to 11 yrs GHz  </textline>
+<textline bbox="119.780,294.402,273.057,322.362" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">computation </textline>
+<textline bbox="88.224,248.313,313.730,280.377" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">Other Activities: </textline>
+</normal_text>
+<normal_text id="3" bbox="119.780,100.432,660.107,235.942" size="27.966" unique_id="3">Extending the infrastructure to enable data  
+reconstruction for DZero 
+Montecarlo production for CDF at the  
+prototypical stage <textline bbox="119.780,207.982,660.107,235.942" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Extending the infrastructure to enable data  </textline>
+<textline bbox="119.780,174.382,420.266,202.342" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">reconstruction for DZero </textline>
+<textline bbox="119.780,134.057,587.812,162.041" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">Montecarlo production for CDF at the  </textline>
+<textline bbox="119.780,100.432,339.490,128.392" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">prototypical stage </textline>
+</normal_text>
+<footer id="4" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="4">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="5" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="5">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="6" bbox="651.720,21.711,658.740,35.751" size="14.04" unique_id="6">4 <textline bbox="651.720,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">4 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.2.115x107.bmp" width="70" height="65" unique_id="7">
+</picture>
+<picture name="Image21" bbox="61.200,410.040,83.160,432.480" src="Image21.7.20x20.bmp" width="21" height="22" unique_id="8">
+</picture>
+<picture name="Image21" bbox="61.200,256.440,83.160,278.880" src="Image21.8.20x20.bmp" width="21" height="22" unique_id="9">
+</picture>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[110.41999999999999, 476.3794, 559.3860999999999, 518.8066000000001]">
+<title id="0" bbox="109.220,475.402,650.194,519.466" size="44.064" unique_id="0">Montecarlo Production Events <textline bbox="109.220,475.402,650.194,519.466" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="44.064" colourspace="Pattern">Montecarlo Production Events </textline>
+</title>
+<slide_number id="3" bbox="651.720,21.711,658.740,35.751" size="14.04" unique_id="3">5 <textline bbox="651.720,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">5 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.3.115x107.bmp" width="70" height="65" unique_id="4">
+</picture>
+<picture name="Image39" bbox="90.000,81.000,630.000,459.000" src="Image39.jpg" width="540" height="378" unique_id="5" caption="Sep 28, 2004 &#10;Gabriele Garzoglio " caption_ids="['1', '2']">
+</picture>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[110.01999999999998, 476.8272666666666, 460.4037333333334, 518.4400666666667]">
+<title id="0" bbox="109.220,477.723,262.439,517.707" size="39.984" unique_id="0">Overview <textline bbox="109.220,477.723,262.439,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">Overview </textline>
+</title>
+<enlisting id="1" bbox="61.224,150.382,530.56,434.052" size="32.04" unique_id="['1', ' 2', '3']">&#10003;Introduction to the SAM-Grid 
+&#10146;The SAM-Grid deployment and  <textline bbox="61.224,401.948,496.030,434.052">&#10003;Introduction to the SAM-Grid <text font="BCDGEE+Wingdings-Regular" bbox="61.224,402.012,86.407,434.052" colourspace="Pattern" ncolour="0" size="32.040">&#10003;</text>
+<text font="BCDEEE+Tahoma" bbox="88.224,401.948,100.175,433.988" colourspace="Pattern" ncolour="0" size="32.040">I</text>
+<text font="BCDEEE+Tahoma" bbox="100.175,401.948,118.053,433.988" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="118.053,401.948,128.755,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="128.755,401.948,140.289,433.988" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="140.065,401.948,157.462,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="157.462,401.948,175.181,433.988" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="175.181,401.948,193.059,433.988" colourspace="Pattern" ncolour="0" size="32.040">u</text>
+<text font="BCDEEE+Tahoma" bbox="193.059,401.948,207.829,433.988" colourspace="Pattern" ncolour="0" size="32.040">c</text>
+<text font="BCDEEE+Tahoma" bbox="207.829,401.948,218.531,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="218.531,401.948,225.868,433.988" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="225.868,401.948,243.266,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="243.266,401.948,261.144,433.988" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="261.144,401.948,271.172,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="271.172,401.948,281.874,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="281.874,401.948,299.271,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="299.271,401.948,309.300,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="309.300,401.948,320.001,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="320.001,401.948,337.880,433.988" colourspace="Pattern" ncolour="0" size="32.040">h</text>
+<text font="BCDEEE+Tahoma" bbox="337.880,401.948,354.733,433.988" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="354.733,401.948,364.761,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="364.761,401.948,382.608,433.988" colourspace="Pattern" ncolour="0" size="32.040">S</text>
+<text font="BCDEEE+Tahoma" bbox="382.479,401.948,401.703,433.988" colourspace="Pattern" ncolour="0" size="32.040">A</text>
+<text font="BCDEEE+Tahoma" bbox="401.703,401.948,426.406,433.988" colourspace="Pattern" ncolour="0" size="32.040">M</text>
+<text font="BCDEEE+Tahoma" bbox="426.430,401.948,438.061,433.988" colourspace="Pattern" ncolour="0" size="32.040">-</text>
+<text font="BCDEEE+Tahoma" bbox="438.070,401.948,459.441,433.988" colourspace="Pattern" ncolour="0" size="32.040">G</text>
+<text font="BCDEEE+Tahoma" bbox="459.441,401.948,470.975,433.988" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="470.975,401.948,478.312,433.988" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="478.312,401.948,496.030,433.988" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+</textline>
+<textline bbox="61.224,355.838,530.560,387.942">&#10146;The SAM-Grid deployment and  <text font="BCDGEE+Wingdings-Regular" bbox="61.224,355.902,86.664,387.942" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">&#10146;</text>
+<text font="BCDEEE+Tahoma" bbox="88.224,355.838,106.935,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">T</text>
+<text font="BCDEEE+Tahoma" bbox="106.935,355.838,124.814,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">h</text>
+<text font="BCDEEE+Tahoma" bbox="124.814,355.838,141.667,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="141.667,355.838,151.695,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="151.695,355.838,169.542,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">S</text>
+<text font="BCDEEE+Tahoma" bbox="169.349,355.838,188.573,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">A</text>
+<text font="BCDEEE+Tahoma" bbox="188.573,355.838,213.276,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">M</text>
+<text font="BCDEEE+Tahoma" bbox="213.290,355.838,224.921,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">-</text>
+<text font="BCDEEE+Tahoma" bbox="224.930,355.838,246.301,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">G</text>
+<text font="BCDEEE+Tahoma" bbox="246.301,355.838,257.835,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="257.835,355.838,265.172,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="265.172,355.838,282.890,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="282.890,355.838,292.919,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="292.919,355.838,310.637,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="310.637,355.838,327.490,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="327.490,355.838,345.208,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">p</text>
+<text font="BCDEEE+Tahoma" bbox="345.208,355.838,352.545,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">l</text>
+<text font="BCDEEE+Tahoma" bbox="352.545,355.838,369.943,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="369.783,355.838,385.739,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">y</text>
+<text font="BCDEEE+Tahoma" bbox="385.739,355.838,412.652,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">m</text>
+<text font="BCDEEE+Tahoma" bbox="412.652,355.838,429.505,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="429.505,355.838,447.384,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="447.384,355.838,458.085,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="458.085,355.838,468.114,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="468.114,355.838,484.935,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">a</text>
+<text font="BCDEEE+Tahoma" bbox="484.935,355.838,502.813,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="502.813,355.838,520.531,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="520.531,355.838,530.560,387.878" colourspace="Pattern" ncolour="(1, 0, 0)" size="32.040"> </text>
+</textline>
+<normal_text id="2" bbox="88.224,271.358,299.656,349.478" size="32.04" unique_id="2">operations 
+Lesson learned <textline bbox="88.224,317.438,235.608,349.478" font="BCDEEE+Tahoma" ncolour="(1, 0, 0)" size="32.040" colourspace="Pattern">operations </textline>
+<textline bbox="88.224,271.358,299.656,303.398" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">Lesson learned </textline>
+</normal_text>
+<normal_text id="3" bbox="119.780,150.382,369.826,258.982" size="27.959999999999997" unique_id="3">Cluster 
+Grid/Fabric interface 
+Grid services <textline bbox="119.780,231.022,205.170,258.982" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Cluster </textline>
+<textline bbox="119.780,190.702,369.826,218.662" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Grid/Fabric interface </textline>
+<textline bbox="119.780,150.382,276.971,178.342" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Grid services </textline>
+</normal_text>
+</enlisting>
+<footer id="4" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="4">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="5" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="5">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="6" bbox="651.720,21.711,658.740,35.751" size="14.04" unique_id="6">6 <textline bbox="651.720,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">6 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.4.115x107.bmp" width="70" height="65" unique_id="7">
+</picture>
+<picture name="Image21" bbox="61.200,279.480,83.160,301.920" src="Image21.9.20x20.bmp" width="21" height="22" unique_id="8">
+</picture>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[109.79142857142857, 477.08319047619045, 466.0689523809524, 518.230619047619]">
+<title id="0" bbox="109.220,477.723,480.232,517.707" size="39.984" unique_id="0">The Deployment Phase <textline bbox="109.220,477.723,480.232,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">The Deployment Phase </textline>
+</title>
+<enlisting id="1" bbox="88.224,90.832,665.771,437.828" size="32.0496" unique_id="['1', ' 2', '3']">The initial deployment took 3 months:  
+Jan - Mar 2004 
+The inefficiencyin event production due  
+to the grid infrastructure improved from  
+40% to 1-5% <textline bbox="88.224,405.788,637.229,437.828" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">The initial deployment took 3 months:  </textline>
+<textline bbox="88.224,371.223,300.837,403.287" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">Jan - Mar 2004 </textline>
+<textline bbox="88.224,328.958,665.771,360.998" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">The inefficiencyin event production due  </textline>
+<textline bbox="88.224,294.398,661.868,326.438" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">to the grid infrastructure improved from  </textline>
+<textline bbox="88.224,259.833,280.617,291.897" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">40% to 1-5% </textline>
+<normal_text id="2" bbox="119.780,202.202,555.908,252.122" size="24.0" unique_id="2">Inefficiency of the infrastructure =  
+1 - (events produced / events requested) <textline bbox="119.780,228.122,492.116,252.122" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">Inefficiency of the infrastructure =  </textline>
+<textline bbox="119.780,202.202,555.908,226.202" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">1 - (events produced / events requested) </textline>
+</normal_text>
+<normal_text id="3" bbox="88.224,90.832,629.187,192.018" size="32.048" unique_id="3">This talk focuses on the main sources  
+inefficiencies and how we mitigated  
+them <textline bbox="88.224,159.978,629.187,192.018" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">This talk focuses on the main sources  </textline>
+<textline bbox="88.224,125.413,602.306,157.477" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">inefficiencies and how we mitigated  </textline>
+<textline bbox="88.224,90.832,160.570,122.872" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">them </textline>
+</normal_text>
+</enlisting>
+<footer id="4" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="4">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="5" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="5">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="6" bbox="651.720,21.711,658.740,35.751" size="14.04" unique_id="6">7 <textline bbox="651.720,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">7 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.5.115x107.bmp" width="70" height="65" unique_id="7">
+</picture>
+<enlisting_image name="Image21" bbox="61.200,413.880,83.160,436.320" src="Image21.10.20x20.bmp" width="21" height="22" unique_id="8">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,337.080,83.160,359.520" src="Image21.11.20x20.bmp" width="21" height="22" unique_id="9">
+</enlisting_image>
+<picture name="Image21" bbox="61.200,168.120,83.160,190.560" src="Image21.12.20x20.bmp" width="21" height="22" unique_id="10">
+</picture>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[107.11757142857142, 472.49514285714287, 455.3744642857143, 519.6377142857143]">
+<title id="0" bbox="99.096,458.731,423.291,523.859" size="30.0" unique_id="0">Service Architecture 
+User Interface <textline bbox="99.096,483.899,423.291,523.859" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.960" colourspace="Pattern">Service Architecture </textline>
+<textline bbox="181.300,458.731,303.945,478.771" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="Pattern">User Interface </textline>
+</title>
+<normal_text id="1" bbox="28.584,458.866,151.255,478.930" size="20.064" unique_id="1">User Interface <textline bbox="28.584,458.866,151.255,478.930" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.064" colourspace="Pattern">User Interface </textline>
+</normal_text>
+<normal_text id="2" bbox="446.660,505.167,494.550,519.207" size="14.04" unique_id="2">Flow of: <textline bbox="446.660,505.167,494.550,519.207" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Flow of: </textline>
+</normal_text>
+<normal_text id="3" bbox="508.800,506.417,526.729,520.457" size="14.04" unique_id="3">job <textline bbox="508.800,506.417,526.729,520.457" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">job </textline>
+</normal_text>
+<normal_text id="4" bbox="559.560,506.417,583.035,520.457" size="14.04" unique_id="4">data <textline bbox="559.560,506.417,583.035,520.457" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">data </textline>
+</normal_text>
+<normal_text id="5" bbox="613.560,507.037,668.835,521.077" size="14.04" unique_id="5">meta-data <textline bbox="613.560,507.037,668.835,521.077" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">meta-data </textline>
+</normal_text>
+<normal_text id="6" bbox="414.910,459.611,537.555,479.651" size="20.04" unique_id="6">User Interface <textline bbox="414.910,459.611,537.555,479.651" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="Pattern">User Interface </textline>
+</normal_text>
+<normal_text id="7" bbox="567.670,459.486,690.341,479.550" size="20.064" unique_id="7">User Interface <textline bbox="567.670,459.486,690.341,479.550" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.064" colourspace="Pattern">User Interface </textline>
+</normal_text>
+<normal_text id="8" bbox="99.096,382.303,226.847,427.891" size="18.0" unique_id="8">Submission 
+Global Job Queue <textline bbox="99.096,407.851,197.112,427.891" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="Pattern">Submission </textline>
+<textline bbox="103.460,382.303,226.847,398.263" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">Global Job Queue </textline>
+</normal_text>
+<normal_text id="9" bbox="104.230,351.563,182.833,367.523" size="15.96" unique_id="9">Grid Client <textline bbox="104.230,351.563,182.833,367.523" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">Grid Client </textline>
+</normal_text>
+<normal_text id="11" bbox="276.120,349.183,428.624,391.381" size="18.0" unique_id="11">Resource Selector 
+Match Making <textline bbox="276.120,371.341,428.624,391.381" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="Pattern">Resource Selector </textline>
+<textline bbox="308.880,349.183,410.481,365.143" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">Match Making </textline>
+</normal_text>
+<normal_text id="12" bbox="320.400,323.507,396.286,337.547" size="14.04" unique_id="12">Info Gatherer <textline bbox="320.400,323.507,396.286,337.547" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Info Gatherer </textline>
+</normal_text>
+<normal_text id="13" bbox="318.600,294.377,397.828,308.417" size="14.04" unique_id="13">Info Collector <textline bbox="318.600,294.377,397.828,308.417" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Info Collector </textline>
+</normal_text>
+<normal_text id="14" bbox="314.760,225.252,343.605,239.316" size="14.064" unique_id="14">MSS <textline bbox="314.760,225.252,343.605,239.316" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.064" colourspace="Pattern">MSS </textline>
+</normal_text>
+<normal_text id="15" bbox="363.530,220.751,454.363,244.775" size="14.04" unique_id="15">Cache Site <textline bbox="363.530,220.751,454.363,244.775">Cache Site <text font="TimesNewRomanPSMT" bbox="363.530,225.377,372.895,239.417" colourspace="Pattern" ncolour="0" size="14.040">C</text>
+<text font="TimesNewRomanPSMT" bbox="372.895,225.377,379.128,239.417" colourspace="Pattern" ncolour="0" size="14.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="379.128,225.377,385.362,239.417" colourspace="Pattern" ncolour="0" size="14.040">c</text>
+<text font="TimesNewRomanPSMT" bbox="385.362,225.377,392.382,239.417" colourspace="Pattern" ncolour="0" size="14.040">h</text>
+<text font="TimesNewRomanPSMT" bbox="392.438,225.377,398.672,239.417" colourspace="Pattern" ncolour="0" size="14.040">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="415.660,220.751,429.017,244.775" colourspace="Pattern" ncolour="0" size="24.024">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="429.017,220.751,435.696,244.775" colourspace="Pattern" ncolour="0" size="24.024">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="435.696,220.751,443.696,244.775" colourspace="Pattern" ncolour="0" size="24.024">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="443.696,220.751,454.363,244.775" colourspace="Pattern" ncolour="0" size="24.024">e</text>
+</textline>
+</normal_text>
+<normal_text id="16" bbox="25.824,212.293,76.353,228.253" size="15.96" unique_id="16">Cluster <textline bbox="25.824,212.293,76.353,228.253" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">Cluster </textline>
+</normal_text>
+<normal_text id="17" bbox="35.712,143.827,114.097,174.667" size="14.04" unique_id="17">SAM Station 
+(+other servs) <textline bbox="35.712,160.627,109.534,174.667" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">SAM Station </textline>
+<textline bbox="35.712,143.827,114.097,157.867" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">(+other servs) </textline>
+</normal_text>
+<normal_text id="18" bbox="33.336,114.827,118.025,128.867" size="14.04" unique_id="18">SAM Stager(s) <textline bbox="33.336,114.827,118.025,128.867" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">SAM Stager(s) </textline>
+</normal_text>
+<normal_text id="19" bbox="30.960,53.343,73.557,67.383" size="14.04" unique_id="19">Dist.FS <textline bbox="30.960,53.343,73.557,67.383" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Dist.FS </textline>
+</normal_text>
+<footer id="20" bbox="37.488,26.079,67.785,40.119" size="14.04" unique_id="20">AAA <textline bbox="37.488,26.079,67.785,40.119" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">AAA </textline>
+</footer>
+<footer id="21" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="21">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<normal_text id="22" bbox="31.464,187.747,119.916,201.787" size="14.04" unique_id="22">Data Handling <textline bbox="31.464,187.747,119.916,201.787" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.040" colourspace="Pattern">Data Handling </textline>
+</normal_text>
+<normal_text id="23" bbox="150.240,185.107,268.653,199.147" size="14.04" unique_id="23">Local Job Handling <textline bbox="150.240,185.107,268.653,199.147" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.040" colourspace="Pattern">Local Job Handling </textline>
+</normal_text>
+<normal_text id="24" bbox="170.330,161.487,249.277,175.527" size="14.04" unique_id="24">Grid Gateway <textline bbox="170.330,161.487,249.277,175.527" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Grid Gateway </textline>
+</normal_text>
+<normal_text id="25" bbox="321.500,165.773,416.223,181.733" size="15.96" unique_id="25">Info Manager <textline bbox="321.500,165.773,416.223,181.733" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">Info Manager </textline>
+</normal_text>
+<normal_text id="26" bbox="151.010,132.977,269.971,147.017" size="14.04" unique_id="26">Grid/Fabric Interface <textline bbox="151.010,132.977,269.971,147.017" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Grid/Fabric Interface </textline>
+</normal_text>
+<normal_text id="28" bbox="190.870,88.335,270.926,102.375" size="14.04" unique_id="28">JIM Advertise <textline bbox="190.870,88.335,270.926,102.375" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">JIM Advertise </textline>
+</normal_text>
+<normal_text id="29" bbox="161.470,55.839,248.027,69.879" size="14.04" unique_id="29">Worker Nodes <textline bbox="161.470,55.839,248.027,69.879" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.040" colourspace="Pattern">Worker Nodes </textline>
+</normal_text>
+<normal_text id="30" bbox="327.910,114.087,408.542,128.127" size="14.04" unique_id="30">Info Providers <textline bbox="327.910,114.087,408.542,128.127" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Info Providers </textline>
+</normal_text>
+<normal_text id="31" bbox="334.610,79.455,430.559,93.495" size="14.04" unique_id="31">XML DB server <textline bbox="334.610,79.455,430.559,93.495" font="TimesNewRomanPS-BoldMT" ncolour="0" size="14.040" colourspace="Pattern">XML DB server </textline>
+</normal_text>
+<normal_text id="32" bbox="337.510,19.623,442.234,60.591" size="14.04" unique_id="32">Site Conf. 
+Glob/Loc JID map 
+... <textline bbox="337.510,46.551,394.358,60.591" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Site Conf. </textline>
+<textline bbox="337.510,33.087,442.234,47.127" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Glob/Loc JID map </textline>
+<textline bbox="337.510,19.623,347.980,33.663" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">... </textline>
+</normal_text>
+<footer id="33" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="33">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<normal_text id="34" bbox="494.930,407.851,592.946,427.891" size="20.04" unique_id="34">Submission <textline bbox="494.930,407.851,592.946,427.891" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="Pattern">Submission </textline>
+</normal_text>
+<normal_text id="35" bbox="520.180,324.683,687.915,369.491" size="18.0" unique_id="35">Global DH Services 
+SAM Naming Server <textline bbox="520.180,349.451,687.915,369.491" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="Pattern">Global DH Services </textline>
+<textline bbox="530.400,324.683,673.386,340.643" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">SAM Naming Server </textline>
+</normal_text>
+<normal_text id="36" bbox="544.320,293.173,659.599,309.133" size="15.96" unique_id="36">SAM Log Server <textline bbox="544.320,293.173,659.599,309.133" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">SAM Log Server </textline>
+</normal_text>
+<normal_text id="37" bbox="533.760,261.033,670.410,276.993" size="15.96" unique_id="37">Resource Optimizer <textline bbox="533.760,261.033,670.410,276.993" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">Resource Optimizer </textline>
+</normal_text>
+<normal_text id="38" bbox="526.060,213.737,671.383,249.493" size="15.0" unique_id="38">SAM DB Server 
+RC MetaData Catalog <textline bbox="526.060,233.533,636.918,249.493" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">SAM DB Server </textline>
+<textline bbox="531.550,213.737,671.383,227.777" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">RC MetaData Catalog </textline>
+</normal_text>
+<normal_text id="39" bbox="541.800,187.237,662.151,201.277" size="14.04" unique_id="39">Bookkeeping Service <textline bbox="541.800,187.237,662.151,201.277" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Bookkeeping Service </textline>
+</normal_text>
+<normal_text id="40" bbox="523.180,101.773,643.230,147.331" size="18.0" unique_id="40">Web Serv 
+Grid Monitoring <textline bbox="523.180,127.291,606.065,147.331" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="Pattern">Web Serv </textline>
+<textline bbox="528.190,101.773,643.230,117.733" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">Grid Monitoring </textline>
+</normal_text>
+<normal_text id="41" bbox="550.180,71.385,621.521,87.345" size="15.96" unique_id="41">User Tools <textline bbox="550.180,71.385,621.521,87.345" font="TimesNewRomanPS-BoldMT" ncolour="0" size="15.960" colourspace="Pattern">User Tools </textline>
+</normal_text>
+<footer id="42" bbox="486.910,11.568,525.622,35.568" size="24.0" unique_id="42">Site <textline bbox="486.910,11.568,525.622,35.568" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000" colourspace="Pattern">Site </textline>
+</footer>
+<footer id="43" bbox="558.670,11.568,597.382,35.568" size="24.0" unique_id="43">Site <textline bbox="558.670,11.568,597.382,35.568" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000" colourspace="Pattern">Site </textline>
+</footer>
+<slide_number id="44" bbox="630.430,11.568,669.166,35.751" size="19.02" unique_id="44">8 
+Site <textline bbox="651.720,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">8 </textline>
+<textline bbox="630.430,11.568,669.166,35.568" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000" colourspace="Pattern">Site </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.6.115x107.bmp" width="70" height="65" unique_id="45" caption="Grid &#10;Fabric " caption_ids="['10']">
+</picture>
+<picture name="Image65" bbox="314.640,205.080,360.000,225.120" src="Image65.70x38.bmp" width="45" height="20" unique_id="46" caption="MDS " caption_ids="['27']">
+</picture>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[107.58477777777777, 473.65688888888894, 461.8579166666667, 519.2086666666668]">
+<title id="0" bbox="109.220,477.723,484.550,517.707" size="39.984" unique_id="0">The Deployment Model <textline bbox="109.220,477.723,484.550,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">The Deployment Model </textline>
+</title>
+<normal_text id="1" bbox="88.224,336.638,598.942,437.828" size="32.048" unique_id="1">Every site provides a gateway node  
+where experts + local contacts can  
+install the SAM-Grid software: <textline bbox="88.224,405.788,598.942,437.828" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">Every site provides a gateway node  </textline>
+<textline bbox="88.224,371.223,592.462,403.287" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">where experts + local contacts can  </textline>
+<textline bbox="88.224,336.638,509.348,368.678" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">install the SAM-Grid software: </textline>
+</normal_text>
+<footer id="4" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="4">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="5" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="5">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="6" bbox="651.720,21.711,658.740,35.751" size="14.04" unique_id="6">9 <textline bbox="651.720,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">9 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.7.115x107.bmp" width="70" height="65" unique_id="7">
+</picture>
+<picture name="Image21" bbox="61.200,413.880,83.160,436.320" src="Image21.13.20x20.bmp" width="21" height="22" unique_id="8">
+</picture>
+<enlisting_image name="Image21" bbox="61.200,235.320,83.160,257.760" src="Image21.14.20x20.bmp" width="21" height="22" unique_id="9">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,125.880,83.160,148.320" src="Image21.15.20x20.bmp" width="21" height="22" unique_id="10">
+</enlisting_image>
+<enlisting bbox="88.224,83.152,623.591,327.642" unique_id="['2', '3']">Standard middleware (VDT), Grid/Fabric  
+interface, VO Services client code 
+VO-specific services run at the site: 
+SAM, JIM Monitoring, Local Scheduler,  
+Local Storage No software/daemon required at the  
+worker nodes of the cluster <normal_text id="2" bbox="88.224,159.982,623.591,327.642" size="28.776000000000003" unique_id="2">Standard middleware (VDT), Grid/Fabric  
+interface, VO Services client code 
+VO-specific services run at the site: 
+SAM, JIM Monitoring, Local Scheduler,  
+Local Storage <textline bbox="119.780,299.682,623.591,327.642" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Standard middleware (VDT), Grid/Fabric  </textline>
+<textline bbox="119.780,269.442,531.547,297.402" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">interface, VO Services client code </textline>
+<textline bbox="88.224,227.178,587.681,259.218" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">VO-specific services run at the site: </textline>
+<textline bbox="119.780,190.222,598.204,218.182" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">SAM, JIM Monitoring, Local Scheduler,  </textline>
+<textline bbox="119.780,159.982,286.254,187.942" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Local Storage </textline>
+</normal_text>
+<normal_text id="3" bbox="88.224,83.152,614.042,149.797" size="32.052" unique_id="3">No software/daemon required at the  
+worker nodes of the cluster <textline bbox="88.224,117.733,614.042,149.797" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">No software/daemon required at the  </textline>
+<textline bbox="88.224,83.152,475.556,115.192" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">worker nodes of the cluster </textline>
+</normal_text>
+</enlisting></page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[107.9118222222222, 474.0059111111111, 479.6257333333334, 519.2601333333333]">
+<title id="0" bbox="109.220,475.402,550.697,519.466" size="44.064" unique_id="0">Status of the Deployment <textline bbox="109.220,475.402,550.697,519.466" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="44.064" colourspace="Pattern">Status of the Deployment </textline>
+</title>
+<enlisting id="1" bbox="88.224,75.476,656.444,437.828" size="32.0496" unique_id="['1', ' 2', '3']">A dozen institutions currently part of  
+the grid 
+~50% stable enough to be used for  
+production 
+US Institutions <textline bbox="88.224,405.788,614.032,437.828" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">A dozen institutions currently part of  </textline>
+<textline bbox="88.224,371.223,198.075,403.287" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">the grid </textline>
+<textline bbox="88.224,328.958,605.350,360.998" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">~50% stable enough to be used for  </textline>
+<textline bbox="88.224,294.398,238.556,326.438" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">production </textline>
+<textline bbox="88.224,252.153,295.454,284.217" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">US Institutions </textline>
+<normal_text id="2" bbox="88.224,142.693,598.427,243.142" size="29.328000000000003" unique_id="2">FNAL, UW Madison, UTA, LUHEP, LTU,  
+OSCER, OUHEP 
+Non-US Institutions <textline bbox="119.780,215.182,598.427,243.142" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">FNAL, UW Madison, UTA, LUHEP, LTU,  </textline>
+<textline bbox="119.780,184.942,310.411,212.902" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">OSCER, OUHEP </textline>
+<textline bbox="88.224,142.693,363.730,174.757" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">Non-US Institutions </textline>
+</normal_text>
+<normal_text id="3" bbox="119.780,75.476,656.444,133.672" size="27.96" unique_id="3">IN2P3 (Fr), Oxford (UK), Manchester (UK),  
+Prague (Cz), GridKa (De), Sprace (Br) <textline bbox="119.780,105.712,656.444,133.672" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">IN2P3 (Fr), Oxford (UK), Manchester (UK),  </textline>
+<textline bbox="119.780,75.476,584.615,103.436" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Prague (Cz), GridKa (De), Sprace (Br) </textline>
+</normal_text>
+</enlisting>
+<footer id="4" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="4">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="5" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="5">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="6" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="6">10 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">10 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.8.115x107.bmp" width="70" height="65" unique_id="7">
+</picture>
+<enlisting_image name="Image21" bbox="61.200,413.880,83.160,436.320" src="Image21.16.20x20.bmp" width="21" height="22" unique_id="8">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,337.080,83.160,359.520" src="Image21.17.20x20.bmp" width="21" height="22" unique_id="9">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,260.280,83.160,282.720" src="Image21.18.20x20.bmp" width="21" height="22" unique_id="10">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,150.840,83.160,173.280" src="Image21.19.20x20.bmp" width="21" height="22" unique_id="11">
+</enlisting_image>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.14967272727272, 474.6817454545454, 500.3457818181819, 518.9777454545455]">
+<title id="0" bbox="109.220,477.723,593.586,517.707" size="39.984" unique_id="0">The Operation/Support Model <textline bbox="109.220,477.723,593.586,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">The Operation/Support Model </textline>
+</title>
+<enlisting id="1" bbox="86.295,133.077,660.357,434.712" size="27.968000000000004" unique_id="['1', '2']">A few production users can submit from their  
+laptop to any SAM-Grid site 
+The software at each site is uniformand  
+adapts to the local fabric configuration 
+The JIM infrastructure is currently maintained  
+by 1 FTE + local contacts. <textline bbox="88.224,406.752,655.532,434.712" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">A few production users can submit from their  </textline>
+<textline bbox="88.224,373.147,426.399,401.131" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">laptop to any SAM-Grid site </textline>
+<textline bbox="88.224,332.802,596.034,360.762" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">The software at each site is uniformand  </textline>
+<textline bbox="86.295,299.202,563.554,327.162" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">adapts to the local fabric configuration </textline>
+<textline bbox="88.224,258.877,660.357,286.861" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">The JIM infrastructure is currently maintained  </textline>
+<textline bbox="88.224,225.262,410.743,253.222" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">by 1 FTE + local contacts. </textline>
+<normal_text id="2" bbox="119.780,133.077,609.764,214.682" size="24.008" unique_id="2">This improves the previous model, where an  
+expert per site was necessary to maintain the  
+specific local production mechanisms <textline bbox="119.780,190.682,597.044,214.682" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">This improves the previous model, where an  </textline>
+<textline bbox="119.780,161.882,609.764,185.882" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">expert per site was necessary to maintain the  </textline>
+<textline bbox="119.780,133.077,510.266,157.101" font="BCDEEE+Tahoma" ncolour="0" size="24.024" colourspace="Pattern">specific local production mechanisms </textline>
+</normal_text>
+</enlisting>
+<footer id="3" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="3">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="4" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="4">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="5" bbox="645.120,21.711,658.740,35.751" size="14.04" unique_id="5">11 <textline bbox="645.120,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">11 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.9.115x107.bmp" width="70" height="65" unique_id="6">
+</picture>
+<enlisting_image name="Image21" bbox="61.200,413.880,80.160,433.440" src="Image21.20.20x20.bmp" width="18" height="19" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,339.960,80.160,359.520" src="Image21.21.20x20.bmp" width="18" height="19" unique_id="8">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,266.040,80.160,285.600" src="Image21.22.20x20.bmp" width="18" height="19" unique_id="9">
+</enlisting_image>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.32806060606059, 475.18862121212123, 460.6946515151516, 518.7659545454545]">
+<title id="0" bbox="109.220,477.723,262.439,517.707" size="39.984" unique_id="0">Overview <textline bbox="109.220,477.723,262.439,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">Overview </textline>
+</title>
+<footer id="4" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="4">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="5" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="5">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="6" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="6">12 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">12 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.10.115x107.bmp" width="70" height="65" unique_id="7">
+</picture>
+<picture name="Image21" bbox="61.200,279.480,83.160,301.920" src="Image21.23.20x20.bmp" width="21" height="22" unique_id="8">
+</picture>
+<enlisting bbox="61.224,150.382,530.56,434.052" unique_id="['1', ' 2', '3']">&#10003;Introduction to the SAM-Grid 
+&#10003;The SAM-Grid deployment and  operations 
+Lesson learned 
+&#10146; Cluster <normal_text id="1" bbox="61.224,355.838,530.560,434.052" size="32.04" unique_id="1">&#10003;Introduction to the SAM-Grid 
+&#10003;The SAM-Grid deployment and  <textline bbox="61.224,401.948,496.030,434.052">&#10003;Introduction to the SAM-Grid <text font="BCDGEE+Wingdings-Regular" bbox="61.224,402.012,86.407,434.052" colourspace="Pattern" ncolour="0" size="32.040">&#10003;</text>
+<text font="BCDEEE+Tahoma" bbox="88.224,401.948,100.175,433.988" colourspace="Pattern" ncolour="0" size="32.040">I</text>
+<text font="BCDEEE+Tahoma" bbox="100.175,401.948,118.053,433.988" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="118.053,401.948,128.755,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="128.755,401.948,140.289,433.988" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="140.065,401.948,157.462,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="157.462,401.948,175.181,433.988" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="175.181,401.948,193.059,433.988" colourspace="Pattern" ncolour="0" size="32.040">u</text>
+<text font="BCDEEE+Tahoma" bbox="193.059,401.948,207.829,433.988" colourspace="Pattern" ncolour="0" size="32.040">c</text>
+<text font="BCDEEE+Tahoma" bbox="207.829,401.948,218.531,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="218.531,401.948,225.868,433.988" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="225.868,401.948,243.266,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="243.266,401.948,261.144,433.988" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="261.144,401.948,271.172,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="271.172,401.948,281.874,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="281.874,401.948,299.271,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="299.271,401.948,309.300,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="309.300,401.948,320.001,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="320.001,401.948,337.880,433.988" colourspace="Pattern" ncolour="0" size="32.040">h</text>
+<text font="BCDEEE+Tahoma" bbox="337.880,401.948,354.733,433.988" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="354.733,401.948,364.761,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="364.761,401.948,382.608,433.988" colourspace="Pattern" ncolour="0" size="32.040">S</text>
+<text font="BCDEEE+Tahoma" bbox="382.479,401.948,401.703,433.988" colourspace="Pattern" ncolour="0" size="32.040">A</text>
+<text font="BCDEEE+Tahoma" bbox="401.703,401.948,426.406,433.988" colourspace="Pattern" ncolour="0" size="32.040">M</text>
+<text font="BCDEEE+Tahoma" bbox="426.430,401.948,438.061,433.988" colourspace="Pattern" ncolour="0" size="32.040">-</text>
+<text font="BCDEEE+Tahoma" bbox="438.070,401.948,459.441,433.988" colourspace="Pattern" ncolour="0" size="32.040">G</text>
+<text font="BCDEEE+Tahoma" bbox="459.441,401.948,470.975,433.988" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="470.975,401.948,478.312,433.988" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="478.312,401.948,496.030,433.988" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+</textline>
+<textline bbox="61.224,355.838,530.560,387.942">&#10003;The SAM-Grid deployment and  <text font="BCDGEE+Wingdings-Regular" bbox="61.224,355.902,86.407,387.942" colourspace="Pattern" ncolour="0" size="32.040">&#10003;</text>
+<text font="BCDEEE+Tahoma" bbox="88.224,355.838,106.935,387.878" colourspace="Pattern" ncolour="0" size="32.040">T</text>
+<text font="BCDEEE+Tahoma" bbox="106.935,355.838,124.814,387.878" colourspace="Pattern" ncolour="0" size="32.040">h</text>
+<text font="BCDEEE+Tahoma" bbox="124.814,355.838,141.667,387.878" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="141.667,355.838,151.695,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="151.695,355.838,169.542,387.878" colourspace="Pattern" ncolour="0" size="32.040">S</text>
+<text font="BCDEEE+Tahoma" bbox="169.349,355.838,188.573,387.878" colourspace="Pattern" ncolour="0" size="32.040">A</text>
+<text font="BCDEEE+Tahoma" bbox="188.573,355.838,213.276,387.878" colourspace="Pattern" ncolour="0" size="32.040">M</text>
+<text font="BCDEEE+Tahoma" bbox="213.290,355.838,224.921,387.878" colourspace="Pattern" ncolour="0" size="32.040">-</text>
+<text font="BCDEEE+Tahoma" bbox="224.930,355.838,246.301,387.878" colourspace="Pattern" ncolour="0" size="32.040">G</text>
+<text font="BCDEEE+Tahoma" bbox="246.301,355.838,257.835,387.878" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="257.835,355.838,265.172,387.878" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="265.172,355.838,282.890,387.878" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="282.890,355.838,292.919,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="292.919,355.838,310.637,387.878" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="310.637,355.838,327.490,387.878" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="327.490,355.838,345.208,387.878" colourspace="Pattern" ncolour="0" size="32.040">p</text>
+<text font="BCDEEE+Tahoma" bbox="345.208,355.838,352.545,387.878" colourspace="Pattern" ncolour="0" size="32.040">l</text>
+<text font="BCDEEE+Tahoma" bbox="352.545,355.838,369.943,387.878" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="369.783,355.838,385.739,387.878" colourspace="Pattern" ncolour="0" size="32.040">y</text>
+<text font="BCDEEE+Tahoma" bbox="385.739,355.838,412.652,387.878" colourspace="Pattern" ncolour="0" size="32.040">m</text>
+<text font="BCDEEE+Tahoma" bbox="412.652,355.838,429.505,387.878" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="429.505,355.838,447.384,387.878" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="447.384,355.838,458.085,387.878" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="458.085,355.838,468.114,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="468.114,355.838,484.935,387.878" colourspace="Pattern" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Tahoma" bbox="484.935,355.838,502.813,387.878" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="502.813,355.838,520.531,387.878" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="520.531,355.838,530.560,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,231.022,299.656,349.478" size="28.36" unique_id="2">operations 
+Lesson learned 
+&#10146; Cluster <textline bbox="88.224,317.438,235.608,349.478" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">operations </textline>
+<textline bbox="88.224,271.358,299.656,303.398" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">Lesson learned </textline>
+<textline bbox="97.224,231.022,205.170,258.982">&#10146; Cluster <text font="BCDGEE+Wingdings-Regular" bbox="97.224,232.505,113.898,253.505" colourspace="Pattern" ncolour="(1, 0, 0)" size="21.000">&#10146;</text>
+<text font="BCDEEE+Tahoma" bbox="119.780,231.022,136.584,258.982" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">C</text>
+<text font="BCDEEE+Tahoma" bbox="136.584,231.022,142.987,258.982" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="142.987,231.022,158.588,258.982" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="158.588,231.022,171.059,258.982" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="171.059,231.022,180.397,258.982" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="180.397,231.022,195.104,258.982" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="195.104,231.022,205.170,258.982" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">r</text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="119.780,150.382,369.826,218.662" size="27.96" unique_id="3">Grid/Fabric interface 
+Grid services <textline bbox="119.780,190.702,369.826,218.662" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Grid/Fabric interface </textline>
+<textline bbox="119.780,150.382,276.971,178.342" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Grid services </textline>
+</normal_text>
+</enlisting></page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.46528205128205, 475.57852564102564, 489.6345512820513, 518.6030384615384]">
+<title id="0" bbox="109.220,477.723,648.804,517.707" size="39.984" unique_id="0">System Configuration Problems 1 <textline bbox="109.220,477.723,648.804,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">System Configuration Problems 1 </textline>
+</title>
+<normal_text id="1" bbox="61.224,401.948,618.143,433.988" size="32.04" unique_id="1">1. Time synchronization of the worker  <textline bbox="61.224,401.948,618.143,433.988" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">1. Time synchronization of the worker  </textline>
+</normal_text>
+<normal_text id="2" bbox="109.220,363.543,193.420,395.607" size="32.064" unique_id="2">nodes <textline bbox="109.220,363.543,193.420,395.607" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">nodes </textline>
+</normal_text>
+<normal_text id="3" bbox="137.291,108.112,656.760,351.162" size="27.966857142857148" unique_id="3">The Grid Security Infrastructure relies on  
+the machine clock to determine the  
+validity of the security tokens 
+Administrators: please run ntpd ! 
+We also introduced artificial delays at the  
+worker nodes to avoid &#8220;Proxy not yet  
+valid&#8221; errors <textline bbox="139.220,323.202,652.510,351.162" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">The Grid Security Infrastructure relies on  </textline>
+<textline bbox="139.220,289.602,585.238,317.562" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">the machine clock to determine the  </textline>
+<textline bbox="139.220,255.997,500.549,283.981" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">validity of the security tokens </textline>
+<textline bbox="139.220,215.662,546.905,243.622" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Administrators: please run ntpd ! </textline>
+<textline bbox="139.220,175.342,656.760,203.302" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">We also introduced artificial delays at the  </textline>
+<textline bbox="139.220,141.737,613.852,169.721">worker nodes to avoid &#8220;Proxy not yet  <text font="BCDHEE+Tahoma" bbox="139.220,141.737,159.984,169.721" colourspace="Pattern" ncolour="0" size="27.984">w</text>
+<text font="BCDHEE+Tahoma" bbox="159.984,141.737,175.179,169.721" colourspace="Pattern" ncolour="0" size="27.984">o</text>
+<text font="BCDHEE+Tahoma" bbox="175.179,141.737,185.254,169.721" colourspace="Pattern" ncolour="0" size="27.984">r</text>
+<text font="BCDHEE+Tahoma" bbox="185.254,141.737,199.190,169.721" colourspace="Pattern" ncolour="0" size="27.984">k</text>
+<text font="BCDHEE+Tahoma" bbox="198.994,141.737,213.713,169.721" colourspace="Pattern" ncolour="0" size="27.984">e</text>
+<text font="BCDHEE+Tahoma" bbox="213.713,141.737,223.788,169.721" colourspace="Pattern" ncolour="0" size="27.984">r</text>
+<text font="BCDHEE+Tahoma" bbox="223.788,141.737,232.547,169.721" colourspace="Pattern" ncolour="0" size="27.984"> </text>
+<text font="BCDHEE+Tahoma" bbox="232.687,141.737,248.302,169.721" colourspace="Pattern" ncolour="0" size="27.984">n</text>
+<text font="BCDHEE+Tahoma" bbox="248.302,141.737,263.497,169.721" colourspace="Pattern" ncolour="0" size="27.984">o</text>
+<text font="BCDHEE+Tahoma" bbox="263.497,141.737,278.972,169.721" colourspace="Pattern" ncolour="0" size="27.984">d</text>
+<text font="BCDHEE+Tahoma" bbox="278.972,141.737,293.692,169.721" colourspace="Pattern" ncolour="0" size="27.984">e</text>
+<text font="BCDHEE+Tahoma" bbox="293.692,141.737,306.173,169.721" colourspace="Pattern" ncolour="0" size="27.984">s</text>
+<text font="BCDHEE+Tahoma" bbox="306.173,141.737,314.932,169.721" colourspace="Pattern" ncolour="0" size="27.984"> </text>
+<text font="BCDHEE+Tahoma" bbox="315.099,141.737,324.446,169.721" colourspace="Pattern" ncolour="0" size="27.984">t</text>
+<text font="BCDHEE+Tahoma" bbox="324.446,141.737,339.641,169.721" colourspace="Pattern" ncolour="0" size="27.984">o</text>
+<text font="BCDHEE+Tahoma" bbox="339.641,141.737,348.400,169.721" colourspace="Pattern" ncolour="0" size="27.984"> </text>
+<text font="BCDHEE+Tahoma" bbox="348.400,141.737,363.092,169.721" colourspace="Pattern" ncolour="0" size="27.984">a</text>
+<text font="BCDHEE+Tahoma" bbox="362.868,141.737,376.804,169.721" colourspace="Pattern" ncolour="0" size="27.984">v</text>
+<text font="BCDHEE+Tahoma" bbox="376.552,141.737,391.748,169.721" colourspace="Pattern" ncolour="0" size="27.984">o</text>
+<text font="BCDHEE+Tahoma" bbox="391.748,141.737,398.156,169.721" colourspace="Pattern" ncolour="0" size="27.984">i</text>
+<text font="BCDHEE+Tahoma" bbox="398.156,141.737,413.631,169.721" colourspace="Pattern" ncolour="0" size="27.984">d</text>
+<text font="BCDHEE+Tahoma" bbox="413.631,141.737,422.390,169.721" colourspace="Pattern" ncolour="0" size="27.984"> </text>
+<text font="BCDHEE+Tahoma" bbox="422.614,141.737,433.836,169.721" colourspace="Pattern" ncolour="0" size="27.984">&#8220;</text>
+<text font="BCDEEE+Tahoma" bbox="432.059,141.737,456.806,169.721" colourspace="Pattern" ncolour="0" size="27.984">P</text>
+<text font="BCDEEE+Tahoma" bbox="447.478,141.737,466.880,169.721" colourspace="Pattern" ncolour="0" size="27.984">r</text>
+<text font="BCDEEE+Tahoma" bbox="457.385,141.737,481.907,169.721" colourspace="Pattern" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+Tahoma" bbox="472.384,141.737,495.563,169.721" colourspace="Pattern" ncolour="0" size="27.984">x</text>
+<text font="BCDEEE+Tahoma" bbox="486.236,141.737,509.499,169.721" colourspace="Pattern" ncolour="0" size="27.984">y</text>
+<text font="BCDEEE+Tahoma" bbox="500.172,141.737,518.258,169.721" colourspace="Pattern" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Tahoma" bbox="509.071,141.737,534.013,169.721" colourspace="Pattern" ncolour="0" size="27.984">n</text>
+<text font="BCDEEE+Tahoma" bbox="524.686,141.737,549.209,169.721" colourspace="Pattern" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+Tahoma" bbox="539.882,141.737,558.555,169.721" colourspace="Pattern" ncolour="0" size="27.984">t</text>
+<text font="BCDEEE+Tahoma" bbox="549.228,141.737,567.314,169.721" colourspace="Pattern" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Tahoma" bbox="557.987,141.737,581.250,169.721" colourspace="Pattern" ncolour="0" size="27.984">y</text>
+<text font="BCDEEE+Tahoma" bbox="571.699,141.737,595.746,169.721" colourspace="Pattern" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Tahoma" bbox="586.419,141.737,605.093,169.721" colourspace="Pattern" ncolour="0" size="27.984">t</text>
+<text font="BCDEEE+Tahoma" bbox="595.766,141.737,613.852,169.721" colourspace="Pattern" ncolour="0" size="27.984"> </text>
+</textline>
+<textline bbox="137.291,108.112,288.217,136.072">valid&#8221; errors <text font="BCDEEE+Tahoma" bbox="137.291,108.112,160.534,136.072" colourspace="Pattern" ncolour="0" size="27.960">v</text>
+<text font="BCDEEE+Tahoma" bbox="150.740,108.112,174.738,136.072" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="165.419,108.112,181.141,136.072" colourspace="Pattern" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="171.822,108.112,187.543,136.072" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="178.113,108.112,202.894,136.072" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDHEE+Tahoma" bbox="195.530,108.112,206.742,136.072" colourspace="Pattern" ncolour="0" size="27.960">&#8221;</text>
+<text font="BCDHEE+Tahoma" bbox="206.742,108.112,215.493,136.072" colourspace="Pattern" ncolour="0" size="27.960"> </text>
+<text font="BCDHEE+Tahoma" bbox="215.661,108.112,230.368,136.072" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDHEE+Tahoma" bbox="230.368,108.112,240.434,136.072" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDHEE+Tahoma" bbox="240.434,108.112,250.499,136.072" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDHEE+Tahoma" bbox="250.499,108.112,265.682,136.072" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="BCDHEE+Tahoma" bbox="265.682,108.112,275.747,136.072" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDHEE+Tahoma" bbox="275.747,108.112,288.217,136.072" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+</textline>
+</normal_text>
+<footer id="4" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="4">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="5" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="5">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="6" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="6">13 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">13 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.11.115x107.bmp" width="70" height="65" unique_id="7">
+</picture>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.5730989010989, 475.8848791208791, 512.373043956044, 518.4750329670329]">
+<title id="0" bbox="109.220,477.723,648.804,517.707" size="39.984" unique_id="0">System Configuration Problems 2 <textline bbox="109.220,477.723,648.804,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">System Configuration Problems 2 </textline>
+</title>
+<normal_text id="1" bbox="61.224,414.412,333.788,438.412" size="24.0" unique_id="1">2. The Black Hole effect <textline bbox="61.224,414.412,333.788,438.412" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">2. The Black Hole effect </textline>
+</normal_text>
+<normal_text id="2" bbox="61.224,313.102,655.928,408.032" size="21.036" unique_id="2">Even if a single node in the cluster is mis-configured and  
+makes its jobs crash, the batch system keeps sending idle  
+jobs to it: the whole queue of jobs will crash. 
+3. The Batch System does not immediately show up  <textline bbox="139.220,387.992,645.876,408.032" font="BCDEEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">Even if a single node in the cluster is mis-configured and  </textline>
+<textline bbox="139.220,366.387,655.928,386.451" font="BCDEEE+Tahoma" ncolour="0" size="20.064" colourspace="Pattern">makes its jobs crash, the batch system keeps sending idle  </textline>
+<textline bbox="139.220,344.762,537.856,364.802" font="BCDEEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">jobs to it: the whole queue of jobs will crash. </textline>
+<textline bbox="61.224,313.102,638.516,337.102" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">3. The Batch System does not immediately show up  </textline>
+</normal_text>
+<normal_text id="3" bbox="109.220,287.182,512.900,311.182" size="24.0" unique_id="3">the jobs submitted to it or it times out <textline bbox="109.220,287.182,512.900,311.182" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">the jobs submitted to it or it times out </textline>
+</normal_text>
+<normal_text id="4" bbox="139.220,239.157,656.390,280.821" size="20.064" unique_id="4">When the Grid asks the status of the jobs and cannot find  
+them, it thinks that they are finished: resource leak! <textline bbox="139.220,260.757,656.390,280.821" font="BCDEEE+Tahoma" ncolour="0" size="20.064" colourspace="Pattern">When the Grid asks the status of the jobs and cannot find  </textline>
+<textline bbox="139.220,239.157,598.987,259.221" font="BCDEEE+Tahoma" ncolour="0" size="20.064" colourspace="Pattern">them, it thinks that they are finished: resource leak! </textline>
+</normal_text>
+<normal_text id="5" bbox="109.220,103.772,620.475,231.482" size="24.0048" unique_id="5">Both problems have been solved writing an  
+&#8220;idealizer&#8221; (level of abstraction) in front of the  
+batch system. In this code we can exclude  
+statistically bad nodes, retry polling commands,  
+etc. <textline bbox="109.220,207.482,574.556,231.482" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">Both problems have been solved writing an  </textline>
+<textline bbox="109.220,181.562,602.996,205.562" font="BCDHEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">&#8220;idealizer&#8221; (level of abstraction) in front of the  </textline>
+<textline bbox="109.220,155.642,566.636,179.642" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">batch system. In this code we can exclude  </textline>
+<textline bbox="109.220,129.717,620.475,153.741" font="BCDEEE+Tahoma" ncolour="0" size="24.024" colourspace="Pattern">statistically bad nodes, retry polling commands,  </textline>
+<textline bbox="109.220,103.772,148.196,127.772" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">etc. </textline>
+</normal_text>
+<footer id="6" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="6">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="7" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="7">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="8" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="8">14 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">14 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.12.115x107.bmp" width="70" height="65" unique_id="9">
+</picture>
+<picture name="Image21" bbox="61.200,213.600,77.160,230.400" src="Image21.24.20x20.bmp" width="15" height="16" unique_id="10">
+</picture>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.65935238095238, 476.1299619047619, 530.5638380952381, 518.3726285714285]">
+<title id="0" bbox="109.220,477.723,648.804,517.707" size="39.984" unique_id="0">System Configuration Problems 3 <textline bbox="109.220,477.723,648.804,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">System Configuration Problems 3 </textline>
+</title>
+<footer id="6" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="6">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="7" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="7">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="8" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="8">15 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">15 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.13.115x107.bmp" width="70" height="65" unique_id="9">
+</picture>
+<enlisting bbox="61.224,83.616,658.868,438.072" unique_id="['1', '   4', '  2', ' 3', '5']">4. The worker nodes do not know their  5. Running gridftp transfers between worker  
+and head node within a private networkis  
+tricky <normal_text id="1" bbox="61.224,410.112,568.100,438.072" size="27.96" unique_id="1">4. The worker nodes do not know their  <textline bbox="61.224,410.112,568.100,438.072" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">4. The worker nodes do not know their  </textline>
+</normal_text>
+<normal_text id="4" bbox="61.224,224.782,639.048,313.242" size="27.968" unique_id="4">5. Running gridftp transfers between worker  
+and head node within a private networkis  
+tricky <textline bbox="61.224,285.282,633.498,313.242" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">5. Running gridftp transfers between worker  </textline>
+<textline bbox="109.220,255.037,639.048,283.021" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">and head node within a private networkis  </textline>
+<textline bbox="109.220,224.782,175.765,252.742" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">tricky </textline>
+</normal_text>
+<normal_text id="2" bbox="109.220,379.867,277.404,407.851" size="27.984" unique_id="2">domain name <textline bbox="109.220,379.867,277.404,407.851" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">domain name </textline>
+</normal_text>
+<normal_text id="3" bbox="139.220,322.222,648.836,372.142" size="24.0" unique_id="3">Our infrastructure wants to know&#8230; is this really  
+SAM-Grid specific? <textline bbox="139.220,348.142,648.836,372.142" font="BCDHEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">Our infrastructure wants to know&#8230; is this really  </textline>
+<textline bbox="139.220,322.222,333.722,346.222" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">SAM-Grid specific? </textline>
+</normal_text>
+<normal_text id="5" bbox="139.220,83.616,658.868,217.082" size="24.0" unique_id="5">Gridftp works in active mode only: the server at  
+the head node may not be able to open the port  
+to the client at the worker node 
+Solution: give the head node a private network  
+interface  <textline bbox="139.220,193.082,652.700,217.082" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">Gridftp works in active mode only: the server at  </textline>
+<textline bbox="139.220,167.162,658.868,191.162" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">the head node may not be able to open the port  </textline>
+<textline bbox="139.220,141.242,474.908,165.242" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">to the client at the worker node </textline>
+<textline bbox="139.220,109.532,644.468,133.532" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">Solution: give the head node a private network  </textline>
+<textline bbox="139.220,83.616,238.676,107.616" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">interface  </textline>
+</normal_text>
+</enlisting></page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.72943333333333, 476.32909166666667, 545.3438583333333, 518.289425]">
+<title id="0" bbox="109.220,477.723,648.804,517.707" size="39.984" unique_id="0">System Configuration Problems 4 <textline bbox="109.220,477.723,648.804,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">System Configuration Problems 4 </textline>
+</title>
+<footer id="5" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="5">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="6" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="6">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="7" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="7">16 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">16 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.14.115x107.bmp" width="70" height="65" unique_id="8">
+</picture>
+<enlisting bbox="61.224,102.352,659.09,433.988" unique_id="['2', ' 1', '  3', '4']">&#8220;We upgraded the worker nodes to RH9  
+and forgot to tell you&#8230;&#8221; 6. Plan the OS upgrades with the system  
+administrators&#8230; or be resilient to it 7. Negotiate/Study the policy limits <normal_text id="2" bbox="139.220,289.602,641.438,351.162" size="27.96" unique_id="2">&#8220;We upgraded the worker nodes to RH9  
+and forgot to tell you&#8230;&#8221; <textline bbox="139.220,323.202,641.438,351.162" font="BCDHEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">&#8220;We upgraded the worker nodes to RH9  </textline>
+<textline bbox="139.220,289.602,431.346,317.562" font="BCDHEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">and forgot to tell you&#8230;&#8221; </textline>
+</normal_text>
+<normal_text bbox="61.224,243.513,659.09,433.988" unique_id="['1', '3']">6. Plan the OS upgrades with the system  
+administrators&#8230; or be resilient to it 7. Negotiate/Study the policy limits <normal_text id="1" bbox="61.224,363.543,659.090,433.988" size="32.052" unique_id="1">6. Plan the OS upgrades with the system  
+administrators&#8230; or be resilient to it <textline bbox="61.224,401.948,659.090,433.988" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">6. Plan the OS upgrades with the system  </textline>
+<textline bbox="109.220,363.543,605.699,395.607" font="BCDHEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">administrators&#8230; or be resilient to it </textline>
+</normal_text>
+<normal_text id="3" bbox="61.224,243.513,567.607,275.577" size="32.064" unique_id="3">7. Negotiate/Study the policy limits <textline bbox="61.224,243.513,567.607,275.577" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">7. Negotiate/Study the policy limits </textline>
+</normal_text>
+</normal_text><normal_text id="4" bbox="139.220,102.352,653.656,231.142" size="27.966" unique_id="4">Jobs have been killed or slowed down by  
+batch system CPU limits, data handling  
+file transfers limits, probability of job  
+preemption ~1, &#8230; <textline bbox="139.220,203.182,653.656,231.142" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Jobs have been killed or slowed down by  </textline>
+<textline bbox="139.220,169.582,629.499,197.542" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">batch system CPU limits, data handling  </textline>
+<textline bbox="139.220,135.977,600.508,163.961" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">file transfers limits, probability of job  </textline>
+<textline bbox="139.220,102.352,364.242,130.312" font="BCDHEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">preemption ~1, &#8230; </textline>
+</normal_text>
+</enlisting></page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.78714705882352, 476.49308088235296, 512.0609338235294, 518.2209044117648]">
+<title id="0" bbox="109.220,477.723,262.439,517.707" size="39.984" unique_id="0">Overview <textline bbox="109.220,477.723,262.439,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">Overview </textline>
+</title>
+<footer id="4" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="4">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="5" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="5">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="6" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="6">17 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">17 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.15.115x107.bmp" width="70" height="65" unique_id="7">
+</picture>
+<picture name="Image21" bbox="61.200,279.480,83.160,301.920" src="Image21.25.20x20.bmp" width="21" height="22" unique_id="8">
+</picture>
+<enlisting bbox="61.224,150.382,530.56,434.052" unique_id="['1', ' 2', '3']">&#10003;Introduction to the SAM-Grid 
+&#10003;The SAM-Grid deployment and  operations 
+Lesson learned 
+&#10003; Cluster 
+&#10146; Grid/Fabric interface <normal_text id="1" bbox="61.224,355.838,530.560,434.052" size="32.04" unique_id="1">&#10003;Introduction to the SAM-Grid 
+&#10003;The SAM-Grid deployment and  <textline bbox="61.224,401.948,496.030,434.052">&#10003;Introduction to the SAM-Grid <text font="BCDGEE+Wingdings-Regular" bbox="61.224,402.012,86.407,434.052" colourspace="Pattern" ncolour="0" size="32.040">&#10003;</text>
+<text font="BCDEEE+Tahoma" bbox="88.224,401.948,100.175,433.988" colourspace="Pattern" ncolour="0" size="32.040">I</text>
+<text font="BCDEEE+Tahoma" bbox="100.175,401.948,118.053,433.988" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="118.053,401.948,128.755,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="128.755,401.948,140.289,433.988" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="140.065,401.948,157.462,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="157.462,401.948,175.181,433.988" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="175.181,401.948,193.059,433.988" colourspace="Pattern" ncolour="0" size="32.040">u</text>
+<text font="BCDEEE+Tahoma" bbox="193.059,401.948,207.829,433.988" colourspace="Pattern" ncolour="0" size="32.040">c</text>
+<text font="BCDEEE+Tahoma" bbox="207.829,401.948,218.531,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="218.531,401.948,225.868,433.988" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="225.868,401.948,243.266,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="243.266,401.948,261.144,433.988" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="261.144,401.948,271.172,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="271.172,401.948,281.874,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="281.874,401.948,299.271,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="299.271,401.948,309.300,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="309.300,401.948,320.001,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="320.001,401.948,337.880,433.988" colourspace="Pattern" ncolour="0" size="32.040">h</text>
+<text font="BCDEEE+Tahoma" bbox="337.880,401.948,354.733,433.988" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="354.733,401.948,364.761,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="364.761,401.948,382.608,433.988" colourspace="Pattern" ncolour="0" size="32.040">S</text>
+<text font="BCDEEE+Tahoma" bbox="382.479,401.948,401.703,433.988" colourspace="Pattern" ncolour="0" size="32.040">A</text>
+<text font="BCDEEE+Tahoma" bbox="401.703,401.948,426.406,433.988" colourspace="Pattern" ncolour="0" size="32.040">M</text>
+<text font="BCDEEE+Tahoma" bbox="426.430,401.948,438.061,433.988" colourspace="Pattern" ncolour="0" size="32.040">-</text>
+<text font="BCDEEE+Tahoma" bbox="438.070,401.948,459.441,433.988" colourspace="Pattern" ncolour="0" size="32.040">G</text>
+<text font="BCDEEE+Tahoma" bbox="459.441,401.948,470.975,433.988" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="470.975,401.948,478.312,433.988" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="478.312,401.948,496.030,433.988" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+</textline>
+<textline bbox="61.224,355.838,530.560,387.942">&#10003;The SAM-Grid deployment and  <text font="BCDGEE+Wingdings-Regular" bbox="61.224,355.902,86.407,387.942" colourspace="Pattern" ncolour="0" size="32.040">&#10003;</text>
+<text font="BCDEEE+Tahoma" bbox="88.224,355.838,106.935,387.878" colourspace="Pattern" ncolour="0" size="32.040">T</text>
+<text font="BCDEEE+Tahoma" bbox="106.935,355.838,124.814,387.878" colourspace="Pattern" ncolour="0" size="32.040">h</text>
+<text font="BCDEEE+Tahoma" bbox="124.814,355.838,141.667,387.878" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="141.667,355.838,151.695,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="151.695,355.838,169.542,387.878" colourspace="Pattern" ncolour="0" size="32.040">S</text>
+<text font="BCDEEE+Tahoma" bbox="169.349,355.838,188.573,387.878" colourspace="Pattern" ncolour="0" size="32.040">A</text>
+<text font="BCDEEE+Tahoma" bbox="188.573,355.838,213.276,387.878" colourspace="Pattern" ncolour="0" size="32.040">M</text>
+<text font="BCDEEE+Tahoma" bbox="213.290,355.838,224.921,387.878" colourspace="Pattern" ncolour="0" size="32.040">-</text>
+<text font="BCDEEE+Tahoma" bbox="224.930,355.838,246.301,387.878" colourspace="Pattern" ncolour="0" size="32.040">G</text>
+<text font="BCDEEE+Tahoma" bbox="246.301,355.838,257.835,387.878" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="257.835,355.838,265.172,387.878" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="265.172,355.838,282.890,387.878" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="282.890,355.838,292.919,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="292.919,355.838,310.637,387.878" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="310.637,355.838,327.490,387.878" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="327.490,355.838,345.208,387.878" colourspace="Pattern" ncolour="0" size="32.040">p</text>
+<text font="BCDEEE+Tahoma" bbox="345.208,355.838,352.545,387.878" colourspace="Pattern" ncolour="0" size="32.040">l</text>
+<text font="BCDEEE+Tahoma" bbox="352.545,355.838,369.943,387.878" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="369.783,355.838,385.739,387.878" colourspace="Pattern" ncolour="0" size="32.040">y</text>
+<text font="BCDEEE+Tahoma" bbox="385.739,355.838,412.652,387.878" colourspace="Pattern" ncolour="0" size="32.040">m</text>
+<text font="BCDEEE+Tahoma" bbox="412.652,355.838,429.505,387.878" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="429.505,355.838,447.384,387.878" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="447.384,355.838,458.085,387.878" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="458.085,355.838,468.114,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="468.114,355.838,484.935,387.878" colourspace="Pattern" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Tahoma" bbox="484.935,355.838,502.813,387.878" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="502.813,355.838,520.531,387.878" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="520.531,355.838,530.560,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,190.702,369.826,349.478" size="26.52" unique_id="2">operations 
+Lesson learned 
+&#10003; Cluster 
+&#10146; Grid/Fabric interface <textline bbox="88.224,317.438,235.608,349.478" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">operations </textline>
+<textline bbox="88.224,271.358,299.656,303.398" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">Lesson learned </textline>
+<textline bbox="97.224,231.022,205.170,258.982">&#10003; Cluster <text font="BCDGEE+Wingdings-Regular" bbox="97.224,232.505,113.730,253.505" colourspace="Pattern" ncolour="0" size="21.000">&#10003;</text>
+<text font="BCDEEE+Tahoma" bbox="119.780,231.022,136.584,258.982" colourspace="Pattern" ncolour="0" size="27.960">C</text>
+<text font="BCDEEE+Tahoma" bbox="136.584,231.022,142.987,258.982" colourspace="Pattern" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="142.987,231.022,158.588,258.982" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="158.588,231.022,171.059,258.982" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="171.059,231.022,180.397,258.982" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="180.397,231.022,195.104,258.982" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="195.104,231.022,205.170,258.982" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+</textline>
+<textline bbox="97.224,190.702,369.826,218.662">&#10146; Grid/Fabric interface <text font="BCDGEE+Wingdings-Regular" bbox="97.224,192.185,113.898,213.185" colourspace="Pattern" ncolour="(1, 0, 0)" size="21.000">&#10146;</text>
+<text font="BCDEEE+Tahoma" bbox="119.780,190.702,138.429,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">G</text>
+<text font="BCDEEE+Tahoma" bbox="138.429,190.702,148.495,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="148.551,190.702,154.954,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="154.954,190.702,170.416,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="170.416,190.702,181.096,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">/</text>
+<text font="BCDEEE+Tahoma" bbox="181.096,190.702,195.663,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">F</text>
+<text font="BCDEEE+Tahoma" bbox="194.377,190.702,209.056,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="209.056,190.702,224.518,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">b</text>
+<text font="BCDEEE+Tahoma" bbox="224.518,190.702,234.584,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="234.584,190.702,240.987,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="240.987,190.702,253.876,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="253.876,190.702,262.628,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="262.879,190.702,269.282,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="269.282,190.702,284.884,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="284.884,190.702,294.222,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="294.222,190.702,308.929,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="308.929,190.702,318.995,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="318.995,190.702,327.886,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="327.551,190.702,342.230,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="342.230,190.702,355.119,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="355.119,190.702,369.826,218.662" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">e</text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="119.780,150.382,276.971,178.342" size="27.96" unique_id="3">Grid services <textline bbox="119.780,150.382,276.971,178.342" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Grid services </textline>
+</normal_text>
+</enlisting></page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.83524183006537, 476.6297385620915, 515.7481633986928, 518.1638039215686]">
+<title id="0" bbox="109.220,477.723,545.246,517.707" size="39.984" unique_id="0">Gateway and VO Problems <textline bbox="109.220,477.723,545.246,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">Gateway and VO Problems </textline>
+</title>
+<footer id="3" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="3">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="4" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="4">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="5" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="5">18 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">18 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.16.115x107.bmp" width="70" height="65" unique_id="6">
+</picture>
+<enlisting_image name="Image21" bbox="61.200,423.360,77.160,440.160" src="Image21.26.20x20.bmp" width="15" height="16" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,371.520,77.160,388.320" src="Image21.27.20x20.bmp" width="15" height="16" unique_id="8">
+</enlisting_image>
+<picture name="Image21" bbox="61.200,146.880,77.160,163.680" src="Image21.28.20x20.bmp" width="15" height="16" unique_id="9">
+</picture>
+<enlisting bbox="88.224,71.616,641.904,441.292" unique_id="['1', '2']">Most of our work went in the interface between the  
+Grid and the Fabric 
+The standard Globus job-managers are not  
+sufficiently&#8230; &#8230;flexible: they expect a &#8220;standard&#8221; batch system  
+configuration. None of our sites was that standard. 
+&#8230;scalable: a process per grid job is started up at the  
+gateway machine. We want/need aggregation. 
+&#8230;comprehensive: they interface to the batch system only.  
+How about data handling, local monitoring, databases, etc. 
+&#8230;robust: if the batch system forgets about the jobs, they  
+cannot react. We have written the &#8220;idealizers&#8221; for this. 
+To address these issues we had to write a &#8220;thick&#8221;  
+Grid/Fabric interface (jim-job-manager). The  
+drawback of this approach is that it complicates the  
+local configuration. <normal_text id="1" bbox="88.224,342.382,641.472,441.292" size="24.006" unique_id="1">Most of our work went in the interface between the  
+Grid and the Fabric 
+The standard Globus job-managers are not  
+sufficiently&#8230; <textline bbox="88.224,417.292,641.472,441.292" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">Most of our work went in the interface between the  </textline>
+<textline bbox="88.224,394.252,289.824,418.252" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">Grid and the Fabric </textline>
+<textline bbox="88.224,365.447,551.616,389.471" font="BCDEEE+Tahoma" ncolour="0" size="24.024" colourspace="Pattern">The standard Globus job-managers are not  </textline>
+<textline bbox="88.224,342.382,218.808,366.382" font="BCDHEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">sufficiently&#8230; </textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,71.616,641.904,338.402" size="21.363999999999994" unique_id="2">&#8230;flexible: they expect a &#8220;standard&#8221; batch system  
+configuration. None of our sites was that standard. 
+&#8230;scalable: a process per grid job is started up at the  
+gateway machine. We want/need aggregation. 
+&#8230;comprehensive: they interface to the batch system only.  
+How about data handling, local monitoring, databases, etc. 
+&#8230;robust: if the batch system forgets about the jobs, they  
+cannot react. We have written the &#8220;idealizers&#8221; for this. 
+To address these issues we had to write a &#8220;thick&#8221;  
+Grid/Fabric interface (jim-job-manager). The  
+drawback of this approach is that it complicates the  
+local configuration. <textline bbox="119.780,318.362,559.377,338.402" font="BCDHEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">&#8230;flexible: they expect a &#8220;standard&#8221; batch system  </textline>
+<textline bbox="119.780,299.162,569.057,319.202" font="BCDEEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">configuration. None of our sites was that standard. </textline>
+<textline bbox="119.780,275.162,591.842,295.202" font="BCDHEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">&#8230;scalable: a process per grid job is started up at the  </textline>
+<textline bbox="119.780,255.957,531.333,276.021" font="BCDEEE+Tahoma" ncolour="0" size="20.064" colourspace="Pattern">gateway machine. We want/need aggregation. </textline>
+<textline bbox="119.780,231.942,637.594,251.982" font="BCDHEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">&#8230;comprehensive: they interface to the batch system only.  </textline>
+<textline bbox="119.780,212.742,640.740,232.782" font="BCDEEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">How about data handling, local monitoring, databases, etc. </textline>
+<textline bbox="119.780,188.742,631.922,208.782" font="BCDHEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">&#8230;robust: if the batch system forgets about the jobs, they  </textline>
+<textline bbox="119.780,169.542,598.275,189.582" font="BCDHEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">cannot react. We have written the &#8220;idealizers&#8221; for this. </textline>
+<textline bbox="88.224,140.762,615.792,164.762" font="BCDHEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">To address these issues we had to write a &#8220;thick&#8221;  </textline>
+<textline bbox="88.224,117.717,567.618,141.741" font="BCDEEE+Tahoma" ncolour="0" size="24.024" colourspace="Pattern">Grid/Fabric interface (jim-job-manager). The  </textline>
+<textline bbox="88.224,94.656,641.904,118.656" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">drawback of this approach is that it complicates the  </textline>
+<textline bbox="88.224,71.616,288.936,95.616" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">local configuration. </textline>
+</normal_text>
+</enlisting></page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.87574269005849, 476.7448187134503, 489.08404093567253, 518.1157192982456]">
+<title id="0" bbox="109.220,477.723,262.439,517.707" size="39.984" unique_id="0">Overview <textline bbox="109.220,477.723,262.439,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">Overview </textline>
+</title>
+<footer id="3" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="3">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="4" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="4">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="5" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="5">19 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">19 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.17.115x107.bmp" width="70" height="65" unique_id="6">
+</picture>
+<picture name="Image21" bbox="61.200,279.480,83.160,301.920" src="Image21.29.20x20.bmp" width="21" height="22" unique_id="7">
+</picture>
+<enlisting bbox="61.224,150.382,530.56,434.052" unique_id="['1', '2']">&#10003;Introduction to the SAM-Grid 
+&#10003;The SAM-Grid deployment and  operations 
+Lesson learned 
+&#10003; Cluster 
+&#10003; Grid/Fabric interface 
+&#10146; Grid services <normal_text id="1" bbox="61.224,355.838,530.560,434.052" size="32.04" unique_id="1">&#10003;Introduction to the SAM-Grid 
+&#10003;The SAM-Grid deployment and  <textline bbox="61.224,401.948,496.030,434.052">&#10003;Introduction to the SAM-Grid <text font="BCDGEE+Wingdings-Regular" bbox="61.224,402.012,86.407,434.052" colourspace="Pattern" ncolour="0" size="32.040">&#10003;</text>
+<text font="BCDEEE+Tahoma" bbox="88.224,401.948,100.175,433.988" colourspace="Pattern" ncolour="0" size="32.040">I</text>
+<text font="BCDEEE+Tahoma" bbox="100.175,401.948,118.053,433.988" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="118.053,401.948,128.755,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="128.755,401.948,140.289,433.988" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="140.065,401.948,157.462,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="157.462,401.948,175.181,433.988" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="175.181,401.948,193.059,433.988" colourspace="Pattern" ncolour="0" size="32.040">u</text>
+<text font="BCDEEE+Tahoma" bbox="193.059,401.948,207.829,433.988" colourspace="Pattern" ncolour="0" size="32.040">c</text>
+<text font="BCDEEE+Tahoma" bbox="207.829,401.948,218.531,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="218.531,401.948,225.868,433.988" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="225.868,401.948,243.266,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="243.266,401.948,261.144,433.988" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="261.144,401.948,271.172,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="271.172,401.948,281.874,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="281.874,401.948,299.271,433.988" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="299.271,401.948,309.300,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="309.300,401.948,320.001,433.988" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="320.001,401.948,337.880,433.988" colourspace="Pattern" ncolour="0" size="32.040">h</text>
+<text font="BCDEEE+Tahoma" bbox="337.880,401.948,354.733,433.988" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="354.733,401.948,364.761,433.988" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="364.761,401.948,382.608,433.988" colourspace="Pattern" ncolour="0" size="32.040">S</text>
+<text font="BCDEEE+Tahoma" bbox="382.479,401.948,401.703,433.988" colourspace="Pattern" ncolour="0" size="32.040">A</text>
+<text font="BCDEEE+Tahoma" bbox="401.703,401.948,426.406,433.988" colourspace="Pattern" ncolour="0" size="32.040">M</text>
+<text font="BCDEEE+Tahoma" bbox="426.430,401.948,438.061,433.988" colourspace="Pattern" ncolour="0" size="32.040">-</text>
+<text font="BCDEEE+Tahoma" bbox="438.070,401.948,459.441,433.988" colourspace="Pattern" ncolour="0" size="32.040">G</text>
+<text font="BCDEEE+Tahoma" bbox="459.441,401.948,470.975,433.988" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="470.975,401.948,478.312,433.988" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="478.312,401.948,496.030,433.988" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+</textline>
+<textline bbox="61.224,355.838,530.560,387.942">&#10003;The SAM-Grid deployment and  <text font="BCDGEE+Wingdings-Regular" bbox="61.224,355.902,86.407,387.942" colourspace="Pattern" ncolour="0" size="32.040">&#10003;</text>
+<text font="BCDEEE+Tahoma" bbox="88.224,355.838,106.935,387.878" colourspace="Pattern" ncolour="0" size="32.040">T</text>
+<text font="BCDEEE+Tahoma" bbox="106.935,355.838,124.814,387.878" colourspace="Pattern" ncolour="0" size="32.040">h</text>
+<text font="BCDEEE+Tahoma" bbox="124.814,355.838,141.667,387.878" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="141.667,355.838,151.695,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="151.695,355.838,169.542,387.878" colourspace="Pattern" ncolour="0" size="32.040">S</text>
+<text font="BCDEEE+Tahoma" bbox="169.349,355.838,188.573,387.878" colourspace="Pattern" ncolour="0" size="32.040">A</text>
+<text font="BCDEEE+Tahoma" bbox="188.573,355.838,213.276,387.878" colourspace="Pattern" ncolour="0" size="32.040">M</text>
+<text font="BCDEEE+Tahoma" bbox="213.290,355.838,224.921,387.878" colourspace="Pattern" ncolour="0" size="32.040">-</text>
+<text font="BCDEEE+Tahoma" bbox="224.930,355.838,246.301,387.878" colourspace="Pattern" ncolour="0" size="32.040">G</text>
+<text font="BCDEEE+Tahoma" bbox="246.301,355.838,257.835,387.878" colourspace="Pattern" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Tahoma" bbox="257.835,355.838,265.172,387.878" colourspace="Pattern" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Tahoma" bbox="265.172,355.838,282.890,387.878" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="282.890,355.838,292.919,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="292.919,355.838,310.637,387.878" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="310.637,355.838,327.490,387.878" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="327.490,355.838,345.208,387.878" colourspace="Pattern" ncolour="0" size="32.040">p</text>
+<text font="BCDEEE+Tahoma" bbox="345.208,355.838,352.545,387.878" colourspace="Pattern" ncolour="0" size="32.040">l</text>
+<text font="BCDEEE+Tahoma" bbox="352.545,355.838,369.943,387.878" colourspace="Pattern" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Tahoma" bbox="369.783,355.838,385.739,387.878" colourspace="Pattern" ncolour="0" size="32.040">y</text>
+<text font="BCDEEE+Tahoma" bbox="385.739,355.838,412.652,387.878" colourspace="Pattern" ncolour="0" size="32.040">m</text>
+<text font="BCDEEE+Tahoma" bbox="412.652,355.838,429.505,387.878" colourspace="Pattern" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Tahoma" bbox="429.505,355.838,447.384,387.878" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="447.384,355.838,458.085,387.878" colourspace="Pattern" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Tahoma" bbox="458.085,355.838,468.114,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Tahoma" bbox="468.114,355.838,484.935,387.878" colourspace="Pattern" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Tahoma" bbox="484.935,355.838,502.813,387.878" colourspace="Pattern" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Tahoma" bbox="502.813,355.838,520.531,387.878" colourspace="Pattern" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Tahoma" bbox="520.531,355.838,530.560,387.878" colourspace="Pattern" ncolour="0" size="32.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,150.382,369.826,349.478" size="25.416" unique_id="2">operations 
+Lesson learned 
+&#10003; Cluster 
+&#10003; Grid/Fabric interface 
+&#10146; Grid services <textline bbox="88.224,317.438,235.608,349.478" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">operations </textline>
+<textline bbox="88.224,271.358,299.656,303.398" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">Lesson learned </textline>
+<textline bbox="97.224,231.022,205.170,258.982">&#10003; Cluster <text font="BCDGEE+Wingdings-Regular" bbox="97.224,232.505,113.730,253.505" colourspace="Pattern" ncolour="0" size="21.000">&#10003;</text>
+<text font="BCDEEE+Tahoma" bbox="119.780,231.022,136.584,258.982" colourspace="Pattern" ncolour="0" size="27.960">C</text>
+<text font="BCDEEE+Tahoma" bbox="136.584,231.022,142.987,258.982" colourspace="Pattern" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="142.987,231.022,158.588,258.982" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="158.588,231.022,171.059,258.982" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="171.059,231.022,180.397,258.982" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="180.397,231.022,195.104,258.982" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="195.104,231.022,205.170,258.982" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+</textline>
+<textline bbox="97.224,190.702,369.826,218.662">&#10003; Grid/Fabric interface <text font="BCDGEE+Wingdings-Regular" bbox="97.224,192.185,113.730,213.185" colourspace="Pattern" ncolour="0" size="21.000">&#10003;</text>
+<text font="BCDEEE+Tahoma" bbox="119.780,190.702,138.429,218.662" colourspace="Pattern" ncolour="0" size="27.960">G</text>
+<text font="BCDEEE+Tahoma" bbox="138.429,190.702,148.495,218.662" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="148.551,190.702,154.954,218.662" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="154.954,190.702,170.416,218.662" colourspace="Pattern" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="170.416,190.702,181.096,218.662" colourspace="Pattern" ncolour="0" size="27.960">/</text>
+<text font="BCDEEE+Tahoma" bbox="181.096,190.702,195.663,218.662" colourspace="Pattern" ncolour="0" size="27.960">F</text>
+<text font="BCDEEE+Tahoma" bbox="194.377,190.702,209.056,218.662" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="209.056,190.702,224.518,218.662" colourspace="Pattern" ncolour="0" size="27.960">b</text>
+<text font="BCDEEE+Tahoma" bbox="224.518,190.702,234.584,218.662" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="234.584,190.702,240.987,218.662" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="240.987,190.702,253.876,218.662" colourspace="Pattern" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="253.876,190.702,262.628,218.662" colourspace="Pattern" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="262.879,190.702,269.282,218.662" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="269.282,190.702,284.884,218.662" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="284.884,190.702,294.222,218.662" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="294.222,190.702,308.929,218.662" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="308.929,190.702,318.995,218.662" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="318.995,190.702,327.886,218.662" colourspace="Pattern" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="327.551,190.702,342.230,218.662" colourspace="Pattern" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="342.230,190.702,355.119,218.662" colourspace="Pattern" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="355.119,190.702,369.826,218.662" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+</textline>
+<textline bbox="97.224,150.382,276.971,178.342">&#10146; Grid services <text font="BCDGEE+Wingdings-Regular" bbox="97.224,151.865,113.898,172.865" colourspace="Pattern" ncolour="(1, 0, 0)" size="21.000">&#10146;</text>
+<text font="BCDEEE+Tahoma" bbox="119.780,150.382,138.429,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">G</text>
+<text font="BCDEEE+Tahoma" bbox="138.429,150.382,148.495,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="148.551,150.382,154.954,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="154.954,150.382,170.416,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="170.416,150.382,179.167,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="179.251,150.382,191.721,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="191.721,150.382,206.428,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="206.428,150.382,216.494,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="216.494,150.382,230.418,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">v</text>
+<text font="BCDEEE+Tahoma" bbox="230.418,150.382,236.821,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="236.821,150.382,249.710,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="249.794,150.382,264.501,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="264.501,150.382,276.971,178.342" colourspace="Pattern" ncolour="(1, 0, 0)" size="27.960">s</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.91016842105263, 476.84263684210526, 492.1772368421053, 518.074847368421]">
+<title id="0" bbox="109.220,477.723,520.016,517.707" size="39.984" unique_id="0">Grid Services Problems 1 <textline bbox="109.220,477.723,520.016,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">Grid Services Problems 1 </textline>
+</title>
+<normal_text id="1" bbox="88.224,406.752,557.699,434.712" size="27.96" unique_id="1">Scalability of the semi-central services <textline bbox="88.224,406.752,557.699,434.712" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Scalability of the semi-central services </textline>
+</normal_text>
+<normal_text id="2" bbox="119.780,159.002,656.885,396.191" size="24.006" unique_id="2">access to the central data handling database is  
+organized in a 3-tiers architecture 
+the middle tier couldn&#8217;t cope with 200 jobs  
+starting up at the same time, asking for data 
+we had to introduce retrials with exponential back  
+off to mitigate the problem. We also aggregate  
+access from the gateway node for the information  
+that is common to all processes. <textline bbox="119.780,372.167,623.948,396.191" font="BCDEEE+Tahoma" ncolour="0" size="24.024" colourspace="Pattern">access to the central data handling database is  </textline>
+<textline bbox="119.780,343.342,476.690,367.342" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">organized in a 3-tiers architecture </textline>
+<textline bbox="119.780,308.782,579.788,332.782" font="BCDHEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">the middle tier couldn&#8217;t cope with 200 jobs  </textline>
+<textline bbox="119.780,279.982,593.756,303.982" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">starting up at the same time, asking for data </textline>
+<textline bbox="119.780,245.417,656.885,269.441" font="BCDEEE+Tahoma" ncolour="0" size="24.024" colourspace="Pattern">we had to introduce retrials with exponential back  </textline>
+<textline bbox="119.780,216.602,624.068,240.602" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">off to mitigate the problem. We also aggregate  </textline>
+<textline bbox="119.780,187.802,656.540,211.802" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">access from the gateway node for the information  </textline>
+<textline bbox="119.780,159.002,461.420,183.002" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">that is common to all processes. </textline>
+</normal_text>
+<footer id="3" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="3">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="4" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="4">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="5" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="5">20 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">20 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.18.115x107.bmp" width="70" height="65" unique_id="6">
+</picture>
+<picture name="Image21" bbox="61.200,413.880,80.160,433.440" src="Image21.30.20x20.bmp" width="18" height="19" unique_id="7">
+</picture>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.9396761904762, 476.926480952381, 494.8285476190476, 518.0398142857143]">
+<title id="0" bbox="109.220,477.723,520.016,517.707" size="39.984" unique_id="0">Grid Services Problems 2 <textline bbox="109.220,477.723,520.016,517.707" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="39.984" colourspace="Pattern">Grid Services Problems 2 </textline>
+</title>
+<normal_text id="1" bbox="88.224,363.543,580.070,433.988" size="32.052" unique_id="1">Firewalls: understand the network  
+topology of your grid <textline bbox="88.224,401.948,580.070,433.988" font="BCDEEE+Tahoma" ncolour="0" size="32.040" colourspace="Pattern">Firewalls: understand the network  </textline>
+<textline bbox="88.224,363.543,384.495,395.607" font="BCDEEE+Tahoma" ncolour="0" size="32.064" colourspace="Pattern">topology of your grid </textline>
+</normal_text>
+<normal_text id="2" bbox="119.780,74.516,661.128,351.162" size="27.966000000000005" unique_id="2">System administrators generally are willing  
+to open ports to a certain list of nodes  
+when the software is installed 
+Maintaining the configuration up to date as  
+new installation are deployed is difficult 
+For core services, such as data movement,  
+the SAM-Grid can route data via delegation  
+if direct transfers are not possible <textline bbox="119.780,323.202,657.087,351.162" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">System administrators generally are willing  </textline>
+<textline bbox="119.780,289.602,602.314,317.562" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">to open ports to a certain list of nodes  </textline>
+<textline bbox="119.780,255.997,487.630,283.981" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">when the software is installed </textline>
+<textline bbox="119.780,215.662,661.058,243.622" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">Maintaining the configuration up to date as  </textline>
+<textline bbox="119.780,182.062,606.927,210.022" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">new installation are deployed is difficult </textline>
+<textline bbox="119.780,141.737,656.569,169.721" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="Pattern">For core services, such as data movement,  </textline>
+<textline bbox="119.780,108.112,661.128,136.072" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">the SAM-Grid can route data via delegation  </textline>
+<textline bbox="119.780,74.516,533.756,102.476" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="Pattern">if direct transfers are not possible </textline>
+</normal_text>
+<footer id="3" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="3">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="4" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="4">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="5" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="5">21 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">21 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.19.115x107.bmp" width="70" height="65" unique_id="6">
+</picture>
+<picture name="Image21" bbox="61.200,410.040,83.160,432.480" src="Image21.31.20x20.bmp" width="21" height="22" unique_id="7">
+</picture>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[108.96516017316017, 476.78789177489176, 479.59004329004324, 518.1694675324675]">
+<title id="0" bbox="109.220,475.402,327.205,519.466" size="44.064" unique_id="0">Conclusions <textline bbox="109.220,475.402,327.205,519.466" font="TimesNewRomanPS-ItalicMT" ncolour="(0.8, 0.4, 0)" size="44.064" colourspace="Pattern">Conclusions </textline>
+</title>
+<enlisting id="1" bbox="88.224,124.417,652.512,438.412" size="24.0" unique_id="['1', '  2', ' 3', '4']">The SAM-Grid is an integrated grid system for job,  
+data and information management for HEP 
+It is used in &#8220;production&#8221; for DZero montecarlo since  
+March 2004. <textline bbox="88.224,414.412,628.196,438.412" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">The SAM-Grid is an integrated grid system for job,  </textline>
+<textline bbox="88.224,388.492,542.496,412.492" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">data and information management for HEP </textline>
+<textline bbox="88.224,356.782,652.512,380.782" font="BCDHEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">It is used in &#8220;production&#8221; for DZero montecarlo since  </textline>
+<textline bbox="88.224,330.862,219.192,354.862" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">March 2004. </textline>
+<normal_text id="2" bbox="119.780,282.842,597.574,324.482" size="20.04" unique_id="2">We are working on data reconstruction for DZero and  
+montecarlo generation for CDF <textline bbox="119.780,304.442,597.574,324.482" font="BCDEEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">We are working on data reconstruction for DZero and  </textline>
+<textline bbox="119.780,282.842,391.162,302.882" font="BCDEEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">montecarlo generation for CDF </textline>
+</normal_text>
+<normal_text id="3" bbox="88.224,225.242,575.046,275.201" size="24.012" unique_id="3">During deployment and operations we had to  
+overcome problems at the level of <textline bbox="88.224,251.177,575.046,275.201" font="BCDEEE+Tahoma" ncolour="0" size="24.024" colourspace="Pattern">During deployment and operations we had to  </textline>
+<textline bbox="88.224,225.242,448.728,249.242" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="Pattern">overcome problems at the level of </textline>
+</normal_text>
+<normal_text id="4" bbox="119.780,124.417,637.994,218.862" size="20.046" unique_id="4">the systems: careful administration is crucial 
+the Grid/Fabric interface: we need a &#8220;thick&#8221; interface 
+the Grid services: be careful about scalability and network  
+topology <textline bbox="119.780,198.822,511.522,218.862" font="BCDEEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">the systems: careful administration is crucial </textline>
+<textline bbox="119.780,172.422,584.928,192.462" font="BCDHEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">the Grid/Fabric interface: we need a &#8220;thick&#8221; interface </textline>
+<textline bbox="119.780,146.022,637.994,166.062" font="BCDEEE+Tahoma" ncolour="0" size="20.040" colourspace="Pattern">the Grid services: be careful about scalability and network  </textline>
+<textline bbox="119.780,124.417,195.943,144.481" font="BCDEEE+Tahoma" ncolour="0" size="20.064" colourspace="Pattern">topology </textline>
+</normal_text>
+</enlisting>
+<footer id="5" bbox="67.224,17.583,140.850,31.623" size="14.04" unique_id="5">Sep 28, 2004 <textline bbox="67.224,17.583,140.850,31.623" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Sep 28, 2004 </textline>
+</footer>
+<footer id="6" bbox="305.980,21.711,414.214,35.751" size="14.04" unique_id="6">Gabriele Garzoglio <textline bbox="305.980,21.711,414.214,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">Gabriele Garzoglio </textline>
+</footer>
+<slide_number id="7" bbox="644.640,21.711,658.740,35.751" size="14.04" unique_id="7">22 <textline bbox="644.640,21.711,658.740,35.751" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="Pattern">22 </textline>
+</slide_number>
+<picture name="Image9" bbox="20.640,467.640,90.840,533.160" src="Image9.20.115x107.bmp" width="70" height="65" unique_id="8">
+</picture>
+<enlisting_image name="Image21" bbox="61.200,420.480,77.160,437.280" src="Image21.32.20x20.bmp" width="15" height="16" unique_id="9">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,362.880,77.160,379.680" src="Image21.33.20x20.bmp" width="15" height="16" unique_id="10">
+</enlisting_image>
+<enlisting_image name="Image21" bbox="61.200,257.280,77.160,274.080" src="Image21.34.20x20.bmp" width="15" height="16" unique_id="11">
+</enlisting_image>
+</page>
+</pages>

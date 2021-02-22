@@ -1,0 +1,256 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="266.980,447.662,452.961,491.702" size="44.04" unique_id="0">Problems <textline bbox="266.980,447.662,452.961,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Problems </textline>
+</title>
+<footer id="9" bbox="232.780,28.036,487.171,42.076" size="14.04" unique_id="9">Oregon LIDAR Workshop, June 28, 2006 <textline bbox="232.780,28.036,487.171,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Oregon LIDAR Workshop, June 28, 2006 </textline>
+</footer>
+<enlisting bbox="43.2,82.344,345.95,408.607" unique_id="['1', ' 3', ' 4', '2']">&#8226; Lack of funds 
+&#8226; Resolution  &#8226; Data distribution issue 
+&#8226; Education &#8211; Other agencies 
+&#8211; Legislators 
+&#8211; Public 
+&#8211; NGO&#8217;s <normal_text id="1" bbox="43.200,343.638,236.841,408.607" size="27.972" unique_id="1">&#8226; Lack of funds 
+&#8226; Resolution  <textline bbox="43.200,380.623,236.841,408.607" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Lack of funds </textline>
+<textline bbox="43.200,343.638,210.360,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Resolution  </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,209.218,345.950,274.177" size="27.972" unique_id="3">&#8226; Data distribution issue 
+&#8226; Education <textline bbox="43.200,246.193,345.950,274.177" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Data distribution issue </textline>
+<textline bbox="43.200,209.218,194.730,237.178" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Education </textline>
+</normal_text>
+<normal_text id="4" bbox="79.224,82.344,264.236,201.410" size="24.0" unique_id="4">&#8211; Other agencies 
+&#8211; Legislators 
+&#8211; Public 
+&#8211; NGO&#8217;s <textline bbox="79.224,177.410,264.236,201.410" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Other agencies </textline>
+<textline bbox="79.224,145.730,217.652,169.730" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Legislators </textline>
+<textline bbox="79.224,114.020,166.988,138.020" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Public </textline>
+<textline bbox="79.224,82.344,173.300,106.344" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; NGO&#8217;s </textline>
+</normal_text>
+<normal_text id="2" bbox="70.224,283.158,227.499,341.358" size="27.96" unique_id="2">requirement  
+differences <textline bbox="70.224,313.398,227.499,341.358" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">requirement  </textline>
+<textline bbox="70.224,283.158,206.865,311.118" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">differences </textline>
+</normal_text>
+</enlisting><enlisting bbox="373.27,155.458,658.982,408.607" unique_id="['5', '  7', ' 6', '8']">&#8226; No one organization  
+has the dominant  
+business need for  
+elevation data 
+&#8226; Cooperation is a  &#8226; Identification of  <normal_text id="5" bbox="373.270,252.913,658.982,408.607" size="27.969600000000003" unique_id="5">&#8226; No one organization  
+has the dominant  
+business need for  
+elevation data 
+&#8226; Cooperation is a  <textline bbox="373.270,380.623,658.982,408.607" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; No one organization  </textline>
+<textline bbox="400.270,350.358,622.888,378.318" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">has the dominant  </textline>
+<textline bbox="400.270,320.118,629.346,348.078" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">business need for  </textline>
+<textline bbox="400.270,289.878,574.768,317.838" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">elevation data </textline>
+<textline bbox="373.270,252.913,612.277,280.897" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Cooperation is a  </textline>
+</normal_text>
+<normal_text id="7" bbox="373.270,185.698,596.465,213.658" size="27.96" unique_id="7">&#8226; Identification of  <textline bbox="373.270,185.698,596.465,213.658" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Identification of  </textline>
+</normal_text>
+<normal_text id="6" bbox="400.270,222.658,520.218,250.618" size="27.96" unique_id="6">challenge <textline bbox="400.270,222.658,520.218,250.618" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">challenge </textline>
+</normal_text>
+<normal_text id="8" bbox="400.270,155.458,623.197,183.418" size="27.96" unique_id="8">exchange formats <textline bbox="400.270,155.458,623.197,183.418" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">exchange formats </textline>
+</normal_text>
+</enlisting></page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[313.56, 447.662, 406.582, 491.702]">
+<title id="0" bbox="313.560,447.662,406.582,491.702" size="44.04" unique_id="0">Data <textline bbox="313.560,447.662,406.582,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Data </textline>
+</title>
+<footer id="8" bbox="232.780,28.036,487.171,42.076" size="14.04" unique_id="8">Oregon LIDAR Workshop, June 28, 2006 <textline bbox="232.780,28.036,487.171,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Oregon LIDAR Workshop, June 28, 2006 </textline>
+</footer>
+<enlisting bbox="43.2,136.125,347.406,405.247" unique_id="['1', ' 3', ' 5', '6']">&#8226; DOGAMI proposal for  
+10,000 sq mi - $4.5M &#8226; Benefits: &#8211; Natural resources 
+&#8211; Geology 
+&#8211; Land use planning 
+&#8211; E-911 &amp; other  <normal_text id="1" bbox="43.200,343.638,347.406,405.247" size="27.972" unique_id="1">&#8226; DOGAMI proposal for  
+10,000 sq mi - $4.5M <textline bbox="43.200,377.263,347.406,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; DOGAMI proposal for  </textline>
+<textline bbox="70.224,343.638,333.555,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">10,000 sq mi - $4.5M </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,303.318,179.156,331.278" size="27.96" unique_id="3">&#8226; Benefits: <textline bbox="43.200,303.318,179.156,331.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Benefits: </textline>
+</normal_text>
+<normal_text id="5" bbox="79.224,164.930,297.740,292.630" size="24.0" unique_id="5">&#8211; Natural resources 
+&#8211; Geology 
+&#8211; Land use planning 
+&#8211; E-911 &amp; other  <textline bbox="79.224,268.630,291.212,292.630" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Natural resources </textline>
+<textline bbox="79.224,234.050,191.060,258.050" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Geology </textline>
+<textline bbox="79.224,199.490,297.740,223.490" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Land use planning </textline>
+<textline bbox="79.224,164.930,254.684,188.930" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; E-911 &amp; other  </textline>
+</normal_text>
+<normal_text id="6" bbox="101.780,136.125,294.020,160.149" size="24.024" unique_id="6">emergency mgmt. <textline bbox="101.780,136.125,294.020,160.149" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">emergency mgmt. </textline>
+</normal_text>
+</enlisting><enlisting bbox="373.27,132.285,641.247,405.247" unique_id="['2', '4', '7']">&#8226; Data distribution  
+solutions exist &#8226; Determine  administrative  
+resources 
+&#8211; DBA 
+&#8211; Accounting 
+&#8211; Geospatial services <normal_text id="2" bbox="373.270,343.638,610.514,405.247" size="27.972" unique_id="2">&#8226; Data distribution  
+solutions exist <textline bbox="373.270,377.263,610.514,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Data distribution  </textline>
+<textline bbox="400.270,343.638,576.222,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">solutions exist </textline>
+</normal_text>
+<normal_text id="4" bbox="373.270,303.318,537.162,331.278" size="27.96" unique_id="4">&#8226; Determine  <textline bbox="373.270,303.318,537.162,331.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Determine  </textline>
+</normal_text>
+<normal_text id="7" bbox="400.270,132.285,641.247,297.678" size="25.5888" unique_id="7">administrative  
+resources 
+&#8211; DBA 
+&#8211; Accounting 
+&#8211; Geospatial services <textline bbox="400.270,269.718,580.892,297.678" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">administrative  </textline>
+<textline bbox="400.270,236.098,523.350,264.058" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">resources </textline>
+<textline bbox="409.270,201.410,481.078,225.410" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; DBA </textline>
+<textline bbox="409.270,166.850,550.414,190.850" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Accounting </textline>
+<textline bbox="409.270,132.285,641.247,156.309" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Geospatial services </textline>
+</normal_text>
+</enlisting></page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[281.70666666666665, 447.662, 438.3453333333334, 491.702]">
+<title id="0" bbox="265.780,447.662,454.227,491.702" size="44.04" unique_id="0">Concerns <textline bbox="265.780,447.662,454.227,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Concerns </textline>
+</title>
+<footer id="10" bbox="232.780,28.036,487.171,42.076" size="14.04" unique_id="10">Oregon LIDAR Workshop, June 28, 2006 <textline bbox="232.780,28.036,487.171,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Oregon LIDAR Workshop, June 28, 2006 </textline>
+</footer>
+<enlisting bbox="43.2,88.232,344.204,405.247" unique_id="['1', '2', '8']">&#8226; No funds in proposal  
+for data mgmt/storage 
+&#8226; May be perceived as  
+data that should be  
+restricted &#8226; We are obligated to  
+identify risks that the  
+data may present &#8226; Sustainability <normal_text id="1" bbox="43.200,236.098,344.204,405.247" size="27.964800000000004" unique_id="1">&#8226; No funds in proposal  
+for data mgmt/storage 
+&#8226; May be perceived as  
+data that should be  
+restricted <textline bbox="43.200,377.263,335.037,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; No funds in proposal  </textline>
+<textline bbox="70.224,343.638,344.204,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">for data mgmt/storage </textline>
+<textline bbox="43.200,303.318,336.599,331.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; May be perceived as  </textline>
+<textline bbox="70.224,269.718,316.356,297.678" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">data that should be  </textline>
+<textline bbox="70.224,236.098,185.447,264.058" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">restricted </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,128.573,333.244,223.738" size="27.968" unique_id="2">&#8226; We are obligated to  
+identify risks that the  
+data may present <textline bbox="43.200,195.778,320.522,223.738" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; We are obligated to  </textline>
+<textline bbox="70.224,162.178,333.244,190.138" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">identify risks that the  </textline>
+<textline bbox="70.224,128.573,286.736,156.557" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">data may present </textline>
+</normal_text>
+<normal_text id="8" bbox="43.200,88.232,235.244,116.192" size="27.96" unique_id="8">&#8226; Sustainability <textline bbox="43.200,88.232,235.244,116.192" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Sustainability </textline>
+</normal_text>
+</enlisting><enlisting bbox="373.27,86.312,667.293,405.247" unique_id="['3', '   5', '   7', '  4', ' 6', '9']">&#8226; Data redundancy &amp;  &#8226; Cooperation with  &#8226; Quality assurance 
+&#8211; Within projects 
+&#8211; Between projects 
+&#8226; Timelines need to be  <normal_text id="3" bbox="373.270,377.263,648.068,405.247" size="27.984" unique_id="3">&#8226; Data redundancy &amp;  <textline bbox="373.270,377.263,648.068,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Data redundancy &amp;  </textline>
+</normal_text>
+<normal_text id="5" bbox="373.270,303.318,618.498,331.278" size="27.96" unique_id="5">&#8226; Cooperation with  <textline bbox="373.270,303.318,618.498,331.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Cooperation with  </textline>
+</normal_text>
+<normal_text id="7" bbox="373.270,119.933,667.293,257.338" size="25.986000000000004" unique_id="7">&#8226; Quality assurance 
+&#8211; Within projects 
+&#8211; Between projects 
+&#8226; Timelines need to be  <textline bbox="373.270,229.378,624.565,257.338" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Quality assurance </textline>
+<textline bbox="409.270,194.690,589.270,218.690" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Within projects </textline>
+<textline bbox="409.270,160.130,615.958,184.130" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Between projects </textline>
+<textline bbox="373.270,119.933,667.293,147.917" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Timelines need to be  </textline>
+</normal_text>
+<normal_text id="4" bbox="400.270,343.638,662.362,371.598" size="27.96" unique_id="4">processing obstacles <textline bbox="400.270,343.638,662.362,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">processing obstacles </textline>
+</normal_text>
+<normal_text id="6" bbox="400.270,269.718,559.950,297.678" size="27.96" unique_id="6">IS/IT needed <textline bbox="400.270,269.718,559.950,297.678" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">IS/IT needed </textline>
+</normal_text>
+<normal_text id="9" bbox="400.270,86.312,512.418,114.272" size="27.96" unique_id="9">identified <textline bbox="400.270,86.312,512.418,114.272" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">identified </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[275.5433333333333, 447.662, 444.4971666666667, 491.702]">
+<title id="0" bbox="269.380,447.662,450.649,491.702" size="44.04" unique_id="0">Solutions <textline bbox="269.380,447.662,450.649,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Solutions </textline>
+</title>
+<footer id="12" bbox="232.780,28.036,487.171,42.076" size="14.04" unique_id="12">Oregon LIDAR Workshop, June 28, 2006 <textline bbox="232.780,28.036,487.171,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Oregon LIDAR Workshop, June 28, 2006 </textline>
+</footer>
+<enlisting bbox="43.2,115.108,322.535,405.247" unique_id="['1', '   5', '   7', '  3', ' 6', '8']">&#8226; Build coalition of  &#8226; White paper needed 
+&#8226; Sample products 
+&#8226; Identification of key  &#8226; Top down &amp; bottom  <normal_text id="1" bbox="43.200,377.263,282.063,405.247" size="27.984" unique_id="1">&#8226; Build coalition of  <textline bbox="43.200,377.263,282.063,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Build coalition of  </textline>
+</normal_text>
+<normal_text id="5" bbox="43.200,222.658,322.535,331.278" size="27.968" unique_id="5">&#8226; White paper needed 
+&#8226; Sample products 
+&#8226; Identification of key  <textline bbox="43.200,303.318,322.535,331.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; White paper needed </textline>
+<textline bbox="43.200,262.993,280.552,290.977" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Sample products </textline>
+<textline bbox="43.200,222.658,317.782,250.618" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Identification of key  </textline>
+</normal_text>
+<normal_text id="7" bbox="43.200,148.738,317.838,176.698" size="27.96" unique_id="7">&#8226; Top down &amp; bottom  <textline bbox="43.200,148.738,317.838,176.698" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Top down &amp; bottom  </textline>
+</normal_text>
+<normal_text id="3" bbox="70.224,343.638,163.722,371.598" size="27.96" unique_id="3">support <textline bbox="70.224,343.638,163.722,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">support </textline>
+</normal_text>
+<normal_text id="6" bbox="70.224,189.058,229.093,217.018" size="27.96" unique_id="6">stakeholders <textline bbox="70.224,189.058,229.093,217.018" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">stakeholders </textline>
+</normal_text>
+<normal_text id="8" bbox="70.224,115.108,226.017,143.068" size="27.96" unique_id="8">up approach <textline bbox="70.224,115.108,226.017,143.068" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">up approach </textline>
+</normal_text>
+</enlisting><enlisting bbox="373.27,128.573,683.608,405.247" unique_id="['2', '  9', '  10', ' 4', '11']">&#8226; Identification of LidOR  &#8226; Identification of core  services for  
+clearinghouse 
+&#8226; Identification of  <normal_text id="2" bbox="373.270,377.263,683.608,405.247" size="27.984" unique_id="2">&#8226; Identification of LidOR  <textline bbox="373.270,377.263,683.608,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Identification of LidOR  </textline>
+</normal_text>
+<normal_text id="9" bbox="373.270,303.318,658.788,331.278" size="27.96" unique_id="9">&#8226; Identification of core  <textline bbox="373.270,303.318,658.788,331.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Identification of core  </textline>
+</normal_text>
+<normal_text id="10" bbox="373.270,195.778,596.465,297.678" size="27.959999999999997" unique_id="10">services for  
+clearinghouse 
+&#8226; Identification of  <textline bbox="400.270,269.718,551.310,297.678" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">services for  </textline>
+<textline bbox="400.270,236.098,574.740,264.058" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">clearinghouse </textline>
+<textline bbox="373.270,195.778,596.465,223.738" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Identification of  </textline>
+</normal_text>
+<normal_text id="4" bbox="400.270,343.638,574.740,371.598" size="27.96" unique_id="4">clearinghouse <textline bbox="400.270,343.638,574.740,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">clearinghouse </textline>
+</normal_text>
+<normal_text id="11" bbox="400.270,128.573,613.661,190.138" size="27.972" unique_id="11">linkages to other  
+programs &amp; data <textline bbox="400.270,162.178,613.661,190.138" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">linkages to other  </textline>
+<textline bbox="400.270,128.573,607.436,156.557" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">programs &amp; data </textline>
+</normal_text>
+</enlisting></page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[245.67, 447.662, 474.30030000000005, 491.70200000000006]">
+<title id="0" bbox="200.860,447.662,519.005,491.702" size="44.04" unique_id="0">Business Needs <textline bbox="200.860,447.662,519.005,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Business Needs </textline>
+</title>
+<footer id="14" bbox="232.780,28.036,487.171,42.076" size="14.04" unique_id="14">Oregon LIDAR Workshop, June 28, 2006 <textline bbox="232.780,28.036,487.171,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Oregon LIDAR Workshop, June 28, 2006 </textline>
+</footer>
+<enlisting bbox="43.2,81.512,314.832,405.247" unique_id="['1', '   4', '   6', '   12', '  3', ' 5', '7']">&#8226; Impervious surface  &#8226; Floodplain  &#8226; Property appraisal 
+&#8226; Landslide &amp; fault  &#8226; Canopy structure  <normal_text id="1" bbox="43.200,377.263,314.832,405.247" size="27.984" unique_id="1">&#8226; Impervious surface  <textline bbox="43.200,377.263,314.832,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Impervious surface  </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,303.318,207.228,331.278" size="27.96" unique_id="4">&#8226; Floodplain  <textline bbox="43.200,303.318,207.228,331.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Floodplain  </textline>
+</normal_text>
+<normal_text id="6" bbox="43.200,155.458,297.651,223.738" size="27.96" unique_id="6">&#8226; Property appraisal 
+&#8226; Landslide &amp; fault  <textline bbox="43.200,195.778,297.651,223.738" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Property appraisal </textline>
+<textline bbox="43.200,155.458,285.125,183.418" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Landslide &amp; fault  </textline>
+</normal_text>
+<normal_text id="12" bbox="43.200,81.512,291.471,109.472" size="27.96" unique_id="12">&#8226; Canopy structure  <textline bbox="43.200,81.512,291.471,109.472" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Canopy structure  </textline>
+</normal_text>
+<normal_text id="3" bbox="70.224,343.638,225.961,371.598" size="27.96" unique_id="3">identification <textline bbox="70.224,343.638,225.961,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">identification </textline>
+</normal_text>
+<normal_text id="5" bbox="70.224,236.098,260.240,297.678" size="27.96" unique_id="5">identification &amp;  
+analysis <textline bbox="70.224,269.718,260.240,297.678" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">identification &amp;  </textline>
+<textline bbox="70.224,236.098,171.439,264.058" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">analysis </textline>
+</normal_text>
+<normal_text id="7" bbox="70.224,121.853,226.011,149.837" size="27.984" unique_id="7">identification <textline bbox="70.224,121.853,226.011,149.837" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">identification </textline>
+</normal_text>
+</enlisting><enlisting bbox="373.27,81.512,662.564,405.247" unique_id="['2', '  9', '  10', '  11', ' 8', '13']">&#8226; Transportation asset  &#8226; Historic roadway/rail  identification 
+&#8226; Stream profile  
+determination &#8226; Stormwater planning 
+&#8226; Natural resource  <normal_text id="2" bbox="373.270,377.263,662.564,405.247" size="27.984" unique_id="2">&#8226; Transportation asset  <textline bbox="373.270,377.263,662.564,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Transportation asset  </textline>
+</normal_text>
+<normal_text id="9" bbox="373.270,303.318,660.270,331.278" size="27.96" unique_id="9">&#8226; Historic roadway/rail  <textline bbox="373.270,303.318,660.270,331.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Historic roadway/rail  </textline>
+</normal_text>
+<normal_text id="10" bbox="373.270,195.778,582.513,297.678" size="27.959999999999997" unique_id="10">identification 
+&#8226; Stream profile  
+determination <textline bbox="400.270,269.718,556.007,297.678" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">identification </textline>
+<textline bbox="373.270,229.378,582.513,257.338" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Stream profile  </textline>
+<textline bbox="400.270,195.778,570.043,223.738" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">determination </textline>
+</normal_text>
+<normal_text id="11" bbox="373.270,115.108,657.139,183.418" size="27.96" unique_id="11">&#8226; Stormwater planning 
+&#8226; Natural resource  <textline bbox="373.270,155.458,657.139,183.418" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Stormwater planning </textline>
+<textline bbox="373.270,115.108,615.338,143.068" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Natural resource  </textline>
+</normal_text>
+<normal_text id="8" bbox="400.270,343.638,563.640,371.598" size="27.96" unique_id="8">management <textline bbox="400.270,343.638,563.640,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">management </textline>
+</normal_text>
+<normal_text id="13" bbox="400.270,81.512,513.955,109.472" size="27.96" unique_id="13">inventory <textline bbox="400.270,81.512,513.955,109.472" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">inventory </textline>
+</normal_text>
+</enlisting></page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[224.6533333333333, 447.66200000000003, 495.3648666666667, 491.70200000000006]">
+<title id="0" bbox="182.620,447.662,537.494,491.702" size="44.04" unique_id="0">Business Needs 2 <textline bbox="182.620,447.662,537.494,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Business Needs 2 </textline>
+</title>
+<footer id="5" bbox="232.780,28.036,487.171,42.076" size="14.04" unique_id="5">Oregon LIDAR Workshop, June 28, 2006 <textline bbox="232.780,28.036,487.171,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Oregon LIDAR Workshop, June 28, 2006 </textline>
+</footer>
+<enlisting bbox="43.2,229.378,306.905,405.247" unique_id="['1', ' 3', ' 4', '2']">&#8226; Surface change  &#8226; Emergency  preparedness 
+&#8226; Facility siting <normal_text id="1" bbox="43.200,377.263,274.283,405.247" size="27.984" unique_id="1">&#8226; Surface change  <textline bbox="43.200,377.263,274.283,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Surface change  </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,303.318,219.614,331.278" size="27.96" unique_id="3">&#8226; Emergency  <textline bbox="43.200,303.318,219.614,331.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Emergency  </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,229.378,241.768,297.678" size="27.96" unique_id="4">preparedness 
+&#8226; Facility siting <textline bbox="70.224,269.718,241.768,297.678" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">preparedness </textline>
+<textline bbox="43.200,229.378,230.575,257.338" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Facility siting </textline>
+</normal_text>
+<normal_text id="2" bbox="70.224,343.638,306.905,371.598" size="27.96" unique_id="2">detection over time <textline bbox="70.224,343.638,306.905,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">detection over time </textline>
+</normal_text>
+</enlisting></page>
+</pages>

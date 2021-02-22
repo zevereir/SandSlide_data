@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<rect linewidth="0" bbox="0.000,0.000,720.000,540.000" />
+<figure name="Image6" bbox="0.000,0.000,719.760,539.760">
+<image src="Image6.jpg" width="719" height="539" />
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<rect linewidth="0" bbox="0.000,0.000,720.000,540.000" />
+<figure name="Image9" bbox="0.240,0.240,720.000,540.000">
+<image src="Image9.jpg" width="719" height="539" />
+</figure>
+</page>
+</pages>

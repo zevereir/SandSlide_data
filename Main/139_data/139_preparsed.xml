@@ -1,0 +1,986 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="118.750,240.305,589.284,321.910" size="24.008">AWIPS II Status and Plans 
+for  
+National Offshore and High Seas Meeting <textline bbox="205.540,297.910,502.588,321.910" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">AWIPS II Status and Plans </textline>
+<textline bbox="338.040,269.110,376.704,293.110" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">for  </textline>
+<textline bbox="118.750,240.305,589.284,264.329" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">National Offshore and High Seas Meeting </textline>
+</textbox>
+<textbox id="1" bbox="298.080,194.622,409.923,208.662" size="14.04">October 14, 2009 <textline bbox="298.080,194.622,409.923,208.662" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">October 14, 2009 </textline>
+</textbox>
+<textbox id="2" bbox="231.700,45.855,470.276,113.895" size="20.04">Scott Jacobs 
+NCEP Central Operations 
+Systems Integration Branch <textline bbox="297.840,93.855,404.052,113.895" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Scott Jacobs </textline>
+<textline bbox="238.660,69.855,463.328,89.895" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">NCEP Central Operations </textline>
+<textline bbox="231.700,45.855,470.276,65.895" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Systems Integration Branch </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="296.500,472.668,417.651,500.628" size="27.96">AGENDA <textline bbox="296.500,472.668,417.651,500.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">AGENDA </textline>
+</textbox>
+<textbox id="1" bbox="37.200,395.268,395.802,423.228" size="27.96">&#8226; AWIPS II Status and Plans <textline bbox="37.200,395.268,395.802,423.228" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; AWIPS II Status and Plans </textline>
+</textbox>
+<textbox id="2" bbox="73.224,256.865,653.208,384.599" size="24.012">&#8211; AWIPS Brief History 
+&#8211; AWIPS II Technology Infusion Scope and Milestones 
+&#8211; AWIPS I to AWIPS II Migration Status 
+&#8211; AWIPS II Architecture Overview <textline bbox="73.224,360.575,309.357,384.599" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; AWIPS Brief History </textline>
+<textline bbox="73.224,325.990,653.208,349.990" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; AWIPS II Technology Infusion Scope and Milestones </textline>
+<textline bbox="73.224,291.430,493.608,315.430" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; AWIPS I to AWIPS II Migration Status </textline>
+<textline bbox="73.224,256.865,432.048,280.889" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; AWIPS II Architecture Overview </textline>
+</textbox>
+<textbox id="3" bbox="37.200,182.098,516.002,210.058" size="27.96">&#8226; NAWIPS Migration Plans and Status <textline bbox="37.200,182.098,516.002,210.058" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; NAWIPS Migration Plans and Status </textline>
+</textbox>
+<textbox id="4" bbox="669.720,3.706,676.752,17.770" size="14.064">2 <textline bbox="669.720,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">2 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.0.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.0.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="293.260,461.800,420.906,513.379" size="21.012">AWIPS  
+A Brief History <textline bbox="318.360,489.355,402.300,513.379" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">AWIPS  </textline>
+<textline bbox="293.260,461.800,420.906,479.800" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">A Brief History </textline>
+</textbox>
+<textbox id="1" bbox="37.200,392.690,665.880,416.690" size="24.0">&#8226; The original prime contract for system development was  <textline bbox="37.200,392.690,665.880,416.690" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; The original prime contract for system development was  </textline>
+</textbox>
+<textbox id="2" bbox="64.224,297.612,662.415,393.650" size="21.036">awarded to PRC, Inc on December 29, 1992 
+&#8211; To replace Automation of Field Operations and Services (AFOS) 
+&#8211; PRC, Inc later acquired by Northrop Grumman IT (NGIT) 
+&#8211; Commissioned - 2000 <textline bbox="64.224,369.650,536.520,393.650" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">awarded to PRC, Inc on December 29, 1992 </textline>
+<textline bbox="73.224,345.642,662.415,365.682" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; To replace Automation of Field Operations and Services (AFOS) </textline>
+<textline bbox="73.224,321.637,596.220,341.701" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; PRC, Inc later acquired by Northrop Grumman IT (NGIT) </textline>
+<textline bbox="73.224,297.612,290.432,317.652" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Commissioned - 2000 </textline>
+</textbox>
+<textbox id="3" bbox="37.200,244.820,582.144,268.820" size="24.0">&#8226; Operations phase of original contract expired on  <textline bbox="37.200,244.820,582.144,268.820" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Operations phase of original contract expired on  </textline>
+</textbox>
+<textbox id="4" bbox="64.224,221.780,281.688,245.780" size="24.0">September 30, 2005 <textline bbox="64.224,221.780,281.688,245.780" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">September 30, 2005 </textline>
+</textbox>
+<textbox id="5" bbox="37.200,171.360,634.772,195.360" size="24.0">&#8226; Re-compete contract awarded to Raytheon Technical  <textline bbox="37.200,171.360,634.772,195.360" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Re-compete contract awarded to Raytheon Technical  </textline>
+</textbox>
+<textbox id="6" bbox="64.224,124.312,608.662,172.320" size="22.02">Services (RTS) on August 17, 2005 
+&#8211; Proposal included a high level plan to re-engineer AWIPS  <textline bbox="64.224,148.320,439.824,172.320" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Services (RTS) on August 17, 2005 </textline>
+<textline bbox="73.224,124.312,608.662,144.352" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Proposal included a high level plan to re-engineer AWIPS  </textline>
+</textbox>
+<textbox id="7" bbox="95.784,105.112,644.242,125.152" size="20.04">software into a Service Oriented Architecture (SOA), AWIPS II <textline bbox="95.784,105.112,644.242,125.152">software into a Service Oriented Architecture (SOA), AWIPS II <text font="ArialMT" bbox="95.784,105.112,105.804,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="105.804,105.112,116.946,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="117.006,105.112,122.577,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="122.577,105.112,128.149,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="128.048,105.112,142.517,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">w</text>
+<text font="ArialMT" bbox="142.517,105.112,153.660,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="153.700,105.112,160.373,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="160.373,105.112,171.515,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="171.555,105.112,177.126,125.152" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="176.706,105.112,181.154,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="181.154,105.112,192.297,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="192.297,105.112,197.868,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="197.868,105.112,209.010,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="209.010,105.112,214.581,125.152" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="214.501,105.112,225.643,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="225.643,105.112,231.214,125.152" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="231.054,105.112,244.421,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">S</text>
+<text font="ArialMT" bbox="244.421,105.112,255.563,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="255.563,105.112,262.236,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="262.236,105.112,272.256,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">v</text>
+<text font="ArialMT" bbox="272.256,105.112,276.705,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="276.705,105.112,286.725,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="286.725,105.112,297.867,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="297.867,105.112,303.438,125.152" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="303.298,105.112,318.889,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">O</text>
+<text font="ArialMT" bbox="318.889,105.112,325.563,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="325.563,105.112,330.012,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="330.012,105.112,341.154,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="341.194,105.112,352.336,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="352.336,105.112,357.907,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="357.907,105.112,369.049,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="369.049,105.112,380.192,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="380.192,105.112,385.763,125.152" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="384.280,105.112,397.647,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">A</text>
+<text font="ArialMT" bbox="397.647,105.112,404.320,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="404.320,105.112,414.340,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="414.340,105.112,425.482,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="425.542,105.112,429.991,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="429.991,105.112,435.562,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="435.562,105.112,446.704,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="446.704,105.112,456.724,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="456.724,105.112,462.296,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="462.296,105.112,473.438,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="473.438,105.112,480.111,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="480.111,105.112,491.253,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="491.253,105.112,496.824,125.152" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="496.464,105.112,503.137,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">(</text>
+<text font="ArialMT" bbox="503.137,105.112,516.504,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">S</text>
+<text font="ArialMT" bbox="516.504,105.112,532.095,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">O</text>
+<text font="ArialMT" bbox="532.095,105.112,545.462,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">A</text>
+<text font="ArialMT" bbox="545.462,105.112,552.135,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">)</text>
+<text font="ArialMT" bbox="552.135,105.112,557.706,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">,</text>
+<text font="ArialMT" bbox="557.706,105.112,563.277,125.152" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="563.140,105.112,577.609,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">A</text>
+<text font="Arial-BoldMT" bbox="576.587,105.112,595.505,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">W</text>
+<text font="Arial-BoldMT" bbox="595.505,105.112,601.076,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">I</text>
+<text font="Arial-BoldMT" bbox="601.076,105.112,614.442,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">P</text>
+<text font="Arial-BoldMT" bbox="614.442,105.112,627.809,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">S</text>
+<text font="Arial-BoldMT" bbox="627.709,105.112,633.280,125.152" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="633.100,105.112,638.671,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">I</text>
+<text font="Arial-BoldMT" bbox="638.671,105.112,644.242,125.152" colourspace="DeviceGray" ncolour="0" size="20.040">I</text>
+</textline>
+</textbox>
+<textbox id="8" bbox="669.720,3.706,676.752,17.770" size="14.064">3 <textline bbox="669.720,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">3 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.1.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.1.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="183.820,477.332,530.131,497.372" size="20.04">AWIPS II Technology Infusion Scope <textline bbox="183.820,477.332,530.131,497.372" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">AWIPS II Technology Infusion Scope </textline>
+</textbox>
+<textbox id="1" bbox="19.200,408.040,428.200,426.040" size="18.0">AWIPS II Technology Infusion  (FY2005 &#8211; FY2015)  <textline bbox="19.200,408.040,428.200,426.040" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">AWIPS II Technology Infusion  (FY2005 &#8211; FY2015)  </textline>
+</textbox>
+<textbox id="2" bbox="55.200,389.388,640.822,405.348" size="15.96">&#8211; A long-term project which delivers a modern, robust software infrastructure that  <textline bbox="55.200,389.388,640.822,405.348" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8211; A long-term project which delivers a modern, robust software infrastructure that  </textline>
+</textbox>
+<textbox id="3" bbox="77.784,358.638,655.222,390.007" size="15.972000000000001">provides the foundation for future system level enhancements for the entire NWS  
+enterprise  <textline bbox="77.784,374.023,655.222,390.007" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">provides the foundation for future system level enhancements for the entire NWS  </textline>
+<textline bbox="77.784,358.638,153.243,374.598" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">enterprise  </textline>
+</textbox>
+<textbox id="4" bbox="19.200,320.770,264.698,338.770" size="18.0">&#8226; Phase 1: (FY2006-FY2011) <textline bbox="19.200,320.770,264.698,338.770" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; Phase 1: (FY2006-FY2011) </textline>
+</textbox>
+<textbox id="5" bbox="55.200,301.518,676.890,317.478" size="15.96">&#8211; Migration of WFO/RFC AWIPS (AWIPS I) to a modern Service Oriented Architecture  <textline bbox="55.200,301.518,676.890,317.478" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8211; Migration of WFO/RFC AWIPS (AWIPS I) to a modern Service Oriented Architecture  </textline>
+</textbox>
+<textbox id="6" bbox="77.784,286.158,608.757,302.118" size="15.96">(SOA) infrastructure executed incrementally through a series of task orders <textline bbox="77.784,286.158,608.757,302.118" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">(SOA) infrastructure executed incrementally through a series of task orders </textline>
+</textbox>
+<textbox id="7" bbox="19.200,250.205,468.342,268.229" size="18.024">&#8226; Phase II: (FY2009-FY2012) &#8211; AWIPS SOA Extension <textline bbox="19.200,250.205,468.342,268.229" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8226; Phase II: (FY2009-FY2012) &#8211; AWIPS SOA Extension </textline>
+</textbox>
+<textbox id="8" bbox="55.200,230.938,572.767,246.898" size="15.96">&#8211; Creation of a seamless weather enterprise spanning NWS operations  <textline bbox="55.200,230.938,572.767,246.898" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8211; Creation of a seamless weather enterprise spanning NWS operations  </textline>
+</textbox>
+<textbox id="9" bbox="91.224,167.142,687.275,228.222" size="14.04">&#8226; Migration of NAWIPS into the AWIPS II SOA 
+&#8226; Delivery of thin client to support the Weather Service Offices,  Center Weather Support Units,  
+Incident Meteorologists, (e.g., Fire Weather, backup support for RFCs and National Centers) 
+Integration of Weather Event Simulator <textline bbox="91.224,214.182,383.295,228.222" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; Migration of NAWIPS into the AWIPS II SOA </textline>
+<textline bbox="91.224,197.382,687.275,211.422" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; Delivery of thin client to support the Weather Service Offices,  Center Weather Support Units,  </textline>
+<textline bbox="109.220,183.942,678.458,197.982" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Incident Meteorologists, (e.g., Fire Weather, backup support for RFCs and National Centers) </textline>
+<textline bbox="109.220,167.142,349.599,181.182" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Integration of Weather Event Simulator </textline>
+</textbox>
+<textbox id="10" bbox="91.224,150.342,325.633,181.182" size="14.04">&#8226; 
+&#8226; CHPS Integration into AWIPS SOA <textline bbox="91.224,167.142,96.138,181.182" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="91.224,150.342,325.633,164.382" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; CHPS Integration into AWIPS SOA </textline>
+</textbox>
+<textbox id="11" bbox="19.200,111.920,559.946,129.920" size="18.0">&#8226; Phase III: (FY2009 &#8211; FY2015) &#8211; Enterprise Level Enhancements <textline bbox="19.200,111.920,559.946,129.920" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; Phase III: (FY2009 &#8211; FY2015) &#8211; Enterprise Level Enhancements </textline>
+</textbox>
+<textbox id="12" bbox="91.224,44.716,524.790,109.156" size="14.04">&#8226; Data delivery enhancements:  &#8220;Smart push-smart pull&#8221; data access 
+&#8226; 
+&#8226; 
+&#8226; Visualization enhancements <textline bbox="91.224,95.116,524.790,109.156">&#8226; Data delivery enhancements:  &#8220;Smart push-smart pull&#8221; data access <text font="ArialMT" bbox="91.224,95.116,96.138,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">&#8226;</text>
+<text font="ArialMT" bbox="109.220,95.116,119.357,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">D</text>
+<text font="ArialMT" bbox="119.301,95.116,127.107,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="127.107,95.116,131.010,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="131.052,95.116,138.858,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="138.858,95.116,142.762,109.156" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="142.579,95.116,150.385,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="150.385,95.116,158.192,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="158.192,95.116,161.308,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">l</text>
+<text font="ArialMT" bbox="161.308,95.116,164.425,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="164.425,95.116,171.445,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">v</text>
+<text font="ArialMT" bbox="171.263,95.116,179.069,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="179.069,95.116,183.744,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="183.744,95.116,190.764,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">y</text>
+<text font="ArialMT" bbox="190.582,95.116,194.485,109.156" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="194.527,95.116,202.333,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="202.333,95.116,210.140,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="210.140,95.116,217.946,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">h</text>
+<text font="ArialMT" bbox="217.946,95.116,225.752,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="225.752,95.116,233.558,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="233.558,95.116,240.578,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="ArialMT" bbox="240.578,95.116,248.384,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="248.384,95.116,260.080,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">m</text>
+<text font="ArialMT" bbox="260.080,95.116,267.886,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="267.886,95.116,275.692,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="275.524,95.116,279.427,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="279.469,95.116,286.489,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="286.433,95.116,290.336,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">:</text>
+<text font="ArialMT" bbox="290.280,95.116,294.183,109.156" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="293.874,95.116,297.777,109.156" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="Arial-BoldMT" bbox="297.890,95.116,304.910,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">&#8220;</text>
+<text font="ArialMT" bbox="304.970,95.116,314.335,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">S</text>
+<text font="ArialMT" bbox="314.335,95.116,326.030,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">m</text>
+<text font="ArialMT" bbox="325.974,95.116,333.780,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="333.780,95.116,338.455,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="338.455,95.116,342.359,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="342.401,95.116,346.304,109.156" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="345.883,95.116,353.689,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">p</text>
+<text font="ArialMT" bbox="353.689,95.116,361.495,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">u</text>
+<text font="ArialMT" bbox="361.495,95.116,368.515,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="368.543,95.116,376.349,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">h</text>
+<text font="ArialMT" bbox="376.390,95.116,381.065,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">-</text>
+<text font="ArialMT" bbox="381.070,95.116,388.090,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="388.132,95.116,399.827,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">m</text>
+<text font="ArialMT" bbox="399.771,95.116,407.578,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="407.451,95.116,412.126,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="412.126,95.116,416.030,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="415.973,95.116,419.877,109.156" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="419.455,95.116,427.262,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">p</text>
+<text font="ArialMT" bbox="427.262,95.116,435.068,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">u</text>
+<text font="ArialMT" bbox="435.068,95.116,438.185,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">l</text>
+<text font="ArialMT" bbox="438.185,95.116,441.302,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">l</text>
+<text font="ArialMT" bbox="441.302,95.116,445.977,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">&#8221;</text>
+<text font="ArialMT" bbox="449.830,95.116,457.636,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="457.636,95.116,465.442,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="465.442,95.116,469.346,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="469.430,95.116,477.236,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="477.236,95.116,481.139,109.156" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="480.858,95.116,488.665,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="488.665,95.116,495.685,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="ArialMT" bbox="495.769,95.116,502.789,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="ArialMT" bbox="502.859,95.116,510.665,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="510.665,95.116,517.685,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="517.770,95.116,524.790,109.156" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+</textline>
+<textline bbox="91.224,78.316,96.138,92.356" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="91.224,61.516,96.138,75.556" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="91.224,44.716,283.218,58.756" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; Visualization enhancements </textline>
+</textbox>
+<textbox id="13" bbox="109.220,61.516,348.307,92.356" size="14.04">Integrated visual collaboration 
+Information generation enhancements  <textline bbox="109.220,78.316,294.899,92.356" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Integrated visual collaboration </textline>
+<textline bbox="109.220,61.516,348.307,75.556" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Information generation enhancements  </textline>
+</textbox>
+<textbox id="14" bbox="669.720,3.706,676.752,17.770" size="14.064">4 <textline bbox="669.720,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">4 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.2.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.2.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="227.020,472.532,486.879,524.667" size="24.012">AWIPS I to AWIPS II 
+Re-Architecture Approach <textline bbox="227.020,496.683,486.879,524.667" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">AWIPS I to AWIPS II </textline>
+<textline bbox="232.780,472.532,481.131,492.572" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Re-Architecture Approach </textline>
+</textbox>
+<textbox id="1" bbox="37.200,405.700,414.794,429.700" size="24.0">&#8226; Perform &#8220;black-box&#8221; conversion <textline bbox="37.200,405.700,414.794,429.700">&#8226; Perform &#8220;black-box&#8221; conversion <text font="ArialMT" bbox="37.200,405.700,45.600,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="ArialMT" bbox="64.224,405.700,80.232,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">P</text>
+<text font="ArialMT" bbox="80.232,405.700,93.576,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="93.504,405.700,101.496,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="101.496,405.700,108.168,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="ArialMT" bbox="108.240,405.700,121.584,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="121.584,405.700,129.576,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="129.576,405.700,149.568,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="149.616,405.700,156.288,429.700" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="156.260,405.700,168.260,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">&#8220;</text>
+<text font="Arial-BoldMT" bbox="168.260,405.700,182.924,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="Arial-BoldMT" bbox="182.924,405.700,189.596,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="Arial-BoldMT" bbox="189.596,405.700,202.940,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="Arial-BoldMT" bbox="202.940,405.700,216.284,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="Arial-BoldMT" bbox="216.284,405.700,229.628,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">k</text>
+<text font="Arial-BoldMT" bbox="229.610,405.700,237.602,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="Arial-BoldMT" bbox="237.650,405.700,252.314,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="Arial-BoldMT" bbox="252.290,405.700,266.954,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="Arial-BoldMT" bbox="266.930,405.700,280.274,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">x</text>
+<text font="Arial-BoldMT" bbox="280.250,405.700,292.250,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">&#8221;</text>
+<text font="ArialMT" bbox="298.850,405.700,310.850,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="310.850,405.700,324.194,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="324.194,405.700,337.538,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="ArialMT" bbox="337.538,405.700,349.538,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="ArialMT" bbox="349.538,405.700,362.882,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="362.882,405.700,370.874,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="370.874,405.700,382.874,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="382.874,405.700,388.202,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="388.202,405.700,401.546,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="401.450,405.700,414.794,429.700" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="73.224,381.692,614.159,401.732" size="20.04">&#8211; Preserve existing functionality, look and feel on top of new  <textline bbox="73.224,381.692,614.159,401.732" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Preserve existing functionality, look and feel on top of new  </textline>
+</textbox>
+<textbox id="3" bbox="95.784,362.487,212.657,382.551" size="20.064">infrastructure <textline bbox="95.784,362.487,212.657,382.551" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">infrastructure </textline>
+</textbox>
+<textbox id="4" bbox="37.200,333.670,583.560,357.670" size="24.0">&#8226; Thorough field validation and acceptance before  <textline bbox="37.200,333.670,583.560,357.670" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Thorough field validation and acceptance before  </textline>
+</textbox>
+<textbox id="5" bbox="64.224,286.622,624.159,334.630" size="22.02">deployment 
+&#8211; Incremental releases via task orders for test and evaluation  <textline bbox="64.224,310.630,188.136,334.630" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">deployment </textline>
+<textline bbox="73.224,286.622,624.159,306.662" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Incremental releases via task orders for test and evaluation  </textline>
+</textbox>
+<textbox id="6" bbox="95.784,267.422,167.126,287.462" size="20.04">strategy <textline bbox="95.784,267.422,167.126,287.462" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">strategy </textline>
+</textbox>
+<textbox id="7" bbox="95.784,195.402,142.557,215.442" size="20.04">OB9) <textline bbox="95.784,195.402,142.557,215.442" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">OB9) </textline>
+</textbox>
+<textbox id="8" bbox="37.200,238.625,304.200,262.649" size="24.024">&#8226; No loss of functionality <textline bbox="37.200,238.625,304.200,262.649" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; No loss of functionality </textline>
+</textbox>
+<textbox id="9" bbox="73.224,214.602,651.714,234.642" size="20.04">&#8211; Deployed system current with deployed AWIPS capability (i.e.,  <textline bbox="73.224,214.602,651.714,234.642" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Deployed system current with deployed AWIPS capability (i.e.,  </textline>
+</textbox>
+<textbox id="10" bbox="37.200,166.610,568.750,190.610" size="24.0">&#8226; Use open source projects - No proprietary code <textline bbox="37.200,166.610,568.750,190.610" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Use open source projects - No proprietary code </textline>
+</textbox>
+<textbox id="11" bbox="73.224,142.602,655.140,162.642" size="20.04">&#8211; JAVA and open source projects enable AWIPS II to be platform  <textline bbox="73.224,142.602,655.140,162.642" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; JAVA and open source projects enable AWIPS II to be platform  </textline>
+</textbox>
+<textbox id="12" bbox="95.784,123.397,279.410,143.461" size="20.064">and OS independent <textline bbox="95.784,123.397,279.410,143.461" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">and OS independent </textline>
+</textbox>
+<textbox id="13" bbox="37.200,94.584,665.928,118.584" size="24.0">&#8226; Objective is to make AWIPS II available for collaborative  <textline bbox="37.200,94.584,665.928,118.584" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Objective is to make AWIPS II available for collaborative  </textline>
+</textbox>
+<textbox id="14" bbox="64.224,71.544,201.480,95.544" size="24.0">development <textline bbox="64.224,71.544,201.480,95.544" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">development </textline>
+</textbox>
+<textbox id="15" bbox="669.720,3.706,676.752,17.770" size="14.064">5 <textline bbox="669.720,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">5 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.3.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.3.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="204.460,474.940,509.452,498.940" size="24.0">AWIPS Migration Schedule <textline bbox="204.460,474.940,509.452,498.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">AWIPS Migration Schedule </textline>
+</textbox>
+<textbox id="1" bbox="19.200,378.195,455.273,431.300" size="21.012">Task Order 
+Develop AWIPS SW Product Improvement Plan  (TO1) <textline bbox="19.200,407.300,136.536,431.300" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Task Order </textline>
+<textline bbox="19.200,378.195,455.273,396.219" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">Develop AWIPS SW Product Improvement Plan  (TO1) </textline>
+</textbox>
+<textbox id="2" bbox="19.200,348.180,316.992,366.180" size="18.0">Conduct Initial system analysis (TO2) <textline bbox="19.200,348.180,316.992,366.180" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Conduct Initial system analysis (TO2) </textline>
+</textbox>
+<textbox id="3" bbox="19.200,319.040,235.964,337.040" size="18.0">Develop ADE/SDK (TO3-6) <textline bbox="19.200,319.040,235.964,337.040" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Develop ADE/SDK (TO3-6) </textline>
+</textbox>
+<textbox id="4" bbox="19.200,287.435,348.985,305.459" size="18.024">Plan baseline application migration (TO7) <textline bbox="19.200,287.435,348.985,305.459" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">Plan baseline application migration (TO7) </textline>
+</textbox>
+<textbox id="5" bbox="19.200,257.050,416.244,275.050" size="18.0">Migrate primarily D2D/Warngen capabilities (TO8) <textline bbox="19.200,257.050,416.244,275.050" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Migrate primarily D2D/Warngen capabilities (TO8) </textline>
+</textbox>
+<textbox id="6" bbox="19.200,222.420,339.906,240.420" size="18.0">Migrate primarily GFE capabilities (TO9) <textline bbox="19.200,222.420,339.906,240.420" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Migrate primarily GFE capabilities (TO9) </textline>
+</textbox>
+<textbox id="7" bbox="19.200,167.920,483.066,207.559" size="18.012">Migrate primarily hydrologic capabilities and infrastructure  
+improvements (TO10) <textline bbox="19.200,189.535,483.066,207.559" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">Migrate primarily hydrologic capabilities and infrastructure  </textline>
+<textline bbox="19.200,167.920,193.908,185.920" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">improvements (TO10) </textline>
+</textbox>
+<textbox id="8" bbox="19.200,138.640,360.984,156.640" size="18.0">Complete AWIPS SOA Release 1.0 (TO11) <textline bbox="19.200,138.640,360.984,156.640" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Complete AWIPS SOA Release 1.0 (TO11) </textline>
+</textbox>
+<textbox id="9" bbox="562.270,138.640,657.202,156.640" size="18.0">March 2010 <textline bbox="562.270,138.640,657.202,156.640" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">March 2010 </textline>
+</textbox>
+<textbox id="10" bbox="19.200,109.515,393.126,127.539" size="18.024">System Operational Test and Evaluation (OTE) <textline bbox="19.200,109.515,393.126,127.539" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">System Operational Test and Evaluation (OTE) </textline>
+</textbox>
+<textbox id="11" bbox="526.750,109.515,692.700,127.539" size="18.024">March - August 2010 <textline bbox="526.750,109.515,692.700,127.539" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">March - August 2010 </textline>
+</textbox>
+<textbox id="12" bbox="19.200,54.780,166.656,98.700" size="18.0">Field (OTE) 
+Target deployment <textline bbox="19.200,80.700,112.404,98.700" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Field (OTE) </textline>
+<textline bbox="19.200,54.780,166.656,72.780" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Target deployment </textline>
+</textbox>
+<textbox id="13" bbox="567.670,378.195,651.842,431.300" size="21.012">Target  
+June 2006 <textline bbox="576.310,407.300,649.750,431.300" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Target  </textline>
+<textline bbox="567.670,378.195,651.842,396.219" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">June 2006 </textline>
+</textbox>
+<textbox id="14" bbox="555.190,348.180,664.072,366.180" size="18.0">October 2006 <textline bbox="555.190,348.180,664.072,366.180" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">October 2006 </textline>
+</textbox>
+<textbox id="15" bbox="571.270,319.040,648.274,337.040" size="18.0">July 2007 <textline bbox="571.270,319.040,648.274,337.040" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">July 2007 </textline>
+</textbox>
+<textbox id="16" bbox="555.190,287.435,664.109,305.459" size="18.024">October 2007 <textline bbox="555.190,287.435,664.109,305.459" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">October 2007 </textline>
+</textbox>
+<textbox id="17" bbox="551.230,257.050,668.194,275.050" size="18.0">February 2008 <textline bbox="551.230,257.050,668.194,275.050" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">February 2008 </textline>
+</textbox>
+<textbox id="18" bbox="543.190,222.420,676.120,240.420" size="18.0">September 2008 <textline bbox="543.190,222.420,676.120,240.420" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">September 2008 </textline>
+</textbox>
+<textbox id="19" bbox="551.230,189.535,668.188,207.559" size="18.024">February 2009 <textline bbox="551.230,189.535,668.188,207.559" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">February 2009 </textline>
+</textbox>
+<textbox id="20" bbox="547.270,54.780,672.196,98.700" size="18.0">Sept- Dec 2010 
+2011 <textline bbox="547.270,80.700,672.196,98.700" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Sept- Dec 2010 </textline>
+<textline bbox="590.380,54.780,628.954,72.780" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">2011 </textline>
+</textbox>
+<textbox id="21" bbox="669.720,3.706,676.752,17.770" size="14.064">6 <textline bbox="669.720,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">6 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.4.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.4.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="199.300,472.668,514.633,500.628" size="27.96">Task Order 11 Schedule <textline bbox="199.300,472.668,514.633,500.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Task Order 11 Schedule </textline>
+</textbox>
+<textbox id="1" bbox="31.200,417.100,35.400,429.100" size="12.0">&#8226; <textline bbox="31.200,417.100,35.400,429.100" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="2" bbox="31.200,369.095,35.408,381.119" size="12.024">&#8226; <textline bbox="31.200,369.095,35.408,381.119" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="3" bbox="31.200,331.870,35.400,343.870" size="12.0">&#8226; <textline bbox="31.200,331.870,35.400,343.870" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="4" bbox="31.200,293.470,35.400,305.470" size="12.0">&#8226; <textline bbox="31.200,293.470,35.400,305.470" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="5" bbox="31.200,256.270,35.400,268.270" size="12.0">&#8226; <textline bbox="31.200,256.270,35.400,268.270" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="6" bbox="31.200,198.650,35.400,210.650" size="12.0">&#8226; <textline bbox="31.200,198.650,35.400,210.650" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="7" bbox="31.200,121.845,35.408,133.869" size="12.024">&#8226; <textline bbox="31.200,121.845,35.408,133.869" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="8" bbox="31.200,93.024,35.400,105.024" size="12.0">&#8226; <textline bbox="31.200,93.024,35.400,105.024" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="9" bbox="31.200,54.624,35.400,66.624" size="12.0">&#8226; <textline bbox="31.200,54.624,35.400,66.624" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="10" bbox="67.224,281.418,72.762,291.378" size="9.96">&#8211; <textline bbox="67.224,281.418,72.762,291.378" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">&#8211; </textline>
+</textbox>
+<textbox id="11" bbox="67.224,244.213,72.775,254.197" size="9.984">&#8211; <textline bbox="67.224,244.213,72.775,254.197" font="ArialMT" ncolour="0" size="9.984" colourspace="DeviceGray">&#8211; </textline>
+</textbox>
+<textbox id="12" bbox="67.224,186.598,72.762,196.558" size="9.96">&#8211; <textline bbox="67.224,186.598,72.762,196.558" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">&#8211; </textline>
+</textbox>
+<textbox id="13" bbox="67.224,405.048,72.762,415.008" size="9.96">&#8211; <textline bbox="67.224,405.048,72.762,415.008" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">&#8211; </textline>
+</textbox>
+<textbox id="14" bbox="89.784,395.448,676.547,415.008" size="9.96">D2D Display (Non-Derived Satellite data, Maps &amp; Warngen locations), Data (SBN ingest, Selected Decoders), Hydrological Functions 
+(XDAT, IHFS, SSHP), Cron Management, Guardian, Command Line Interface, Notification Server <textline bbox="89.784,405.048,676.547,415.008" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">D2D Display (Non-Derived Satellite data, Maps &amp; Warngen locations), Data (SBN ingest, Selected Decoders), Hydrological Functions </textline>
+<textline bbox="89.784,395.448,519.150,405.408" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">(XDAT, IHFS, SSHP), Cron Management, Guardian, Command Line Interface, Notification Server </textline>
+</textbox>
+<textbox id="15" bbox="58.200,417.100,204.836,429.100" size="12.0">Slice 1 &#8211; April 8   Delivered <textline bbox="58.200,417.100,204.836,429.100">Slice 1 &#8211; April 8   Delivered <text font="ArialMT" bbox="58.200,417.100,66.204,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">S</text>
+<text font="ArialMT" bbox="66.252,417.100,68.916,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">l</text>
+<text font="ArialMT" bbox="68.916,417.100,71.580,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">i</text>
+<text font="ArialMT" bbox="71.532,417.100,77.532,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">c</text>
+<text font="ArialMT" bbox="77.532,417.100,84.204,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="ArialMT" bbox="84.288,417.100,87.624,429.100" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="87.528,417.100,94.200,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">1</text>
+<text font="ArialMT" bbox="94.260,417.100,97.596,429.100" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="97.464,417.100,104.136,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">&#8211;</text>
+<text font="ArialMT" bbox="106.820,417.100,114.824,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">A</text>
+<text font="ArialMT" bbox="114.848,417.100,121.520,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">p</text>
+<text font="ArialMT" bbox="121.556,417.100,125.552,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">r</text>
+<text font="ArialMT" bbox="125.552,417.100,128.216,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">i</text>
+<text font="ArialMT" bbox="128.156,417.100,130.820,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">l</text>
+<text font="ArialMT" bbox="130.820,417.100,134.156,429.100" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="134.036,417.100,140.708,429.100" colourspace="DeviceGray" ncolour="0" size="12.000">8</text>
+<text font="ArialMT" bbox="140.744,417.100,144.080,429.100" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="143.984,417.100,147.320,429.100" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="147.320,417.100,150.656,429.100" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="Arial-BoldMT" bbox="150.860,417.100,159.524,429.100" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">D</text>
+<text font="Arial-BoldMT" bbox="159.524,417.100,166.196,429.100" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="166.196,417.100,169.532,429.100" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">l</text>
+<text font="Arial-BoldMT" bbox="169.568,417.100,172.904,429.100" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">i</text>
+<text font="Arial-BoldMT" bbox="172.904,417.100,179.576,429.100" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">v</text>
+<text font="Arial-BoldMT" bbox="179.408,417.100,186.080,429.100" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="186.116,417.100,190.784,429.100" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">r</text>
+<text font="Arial-BoldMT" bbox="190.784,417.100,197.456,429.100" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="197.504,417.100,204.836,429.100" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">d</text>
+</textline>
+</textbox>
+<textbox id="16" bbox="58.200,369.095,200.864,381.119" size="12.024">Slice 2 &#8211; May 6  Delivered <textline bbox="58.200,369.095,200.864,381.119">Slice 2 &#8211; May 6  Delivered <text font="ArialMT" bbox="58.200,369.095,66.220,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">S</text>
+<text font="ArialMT" bbox="66.256,369.095,68.925,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">l</text>
+<text font="ArialMT" bbox="68.925,369.095,71.595,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">i</text>
+<text font="ArialMT" bbox="71.535,369.095,77.547,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">c</text>
+<text font="ArialMT" bbox="77.547,369.095,84.232,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">e</text>
+<text font="ArialMT" bbox="84.292,369.095,87.635,381.119" colourspace="DeviceGray" ncolour="0" size="12.024"> </text>
+<text font="ArialMT" bbox="87.527,369.095,94.212,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">2</text>
+<text font="ArialMT" bbox="94.260,369.095,97.603,381.119" colourspace="DeviceGray" ncolour="0" size="12.024"> </text>
+<text font="ArialMT" bbox="97.464,369.095,104.149,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">&#8211;</text>
+<text font="ArialMT" bbox="107.420,369.095,117.436,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">M</text>
+<text font="ArialMT" bbox="117.376,369.095,124.061,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">a</text>
+<text font="ArialMT" bbox="124.061,369.095,130.073,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">y</text>
+<text font="ArialMT" bbox="129.977,369.095,133.320,381.119" colourspace="DeviceGray" ncolour="0" size="12.024"> </text>
+<text font="ArialMT" bbox="133.440,369.095,140.125,381.119" colourspace="DeviceGray" ncolour="0" size="12.024">6</text>
+<text font="ArialMT" bbox="140.125,369.095,143.468,381.119" colourspace="DeviceGray" ncolour="0" size="12.024"> </text>
+<text font="ArialMT" bbox="143.396,369.095,146.738,381.119" colourspace="DeviceGray" ncolour="0" size="12.024"> </text>
+<text font="Arial-BoldMT" bbox="146.900,369.095,155.581,381.119" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.024">D</text>
+<text font="Arial-BoldMT" bbox="155.545,369.095,162.231,381.119" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.024">e</text>
+<text font="Arial-BoldMT" bbox="162.231,369.095,165.573,381.119" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.024">l</text>
+<text font="Arial-BoldMT" bbox="165.609,369.095,168.952,381.119" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.024">i</text>
+<text font="Arial-BoldMT" bbox="168.952,369.095,175.637,381.119" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.024">v</text>
+<text font="Arial-BoldMT" bbox="175.445,369.095,182.130,381.119" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.024">e</text>
+<text font="Arial-BoldMT" bbox="182.130,369.095,186.808,381.119" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.024">r</text>
+<text font="Arial-BoldMT" bbox="186.832,369.095,193.517,381.119" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.024">e</text>
+<text font="Arial-BoldMT" bbox="193.517,369.095,200.864,381.119" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.024">d</text>
+</textline>
+</textbox>
+<textbox id="17" bbox="67.224,357.018,72.762,366.978" size="9.96">&#8211; <textline bbox="67.224,357.018,72.762,366.978" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">&#8211; </textline>
+</textbox>
+<textbox id="18" bbox="89.784,357.018,679.545,366.978" size="9.96">D2D Display (Upper Air Rendering), Decoders (BufrMOS), Text Triggers, GHG, Radar ORPG Ingest, Dam Break Model, Data Purging <textline bbox="89.784,357.018,679.545,366.978" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">D2D Display (Upper Air Rendering), Decoders (BufrMOS), Text Triggers, GHG, Radar ORPG Ingest, Dam Break Model, Data Purging </textline>
+</textbox>
+<textbox id="19" bbox="61.584,319.818,517.058,343.870" size="10.98">Slice 3 &#8211; June 3  Delivered 
+&#8211; WarnGen, Warngen Service Backup, Hydroview, XNAV, ACARS data, Model/Satellite Soundings <textline bbox="61.584,331.870,207.476,343.870">Slice 3 &#8211; June 3  Delivered <text font="ArialMT" bbox="61.584,331.870,69.588,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">S</text>
+<text font="ArialMT" bbox="69.612,331.870,72.276,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">l</text>
+<text font="ArialMT" bbox="72.276,331.870,74.940,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">i</text>
+<text font="ArialMT" bbox="74.892,331.870,80.892,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">c</text>
+<text font="ArialMT" bbox="80.892,331.870,87.564,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="ArialMT" bbox="87.600,331.870,90.936,343.870" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="90.840,331.870,97.512,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">3</text>
+<text font="ArialMT" bbox="97.548,331.870,100.884,343.870" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="100.820,331.870,107.492,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">&#8211;</text>
+<text font="ArialMT" bbox="110.900,331.870,116.900,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">J</text>
+<text font="ArialMT" bbox="116.900,331.870,123.572,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">u</text>
+<text font="ArialMT" bbox="123.608,331.870,130.280,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">n</text>
+<text font="ArialMT" bbox="130.316,331.870,136.988,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="ArialMT" bbox="137.024,331.870,140.360,343.870" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="140.024,331.870,146.696,343.870" colourspace="DeviceGray" ncolour="0" size="12.000">3</text>
+<text font="ArialMT" bbox="146.732,331.870,150.068,343.870" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="150.068,331.870,153.404,343.870" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="Arial-BoldMT" bbox="153.500,331.870,162.164,343.870" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">D</text>
+<text font="Arial-BoldMT" bbox="162.164,331.870,168.836,343.870" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="168.836,331.870,172.172,343.870" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">l</text>
+<text font="Arial-BoldMT" bbox="172.208,331.870,175.544,343.870" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">i</text>
+<text font="Arial-BoldMT" bbox="175.544,331.870,182.216,343.870" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">v</text>
+<text font="Arial-BoldMT" bbox="182.048,331.870,188.720,343.870" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="188.756,331.870,193.424,343.870" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">r</text>
+<text font="Arial-BoldMT" bbox="193.424,331.870,200.096,343.870" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="200.144,331.870,207.476,343.870" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">d</text>
+</textline>
+<textline bbox="67.224,319.818,517.058,329.778" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">&#8211; WarnGen, Warngen Service Backup, Hydroview, XNAV, ACARS data, Model/Satellite Soundings </textline>
+</textbox>
+<textbox id="20" bbox="58.200,293.470,266.066,305.470" size="12.0">Slice 3.1 (DR fixes) &#8211; July 1  Delivered <textline bbox="58.200,293.470,266.066,305.470">Slice 3.1 (DR fixes) &#8211; July 1  Delivered <text font="ArialMT" bbox="58.200,293.470,66.204,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">S</text>
+<text font="ArialMT" bbox="66.252,293.470,68.916,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">l</text>
+<text font="ArialMT" bbox="68.916,293.470,71.580,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">i</text>
+<text font="ArialMT" bbox="71.532,293.470,77.532,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">c</text>
+<text font="ArialMT" bbox="77.532,293.470,84.204,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="ArialMT" bbox="84.288,293.470,87.624,305.470" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="87.528,293.470,94.200,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">3</text>
+<text font="ArialMT" bbox="94.260,293.470,97.596,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">.</text>
+<text font="ArialMT" bbox="97.596,293.470,104.268,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">1</text>
+<text font="ArialMT" bbox="104.352,293.470,107.688,305.470" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="107.472,293.470,111.468,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">(</text>
+<text font="ArialMT" bbox="111.468,293.470,120.132,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">D</text>
+<text font="ArialMT" bbox="120.096,293.470,128.760,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">R</text>
+<text font="ArialMT" bbox="128.760,293.470,132.096,305.470" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="132.228,293.470,135.564,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">f</text>
+<text font="ArialMT" bbox="135.696,293.470,138.360,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">i</text>
+<text font="ArialMT" bbox="138.360,293.470,144.360,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">x</text>
+<text font="ArialMT" bbox="144.240,293.470,150.912,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="ArialMT" bbox="150.972,293.470,156.972,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">s</text>
+<text font="ArialMT" bbox="156.972,293.470,160.968,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">)</text>
+<text font="ArialMT" bbox="160.968,293.470,164.304,305.470" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="164.060,293.470,170.732,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">&#8211;</text>
+<text font="ArialMT" bbox="174.140,293.470,180.140,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">J</text>
+<text font="ArialMT" bbox="180.140,293.470,186.812,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">u</text>
+<text font="ArialMT" bbox="186.848,293.470,189.512,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">l</text>
+<text font="ArialMT" bbox="189.512,293.470,195.512,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">y</text>
+<text font="ArialMT" bbox="195.368,293.470,198.704,305.470" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="198.704,293.470,205.376,305.470" colourspace="DeviceGray" ncolour="0" size="12.000">1</text>
+<text font="ArialMT" bbox="205.436,293.470,208.772,305.470" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="208.676,293.470,212.012,305.470" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="Arial-BoldMT" bbox="212.090,293.470,220.754,305.470" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">D</text>
+<text font="Arial-BoldMT" bbox="220.754,293.470,227.426,305.470" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="227.426,293.470,230.762,305.470" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">l</text>
+<text font="Arial-BoldMT" bbox="230.798,293.470,234.134,305.470" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">i</text>
+<text font="Arial-BoldMT" bbox="234.134,293.470,240.806,305.470" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">v</text>
+<text font="Arial-BoldMT" bbox="240.638,293.470,247.310,305.470" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="247.346,293.470,252.014,305.470" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">r</text>
+<text font="Arial-BoldMT" bbox="252.014,293.470,258.686,305.470" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="258.734,293.470,266.066,305.470" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">d</text>
+</textline>
+</textbox>
+<textbox id="21" bbox="89.784,281.418,449.742,291.378" size="9.96">76 DRs - 49 Graphical Forecast Editor (GFE), 15 Display Two-Dimensional (D2D) <textline bbox="89.784,281.418,449.742,291.378" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">76 DRs - 49 Graphical Forecast Editor (GFE), 15 Display Two-Dimensional (D2D) </textline>
+</textbox>
+<textbox id="22" bbox="58.200,256.270,231.356,268.270" size="12.0">Slice 4/5 &#8211; August 26  Delivered <textline bbox="58.200,256.270,231.356,268.270">Slice 4/5 &#8211; August 26  Delivered <text font="ArialMT" bbox="58.200,256.270,66.204,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">S</text>
+<text font="ArialMT" bbox="66.252,256.270,68.916,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">l</text>
+<text font="ArialMT" bbox="68.916,256.270,71.580,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">i</text>
+<text font="ArialMT" bbox="71.532,256.270,77.532,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">c</text>
+<text font="ArialMT" bbox="77.532,256.270,84.204,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">e</text>
+<text font="ArialMT" bbox="84.288,256.270,87.624,268.270" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="87.528,256.270,94.200,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">4</text>
+<text font="ArialMT" bbox="94.260,256.270,97.596,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">/</text>
+<text font="ArialMT" bbox="97.596,256.270,104.268,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">5</text>
+<text font="ArialMT" bbox="104.352,256.270,107.688,268.270" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="107.420,256.270,114.092,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">&#8211;</text>
+<text font="ArialMT" bbox="116.780,256.270,124.784,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">A</text>
+<text font="ArialMT" bbox="124.808,256.270,131.480,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">u</text>
+<text font="ArialMT" bbox="131.516,256.270,138.188,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">g</text>
+<text font="ArialMT" bbox="138.116,256.270,144.788,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">u</text>
+<text font="ArialMT" bbox="144.824,256.270,150.824,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">s</text>
+<text font="ArialMT" bbox="150.824,256.270,154.160,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">t</text>
+<text font="ArialMT" bbox="154.160,256.270,157.496,268.270" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="157.424,256.270,164.096,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">2</text>
+<text font="ArialMT" bbox="164.132,256.270,170.804,268.270" colourspace="DeviceGray" ncolour="0" size="12.000">6</text>
+<text font="ArialMT" bbox="170.840,256.270,174.176,268.270" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="ArialMT" bbox="173.960,256.270,177.296,268.270" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+<text font="Arial-BoldMT" bbox="177.380,256.270,186.044,268.270" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">D</text>
+<text font="Arial-BoldMT" bbox="186.044,256.270,192.716,268.270" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="192.716,256.270,196.052,268.270" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">l</text>
+<text font="Arial-BoldMT" bbox="196.088,256.270,199.424,268.270" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">i</text>
+<text font="Arial-BoldMT" bbox="199.424,256.270,206.096,268.270" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">v</text>
+<text font="Arial-BoldMT" bbox="205.928,256.270,212.600,268.270" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="212.636,256.270,217.304,268.270" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">r</text>
+<text font="Arial-BoldMT" bbox="217.304,256.270,223.976,268.270" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">e</text>
+<text font="Arial-BoldMT" bbox="224.024,256.270,231.356,268.270" colourspace="DeviceGray" ncolour="(0.2, 0.8, 0.2)" size="12.000">d</text>
+</textline>
+</textbox>
+<textbox id="23" bbox="89.784,224.998,673.069,254.197" size="9.968000000000002">AvnFPS (except climate), D2D Display (Obs, Radar/Radar Apps/Radar Mosaic, Volume Browser Standard Model Parameters, Time  
+Matching+4 panel), GFE (except DFC, Service Backup), MPE, Text Workstation Scripting, Radar Plug-in,  
+SigWx/highDensityWinds/ncwf,ascat,soundings Plug-in, Satellite Precipitation Estimate (SPE) Data Retrieval <textline bbox="89.784,244.213,673.069,254.197" font="ArialMT" ncolour="0" size="9.984" colourspace="DeviceGray">AvnFPS (except climate), D2D Display (Obs, Radar/Radar Apps/Radar Mosaic, Volume Browser Standard Model Parameters, Time  </textline>
+<textline bbox="89.784,234.598,555.377,244.558" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Matching+4 panel), GFE (except DFC, Service Backup), MPE, Text Workstation Scripting, Radar Plug-in,  </textline>
+<textline bbox="89.784,224.998,567.546,234.958" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">SigWx/highDensityWinds/ncwf,ascat,soundings Plug-in, Satellite Precipitation Estimate (SPE) Data Retrieval </textline>
+</textbox>
+<textbox id="24" bbox="58.200,198.650,166.832,210.650" size="12.0">Slice 6 &#8211; October 21 <textline bbox="58.200,198.650,166.832,210.650" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Slice 6 &#8211; October 21 </textline>
+</textbox>
+<textbox id="25" bbox="89.784,148.198,684.393,196.558" size="9.96">AvnFPS (climate), D2D Display (Satellite, Upper Air, NCEP Outlook Grids Rendering, SigWx/LSR/VAA Rendering, Volume Families,  
+Skew-T, Hydro Rendering), GFE (DFC, Service Backup), NDFD Grid Transmission, Text Workstation Alarm/Alert, FFMP, Fog Monitor,  
+SCAN, SNOW, SAFESEAS, Advisory Decoder Plug-in, SIGMET Plug-in, Version Purging, Archival/Backup of Data, Failover,  
+Localization Infrastructure, Hydro - Build Precip Reports, Hydro - Flood Archiver, Cron management, TMCP, HazCollect, NWWS,  
+Comms, HWR, LDAD, RFC applications, HPE, HPN, FSI, AWIPS System Monitor <textline bbox="89.784,186.598,675.253,196.558" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">AvnFPS (climate), D2D Display (Satellite, Upper Air, NCEP Outlook Grids Rendering, SigWx/LSR/VAA Rendering, Volume Families,  </textline>
+<textline bbox="89.784,176.998,684.393,186.958" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Skew-T, Hydro Rendering), GFE (DFC, Service Backup), NDFD Grid Transmission, Text Workstation Alarm/Alert, FFMP, Fog Monitor,  </textline>
+<textline bbox="89.784,167.398,641.599,177.358" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">SCAN, SNOW, SAFESEAS, Advisory Decoder Plug-in, SIGMET Plug-in, Version Purging, Archival/Backup of Data, Failover,  </textline>
+<textline bbox="89.784,157.798,660.310,167.758" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Localization Infrastructure, Hydro - Build Precip Reports, Hydro - Flood Archiver, Cron management, TMCP, HazCollect, NWWS,  </textline>
+<textline bbox="89.784,148.198,450.216,158.158" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Comms, HWR, LDAD, RFC applications, HPE, HPN, FSI, AWIPS System Monitor </textline>
+</textbox>
+<textbox id="26" bbox="58.200,121.845,328.901,133.869" size="12.024">Start Performance Testing &#8211; December 2009, RTS <textline bbox="58.200,121.845,328.901,133.869" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Start Performance Testing &#8211; December 2009, RTS </textline>
+</textbox>
+<textbox id="27" bbox="58.200,93.024,149.972,105.024" size="12.0">Snap-Up &#8211; Dec 9 <textline bbox="58.200,93.024,149.972,105.024" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Snap-Up &#8211; Dec 9 </textline>
+</textbox>
+<textbox id="28" bbox="67.224,80.972,72.762,90.932" size="9.96">&#8211; <textline bbox="67.224,80.972,72.762,90.932" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">&#8211; </textline>
+</textbox>
+<textbox id="29" bbox="89.784,80.972,439.430,90.932" size="9.96">OB9.2 DR fixes, Volume Browser (Radar &amp; Tilt, Derived Fields, Derived Levels) <textline bbox="89.784,80.972,439.430,90.932" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">OB9.2 DR fixes, Volume Browser (Radar &amp; Tilt, Derived Fields, Derived Levels) </textline>
+</textbox>
+<textbox id="30" bbox="58.200,54.624,264.476,66.624" size="12.0">Start Stability Testing &#8211; Feb 2010, RTS <textline bbox="58.200,54.624,264.476,66.624" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Start Stability Testing &#8211; Feb 2010, RTS </textline>
+</textbox>
+<textbox id="31" bbox="669.720,3.706,676.752,17.770" size="14.064">7 <textline bbox="669.720,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">7 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.5.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.5.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="148.150,472.668,565.593,500.628" size="27.96">AWIPS II Architecture Overview <textline bbox="148.150,472.668,565.593,500.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">AWIPS II Architecture Overview </textline>
+</textbox>
+<textbox id="1" bbox="37.200,404.732,236.788,424.772" size="20.04">&#8226; Consists of AWIPS  <textline bbox="37.200,404.732,236.788,424.772" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Consists of AWIPS  </textline>
+</textbox>
+<textbox id="2" bbox="64.224,284.702,319.413,400.791" size="20.0448">Development Environment  
+(ADE), the Common AWIPS  
+Visualization Environment  
+(CAVE) and Enterprise Data  
+Exchange (EDEX) <textline bbox="64.224,380.727,305.674,400.791" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">Development Environment  </textline>
+<textline bbox="64.224,356.702,317.810,376.742" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">(ADE), the Common AWIPS  </textline>
+<textline bbox="64.224,332.702,299.814,352.742" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Visualization Environment  </textline>
+<textline bbox="64.224,308.702,319.413,328.742" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">(CAVE) and Enterprise Data  </textline>
+<textline bbox="64.224,284.702,226.548,304.742" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Exchange (EDEX) </textline>
+</textbox>
+<textbox id="3" bbox="37.200,227.082,329.994,247.122" size="20.04">&#8226; Service Oriented Architecture  <textline bbox="37.200,227.082,329.994,247.122" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Service Oriented Architecture  </textline>
+</textbox>
+<textbox id="4" bbox="64.224,203.082,119.895,223.122" size="20.04">(SOA) <textline bbox="64.224,203.082,119.895,223.122" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">(SOA) </textline>
+</textbox>
+<textbox id="5" bbox="37.200,145.482,250.035,165.522" size="20.04">&#8226; Primarily Java based <textline bbox="37.200,145.482,250.035,165.522" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Primarily Java based </textline>
+</textbox>
+<textbox id="6" bbox="37.200,87.856,44.214,107.896" size="20.04">&#8226; <textline bbox="37.200,87.856,44.214,107.896" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="7" bbox="64.224,63.856,336.367,107.896" size="20.04">Integrates many Open Source  
+Projects <textline bbox="64.224,87.856,336.367,107.896" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Integrates many Open Source  </textline>
+<textline bbox="64.224,63.856,136.669,83.896" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Projects </textline>
+</textbox>
+<textbox id="8" bbox="373.270,360.482,456.766,374.522" size="14.04">PostgresSQL <textline bbox="373.270,360.482,456.766,374.522" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">PostgresSQL </textline>
+</textbox>
+<textbox id="9" bbox="485.040,360.482,618.181,374.522" size="14.04">RDBMS for metadata <textline bbox="485.040,360.482,618.181,374.522" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">RDBMS for metadata </textline>
+</textbox>
+<textbox id="10" bbox="373.270,411.872,401.294,425.912" size="14.04">ANT <textline bbox="373.270,411.872,401.294,425.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ANT </textline>
+</textbox>
+<textbox id="11" bbox="373.270,387.602,406.264,401.642" size="14.04">JAVA <textline bbox="373.270,387.602,406.264,401.642" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">JAVA </textline>
+</textbox>
+<textbox id="12" bbox="373.270,333.602,398.275,347.642" size="14.04">Jibx <textline bbox="373.270,333.602,398.275,347.642" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Jibx </textline>
+</textbox>
+<textbox id="13" bbox="373.270,306.602,408.426,320.642" size="14.04">JEPP <textline bbox="373.270,306.602,408.426,320.642" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">JEPP </textline>
+</textbox>
+<textbox id="14" bbox="373.270,265.782,407.682,279.822" size="14.04">Jhdf5 <textline bbox="373.270,265.782,407.682,279.822" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Jhdf5 </textline>
+</textbox>
+<textbox id="15" bbox="485.040,411.872,603.552,425.912" size="14.04">ADE build scripting <textline bbox="485.040,411.872,603.552,425.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ADE build scripting </textline>
+</textbox>
+<textbox id="16" bbox="485.040,387.602,645.335,401.642" size="14.04">ADE Java virtual machine <textline bbox="485.040,387.602,645.335,401.642" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ADE Java virtual machine </textline>
+</textbox>
+<textbox id="17" bbox="485.040,333.602,664.022,347.642" size="14.04">Java Object to XML mapping <textline bbox="485.040,333.602,664.022,347.642" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Java Object to XML mapping </textline>
+</textbox>
+<textbox id="18" bbox="485.040,289.782,635.577,320.642" size="14.04">Java embedded Python  
+libraries <textline bbox="485.040,306.602,635.577,320.642" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Java embedded Python  </textline>
+<textline bbox="485.040,289.782,534.205,303.822" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">libraries </textline>
+</textbox>
+<textbox id="19" bbox="485.040,265.782,596.139,279.822" size="14.04">Java API to HDF5 <textline bbox="485.040,265.782,596.139,279.822" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Java API to HDF5 </textline>
+</textbox>
+<textbox id="20" bbox="373.270,239.282,445.393,253.322" size="14.04">Hibernate 3 <textline bbox="373.270,239.282,445.393,253.322" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Hibernate 3 </textline>
+</textbox>
+<textbox id="21" bbox="485.040,239.282,661.410,253.322" size="14.04">Relational to object mapping <textline bbox="485.040,239.282,661.410,253.322" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Relational to object mapping </textline>
+</textbox>
+<textbox id="22" bbox="373.270,212.642,429.458,226.682" size="14.04">Geotools <textline bbox="373.270,212.642,429.458,226.682" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Geotools </textline>
+</textbox>
+<textbox id="23" bbox="485.040,212.642,622.590,226.682" size="14.04">GIS libraries and tools <textline bbox="485.040,212.642,622.590,226.682" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">GIS libraries and tools </textline>
+</textbox>
+<textbox id="24" bbox="373.270,186.152,421.778,200.192" size="14.04">Velocity <textline bbox="373.270,186.152,421.778,200.192" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Velocity </textline>
+</textbox>
+<textbox id="25" bbox="373.270,159.512,427.141,173.552" size="14.04">Openfire <textline bbox="373.270,159.512,427.141,173.552" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Openfire </textline>
+</textbox>
+<textbox id="26" bbox="485.040,186.152,587.658,200.192" size="14.04">Template engine <textline bbox="485.040,186.152,587.658,200.192" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Template engine </textline>
+</textbox>
+<textbox id="27" bbox="485.040,159.512,603.818,173.552" size="14.04">Collaborator server <textline bbox="485.040,159.512,603.818,173.552" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Collaborator server </textline>
+</textbox>
+<textbox id="28" bbox="373.270,133.012,451.726,147.052" size="14.04">Eclipse RCP <textline bbox="373.270,133.012,451.726,147.052" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Eclipse RCP </textline>
+</textbox>
+<textbox id="29" bbox="485.040,133.012,632.404,147.052" size="14.04">Visualization framework <textline bbox="485.040,133.012,632.404,147.052" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Visualization framework </textline>
+</textbox>
+<textbox id="30" bbox="373.270,106.507,399.092,120.571" size="14.064">Jogl <textline bbox="373.270,106.507,399.092,120.571" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">Jogl </textline>
+</textbox>
+<textbox id="31" bbox="373.270,79.876,404.509,93.916" size="14.04">Batik <textline bbox="373.270,79.876,404.509,93.916" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Batik </textline>
+</textbox>
+<textbox id="32" bbox="485.040,106.507,661.346,120.571" size="14.064">Open GL Java API for CAVE <textline bbox="485.040,106.507,661.346,120.571" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">Open GL Java API for CAVE </textline>
+</textbox>
+<textbox id="33" bbox="485.040,79.876,583.123,93.916" size="14.04">SVG tool library <textline bbox="485.040,79.876,583.123,93.916" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">SVG tool library </textline>
+</textbox>
+<textbox id="34" bbox="373.270,53.375,430.876,67.439" size="14.064">Activemq <textline bbox="373.270,53.375,430.876,67.439" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">Activemq </textline>
+</textbox>
+<textbox id="35" bbox="485.040,53.375,669.222,67.439" size="14.064">ADE Java Messaging Service <textline bbox="485.040,53.375,669.222,67.439" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">ADE Java Messaging Service </textline>
+</textbox>
+<textbox id="36" bbox="373.270,26.740,445.646,40.780" size="14.04">Camel ESB <textline bbox="373.270,26.740,445.646,40.780" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Camel ESB </textline>
+</textbox>
+<textbox id="37" bbox="485.040,26.740,659.894,40.780" size="14.04">ADE Enterprise Service Bus <textline bbox="485.040,26.740,659.894,40.780" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ADE Enterprise Service Bus </textline>
+</textbox>
+<textbox id="38" bbox="669.720,3.706,676.752,17.770" size="14.064">8 <textline bbox="669.720,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">8 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.6.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.6.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="141.670,474.940,584.182,498.940" size="24.0">AWIPS II Primary Standards &amp; Formats <textline bbox="141.670,474.940,584.182,498.940" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">AWIPS II Primary Standards &amp; Formats </textline>
+</textbox>
+<textbox id="1" bbox="37.200,402.820,45.600,426.820" size="24.0">&#8226; <textline bbox="37.200,402.820,45.600,426.820" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="2" bbox="64.224,217.962,515.598,426.820" size="20.540999999999997">Ingested Data Formats 
+&#8211; GRIB1/GRIB2 &#8211; Gridded data 
+&#8211; NetCDF3 &#8211; Support AWIPSI/II interoperability 
+&#8211; BUFR &#8211; Observational Data, e.g., soundings 
+&#8211; METAR, SHEF &#8211; Surface and hydrological data 
+&#8211; GINI &#8211; Satellite Imagery 
+&#8211; OPRG L3 &#8211; Radar Imagery 
+&#8211; Text Messages &#8211; Text products <textline bbox="64.224,402.820,308.376,426.820" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Ingested Data Formats </textline>
+<textline bbox="73.224,376.407,359.139,396.471" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; GRIB1/GRIB2 &#8211; Gridded data </textline>
+<textline bbox="73.224,349.982,497.341,370.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; NetCDF3 &#8211; Support AWIPSI/II interoperability </textline>
+<textline bbox="73.224,323.582,490.254,343.622" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; BUFR &#8211; Observational Data, e.g., soundings </textline>
+<textline bbox="73.224,297.182,515.598,317.222" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; METAR, SHEF &#8211; Surface and hydrological data </textline>
+<textline bbox="73.224,270.782,308.098,290.822" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; GINI &#8211; Satellite Imagery </textline>
+<textline bbox="73.224,244.377,336.872,264.441" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; OPRG L3 &#8211; Radar Imagery </textline>
+<textline bbox="73.224,217.962,369.948,238.002" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Text Messages &#8211; Text products </textline>
+</textbox>
+<textbox id="3" bbox="37.200,186.290,273.552,210.290" size="24.0">&#8226; Data Store Formats <textline bbox="37.200,186.290,273.552,210.290" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Data Store Formats </textline>
+</textbox>
+<textbox id="4" bbox="73.224,133.477,652.478,179.922" size="20.052">&#8211; PostGres &#8211; Metadata and select data type store, e.g., text 
+&#8211; HDF5 &#8211; Binary store for grids, imagery and select observations <textline bbox="73.224,159.882,605.918,179.922" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; PostGres &#8211; Metadata and select data type store, e.g., text </textline>
+<textline bbox="73.224,133.477,652.478,153.541" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; HDF5 &#8211; Binary store for grids, imagery and select observations </textline>
+</textbox>
+<textbox id="5" bbox="37.200,101.780,273.552,125.780" size="24.0">&#8226; Product Distribution <textline bbox="37.200,101.780,273.552,125.780" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Product Distribution </textline>
+</textbox>
+<textbox id="6" bbox="73.224,48.976,336.279,95.416" size="20.04">&#8211; NetCDF3 &#8211; NDFD Grids 
+&#8211; ASCII Text &#8211; Text products  <textline bbox="73.224,75.376,310.588,95.416" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; NetCDF3 &#8211; NDFD Grids </textline>
+<textline bbox="73.224,48.976,336.279,69.016" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; ASCII Text &#8211; Text products  </textline>
+</textbox>
+<textbox id="7" bbox="669.720,3.706,676.752,17.770" size="14.064">9 <textline bbox="669.720,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">9 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.7.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.7.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="208.420,460.540,505.501,513.379" size="24.012">NAWIPS Migration Project 
+Goals <textline bbox="208.420,489.355,505.501,513.379" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">NAWIPS Migration Project </textline>
+<textline bbox="323.640,460.540,390.336,484.540" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Goals </textline>
+</textbox>
+<textbox id="1" bbox="37.200,398.628,617.664,426.588" size="27.96">&#8226; Full NAWIPS capabilities ported to AWIPS II  <textline bbox="37.200,398.628,617.664,426.588" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Full NAWIPS capabilities ported to AWIPS II  </textline>
+</textbox>
+<textbox id="2" bbox="64.224,368.383,210.720,396.367" size="27.984">architecture <textline bbox="64.224,368.383,210.720,396.367" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">architecture </textline>
+</textbox>
+<textbox id="3" bbox="37.200,294.438,604.327,322.398" size="27.96">&#8226; Software ready for Operational Testing and  <textline bbox="37.200,294.438,604.327,322.398" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Software ready for Operational Testing and  </textline>
+</textbox>
+<textbox id="4" bbox="64.224,264.193,342.357,292.177" size="27.984">Evaluation by Q1FY11 <textline bbox="64.224,264.193,342.357,292.177" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">Evaluation by Q1FY11 </textline>
+</textbox>
+<textbox id="5" bbox="37.200,190.258,540.774,218.218" size="27.96">&#8226; No changes to the forecaster workflow <textline bbox="37.200,190.258,540.774,218.218" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; No changes to the forecaster workflow </textline>
+</textbox>
+<textbox id="6" bbox="73.224,126.765,571.483,182.450" size="24.012">&#8211; &#8220;Gray box&#8221; migration 
+&#8211; Some visual differences may be unavoidable <textline bbox="73.224,158.450,314.424,182.450" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; &#8220;Gray box&#8221; migration </textline>
+<textline bbox="73.224,126.765,571.483,150.789" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Some visual differences may be unavoidable </textline>
+</textbox>
+<textbox id="7" bbox="37.200,52.952,428.794,80.912" size="27.96">&#8226; Capitalize on new technology <textline bbox="37.200,52.952,428.794,80.912" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Capitalize on new technology </textline>
+</textbox>
+<textbox id="8" bbox="662.640,3.706,676.752,17.770" size="14.064">10 <textline bbox="662.640,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">10 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.8.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.8.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="208.420,460.540,505.501,513.379" size="24.012">NAWIPS Migration Project 
+Focus <textline bbox="208.420,489.355,505.501,513.379" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">NAWIPS Migration Project </textline>
+<textline bbox="321.720,460.540,392.304,484.540" font="Arial-BoldMT" ncolour="0" size="24.000" colourspace="DeviceGray">Focus </textline>
+</textbox>
+<textbox id="1" bbox="37.200,398.628,559.535,426.588" size="27.96">&#8226; Migration activities in four primary areas <textline bbox="37.200,398.628,559.535,426.588" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Migration activities in four primary areas </textline>
+</textbox>
+<textbox id="2" bbox="73.224,366.815,468.853,390.839" size="24.024">&#8211; GUI program integration into CAVE <textline bbox="73.224,366.815,468.853,390.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; GUI program integration into CAVE </textline>
+</textbox>
+<textbox id="3" bbox="109.220,261.182,210.727,360.422" size="20.04">&#8226; NMAP 
+&#8226; NWX 
+&#8226; NTRANS 
+&#8226; NSHARP <textline bbox="109.220,340.382,185.116,360.422" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; NMAP </textline>
+<textline bbox="109.220,313.982,174.076,334.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; NWX </textline>
+<textline bbox="109.220,287.582,209.685,307.622" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; NTRANS </textline>
+<textline bbox="109.220,261.182,210.727,281.222" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; NSHARP </textline>
+</textbox>
+<textbox id="4" bbox="73.224,166.130,394.656,253.490" size="24.0">&#8211; Product Generation (PGEN) 
+&#8211; Decoders 
+&#8211; GEMPAK <textline bbox="73.224,229.490,394.656,253.490" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Product Generation (PGEN) </textline>
+<textline bbox="73.224,197.810,198.408,221.810" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Decoders </textline>
+<textline bbox="73.224,166.130,196.680,190.130" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; GEMPAK </textline>
+</textbox>
+<textbox id="5" bbox="37.200,92.312,343.908,120.272" size="27.96">&#8226; Testing and Test Plans <textline bbox="37.200,92.312,343.908,120.272" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Testing and Test Plans </textline>
+</textbox>
+<textbox id="6" bbox="73.224,60.504,610.824,84.504" size="24.0">&#8211; Developed by the Centers based on operational  <textline bbox="73.224,60.504,610.824,84.504" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Developed by the Centers based on operational  </textline>
+</textbox>
+<textbox id="7" bbox="95.784,34.584,191.736,58.584" size="24.0">concepts <textline bbox="95.784,34.584,191.736,58.584" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">concepts </textline>
+</textbox>
+<textbox id="8" bbox="663.120,3.706,676.752,17.770" size="14.064">11 <textline bbox="663.120,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">11 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.9.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.9.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="163.030,472.668,551.283,500.628" size="27.96">National Centers Perspective <textline bbox="163.030,472.668,551.283,500.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">National Centers Perspective </textline>
+</textbox>
+<textbox id="1" bbox="37.200,395.268,341.364,423.228" size="27.96">&#8226; Previous development <textline bbox="37.200,395.268,341.364,423.228" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Previous development </textline>
+</textbox>
+<textbox id="2" bbox="73.224,360.575,676.997,384.599" size="24.024">&#8211; Developed a perspective in CAVE to match the legacy  <textline bbox="73.224,360.575,676.997,384.599" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Developed a perspective in CAVE to match the legacy  </textline>
+</textbox>
+<textbox id="3" bbox="95.784,331.750,316.824,355.750" size="24.0">NMAP user interface <textline bbox="95.784,331.750,316.824,355.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">NMAP user interface </textline>
+</textbox>
+<textbox id="4" bbox="73.224,297.190,582.624,321.190" size="24.0">&#8211; Most tools and menu items are fully functional <textline bbox="73.224,297.190,582.624,321.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Most tools and menu items are fully functional </textline>
+</textbox>
+<textbox id="5" bbox="37.200,256.993,330.548,284.977" size="27.984">&#8226; Current Development <textline bbox="37.200,256.993,330.548,284.977" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Current Development </textline>
+</textbox>
+<textbox id="6" bbox="73.224,187.730,680.356,246.290" size="24.0">&#8211; Focusing on data management, selection and display 
+&#8211; Starting to integrate multi-loop and multi-panel displays <textline bbox="73.224,222.290,662.856,246.290" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Focusing on data management, selection and display </textline>
+<textline bbox="73.224,187.730,680.356,211.730" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Starting to integrate multi-loop and multi-panel displays </textline>
+</textbox>
+<textbox id="7" bbox="37.200,147.538,313.404,175.498" size="27.96">&#8226; Future development <textline bbox="37.200,147.538,313.404,175.498" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Future development </textline>
+</textbox>
+<textbox id="8" bbox="73.224,78.264,482.832,136.820" size="24.0">&#8211; Continue to add data resource types 
+&#8211; Begin timeline and time matching <textline bbox="73.224,112.820,482.832,136.820" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Continue to add data resource types </textline>
+<textline bbox="73.224,78.264,449.352,102.264" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Begin timeline and time matching </textline>
+</textbox>
+<textbox id="9" bbox="662.640,3.706,676.752,17.770" size="14.064">12 <textline bbox="662.640,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">12 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.10.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.10.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="226.300,472.668,487.642,500.628" size="27.96">Product Generation <textline bbox="226.300,472.668,487.642,500.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Product Generation </textline>
+</textbox>
+<textbox id="1" bbox="37.200,395.268,657.899,423.228" size="27.96">&#8226; Fully integrated set of drawing and editing tools  <textline bbox="37.200,395.268,657.899,423.228" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Fully integrated set of drawing and editing tools  </textline>
+</textbox>
+<textbox id="2" bbox="37.200,246.433,569.111,389.647" size="26.982">with derived product creation capabilities 
+&#8211; Text, Graphics, Grids, etc. 
+&#8226; Generic objects complete 
+&#8226; Meteorological objects <textline bbox="64.224,361.663,569.111,389.647" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">with derived product creation capabilities </textline>
+<textline bbox="73.224,326.950,371.688,350.950" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Text, Graphics, Grids, etc. </textline>
+<textline bbox="37.200,286.758,380.368,314.718" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Generic objects complete </textline>
+<textline bbox="37.200,246.433,343.196,274.417" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Meteorological objects </textline>
+</textbox>
+<textbox id="3" bbox="73.224,211.730,680.520,235.730" size="24.0">&#8211; Severe weather watch, SIGMETs, TCAs, Outlooks, etc. <textline bbox="73.224,211.730,680.520,235.730" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Severe weather watch, SIGMETs, TCAs, Outlooks, etc. </textline>
+</textbox>
+<textbox id="4" bbox="37.200,131.213,424.057,199.498" size="27.972">&#8226; Product-centric infrastructure 
+&#8226; Conversion utilities <textline bbox="37.200,171.538,424.057,199.498" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Product-centric infrastructure </textline>
+<textline bbox="37.200,131.213,299.541,159.197" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Conversion utilities </textline>
+</textbox>
+<textbox id="5" bbox="73.224,96.500,570.790,120.500" size="24.0">&#8211; Legacy VG format to new XML-based format <textline bbox="73.224,96.500,570.790,120.500" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Legacy VG format to new XML-based format </textline>
+</textbox>
+<textbox id="6" bbox="662.640,3.706,676.752,17.770" size="14.064">13 <textline bbox="662.640,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">13 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.11.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.11.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="206.140,472.668,507.800,500.628" size="27.96">Generic PGEN Objects <textline bbox="206.140,472.668,507.800,500.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Generic PGEN Objects </textline>
+</textbox>
+<textbox id="1" bbox="662.640,3.706,676.752,17.770" size="14.064">14 <textline bbox="662.640,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">14 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.12.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.12.200x199.bmp" width="66" height="65">
+</figure>
+<figure name="Image53" bbox="24.000,25.320,690.000,432.000" src="Image53.jpg" width="666" height="406">
+</figure>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="293.260,472.668,420.869,500.628" size="27.96">Decoders <textline bbox="293.260,472.668,420.869,500.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Decoders </textline>
+</textbox>
+<textbox id="1" bbox="37.200,399.940,180.192,423.940" size="24.0">&#8226; Completed <textline bbox="37.200,399.940,180.192,423.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Completed </textline>
+</textbox>
+<textbox id="2" bbox="73.224,140.682,568.174,391.191" size="20.04533333333333">&#8211; Flash Flood Guidance 
+&#8211; Watch Corner Points 
+&#8211; Supplemental Climatological Data 
+&#8211; SIGMETs (Convective, Non-convective, International) 
+&#8211; AIRMETs 
+&#8211; Advisory-Watch-Warning 
+&#8211; Ice Drift 
+&#8211; TAMDAR 
+&#8211; Hurricane Advisory <textline bbox="73.224,371.127,291.809,391.191" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; Flash Flood Guidance </textline>
+<textline bbox="73.224,342.302,279.350,362.342" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Watch Corner Points </textline>
+<textline bbox="73.224,313.502,396.244,333.542" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Supplemental Climatological Data </textline>
+<textline bbox="73.224,284.702,568.174,304.742" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; SIGMETs (Convective, Non-convective, International) </textline>
+<textline bbox="73.224,255.897,179.250,275.961" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; AIRMETs </textline>
+<textline bbox="73.224,227.082,315.737,247.122" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Advisory-Watch-Warning </textline>
+<textline bbox="73.224,198.282,164.762,218.322" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Ice Drift </textline>
+<textline bbox="73.224,169.482,178.950,189.522" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; TAMDAR </textline>
+<textline bbox="73.224,140.682,263.699,160.722" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Hurricane Advisory </textline>
+</textbox>
+<textbox id="3" bbox="37.200,106.100,154.872,130.100" size="24.0">&#8226; Ongoing <textline bbox="37.200,106.100,154.872,130.100" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Ongoing </textline>
+</textbox>
+<textbox id="4" bbox="73.224,51.324,406.705,97.336" size="19.02">&#8211; Large datasets that leverage HDF5 
+&#8226; Imagery, Grids, QuikScat, etc. <textline bbox="73.224,77.296,406.705,97.336" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Large datasets that leverage HDF5 </textline>
+<textline bbox="109.220,51.324,365.810,69.324" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; Imagery, Grids, QuikScat, etc. </textline>
+</textbox>
+<textbox id="5" bbox="662.640,3.706,676.752,17.770" size="14.064">15 <textline bbox="662.640,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">15 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.13.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.13.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="296.740,472.668,417.359,500.628" size="27.96">GEMPAK <textline bbox="296.740,472.668,417.359,500.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">GEMPAK </textline>
+</textbox>
+<textbox id="1" bbox="37.200,395.268,329.033,423.228" size="27.96">&#8226; Forward compatibility <textline bbox="37.200,395.268,329.033,423.228" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Forward compatibility </textline>
+</textbox>
+<textbox id="2" bbox="73.224,360.575,591.351,384.599" size="24.024">&#8211; Allows legacy applications to access AWIPS II  <textline bbox="73.224,360.575,591.351,384.599" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Allows legacy applications to access AWIPS II  </textline>
+</textbox>
+<textbox id="3" bbox="95.784,331.750,194.520,355.750" size="24.0">database <textline bbox="95.784,331.750,194.520,355.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">database </textline>
+</textbox>
+<textbox id="4" bbox="73.224,297.190,624.696,321.190" size="24.0">&#8211; Risk mitigation for NC local GEMPAK applications <textline bbox="73.224,297.190,624.696,321.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Risk mitigation for NC local GEMPAK applications </textline>
+</textbox>
+<textbox id="5" bbox="37.200,256.993,199.583,284.977" size="27.984">&#8226; Completed <textline bbox="37.200,256.993,199.583,284.977" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Completed </textline>
+</textbox>
+<textbox id="6" bbox="73.224,153.170,249.264,246.290" size="24.0">&#8211; Surface data 
+&#8211; Upper Air data 
+&#8211; Imagery <textline bbox="73.224,222.290,231.864,246.290" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Surface data </textline>
+<textline bbox="73.224,187.730,249.264,211.730" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Upper Air data </textline>
+<textline bbox="73.224,153.170,182.472,177.170" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Imagery </textline>
+</textbox>
+<textbox id="7" bbox="37.200,112.948,121.766,140.908" size="27.96">&#8226; Next <textline bbox="37.200,112.948,121.766,140.908" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Next </textline>
+</textbox>
+<textbox id="8" bbox="73.224,78.264,194.400,102.264" size="24.0">&#8211; Grid data <textline bbox="73.224,78.264,194.400,102.264" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Grid data </textline>
+</textbox>
+<textbox id="9" bbox="37.200,38.072,363.853,66.032" size="27.96">&#8226; GEMPAK 6.0 &#8211; Q1FY10 <textline bbox="37.200,38.072,363.853,66.032" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; GEMPAK 6.0 &#8211; Q1FY10 </textline>
+</textbox>
+<textbox id="10" bbox="662.640,3.706,676.752,17.770" size="14.064">16 <textline bbox="662.640,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">16 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.14.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.14.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="167.380,472.668,546.657,500.628" size="27.96">NAWIPS Migration Roadmap <textline bbox="167.380,472.668,546.657,500.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">NAWIPS Migration Roadmap </textline>
+</textbox>
+<textbox id="1" bbox="349.270,141.737,425.086,155.777" size="14.04">You are here <textline bbox="349.270,141.737,425.086,155.777" font="BCDEEE+Times,Bold" ncolour="0" size="14.040" colourspace="DeviceGray">You are here </textline>
+</textbox>
+<textbox id="2" bbox="662.640,3.706,676.752,17.770" size="14.064">17 <textline bbox="662.640,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">17 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.15.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.15.200x199.bmp" width="66" height="65">
+</figure>
+<figure name="Image60" bbox="24.000,26.880,702.000,438.000" src="Image60.915x730.bmp" width="678" height="411">
+</figure>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="208.850,222.530,510.890,258.530" size="36.0">QUESTIONS ???? <textline bbox="208.850,222.530,510.890,258.530" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">QUESTIONS ???? </textline>
+</textbox>
+<textbox id="1" bbox="662.640,3.706,676.752,17.770" size="14.064">18 <textline bbox="662.640,3.706,676.752,17.770" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">18 </textline>
+</textbox>
+<figure name="Image7" bbox="30.000,456.000,95.880,522.000" src="Image7.16.120x120.bmp" width="65" height="66">
+</figure>
+<figure name="Image8" bbox="630.000,456.360,696.000,522.000" src="Image8.16.200x199.bmp" width="66" height="65">
+</figure>
+</page>
+</pages>

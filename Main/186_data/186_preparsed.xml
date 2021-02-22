@@ -1,0 +1,1091 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,505.226,525.533,525.290" size="20.064">national spatial data infrastructure training program <textline bbox="7.200,505.226,525.533,525.290" font="BCDEEE+BookmanOldStyle" ncolour="0" size="20.064" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="1" bbox="85.224,327.678,473.311,415.799" size="37.992000000000004">Introduction to Metadata 
+Value of Metadata <textline bbox="85.224,379.775,473.311,415.799" font="ArialMT" ncolour="1" size="36.024" colourspace="DeviceGray">Introduction to Metadata </textline>
+<textline bbox="85.224,327.678,423.405,367.638" font="Arial-BoldItalicMT" ncolour="1" size="39.960" colourspace="DeviceGray">Value of Metadata </textline>
+</textbox>
+<textbox id="2" bbox="181.220,216.290,609.884,297.910" size="24.008">An overview of the value of metadata to  
+geospatial data distribution, data  
+management and project management. <textline bbox="181.220,273.910,609.884,297.910" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">An overview of the value of metadata to  </textline>
+<textline bbox="181.220,245.105,534.109,269.129" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">geospatial data distribution, data  </textline>
+<textline bbox="181.220,216.290,600.716,240.290" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">management and project management. </textline>
+</textbox>
+<textbox id="3" bbox="601.900,13.144,712.116,29.104" size="15.96">vers. 20100604 <textline bbox="601.900,13.144,712.116,29.104" font="Arial-ItalicMT" ncolour="0" size="15.960" colourspace="DeviceGray">vers. 20100604 </textline>
+</textbox>
+<figure name="Image11" bbox="1.080,2.280,177.840,122.400" src="Image11.350x238.bmp" width="176" height="120">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="430.150,467.372,712.807,499.412" size="32.04">Learning Objectives <textline bbox="430.150,467.372,712.807,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Learning Objectives </textline>
+</textbox>
+<textbox id="2" bbox="67.224,223.250,709.988,422.612" size="25.343999999999998">After completing this module the student can: 
+explain the geospatial data distribution role of metadata 
+explain the geospatial data management role of  
+metadata 
+explain the geospatial project  role of metadata 
+make the business case for metadata implementation <textline bbox="67.224,390.572,706.710,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">After completing this module the student can: </textline>
+<textline bbox="121.220,355.750,709.988,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">explain the geospatial data distribution role of metadata </textline>
+<textline bbox="121.220,321.190,633.908,345.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">explain the geospatial data management role of  </textline>
+<textline bbox="121.220,292.390,221.252,316.390" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">metadata </textline>
+<textline bbox="121.220,257.825,619.165,281.849" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">explain the geospatial project  role of metadata </textline>
+<textline bbox="121.220,223.250,689.348,247.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">make the business case for metadata implementation </textline>
+</textbox>
+<textbox id="3" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="4" bbox="669.000,28.036,676.806,42.076" size="14.04">2 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">2 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.0.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,360.720,110.160,377.520" src="Image19.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,326.160,110.160,342.960" src="Image19.0.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,262.800,110.160,279.600" src="Image19.1.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,228.240,110.160,245.040" src="Image19.2.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="456.940,467.372,712.940,499.412" size="32.04">Utility of Metadata <textline bbox="456.940,467.372,712.940,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Utility of Metadata </textline>
+</textbox>
+<textbox id="2" bbox="67.224,390.572,385.221,422.612" size="32.04">Metadata can support: <textline bbox="67.224,390.572,385.221,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Metadata can support: </textline>
+</textbox>
+<textbox id="3" bbox="121.220,286.630,339.932,379.750" size="24.0">data distribution 
+data management 
+project management <textline bbox="121.220,355.750,290.564,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">data distribution </textline>
+<textline bbox="121.220,321.190,314.636,345.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">data management </textline>
+<textline bbox="121.220,286.630,339.932,310.630" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">project management </textline>
+</textbox>
+<textbox id="4" bbox="543.620,387.168,571.807,397.128" size="9.96">collect <textline bbox="543.620,387.168,571.807,397.128" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">collect </textline>
+</textbox>
+<textbox id="5" bbox="487.630,358.768,514.632,368.728" size="9.96">derive <textline bbox="487.630,358.768,514.632,368.728" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">derive </textline>
+</textbox>
+<textbox id="6" bbox="592.460,361.648,625.238,371.608" size="9.96">classify <textline bbox="592.460,361.648,625.238,371.608" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">classify </textline>
+</textbox>
+<textbox id="7" bbox="507.650,296.398,555.817,306.358" size="9.96">planimetric <textline bbox="507.650,296.398,555.817,306.358" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">planimetric </textline>
+</textbox>
+<textbox id="8" bbox="517.610,277.730,545.666,289.730" size="12.0">meta <textline bbox="517.610,277.730,545.666,289.730" font="Arial-BoldMT" ncolour="1" size="12.000" colourspace="DeviceGray">meta </textline>
+</textbox>
+<textbox id="9" bbox="590.400,296.398,625.937,306.358" size="9.96">imagery <textline bbox="590.400,296.398,625.937,306.358" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">imagery </textline>
+</textbox>
+<textbox id="10" bbox="594.380,277.730,622.436,289.730" size="12.0">meta <textline bbox="594.380,277.730,622.436,289.730" font="Arial-BoldMT" ncolour="1" size="12.000" colourspace="DeviceGray">meta </textline>
+</textbox>
+<textbox id="11" bbox="67.224,194.682,150.696,226.722" size="32.04">If it is: <textline bbox="67.224,194.682,150.696,226.722" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">If it is: </textline>
+</textbox>
+<textbox id="12" bbox="121.220,90.744,504.236,183.890" size="24.008">considered a component of the data 
+created during data development 
+populated with rich content <textline bbox="121.220,159.890,504.236,183.890" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">considered a component of the data </textline>
+<textline bbox="121.220,125.325,472.066,149.349" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">created during data development </textline>
+<textline bbox="121.220,90.744,406.868,114.744" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">populated with rich content </textline>
+</textbox>
+<textbox id="13" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="14" bbox="554.020,225.498,589.587,235.458" size="9.96">analysis <textline bbox="554.020,225.498,589.587,235.458" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">analysis </textline>
+</textbox>
+<textbox id="15" bbox="635.470,227.878,671.455,237.838" size="9.96">charette <textline bbox="635.470,227.878,671.455,237.838" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">charette </textline>
+</textbox>
+<textbox id="16" bbox="631.010,165.618,677.314,187.578" size="9.96">committee 
+review <textline bbox="631.010,177.618,677.314,187.578" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">committee </textline>
+<textline bbox="639.890,165.618,668.565,175.578" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">review </textline>
+</textbox>
+<textbox id="17" bbox="548.470,168.118,594.206,178.078" size="9.96">alternative <textline bbox="548.470,168.118,594.206,178.078" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">alternative </textline>
+</textbox>
+<textbox id="18" bbox="557.260,140.950,585.316,152.950" size="12.0">meta <textline bbox="557.260,140.950,585.316,152.950" font="Arial-BoldMT" ncolour="1" size="12.000" colourspace="DeviceGray">meta </textline>
+</textbox>
+<textbox id="19" bbox="598.080,92.468,623.996,102.428" size="9.96">PLAN <textline bbox="598.080,92.468,623.996,102.428" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">PLAN </textline>
+</textbox>
+<textbox id="20" bbox="597.480,67.944,625.536,79.944" size="12.0">meta <textline bbox="597.480,67.944,625.536,79.944" font="Arial-BoldMT" ncolour="1" size="12.000" colourspace="DeviceGray">meta </textline>
+</textbox>
+<textbox id="21" bbox="669.000,28.036,676.806,42.076" size="14.04">3 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">3 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.1.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,360.720,110.160,377.520" src="Image19.3.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,326.160,110.160,342.960" src="Image19.4.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,291.600,110.160,308.400" src="Image19.5.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,164.880,110.160,181.680" src="Image19.6.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,130.320,110.160,147.120" src="Image19.7.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,95.760,110.160,112.560" src="Image19.8.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="284.690,467.372,712.873,499.412" size="32.04">Data Distribution via Metadata <textline bbox="284.690,467.372,712.873,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Data Distribution via Metadata </textline>
+</textbox>
+<textbox id="2" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="3" bbox="669.000,28.036,676.806,42.076" size="14.04">4 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.2.350x238.bmp" width="108" height="73">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="318.050,467.372,713.327,499.412" size="32.04">Distribution: Data Discovery <textline bbox="318.050,467.372,713.327,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Distribution: Data Discovery </textline>
+</textbox>
+<textbox id="2" bbox="67.224,313.742,701.802,422.612" size="32.04">The descriptive content of the metadata file  
+can be used to identify, assess and access  
+available data resources. <textline bbox="67.224,390.572,686.814,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">The descriptive content of the metadata file  </textline>
+<textline bbox="85.224,352.142,701.802,384.182" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">can be used to identify, assess and access  </textline>
+<textline bbox="85.224,313.742,440.708,345.782" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">available data resources. </textline>
+</textbox>
+<textbox id="3" bbox="124.370,171.605,291.440,285.558" size="19.9968">IDENTIFY 
+&#8226; keywords 
+&#8226; geographic location 
+&#8226; time period 
+&#8226; attributes <textline bbox="133.490,257.598,260.764,285.558" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="DeviceGray">IDENTIFY </textline>
+<textline bbox="124.370,236.410,211.016,254.410" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; keywords </textline>
+<textline bbox="124.370,214.810,291.440,232.810" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; geographic location </textline>
+<textline bbox="124.370,193.210,224.552,211.210" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; time period </textline>
+<textline bbox="124.370,171.605,209.602,189.629" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8226; attributes </textline>
+</textbox>
+<textbox id="4" bbox="313.510,115.210,472.623,233.668" size="19.9968">ASSESS 
+&#8226; use constraints 
+&#8226; access constraints 
+&#8226; data quality 
+&#8226; availability/pricing <textline bbox="329.740,205.708,442.950,233.668" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="DeviceGray">ASSESS </textline>
+<textline bbox="313.510,180.040,445.606,198.040" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; use constraints </textline>
+<textline bbox="313.510,158.435,472.623,176.459" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8226; access constraints </textline>
+<textline bbox="313.510,136.810,416.590,154.810" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; data quality </textline>
+<textline bbox="313.510,115.210,465.244,133.210" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; availability/pricing </textline>
+</textbox>
+<textbox id="5" bbox="505.300,72.804,636.330,169.668" size="20.490000000000002">ACCESS 
+&#8226; online access 
+&#8226; order process 
+&#8226; contacts <textline bbox="519.960,141.708,636.330,169.668" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="DeviceGray">ACCESS </textline>
+<textline bbox="505.300,116.000,625.426,134.000" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; online access </textline>
+<textline bbox="505.300,94.404,626.380,112.404" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; order process </textline>
+<textline bbox="505.300,72.804,583.522,90.804" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; contacts </textline>
+</textbox>
+<textbox id="6" bbox="669.000,28.036,676.806,42.076" size="14.04">5 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">5 </textline>
+</textbox>
+<textbox id="7" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.3.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image35" bbox="501.960,125.580,651.900,184.440" src="Image35.417x164.bmp" width="149" height="58">
+</figure>
+<figure name="Image39" bbox="311.760,189.540,458.580,248.400" src="Image39.408x164.bmp" width="146" height="58">
+</figure>
+<figure name="Image43" bbox="115.560,241.500,276.420,300.360" src="Image43.447x164.bmp" width="160" height="58">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="236.690,467.372,712.836,499.412" size="32.04">Distribution: Metadata Publication <textline bbox="236.690,467.372,712.836,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Distribution: Metadata Publication </textline>
+</textbox>
+<textbox id="2" bbox="67.224,390.572,720.808,422.612" size="32.04">A metadata collection can be published to the  <textline bbox="67.224,390.572,720.808,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">A metadata collection can be published to the  </textline>
+</textbox>
+<textbox id="3" bbox="85.224,352.142,252.216,384.182" size="32.04">Internet via: <textline bbox="85.224,352.142,252.216,384.182" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Internet via: </textline>
+</textbox>
+<textbox id="4" bbox="121.220,179.090,458.613,341.350" size="24.0048">web accessible folder (waf) 
+website catalog 
+Z39.50 metadata clearinghouse 
+metadata service 
+geospatial data portal <textline bbox="121.220,317.350,410.852,341.350" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">web accessible folder (waf) </textline>
+<textline bbox="121.220,282.790,286.652,306.790" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">website catalog </textline>
+<textline bbox="121.220,248.225,458.613,272.249" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Z39.50 metadata clearinghouse </textline>
+<textline bbox="121.220,213.650,303.980,237.650" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">metadata service </textline>
+<textline bbox="121.220,179.090,350.924,203.090" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">geospatial data portal </textline>
+</textbox>
+<textbox id="5" bbox="214.870,110.167,288.364,130.231" size="20.064">Internet <textline bbox="214.870,110.167,288.364,130.231" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.064" colourspace="DeviceGray">Internet </textline>
+</textbox>
+<textbox id="6" bbox="450.260,96.417,540.099,140.462" size="20.052">Internet /  
+Intranet <textline bbox="450.260,120.422,540.099,140.462" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.040" colourspace="DeviceGray">Internet /  </textline>
+<textline bbox="455.660,96.417,529.154,116.481" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.064" colourspace="DeviceGray">Intranet </textline>
+</textbox>
+<textbox id="7" bbox="86.040,50.411,194.065,70.475" size="20.064">User Query <textline bbox="86.040,50.411,194.065,70.475" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.064" colourspace="DeviceGray">User Query </textline>
+</textbox>
+<textbox id="8" bbox="293.500,50.152,482.477,70.192" size="20.04">Metadata Collection <textline bbox="293.500,50.152,482.477,70.192" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.040" colourspace="DeviceGray">Metadata Collection </textline>
+</textbox>
+<textbox id="9" bbox="568.030,50.656,647.990,70.696" size="20.04">Data Set <textline bbox="568.030,50.656,647.990,70.696" font="Arial-BoldMT" ncolour="(0.2, 0.2, 0.6)" size="20.040" colourspace="DeviceGray">Data Set </textline>
+</textbox>
+<textbox id="10" bbox="669.000,28.036,676.806,42.076" size="14.04">6 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">6 </textline>
+</textbox>
+<textbox id="11" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.4.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,322.320,110.160,339.120" src="Image19.9.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,287.760,110.160,304.560" src="Image19.10.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,253.200,110.160,270.000" src="Image19.11.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,218.640,110.160,235.440" src="Image19.12.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,184.080,110.160,200.880" src="Image19.13.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="197.450,467.372,712.749,499.412" size="32.04">Distribution: Geospatial Data Portals <textline bbox="197.450,467.372,712.749,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Distribution: Geospatial Data Portals </textline>
+</textbox>
+<textbox id="2" bbox="67.224,355.750,481.085,422.612" size="28.02">Federal and National Portals: 
+Geospatial One-Stop (GOS) <textline bbox="67.224,390.572,481.085,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Federal and National Portals: </textline>
+<textline bbox="121.220,355.750,421.538,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Geospatial One-Stop (GOS) </textline>
+</textbox>
+<textbox id="3" bbox="121.220,257.825,491.681,346.098" size="22.648">Federal e-gov geospatial data portal 
+www.geodata.gov 
+Geography Network <textline bbox="139.220,324.138,491.681,346.098" font="ArialMT" ncolour="0" size="21.960" colourspace="DeviceGray">Federal e-gov geospatial data portal </textline>
+<textline bbox="139.220,292.458,313.912,314.418" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="21.960" colourspace="DeviceGray">www.geodata.gov </textline>
+<textline bbox="121.220,257.825,334.745,281.849" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Geography Network </textline>
+</textbox>
+<textbox id="4" bbox="139.220,194.518,598.953,248.158" size="21.96">ESRI sponsored national geospatial data portal 
+www.geographynetwork.com <textline bbox="139.220,226.198,598.953,248.158" font="ArialMT" ncolour="0" size="21.960" colourspace="DeviceGray">ESRI sponsored national geospatial data portal </textline>
+<textline bbox="139.220,194.518,421.384,216.478" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="21.960" colourspace="DeviceGray">www.geographynetwork.com </textline>
+</textbox>
+<textbox id="5" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="6" bbox="669.000,28.036,676.806,42.076" size="14.04">7 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">7 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.5.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,360.720,110.160,377.520" src="Image19.14.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,262.800,110.160,279.600" src="Image19.15.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="197.450,467.372,712.749,499.412" size="32.04">Distribution: Geospatial Data Portals <textline bbox="197.450,467.372,712.749,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Distribution: Geospatial Data Portals </textline>
+</textbox>
+<textbox id="2" bbox="67.224,390.572,259.176,422.612" size="32.04">State Portals: <textline bbox="67.224,390.572,259.176,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">State Portals: </textline>
+</textbox>
+<textbox id="3" bbox="121.220,355.750,317.372,379.750" size="24.0">Arkansas GeoStor <textline bbox="121.220,355.750,317.372,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Arkansas GeoStor </textline>
+</textbox>
+<textbox id="4" bbox="139.220,324.138,458.255,346.098" size="21.96">http://www.geostor.arkansas.gov <textline bbox="139.220,324.138,458.255,346.098" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="21.960" colourspace="DeviceGray">http://www.geostor.arkansas.gov </textline>
+</textbox>
+<textbox id="5" bbox="121.220,289.510,320.108,313.510" size="24.0">Delaware DataMIL <textline bbox="121.220,289.510,320.108,313.510" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Delaware DataMIL </textline>
+</textbox>
+<textbox id="6" bbox="139.220,257.893,408.255,279.877" size="21.984">http://datamil.delaware.gov/ <textline bbox="139.220,257.893,408.255,279.877" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="21.984" colourspace="DeviceGray">http://datamil.delaware.gov/ </textline>
+</textbox>
+<textbox id="7" bbox="121.220,223.250,254.636,247.250" size="24.0">NC OneMap <textline bbox="121.220,223.250,254.636,247.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">NC OneMap </textline>
+</textbox>
+<textbox id="8" bbox="121.220,157.010,246.524,181.010" size="24.0">IndianaMap <textline bbox="121.220,157.010,246.524,181.010" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">IndianaMap </textline>
+</textbox>
+<textbox id="9" bbox="139.220,191.638,392.155,213.598" size="21.96">http://www.nconemap.gov <textline bbox="139.220,191.638,392.155,213.598" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="21.960" colourspace="DeviceGray">http://www.nconemap.gov </textline>
+</textbox>
+<textbox id="10" bbox="139.220,125.393,405.737,147.377" size="21.984">http://www.indianamap.org/ <textline bbox="139.220,125.393,405.737,147.377" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="21.984" colourspace="DeviceGray">http://www.indianamap.org/ </textline>
+</textbox>
+<textbox id="11" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="12" bbox="669.000,28.036,676.806,42.076" size="14.04">8 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.6.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,360.720,110.160,377.520" src="Image19.16.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,294.480,110.160,311.280" src="Image19.17.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,228.240,110.160,245.040" src="Image19.18.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,162.000,110.160,178.800" src="Image19.19.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="197.450,467.372,712.749,499.412" size="32.04">Distribution: Geospatial Data Portals <textline bbox="197.450,467.372,712.749,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Distribution: Geospatial Data Portals </textline>
+</textbox>
+<textbox id="2" bbox="67.224,390.572,315.983,422.612" size="32.04">Thematic Portals: <textline bbox="67.224,390.572,315.983,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Thematic Portals: </textline>
+</textbox>
+<textbox id="3" bbox="121.220,297.738,605.014,379.750" size="22.64">National Biological Information Infrastructure 
+various USGS portals to national biological data 
+http://www.nbii.gov/portal/server.pt <textline bbox="121.220,355.750,593.852,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">National Biological Information Infrastructure </textline>
+<textline bbox="139.220,324.138,605.014,346.098" font="ArialMT" ncolour="0" size="21.960" colourspace="DeviceGray">various USGS portals to national biological data </textline>
+<textline bbox="139.220,297.738,476.416,319.698" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="21.960" colourspace="DeviceGray">http://www.nbii.gov/portal/server.pt </textline>
+</textbox>
+<textbox id="4" bbox="121.220,231.478,572.447,287.110" size="22.98">Ocean Biogeographic Information System 
+Census of Marine Life portal to marine plant  <textline bbox="121.220,263.110,565.676,287.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Ocean Biogeographic Information System </textline>
+<textline bbox="139.220,231.478,572.447,253.438" font="ArialMT" ncolour="0" size="21.960" colourspace="DeviceGray">Census of Marine Life portal to marine plant  </textline>
+</textbox>
+<textbox id="5" bbox="157.220,205.078,354.069,227.038" size="21.96">and animal life data  <textline bbox="157.220,205.078,354.069,227.038" font="ArialMT" ncolour="0" size="21.960" colourspace="DeviceGray">and animal life data  </textline>
+</textbox>
+<textbox id="6" bbox="139.220,178.678,331.041,200.638" size="21.96">http://www.iobis.org <textline bbox="139.220,178.678,331.041,200.638" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="21.960" colourspace="DeviceGray">http://www.iobis.org </textline>
+</textbox>
+<textbox id="7" bbox="121.220,115.220,408.116,168.050" size="24.0">Geospatial Data Gateway:  
+Natural Resource Data <textline bbox="121.220,144.050,408.116,168.050" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Geospatial Data Gateway:  </textline>
+<textline bbox="121.220,115.220,365.444,139.220" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Natural Resource Data </textline>
+</textbox>
+<textbox id="8" bbox="139.220,57.212,583.229,105.572" size="21.96">USDA portal to national natural resource data 
+http://datagateway.nrcs.usda.gov/ <textline bbox="139.220,83.612,583.229,105.572" font="ArialMT" ncolour="0" size="21.960" colourspace="DeviceGray">USDA portal to national natural resource data </textline>
+<textline bbox="139.220,57.212,468.005,79.172" font="ArialMT" ncolour="(0.2, 0.2, 0.6)" size="21.960" colourspace="DeviceGray">http://datagateway.nrcs.usda.gov/ </textline>
+</textbox>
+<textbox id="9" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="10" bbox="669.000,28.036,676.806,42.076" size="14.04">9 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">9 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.7.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,360.720,110.160,377.520" src="Image19.20.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,268.080,110.160,284.880" src="Image19.21.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,149.040,110.160,165.840" src="Image19.22.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image64" bbox="488.280,389.280,715.560,426.720" src="Image64.303x50.bmp" width="227" height="37">
+</figure>
+<figure name="Image66" bbox="566.520,252.120,715.560,308.640" src="Image66.166x63.bmp" width="149" height="56">
+</figure>
+<figure name="Image68" bbox="549.240,120.000,715.080,172.440" src="Image68.139x44.bmp" width="165" height="52">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="258.170,467.372,712.946,499.412" size="32.04">Data Management via Metadata <textline bbox="258.170,467.372,712.946,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Data Management via Metadata </textline>
+</textbox>
+<textbox id="2" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="3" bbox="661.200,28.036,676.806,42.076" size="14.04">10 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">10 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.8.350x238.bmp" width="108" height="73">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,467.372,712.736,527.136" size="25.02">Intro to Metadata: Value of Metadata 
+Management: Maintenance and Update <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+<textline bbox="151.580,467.372,712.736,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Management: Maintenance and Update </textline>
+</textbox>
+<textbox id="1" bbox="67.224,355.750,346.676,422.612" size="28.02">Data Maintenance: 
+Are the data current? <textline bbox="67.224,390.572,335.463,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Data Maintenance: </textline>
+<textline bbox="121.220,355.750,346.676,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Are the data current? </textline>
+</textbox>
+<textbox id="2" bbox="139.220,292.458,372.538,346.208" size="21.96">&#9642; older than ten years? 
+&#9642; prior to the hurricane? <textline bbox="139.220,324.138,363.929,346.208">&#9642; older than ten years? <text font="BCDFEE+Wingdings-Regular" bbox="139.220,324.248,149.278,346.208" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="21.960">&#9642;</text>
+<text font="ArialMT" bbox="157.220,324.138,169.430,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="169.430,324.138,174.305,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">l</text>
+<text font="ArialMT" bbox="174.349,324.138,186.559,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">d</text>
+<text font="ArialMT" bbox="186.559,324.138,198.768,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">e</text>
+<text font="ArialMT" bbox="198.768,324.138,206.081,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="206.125,324.138,212.230,346.098" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="212.230,324.138,218.335,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="218.335,324.138,230.544,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">h</text>
+<text font="ArialMT" bbox="230.544,324.138,242.754,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">a</text>
+<text font="ArialMT" bbox="242.820,324.138,255.030,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">n</text>
+<text font="ArialMT" bbox="255.030,324.138,261.135,346.098" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="261.288,324.138,267.393,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="267.393,324.138,279.603,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">e</text>
+<text font="ArialMT" bbox="279.603,324.138,291.813,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">n</text>
+<text font="ArialMT" bbox="291.857,324.138,297.962,346.098" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="297.962,324.138,308.942,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">y</text>
+<text font="ArialMT" bbox="308.942,324.138,321.151,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">e</text>
+<text font="ArialMT" bbox="321.151,324.138,333.361,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">a</text>
+<text font="ArialMT" bbox="333.361,324.138,340.674,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="340.674,324.138,351.654,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">s</text>
+<text font="ArialMT" bbox="351.720,324.138,363.929,346.098" colourspace="DeviceGray" ncolour="0" size="21.960">?</text>
+</textline>
+<textline bbox="139.220,292.458,372.538,314.528">&#9642; prior to the hurricane? <text font="BCDFEE+Wingdings-Regular" bbox="139.220,292.568,149.278,314.528" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="21.960">&#9642;</text>
+<text font="ArialMT" bbox="157.220,292.458,169.430,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">p</text>
+<text font="ArialMT" bbox="169.430,292.458,176.742,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="176.742,292.458,181.618,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">i</text>
+<text font="ArialMT" bbox="181.683,292.458,193.893,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="193.893,292.458,201.206,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="201.206,292.458,207.311,314.418" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="207.464,292.458,213.569,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="213.569,292.458,225.779,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="225.779,292.458,231.884,314.418" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="231.884,292.458,237.989,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="238.033,292.458,250.243,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">h</text>
+<text font="ArialMT" bbox="250.243,292.458,262.452,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">e</text>
+<text font="ArialMT" bbox="262.452,292.458,268.557,314.418" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="268.601,292.458,280.811,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">h</text>
+<text font="ArialMT" bbox="280.811,292.458,293.021,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">u</text>
+<text font="ArialMT" bbox="293.021,292.458,300.333,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="300.377,292.458,307.690,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="307.690,292.458,312.565,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">i</text>
+<text font="ArialMT" bbox="312.565,292.458,323.545,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">c</text>
+<text font="ArialMT" bbox="323.633,292.458,335.843,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">a</text>
+<text font="ArialMT" bbox="335.843,292.458,348.052,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">n</text>
+<text font="ArialMT" bbox="348.052,292.458,360.262,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">e</text>
+<text font="ArialMT" bbox="360.328,292.458,372.538,314.418" colourspace="DeviceGray" ncolour="0" size="21.960">?</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="121.220,257.825,321.220,281.849" size="24.024">Are the data valid? <textline bbox="121.220,257.825,321.220,281.849" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Are the data valid? </textline>
+</textbox>
+<textbox id="4" bbox="139.220,194.518,503.463,248.268" size="21.96">&#9642; prior to most current source data 
+&#9642; prior to most current methodologies <textline bbox="139.220,226.198,475.376,248.268">&#9642; prior to most current source data <text font="BCDFEE+Wingdings-Regular" bbox="139.220,226.308,149.278,248.268" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="21.960">&#9642;</text>
+<text font="ArialMT" bbox="157.220,226.198,169.430,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">p</text>
+<text font="ArialMT" bbox="169.430,226.198,176.742,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="176.742,226.198,181.618,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">i</text>
+<text font="ArialMT" bbox="181.683,226.198,193.893,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="193.893,226.198,201.206,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="201.206,226.198,207.311,248.158" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="207.464,226.198,213.569,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="213.569,226.198,225.779,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="225.779,226.198,231.884,248.158" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="231.884,226.198,250.177,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">m</text>
+<text font="ArialMT" bbox="250.177,226.198,262.386,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="262.386,226.198,273.366,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">s</text>
+<text font="ArialMT" bbox="273.432,226.198,279.537,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="279.537,226.198,285.642,248.158" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="285.774,226.198,296.754,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">c</text>
+<text font="ArialMT" bbox="296.754,226.198,308.964,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">u</text>
+<text font="ArialMT" bbox="309.029,226.198,316.342,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="316.342,226.198,323.655,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="323.655,226.198,335.865,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">e</text>
+<text font="ArialMT" bbox="335.865,226.198,348.074,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">n</text>
+<text font="ArialMT" bbox="348.118,226.198,354.223,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="354.223,226.198,360.328,248.158" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="360.460,226.198,371.440,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">s</text>
+<text font="ArialMT" bbox="371.440,226.198,383.650,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="383.715,226.198,395.925,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">u</text>
+<text font="ArialMT" bbox="395.925,226.198,403.238,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="403.238,226.198,414.218,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">c</text>
+<text font="ArialMT" bbox="414.284,226.198,426.494,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">e</text>
+<text font="ArialMT" bbox="426.494,226.198,432.598,248.158" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="432.598,226.198,444.808,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">d</text>
+<text font="ArialMT" bbox="444.852,226.198,457.062,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">a</text>
+<text font="ArialMT" bbox="457.062,226.198,463.167,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="463.167,226.198,475.376,248.158" colourspace="DeviceGray" ncolour="0" size="21.960">a</text>
+</textline>
+<textline bbox="139.220,194.518,503.463,216.588">&#9642; prior to most current methodologies <text font="BCDFEE+Wingdings-Regular" bbox="139.220,194.628,149.278,216.588" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="21.960">&#9642;</text>
+<text font="ArialMT" bbox="157.220,194.518,169.430,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">p</text>
+<text font="ArialMT" bbox="169.430,194.518,176.742,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="176.742,194.518,181.618,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">i</text>
+<text font="ArialMT" bbox="181.683,194.518,193.893,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="193.893,194.518,201.206,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="201.206,194.518,207.311,216.478" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="207.464,194.518,213.569,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="213.569,194.518,225.779,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="225.779,194.518,231.884,216.478" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="231.884,194.518,250.177,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">m</text>
+<text font="ArialMT" bbox="250.177,194.518,262.386,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="262.386,194.518,273.366,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">s</text>
+<text font="ArialMT" bbox="273.432,194.518,279.537,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="279.537,194.518,285.642,216.478" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="285.774,194.518,296.754,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">c</text>
+<text font="ArialMT" bbox="296.754,194.518,308.964,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">u</text>
+<text font="ArialMT" bbox="309.029,194.518,316.342,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="316.342,194.518,323.655,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">r</text>
+<text font="ArialMT" bbox="323.655,194.518,335.865,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">e</text>
+<text font="ArialMT" bbox="335.865,194.518,348.074,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">n</text>
+<text font="ArialMT" bbox="348.118,194.518,354.223,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="354.223,194.518,360.328,216.478" colourspace="DeviceGray" ncolour="0" size="21.960"> </text>
+<text font="ArialMT" bbox="360.460,194.518,378.752,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">m</text>
+<text font="ArialMT" bbox="378.752,194.518,390.962,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">e</text>
+<text font="ArialMT" bbox="390.962,194.518,397.067,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">t</text>
+<text font="ArialMT" bbox="397.067,194.518,409.277,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">h</text>
+<text font="ArialMT" bbox="409.277,194.518,421.487,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="421.487,194.518,433.696,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">d</text>
+<text font="ArialMT" bbox="433.762,194.518,445.972,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="445.972,194.518,450.847,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">l</text>
+<text font="ArialMT" bbox="450.891,194.518,463.101,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">o</text>
+<text font="ArialMT" bbox="463.101,194.518,475.311,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">g</text>
+<text font="ArialMT" bbox="475.311,194.518,480.186,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">i</text>
+<text font="ArialMT" bbox="480.274,194.518,492.483,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">e</text>
+<text font="ArialMT" bbox="492.483,194.518,503.463,216.478" colourspace="DeviceGray" ncolour="0" size="21.960">s</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="67.224,148.602,255.619,180.642" size="32.04">Data Update: <textline bbox="67.224,148.602,255.619,180.642" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Data Update: </textline>
+</textbox>
+<textbox id="6" bbox="121.220,44.664,609.740,137.780" size="24.0">Contact information 
+Distribution policies, availability, pricing, URLs 
+New derivations of the data set <textline bbox="121.220,113.780,329.252,137.780" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Contact information </textline>
+<textline bbox="121.220,79.224,609.740,103.224" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Distribution policies, availability, pricing, URLs </textline>
+<textline bbox="121.220,44.664,450.764,68.664" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">New derivations of the data set </textline>
+</textbox>
+<textbox id="7" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="8" bbox="662.280,28.036,676.802,42.076" size="14.04">11 <textline bbox="662.280,28.036,676.802,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">11 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.9.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,360.720,110.160,377.520" src="Image19.23.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,262.800,110.160,279.600" src="Image19.24.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,118.800,110.160,135.600" src="Image19.25.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,84.240,110.160,101.040" src="Image19.26.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,49.680,110.160,66.480" src="Image19.27.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="160.270,467.372,712.583,499.412" size="32.04">Management: Data Discovery &amp; Reuse <textline bbox="160.270,467.372,712.583,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Management: Data Discovery &amp; Reuse </textline>
+</textbox>
+<textbox id="2" bbox="67.224,384.567,537.924,416.631" size="32.064">Metadata marketing in the past&#8230; <textline bbox="67.224,384.567,537.924,416.631" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">Metadata marketing in the past&#8230; </textline>
+</textbox>
+<textbox id="3" bbox="69.864,288.010,716.366,367.210" size="36.0">If you create metadata,  
+other people can discover your data <textline bbox="266.690,331.210,716.366,367.210" font="BCDGEE+ComicSansMS-Bold" ncolour="(0.2, 0.2, 0.6)" size="36.000" colourspace="DeviceGray">If you create metadata,  </textline>
+<textline bbox="69.864,288.010,700.692,324.010" font="BCDGEE+ComicSansMS-Bold" ncolour="(0.2, 0.2, 0.6)" size="36.000" colourspace="DeviceGray">other people can discover your data </textline>
+</textbox>
+<textbox id="4" bbox="67.224,197.322,504.442,229.362" size="32.04">New and improved message&#8230; <textline bbox="67.224,197.322,504.442,229.362" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">New and improved message&#8230; </textline>
+</textbox>
+<textbox id="5" bbox="224.090,100.760,700.800,180.007" size="36.012">If you create metadata, 
+you can find your own data <textline bbox="266.690,143.983,700.779,180.007" font="BCDGEE+ComicSansMS-Bold" ncolour="(0.2, 0.2, 0.6)" size="36.024" colourspace="DeviceGray">If you create metadata, </textline>
+<textline bbox="224.090,100.760,700.800,136.760">you can find your own data <text font="BCDGEE+ComicSansMS-Bold" bbox="224.090,100.760,243.998,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">y</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="243.998,100.760,262.934,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">o</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="262.934,100.760,281.654,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">u</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="281.654,100.760,297.278,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="297.170,100.760,315.674,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">c</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="315.674,100.760,335.690,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">a</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="335.690,100.760,354.518,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">n</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="354.518,100.760,370.142,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="370.214,100.760,388.502,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">f</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="388.502,100.760,398.582,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">i</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="398.582,100.760,417.410,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">n</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="417.410,100.760,438.542,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">d</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="438.542,100.760,454.166,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000"> </text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="454.166,100.760,474.074,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">y</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="474.074,100.760,493.010,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">o</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="493.010,100.760,511.730,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">u</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="511.730,100.760,529.010,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">r</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="529.010,100.760,544.634,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000"> </text>
+<text font="BCDHEE+ComicSansMS-BoldItalic" bbox="544.660,100.760,563.596,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">o</text>
+<text font="BCDHEE+ComicSansMS-BoldItalic" bbox="563.596,100.760,588.220,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">w</text>
+<text font="BCDHEE+ComicSansMS-BoldItalic" bbox="588.220,100.760,607.048,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">n</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="622.680,100.760,643.812,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">d</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="643.812,100.760,663.828,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">a</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="663.828,100.760,680.784,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">t</text>
+<text font="BCDGEE+ComicSansMS-Bold" bbox="680.784,100.760,700.800,136.760" colourspace="DeviceGray" ncolour="(0.2, 0.2, 0.6)" size="36.000">a</text>
+</textline>
+</textbox>
+<textbox id="6" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="7" bbox="661.200,28.036,676.806,42.076" size="14.04">12 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">12 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.10.350x238.bmp" width="108" height="73">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="160.220,467.372,712.533,499.412" size="32.04">Management: Data Discovery &amp; Reuse <textline bbox="160.220,467.372,712.533,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Management: Data Discovery &amp; Reuse </textline>
+</textbox>
+<textbox id="2" bbox="67.224,176.930,384.092,416.631" size="25.15542857142857">Find you data by: 
+themes / attributes 
+geographic location 
+temporal character 
+analytical methods used 
+sources and contributors 
+data quality <textline bbox="67.224,384.567,312.321,416.631" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">Find you data by: </textline>
+<textline bbox="121.220,349.750,318.620,373.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">themes / attributes </textline>
+<textline bbox="121.220,315.190,329.468,339.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">geographic location </textline>
+<textline bbox="121.220,280.630,321.308,304.630" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">temporal character </textline>
+<textline bbox="121.220,246.065,378.925,270.089" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">analytical methods used </textline>
+<textline bbox="121.220,211.490,384.092,235.490" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">sources and contributors </textline>
+<textline bbox="121.220,176.930,243.860,200.930" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">data quality </textline>
+</textbox>
+<textbox id="3" bbox="469.300,189.323,712.726,203.363" size="14.04">Monument to the Discoverers in Lisbon, Portugal <textline bbox="469.300,189.323,712.726,203.363" font="BCDIEE+GoudyOldStyleT-Italic" ncolour="0" size="14.040" colourspace="DeviceGray">Monument to the Discoverers in Lisbon, Portugal </textline>
+</textbox>
+<textbox id="4" bbox="295.250,102.204,700.307,130.164" size="27.96">Discoverable data is usable data <textline bbox="295.250,102.204,700.307,130.164" font="Arial-ItalicMT" ncolour="0" size="27.960" colourspace="DeviceGray">Discoverable data is usable data </textline>
+</textbox>
+<textbox id="5" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="6" bbox="661.200,28.036,676.806,42.076" size="14.04">13 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">13 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.11.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,354.720,110.160,371.520" src="Image19.28.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,320.160,110.160,336.960" src="Image19.29.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,285.600,110.160,302.400" src="Image19.30.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,251.040,110.160,267.840" src="Image19.31.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,216.480,110.160,233.280" src="Image19.32.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,181.920,110.160,198.720" src="Image19.33.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image87" bbox="396.000,206.760,711.480,408.000" src="Image87.jpg" width="315" height="201">
+</figure>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="234.770,467.372,712.513,499.412" size="32.04">Management: Data Accountability <textline bbox="234.770,467.372,712.513,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Management: Data Accountability </textline>
+</textbox>
+<textbox id="2" bbox="67.224,390.572,518.443,422.612" size="32.04">Metadata is an exercise in data  <textline bbox="67.224,390.572,518.443,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Metadata is an exercise in data  </textline>
+</textbox>
+<textbox id="3" bbox="85.224,352.142,652.140,384.182" size="32.04">accountability. It requires you to assess: <textline bbox="85.224,352.142,652.140,384.182" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">accountability. It requires you to assess: </textline>
+</textbox>
+<textbox id="4" bbox="121.220,248.225,574.841,341.350" size="24.008">What do you know about the data set? 
+What don&#8217;t you know about the data set? 
+What should you know about the data set? <textline bbox="121.220,317.350,530.780,341.350" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">What do you know about the data set? </textline>
+<textline bbox="121.220,282.790,556.124,306.790" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">What don&#8217;t you know about the data set? </textline>
+<textline bbox="121.220,248.225,574.841,272.249" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">What should you know about the data set? </textline>
+</textbox>
+<textbox id="5" bbox="164.060,59.248,720.017,120.808" size="27.96">Are you willing to associate yourself with the  
+metadata record ? <textline bbox="164.060,92.848,720.017,120.808" font="Arial-ItalicMT" ncolour="0" size="27.960" colourspace="DeviceGray">Are you willing to associate yourself with the  </textline>
+<textline bbox="485.020,59.248,712.531,87.208" font="Arial-ItalicMT" ncolour="0" size="27.960" colourspace="DeviceGray">metadata record ? </textline>
+</textbox>
+<textbox id="6" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="7" bbox="661.200,28.036,676.806,42.076" size="14.04">14 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">14 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.12.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,322.320,110.160,339.120" src="Image19.34.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,287.760,110.160,304.560" src="Image19.35.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,253.200,110.160,270.000" src="Image19.36.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="234.770,467.372,712.513,499.412" size="32.04">Management: Data Accountability <textline bbox="234.770,467.372,712.513,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Management: Data Accountability </textline>
+</textbox>
+<textbox id="2" bbox="67.224,390.572,360.518,422.612" size="32.04">Repeatable process: <textline bbox="67.224,390.572,360.518,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Repeatable process: </textline>
+</textbox>
+<textbox id="3" bbox="67.224,108.020,448.154,379.750" size="25.011">methods 
+variables 
+analytical parameters 
+Defensible process: 
+public participation 
+decision-making 
+increasingly GIS-savvy  public  
+requires consumer information <textline bbox="121.220,355.750,213.236,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">methods </textline>
+<textline bbox="121.220,321.190,217.124,345.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">variables </textline>
+<textline bbox="121.220,286.630,349.484,310.630" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">analytical parameters </textline>
+<textline bbox="67.224,240.777,348.105,272.841" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">Defensible process: </textline>
+<textline bbox="121.220,205.970,319.964,229.970" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">public participation </textline>
+<textline bbox="121.220,171.410,294.482,195.410" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">decision-making </textline>
+<textline bbox="121.220,136.845,448.154,160.869" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">increasingly GIS-savvy  public  </textline>
+<textline bbox="121.220,108.020,445.508,132.020" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">requires consumer information </textline>
+</textbox>
+<textbox id="4" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="5" bbox="556.510,392.754,621.670,410.754" size="18.0">INPUT <textline bbox="556.510,392.754,621.670,410.754" font="BCDJEE+Verdana-Bold" ncolour="(0.2, 0.2, 0.6)" size="18.000" colourspace="DeviceGray">INPUT </textline>
+</textbox>
+<textbox id="6" bbox="546.670,87.450,637.030,105.450" size="18.0">RESULTS <textline bbox="546.670,87.450,637.030,105.450" font="BCDJEE+Verdana-Bold" ncolour="(0.2, 0.2, 0.6)" size="18.000" colourspace="DeviceGray">RESULTS </textline>
+</textbox>
+<textbox id="7" bbox="661.200,28.036,676.806,42.076" size="14.04">15 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">15 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.13.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,360.720,110.160,377.520" src="Image19.37.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,326.160,110.160,342.960" src="Image19.38.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,291.600,110.160,308.400" src="Image19.39.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,210.960,110.160,227.760" src="Image19.40.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,176.400,110.160,193.200" src="Image19.41.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,141.840,110.160,158.640" src="Image19.42.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="234.770,467.372,712.513,499.412" size="32.04">Management: Data Accountability <textline bbox="234.770,467.372,712.513,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Management: Data Accountability </textline>
+</textbox>
+<textbox id="2" bbox="67.224,344.462,395.794,422.612" size="32.04">Return on Investment 
+Catalog assessment: <textline bbox="67.224,390.572,395.794,422.612" font="Arial-BoldMT" ncolour="0" size="32.040" colourspace="DeviceGray">Return on Investment </textline>
+<textline bbox="67.224,344.462,366.125,376.502" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Catalog assessment: </textline>
+</textbox>
+<textbox id="3" bbox="121.220,240.545,581.760,333.670" size="24.008"># times data occurs, in-house, as source 
+# times data occurs, external, as source 
+significance of source contribution methods <textline bbox="121.220,309.670,552.166,333.670" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray"># times data occurs, in-house, as source </textline>
+<textline bbox="121.220,275.110,545.228,299.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray"># times data occurs, external, as source </textline>
+<textline bbox="121.220,240.545,581.760,264.569" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">significance of source contribution methods </textline>
+</textbox>
+<textbox id="4" bbox="67.224,163.002,410.404,195.042" size="32.04">To facilitate assessment <textline bbox="67.224,163.002,410.404,195.042" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">To facilitate assessment </textline>
+</textbox>
+<textbox id="5" bbox="121.220,64.824,704.228,152.229" size="24.008">use standardized tilting schemes 
+indicate preferred data set citation w/in Use Constraint  
+Statement <textline bbox="121.220,128.205,469.568,152.229" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">use standardized tilting schemes </textline>
+<textline bbox="121.220,93.624,704.228,117.624" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">indicate preferred data set citation w/in Use Constraint  </textline>
+<textline bbox="121.220,64.824,230.612,88.824" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Statement </textline>
+</textbox>
+<textbox id="6" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="7" bbox="661.200,28.036,676.806,42.076" size="14.04">16 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">16 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.14.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,314.640,110.160,331.440" src="Image19.43.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,280.080,110.160,296.880" src="Image19.44.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,245.520,110.160,262.320" src="Image19.45.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,133.200,110.160,150.000" src="Image19.46.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,98.640,110.160,115.440" src="Image19.47.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="325.630,467.372,712.658,499.412" size="32.04">Management: Data Liability <textline bbox="325.630,467.372,712.658,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Management: Data Liability </textline>
+</textbox>
+<textbox id="2" bbox="67.224,390.572,468.621,422.612" size="32.04">Metadata is a declaration of: <textline bbox="67.224,390.572,468.621,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Metadata is a declaration of: </textline>
+</textbox>
+<textbox id="3" bbox="94.224,355.750,183.528,379.750" size="24.0">Purpose <textline bbox="94.224,355.750,183.528,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Purpose </textline>
+</textbox>
+<textbox id="4" bbox="121.220,292.390,532.556,345.190" size="24.0">the originator&#8217;s intended application of  
+the data <textline bbox="121.220,321.190,532.556,345.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">the originator&#8217;s intended application of  </textline>
+<textline bbox="121.220,292.390,207.860,316.390" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">the data </textline>
+</textbox>
+<textbox id="5" bbox="563.180,358.000,668.048,376.000" size="18.0">What to do&#8230; <textline bbox="563.180,358.000,668.048,376.000" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">What to do&#8230; </textline>
+</textbox>
+<textbox id="6" bbox="563.180,303.970,660.239,343.619" size="18.012">What not to  
+do&#8230; <textline bbox="563.180,325.595,660.239,343.619" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">What not to  </textline>
+<textline bbox="563.180,303.970,601.100,321.970" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">do&#8230; </textline>
+</textbox>
+<textbox id="7" bbox="121.220,223.250,515.108,247.250" size="24.0">inappropriate applications of the data <textline bbox="121.220,223.250,515.108,247.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">inappropriate applications of the data </textline>
+</textbox>
+<textbox id="8" bbox="94.224,257.825,264.842,281.849" size="24.024">Use Constraints <textline bbox="94.224,257.825,264.842,281.849" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Use Constraints </textline>
+</textbox>
+<textbox id="9" bbox="94.224,188.690,247.536,212.690" size="24.0">Completeness <textline bbox="94.224,188.690,247.536,212.690" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Completeness </textline>
+</textbox>
+<textbox id="10" bbox="94.224,119.565,300.878,143.589" size="24.024">Distribution Liability <textline bbox="94.224,119.565,300.878,143.589" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Distribution Liability </textline>
+</textbox>
+<textbox id="11" bbox="121.220,154.130,625.700,178.130" size="24.0">features or geographies excluded from the data <textline bbox="121.220,154.130,625.700,178.130" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">features or geographies excluded from the data </textline>
+</textbox>
+<textbox id="12" bbox="121.220,56.184,652.340,108.984" size="24.0">explicit liability of the data producer and assumed  
+liability of the consumer <textline bbox="121.220,84.984,652.340,108.984" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">explicit liability of the data producer and assumed  </textline>
+<textline bbox="121.220,56.184,372.044,80.184" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">liability of the consumer </textline>
+</textbox>
+<textbox id="13" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="14" bbox="661.200,28.036,676.806,42.076" size="14.04">17 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">17 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.15.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,326.160,110.160,342.960" src="Image19.48.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,228.240,110.160,245.040" src="Image19.49.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,159.120,110.160,175.920" src="Image19.50.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,90.000,110.160,106.800" src="Image19.51.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="226.130,467.372,712.882,499.412" size="32.04">Project Management via Metadata <textline bbox="226.130,467.372,712.882,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Project Management via Metadata </textline>
+</textbox>
+<textbox id="2" bbox="136.610,92.791,248.755,132.400" size="18.012">Project  
+Coordination <textline bbox="136.610,114.400,202.562,132.400" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Project  </textline>
+<textline bbox="136.610,92.791,248.755,110.815" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="DeviceGray">Coordination </textline>
+</textbox>
+<textbox id="3" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="4" bbox="661.200,28.036,676.806,42.076" size="14.04">18 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">18 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.16.350x238.bmp" width="108" height="73">
+</figure>
+</page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="167.620,467.372,712.973,499.412" size="32.04">Project Management: Project Planning <textline bbox="167.620,467.372,712.973,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Project Management: Project Planning </textline>
+</textbox>
+<textbox id="2" bbox="67.224,252.065,465.500,422.612" size="25.6128">Project design document 
+descriptions &amp; intent 
+geographic  and temporal extent 
+source data 
+attributes requirements <textline bbox="67.224,390.572,419.055,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Project design document </textline>
+<textline bbox="121.220,355.750,337.388,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">descriptions &amp; intent </textline>
+<textline bbox="121.220,321.190,465.500,345.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">geographic  and temporal extent </textline>
+<textline bbox="121.220,286.630,246.620,310.630" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">source data </textline>
+<textline bbox="121.220,252.065,366.625,276.089" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">attributes requirements </textline>
+</textbox>
+<textbox id="3" bbox="67.224,214.662,168.624,240.702" size="26.04">Benefits: <textline bbox="67.224,214.662,168.624,240.702" font="ArialMT" ncolour="0" size="26.040" colourspace="DeviceGray">Benefits: </textline>
+</textbox>
+<textbox id="4" bbox="121.220,110.900,534.788,204.050" size="24.0">expectation are clearly outlined 
+metadata is integrated into the process 
+provide medium to record progress <textline bbox="121.220,180.050,452.084,204.050" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">expectation are clearly outlined </textline>
+<textline bbox="121.220,145.490,534.788,169.490" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">metadata is integrated into the process </textline>
+<textline bbox="121.220,110.900,493.508,134.900" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">provide medium to record progress </textline>
+</textbox>
+<textbox id="5" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="6" bbox="661.200,28.036,676.806,42.076" size="14.04">19 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">19 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.17.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,360.720,110.160,377.520" src="Image19.52.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,326.160,110.160,342.960" src="Image19.53.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,291.600,110.160,308.400" src="Image19.54.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,257.040,110.160,273.840" src="Image19.55.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,185.040,110.160,201.840" src="Image19.56.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,150.480,110.160,167.280" src="Image19.57.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,115.920,110.160,132.720" src="Image19.58.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="409.030,433.912,721.750,504.391" size="32.052">Project Management:  
+Project Monitoring <textline bbox="409.030,472.327,721.750,504.391" font="ArialMT" ncolour="1" size="32.064" colourspace="DeviceGray">Project Management:  </textline>
+<textline bbox="455.230,433.912,712.800,465.952" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Project Monitoring </textline>
+</textbox>
+<textbox id="2" bbox="67.224,390.572,173.821,422.612" size="32.04">Monitor <textline bbox="67.224,390.572,173.821,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Monitor </textline>
+</textbox>
+<textbox id="3" bbox="121.220,286.630,382.916,379.750" size="24.0">data development status 
+QA/QC assessments 
+needed changes <textline bbox="121.220,355.750,382.916,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">data development status </textline>
+<textline bbox="121.220,321.190,345.116,345.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">QA/QC assessments </textline>
+<textline bbox="121.220,286.630,298.700,310.630" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">needed changes </textline>
+</textbox>
+<textbox id="4" bbox="399.934,293.008,417.934,331.888" size="9.756">s 
+e 
+n 
+o <textline bbox="399.934,322.888,417.934,331.888" font="Arial-ItalicMT" ncolour="0" size="9.000" colourspace="DeviceGray">s </textline>
+<textline bbox="399.934,312.970,417.934,322.978" font="Arial-ItalicMT" ncolour="0" size="10.008" colourspace="DeviceGray">e </textline>
+<textline bbox="399.934,302.962,417.934,312.970" font="Arial-ItalicMT" ncolour="0" size="10.008" colourspace="DeviceGray">n </textline>
+<textline bbox="399.934,293.008,417.934,303.016" font="Arial-ItalicMT" ncolour="0" size="10.008" colourspace="DeviceGray">o </textline>
+</textbox>
+<textbox id="5" bbox="399.934,268.996,417.934,293.008" size="8.004">t 
+s 
+e <textline bbox="399.934,288.004,417.934,293.008" font="Arial-ItalicMT" ncolour="0" size="5.004" colourspace="DeviceGray">t </textline>
+<textline bbox="399.934,279.004,417.934,288.004" font="Arial-ItalicMT" ncolour="0" size="9.000" colourspace="DeviceGray">s </textline>
+<textline bbox="399.934,268.996,417.934,279.004" font="Arial-ItalicMT" ncolour="0" size="10.008" colourspace="DeviceGray">e </textline>
+</textbox>
+<textbox id="6" bbox="399.934,261.076,417.934,269.068" size="3.996">l 
+i <textline bbox="399.934,265.072,417.934,269.068" font="Arial-ItalicMT" ncolour="0" size="3.996" colourspace="DeviceGray">l </textline>
+<textline bbox="399.934,261.076,417.934,265.072" font="Arial-ItalicMT" ncolour="0" size="3.996" colourspace="DeviceGray">i </textline>
+</textbox>
+<textbox id="7" bbox="399.934,246.190,417.934,261.184" size="14.994">m <textline bbox="399.934,246.190,417.934,261.184" font="Arial-ItalicMT" ncolour="0" size="14.994" colourspace="DeviceGray">m </textline>
+</textbox>
+<textbox id="8" bbox="532.440,178.396,566.334,196.396" size="18.0">time <textline bbox="532.440,178.396,566.334,196.396" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">time </textline>
+</textbox>
+<textbox id="9" bbox="234.050,74.608,720.079,136.164" size="27.96">Requires that the metadata be actively  
+maintained and reviewed <textline bbox="234.050,108.204,720.079,136.164" font="Arial-ItalicMT" ncolour="0" size="27.960" colourspace="DeviceGray">Requires that the metadata be actively  </textline>
+<textline bbox="400.750,74.608,712.392,102.568" font="Arial-ItalicMT" ncolour="0" size="27.960" colourspace="DeviceGray">maintained and reviewed </textline>
+</textbox>
+<textbox id="10" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="11" bbox="661.200,28.036,676.806,42.076" size="14.04">20 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">20 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.18.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,360.720,110.160,377.520" src="Image19.59.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,326.160,110.160,342.960" src="Image19.60.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,291.600,110.160,308.400" src="Image19.61.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="427.920,437.150,721.470,503.150" size="30.0">Project Management:  
+Project Coordination <textline bbox="427.920,473.150,721.470,503.150" font="ArialMT" ncolour="1" size="30.000" colourspace="DeviceGray">Project Management:  </textline>
+<textline bbox="441.260,437.150,712.940,467.150" font="ArialMT" ncolour="1" size="30.000" colourspace="DeviceGray">Project Coordination </textline>
+</textbox>
+<textbox id="2" bbox="63.104,323.230,83.144,328.801" size="5.571">t <textline bbox="63.104,323.230,83.144,328.801" font="ArialMT" ncolour="0" size="5.571" colourspace="DeviceGray">t </textline>
+</textbox>
+<textbox id="3" bbox="67.224,217.490,476.180,422.612" size="25.343999999999998">Common reference for: 
+descriptions &amp; parameters 
+keywords, vocabularies,  thesauri 
+contact information 
+attributes 
+distribution information <textline bbox="67.224,390.572,395.762,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Common reference for: </textline>
+<textline bbox="121.220,355.750,400.172,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">descriptions &amp; parameters </textline>
+<textline bbox="121.220,321.190,476.180,345.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">keywords, vocabularies,  thesauri </textline>
+<textline bbox="121.220,286.630,323.948,310.630" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">contact information </textline>
+<textline bbox="121.220,252.065,220.007,276.089" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">attributes </textline>
+<textline bbox="121.220,217.490,362.708,241.490" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">distribution information </textline>
+</textbox>
+<textbox id="4" bbox="63.104,268.661,83.144,339.863" size="12.252199999999998">e 
+a 
+p 
+m 
+e <textline bbox="63.104,328.721,83.144,339.863" font="ArialMT" ncolour="0" size="11.142" colourspace="DeviceGray">e </textline>
+<textline bbox="63.104,312.088,83.144,323.230" font="ArialMT" ncolour="0" size="11.142" colourspace="DeviceGray">a </textline>
+<textline bbox="63.104,296.497,83.144,307.639" font="ArialMT" ncolour="0" size="11.142" colourspace="DeviceGray">p </textline>
+<textline bbox="63.104,279.803,83.144,296.497" font="ArialMT" ncolour="0" size="16.693" colourspace="DeviceGray">m </textline>
+<textline bbox="63.104,268.661,83.144,279.803" font="ArialMT" ncolour="0" size="11.142" colourspace="DeviceGray">e </textline>
+</textbox>
+<textbox id="5" bbox="63.104,263.090,83.144,268.661" size="5.571">t <textline bbox="63.104,263.090,83.144,268.661" font="ArialMT" ncolour="0" size="5.571" colourspace="DeviceGray">t </textline>
+</textbox>
+<textbox id="6" bbox="63.104,307.639,83.144,312.088" size="4.449">l <textline bbox="63.104,307.639,83.144,312.088" font="ArialMT" ncolour="0" size="4.449" colourspace="DeviceGray">l </textline>
+</textbox>
+<textbox id="7" bbox="67.224,180.102,637.240,206.142" size="26.04">If reviewed regularly by all participants, improved  <textline bbox="67.224,180.102,637.240,206.142" font="ArialMT" ncolour="0" size="26.040" colourspace="DeviceGray">If reviewed regularly by all participants, improved  </textline>
+</textbox>
+<textbox id="8" bbox="85.224,148.902,408.146,174.942" size="26.04">opportunity for coordinating: <textline bbox="85.224,148.902,408.146,174.942" font="ArialMT" ncolour="0" size="26.040" colourspace="DeviceGray">opportunity for coordinating: </textline>
+</textbox>
+<textbox id="9" bbox="121.220,45.144,320.132,138.260" size="24.0">source data 
+analytical methods 
+new information <textline bbox="121.220,114.260,246.620,138.260" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">source data </textline>
+<textline bbox="121.220,79.704,320.132,103.704" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">analytical methods </textline>
+<textline bbox="121.220,45.144,290.612,69.144" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">new information </textline>
+</textbox>
+<textbox id="10" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="11" bbox="661.200,28.036,676.806,42.076" size="14.04">21 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">21 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.19.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,360.720,110.160,377.520" src="Image19.62.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,326.160,110.160,342.960" src="Image19.63.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,291.600,110.160,308.400" src="Image19.64.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,257.040,110.160,273.840" src="Image19.65.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,222.480,110.160,239.280" src="Image19.66.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,119.280,110.160,136.080" src="Image19.67.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,84.720,110.160,101.520" src="Image19.68.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,50.160,110.160,66.960" src="Image19.69.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="426.220,438.010,721.204,504.059" size="30.012">Project Management:  
+Contract Deliverables <textline bbox="427.900,474.035,721.204,504.059" font="ArialMT" ncolour="1" size="30.024" colourspace="DeviceGray">Project Management:  </textline>
+<textline bbox="426.220,438.010,712.750,468.010" font="ArialMT" ncolour="1" size="30.000" colourspace="DeviceGray">Contract Deliverables </textline>
+</textbox>
+<textbox id="2" bbox="67.224,390.572,676.465,422.612" size="32.04">As a key component of the data, metadata  <textline bbox="67.224,390.572,676.465,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">As a key component of the data, metadata  </textline>
+</textbox>
+<textbox id="3" bbox="85.224,352.142,618.145,384.182" size="32.04">should be part of any data deliverable <textline bbox="85.224,352.142,618.145,384.182" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">should be part of any data deliverable </textline>
+</textbox>
+<textbox id="4" bbox="67.224,311.718,498.703,339.678" size="27.96">For best quality metadata, provide: <textline bbox="67.224,311.718,498.703,339.678" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">For best quality metadata, provide: </textline>
+</textbox>
+<textbox id="5" bbox="121.220,207.890,531.092,301.030" size="24.008">classification and/or validation schema 
+metadata content template 
+metadata specification manual <textline bbox="121.220,277.030,531.092,301.030" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">classification and/or validation schema </textline>
+<textline bbox="121.220,242.465,405.424,266.489" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">metadata content template </textline>
+<textline bbox="121.220,207.890,445.484,231.890" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">metadata specification manual </textline>
+</textbox>
+<textbox id="6" bbox="151.340,92.848,712.134,120.808" size="27.96">Provide a sample metadata record if possible <textline bbox="151.340,92.848,712.134,120.808" font="Arial-ItalicMT" ncolour="0" size="27.960" colourspace="DeviceGray">Provide a sample metadata record if possible </textline>
+</textbox>
+<textbox id="7" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="8" bbox="661.200,28.036,676.806,42.076" size="14.04">22 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">22 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.20.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,282.000,110.160,298.800" src="Image19.70.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,247.440,110.160,264.240" src="Image19.71.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,212.880,110.160,229.680" src="Image19.72.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="23" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="538.420,467.372,712.814,499.412" size="32.04">Conclusions <textline bbox="538.420,467.372,712.814,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Conclusions </textline>
+</textbox>
+<textbox id="2" bbox="67.224,350.118,658.618,422.612" size="30.0">Metadata is simply information about data 
+Information that you need <textline bbox="67.224,390.572,658.618,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Metadata is simply information about data </textline>
+<textline bbox="67.224,350.118,384.961,378.078" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">Information that you need </textline>
+</textbox>
+<textbox id="3" bbox="85.224,212.690,248.678,344.478" size="24.996000000000002">to effectively: 
+locate 
+manage 
+utilize <textline bbox="85.224,316.518,248.678,344.478" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">to effectively: </textline>
+<textline bbox="121.220,281.830,185.180,305.830" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">locate </textline>
+<textline bbox="121.220,247.265,207.947,271.289" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">manage </textline>
+<textline bbox="121.220,212.690,182.444,236.690" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">utilize </textline>
+</textbox>
+<textbox id="4" bbox="94.224,172.498,549.301,200.458" size="27.96">internal and external data resources. <textline bbox="94.224,172.498,549.301,200.458" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">internal and external data resources. </textline>
+</textbox>
+<textbox id="5" bbox="108.020,58.288,719.981,119.848" size="27.96">Creation of robust metadata is in your OWN best  
+interest! <textline bbox="108.020,91.888,719.981,119.848" font="Arial-ItalicMT" ncolour="0" size="27.960" colourspace="DeviceGray">Creation of robust metadata is in your OWN best  </textline>
+<textline bbox="612.960,58.288,712.665,86.248" font="Arial-ItalicMT" ncolour="0" size="27.960" colourspace="DeviceGray">interest! </textline>
+</textbox>
+<textbox id="6" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="7" bbox="661.200,28.036,676.806,42.076" size="14.04">23 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">23 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.21.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,286.800,110.160,303.600" src="Image19.73.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,252.240,110.160,269.040" src="Image19.74.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,217.680,110.160,234.480" src="Image19.75.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="24" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="575.860,467.372,712.831,499.412" size="32.04">Summary <textline bbox="575.860,467.372,712.831,499.412" font="ArialMT" ncolour="1" size="32.040" colourspace="DeviceGray">Summary </textline>
+</textbox>
+<textbox id="2" bbox="67.224,344.462,694.311,422.612" size="32.04">This is the conclusion of: Value of Metadata. 
+You should be able to: <textline bbox="67.224,390.572,694.311,422.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">This is the conclusion of: Value of Metadata. </textline>
+<textline bbox="67.224,344.462,385.221,376.502" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">You should be able to: </textline>
+</textbox>
+<textbox id="3" bbox="121.220,177.170,709.988,333.670" size="24.0048">explain the geospatial data distribution role of metadata 
+explain the geospatial data management role of  
+metadata 
+explain the geospatial project  role of metadata 
+make the business case for metadata implementation <textline bbox="121.220,309.670,709.988,333.670" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">explain the geospatial data distribution role of metadata </textline>
+<textline bbox="121.220,275.110,633.908,299.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">explain the geospatial data management role of  </textline>
+<textline bbox="121.220,246.305,221.304,270.329" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">metadata </textline>
+<textline bbox="121.220,211.730,619.172,235.730" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">explain the geospatial project  role of metadata </textline>
+<textline bbox="121.220,177.170,689.348,201.170" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">make the business case for metadata implementation </textline>
+</textbox>
+<textbox id="4" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="5" bbox="661.200,28.036,676.806,42.076" size="14.04">24 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">24 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.22.350x238.bmp" width="108" height="73">
+</figure>
+<figure name="Image19" bbox="94.200,314.640,110.160,331.440" src="Image19.76.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,280.080,110.160,296.880" src="Image19.77.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,216.720,110.160,233.520" src="Image19.78.15x15.bmp" width="15" height="16">
+</figure>
+<figure name="Image19" bbox="94.200,182.160,110.160,198.960" src="Image19.79.15x15.bmp" width="15" height="16">
+</figure>
+</page>
+<page id="25" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,509.136,430.496,527.136" size="18.0">Intro to Metadata: Value of Metadata <textline bbox="139.220,509.136,430.496,527.136" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Intro to Metadata: Value of Metadata </textline>
+</textbox>
+<textbox id="1" bbox="530.380,462.178,712.567,490.138" size="27.96">Other Lessons <textline bbox="530.380,462.178,712.567,490.138" font="ArialMT" ncolour="1" size="27.960" colourspace="DeviceGray">Other Lessons </textline>
+</textbox>
+<textbox id="2" bbox="82.464,386.462,276.972,406.502" size="20.04">Geospatial Metadata <textline bbox="82.464,386.462,276.972,406.502" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Geospatial Metadata </textline>
+</textbox>
+<textbox id="3" bbox="82.464,328.998,311.121,356.958" size="27.96">What is Metadata <textline bbox="82.464,328.998,311.121,356.958" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">What is Metadata </textline>
+</textbox>
+<textbox id="4" bbox="82.464,234.898,668.170,296.458" size="27.96">North American Profile Development of ISO  
+19115 <textline bbox="82.464,268.498,668.170,296.458" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">North American Profile Development of ISO  </textline>
+<textline bbox="82.464,234.898,158.767,262.858" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">19115 </textline>
+</textbox>
+<textbox id="5" bbox="207.580,63.571,571.732,116.376" size="24.012">More metadata lessons coming  
+soon. <textline bbox="207.580,92.376,571.732,116.376" font="Arial-BoldMT" ncolour="(0.49, 0.49, 1)" size="24.000" colourspace="DeviceGray">More metadata lessons coming  </textline>
+<textline bbox="354.360,63.571,418.283,87.595" font="Arial-BoldMT" ncolour="(0.49, 0.49, 1)" size="24.024" colourspace="DeviceGray">soon. </textline>
+</textbox>
+<textbox id="6" bbox="7.200,13.689,370.302,27.729" size="14.04">national spatial data infrastructure training program <textline bbox="7.200,13.689,370.302,27.729" font="BCDEEE+BookmanOldStyle" ncolour="0" size="14.040" colourspace="DeviceGray">national spatial data infrastructure training program </textline>
+</textbox>
+<textbox id="7" bbox="661.200,28.036,676.806,42.076" size="14.04">25 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">25 </textline>
+</textbox>
+<figure name="Image11" bbox="9.720,457.440,118.080,531.120" src="Image11.23.350x238.bmp" width="108" height="73">
+</figure>
+</page>
+</pages>

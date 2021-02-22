@@ -1,0 +1,820 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="76.752,317.838,648.819,501.828" size="39.966" unique_id="0">New Guidelines for Data  
+Result Suppression of Small  
+Cell Numbers in IBIS-Query  
+Output <textline bbox="112.990,461.868,612.730,501.828" font="BCDEEE+Tahoma-Bold" ncolour="0" size="39.960" colourspace="Pattern">New Guidelines for Data  </textline>
+<textline bbox="76.752,413.868,648.819,453.828" font="BCDEEE+Tahoma-Bold" ncolour="0" size="39.960" colourspace="Pattern">Result Suppression of Small  </textline>
+<textline bbox="77.832,365.863,647.967,405.847" font="BCDEEE+Tahoma-Bold" ncolour="0" size="39.984" colourspace="Pattern">Cell Numbers in IBIS-Query  </textline>
+<textline bbox="274.300,317.838,414.600,357.798" font="BCDEEE+Tahoma-Bold" ncolour="0" size="39.960" colourspace="Pattern">Output </textline>
+</title>
+<normal_text id="1" bbox="137.210,54.183,622.520,224.489" size="32.04" unique_id="1">Public Health Informatics Brown Bag 
+July 22, 2009 
+Kathryn Marti, Director 
+Office of Public Health Assessment <textline bbox="137.210,192.449,622.520,224.489" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="Pattern">Public Health Informatics Brown Bag </textline>
+<textline bbox="293.230,146.369,466.630,178.409" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="Pattern">July 22, 2009 </textline>
+<textline bbox="226.490,100.259,533.337,132.299" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="Pattern">Kathryn Marti, Director </textline>
+<textline bbox="151.610,54.183,608.180,86.223" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="Pattern">Office of Public Health Assessment </textline>
+</normal_text>
+<picture name="Image8" bbox="0.000,198.480,93.000,536.040" src="Image8.93x600.bmp" width="93" height="337" unique_id="2">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.93x360.bmp" width="93" height="202" unique_id="3">
+</picture>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[317.88, 439.387, 450.0, 483.427]">
+<title id="0" bbox="317.880,439.387,450.000,483.427" size="44.04" unique_id="0">Outline <textline bbox="317.880,439.387,450.000,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Outline </textline>
+</title>
+<enlisting id="1" bbox="91.224,83.943,371.688,392.558" size="32.04685714285714" unique_id="1">&#8226; Introduction 
+&#8226; Background 
+&#8226; Work Group 
+&#8226; Important Concepts 
+&#8226; Methodology 
+&#8226; The Guidelines 
+&#8226; Next steps <textline bbox="91.224,360.494,276.680,392.558" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Introduction </textline>
+<textline bbox="91.224,314.389,275.088,346.429" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Background </textline>
+<textline bbox="91.224,268.309,278.452,300.349" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Work Group </textline>
+<textline bbox="91.224,222.209,371.688,254.249" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Important Concepts </textline>
+<textline bbox="91.224,176.129,291.044,208.169" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Methodology </textline>
+<textline bbox="91.224,130.044,314.965,162.108" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; The Guidelines </textline>
+<textline bbox="91.224,83.943,252.532,115.983" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Next steps </textline>
+</enlisting>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.93x568.bmp" width="93" height="319" unique_id="2">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.0.93x360.bmp" width="93" height="202" unique_id="3">
+</picture>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[289.3066666666667, 439.387, 478.59066666666666, 483.42699999999996]">
+<title id="0" bbox="275.020,439.387,492.886,483.427" size="44.04" unique_id="0">Introduction <textline bbox="275.020,439.387,492.886,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Introduction </textline>
+</title>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.0.93x568.bmp" width="93" height="319" unique_id="5">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.1.93x360.bmp" width="93" height="202" unique_id="6">
+</picture>
+<enlisting bbox="91.224,95.021,570.066,396.398" unique_id="['1', '2', '3', '4']">&#8226; Why not report data? &#8211; Protect privacy 
+&#8211; Ensure reliable data &#8226; Why make data publicly available? 
+&#8226; What reports? &#8211; Published reports  
+&#8211; Online static tables 
+&#8211; Web-based data query system output <normal_text id="1" bbox="91.224,364.334,389.417,396.398" size="32.064" unique_id="1">&#8226; Why not report data? <textline bbox="91.224,364.334,389.417,396.398" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Why not report data? </textline>
+</normal_text>
+<normal_text id="2" bbox="127.220,290.431,371.922,355.351" size="27.96" unique_id="2">&#8211; Protect privacy 
+&#8211; Ensure reliable data <textline bbox="127.220,327.391,319.889,355.351" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Protect privacy </textline>
+<textline bbox="127.220,290.431,371.922,318.391" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Ensure reliable data </textline>
+</normal_text>
+<normal_text id="3" bbox="91.224,205.889,570.066,280.208" size="32.052" unique_id="3">&#8226; Why make data publicly available? 
+&#8226; What reports? <textline bbox="91.224,248.144,570.066,280.208" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Why make data publicly available? </textline>
+<textline bbox="91.224,205.889,298.862,237.929" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; What reports? </textline>
+</normal_text>
+<normal_text id="4" bbox="127.220,95.021,560.700,196.931" size="27.968" unique_id="4">&#8211; Published reports  
+&#8211; Online static tables 
+&#8211; Web-based data query system output <textline bbox="127.220,168.971,351.875,196.931" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Published reports  </textline>
+<textline bbox="127.220,132.005,364.053,159.989" font="TimesNewRomanPSMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8211; Online static tables </textline>
+<textline bbox="127.220,95.021,560.700,122.981" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Web-based data query system output </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[282.8233333333333, 439.387, 485.16533333333336, 483.42699999999996]">
+<title id="0" bbox="276.340,439.387,491.740,483.427" size="44.04" unique_id="0">Background <textline bbox="276.340,439.387,491.740,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Background </textline>
+</title>
+<enlisting id="1" bbox="91.224,83.943,615.128,392.558" size="32.04685714285714" unique_id="1">&#8226; Current IBIS-Q suppression rules 
+&#8226; Enhancements to IBIS-Q BRFSS  
+&#8226; Increased likelihood of small cell sizes 
+&#8226; Grew to department-wide effort 
+&#8226; Develop UDOH-wide policy 
+&#8226; HIPAA and more 
+&#8226; Sensitivity for vulnerable populations <textline bbox="91.224,360.494,547.602,392.558" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Current IBIS-Q suppression rules </textline>
+<textline bbox="91.224,314.389,552.087,346.429" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Enhancements to IBIS-Q BRFSS  </textline>
+<textline bbox="91.224,268.309,615.128,300.349" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Increased likelihood of small cell sizes </textline>
+<textline bbox="91.224,222.209,525.733,254.249" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Grew to department-wide effort </textline>
+<textline bbox="91.224,176.129,488.378,208.169" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Develop UDOH-wide policy </textline>
+<textline bbox="91.224,130.044,339.301,162.108" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; HIPAA and more </textline>
+<textline bbox="91.224,83.943,601.127,115.983" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Sensitivity for vulnerable populations </textline>
+</enlisting>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.1.93x568.bmp" width="93" height="319" unique_id="2">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.2.93x360.bmp" width="93" height="202" unique_id="3">
+</picture>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[227.898, 428.82700000000006, 544.4356, 493.98699999999997]">
+<title id="0" bbox="145.510,412.987,633.341,509.827" size="44.04" unique_id="0">Data Suppression Decision  
+Rules Work Group <textline bbox="145.510,465.787,633.341,509.827" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Data Suppression Decision  </textline>
+<textline bbox="218.620,412.987,549.184,457.027" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Rules Work Group </textline>
+</title>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.2.93x568.bmp" width="93" height="319" unique_id="3">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.3.93x360.bmp" width="93" height="202" unique_id="4">
+</picture>
+<enlisting bbox="91.224,101.261,619.806,392.558" unique_id="['1', '2']">&#8226; Charter 
+&#8226; Provide guidelines to UDOH programs 
+&#8226; Program into IBIS-Q 
+&#8226; Work Group Products: &#8211; Decision Rules 
+&#8211; Decision Tree 
+&#8211; Justification of the rules <normal_text id="1" bbox="91.224,222.209,619.806,392.558" size="32.046" unique_id="1">&#8226; Charter 
+&#8226; Provide guidelines to UDOH programs 
+&#8226; Program into IBIS-Q 
+&#8226; Work Group Products: <textline bbox="91.224,360.494,214.380,392.558" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Charter </textline>
+<textline bbox="91.224,314.389,619.806,346.429" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Provide guidelines to UDOH programs </textline>
+<textline bbox="91.224,268.309,388.483,300.349" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Program into IBIS-Q </textline>
+<textline bbox="91.224,222.209,407.381,254.249" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Work Group Products: </textline>
+</normal_text>
+<normal_text id="2" bbox="127.220,101.261,419.286,209.891" size="27.968" unique_id="2">&#8211; Decision Rules 
+&#8211; Decision Tree 
+&#8211; Justification of the rules <textline bbox="127.220,181.931,319.721,209.891" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Decision Rules </textline>
+<textline bbox="127.220,141.605,305.847,169.589" font="TimesNewRomanPSMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8211; Decision Tree </textline>
+<textline bbox="127.220,101.261,419.286,129.221" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Justification of the rules </textline>
+</normal_text>
+</enlisting></page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[219.92533333333333, 432.347, 547.1427333333334, 490.467]">
+<title id="0" bbox="203.980,439.387,552.557,483.427" size="44.04" unique_id="0">Important Concepts <textline bbox="203.980,439.387,552.557,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Important Concepts </textline>
+</title>
+<enlisting id="1" bbox="91.224,222.209,476.972,392.558" size="32.046" unique_id="1">&#8226; Confidence Interval 
+&#8226; Coefficient of Variation 
+&#8226; Power to detect a difference 
+&#8226; Context/Use of the estimate <textline bbox="91.224,360.494,373.610,392.558" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Confidence Interval </textline>
+<textline bbox="91.224,314.389,421.190,346.429" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Coefficient of Variation </textline>
+<textline bbox="91.224,268.309,476.972,300.349" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Power to detect a difference </textline>
+<textline bbox="91.224,222.209,474.857,254.249" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Context/Use of the estimate </textline>
+</enlisting>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.3.93x568.bmp" width="93" height="319" unique_id="2">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.4.93x360.bmp" width="93" height="202" unique_id="3">
+</picture>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[207.30380952380952, 434.3584285714286, 560.1148095238095, 488.4555714285714]">
+<title id="0" bbox="175.750,439.387,592.545,483.427" size="44.04" unique_id="0">Coefficient of Variation <textline bbox="175.750,439.387,592.545,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Coefficient of Variation </textline>
+</title>
+<normal_text id="1" bbox="216.530,319.189,551.412,351.229" size="32.04" unique_id="1">CV=[100 x (SE(R)/R)]% <textline bbox="216.530,319.189,551.412,351.229" font="TimesNewRomanPS-BoldMT" ncolour="0" size="32.040" colourspace="DeviceGray">CV=[100 x (SE(R)/R)]% </textline>
+</normal_text>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.4.93x568.bmp" width="93" height="319" unique_id="5">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.5.93x360.bmp" width="93" height="202" unique_id="6">
+</picture>
+<enlisting bbox="91.224,83.025,525.596,260.771" unique_id="['2', '3', '4']">&#8226; Where: &#8211; SE = the standard error of the estimate  
+&#8211; R = the estimated rate &#8226; Unitless measure 
+&#8226; Usually expressed as a percentage <normal_text id="2" bbox="91.224,232.811,200.506,260.771" size="27.96" unique_id="2">&#8226; Where: <textline bbox="91.224,232.811,200.506,260.771" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Where: </textline>
+</normal_text>
+<normal_text id="3" bbox="127.220,163.586,525.596,222.146" size="24.0" unique_id="3">&#8211; SE = the standard error of the estimate  
+&#8211; R = the estimated rate <textline bbox="127.220,198.146,525.596,222.146" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; SE = the standard error of the estimate  </textline>
+<textline bbox="127.220,163.586,360.284,187.586" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; R = the estimated rate </textline>
+</normal_text>
+<normal_text id="4" bbox="91.224,83.025,500.154,151.349" size="27.972" unique_id="4">&#8226; Unitless measure 
+&#8226; Usually expressed as a percentage <textline bbox="91.224,123.365,309.882,151.349" font="TimesNewRomanPSMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Unitless measure </textline>
+<textline bbox="91.224,83.025,500.154,110.985" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Usually expressed as a percentage </textline>
+</normal_text>
+</enlisting></page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[183.09535714285715, 435.61557142857146, 584.4478571428572, 487.1984285714285]">
+<title id="0" bbox="110.470,439.387,657.447,483.427" size="44.04" unique_id="0">Coefficient of Variation (cont&#8217;) <textline bbox="110.470,439.387,657.447,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Coefficient of Variation (cont&#8217;) </textline>
+</title>
+<enlisting id="1" bbox="91.224,245.264,661.480,392.558" size="32.052" unique_id="1">&#8226; If the estimated percentage is greater than  
+50%, the CV is calculated by dividing the  
+standard error of the estimate (SE(R)) by  
+one minus the estimate (1-R).  <textline bbox="91.224,360.494,661.480,392.558" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; If the estimated percentage is greater than  </textline>
+<textline bbox="118.220,322.069,660.817,354.109" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">50%, the CV is calculated by dividing the  </textline>
+<textline bbox="118.220,283.669,650.501,315.709" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">standard error of the estimate (SE(R)) by  </textline>
+<textline bbox="118.220,245.264,506.236,277.328" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">one minus the estimate (1-R).  </textline>
+</enlisting>
+<normal_text id="2" bbox="192.650,153.089,575.561,185.129" size="32.04" unique_id="2">CV=[100 x (SE(R)/(1-R))]% <textline bbox="192.650,153.089,575.561,185.129" font="TimesNewRomanPS-BoldMT" ncolour="0" size="32.040" colourspace="DeviceGray">CV=[100 x (SE(R)/(1-R))]% </textline>
+</normal_text>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.5.93x568.bmp" width="93" height="319" unique_id="3">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.6.93x360.bmp" width="93" height="202" unique_id="4">
+</picture>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[181.46305555555557, 430.58700000000005, 586.2472222222223, 492.227]">
+<title id="0" bbox="175.750,412.987,592.545,509.827" size="44.04" unique_id="0">Coefficient of Variation 
+for Percentages <textline bbox="175.750,465.787,592.545,509.827" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Coefficient of Variation </textline>
+<textline bbox="247.660,412.987,520.356,457.027" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">for Percentages </textline>
+</title>
+<normal_text id="1" bbox="91.224,364.334,252.185,396.398" size="32.064" unique_id="1">Example #1 <textline bbox="91.224,364.334,252.185,396.398" font="TimesNewRomanPS-BoldMT" ncolour="0" size="32.064" colourspace="DeviceGray">Example #1 </textline>
+</normal_text>
+<normal_text id="2" bbox="91.224,279.829,610.368,311.869" size="32.04" unique_id="2">The crude estimated percentage of Utah  <textline bbox="91.224,279.829,610.368,311.869" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">The crude estimated percentage of Utah  </textline>
+</normal_text>
+<normal_text id="3" bbox="118.220,176.129,671.132,277.328" size="32.048" unique_id="3">adults aged 85 and older who were current  
+cigarette smokers in 2007 was 7.65% with  
+a standard error of 3.81%. <textline bbox="118.220,245.264,671.132,277.328" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">adults aged 85 and older who were current  </textline>
+<textline bbox="118.220,210.689,669.372,242.729" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">cigarette smokers in 2007 was 7.65% with  </textline>
+<textline bbox="118.220,176.129,452.525,208.169" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">a standard error of 3.81%. </textline>
+</normal_text>
+<normal_text id="4" bbox="91.224,91.623,580.026,123.663" size="32.04" unique_id="4">CV = 100 x (0.0381/0.0765) =  49.8% <textline bbox="91.224,91.623,580.026,123.663" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">CV = 100 x (0.0381/0.0765) =  49.8% </textline>
+</normal_text>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.6.93x568.bmp" width="93" height="319" unique_id="5">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.7.93x360.bmp" width="93" height="202" unique_id="6">
+</picture>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[180.32044444444443, 427.06700000000006, 589.7087777777778, 495.74699999999996]">
+<title id="0" bbox="175.750,412.987,603.555,509.827" size="44.04" unique_id="0">Coefficient of Variation  
+for Percentages (cont&#8217;) <textline bbox="175.750,465.787,603.555,509.827" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Coefficient of Variation  </textline>
+<textline bbox="182.500,412.987,585.554,457.027" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">for Percentages (cont&#8217;) </textline>
+</title>
+<normal_text id="1" bbox="91.224,322.069,610.368,396.398" size="32.052" unique_id="1">Example #2 
+The crude estimated percentage of Utah  <textline bbox="91.224,364.334,252.185,396.398" font="TimesNewRomanPS-BoldMT" ncolour="0" size="32.064" colourspace="DeviceGray">Example #2 </textline>
+<textline bbox="91.224,322.069,610.368,354.109" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">The crude estimated percentage of Utah  </textline>
+</normal_text>
+<normal_text id="2" bbox="118.220,218.369,631.549,319.549" size="32.048" unique_id="2">adults aged 85 and older who were non- 
+smokers in 2007 was 92.35% with a  
+standard error of 3.81%. <textline bbox="118.220,287.509,631.549,319.549" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">adults aged 85 and older who were non- </textline>
+<textline bbox="118.220,252.944,589.433,285.008" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">smokers in 2007 was 92.35% with a  </textline>
+<textline bbox="118.220,218.369,430.290,250.409" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">standard error of 3.81%. </textline>
+</normal_text>
+<normal_text id="3" bbox="91.224,133.884,503.672,165.948" size="32.064" unique_id="3">CV = 100 x (0.0381/(1-0.9235)) <textline bbox="91.224,133.884,503.672,165.948" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">CV = 100 x (0.0381/(1-0.9235)) </textline>
+</normal_text>
+<normal_text id="4" bbox="171.260,91.623,616.039,123.663" size="32.04" unique_id="4">=  100 x  (0.0381/0.0765) = 49.8% <textline bbox="171.260,91.623,616.039,123.663" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">=  100 x  (0.0381/0.0765) = 49.8% </textline>
+</normal_text>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.7.93x568.bmp" width="93" height="319" unique_id="5">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.8.93x360.bmp" width="93" height="202" unique_id="6">
+</picture>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[175.12581818181818, 427.23427272727275, 587.7928181818182, 501.0413636363636]">
+<title id="0" bbox="151.750,427.987,579.171,524.866" size="44.052" unique_id="0">Coefficient of Variation  
+for Count Data <textline bbox="151.750,480.802,579.171,524.866" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.064" colourspace="DeviceGray">Coefficient of Variation  </textline>
+<textline bbox="227.980,427.987,491.956,472.027" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">for Count Data </textline>
+</title>
+<normal_text id="1" bbox="97.224,330.301,434.778,403.171" size="20.04" unique_id="1">D = # of deaths ~ Poisson 
+P = # in population where deaths occurred 
+R = rate per 100,000 = (D/P) *100,000  <textline bbox="97.224,383.131,303.836,403.171" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">D = # of deaths ~ Poisson </textline>
+<textline bbox="97.224,356.701,434.778,376.741" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">P = # in population where deaths occurred </textline>
+<textline bbox="97.224,330.301,413.074,350.341" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">R = rate per 100,000 = (D/P) *100,000  </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,277.501,348.285,297.541" size="20.04" unique_id="2">Var(R) = Var [(D/P) x 100,000] <textline bbox="97.224,277.501,348.285,297.541" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Var(R) = Var [(D/P) x 100,000] </textline>
+</normal_text>
+<normal_text id="3" bbox="119.780,198.281,383.907,271.873" size="20.048" unique_id="3">= (100,000/P)2 Var(D) 
+= (100,000/P) x ((100,000*D)/P) 
+= (100,000/P) x R <textline bbox="119.780,251.096,298.068,271.873">= (100,000/P)2 Var(D) <text font="TimesNewRomanPSMT" bbox="119.780,251.096,131.096,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">=</text>
+<text font="TimesNewRomanPSMT" bbox="131.096,251.096,136.112,271.160" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="TimesNewRomanPSMT" bbox="135.972,251.096,142.653,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">(</text>
+<text font="TimesNewRomanPSMT" bbox="142.653,251.096,152.685,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">1</text>
+<text font="TimesNewRomanPSMT" bbox="152.745,251.096,162.777,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">0</text>
+<text font="TimesNewRomanPSMT" bbox="162.777,251.096,172.809,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">0</text>
+<text font="TimesNewRomanPSMT" bbox="172.889,251.096,177.905,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">,</text>
+<text font="TimesNewRomanPSMT" bbox="177.905,251.096,187.937,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">0</text>
+<text font="TimesNewRomanPSMT" bbox="187.998,251.096,198.030,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">0</text>
+<text font="TimesNewRomanPSMT" bbox="197.949,251.096,207.981,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">0</text>
+<text font="TimesNewRomanPSMT" bbox="207.901,251.096,213.479,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">/</text>
+<text font="TimesNewRomanPSMT" bbox="213.479,251.096,224.634,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">P</text>
+<text font="TimesNewRomanPSMT" bbox="224.634,251.096,231.316,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">)</text>
+<text font="TimesNewRomanPSMT" bbox="231.290,258.553,237.950,271.873" colourspace="DeviceGray" ncolour="0" size="13.320">2</text>
+<text font="TimesNewRomanPSMT" bbox="242.210,251.096,256.696,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">V</text>
+<text font="TimesNewRomanPSMT" bbox="254.569,251.096,263.478,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="TimesNewRomanPSMT" bbox="263.478,251.096,270.159,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">r</text>
+<text font="TimesNewRomanPSMT" bbox="270.159,251.096,276.840,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">(</text>
+<text font="TimesNewRomanPSMT" bbox="276.840,251.096,291.327,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">D</text>
+<text font="TimesNewRomanPSMT" bbox="291.387,251.096,298.068,271.160" colourspace="DeviceGray" ncolour="0" size="20.064">)</text>
+</textline>
+<textline bbox="119.780,224.681,383.907,244.721" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">= (100,000/P) x ((100,000*D)/P) </textline>
+<textline bbox="119.780,198.281,264.268,218.321" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">= (100,000/P) x R </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,140.201,349.632,160.241" size="20.04" unique_id="4">CV = 100 x [SQRT(Var(R))]/R <textline bbox="97.224,140.201,349.632,160.241" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">CV = 100 x [SQRT(Var(R))]/R </textline>
+</normal_text>
+<normal_text id="5" bbox="119.780,113.771,400.019,133.811" size="20.04" unique_id="5">= 100 x [SQRT((100,000/P)*R)]/R <textline bbox="119.780,113.771,400.019,133.811" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">= 100 x [SQRT((100,000/P)*R)]/R </textline>
+</normal_text>
+<normal_text id="6" bbox="119.780,83.055,367.915,103.095" size="20.04" unique_id="6">= 100 x SQRT[100,000/(P*R)] <textline bbox="119.780,83.055,367.915,103.095" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">= 100 x SQRT[100,000/(P*R)] </textline>
+</normal_text>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.8.93x568.bmp" width="93" height="319" unique_id="7">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.9.93x360.bmp" width="93" height="202" unique_id="8">
+</picture>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[171.22984848484847, 427.3597272727273, 586.3558484848486, 505.01213636363633]">
+<title id="0" bbox="151.750,427.987,579.171,524.866" size="44.052" unique_id="0">Coefficient of Variation  
+for Count Data (cont&#8217;) <textline bbox="151.750,480.802,579.171,524.866" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.064" colourspace="DeviceGray">Coefficient of Variation  </textline>
+<textline bbox="162.550,427.987,557.457,472.027" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">for Count Data (cont&#8217;) </textline>
+</title>
+<normal_text id="1" bbox="97.224,376.031,217.849,400.055" size="24.024" unique_id="1">Example #1 <textline bbox="97.224,376.031,217.849,400.055" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Example #1 </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,237.761,597.096,330.886" size="24.008" unique_id="2">D = 388 Alzheimer&#8217;s disease deaths in Utah in 2006 
+P = UT Population in 2006 was 2,615,129 
+R = (388/2,615,129) x 100,000 = 14.84 per 100,000 <textline bbox="97.224,306.886,597.096,330.886" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">D = 388 Alzheimer&#8217;s disease deaths in Utah in 2006 </textline>
+<textline bbox="97.224,272.326,500.592,296.326" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">P = UT Population in 2006 was 2,615,129 </textline>
+<textline bbox="97.224,237.761,595.554,261.785" font="TimesNewRomanPSMT" ncolour="0" size="24.024" colourspace="DeviceGray">R = (388/2,615,129) x 100,000 = 14.84 per 100,000 </textline>
+</normal_text>
+<normal_text id="3" bbox="97.224,168.626,433.320,192.626" size="24.0" unique_id="3">CV = 100 x SQRT[100,000/(P*R)] <textline bbox="97.224,168.626,433.320,192.626" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">CV = 100 x SQRT[100,000/(P*R)] </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,99.476,572.136,123.476" size="24.0" unique_id="4">CV = 100 x SQRT[100,000/(2,615,129 x 14.84)]  <textline bbox="97.224,99.476,572.136,123.476" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">CV = 100 x SQRT[100,000/(2,615,129 x 14.84)]  </textline>
+</normal_text>
+<normal_text id="5" bbox="139.220,64.920,226.652,88.920" size="24.0" unique_id="5">=  5.08% <textline bbox="139.220,64.920,226.652,88.920" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">=  5.08% </textline>
+</normal_text>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.9.93x568.bmp" width="93" height="319" unique_id="6">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.10.93x360.bmp" width="93" height="202" unique_id="7">
+</picture>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[168.23294871794872, 427.4562307692308, 585.2504871794873, 508.0665769230769]">
+<title id="0" bbox="151.750,427.987,579.171,524.866" size="44.052" unique_id="0">Coefficient of Variation  
+for Count Data (cont&#8217;) <textline bbox="151.750,480.802,579.171,524.866" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.064" colourspace="DeviceGray">Coefficient of Variation  </textline>
+<textline bbox="162.550,427.987,557.457,472.027" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">for Count Data (cont&#8217;) </textline>
+</title>
+<normal_text id="1" bbox="97.224,376.031,217.849,400.055" size="24.024" unique_id="1">Example #2 <textline bbox="97.224,376.031,217.849,400.055" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">Example #2 </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,306.886,649.608,330.886" size="24.0" unique_id="2">D = 5 Alzheimer&#8217;s disease deaths in Utah adults between  <textline bbox="97.224,306.886,649.608,330.886" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">D = 5 Alzheimer&#8217;s disease deaths in Utah adults between  </textline>
+</normal_text>
+<normal_text id="3" bbox="119.780,278.086,338.330,302.086" size="24.0" unique_id="3">the ages 55-64 in 2006 <textline bbox="119.780,278.086,338.330,302.086" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">the ages 55-64 in 2006 </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,208.946,544.717,267.545" size="24.012" unique_id="4">P = 55-64 UT Population in 2006 was 201,340 
+R = (5/201,340) x 100,000 = 2.48 per 100,000 <textline bbox="97.224,243.521,544.717,267.545" font="TimesNewRomanPSMT" ncolour="0" size="24.024" colourspace="DeviceGray">P = 55-64 UT Population in 2006 was 201,340 </textline>
+<textline bbox="97.224,208.946,541.416,232.946" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">R = (5/201,340) x 100,000 = 2.48 per 100,000 </textline>
+</normal_text>
+<normal_text id="5" bbox="97.224,139.826,433.320,163.826" size="24.0" unique_id="5">CV = 100 x SQRT[100,000/(P*R)] <textline bbox="97.224,139.826,433.320,163.826" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">CV = 100 x SQRT[100,000/(P*R)] </textline>
+</normal_text>
+<normal_text id="6" bbox="97.224,70.680,641.664,94.680" size="24.0" unique_id="6">CV = 100 x SQRT[100,000/(201,340 x 2.48)] =  44.75% <textline bbox="97.224,70.680,641.664,94.680" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">CV = 100 x SQRT[100,000/(201,340 x 2.48)] =  44.75% </textline>
+</normal_text>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.10.93x568.bmp" width="93" height="319" unique_id="7">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.11.93x360.bmp" width="93" height="202" unique_id="8">
+</picture>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[182.09967032967032, 429.1606263736264, 573.4667032967034, 504.54663736263734]">
+<title id="0" bbox="265.300,439.387,502.764,483.427" size="44.04" unique_id="0">Methodology <textline bbox="265.300,439.387,502.764,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Methodology </textline>
+</title>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.11.93x568.bmp" width="93" height="319" unique_id="3">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.12.93x360.bmp" width="93" height="202" unique_id="4">
+</picture>
+<enlisting bbox="91.224,118.461,668.137,393.319" unique_id="['1', '2']">&#8226; Literature review 
+&#8226; Compared suppression rules using BRFSS small  area, low prevalence data. 
+&#8211; &lt; 5 observations in numerator or 30 in denominator 
+&#8211; CV greater than 30% 
+&#8211; CV greater than 50% 
+&#8211; the CI length larger than the estimated percent 
+&#8211; 1/2 the CI length &gt;10% and denominator less than 50 <normal_text id="1" bbox="91.224,324.991,668.137,393.319" size="27.972" unique_id="1">&#8226; Literature review 
+&#8226; Compared suppression rules using BRFSS small  <textline bbox="91.224,365.335,311.561,393.319" font="TimesNewRomanPSMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Literature review </textline>
+<textline bbox="91.224,324.991,668.137,352.951" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Compared suppression rules using BRFSS small  </textline>
+</normal_text>
+<normal_text id="2" bbox="118.220,118.461,662.020,319.351" size="24.668000000000003" unique_id="2">area, low prevalence data. 
+&#8211; &lt; 5 observations in numerator or 30 in denominator 
+&#8211; CV greater than 30% 
+&#8211; CV greater than 50% 
+&#8211; the CI length larger than the estimated percent 
+&#8211; 1/2 the CI length &gt;10% and denominator less than 50 <textline bbox="118.220,291.391,409.256,319.351" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">area, low prevalence data. </textline>
+<textline bbox="127.220,256.721,645.491,280.745" font="TimesNewRomanPSMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; &lt; 5 observations in numerator or 30 in denominator </textline>
+<textline bbox="127.220,222.146,352.340,246.146" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; CV greater than 30% </textline>
+<textline bbox="127.220,187.586,352.340,211.586" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; CV greater than 50% </textline>
+<textline bbox="127.220,153.026,593.204,177.026" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; the CI length larger than the estimated percent </textline>
+<textline bbox="127.220,118.461,662.020,142.485" font="TimesNewRomanPSMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; 1/2 the CI length &gt;10% and denominator less than 50 </textline>
+</normal_text>
+</enlisting></page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[196.2810476190476, 430.52414285714286, 560.9503428571429, 501.73068571428576]">
+<title id="0" bbox="288.460,439.387,479.594,483.427" size="44.04" unique_id="0">Guidelines <textline bbox="288.460,439.387,479.594,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Guidelines </textline>
+</title>
+<normal_text id="1" bbox="91.224,331.711,639.156,396.679" size="27.972" unique_id="1">Minimum Criteria 
+For Reporting Both Survey Data and Population  <textline bbox="91.224,368.695,314.284,396.679" font="TimesNewRomanPS-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Minimum Criteria </textline>
+<textline bbox="91.224,331.711,639.156,359.671" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">For Reporting Both Survey Data and Population  </textline>
+</normal_text>
+<enlisting id="2" bbox="91.224,106.541,663.132,329.431" size="27.966857142857148" unique_id="2">Event Data: 
+&#61589;&#10003; CV &lt; 50% 
+&#61589;&#10003; If 30% &lt; CV &lt; 50% an asterisk should be  
+included with a footnote that says: *Use caution  
+in interpreting, the estimate has a relative  
+standard error greater than 30% and does not  
+meet UDOH standards for reliability. <textline bbox="118.220,301.471,250.918,329.431" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">Event Data: </textline>
+<textline bbox="91.224,264.385,301.761,292.677">&#61589;&#10003; CV &lt; 50% <text font="BCDFEE+Wingdings-Regular" bbox="91.224,264.693,116.186,292.677" colourspace="DeviceGray" ncolour="0" size="27.984">&#61589;</text>
+<text font="BCDFEE+Wingdings-Regular" bbox="118.220,264.693,140.215,292.677" colourspace="DeviceGray" ncolour="0" size="27.984">&#10003;</text>
+<text font="TimesNewRomanPSMT" bbox="182.180,264.385,200.845,292.369" colourspace="DeviceGray" ncolour="0" size="27.984">C</text>
+<text font="TimesNewRomanPSMT" bbox="200.845,264.385,221.050,292.369" colourspace="DeviceGray" ncolour="0" size="27.984">V</text>
+<text font="TimesNewRomanPSMT" bbox="220.518,264.385,227.514,292.369" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="227.570,264.385,243.353,292.369" colourspace="DeviceGray" ncolour="0" size="27.984">&lt;</text>
+<text font="TimesNewRomanPSMT" bbox="250.370,264.385,264.362,292.369" colourspace="DeviceGray" ncolour="0" size="27.984">5</text>
+<text font="TimesNewRomanPSMT" bbox="264.410,264.385,278.402,292.369" colourspace="DeviceGray" ncolour="0" size="27.984">0</text>
+<text font="TimesNewRomanPSMT" bbox="278.450,264.385,301.761,292.369" colourspace="DeviceGray" ncolour="0" size="27.984">%</text>
+</textline>
+<textline bbox="91.224,227.411,656.230,255.678">&#61589;&#10003; If 30% &lt; CV &lt; 50% an asterisk should be  <text font="BCDFEE+Wingdings-Regular" bbox="91.224,227.718,116.164,255.678" colourspace="DeviceGray" ncolour="0" size="27.960">&#61589;</text>
+<text font="BCDFEE+Wingdings-Regular" bbox="118.220,227.718,140.197,255.678" colourspace="DeviceGray" ncolour="0" size="27.960">&#10003;</text>
+<text font="TimesNewRomanPSMT" bbox="182.180,227.411,191.491,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">I</text>
+<text font="TimesNewRomanPSMT" bbox="191.491,227.411,200.801,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">f</text>
+<text font="TimesNewRomanPSMT" bbox="200.885,227.411,207.875,255.371" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="207.931,227.411,221.911,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">3</text>
+<text font="TimesNewRomanPSMT" bbox="221.967,227.411,235.947,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="236.003,227.411,259.294,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">%</text>
+<text font="TimesNewRomanPSMT" bbox="259.294,227.411,266.284,255.371" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="266.284,227.411,282.053,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">&lt;</text>
+<text font="TimesNewRomanPSMT" bbox="282.053,227.411,289.043,255.371" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="289.043,227.411,307.692,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">C</text>
+<text font="TimesNewRomanPSMT" bbox="307.692,227.411,327.880,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">V</text>
+<text font="TimesNewRomanPSMT" bbox="327.432,227.411,334.422,255.371" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="334.510,227.411,350.279,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">&lt;</text>
+<text font="TimesNewRomanPSMT" bbox="357.310,227.411,371.290,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">5</text>
+<text font="TimesNewRomanPSMT" bbox="371.290,227.411,385.270,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="385.354,227.411,408.645,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">%</text>
+<text font="TimesNewRomanPSMT" bbox="408.645,227.411,415.635,255.371" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="415.635,227.411,428.049,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="427.965,227.411,441.945,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="441.945,227.411,448.935,255.371" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="448.935,227.411,461.349,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="461.349,227.411,472.226,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="472.226,227.411,479.998,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="479.998,227.411,492.413,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="492.413,227.411,501.723,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="501.723,227.411,509.496,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="509.496,227.411,520.373,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="520.457,227.411,534.437,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">k</text>
+<text font="TimesNewRomanPSMT" bbox="534.437,227.411,541.427,255.371" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="541.343,227.411,552.219,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="552.219,227.411,566.199,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">h</text>
+<text font="TimesNewRomanPSMT" bbox="566.283,227.411,580.263,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="580.263,227.411,594.243,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="TimesNewRomanPSMT" bbox="594.327,227.411,602.100,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="602.100,227.411,616.080,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="616.136,227.411,623.126,255.371" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="622.846,227.411,636.826,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">b</text>
+<text font="TimesNewRomanPSMT" bbox="636.826,227.411,649.240,255.371" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="649.240,227.411,656.230,255.371" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+</textline>
+<textline bbox="118.220,197.291,663.132,225.251" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">included with a footnote that says: *Use caution  </textline>
+<textline bbox="118.220,167.051,586.969,195.011" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">in interpreting, the estimate has a relative  </textline>
+<textline bbox="118.220,136.805,627.893,164.789" font="TimesNewRomanPSMT" ncolour="0" size="27.984" colourspace="DeviceGray">standard error greater than 30% and does not  </textline>
+<textline bbox="118.220,106.541,533.873,134.501" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">meet UDOH standards for reliability. </textline>
+</enlisting>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.12.93x568.bmp" width="93" height="319" unique_id="3">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.13.93x360.bmp" width="93" height="202" unique_id="4">
+</picture>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[207.80341666666664, 431.632, 550.7808000000001, 499.442725]">
+<title id="0" bbox="288.460,439.387,479.594,483.427" size="44.04" unique_id="0">Guidelines <textline bbox="288.460,439.387,479.594,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Guidelines </textline>
+</title>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.13.93x568.bmp" width="93" height="319" unique_id="4">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.14.93x360.bmp" width="93" height="202" unique_id="5">
+</picture>
+<enlisting bbox="91.224,89.745,609.97,393.319" unique_id="['1', ' 3', '2']">Strict Criteria 
+For Reporting Survey Data: 
+&#61589;&#10003; &gt; 10 cases in the numerator  
+&#61589;&#10003; AND a CV &lt; 30% 
+For Reporting Population Event Data: 
+&#61589;&#10003; &gt; 20 cases in the numerator and &gt;100  &#8226; AND a CV &lt; 30% <normal_text id="1" bbox="91.224,163.571,609.970,393.319" size="27.968000000000004" unique_id="1">Strict Criteria 
+For Reporting Survey Data: 
+&#61589;&#10003; &gt; 10 cases in the numerator  
+&#61589;&#10003; AND a CV &lt; 30% 
+For Reporting Population Event Data: 
+&#61589;&#10003; &gt; 20 cases in the numerator and &gt;100  <textline bbox="91.224,365.335,261.367,393.319" font="TimesNewRomanPS-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Strict Criteria </textline>
+<textline bbox="91.224,324.991,402.810,352.951" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">For Reporting Survey Data: </textline>
+<textline bbox="91.224,284.551,497.555,312.818">&#61589;&#10003; &gt; 10 cases in the numerator  <text font="BCDFEE+Wingdings-Regular" bbox="91.224,284.858,116.164,312.818" colourspace="DeviceGray" ncolour="0" size="27.960">&#61589;</text>
+<text font="BCDFEE+Wingdings-Regular" bbox="118.220,284.858,140.197,312.818" colourspace="DeviceGray" ncolour="0" size="27.960">&#10003;</text>
+<text font="TimesNewRomanPSMT" bbox="182.180,284.551,197.949,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">&gt;</text>
+<text font="TimesNewRomanPSMT" bbox="205.010,284.551,218.990,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">1</text>
+<text font="TimesNewRomanPSMT" bbox="218.990,284.551,232.970,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="233.054,284.551,240.044,312.511" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="240.044,284.551,252.458,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="TimesNewRomanPSMT" bbox="252.374,284.551,264.788,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="264.788,284.551,275.665,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="275.665,284.551,288.079,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="288.079,284.551,298.956,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="298.956,284.551,305.946,312.511" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="305.946,284.551,313.718,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="313.718,284.551,327.698,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="327.698,284.551,334.688,312.511" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="334.577,284.551,342.350,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="342.350,284.551,356.330,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">h</text>
+<text font="TimesNewRomanPSMT" bbox="356.385,284.551,368.800,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="368.800,284.551,375.790,312.511" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="375.706,284.551,389.686,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="389.686,284.551,403.666,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="TimesNewRomanPSMT" bbox="403.750,284.551,425.503,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="425.363,284.551,437.777,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="437.777,284.551,447.088,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="447.088,284.551,459.502,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="459.502,284.551,467.275,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="467.275,284.551,481.255,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="481.255,284.551,490.565,312.511" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="490.565,284.551,497.555,312.511" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+</textline>
+<textline bbox="91.224,244.225,387.341,272.517">&#61589;&#10003; AND a CV &lt; 30% <text font="BCDFEE+Wingdings-Regular" bbox="91.224,244.533,116.186,272.517" colourspace="DeviceGray" ncolour="0" size="27.984">&#61589;</text>
+<text font="BCDFEE+Wingdings-Regular" bbox="118.220,244.533,140.215,272.517" colourspace="DeviceGray" ncolour="0" size="27.984">&#10003;</text>
+<text font="TimesNewRomanPSMT" bbox="180.620,244.225,200.824,272.209" colourspace="DeviceGray" ncolour="0" size="27.984">A</text>
+<text font="TimesNewRomanPSMT" bbox="200.824,244.225,221.029,272.209" colourspace="DeviceGray" ncolour="0" size="27.984">N</text>
+<text font="TimesNewRomanPSMT" bbox="221.029,244.225,241.233,272.209" colourspace="DeviceGray" ncolour="0" size="27.984">D</text>
+<text font="TimesNewRomanPSMT" bbox="241.233,244.225,248.229,272.209" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="248.453,244.225,260.878,272.209" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="TimesNewRomanPSMT" bbox="260.878,244.225,267.874,272.209" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="267.874,244.225,286.539,272.209" colourspace="DeviceGray" ncolour="0" size="27.984">C</text>
+<text font="TimesNewRomanPSMT" bbox="286.539,244.225,306.744,272.209" colourspace="DeviceGray" ncolour="0" size="27.984">V</text>
+<text font="TimesNewRomanPSMT" bbox="306.240,244.225,313.236,272.209" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="313.250,244.225,329.033,272.209" colourspace="DeviceGray" ncolour="0" size="27.984">&lt;</text>
+<text font="TimesNewRomanPSMT" bbox="335.950,244.225,349.942,272.209" colourspace="DeviceGray" ncolour="0" size="27.984">3</text>
+<text font="TimesNewRomanPSMT" bbox="349.990,244.225,363.982,272.209" colourspace="DeviceGray" ncolour="0" size="27.984">0</text>
+<text font="TimesNewRomanPSMT" bbox="364.030,244.225,387.341,272.209" colourspace="DeviceGray" ncolour="0" size="27.984">%</text>
+</textline>
+<textline bbox="91.224,204.011,516.859,231.971" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">For Reporting Population Event Data: </textline>
+<textline bbox="91.224,163.571,609.970,191.838">&#61589;&#10003; &gt; 20 cases in the numerator and &gt;100  <text font="BCDFEE+Wingdings-Regular" bbox="91.224,163.878,116.164,191.838" colourspace="DeviceGray" ncolour="0" size="27.960">&#61589;</text>
+<text font="BCDFEE+Wingdings-Regular" bbox="118.220,163.878,140.197,191.838" colourspace="DeviceGray" ncolour="0" size="27.960">&#10003;</text>
+<text font="TimesNewRomanPSMT" bbox="182.180,163.571,197.949,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">&gt;</text>
+<text font="TimesNewRomanPSMT" bbox="205.010,163.571,218.990,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">2</text>
+<text font="TimesNewRomanPSMT" bbox="218.990,163.571,232.970,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="233.054,163.571,240.044,191.531" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="240.044,163.571,252.458,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="TimesNewRomanPSMT" bbox="252.374,163.571,264.788,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="264.788,163.571,275.665,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="275.665,163.571,288.079,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="288.079,163.571,298.956,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="298.956,163.571,305.946,191.531" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="305.946,163.571,313.718,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="313.718,163.571,327.698,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="327.698,163.571,334.688,191.531" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="334.577,163.571,342.350,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="342.350,163.571,356.330,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">h</text>
+<text font="TimesNewRomanPSMT" bbox="356.385,163.571,368.800,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="368.800,163.571,375.790,191.531" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="375.706,163.571,389.686,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="389.686,163.571,403.666,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="TimesNewRomanPSMT" bbox="403.750,163.571,425.503,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="425.363,163.571,437.777,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="437.777,163.571,447.088,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="447.088,163.571,459.502,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="459.502,163.571,467.275,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="467.275,163.571,481.255,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="481.255,163.571,490.565,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="490.565,163.571,497.555,191.531" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="497.695,163.571,510.110,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="510.110,163.571,524.090,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="524.090,163.571,538.070,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="538.070,163.571,545.060,191.531" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="545.140,163.571,560.909,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">&gt;</text>
+<text font="TimesNewRomanPSMT" bbox="560.860,163.571,574.840,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">1</text>
+<text font="TimesNewRomanPSMT" bbox="574.900,163.571,588.880,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="588.940,163.571,602.920,191.531" colourspace="DeviceGray" ncolour="0" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="602.980,163.571,609.970,191.531" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="91.224,89.745,324.901,117.705" size="27.96" unique_id="3">&#8226; AND a CV &lt; 30% <textline bbox="91.224,89.745,324.901,117.705" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; AND a CV &lt; 30% </textline>
+</normal_text>
+<normal_text id="2" bbox="118.220,130.085,400.439,158.069" size="27.984" unique_id="2">persons in the population <textline bbox="118.220,130.085,400.439,158.069" font="TimesNewRomanPSMT" ncolour="0" size="27.984" colourspace="DeviceGray">persons in the population </textline>
+</normal_text>
+</enlisting></page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[226.98183823529408, 436.58211764705885, 532.6270588235295, 497.586875]">
+<title id="0" bbox="370.820,473.708,396.474,483.668" size="9.96" unique_id="0">&lt;50% <textline bbox="370.820,473.708,396.474,483.668" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&lt;50% </textline>
+</title>
+<normal_text id="1" bbox="440.450,473.328,502.660,483.288" size="9.96" unique_id="1">CV=SE/RATE <textline bbox="440.450,473.328,502.660,483.288" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">CV=SE/RATE </textline>
+</normal_text>
+<normal_text id="10" bbox="539.590,515.948,565.244,525.908" size="9.96" unique_id="10">&lt;30% <textline bbox="539.590,515.948,565.244,525.908" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&lt;30% </textline>
+</normal_text>
+<normal_text id="11" bbox="635.230,510.838,676.803,520.798" size="9.96" unique_id="11">REPORT <textline bbox="635.230,510.838,676.803,520.798" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">REPORT </textline>
+</normal_text>
+<normal_text id="14" bbox="621.890,461.208,694.937,483.168" size="9.96" unique_id="14">REPORT WITH  
+WARNING <textline bbox="621.890,473.208,694.937,483.168" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">REPORT WITH  </textline>
+<textline bbox="632.810,461.208,681.335,471.168" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">WARNING </textline>
+</normal_text>
+<normal_text id="15" bbox="620.380,420.808,692.371,442.768" size="9.96" unique_id="15">SUPPRESS OR 
+AGGREGATE <textline bbox="620.380,432.808,692.371,442.768" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">SUPPRESS OR </textline>
+<textline bbox="624.700,420.808,687.956,430.768" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">AGGREGATE </textline>
+</normal_text>
+<normal_text id="16" bbox="633.620,372.808,675.093,382.768" size="9.96" unique_id="16">REPORT <textline bbox="633.620,372.808,675.093,382.768" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">REPORT </textline>
+</normal_text>
+<normal_text id="17" bbox="620.260,324.908,693.307,346.888" size="9.96" unique_id="17">REPORT WITH  
+WARNING <textline bbox="620.260,336.928,693.307,346.888" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">REPORT WITH  </textline>
+<textline bbox="631.180,324.908,679.705,334.868" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">WARNING </textline>
+</normal_text>
+<normal_text id="19" bbox="618.740,282.788,690.731,304.748" size="9.96" unique_id="19">SUPPRESS OR 
+AGGREGATE <textline bbox="618.740,294.788,690.731,304.748" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">SUPPRESS OR </textline>
+<textline bbox="623.060,282.788,686.316,292.748" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">AGGREGATE </textline>
+</normal_text>
+<normal_text id="20" bbox="583.220,240.788,608.898,250.748" size="9.96" unique_id="20">&lt;30% <textline bbox="583.220,240.788,608.898,250.748" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&lt;30% </textline>
+</normal_text>
+<normal_text id="21" bbox="643.370,242.658,684.843,252.618" size="9.96" unique_id="21">REPORT <textline bbox="643.370,242.658,684.843,252.618" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">REPORT </textline>
+</normal_text>
+<normal_text id="22" bbox="35.760,189.768,78.429,211.728" size="9.96" unique_id="22">TYPE OF 
+DATA <textline bbox="35.760,201.768,78.429,211.728" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">TYPE OF </textline>
+<textline bbox="43.680,189.768,70.363,199.728" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">DATA </textline>
+</normal_text>
+<normal_text id="24" bbox="186.530,149.248,278.610,171.208" size="9.96" unique_id="24">VULNERABLE 
+(STRICT CRITERIA) <textline bbox="199.850,161.248,265.566,171.208" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">VULNERABLE </textline>
+<textline bbox="186.530,149.248,278.610,159.208" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">(STRICT CRITERIA) </textline>
+</normal_text>
+<enlisting id="25" bbox="345.82,150.258,454.143,164.848" size="9.96" unique_id="['25', '26']">&#8805;10 <textline bbox="345.820,154.888,362.398,164.848" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&#8805;10 </textline>
+<normal_text id="26" bbox="427.460,150.258,454.143,160.218" size="9.96" unique_id="26">RATE <textline bbox="427.460,150.258,454.143,160.218" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">RATE </textline>
+</normal_text>
+</enlisting>
+<normal_text id="27" bbox="582.480,168.138,608.134,178.098" size="9.96" unique_id="27">&gt;30% <textline bbox="582.480,168.138,608.134,178.098" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&gt;30% </textline>
+</normal_text>
+<normal_text id="28" bbox="633.980,161.008,705.971,182.968" size="9.96" unique_id="28">SUPPRESS OR 
+AGGREGATE <textline bbox="633.980,173.008,705.971,182.968" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">SUPPRESS OR </textline>
+<textline bbox="638.300,161.008,701.556,170.968" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">AGGREGATE </textline>
+</normal_text>
+<normal_text id="29" bbox="444.340,203.898,469.994,213.858" size="9.96" unique_id="29">&lt;50% <textline bbox="444.340,203.898,469.994,213.858" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&lt;50% </textline>
+</normal_text>
+<normal_text id="30" bbox="512.470,203.518,574.680,213.478" size="9.96" unique_id="30">CV=SE/RATE <textline bbox="512.470,203.518,574.680,213.478" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">CV=SE/RATE </textline>
+</normal_text>
+<normal_text id="31" bbox="307.560,105.258,371.862,115.218" size="9.96" unique_id="31">NUMERATOR <textline bbox="307.560,105.258,371.862,115.218" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">NUMERATOR </textline>
+</normal_text>
+<normal_text id="32" bbox="582.480,108.738,608.134,118.698" size="9.96" unique_id="32">&lt;30% <textline bbox="582.480,108.738,608.134,118.698" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&lt;30% </textline>
+</normal_text>
+<normal_text id="33" bbox="643.370,107.758,684.843,117.718" size="9.96" unique_id="33">REPORT <textline bbox="643.370,107.758,684.843,117.718" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">REPORT </textline>
+</normal_text>
+<normal_text id="34" bbox="444.340,73.004,469.987,82.964" size="9.96" unique_id="34">&gt;50% <textline bbox="444.340,73.004,469.987,82.964" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&gt;50% </textline>
+</normal_text>
+<normal_text id="35" bbox="504.840,71.252,582.560,81.212" size="9.96" unique_id="35">CV=SE/(1-RATE) <textline bbox="504.840,71.252,582.560,81.212" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">CV=SE/(1-RATE) </textline>
+</normal_text>
+<footer id="36" bbox="343.320,10.988,360.152,20.948" size="9.96" unique_id="36">&lt;10 <textline bbox="343.320,10.988,360.152,20.948" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&lt;10 </textline>
+</footer>
+<footer id="37" bbox="405.820,10.239,477.811,32.204" size="9.972000000000001" unique_id="37">SUPPRESS OR 
+AGGREGATE <textline bbox="405.820,22.244,477.811,32.204" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">SUPPRESS OR </textline>
+<textline bbox="410.140,10.239,473.389,20.223" font="ArialMT" ncolour="0" size="9.984" colourspace="Pattern">AGGREGATE </textline>
+</footer>
+<footer id="38" bbox="582.480,36.620,608.134,46.580" size="9.96" unique_id="38">&gt;30% <textline bbox="582.480,36.620,608.134,46.580" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&gt;30% </textline>
+</footer>
+<footer id="39" bbox="634.130,28.868,706.121,50.828" size="9.96" unique_id="39">SUPPRESS OR 
+AGGREGATE <textline bbox="634.130,40.868,706.121,50.828" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">SUPPRESS OR </textline>
+<textline bbox="638.450,28.868,701.706,38.828" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">AGGREGATE </textline>
+</footer>
+<picture name="Image8" bbox="0.000,198.480,93.000,536.040" src="Image8.0.93x600.bmp" width="93" height="337" unique_id="40" caption="COUNT DATA " caption_ids="['23']">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.15.93x360.bmp" width="93" height="202" unique_id="41">
+</picture>
+<enlisting bbox="60.504,287.923,568.964,476.158" unique_id="['2', '         9', '        5', '       6', '      7', '     8', '    12', '   13', '  18', ' 3', '4']">30&lt;CV&lt;50% 30&lt;CV&lt;50% <normal_text id="2" bbox="512.710,466.198,568.964,476.158" size="9.96" unique_id="2">30&lt;CV&lt;50% <textline bbox="512.710,466.198,568.964,476.158" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">30&lt;CV&lt;50% </textline>
+</normal_text>
+<normal_text id="9" bbox="512.710,326.928,568.964,336.888" size="9.96" unique_id="9">30&lt;CV&lt;50% <textline bbox="512.710,326.928,568.964,336.888" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">30&lt;CV&lt;50% </textline>
+</normal_text>
+<normal_text id="5" bbox="60.504,306.423,130.981,316.407" size="9.984" unique_id="5">SURVEY DATA <textline bbox="60.504,306.423,130.981,316.407" font="ArialMT" ncolour="0" size="9.984" colourspace="Pattern">SURVEY DATA </textline>
+</normal_text>
+<normal_text id="6" bbox="200.900,304.288,265.192,326.248" size="9.96" unique_id="6">KIND OF 
+POPULATION <textline bbox="212.660,316.288,253.257,326.248" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">KIND OF </textline>
+<textline bbox="200.900,304.288,265.192,314.248" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">POPULATION </textline>
+</normal_text>
+<normal_text id="7" bbox="370.820,330.428,396.467,340.388" size="9.96" unique_id="7">&gt;50% <textline bbox="370.820,330.428,396.467,340.388" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&gt;50% </textline>
+</normal_text>
+<normal_text id="8" bbox="427.700,329.298,505.420,339.258" size="9.96" unique_id="8">CV=SE/(1-RATE) <textline bbox="427.700,329.298,505.420,339.258" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">CV=SE/(1-RATE) </textline>
+</normal_text>
+<normal_text id="12" bbox="535.220,426.068,560.874,436.028" size="9.96" unique_id="12">&gt;50% <textline bbox="535.220,426.068,560.874,436.028" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&gt;50% </textline>
+</normal_text>
+<normal_text id="13" bbox="537.980,377.928,563.634,387.888" size="9.96" unique_id="13">&lt;30% <textline bbox="537.980,377.928,563.634,387.888" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&lt;30% </textline>
+</normal_text>
+<normal_text id="18" bbox="535.340,287.923,561.016,297.907" size="9.984" unique_id="18">&gt;50% <textline bbox="535.340,287.923,561.016,297.907" font="ArialMT" ncolour="0" size="9.984" colourspace="Pattern">&gt;50% </textline>
+</normal_text>
+<normal_text id="3" bbox="180.650,414.068,281.963,436.028" size="9.96" unique_id="3">GENERAL 
+(MINIMUM CRITERIA) <textline bbox="207.550,426.068,255.089,436.028" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">GENERAL </textline>
+<textline bbox="180.650,414.068,281.963,424.028" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">(MINIMUM CRITERIA) </textline>
+</normal_text>
+<normal_text id="4" bbox="355.440,420.308,382.123,430.268" size="9.96" unique_id="4">RATE <textline bbox="355.440,420.308,382.123,430.268" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">RATE </textline>
+</normal_text>
+</enlisting></page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[239.7960784313725, 433.691660130719, 517.586163398693, 491.6914444444444]">
+<normal_text id="0" bbox="25.248,470.568,95.725,480.528" size="9.96" unique_id="0">SURVEY DATA <textline bbox="25.248,470.568,95.725,480.528" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">SURVEY DATA </textline>
+</normal_text>
+<normal_text id="1" bbox="35.760,405.808,78.429,427.768" size="9.96" unique_id="1">TYPE OF 
+DATA <textline bbox="35.760,417.808,78.429,427.768" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">TYPE OF </textline>
+<textline bbox="43.680,405.808,70.363,415.768" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">DATA </textline>
+</normal_text>
+<normal_text id="5" bbox="431.330,419.178,487.584,429.138" size="9.96" unique_id="5">30&lt;CV&lt;50% <textline bbox="431.330,419.178,487.584,429.138" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">30&lt;CV&lt;50% </textline>
+</normal_text>
+<normal_text id="6" bbox="540.500,414.188,613.547,436.148" size="9.96" unique_id="6">REPORT WITH  
+WARNING <textline bbox="540.500,426.188,613.547,436.148" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">REPORT WITH  </textline>
+<textline bbox="551.420,414.188,599.945,424.148" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">WARNING </textline>
+</normal_text>
+<normal_text id="7" bbox="459.720,479.948,485.374,489.908" size="9.96" unique_id="7">&lt;30% <textline bbox="459.720,479.948,485.374,489.908" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&lt;30% </textline>
+</normal_text>
+<normal_text id="8" bbox="555.360,474.833,596.854,484.817" size="9.984" unique_id="8">REPORT <textline bbox="555.360,474.833,596.854,484.817" font="ArialMT" ncolour="0" size="9.984" colourspace="Pattern">REPORT </textline>
+</normal_text>
+<normal_text id="9" bbox="459.720,354.048,485.374,364.008" size="9.96" unique_id="9">&gt;50% <textline bbox="459.720,354.048,485.374,364.008" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&gt;50% </textline>
+</normal_text>
+<normal_text id="10" bbox="544.850,348.788,616.841,370.768" size="9.96" unique_id="10">SUPPRESS OR 
+AGGREGATE <textline bbox="544.850,360.808,616.841,370.768" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">SUPPRESS OR </textline>
+<textline bbox="549.170,348.788,612.426,358.748" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">AGGREGATE </textline>
+</normal_text>
+<normal_text id="11" bbox="63.264,306.423,128.350,316.407" size="9.984" unique_id="11">COUNT DATA <textline bbox="63.264,306.423,128.350,316.407" font="ArialMT" ncolour="0" size="9.984" colourspace="Pattern">COUNT DATA </textline>
+</normal_text>
+<normal_text id="13" bbox="519.720,233.898,545.374,243.858" size="9.96" unique_id="13">&lt;30% <textline bbox="519.720,233.898,545.374,243.858" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&lt;30% </textline>
+</normal_text>
+<normal_text id="14" bbox="615.360,228.768,656.833,238.728" size="9.96" unique_id="14">REPORT <textline bbox="615.360,228.768,656.833,238.728" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">REPORT </textline>
+</normal_text>
+<normal_text id="17" bbox="402.340,164.518,457.289,198.478" size="11.97" unique_id="17">CV=100 x     
+) 
+100,000 . 
+PR <textline bbox="402.340,188.518,457.289,198.478" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">CV=100 x     </textline>
+<textline bbox="447.170,169.520,453.164,187.520" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">) </textline>
+<textline bbox="410.500,176.518,451.789,186.478">100,000 . <text font="ArialMT" bbox="410.500,176.518,416.038,186.478" colourspace="Pattern" ncolour="0" size="9.960">1</text>
+<text font="ArialMT" bbox="416.020,176.518,421.558,186.478" colourspace="Pattern" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="421.540,176.518,427.078,186.478" colourspace="Pattern" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="427.060,176.518,429.829,186.478" colourspace="Pattern" ncolour="0" size="9.960">,</text>
+<text font="ArialMT" bbox="429.811,176.518,435.349,186.478" colourspace="Pattern" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="435.331,176.518,440.869,186.478" colourspace="Pattern" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="440.851,176.518,446.389,186.478" colourspace="Pattern" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="446.371,176.518,449.140,186.478" colourspace="Pattern" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="449.020,176.518,451.789,186.478" colourspace="Pattern" ncolour="(0.996, 0.992, 0.89)" size="9.960">.</text>
+</textline>
+<textline bbox="422.860,164.518,436.651,174.478" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">PR </textline>
+</normal_text>
+<normal_text id="19" bbox="296.980,102.498,346.680,112.458" size="9.96" unique_id="19">CELL SIZE <textline bbox="296.980,102.498,346.680,112.458" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">CELL SIZE </textline>
+</normal_text>
+<normal_text id="20" bbox="519.720,107.998,545.374,117.958" size="9.96" unique_id="20">&gt;30% <textline bbox="519.720,107.998,545.374,117.958" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&gt;30% </textline>
+</normal_text>
+<normal_text id="21" bbox="604.870,102.738,676.845,124.747" size="9.972000000000001" unique_id="21">SUPPRESS OR 
+AGGREGATE <textline bbox="604.870,114.763,676.845,124.747" font="ArialMT" ncolour="0" size="9.984" colourspace="Pattern">SUPPRESS OR </textline>
+<textline bbox="609.190,102.738,672.446,112.698" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">AGGREGATE </textline>
+</normal_text>
+<footer id="22" bbox="325.800,10.988,362.044,20.948" size="9.96" unique_id="22">&lt;20/100 <textline bbox="325.800,10.988,362.044,20.948" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&lt;20/100 </textline>
+</footer>
+<footer id="23" bbox="405.820,10.239,477.811,32.204" size="9.972000000000001" unique_id="23">SUPPRESS OR 
+AGGREGATE <textline bbox="405.820,22.244,477.811,32.204" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">SUPPRESS OR </textline>
+<textline bbox="410.140,10.239,473.389,20.223" font="ArialMT" ncolour="0" size="9.984" colourspace="Pattern">AGGREGATE </textline>
+</footer>
+<picture name="Image8" bbox="0.000,198.480,93.000,536.040" src="Image8.1.93x600.bmp" width="93" height="337" unique_id="24">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.16.93x360.bmp" width="93" height="202" unique_id="25">
+</picture>
+<enlisting bbox="180.65,149.248,407.104,444.528" unique_id="['4', '    16', '    18', '   15', '  3', ' 2', '12']">&#8730;( &#8805;20/100 &#8730;( <normal_text id="4" bbox="331.270,414.830,347.104,432.830" size="18.0" unique_id="4">&#8730;( <textline bbox="331.270,414.830,347.104,432.830" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">&#8730;( </textline>
+</normal_text>
+<normal_text id="16" bbox="322.320,174.018,358.209,183.978" size="9.96" unique_id="16">&#8805;20/100 <textline bbox="322.320,174.018,358.209,183.978" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">&#8805;20/100 </textline>
+</normal_text>
+<normal_text id="18" bbox="391.270,168.780,407.104,186.780" size="18.0" unique_id="18">&#8730;( <textline bbox="391.270,168.780,407.104,186.780" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">&#8730;( </textline>
+</normal_text>
+<normal_text id="15" bbox="186.530,149.248,278.610,171.208" size="9.96" unique_id="15">VULNERABLE 
+(STRICT CRITERIA) <textline bbox="199.850,161.248,265.566,171.208" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">VULNERABLE </textline>
+<textline bbox="186.530,149.248,278.610,159.208" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">(STRICT CRITERIA) </textline>
+</normal_text>
+<title id="3" bbox="342.310,410.568,397.259,444.528" size="11.97" unique_id="3">CV= 100 x    
+) 
+100,000 . 
+PR <textline bbox="342.310,434.568,397.259,444.528" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">CV= 100 x    </textline>
+<textline bbox="387.140,415.570,393.134,433.570" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">) </textline>
+<textline bbox="350.470,422.568,391.759,432.528">100,000 . <text font="ArialMT" bbox="350.470,422.568,356.008,432.528" colourspace="Pattern" ncolour="0" size="9.960">1</text>
+<text font="ArialMT" bbox="355.990,422.568,361.528,432.528" colourspace="Pattern" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="361.510,422.568,367.048,432.528" colourspace="Pattern" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="367.030,422.568,369.799,432.528" colourspace="Pattern" ncolour="0" size="9.960">,</text>
+<text font="ArialMT" bbox="369.781,422.568,375.319,432.528" colourspace="Pattern" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="375.301,422.568,380.839,432.528" colourspace="Pattern" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="380.821,422.568,386.359,432.528" colourspace="Pattern" ncolour="0" size="9.960">0</text>
+<text font="ArialMT" bbox="386.341,422.568,389.110,432.528" colourspace="Pattern" ncolour="0" size="9.960"> </text>
+<text font="ArialMT" bbox="388.990,422.568,391.759,432.528" colourspace="Pattern" ncolour="(0.996, 0.992, 0.89)" size="9.960">.</text>
+</textline>
+<textline bbox="362.830,410.568,376.621,420.528" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">PR </textline>
+</title>
+<normal_text id="2" bbox="180.650,414.068,281.963,436.028" size="9.96" unique_id="2">GENERAL 
+(MINIMUM CRITERIA) <textline bbox="207.550,426.068,255.089,436.028" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">GENERAL </textline>
+<textline bbox="180.650,414.068,281.963,424.028" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">(MINIMUM CRITERIA) </textline>
+</normal_text>
+<normal_text id="12" bbox="200.900,304.288,265.192,326.248" size="9.96" unique_id="12">KIND OF 
+POPULATION <textline bbox="212.660,316.288,253.257,326.248" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">KIND OF </textline>
+<textline bbox="200.900,304.288,265.192,314.248" font="ArialMT" ncolour="0" size="9.960" colourspace="Pattern">POPULATION </textline>
+</normal_text>
+</enlisting></page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[244.86807017543856, 434.29116959064334, 513.633725146199, 490.8215029239766]">
+<title id="0" bbox="287.980,439.387,480.038,483.427" size="44.04" unique_id="0">Next Steps <textline bbox="287.980,439.387,480.038,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Next Steps </textline>
+</title>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.14.93x568.bmp" width="93" height="319" unique_id="5">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.17.93x360.bmp" width="93" height="202" unique_id="6">
+</picture>
+<enlisting bbox="91.224,147.371,669.372,392.558" unique_id="['1', '2', '3', '4']">&#8226; Program into IBIS-Q and SAS CGI 
+&#8226; Determine how to display output and notes &#8211; New Mexico example 
+&#8211; Utah Test server &#8226; Get OK from Data Stewards &#8211; Minimum criteria vs. Strict criteria <normal_text id="1" bbox="91.224,314.389,669.372,392.558" size="32.052" unique_id="1">&#8226; Program into IBIS-Q and SAS CGI 
+&#8226; Determine how to display output and notes <textline bbox="91.224,360.494,572.291,392.558" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Program into IBIS-Q and SAS CGI </textline>
+<textline bbox="91.224,314.389,669.372,346.429" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Determine how to display output and notes </textline>
+</normal_text>
+<normal_text id="2" bbox="127.220,233.771,396.639,302.071" size="27.96" unique_id="2">&#8211; New Mexico example 
+&#8211; Utah Test server <textline bbox="127.220,274.111,396.639,302.071" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; New Mexico example </textline>
+<textline bbox="127.220,233.771,332.163,261.731" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Utah Test server </textline>
+</normal_text>
+<normal_text id="3" bbox="91.224,187.649,482.803,219.689" size="32.04" unique_id="3">&#8226; Get OK from Data Stewards <textline bbox="91.224,187.649,482.803,219.689" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Get OK from Data Stewards </textline>
+</normal_text>
+<normal_text id="4" bbox="127.220,147.371,540.409,175.331" size="27.96" unique_id="4">&#8211; Minimum criteria vs. Strict criteria <textline bbox="127.220,147.371,540.409,175.331" font="TimesNewRomanPSMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Minimum criteria vs. Strict criteria </textline>
+</normal_text>
+</enlisting></page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[242.6872631578947, 434.80075263157903, 516.7783526315791, 490.0820526315789]">
+<title id="0" bbox="223.060,439.387,545.080,483.427" size="44.04" unique_id="0">Next Steps (con&#8217;t) <textline bbox="223.060,439.387,545.080,483.427" font="TimesNewRomanPSMT" ncolour="(0.133, 0.0745, 0.0157)" size="44.040" colourspace="DeviceGray">Next Steps (con&#8217;t) </textline>
+</title>
+<normal_text id="1" bbox="91.224,360.494,586.202,392.558" size="32.064" unique_id="1">Suggested text for 30% &lt; CV &lt;  50% : <textline bbox="91.224,360.494,586.202,392.558" font="TimesNewRomanPSMT" ncolour="0" size="32.064" colourspace="DeviceGray">Suggested text for 30% &lt; CV &lt;  50% : </textline>
+</normal_text>
+<enlisting id="2" bbox="91.224,153.089,654.538,300.349" size="32.04" unique_id="2">&#8226; *Use caution in interpreting, the estimate  
+has a relative standard error greater than  
+30% and does not meet UDOH standards  
+for reliability. <textline bbox="91.224,268.309,654.281,300.349" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; *Use caution in interpreting, the estimate  </textline>
+<textline bbox="118.220,229.889,641.914,261.929" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">has a relative standard error greater than  </textline>
+<textline bbox="118.220,191.489,654.538,223.529" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">30% and does not meet UDOH standards  </textline>
+<textline bbox="118.220,153.089,294.088,185.129" font="TimesNewRomanPSMT" ncolour="0" size="32.040" colourspace="DeviceGray">for reliability. </textline>
+</enlisting>
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.15.93x568.bmp" width="93" height="319" unique_id="3">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.18.93x360.bmp" width="93" height="202" unique_id="4">
+</picture>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[242.6872631578947, 434.80075263157903, 516.7783526315791, 490.0820526315789]">
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.16.93x568.bmp" width="93" height="319" unique_id="0">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.19.93x360.bmp" width="93" height="202" unique_id="1">
+</picture>
+<background name="Image83" bbox="-24.000,-18.000,744.000,558.000" src="Image83.1024x768.bmp" width="768" height="576" unique_id="2">
+</background>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[242.6872631578947, 434.80075263157903, 516.7783526315791, 490.0820526315789]">
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.17.93x568.bmp" width="93" height="319" unique_id="0">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.20.93x360.bmp" width="93" height="202" unique_id="1">
+</picture>
+<background name="Image86" bbox="-24.000,-18.000,744.000,558.000" src="Image86.1024x768.bmp" width="768" height="576" unique_id="2">
+</background>
+</page>
+<page id="23" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[242.6872631578947, 434.80075263157903, 516.7783526315791, 490.0820526315789]">
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.18.93x568.bmp" width="93" height="319" unique_id="0">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.21.93x360.bmp" width="93" height="202" unique_id="1">
+</picture>
+<background name="Image89" bbox="-24.000,-18.000,744.000,558.000" src="Image89.1024x768.bmp" width="768" height="576" unique_id="2">
+</background>
+</page>
+<page id="24" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[242.6872631578947, 434.80075263157903, 516.7783526315791, 490.0820526315789]">
+<picture name="Image20" bbox="0.000,216.480,93.000,536.040" src="Image20.19.93x568.bmp" width="93" height="319" unique_id="0">
+</picture>
+<picture name="Image11" bbox="0.000,5.040,93.000,207.480" src="Image11.22.93x360.bmp" width="93" height="202" unique_id="1">
+</picture>
+<background name="Image92" bbox="-24.000,-18.000,744.000,558.000" src="Image92.1024x768.bmp" width="768" height="576" unique_id="2">
+</background>
+</page>
+</pages>

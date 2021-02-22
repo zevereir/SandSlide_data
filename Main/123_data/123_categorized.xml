@@ -1,0 +1,905 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="144.310,343.957,586.713,440.846" size="44.052" unique_id="0">Hubble Space Telescope  
+Coronagraphs <textline bbox="144.310,396.782,586.713,440.846" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="44.064" colourspace="DeviceGray">Hubble Space Telescope  </textline>
+<textline bbox="236.500,343.957,483.564,387.997" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="44.040" colourspace="DeviceGray">Coronagraphs </textline>
+</title>
+<normal_text id="1" bbox="293.740,116.364,426.289,194.489" size="32.052" unique_id="1">John Krist 
+JPL <textline bbox="293.740,162.449,426.289,194.489" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">John Krist </textline>
+<textline bbox="334.200,116.364,385.855,148.428" font="TimesNewRomanPS-ItalicMT" ncolour="(0, 1, 0)" size="32.064" colourspace="DeviceGray">JPL </textline>
+</normal_text>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[116.83, 486.019, 603.226, 522.043]">
+<title id="0" bbox="116.830,486.019,603.226,522.043" size="36.024" unique_id="0">HST Cameras with Coronagraphs <textline bbox="116.830,486.019,603.226,522.043" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="36.024" colourspace="DeviceGray">HST Cameras with Coronagraphs </textline>
+</title>
+<enlisting bbox="49.2,92.265,575.824,458.539" unique_id="['1', '2', '3', '4', '5', '6']">&#8226; NICMOS Camera 2 &#8211; 20&#8221; x 20&#8221;, 76 mas pixels 
+&#8211; l = 0.9 &#8211; 2.2 mm, multiple filters &#8226; STIS (will be repaired in next mission) &#8211; 52&#8221; x 52&#8221;, 50 mas pixels 
+&#8211; l = 0.2 - 1.0 mm (no filter) &#8226; ACS High Resolution Camera (HRC) &#8211; 26&#8221; x 29&#8221;, 25 mas pixels 
+&#8211; l = 0.2 - 1.0 mm, multiple filters <normal_text id="1" bbox="49.200,426.499,332.320,458.539" size="32.04" unique_id="1">&#8226; NICMOS Camera 2 <textline bbox="49.200,426.499,332.320,458.539" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="32.040" colourspace="DeviceGray">&#8226; NICMOS Camera 2 </textline>
+</normal_text>
+<normal_text id="2" bbox="85.224,345.751,482.190,414.199" size="27.972" unique_id="2">&#8211; 20&#8221; x 20&#8221;, 76 mas pixels 
+&#8211; l = 0.9 &#8211; 2.2 mm, multiple filters <textline bbox="85.224,386.215,391.306,414.199" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="DeviceGray">&#8211; 20&#8221; x 20&#8221;, 76 mas pixels </textline>
+<textline bbox="85.224,345.751,482.190,373.711">&#8211; l = 0.9 &#8211; 2.2 mm, multiple filters <text font="TimesNewRomanPSMT" bbox="85.224,345.751,99.204,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">&#8211;</text>
+<text font="SymbolMT" bbox="114.740,345.751,130.090,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="137.180,345.751,152.949,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">=</text>
+<text font="TimesNewRomanPSMT" bbox="152.949,345.751,159.939,373.711" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="159.939,345.751,173.919,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="173.919,345.751,180.909,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="180.909,345.751,194.889,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">9</text>
+<text font="TimesNewRomanPSMT" bbox="194.889,345.751,201.879,373.711" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="201.890,345.751,215.870,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">&#8211;</text>
+<text font="TimesNewRomanPSMT" bbox="222.890,345.751,236.870,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">2</text>
+<text font="TimesNewRomanPSMT" bbox="236.870,345.751,243.860,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="243.860,345.751,257.840,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">2</text>
+<text font="TimesNewRomanPSMT" bbox="257.896,345.751,264.886,373.711" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="SymbolMT" bbox="264.890,345.751,280.995,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="280.850,345.751,302.603,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="302.463,345.751,309.453,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">,</text>
+<text font="TimesNewRomanPSMT" bbox="309.453,345.751,316.443,373.711" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="316.835,345.751,338.587,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="338.448,345.751,352.428,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">u</text>
+<text font="TimesNewRomanPSMT" bbox="352.428,345.751,360.200,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="360.256,345.751,368.029,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="368.029,345.751,375.802,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="375.802,345.751,389.782,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPSMT" bbox="389.866,345.751,397.639,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="397.639,345.751,410.053,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="410.053,345.751,417.043,373.711" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="416.875,345.751,426.186,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">f</text>
+<text font="TimesNewRomanPSMT" bbox="426.186,345.751,433.959,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="433.959,345.751,441.732,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="441.816,345.751,449.589,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="449.589,345.751,462.003,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="462.003,345.751,471.314,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="471.314,345.751,482.190,373.711" colourspace="DeviceGray" ncolour="1" size="27.960">s</text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="49.200,299.749,575.824,331.789" size="32.04" unique_id="3">&#8226; STIS (will be repaired in next mission) <textline bbox="49.200,299.749,575.824,331.789" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="32.040" colourspace="DeviceGray">&#8226; STIS (will be repaired in next mission) </textline>
+</normal_text>
+<normal_text id="4" bbox="85.224,219.011,413.294,287.449" size="27.972" unique_id="4">&#8211; 52&#8221; x 52&#8221;, 50 mas pixels 
+&#8211; l = 0.2 - 1.0 mm (no filter) <textline bbox="85.224,259.465,384.346,287.449" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="DeviceGray">&#8211; 52&#8221; x 52&#8221;, 50 mas pixels </textline>
+<textline bbox="85.224,219.011,413.294,246.971">&#8211; l = 0.2 - 1.0 mm (no filter) <text font="TimesNewRomanPSMT" bbox="85.224,219.011,99.204,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">&#8211;</text>
+<text font="SymbolMT" bbox="114.740,219.011,130.090,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="137.180,219.011,152.949,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">=</text>
+<text font="TimesNewRomanPSMT" bbox="152.949,219.011,159.939,246.971" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="159.939,219.011,173.919,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="173.919,219.011,180.909,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="180.909,219.011,194.889,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">2</text>
+<text font="TimesNewRomanPSMT" bbox="194.889,219.011,201.879,246.971" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="201.890,219.011,211.201,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">-</text>
+<text font="TimesNewRomanPSMT" bbox="218.330,219.011,232.310,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">1</text>
+<text font="TimesNewRomanPSMT" bbox="232.310,219.011,239.300,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="239.300,219.011,253.280,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="253.336,219.011,260.326,246.971" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="SymbolMT" bbox="260.330,219.011,276.435,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="276.290,219.011,298.043,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="297.903,219.011,304.893,246.971" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="305.201,219.011,314.511,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">(</text>
+<text font="TimesNewRomanPSMT" bbox="314.511,219.011,328.491,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="328.575,219.011,342.555,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="342.555,219.011,349.545,246.971" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="349.545,219.011,358.856,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">f</text>
+<text font="TimesNewRomanPSMT" bbox="358.856,219.011,366.629,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="366.713,219.011,374.486,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="374.486,219.011,382.258,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="382.258,219.011,394.673,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="394.673,219.011,403.983,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="403.983,219.011,413.294,246.971" colourspace="DeviceGray" ncolour="1" size="27.960">)</text>
+</textline>
+</normal_text>
+<normal_text id="5" bbox="49.200,173.009,559.900,205.049" size="32.04" unique_id="5">&#8226; ACS High Resolution Camera (HRC) <textline bbox="49.200,173.009,559.900,205.049" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="32.040" colourspace="DeviceGray">&#8226; ACS High Resolution Camera (HRC) </textline>
+</normal_text>
+<normal_text id="6" bbox="85.224,92.265,477.602,160.709" size="27.972" unique_id="6">&#8211; 26&#8221; x 29&#8221;, 25 mas pixels 
+&#8211; l = 0.2 - 1.0 mm, multiple filters <textline bbox="85.224,132.725,391.306,160.709" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="DeviceGray">&#8211; 26&#8221; x 29&#8221;, 25 mas pixels </textline>
+<textline bbox="85.224,92.265,477.602,120.225">&#8211; l = 0.2 - 1.0 mm, multiple filters <text font="TimesNewRomanPSMT" bbox="85.224,92.265,99.204,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">&#8211;</text>
+<text font="SymbolMT" bbox="114.740,92.265,130.090,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="137.180,92.265,152.949,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">=</text>
+<text font="TimesNewRomanPSMT" bbox="152.949,92.265,159.939,120.225" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="159.939,92.265,173.919,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="173.919,92.265,180.909,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="180.909,92.265,194.889,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">2</text>
+<text font="TimesNewRomanPSMT" bbox="194.889,92.265,201.879,120.225" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="201.890,92.265,211.201,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">-</text>
+<text font="TimesNewRomanPSMT" bbox="218.330,92.265,232.310,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">1</text>
+<text font="TimesNewRomanPSMT" bbox="232.310,92.265,239.300,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="239.300,92.265,253.280,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="253.336,92.265,260.326,120.225" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="SymbolMT" bbox="260.330,92.265,276.435,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="276.290,92.265,298.043,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="297.903,92.265,304.893,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">,</text>
+<text font="TimesNewRomanPSMT" bbox="304.893,92.265,311.883,120.225" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="312.163,92.265,333.916,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="333.776,92.265,347.756,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">u</text>
+<text font="TimesNewRomanPSMT" bbox="347.756,92.265,355.529,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="355.585,92.265,363.357,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="363.357,92.265,371.130,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="371.130,92.265,385.110,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPSMT" bbox="385.194,92.265,392.967,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="392.967,92.265,405.381,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="405.381,92.265,412.371,120.225" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="412.371,92.265,421.682,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">f</text>
+<text font="TimesNewRomanPSMT" bbox="421.682,92.265,429.455,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="429.455,92.265,437.228,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="437.228,92.265,445.001,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="445.001,92.265,457.415,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="457.415,92.265,466.726,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="466.726,92.265,477.602,120.225" colourspace="DeviceGray" ncolour="1" size="27.960">s</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[154.03, 488.4883333333334, 566.0353333333334, 527.1523333333333]">
+<title id="0" bbox="172.630,489.723,547.440,529.707" size="39.984" unique_id="0">NICMOS Coronagraph <textline bbox="172.630,489.723,547.440,529.707" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="39.984" colourspace="DeviceGray">NICMOS Coronagraph </textline>
+</title>
+<normal_text id="3" bbox="586.180,161.976,626.836,185.976" size="24.0" unique_id="3">0.6&#8221; <textline bbox="586.180,161.976,626.836,185.976" font="TimesNewRomanPSMT" ncolour="(0, 0.8, 0.6)" size="24.000" colourspace="DeviceGray">0.6&#8221; </textline>
+</normal_text>
+<picture name="Image25" bbox="504.000,69.960,696.000,246.000" src="Image25.273x260.bmp" width="192" height="176" unique_id="4">
+</picture>
+<enlisting bbox="37.2,261.824,654.879,470.539" unique_id="['1', '2']">&#8226; 76 mas pixels, 20&#8221; x 20&#8221; field 
+&#8226; Multiple filters over l = 0.9 - 2.2 mm 
+&#8226; Occulting spot is r = 0.3&#8221; (1.7 - 3.5 l/D) hole  
+drilled in mirror at intermediate focal plane &#8226; Spot and Lyot stop always in-place <normal_text id="1" bbox="37.200,307.909,654.879,470.539" size="32.04" unique_id="1">&#8226; 76 mas pixels, 20&#8221; x 20&#8221; field 
+&#8226; Multiple filters over l = 0.9 - 2.2 mm 
+&#8226; Occulting spot is r = 0.3&#8221; (1.7 - 3.5 l/D) hole  
+drilled in mirror at intermediate focal plane <textline bbox="37.200,438.499,447.422,470.539" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; 76 mas pixels, 20&#8221; x 20&#8221; field </textline>
+<textline bbox="37.200,392.299,539.707,424.339">&#8226; Multiple filters over l = 0.9 - 2.2 mm <text font="TimesNewRomanPSMT" bbox="37.200,392.299,48.414,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">&#8226;</text>
+<text font="TimesNewRomanPSMT" bbox="64.224,392.299,92.708,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">M</text>
+<text font="TimesNewRomanPSMT" bbox="92.708,392.299,108.728,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">u</text>
+<text font="TimesNewRomanPSMT" bbox="108.728,392.299,117.635,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="TimesNewRomanPSMT" bbox="117.635,392.299,126.542,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="126.542,392.299,135.449,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="135.449,392.299,151.469,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">p</text>
+<text font="TimesNewRomanPSMT" bbox="151.469,392.299,160.376,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="TimesNewRomanPSMT" bbox="160.376,392.299,174.602,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="174.602,392.299,182.612,424.339" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="182.420,392.299,193.089,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">f</text>
+<text font="TimesNewRomanPSMT" bbox="193.089,392.299,201.996,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="201.996,392.299,210.903,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="TimesNewRomanPSMT" bbox="210.903,392.299,219.810,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="219.810,392.299,234.036,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="234.036,392.299,244.705,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="244.705,392.299,257.169,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="257.169,392.299,265.179,424.339" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="265.179,392.299,281.199,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="281.199,392.299,297.219,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">v</text>
+<text font="TimesNewRomanPSMT" bbox="297.219,392.299,311.445,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="311.445,392.299,322.114,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="322.178,392.299,330.188,424.339" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="SymbolMT" bbox="330.070,392.299,347.660,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="SymbolMT" bbox="347.710,392.299,355.720,424.339" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="355.630,392.299,373.701,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">=</text>
+<text font="TimesNewRomanPSMT" bbox="373.701,392.299,381.711,424.339" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="381.711,392.299,397.731,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">0</text>
+<text font="TimesNewRomanPSMT" bbox="397.731,392.299,405.741,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">.</text>
+<text font="TimesNewRomanPSMT" bbox="405.741,392.299,421.761,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">9</text>
+<text font="TimesNewRomanPSMT" bbox="421.825,392.299,429.835,424.339" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="429.670,392.299,440.339,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">-</text>
+<text font="TimesNewRomanPSMT" bbox="448.270,392.299,464.290,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">2</text>
+<text font="TimesNewRomanPSMT" bbox="464.290,392.299,472.300,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">.</text>
+<text font="TimesNewRomanPSMT" bbox="472.396,392.299,488.416,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">2</text>
+<text font="TimesNewRomanPSMT" bbox="488.416,392.299,496.426,424.339" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="SymbolMT" bbox="496.300,392.299,514.755,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">m</text>
+<text font="TimesNewRomanPSMT" bbox="514.780,392.299,539.707,424.339" colourspace="DeviceGray" ncolour="1" size="32.040">m</text>
+</textline>
+<textline bbox="37.200,346.189,654.879,378.229">&#8226; Occulting spot is r = 0.3&#8221; (1.7 - 3.5 l/D) hole  <text font="TimesNewRomanPSMT" bbox="37.200,346.189,48.414,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">&#8226;</text>
+<text font="TimesNewRomanPSMT" bbox="64.224,346.189,87.357,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">O</text>
+<text font="TimesNewRomanPSMT" bbox="87.357,346.189,101.583,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">c</text>
+<text font="TimesNewRomanPSMT" bbox="101.583,346.189,115.808,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">c</text>
+<text font="TimesNewRomanPSMT" bbox="115.905,346.189,131.925,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">u</text>
+<text font="TimesNewRomanPSMT" bbox="131.925,346.189,140.832,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="TimesNewRomanPSMT" bbox="140.832,346.189,149.739,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="149.739,346.189,158.646,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="158.646,346.189,174.666,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">n</text>
+<text font="TimesNewRomanPSMT" bbox="174.666,346.189,190.686,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">g</text>
+<text font="TimesNewRomanPSMT" bbox="190.750,346.189,198.760,378.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="198.440,346.189,210.903,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="210.903,346.189,226.923,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">p</text>
+<text font="TimesNewRomanPSMT" bbox="226.923,346.189,242.943,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="243.039,346.189,251.946,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="251.946,346.189,259.956,378.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="259.732,346.189,268.639,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="268.639,346.189,281.103,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="281.103,346.189,289.113,378.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="289.250,346.189,301.714,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">r</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="301.730,346.189,309.740,378.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="309.770,346.189,327.841,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">=</text>
+<text font="TimesNewRomanPSMT" bbox="327.841,346.189,335.851,378.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="335.851,346.189,351.871,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">0</text>
+<text font="TimesNewRomanPSMT" bbox="351.871,346.189,359.881,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">.</text>
+<text font="TimesNewRomanPSMT" bbox="359.945,346.189,375.965,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">3</text>
+<text font="TimesNewRomanPSMT" bbox="375.965,346.189,390.190,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">&#8221;</text>
+<text font="TimesNewRomanPSMT" bbox="390.319,346.189,398.329,378.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="398.008,346.189,408.677,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">(</text>
+<text font="TimesNewRomanPSMT" bbox="408.677,346.189,424.697,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">1</text>
+<text font="TimesNewRomanPSMT" bbox="424.697,346.189,432.707,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">.</text>
+<text font="TimesNewRomanPSMT" bbox="432.804,346.189,448.824,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">7</text>
+<text font="TimesNewRomanPSMT" bbox="448.824,346.189,456.834,378.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="456.700,346.189,467.369,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">-</text>
+<text font="TimesNewRomanPSMT" bbox="475.300,346.189,491.320,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">3</text>
+<text font="TimesNewRomanPSMT" bbox="491.320,346.189,499.330,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">.</text>
+<text font="TimesNewRomanPSMT" bbox="499.330,346.189,515.350,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">5</text>
+<text font="TimesNewRomanPSMT" bbox="515.478,346.189,523.488,378.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="SymbolMT" bbox="523.300,346.189,540.890,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="TimesNewRomanPSMT" bbox="540.940,346.189,549.847,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">/</text>
+<text font="TimesNewRomanPSMT" bbox="549.847,346.189,572.980,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">D</text>
+<text font="TimesNewRomanPSMT" bbox="572.980,346.189,583.649,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">)</text>
+<text font="TimesNewRomanPSMT" bbox="591.600,346.189,607.620,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">h</text>
+<text font="TimesNewRomanPSMT" bbox="607.620,346.189,623.640,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="623.736,346.189,632.643,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="TimesNewRomanPSMT" bbox="632.643,346.189,646.869,378.229" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="646.869,346.189,654.879,378.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+</textline>
+<textline bbox="64.224,307.909,618.804,339.949" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">drilled in mirror at intermediate focal plane </textline>
+</normal_text>
+<normal_text id="2" bbox="37.200,261.824,513.501,293.888" size="32.064" unique_id="2">&#8226; Spot and Lyot stop always in-place <textline bbox="37.200,261.824,513.501,293.888" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; Spot and Lyot stop always in-place </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[139.75, 473.39366666666666, 580.1386666666667, 532.0296666666667]">
+<title id="0" bbox="125.470,458.299,594.242,536.907" size="36.012" unique_id="0">NICMOS Coronagraph Pupil 
+Models <textline bbox="125.470,496.923,594.242,536.907" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="39.984" colourspace="DeviceGray">NICMOS Coronagraph Pupil </textline>
+<textline bbox="311.880,458.299,408.096,490.339" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">Models </textline>
+</title>
+<normal_text id="1" bbox="43.200,373.705,214.154,401.689" size="27.984" unique_id="1">Pupil after spot <textline bbox="43.200,373.705,214.154,401.689" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.984" colourspace="DeviceGray">Pupil after spot </textline>
+</normal_text>
+<normal_text id="2" bbox="266.620,373.735,457.335,435.301" size="27.972" unique_id="2">With an Aligned  
+Lyot Stop <textline bbox="266.620,407.341,457.335,435.301" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.960" colourspace="DeviceGray">With an Aligned  </textline>
+<textline bbox="307.080,373.735,416.749,401.719" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.984" colourspace="DeviceGray">Lyot Stop </textline>
+</normal_text>
+<normal_text id="3" bbox="493.700,373.735,700.716,435.301" size="27.972" unique_id="3">With a Misaligned 
+Lyot Stop <textline bbox="493.700,407.341,700.716,435.301" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.960" colourspace="DeviceGray">With a Misaligned </textline>
+<textline bbox="542.420,373.735,652.089,401.719" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.984" colourspace="DeviceGray">Lyot Stop </textline>
+</normal_text>
+<picture name="Image29" bbox="12.000,132.960,714.000,367.080" src="Image29.jpg" width="702" height="234" unique_id="4">
+</picture>
+<picture name="Image29" bbox="12.000,132.000,714.000,366.120" src="Image29.0.jpg" width="702" height="234" unique_id="5">
+</picture>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[98.2212, 463.77260000000007, 622.0432000000001, 531.635]">
+<title id="0" bbox="35.928,449.341,684.900,531.043" size="31.992" unique_id="0">Effects of NICMOS Lyot Stop Misalignment 
+F110W (~J band) <textline bbox="35.928,495.019,684.900,531.043" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="36.024" colourspace="DeviceGray">Effects of NICMOS Lyot Stop Misalignment </textline>
+<textline bbox="265.250,449.341,460.774,477.301" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">F110W (~J band) </textline>
+</title>
+<normal_text id="4" bbox="79.224,36.696,649.344,60.696" size="24.0" unique_id="4">Misalignment results in 2x more light in the wings + spikes <textline bbox="79.224,36.696,649.344,60.696" font="TimesNewRomanPSMT" ncolour="(0.4, 1, 1)" size="24.000" colourspace="DeviceGray">Misalignment results in 2x more light in the wings + spikes </textline>
+</normal_text>
+<picture name="Image32" bbox="12.000,205.320,236.280,429.600" src="Image32.jpg" width="224" height="224" unique_id="5" caption="Aligned Lyot Stop &#10;Model " caption_ids="['1']">
+</picture>
+<picture name="Image33" bbox="250.800,205.320,475.200,429.600" src="Image33.jpg" width="224" height="224" unique_id="6" caption="Misaligned Lyot Stop &#10;Model " caption_ids="['2']">
+</picture>
+<picture name="Image34" bbox="489.720,205.320,714.000,429.600" src="Image34.jpg" width="224" height="224" unique_id="7" caption="Observed " caption_ids="['3']">
+</picture>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[117.86413333333333, 459.0920666666667, 602.3994666666666, 532.6826666666667]">
+<title id="0" bbox="157.150,449.731,563.112,534.778" size="25.368" unique_id="0">NICMOS Image of HD 141569 
+F110W (~J band) 
+Science results in Weinberger et al. (1999) <textline bbox="157.150,502.714,563.112,534.778" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064" colourspace="DeviceGray">NICMOS Image of HD 141569 </textline>
+<textline bbox="276.100,473.836,443.740,497.836" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">F110W (~J band) </textline>
+<textline bbox="190.540,449.731,529.456,469.771" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Science results in Weinberger et al. (1999) </textline>
+</title>
+<normal_text id="1" bbox="101.980,406.036,214.756,430.036" size="24.0" unique_id="1">HD 141569 <textline bbox="101.980,406.036,214.756,430.036" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="24.000" colourspace="DeviceGray">HD 141569 </textline>
+</normal_text>
+<normal_text id="2" bbox="289.250,406.036,437.110,430.036" size="24.0" unique_id="2">Image1 &#8211; PSF1 <textline bbox="289.250,406.036,437.110,430.036" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="24.000" colourspace="DeviceGray">Image1 &#8211; PSF1 </textline>
+</normal_text>
+<normal_text id="3" bbox="475.300,406.036,623.212,430.036" size="24.0" unique_id="3">Image1 &#8211; PSF2 <textline bbox="475.300,406.036,623.212,430.036" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="24.000" colourspace="DeviceGray">Image1 &#8211; PSF2 </textline>
+</normal_text>
+<picture name="Image37" bbox="279.600,81.720,647.160,406.800" src="Image37.jpg" width="367" height="325" unique_id="7" caption="Image2 &#8211; PSF1 &#10;Image2 &#8211; PSF2 " caption_ids="['5', '6']">
+</picture>
+<picture name="Image38" bbox="66.000,244.680,249.360,406.800" src="Image38.jpg" width="183" height="162" unique_id="8">
+</picture>
+<picture name="Image39" bbox="66.000,78.480,249.360,240.480" src="Image39.jpg" width="183" height="162" unique_id="9" caption="Reference Star " caption_ids="['4']">
+</picture>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[148.33152380952382, 468.49976190476195, 571.869619047619, 531.3570476190476]">
+<title id="0" bbox="224.500,492.019,495.545,528.043" size="36.024" unique_id="0">STIS Coronagraph <textline bbox="224.500,492.019,495.545,528.043" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="36.024" colourspace="DeviceGray">STIS Coronagraph </textline>
+</title>
+<enlisting bbox="61.224,191.729,660.726,446.539" unique_id="['1', ' 3', '2']">&#8226; Primarily a spectrograph 
+&#8226; CCD, 50 mas pixels, 52&#8221; x 52&#8221; field 
+&#8226; Unfiltered imaging over l = 0.2 - 1.0 mm 
+&#8226; Occulters are crossed wedges: d = 0.5&#8221;-2.8&#8221;  &#8226; Lyot stop always in the beam <normal_text id="1" bbox="61.224,276.229,660.726,446.539" size="32.046" unique_id="1">&#8226; Primarily a spectrograph 
+&#8226; CCD, 50 mas pixels, 52&#8221; x 52&#8221; field 
+&#8226; Unfiltered imaging over l = 0.2 - 1.0 mm 
+&#8226; Occulters are crossed wedges: d = 0.5&#8221;-2.8&#8221;  <textline bbox="61.224,414.499,404.907,446.539" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Primarily a spectrograph </textline>
+<textline bbox="61.224,368.414,553.505,400.478" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="DeviceGray">&#8226; CCD, 50 mas pixels, 52&#8221; x 52&#8221; field </textline>
+<textline bbox="61.224,322.189,615.207,354.229">&#8226; Unfiltered imaging over l = 0.2 - 1.0 mm <text font="TimesNewRomanPSMT" bbox="61.224,322.189,72.438,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">&#8226;</text>
+<text font="TimesNewRomanPSMT" bbox="88.224,322.189,111.357,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">U</text>
+<text font="TimesNewRomanPSMT" bbox="111.357,322.189,127.377,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">n</text>
+<text font="TimesNewRomanPSMT" bbox="127.377,322.189,138.046,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">f</text>
+<text font="TimesNewRomanPSMT" bbox="138.110,322.189,147.017,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="147.017,322.189,155.925,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="TimesNewRomanPSMT" bbox="155.925,322.189,164.832,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="164.832,322.189,179.057,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="179.057,322.189,189.727,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="189.727,322.189,203.952,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="203.952,322.189,219.972,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">d</text>
+<text font="TimesNewRomanPSMT" bbox="220.037,322.189,228.047,354.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="227.726,322.189,236.633,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="236.633,322.189,261.560,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">m</text>
+<text font="TimesNewRomanPSMT" bbox="261.560,322.189,275.786,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="275.786,322.189,291.806,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">g</text>
+<text font="TimesNewRomanPSMT" bbox="291.902,322.189,300.809,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="300.809,322.189,316.829,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">n</text>
+<text font="TimesNewRomanPSMT" bbox="316.829,322.189,332.849,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">g</text>
+<text font="TimesNewRomanPSMT" bbox="332.849,322.189,340.859,354.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="340.507,322.189,356.527,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="356.527,322.189,372.547,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">v</text>
+<text font="TimesNewRomanPSMT" bbox="372.643,322.189,386.869,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="386.869,322.189,397.538,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="397.538,322.189,405.548,354.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="SymbolMT" bbox="405.550,322.189,423.140,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="SymbolMT" bbox="423.190,322.189,431.200,354.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="431.110,322.189,449.181,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">=</text>
+<text font="TimesNewRomanPSMT" bbox="449.181,322.189,457.191,354.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="457.191,322.189,473.211,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">0</text>
+<text font="TimesNewRomanPSMT" bbox="473.211,322.189,481.221,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">.</text>
+<text font="TimesNewRomanPSMT" bbox="481.221,322.189,497.241,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">2</text>
+<text font="TimesNewRomanPSMT" bbox="497.305,322.189,505.315,354.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="505.180,322.189,515.849,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">-</text>
+<text font="TimesNewRomanPSMT" bbox="523.780,322.189,539.800,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">1</text>
+<text font="TimesNewRomanPSMT" bbox="539.800,322.189,547.810,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">.</text>
+<text font="TimesNewRomanPSMT" bbox="547.810,322.189,563.830,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">0</text>
+<text font="TimesNewRomanPSMT" bbox="563.958,322.189,571.968,354.229" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="SymbolMT" bbox="571.780,322.189,590.235,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">m</text>
+<text font="TimesNewRomanPSMT" bbox="590.280,322.189,615.207,354.229" colourspace="DeviceGray" ncolour="1" size="32.040">m</text>
+</textline>
+<textline bbox="61.224,276.229,660.726,308.269">&#8226; Occulters are crossed wedges: d = 0.5&#8221;-2.8&#8221;  <text font="TimesNewRomanPSMT" bbox="61.224,276.229,72.438,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">&#8226;</text>
+<text font="TimesNewRomanPSMT" bbox="88.224,276.229,111.357,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">O</text>
+<text font="TimesNewRomanPSMT" bbox="111.357,276.229,125.583,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">c</text>
+<text font="TimesNewRomanPSMT" bbox="125.583,276.229,139.808,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">c</text>
+<text font="TimesNewRomanPSMT" bbox="139.905,276.229,155.925,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">u</text>
+<text font="TimesNewRomanPSMT" bbox="155.925,276.229,164.832,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">l</text>
+<text font="TimesNewRomanPSMT" bbox="164.832,276.229,173.739,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="173.739,276.229,187.965,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="187.965,276.229,198.634,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="198.634,276.229,211.097,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="211.097,276.229,219.107,308.269" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="218.979,276.229,233.205,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="233.205,276.229,243.874,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="243.874,276.229,258.100,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="258.196,276.229,266.206,308.269" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="265.982,276.229,280.208,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">c</text>
+<text font="TimesNewRomanPSMT" bbox="280.208,276.229,290.877,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="290.877,276.229,306.897,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="306.993,276.229,319.457,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="319.457,276.229,331.920,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="331.920,276.229,346.146,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="346.146,276.229,362.166,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">d</text>
+<text font="TimesNewRomanPSMT" bbox="362.294,276.229,370.304,308.269" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="370.080,276.229,393.213,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">w</text>
+<text font="TimesNewRomanPSMT" bbox="393.213,276.229,407.439,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="407.439,276.229,423.459,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">d</text>
+<text font="TimesNewRomanPSMT" bbox="423.555,276.229,439.575,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">g</text>
+<text font="TimesNewRomanPSMT" bbox="439.575,276.229,453.800,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="453.897,276.229,466.360,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="466.360,276.229,475.267,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">:</text>
+<text font="TimesNewRomanPSMT" bbox="475.267,276.229,483.277,308.269" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="483.340,276.229,499.360,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">d</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="499.420,276.229,507.430,308.269" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="507.340,276.229,525.411,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">=</text>
+<text font="TimesNewRomanPSMT" bbox="525.411,276.229,533.421,308.269" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="533.260,276.229,549.280,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">0</text>
+<text font="TimesNewRomanPSMT" bbox="549.280,276.229,557.290,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">.</text>
+<text font="TimesNewRomanPSMT" bbox="557.290,276.229,573.310,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">5</text>
+<text font="TimesNewRomanPSMT" bbox="573.439,276.229,587.664,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">&#8221;</text>
+<text font="TimesNewRomanPSMT" bbox="587.760,276.229,598.429,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">-</text>
+<text font="TimesNewRomanPSMT" bbox="598.440,276.229,614.460,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">2</text>
+<text font="TimesNewRomanPSMT" bbox="614.460,276.229,622.470,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">.</text>
+<text font="TimesNewRomanPSMT" bbox="622.470,276.229,638.490,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">8</text>
+<text font="TimesNewRomanPSMT" bbox="638.490,276.229,652.716,308.269" colourspace="DeviceGray" ncolour="1" size="32.040">&#8221;</text>
+<text font="TimesNewRomanPSMT" bbox="652.716,276.229,660.726,308.269" colourspace="DeviceGray" ncolour="1" size="32.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="61.224,191.729,462.708,223.769" size="32.04" unique_id="3">&#8226; Lyot stop always in the beam <textline bbox="61.224,191.729,462.708,223.769" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="DeviceGray">&#8226; Lyot stop always in the beam </textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,237.704,403.375,269.768" size="32.064" unique_id="2">(r = 5l/D &#8211; 30l/D @ V) <textline bbox="88.224,237.704,403.375,269.768">(r = 5l/D &#8211; 30l/D @ V) <text font="TimesNewRomanPSMT" bbox="88.224,237.704,98.901,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">(</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="98.904,237.704,111.377,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">r</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="111.384,237.704,119.400,269.768" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="TimesNewRomanPSMT" bbox="119.300,237.704,137.384,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">=</text>
+<text font="TimesNewRomanPSMT" bbox="137.384,237.704,145.400,269.768" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="TimesNewRomanPSMT" bbox="145.400,237.704,161.432,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">5</text>
+<text font="SymbolMT" bbox="161.420,237.704,179.023,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">l</text>
+<text font="TimesNewRomanPSMT" bbox="179.060,237.704,187.974,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">/</text>
+<text font="TimesNewRomanPSMT" bbox="187.974,237.704,211.124,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">D</text>
+<text font="TimesNewRomanPSMT" bbox="211.124,237.704,219.140,269.768" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="TimesNewRomanPSMT" bbox="219.050,237.704,235.082,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">&#8211;</text>
+<text font="TimesNewRomanPSMT" bbox="243.050,237.704,259.082,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">3</text>
+<text font="TimesNewRomanPSMT" bbox="259.130,237.704,275.162,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">0</text>
+<text font="SymbolMT" bbox="275.210,237.704,292.813,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">l</text>
+<text font="TimesNewRomanPSMT" bbox="292.850,237.704,301.764,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">/</text>
+<text font="TimesNewRomanPSMT" bbox="301.764,237.704,324.914,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">D</text>
+<text font="TimesNewRomanPSMT" bbox="324.914,237.704,332.930,269.768" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="TimesNewRomanPSMT" bbox="332.577,237.704,362.108,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">@</text>
+<text font="TimesNewRomanPSMT" bbox="362.108,237.704,370.124,269.768" colourspace="DeviceGray" ncolour="1" size="32.064"> </text>
+<text font="TimesNewRomanPSMT" bbox="369.547,237.704,392.697,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">V</text>
+<text font="TimesNewRomanPSMT" bbox="392.697,237.704,403.375,269.768" colourspace="DeviceGray" ncolour="1" size="32.064">)</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[173.64364285714285, 472.12957142857147, 546.5399642857143, 528.2785357142857]">
+<title id="0" bbox="249.580,483.019,470.551,519.043" size="36.024" unique_id="0">STIS Occulters <textline bbox="249.580,483.019,470.551,519.043" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="36.024" colourspace="DeviceGray">STIS Occulters </textline>
+</title>
+<picture name="Image44" bbox="54.000,156.000,369.240,450.000" src="Image44.1055x984.bmp" width="315" height="294" unique_id="1">
+</picture>
+<picture name="Image45" bbox="369.240,160.080,654.000,444.960" src="Image45.jpg" width="284" height="284" unique_id="2">
+</picture>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[168.6183888888889, 470.12277777777786, 551.5719722222223, 529.4561944444445]">
+<title id="0" bbox="151.030,463.099,569.184,533.578" size="32.052" unique_id="0">STIS Coronagraph 
+Computed Intensity at Lyot Stop <textline bbox="239.500,501.514,480.685,533.578" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064" colourspace="DeviceGray">STIS Coronagraph </textline>
+<textline bbox="151.030,463.099,569.184,495.139" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.040" colourspace="DeviceGray">Computed Intensity at Lyot Stop </textline>
+</title>
+<normal_text id="1" bbox="98.232,373.735,291.266,435.301" size="27.972" unique_id="1">After Occulter, 
+Before Lyot Stop <textline bbox="110.590,407.341,279.105,435.301" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.960" colourspace="DeviceGray">After Occulter, </textline>
+<textline bbox="98.232,373.735,291.266,401.719" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.984" colourspace="DeviceGray">Before Lyot Stop </textline>
+</normal_text>
+<normal_text id="2" bbox="415.390,396.701,591.258,424.661" size="27.96" unique_id="2">After Lyot Stop <textline bbox="415.390,396.701,591.258,424.661" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.960" colourspace="DeviceGray">After Lyot Stop </textline>
+</normal_text>
+<picture name="Image48" bbox="42.000,80.520,351.480,390.120" src="Image48.jpg" width="309" height="309" unique_id="3">
+</picture>
+<picture name="Image49" bbox="350.520,80.520,660.000,390.120" src="Image49.jpg" width="309" height="309" unique_id="4">
+</picture>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[167.8847111111111, 476.90202222222223, 552.3043777777777, 531.5735555555555]">
+<title id="0" bbox="164.950,504.019,555.234,540.043" size="36.024" unique_id="0">STIS Image of HD 141569 <textline bbox="164.950,504.019,555.234,540.043" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="36.024" colourspace="DeviceGray">STIS Image of HD 141569 </textline>
+</title>
+<normal_text id="1" bbox="143.980,472.036,256.756,496.036" size="24.0" unique_id="1">HD 141569 <textline bbox="143.980,472.036,256.756,496.036" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="24.000" colourspace="DeviceGray">HD 141569 </textline>
+</normal_text>
+<normal_text id="2" bbox="400.030,430.856,628.977,450.920" size="20.064" unique_id="2">HD 141569 - Reference Star <textline bbox="400.030,430.856,628.977,450.920" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="20.064" colourspace="DeviceGray">HD 141569 - Reference Star </textline>
+</normal_text>
+<normal_text id="3" bbox="469.300,352.006,491.956,376.006" size="24.0" unique_id="3">7&#8221; <textline bbox="469.300,352.006,491.956,376.006" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">7&#8221; </textline>
+</normal_text>
+<normal_text id="5" bbox="361.270,45.903,676.920,65.943" size="20.04" unique_id="5">Science results in Mouillet et al. (2001) <textline bbox="361.270,45.903,676.920,65.943" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Science results in Mouillet et al. (2001) </textline>
+</normal_text>
+<picture name="Image52" bbox="77.280,251.280,324.000,498.000" src="Image52.jpg" width="246" height="246" unique_id="6" caption="Reference Star " caption_ids="['4']">
+</picture>
+<picture name="Image45" bbox="77.280,0.000,324.000,246.720" src="Image45.0.jpg" width="246" height="246" unique_id="7">
+</picture>
+<picture name="Image53" bbox="390.000,174.000,642.000,426.000" src="Image53.jpg" width="252" height="252" unique_id="8">
+</picture>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[170.91294545454545, 479.6505636363637, 549.2399454545455, 530.9316363636364]">
+<title id="0" bbox="184.540,492.019,535.450,528.043" size="36.024" unique_id="0">ACS/HRC Coronagraph <textline bbox="184.540,492.019,535.450,528.043" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="36.024" colourspace="DeviceGray">ACS/HRC Coronagraph </textline>
+</title>
+<enlisting bbox="43.2,163.211,666.89,453.181" unique_id="['1', '   3', '   5', '  2', ' 4', '6']">&#8226; CCD, 25 mas pixels, PSF FWHM=50 mas @ 0.5 mm 
+&#8226; Multiple filters over l = 0.2 - 1.0 mm 
+&#8226; Selectable mode in the HRC: the occulting spots and  &#8226; Two occulting spots: r = 0.9&#8221; and 1.8&#8221; (38l/D &#8211; &#8226; Occulting spots in the aberrated beam from HST,  <normal_text id="1" bbox="43.200,344.671,666.890,453.181" size="27.968" unique_id="1">&#8226; CCD, 25 mas pixels, PSF FWHM=50 mas @ 0.5 mm 
+&#8226; Multiple filters over l = 0.2 - 1.0 mm 
+&#8226; Selectable mode in the HRC: the occulting spots and  <textline bbox="43.200,425.221,665.793,453.181">&#8226; CCD, 25 mas pixels, PSF FWHM=50 mas @ 0.5 mm <text font="TimesNewRomanPSMT" bbox="43.200,425.221,52.986,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">&#8226;</text>
+<text font="TimesNewRomanPSMT" bbox="70.224,425.221,88.873,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">C</text>
+<text font="TimesNewRomanPSMT" bbox="88.873,425.221,107.523,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">C</text>
+<text font="TimesNewRomanPSMT" bbox="107.411,425.221,127.598,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">D</text>
+<text font="TimesNewRomanPSMT" bbox="127.598,425.221,134.588,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">,</text>
+<text font="TimesNewRomanPSMT" bbox="134.588,425.221,141.578,453.181" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="141.690,425.221,155.670,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">2</text>
+<text font="TimesNewRomanPSMT" bbox="155.670,425.221,169.650,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">5</text>
+<text font="TimesNewRomanPSMT" bbox="169.734,425.221,176.724,453.181" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="176.584,425.221,198.337,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="198.197,425.221,210.611,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="210.611,425.221,221.488,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="221.488,425.221,228.478,453.181" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="228.645,425.221,242.625,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPSMT" bbox="242.625,425.221,250.398,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="250.454,425.221,264.434,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">x</text>
+<text font="TimesNewRomanPSMT" bbox="264.434,425.221,276.848,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="276.848,425.221,284.621,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="284.621,425.221,295.498,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="295.498,425.221,302.488,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">,</text>
+<text font="TimesNewRomanPSMT" bbox="302.488,425.221,309.478,453.181" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="309.366,425.221,324.912,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">P</text>
+<text font="TimesNewRomanPSMT" bbox="324.912,425.221,340.457,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">S</text>
+<text font="TimesNewRomanPSMT" bbox="340.541,425.221,356.087,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">F</text>
+<text font="TimesNewRomanPSMT" bbox="356.087,425.221,363.077,453.181" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="363.189,425.221,378.735,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">F</text>
+<text font="TimesNewRomanPSMT" bbox="378.735,425.221,405.129,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">W</text>
+<text font="TimesNewRomanPSMT" bbox="405.129,425.221,425.316,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">H</text>
+<text font="TimesNewRomanPSMT" bbox="425.316,425.221,450.172,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">M</text>
+<text font="TimesNewRomanPSMT" bbox="450.172,425.221,465.942,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">=</text>
+<text font="TimesNewRomanPSMT" bbox="465.942,425.221,479.922,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">5</text>
+<text font="TimesNewRomanPSMT" bbox="479.922,425.221,493.902,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="493.958,425.221,500.948,453.181" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="501.004,425.221,522.757,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="522.617,425.221,535.031,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="535.031,425.221,545.907,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="545.907,425.221,552.897,453.181" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="552.897,425.221,578.649,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">@</text>
+<text font="TimesNewRomanPSMT" bbox="578.760,425.221,585.750,453.181" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="585.750,425.221,599.730,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="599.730,425.221,606.720,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="606.720,425.221,620.700,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">5</text>
+<text font="TimesNewRomanPSMT" bbox="620.700,425.221,627.690,453.181" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="SymbolMT" bbox="628.080,425.221,644.185,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="644.040,425.221,665.793,453.181" colourspace="DeviceGray" ncolour="1" size="27.960">m</text>
+</textline>
+<textline bbox="43.200,384.895,485.792,412.879">&#8226; Multiple filters over l = 0.2 - 1.0 mm <text font="TimesNewRomanPSMT" bbox="43.200,384.895,52.994,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">&#8226;</text>
+<text font="TimesNewRomanPSMT" bbox="70.224,384.895,95.102,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">M</text>
+<text font="TimesNewRomanPSMT" bbox="95.102,384.895,109.094,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">u</text>
+<text font="TimesNewRomanPSMT" bbox="109.094,384.895,116.873,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">l</text>
+<text font="TimesNewRomanPSMT" bbox="116.873,384.895,124.653,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">t</text>
+<text font="TimesNewRomanPSMT" bbox="124.653,384.895,132.432,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">i</text>
+<text font="TimesNewRomanPSMT" bbox="132.432,384.895,146.424,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">p</text>
+<text font="TimesNewRomanPSMT" bbox="146.508,384.895,154.288,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">l</text>
+<text font="TimesNewRomanPSMT" bbox="154.288,384.895,166.713,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">e</text>
+<text font="TimesNewRomanPSMT" bbox="166.713,384.895,173.709,412.879" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="173.401,384.895,182.720,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">f</text>
+<text font="TimesNewRomanPSMT" bbox="182.720,384.895,190.499,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">i</text>
+<text font="TimesNewRomanPSMT" bbox="190.499,384.895,198.279,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">l</text>
+<text font="TimesNewRomanPSMT" bbox="198.279,384.895,206.058,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">t</text>
+<text font="TimesNewRomanPSMT" bbox="206.142,384.895,218.567,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">e</text>
+<text font="TimesNewRomanPSMT" bbox="218.567,384.895,227.886,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">r</text>
+<text font="TimesNewRomanPSMT" bbox="227.886,384.895,238.772,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">s</text>
+<text font="TimesNewRomanPSMT" bbox="238.772,384.895,245.768,412.879" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="245.768,384.895,259.760,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">o</text>
+<text font="TimesNewRomanPSMT" bbox="259.760,384.895,273.752,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">v</text>
+<text font="TimesNewRomanPSMT" bbox="273.752,384.895,286.177,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">e</text>
+<text font="TimesNewRomanPSMT" bbox="286.177,384.895,295.495,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">r</text>
+<text font="TimesNewRomanPSMT" bbox="295.495,384.895,302.491,412.879" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="SymbolMT" bbox="302.450,384.895,317.813,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">l</text>
+<text font="SymbolMT" bbox="317.810,384.895,324.806,412.879" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="324.910,384.895,340.693,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">=</text>
+<text font="TimesNewRomanPSMT" bbox="340.693,384.895,347.689,412.879" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="347.577,384.895,361.569,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">0</text>
+<text font="TimesNewRomanPSMT" bbox="361.569,384.895,368.565,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">.</text>
+<text font="TimesNewRomanPSMT" bbox="368.565,384.895,382.557,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">2</text>
+<text font="TimesNewRomanPSMT" bbox="382.557,384.895,389.553,412.879" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="389.590,384.895,398.909,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">-</text>
+<text font="TimesNewRomanPSMT" bbox="406.030,384.895,420.022,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">1</text>
+<text font="TimesNewRomanPSMT" bbox="420.022,384.895,427.018,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">.</text>
+<text font="TimesNewRomanPSMT" bbox="427.018,384.895,441.010,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">0</text>
+<text font="TimesNewRomanPSMT" bbox="441.010,384.895,448.006,412.879" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="SymbolMT" bbox="448.030,384.895,464.149,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">m</text>
+<text font="TimesNewRomanPSMT" bbox="464.020,384.895,485.792,412.879" colourspace="DeviceGray" ncolour="1" size="27.984">m</text>
+</textline>
+<textline bbox="43.200,344.671,666.890,372.631" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">&#8226; Selectable mode in the HRC: the occulting spots and  </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,270.631,608.460,298.591" size="27.96" unique_id="3">&#8226; Two occulting spots: r = 0.9&#8221; and 1.8&#8221; (38l/D &#8211; <textline bbox="43.200,270.631,608.460,298.591">&#8226; Two occulting spots: r = 0.9&#8221; and 1.8&#8221; (38l/D &#8211; <text font="TimesNewRomanPSMT" bbox="43.200,270.631,52.986,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">&#8226;</text>
+<text font="TimesNewRomanPSMT" bbox="70.224,270.631,87.308,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">T</text>
+<text font="TimesNewRomanPSMT" bbox="85.350,270.631,105.537,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">w</text>
+<text font="TimesNewRomanPSMT" bbox="105.537,270.631,119.517,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="119.517,270.631,126.507,298.591" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="126.591,270.631,140.571,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="140.571,270.631,152.986,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">c</text>
+<text font="TimesNewRomanPSMT" bbox="152.986,270.631,165.400,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">c</text>
+<text font="TimesNewRomanPSMT" bbox="165.400,270.631,179.380,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">u</text>
+<text font="TimesNewRomanPSMT" bbox="179.380,270.631,187.153,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="187.153,270.631,194.926,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="194.926,270.631,202.698,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">i</text>
+<text font="TimesNewRomanPSMT" bbox="202.754,270.631,216.734,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="216.734,270.631,230.714,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">g</text>
+<text font="TimesNewRomanPSMT" bbox="230.798,270.631,237.788,298.591" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="237.509,270.631,248.385,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="248.385,270.631,262.365,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPSMT" bbox="262.449,270.631,276.429,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPSMT" bbox="276.429,270.631,284.202,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="284.258,270.631,295.134,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">s</text>
+<text font="TimesNewRomanPSMT" bbox="295.134,270.631,302.907,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">:</text>
+<text font="TimesNewRomanPSMT" bbox="302.907,270.631,309.897,298.591" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="309.890,270.631,320.766,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPS-ItalicMT" bbox="320.810,270.631,327.800,298.591" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="327.790,270.631,343.559,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">=</text>
+<text font="TimesNewRomanPSMT" bbox="343.559,270.631,350.549,298.591" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="350.549,270.631,364.529,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="364.613,270.631,371.603,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="371.603,270.631,385.583,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">9</text>
+<text font="TimesNewRomanPSMT" bbox="385.583,270.631,397.998,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">&#8221;</text>
+<text font="TimesNewRomanPSMT" bbox="397.998,270.631,404.988,298.591" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="404.988,270.631,417.402,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="417.290,270.631,431.270,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="431.270,270.631,445.250,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="445.334,270.631,452.324,298.591" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="452.324,270.631,466.304,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">1</text>
+<text font="TimesNewRomanPSMT" bbox="466.304,270.631,473.294,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="473.294,270.631,487.274,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">8</text>
+<text font="TimesNewRomanPSMT" bbox="487.274,270.631,499.688,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">&#8221;</text>
+<text font="TimesNewRomanPSMT" bbox="499.688,270.631,506.678,298.591" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="506.678,270.631,515.989,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">(</text>
+<text font="TimesNewRomanPSMT" bbox="515.989,270.631,529.969,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">3</text>
+<text font="TimesNewRomanPSMT" bbox="530.025,270.631,544.005,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">8</text>
+<text font="SymbolMT" bbox="544.180,270.631,559.530,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="559.540,270.631,567.313,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">/</text>
+<text font="TimesNewRomanPSMT" bbox="567.313,270.631,587.500,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">D</text>
+<text font="TimesNewRomanPSMT" bbox="587.500,270.631,594.490,298.591" colourspace="DeviceGray" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="594.480,270.631,608.460,298.591" colourspace="DeviceGray" ncolour="1" size="27.960">&#8211;</text>
+</textline>
+</normal_text>
+<normal_text id="5" bbox="43.200,196.811,626.376,224.771" size="27.96" unique_id="5">&#8226; Occulting spots in the aberrated beam from HST,  <textline bbox="43.200,196.811,626.376,224.771" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">&#8226; Occulting spots in the aberrated beam from HST,  </textline>
+</normal_text>
+<normal_text id="2" bbox="70.224,311.071,401.746,339.031" size="27.96" unique_id="2">Lyot stop flip in on command <textline bbox="70.224,311.071,401.746,339.031" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">Lyot stop flip in on command </textline>
+</normal_text>
+<normal_text id="4" bbox="70.224,237.025,210.373,265.009" size="27.984" unique_id="4">64l/D @ V) <textline bbox="70.224,237.025,210.373,265.009">64l/D @ V) <text font="TimesNewRomanPSMT" bbox="70.224,237.025,84.216,265.009" colourspace="DeviceGray" ncolour="1" size="27.984">6</text>
+<text font="TimesNewRomanPSMT" bbox="84.264,237.025,98.256,265.009" colourspace="DeviceGray" ncolour="1" size="27.984">4</text>
+<text font="SymbolMT" bbox="98.304,237.025,113.667,265.009" colourspace="DeviceGray" ncolour="1" size="27.984">l</text>
+<text font="TimesNewRomanPSMT" bbox="113.660,237.025,121.440,265.009" colourspace="DeviceGray" ncolour="1" size="27.984">/</text>
+<text font="TimesNewRomanPSMT" bbox="121.440,237.025,141.644,265.009" colourspace="DeviceGray" ncolour="1" size="27.984">D</text>
+<text font="TimesNewRomanPSMT" bbox="141.644,237.025,148.640,265.009" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="148.640,237.025,174.413,265.009" colourspace="DeviceGray" ncolour="1" size="27.984">@</text>
+<text font="TimesNewRomanPSMT" bbox="174.413,237.025,181.409,265.009" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="180.850,237.025,201.054,265.009" colourspace="DeviceGray" ncolour="1" size="27.984">V</text>
+<text font="TimesNewRomanPSMT" bbox="201.054,237.025,210.373,265.009" colourspace="DeviceGray" ncolour="1" size="27.984">)</text>
+</textline>
+</normal_text>
+<normal_text id="6" bbox="70.224,163.211,334.334,191.171" size="27.96" unique_id="6">before corrective optics <textline bbox="70.224,163.211,334.334,191.171" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">before corrective optics </textline>
+</normal_text>
+</enlisting></page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[175.5841212121212, 472.39896969696974, 542.5272878787879, 530.9995303030303]">
+<title id="0" bbox="198.940,436.141,508.964,531.339" size="27.968" unique_id="0">ACS Coronagraph 
+1st (Aberrated) Image Plane 
+Model <textline bbox="250.180,503.355,457.765,531.339" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.984" colourspace="DeviceGray">ACS Coronagraph </textline>
+<textline bbox="198.940,469.741,508.964,498.895">1st (Aberrated) Image Plane <text font="TimesNewRomanPSMT" bbox="198.940,469.741,212.920,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">1</text>
+<text font="TimesNewRomanPSMT" bbox="212.980,480.151,220.271,498.895" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="18.744">s</text>
+<text font="TimesNewRomanPSMT" bbox="220.300,480.151,225.511,498.895" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="18.744">t</text>
+<text font="TimesNewRomanPSMT" bbox="232.300,469.741,241.611,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">(</text>
+<text font="TimesNewRomanPSMT" bbox="241.611,469.741,261.798,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">A</text>
+<text font="TimesNewRomanPSMT" bbox="261.798,469.741,275.778,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">b</text>
+<text font="TimesNewRomanPSMT" bbox="275.778,469.741,288.192,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="288.192,469.741,297.503,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="297.503,469.741,306.813,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="306.925,469.741,319.339,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="319.339,469.741,327.112,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">t</text>
+<text font="TimesNewRomanPSMT" bbox="327.112,469.741,339.527,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="339.527,469.741,353.507,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">d</text>
+<text font="TimesNewRomanPSMT" bbox="353.507,469.741,362.817,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">)</text>
+<text font="TimesNewRomanPSMT" bbox="362.817,469.741,369.807,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="369.891,469.741,379.202,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">I</text>
+<text font="TimesNewRomanPSMT" bbox="379.202,469.741,400.955,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">m</text>
+<text font="TimesNewRomanPSMT" bbox="400.843,469.741,413.257,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="413.257,469.741,427.237,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">g</text>
+<text font="TimesNewRomanPSMT" bbox="427.237,469.741,439.651,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">e</text>
+<text font="TimesNewRomanPSMT" bbox="439.651,469.741,446.641,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="446.781,469.741,462.327,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">P</text>
+<text font="TimesNewRomanPSMT" bbox="462.327,469.741,470.100,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">l</text>
+<text font="TimesNewRomanPSMT" bbox="470.100,469.741,482.514,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">a</text>
+<text font="TimesNewRomanPSMT" bbox="482.514,469.741,496.494,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">n</text>
+<text font="TimesNewRomanPSMT" bbox="496.550,469.741,508.964,497.701" colourspace="DeviceGray" ncolour="(1, 1, 0)" size="27.960">e</text>
+</textline>
+<textline bbox="317.520,436.141,390.607,464.101" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">Model </textline>
+</title>
+<normal_text id="1" bbox="439.320,345.996,520.408,398.189" size="24.024" unique_id="1">r =1.8&#8221; 
+(96%) <textline bbox="439.320,370.205,520.408,398.189">r =1.8&#8221; <text font="TimesNewRomanPS-ItalicMT" bbox="439.320,370.205,450.206,398.189" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.984">r</text>
+<text font="TimesNewRomanPSMT" bbox="457.220,370.205,473.003,398.189" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.984">=</text>
+<text font="TimesNewRomanPSMT" bbox="473.003,370.205,486.995,398.189" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.984">1</text>
+<text font="TimesNewRomanPSMT" bbox="486.995,370.205,493.991,398.189" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.984">.</text>
+<text font="TimesNewRomanPSMT" bbox="493.991,370.205,507.983,398.189" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.984">8</text>
+<text font="TimesNewRomanPSMT" bbox="507.983,370.205,520.408,398.189" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.984">&#8221;</text>
+</textline>
+<textline bbox="454.700,345.996,504.900,366.060" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="20.064" colourspace="DeviceGray">(96%) </textline>
+</normal_text>
+<normal_text id="2" bbox="439.320,75.183,527.428,127.351" size="24.0" unique_id="2">r = 0.9&#8221; 
+(86%) <textline bbox="439.320,99.391,527.428,127.351">r = 0.9&#8221; <text font="TimesNewRomanPS-ItalicMT" bbox="439.320,99.391,450.196,127.351" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.960">r</text>
+<text font="TimesNewRomanPSMT" bbox="457.220,99.391,472.989,127.351" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.960">=</text>
+<text font="TimesNewRomanPSMT" bbox="472.989,99.391,479.979,127.351" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.960"> </text>
+<text font="TimesNewRomanPSMT" bbox="479.979,99.391,493.959,127.351" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.960">0</text>
+<text font="TimesNewRomanPSMT" bbox="494.043,99.391,501.033,127.351" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.960">.</text>
+<text font="TimesNewRomanPSMT" bbox="501.033,99.391,515.013,127.351" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.960">9</text>
+<text font="TimesNewRomanPSMT" bbox="515.013,99.391,527.428,127.351" colourspace="DeviceGray" ncolour="(0, 1, 0)" size="27.960">&#8221;</text>
+</textline>
+<textline bbox="458.180,75.183,508.340,95.223" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="20.040" colourspace="DeviceGray">(86%) </textline>
+</normal_text>
+<picture name="Image58" bbox="180.000,47.640,546.360,414.000" src="Image58.jpg" width="366" height="366" unique_id="3">
+</picture>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[171.8619487179487, 474.3858974358975, 546.509858974359, 528.9039102564102]">
+<title id="0" bbox="151.390,485.314,568.414,517.378" size="32.064" unique_id="0">ACS Coronagraph Pupil Models <textline bbox="151.390,485.314,568.414,517.378" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064" colourspace="DeviceGray">ACS Coronagraph Pupil Models </textline>
+</title>
+<normal_text id="1" bbox="121.220,412.331,303.184,440.291" size="27.96" unique_id="1">Pupil After Spot <textline bbox="121.220,412.331,303.184,440.291" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.960" colourspace="DeviceGray">Pupil After Spot </textline>
+</normal_text>
+<normal_text id="2" bbox="379.270,413.341,619.558,441.301" size="27.96" unique_id="2">Pupil After Lyot Stop <textline bbox="379.270,413.341,619.558,441.301" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="27.960" colourspace="DeviceGray">Pupil After Lyot Stop </textline>
+</normal_text>
+<picture name="Image61" bbox="72.000,124.440,648.000,412.680" src="Image61.jpg" width="576" height="288" unique_id="3">
+</picture>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[160.82909890109892, 477.2327692307693, 556.0237362637363, 528.5430659340659]">
+<title id="0" bbox="94.632,494.314,613.107,526.378" size="32.064" unique_id="0">ACS Coronagraph Image of HD 141569 <textline bbox="94.632,494.314,613.107,526.378" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064" colourspace="DeviceGray">ACS Coronagraph Image of HD 141569 </textline>
+</title>
+<normal_text id="1" bbox="383.180,429.166,546.524,453.166" size="24.0" unique_id="1">V band (F606W) <textline bbox="383.180,429.166,546.524,453.166" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="24.000" colourspace="DeviceGray">V band (F606W) </textline>
+</normal_text>
+<normal_text id="3" bbox="335.780,112.411,651.530,132.451" size="20.04" unique_id="3">Science results in Clampin et al. (2003) <textline bbox="335.780,112.411,651.530,132.451" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Science results in Clampin et al. (2003) </textline>
+</normal_text>
+<picture name="Image64" bbox="60.000,86.040,296.880,480.000" src="Image64.jpg" width="236" height="393" unique_id="4">
+</picture>
+<picture name="Image65" bbox="349.560,204.000,586.560,396.600" src="Image65.jpg" width="236" height="192" unique_id="5" caption="7&#8221; " caption_ids="['2']">
+</picture>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[173.44655238095237, 480.31026666666673, 543.8228380952381, 529.0543904761904]">
+<title id="0" bbox="255.460,500.314,464.517,532.378" size="32.064" unique_id="0">PSF Subtraction <textline bbox="255.460,500.314,464.517,532.378" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064" colourspace="DeviceGray">PSF Subtraction </textline>
+</title>
+<normal_text id="1" bbox="94.344,458.731,311.074,478.771" size="20.04" unique_id="1">Reference PSF Subtraction <textline bbox="94.344,458.731,311.074,478.771" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Reference PSF Subtraction </textline>
+</normal_text>
+<normal_text id="2" bbox="469.300,458.731,601.063,478.771" size="20.04" unique_id="2">Roll Subtraction <textline bbox="469.300,458.731,601.063,478.771" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="DeviceGray">Roll Subtraction </textline>
+</normal_text>
+<normal_text id="3" bbox="7.200,423.842,99.684,441.842" size="18.0" unique_id="3">Beta Pictoris <textline bbox="7.200,423.842,99.684,441.842" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000" colourspace="DeviceGray">Beta Pictoris </textline>
+</normal_text>
+<normal_text id="4" bbox="385.270,419.092,429.784,437.092" size="18.0" unique_id="4">Roll 1 <textline bbox="385.270,419.092,429.784,437.092" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000" colourspace="DeviceGray">Roll 1 </textline>
+</normal_text>
+<normal_text id="5" bbox="94.224,338.692,165.666,356.692" size="18.0" unique_id="5">Alpha Pic <textline bbox="94.224,338.692,165.666,356.692" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000" colourspace="DeviceGray">Alpha Pic </textline>
+</normal_text>
+<normal_text id="6" bbox="452.280,339.932,496.794,357.932" size="18.0" unique_id="6">Roll 2 <textline bbox="452.280,339.932,496.794,357.932" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000" colourspace="DeviceGray">Roll 2 </textline>
+</normal_text>
+<normal_text id="7" bbox="169.220,254.692,287.732,272.692" size="18.0" unique_id="7">Beta - Alpha Pic <textline bbox="169.220,254.692,287.732,272.692" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000" colourspace="DeviceGray">Beta - Alpha Pic </textline>
+</normal_text>
+<picture name="Image68" bbox="6.000,330.480,231.960,444.000" src="Image68.jpg" width="225" height="113" unique_id="10" caption="ACS coronagraph &#10;ACS Science Team &#10;(Golimowski et al. 2006) " caption_ids="['9']">
+</picture>
+<picture name="Image69" bbox="89.520,247.320,315.480,360.840" src="Image69.jpg" width="225" height="113" unique_id="11">
+</picture>
+<picture name="Image70" bbox="164.040,162.000,390.000,275.520" src="Image70.jpg" width="225" height="113" unique_id="12">
+</picture>
+<picture name="Image71" bbox="384.000,337.320,588.000,444.000" src="Image71.jpg" width="204" height="106" unique_id="13" caption="1 - 2 " caption_ids="['8']">
+</picture>
+<picture name="Image72" bbox="444.000,259.320,648.000,366.000" src="Image72.jpg" width="204" height="106" unique_id="14">
+</picture>
+<picture name="Image73" bbox="486.000,175.320,690.000,282.000" src="Image73.jpg" width="204" height="106" unique_id="15">
+</picture>
+<picture name="Image74" bbox="518.280,92.520,720.000,198.000" src="Image74.jpg" width="201" height="105" unique_id="16">
+</picture>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[164.0267333333333, 478.5259833333334, 553.6709833333333, 529.4698416666666]">
+<title id="0" bbox="98.088,466.036,622.608,532.378" size="28.032" unique_id="0">ACS Coronagraph Images of Beta Pic 
+Separated by 10 degrees in orientation, 5 hours in time <textline bbox="115.870,500.314,603.884,532.378" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064" colourspace="DeviceGray">ACS Coronagraph Images of Beta Pic </textline>
+<textline bbox="98.088,466.036,622.608,490.036" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">Separated by 10 degrees in orientation, 5 hours in time </textline>
+</title>
+<picture name="Image77" bbox="18.000,95.640,696.000,450.000" src="Image77.jpg" width="678" height="354" unique_id="2" caption="20&#8221; " caption_ids="['1']">
+</picture>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[169.23535294117644, 476.40433823529423, 548.7433382352941, 530.2355073529411]">
+<title id="0" bbox="208.300,460.492,511.786,535.978" size="22.695999999999998" unique_id="0">Spectral Deconvolution 
+Sparks &amp; Ford (2002) 
+Images courtesy of Bill Sparks <textline bbox="208.300,503.914,511.786,535.978" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064" colourspace="DeviceGray">Spectral Deconvolution </textline>
+<textline bbox="280.780,482.107,439.337,500.131" font="TimesNewRomanPSMT" ncolour="1" size="18.024" colourspace="DeviceGray">Sparks &amp; Ford (2002) </textline>
+<textline bbox="250.060,460.492,470.020,478.492" font="TimesNewRomanPS-ItalicMT" ncolour="1" size="18.000" colourspace="DeviceGray">Images courtesy of Bill Sparks </textline>
+</title>
+<normal_text id="1" bbox="100.220,397.202,334.670,415.202" size="18.0" unique_id="1">HD 130948 (ACS Coronagraph) <textline bbox="100.220,397.202,334.670,415.202" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000" colourspace="DeviceGray">HD 130948 (ACS Coronagraph) </textline>
+</normal_text>
+<normal_text id="2" bbox="385.320,397.492,616.818,437.092" size="18.0" unique_id="2">After Spectral Deconvolution &amp; 
+Unsharp Masking <textline bbox="385.320,419.092,616.818,437.092" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000" colourspace="DeviceGray">After Spectral Deconvolution &amp; </textline>
+<textline bbox="436.800,397.492,565.554,415.492" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="18.000" colourspace="DeviceGray">Unsharp Masking </textline>
+</normal_text>
+<picture name="Image80" bbox="83.400,113.400,352.560,396.840" src="Image80.jpg" width="269" height="283" unique_id="3">
+</picture>
+<picture name="Image81" bbox="366.840,113.400,636.000,396.840" src="Image81.jpg" width="269" height="283" unique_id="4">
+</picture>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[167.66586928104573, 479.3321895424837, 554.497522875817, 530.2914509803921]">
+<title id="0" bbox="155.110,502.755,600.531,530.739" size="27.984" unique_id="0">ACS PSF Mean Brightness Profiles (V) <textline bbox="155.110,502.755,600.531,530.739" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="27.984" colourspace="DeviceGray">ACS PSF Mean Brightness Profiles (V) </textline>
+</title>
+<normal_text id="1" bbox="421.200,397.346,535.314,450.185" size="24.012" unique_id="1">Star outside 
+of spot <textline bbox="421.200,426.161,535.314,450.185" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="DeviceGray">Star outside </textline>
+<textline bbox="445.220,397.346,511.268,421.346" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="DeviceGray">of spot </textline>
+</normal_text>
+<normal_text id="2" bbox="373.270,294.141,498.627,318.165" size="24.024" unique_id="2">Coronagraph <textline bbox="373.270,294.141,498.627,318.165" font="TimesNewRomanPSMT" ncolour="(0.4, 1, 1)" size="24.024" colourspace="DeviceGray">Coronagraph </textline>
+</normal_text>
+<enlisting id="7" bbox="289.300,96.046,508.532,148.846" size="24.0" unique_id="7">&#9474;Coronagraph - PSF&#9474; 
+(Roll subtraction) <textline bbox="289.300,124.846,508.532,148.846" font="TimesNewRomanPSMT" ncolour="(0.4, 1, 1)" size="24.000" colourspace="DeviceGray">&#9474;Coronagraph - PSF&#9474; </textline>
+<textline bbox="313.920,96.046,483.936,120.046" font="TimesNewRomanPSMT" ncolour="(0.4, 1, 1)" size="24.000" colourspace="DeviceGray">(Roll subtraction) </textline>
+</enlisting>
+<picture name="Image84" bbox="42.000,44.160,672.000,504.000" src="Image84.1776x1296.bmp" width="630" height="459" unique_id="8">
+</picture>
+<enlisting bbox="457.3,190.806,628.405,260.101" unique_id="['3', '4']">6x reduction 1500x reduction <normal_text id="3" bbox="457.300,240.061,557.300,260.101" size="20.04" unique_id="3">6x reduction <textline bbox="457.300,240.061,557.300,260.101" font="TimesNewRomanPS-ItalicMT" ncolour="(1, 0.4, 1)" size="20.040" colourspace="DeviceGray">6x reduction </textline>
+</normal_text>
+<normal_text id="4" bbox="498.410,190.806,628.405,210.870" size="20.064" unique_id="4">1500x reduction <textline bbox="498.410,190.806,628.405,210.870" font="TimesNewRomanPS-ItalicMT" ncolour="(1, 0.4, 1)" size="20.064" colourspace="DeviceGray">1500x reduction </textline>
+</normal_text>
+</enlisting><enlisting bbox="175.22,180.056,305.215,372.881" unique_id="['5', '6']">7x reduction 1200x reduction <normal_text id="5" bbox="181.220,352.841,281.220,372.881" size="20.04" unique_id="5">7x reduction <textline bbox="181.220,352.841,281.220,372.881" font="TimesNewRomanPS-ItalicMT" ncolour="(1, 0.4, 1)" size="20.040" colourspace="DeviceGray">7x reduction </textline>
+</normal_text>
+<normal_text id="6" bbox="175.220,180.056,305.215,200.120" size="20.064" unique_id="6">1200x reduction <textline bbox="175.220,180.056,305.215,200.120" font="TimesNewRomanPS-ItalicMT" ncolour="(1, 0.4, 1)" size="20.064" colourspace="DeviceGray">1200x reduction </textline>
+</normal_text>
+</enlisting></page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[167.66586928104573, 479.3321895424837, 554.497522875817, 530.2914509803921]">
+<normal_text id="0" bbox="346.200,349.357,587.144,380.246" size="14.052" unique_id="0">ACS Coronagraph Point Source Detection  
+Limits <textline bbox="346.200,366.182,587.144,380.246" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">ACS Coronagraph Point Source Detection  </textline>
+<textline bbox="446.780,349.357,483.284,363.397" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Limits </textline>
+</normal_text>
+<picture name="Image87" bbox="48.000,57.120,672.000,528.000" src="Image87.1832x1383.bmp" width="624" height="470" unique_id="1">
+</picture>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[168.0368304093567, 481.54080116959074, 553.9222046783626, 530.5110877192982]">
+<title id="0" bbox="171.190,500.314,549.032,532.378" size="32.064" unique_id="0">HST vs. Ground: HD 141569 <textline bbox="171.190,500.314,549.032,532.378" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064" colourspace="DeviceGray">HST vs. Ground: HD 141569 </textline>
+</title>
+<normal_text id="1" bbox="67.224,458.731,193.977,478.771" size="20.04" unique_id="1">ACS Direct (V) <textline bbox="67.224,458.731,193.977,478.771" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="20.040" colourspace="DeviceGray">ACS Direct (V) </textline>
+</normal_text>
+<normal_text id="2" bbox="256.870,458.731,466.949,478.771" size="20.04" unique_id="2">STIS Coronagraph (U&#8594;I) <textline bbox="256.870,458.731,466.949,478.771" font="TimesNewRomanPSMT" ncolour="(0, 1, 0)" size="20.040" colourspace="DeviceGray">STIS Coronagraph (U&#8594;I) </textline>
+</normal_text>
+<picture name="Image90" bbox="492.000,214.800,696.000,370.800" src="Image90.jpg" width="204" height="156" unique_id="6" caption="Palomar AO &#10;Coronagraph (2.2 mm) &#10;Boccaletti et al. 2003 &#10;(Their image) " caption_ids="['5']">
+</picture>
+<picture name="Image91" bbox="30.000,124.800,234.000,280.800" src="Image91.jpg" width="204" height="156" unique_id="7" caption="ACS Coronagraph (V) " caption_ids="['3']">
+</picture>
+<picture name="Image92" bbox="258.000,124.800,462.000,280.800" src="Image92.jpg" width="204" height="156" unique_id="8" caption="NICMOS Coronagraph (J) " caption_ids="['4']">
+</picture>
+<picture name="Image93" bbox="30.000,298.800,234.000,454.800" src="Image93.jpg" width="204" height="156" unique_id="9">
+</picture>
+<picture name="Image94" bbox="258.000,298.800,462.000,454.800" src="Image94.jpg" width="204" height="156" unique_id="10">
+</picture>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[165.16014736842104, 483.1886210526317, 557.1987842105264, 530.8642789473683]">
+<title id="0" bbox="139.270,498.019,586.688,534.043" size="36.024" unique_id="0">HST vs. Ground Coronagraphs <textline bbox="139.270,498.019,586.688,534.043" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="36.024" colourspace="DeviceGray">HST vs. Ground Coronagraphs </textline>
+</title>
+<enlisting bbox="43.2,87.825,680.367,465.301" unique_id="['1', '  2', '  4', ' 3', '5']">&#8226; HST limited to inner radius of r&gt;0.6&#8221; (near-IR) and  r&gt;0.7&#8221; (visible, if STIS repaired, else 1.1&#8221; with ACS);  
+on ground, 4l/D at 2 mm with a 10 m scope is 0.17&#8221; 
+&#8226; HST stability allows PSF subtraction providing up to  &#8226; HST is much better than ground for most disk  <normal_text id="1" bbox="43.200,437.341,652.469,465.301" size="27.96" unique_id="1">&#8226; HST limited to inner radius of r&gt;0.6&#8221; (near-IR) and  <textline bbox="43.200,437.341,652.469,465.301" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">&#8226; HST limited to inner radius of r&gt;0.6&#8221; (near-IR) and  </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,329.791,680.367,431.701" size="27.968" unique_id="2">r&gt;0.7&#8221; (visible, if STIS repaired, else 1.1&#8221; with ACS);  
+on ground, 4l/D at 2 mm with a 10 m scope is 0.17&#8221; 
+&#8226; HST stability allows PSF subtraction providing up to  <textline bbox="70.224,403.741,680.367,431.701" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">r&gt;0.7&#8221; (visible, if STIS repaired, else 1.1&#8221; with ACS);  </textline>
+<textline bbox="70.224,370.015,653.531,397.999">on ground, 4l/D at 2 mm with a 10 m scope is 0.17&#8221; <text font="TimesNewRomanPSMT" bbox="70.224,370.015,84.216,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">o</text>
+<text font="TimesNewRomanPSMT" bbox="84.216,370.015,98.208,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">n</text>
+<text font="TimesNewRomanPSMT" bbox="98.264,370.015,105.260,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="105.260,370.015,119.252,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">g</text>
+<text font="TimesNewRomanPSMT" bbox="119.252,370.015,128.571,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">r</text>
+<text font="TimesNewRomanPSMT" bbox="128.571,370.015,142.563,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">o</text>
+<text font="TimesNewRomanPSMT" bbox="142.647,370.015,156.639,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">u</text>
+<text font="TimesNewRomanPSMT" bbox="156.639,370.015,170.631,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">n</text>
+<text font="TimesNewRomanPSMT" bbox="170.687,370.015,184.679,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">d</text>
+<text font="TimesNewRomanPSMT" bbox="184.679,370.015,191.675,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">,</text>
+<text font="TimesNewRomanPSMT" bbox="191.675,370.015,198.671,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="198.531,370.015,212.523,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">4</text>
+<text font="SymbolMT" bbox="212.690,370.015,228.053,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">l</text>
+<text font="TimesNewRomanPSMT" bbox="228.050,370.015,235.830,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">/</text>
+<text font="TimesNewRomanPSMT" bbox="235.830,370.015,256.034,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">D</text>
+<text font="TimesNewRomanPSMT" bbox="256.034,370.015,263.030,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="263.030,370.015,275.455,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">a</text>
+<text font="TimesNewRomanPSMT" bbox="275.343,370.015,283.123,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">t</text>
+<text font="TimesNewRomanPSMT" bbox="283.123,370.015,290.119,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="290.119,370.015,304.111,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">2</text>
+<text font="TimesNewRomanPSMT" bbox="304.111,370.015,311.107,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="SymbolMT" bbox="311.090,370.015,327.209,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">m</text>
+<text font="TimesNewRomanPSMT" bbox="327.070,370.015,348.842,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">m</text>
+<text font="TimesNewRomanPSMT" bbox="348.674,370.015,355.670,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="355.977,370.015,376.182,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">w</text>
+<text font="TimesNewRomanPSMT" bbox="376.182,370.015,383.961,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">i</text>
+<text font="TimesNewRomanPSMT" bbox="383.961,370.015,391.741,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">t</text>
+<text font="TimesNewRomanPSMT" bbox="391.741,370.015,405.733,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">h</text>
+<text font="TimesNewRomanPSMT" bbox="405.733,370.015,412.729,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="412.729,370.015,425.154,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">a</text>
+<text font="TimesNewRomanPSMT" bbox="425.154,370.015,432.150,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="432.150,370.015,446.142,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">1</text>
+<text font="TimesNewRomanPSMT" bbox="446.142,370.015,460.134,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">0</text>
+<text font="TimesNewRomanPSMT" bbox="460.218,370.015,467.214,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="467.046,370.015,488.818,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">m</text>
+<text font="TimesNewRomanPSMT" bbox="488.650,370.015,495.646,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="495.814,370.015,506.699,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">s</text>
+<text font="TimesNewRomanPSMT" bbox="506.699,370.015,519.124,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">c</text>
+<text font="TimesNewRomanPSMT" bbox="519.124,370.015,533.116,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">o</text>
+<text font="TimesNewRomanPSMT" bbox="533.116,370.015,547.108,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">p</text>
+<text font="TimesNewRomanPSMT" bbox="547.108,370.015,559.533,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">e</text>
+<text font="TimesNewRomanPSMT" bbox="559.533,370.015,566.529,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="566.361,370.015,574.141,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">i</text>
+<text font="TimesNewRomanPSMT" bbox="574.141,370.015,585.027,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">s</text>
+<text font="TimesNewRomanPSMT" bbox="585.027,370.015,592.023,397.999" colourspace="DeviceGray" ncolour="1" size="27.984"> </text>
+<text font="TimesNewRomanPSMT" bbox="592.023,370.015,606.015,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">0</text>
+<text font="TimesNewRomanPSMT" bbox="606.015,370.015,613.011,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">.</text>
+<text font="TimesNewRomanPSMT" bbox="613.011,370.015,627.003,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">1</text>
+<text font="TimesNewRomanPSMT" bbox="627.003,370.015,640.995,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">7</text>
+<text font="TimesNewRomanPSMT" bbox="641.106,370.015,653.531,397.999" colourspace="DeviceGray" ncolour="1" size="27.984">&#8221;</text>
+</textline>
+<textline bbox="43.200,329.791,671.112,357.751" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">&#8226; HST stability allows PSF subtraction providing up to  </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,155.051,591.259,183.011" size="27.96" unique_id="4">&#8226; HST is much better than ground for most disk  <textline bbox="43.200,155.051,591.259,183.011" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">&#8226; HST is much better than ground for most disk  </textline>
+</normal_text>
+<normal_text id="3" bbox="70.224,195.371,661.466,324.151" size="27.966" unique_id="3">an additional 200x improvement in contrast  
+(coronagraph improves contrast up to 7x); ground  
+scope stability limited in most cases to &lt;10x (PSF  
+subtraction or SDI) and limited AO correction radius <textline bbox="70.224,296.191,565.535,324.151" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">an additional 200x improvement in contrast  </textline>
+<textline bbox="70.224,262.585,635.221,290.569" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="DeviceGray">(coronagraph improves contrast up to 7x); ground  </textline>
+<textline bbox="70.224,228.971,636.386,256.931" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">scope stability limited in most cases to &lt;10x (PSF  </textline>
+<textline bbox="70.224,195.371,661.466,223.331" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">subtraction or SDI) and limited AO correction radius </textline>
+</normal_text>
+<normal_text id="5" bbox="70.224,87.825,653.858,149.429" size="27.972" unique_id="5">imaging at radii &gt; 1&#8221;; large scopes on ground better  
+for point sources closer in <textline bbox="70.224,121.445,653.858,149.429" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="DeviceGray">imaging at radii &gt; 1&#8221;; large scopes on ground better  </textline>
+<textline bbox="70.224,87.825,360.728,115.785" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="DeviceGray">for point sources closer in </textline>
+</normal_text>
+</enlisting></page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[165.16014736842104, 483.1886210526317, 557.1987842105264, 530.8642789473683]">
+<picture name="Image99" bbox="54.000,18.000,186.840,156.000" src="Image99.jpg" width="132" height="138" unique_id="0">
+</picture>
+<picture name="Image100" bbox="270.000,162.000,486.000,348.000" src="Image100.jpg" width="216" height="186" unique_id="1">
+</picture>
+<picture name="Image101" bbox="504.000,372.000,720.000,516.000" src="Image101.jpg" width="216" height="144" unique_id="2">
+</picture>
+<picture name="Image102" bbox="534.000,17.640,696.000,138.000" src="Image102.jpg" width="162" height="120" unique_id="3">
+</picture>
+<picture name="Image103" bbox="288.000,36.720,468.000,132.000" src="Image103.jpg" width="180" height="95" unique_id="4">
+</picture>
+<picture name="Image70" bbox="6.000,198.000,231.960,311.520" src="Image70.0.jpg" width="225" height="113" unique_id="5">
+</picture>
+<picture name="Image104" bbox="24.000,353.280,208.560,528.000" src="Image104.jpg" width="184" height="174" unique_id="6">
+</picture>
+<picture name="Image105" bbox="270.000,386.160,480.000,522.000" src="Image105.jpg" width="210" height="135" unique_id="7">
+</picture>
+<picture name="Image65" bbox="534.000,191.160,690.000,318.000" src="Image65.0.jpg" width="156" height="126" unique_id="8">
+</picture>
+</page>
+</pages>

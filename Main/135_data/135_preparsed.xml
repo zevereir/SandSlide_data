@@ -1,0 +1,588 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="192.070,406.780,528.088,485.980" size="36.0">Optimal Orbits  
+for Inter-Calibration <textline bbox="235.030,449.980,494.986,485.980" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Optimal Orbits  </textline>
+<textline bbox="192.070,406.780,528.088,442.780" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">for Inter-Calibration </textline>
+</textbox>
+<textbox id="1" bbox="257.230,248.105,462.550,358.510" size="24.006">Dave Mac Donnell 
+Bruce Wielicki 
+Don Garber 
+Dave Doelling <textline bbox="257.230,334.510,462.550,358.510" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">Dave Mac Donnell </textline>
+<textline bbox="277.990,305.710,441.934,329.710" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">Bruce Wielicki </textline>
+<textline bbox="293.950,276.910,425.902,300.910" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">Don Garber </textline>
+<textline bbox="280.630,248.105,439.453,272.129" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024" colourspace="Pattern">Dave Doelling </textline>
+</textbox>
+<textbox id="2" bbox="178.970,65.664,541.516,147.309" size="24.008">NASA Langley Research Center 
+CLARREO Workshop 
+October 21-23, 2008 <textline bbox="178.970,123.285,541.516,147.309" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024" colourspace="Pattern">NASA Langley Research Center </textline>
+<textline bbox="238.870,94.464,481.030,118.464" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">CLARREO Workshop </textline>
+<textline bbox="246.670,65.664,473.428,89.664" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">October 21-23, 2008 </textline>
+</textbox>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="68.712,461.868,661.832,523.467" size="27.972">Radiation and Calibration are 8-dimensional  
+Sampling Problems <textline bbox="68.712,495.483,661.832,523.467" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.984" colourspace="Pattern">Radiation and Calibration are 8-dimensional  </textline>
+<textline bbox="230.760,461.868,491.878,489.828" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">Sampling Problems </textline>
+</textbox>
+<textbox id="1" bbox="61.128,206.287,307.566,436.362" size="20.045999999999996">&#8226; Latitude 
+&#8226; Longitude 
+&#8226; Altitude 
+&#8226; Time  
+&#8226; Solar Zenith Angle 
+&#8226; Viewing Zenith Angle 
+&#8226; Viewing Azimuth Angle 
+&#8226; Wavelength <textline bbox="61.128,416.322,166.124,436.362">&#8226; Latitude <text font="ArialMT" bbox="61.128,416.322,68.142,436.362" colourspace="Pattern" ncolour="1" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,416.322,100.372,436.362" colourspace="Pattern" ncolour="1" size="20.040">L</text>
+<text font="Arial-BoldMT" bbox="100.372,416.322,111.515,436.362" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="111.515,416.322,118.188,436.362" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="118.248,416.322,123.819,436.362" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="123.819,416.322,130.493,436.362" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="130.493,416.322,142.737,436.362" colourspace="Pattern" ncolour="1" size="20.040">u</text>
+<text font="Arial-BoldMT" bbox="142.737,416.322,154.981,436.362" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="Arial-BoldMT" bbox="154.981,416.322,166.124,436.362" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+</textline>
+<textline bbox="61.128,386.322,185.041,406.362">&#8226; Longitude <text font="ArialMT" bbox="61.128,386.322,68.142,406.362" colourspace="Pattern" ncolour="1" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,386.322,100.372,406.362" colourspace="Pattern" ncolour="1" size="20.040">L</text>
+<text font="Arial-BoldMT" bbox="100.372,386.322,112.617,406.362" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="112.617,386.322,124.861,406.362" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="124.861,386.322,137.106,406.362" colourspace="Pattern" ncolour="1" size="20.040">g</text>
+<text font="Arial-BoldMT" bbox="137.166,386.322,142.737,406.362" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="142.737,386.322,149.410,406.362" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="149.410,386.322,161.655,406.362" colourspace="Pattern" ncolour="1" size="20.040">u</text>
+<text font="Arial-BoldMT" bbox="161.655,386.322,173.899,406.362" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="Arial-BoldMT" bbox="173.899,386.322,185.041,406.362" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+</textline>
+<textline bbox="61.128,356.322,162.777,376.362">&#8226; Altitude <text font="ArialMT" bbox="61.128,356.322,68.142,376.362" colourspace="Pattern" ncolour="1" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,356.322,102.597,376.362" colourspace="Pattern" ncolour="1" size="20.040">A</text>
+<text font="Arial-BoldMT" bbox="102.657,356.322,108.228,376.362" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="108.228,356.322,114.901,376.362" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="114.901,356.322,120.473,376.362" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="120.473,356.322,127.146,376.362" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="127.146,356.322,139.390,376.362" colourspace="Pattern" ncolour="1" size="20.040">u</text>
+<text font="Arial-BoldMT" bbox="139.390,356.322,151.635,376.362" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="Arial-BoldMT" bbox="151.635,356.322,162.777,376.362" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+</textline>
+<textline bbox="61.128,326.317,140.034,346.381">&#8226; Time  <text font="ArialMT" bbox="61.128,326.317,68.150,346.381" colourspace="Pattern" ncolour="1" size="20.064">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,326.317,100.387,346.381" colourspace="Pattern" ncolour="1" size="20.064">T</text>
+<text font="Arial-BoldMT" bbox="100.006,326.317,105.584,346.381" colourspace="Pattern" ncolour="1" size="20.064">i</text>
+<text font="Arial-BoldMT" bbox="105.584,326.317,123.421,346.381" colourspace="Pattern" ncolour="1" size="20.064">m</text>
+<text font="Arial-BoldMT" bbox="123.300,326.317,134.456,346.381" colourspace="Pattern" ncolour="1" size="20.064">e</text>
+<text font="Arial-BoldMT" bbox="134.456,326.317,140.034,346.381" colourspace="Pattern" ncolour="1" size="20.064"> </text>
+</textline>
+<textline bbox="61.128,296.292,264.219,316.332">&#8226; Solar Zenith Angle <text font="ArialMT" bbox="61.128,296.292,68.142,316.332" colourspace="Pattern" ncolour="1" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,296.292,101.495,316.332" colourspace="Pattern" ncolour="1" size="20.040">S</text>
+<text font="Arial-BoldMT" bbox="101.495,296.292,113.739,316.332" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="113.739,296.292,119.310,316.332" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="119.310,296.292,130.452,316.332" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="130.452,296.292,138.248,316.332" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="Arial-BoldMT" bbox="138.248,296.292,143.819,316.332" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="143.619,296.292,155.863,316.332" colourspace="Pattern" ncolour="1" size="20.040">Z</text>
+<text font="Arial-BoldMT" bbox="155.863,296.292,167.005,316.332" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="167.005,296.292,179.250,316.332" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="179.250,296.292,184.821,316.332" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="184.821,296.292,191.494,316.332" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="191.494,296.292,203.739,316.332" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-BoldMT" bbox="203.799,296.292,209.370,316.332" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="208.488,296.292,222.957,316.332" colourspace="Pattern" ncolour="1" size="20.040">A</text>
+<text font="Arial-BoldMT" bbox="223.017,296.292,235.262,316.332" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="235.262,296.292,247.506,316.332" colourspace="Pattern" ncolour="1" size="20.040">g</text>
+<text font="Arial-BoldMT" bbox="247.506,296.292,253.077,316.332" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="253.077,296.292,264.219,316.332" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+</textline>
+<textline bbox="61.128,266.292,289.450,286.332">&#8226; Viewing Zenith Angle <text font="ArialMT" bbox="61.128,266.292,68.142,286.332" colourspace="Pattern" ncolour="1" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,266.292,101.495,286.332" colourspace="Pattern" ncolour="1" size="20.040">V</text>
+<text font="Arial-BoldMT" bbox="101.114,266.292,106.685,286.332" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="106.685,266.292,117.827,286.332" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="117.667,266.292,133.258,286.332" colourspace="Pattern" ncolour="1" size="20.040">w</text>
+<text font="Arial-BoldMT" bbox="133.639,266.292,139.210,286.332" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="139.210,266.292,151.454,286.332" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="151.454,266.292,163.699,286.332" colourspace="Pattern" ncolour="1" size="20.040">g</text>
+<text font="Arial-BoldMT" bbox="163.699,266.292,169.270,286.332" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="168.849,266.292,181.094,286.332" colourspace="Pattern" ncolour="1" size="20.040">Z</text>
+<text font="Arial-BoldMT" bbox="181.094,266.292,192.236,286.332" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="192.236,266.292,204.480,286.332" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="204.480,266.292,210.051,286.332" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="210.051,266.292,216.725,286.332" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="216.725,266.292,228.969,286.332" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-BoldMT" bbox="229.029,266.292,234.600,286.332" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="233.719,266.292,248.187,286.332" colourspace="Pattern" ncolour="1" size="20.040">A</text>
+<text font="Arial-BoldMT" bbox="248.248,266.292,260.492,286.332" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="260.492,266.292,272.736,286.332" colourspace="Pattern" ncolour="1" size="20.040">g</text>
+<text font="Arial-BoldMT" bbox="272.736,266.292,278.308,286.332" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="278.308,266.292,289.450,286.332" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+</textline>
+<textline bbox="61.128,236.292,307.566,256.332">&#8226; Viewing Azimuth Angle <text font="ArialMT" bbox="61.128,236.292,68.142,256.332" colourspace="Pattern" ncolour="1" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,236.292,101.495,256.332" colourspace="Pattern" ncolour="1" size="20.040">V</text>
+<text font="Arial-BoldMT" bbox="101.114,236.292,106.685,256.332" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="106.685,236.292,117.827,256.332" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="117.667,236.292,133.258,256.332" colourspace="Pattern" ncolour="1" size="20.040">w</text>
+<text font="Arial-BoldMT" bbox="133.639,236.292,139.210,256.332" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="139.210,236.292,151.454,256.332" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="151.454,236.292,163.699,256.332" colourspace="Pattern" ncolour="1" size="20.040">g</text>
+<text font="Arial-BoldMT" bbox="163.699,236.292,169.270,256.332" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="168.128,236.292,182.597,256.332" colourspace="Pattern" ncolour="1" size="20.040">A</text>
+<text font="Arial-BoldMT" bbox="182.657,236.292,192.677,256.332" colourspace="Pattern" ncolour="1" size="20.040">z</text>
+<text font="Arial-BoldMT" bbox="192.677,236.292,198.248,256.332" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="198.248,236.292,216.063,256.332" colourspace="Pattern" ncolour="1" size="20.040">m</text>
+<text font="Arial-BoldMT" bbox="216.063,236.292,228.308,256.332" colourspace="Pattern" ncolour="1" size="20.040">u</text>
+<text font="Arial-BoldMT" bbox="228.308,236.292,234.981,256.332" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="234.981,236.292,247.226,256.332" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-BoldMT" bbox="247.266,236.292,252.837,256.332" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="251.835,236.292,266.304,256.332" colourspace="Pattern" ncolour="1" size="20.040">A</text>
+<text font="Arial-BoldMT" bbox="266.364,236.292,278.608,256.332" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="278.608,236.292,290.853,256.332" colourspace="Pattern" ncolour="1" size="20.040">g</text>
+<text font="Arial-BoldMT" bbox="290.853,236.292,296.424,256.332" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="296.424,236.292,307.566,256.332" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+</textline>
+<textline bbox="61.128,206.287,199.804,226.351">&#8226; Wavelength <text font="ArialMT" bbox="61.128,206.287,68.150,226.351" colourspace="Pattern" ncolour="1" size="20.064">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,206.287,107.068,226.351" colourspace="Pattern" ncolour="1" size="20.064">W</text>
+<text font="Arial-BoldMT" bbox="106.386,206.287,117.542,226.351" colourspace="Pattern" ncolour="1" size="20.064">a</text>
+<text font="Arial-BoldMT" bbox="117.542,206.287,128.697,226.351" colourspace="Pattern" ncolour="1" size="20.064">v</text>
+<text font="Arial-BoldMT" bbox="128.457,206.287,139.612,226.351" colourspace="Pattern" ncolour="1" size="20.064">e</text>
+<text font="Arial-BoldMT" bbox="139.612,206.287,145.190,226.351" colourspace="Pattern" ncolour="1" size="20.064">l</text>
+<text font="Arial-BoldMT" bbox="145.190,206.287,156.346,226.351" colourspace="Pattern" ncolour="1" size="20.064">e</text>
+<text font="Arial-BoldMT" bbox="156.346,206.287,168.605,226.351" colourspace="Pattern" ncolour="1" size="20.064">n</text>
+<text font="Arial-BoldMT" bbox="168.605,206.287,180.864,226.351" colourspace="Pattern" ncolour="1" size="20.064">g</text>
+<text font="Arial-BoldMT" bbox="180.864,206.287,187.545,226.351" colourspace="Pattern" ncolour="1" size="20.064">t</text>
+<text font="Arial-BoldMT" bbox="187.545,206.287,199.804,226.351" colourspace="Pattern" ncolour="1" size="20.064">h</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="61.128,98.267,629.729,166.312" size="20.048">&#8226; Radiance signals vary a factor of 2 to 10 with all of these  
+dimensions. Yet key climate change is a few tenths of a  
+percent/decade. <textline bbox="61.128,146.272,629.729,166.312">&#8226; Radiance signals vary a factor of 2 to 10 with all of these  <text font="ArialMT" bbox="61.128,146.272,68.142,166.312" colourspace="Pattern" ncolour="1" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,146.272,102.597,166.312" colourspace="Pattern" ncolour="1" size="20.040">R</text>
+<text font="Arial-BoldMT" bbox="102.657,146.272,113.799,166.312" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="113.799,146.272,126.044,166.312" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="Arial-BoldMT" bbox="126.044,146.272,131.615,166.312" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="131.615,146.272,142.757,166.312" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="142.757,146.272,155.001,166.312" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="155.001,146.272,166.144,166.312" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="Arial-BoldMT" bbox="166.144,146.272,177.286,166.312" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="177.286,146.272,182.857,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="182.617,146.272,193.759,166.312" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-BoldMT" bbox="193.759,146.272,199.330,166.312" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="199.330,146.272,211.574,166.312" colourspace="Pattern" ncolour="1" size="20.040">g</text>
+<text font="Arial-BoldMT" bbox="211.574,146.272,223.819,166.312" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="223.819,146.272,234.961,166.312" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="234.961,146.272,240.532,166.312" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="240.532,146.272,251.674,166.312" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-BoldMT" bbox="251.674,146.272,257.246,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="257.065,146.272,268.207,166.312" colourspace="Pattern" ncolour="1" size="20.040">v</text>
+<text font="Arial-BoldMT" bbox="267.987,146.272,279.129,166.312" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="279.129,146.272,286.925,166.312" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="Arial-BoldMT" bbox="286.925,146.272,298.067,166.312" colourspace="Pattern" ncolour="1" size="20.040">y</text>
+<text font="Arial-BoldMT" bbox="297.746,146.272,303.318,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="303.718,146.272,314.861,166.312" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="314.861,146.272,320.432,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="320.271,146.272,326.945,166.312" colourspace="Pattern" ncolour="1" size="20.040">f</text>
+<text font="Arial-BoldMT" bbox="326.945,146.272,338.087,166.312" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="338.127,146.272,349.269,166.312" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="Arial-BoldMT" bbox="349.269,146.272,355.943,166.312" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="355.983,146.272,368.227,166.312" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="368.227,146.272,376.023,166.312" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="Arial-BoldMT" bbox="376.023,146.272,381.594,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="381.333,146.272,393.578,166.312" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="393.578,146.272,400.251,166.312" colourspace="Pattern" ncolour="1" size="20.040">f</text>
+<text font="Arial-BoldMT" bbox="400.291,146.272,405.862,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="405.682,146.272,416.824,166.312" colourspace="Pattern" ncolour="1" size="20.040">2</text>
+<text font="Arial-BoldMT" bbox="416.824,146.272,422.395,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="422.235,146.272,428.908,166.312" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="428.908,146.272,441.153,166.312" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="441.193,146.272,446.764,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="446.764,146.272,457.906,166.312" colourspace="Pattern" ncolour="1" size="20.040">1</text>
+<text font="Arial-BoldMT" bbox="457.906,146.272,469.048,166.312" colourspace="Pattern" ncolour="1" size="20.040">0</text>
+<text font="Arial-BoldMT" bbox="469.048,146.272,474.619,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="474.319,146.272,489.910,166.312" colourspace="Pattern" ncolour="1" size="20.040">w</text>
+<text font="Arial-BoldMT" bbox="490.291,146.272,495.862,166.312" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="495.862,146.272,502.535,166.312" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="502.415,146.272,514.659,166.312" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-BoldMT" bbox="514.659,146.272,520.230,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="519.830,146.272,530.972,166.312" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="530.972,146.272,536.543,166.312" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="536.543,146.272,542.114,166.312" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="542.034,146.272,547.605,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="547.425,146.272,559.669,166.312" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="559.669,146.272,566.343,166.312" colourspace="Pattern" ncolour="1" size="20.040">f</text>
+<text font="Arial-BoldMT" bbox="566.383,146.272,571.954,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="571.773,146.272,578.447,166.312" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="578.447,146.272,590.691,166.312" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-BoldMT" bbox="590.731,146.272,601.873,166.312" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="601.873,146.272,613.016,166.312" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-BoldMT" bbox="613.016,146.272,624.158,166.312" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="624.158,146.272,629.729,166.312" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+</textline>
+<textline bbox="88.128,122.272,618.346,142.312" font="Arial-BoldMT" ncolour="1" size="20.040" colourspace="Pattern">dimensions. Yet key climate change is a few tenths of a  </textline>
+<textline bbox="88.128,98.267,240.895,118.331" font="Arial-BoldMT" ncolour="1" size="20.064" colourspace="Pattern">percent/decade. </textline>
+</textbox>
+<textbox id="3" bbox="61.128,68.248,637.304,88.288" size="20.04">&#8226; Climate Change adds a stealth "9th dimension": accuracy <textline bbox="61.128,68.248,637.304,88.288">&#8226; Climate Change adds a stealth "9th dimension": accuracy <text font="ArialMT" bbox="61.128,68.248,68.142,88.288" colourspace="Pattern" ncolour="1" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,68.248,102.597,88.288" colourspace="Pattern" ncolour="1" size="20.040">C</text>
+<text font="Arial-BoldMT" bbox="102.657,68.248,108.228,88.288" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="108.228,68.248,113.799,88.288" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="113.699,68.248,131.515,88.288" colourspace="Pattern" ncolour="1" size="20.040">m</text>
+<text font="Arial-BoldMT" bbox="131.515,68.248,142.657,88.288" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="142.657,68.248,149.330,88.288" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="149.330,68.248,160.472,88.288" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="160.472,68.248,166.044,88.288" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="165.803,68.248,180.272,88.288" colourspace="Pattern" ncolour="1" size="20.040">C</text>
+<text font="Arial-BoldMT" bbox="180.332,68.248,192.576,88.288" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-BoldMT" bbox="192.576,68.248,203.719,88.288" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="203.719,68.248,215.963,88.288" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="215.963,68.248,228.208,88.288" colourspace="Pattern" ncolour="1" size="20.040">g</text>
+<text font="Arial-BoldMT" bbox="228.268,68.248,239.410,88.288" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="239.410,68.248,244.981,88.288" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="244.821,68.248,255.963,88.288" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="255.963,68.248,268.207,88.288" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="Arial-BoldMT" bbox="268.207,68.248,280.452,88.288" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="Arial-BoldMT" bbox="280.452,68.248,291.594,88.288" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-BoldMT" bbox="291.654,68.248,297.225,88.288" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="297.225,68.248,308.368,88.288" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="308.368,68.248,313.939,88.288" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="313.738,68.248,324.881,88.288" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-BoldMT" bbox="324.881,68.248,331.554,88.288" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="331.594,68.248,342.736,88.288" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="342.736,68.248,353.878,88.288" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="353.878,68.248,359.450,88.288" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="359.450,68.248,366.123,88.288" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="366.123,68.248,378.367,88.288" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-BoldMT" bbox="378.367,68.248,383.938,88.288" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="383.578,68.248,393.077,88.288" colourspace="Pattern" ncolour="1" size="20.040">"</text>
+<text font="Arial-BoldMT" bbox="393.077,68.248,404.219,88.288" colourspace="Pattern" ncolour="1" size="20.040">9</text>
+<text font="Arial-BoldMT" bbox="404.219,68.248,410.892,88.288" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="410.892,68.248,423.137,88.288" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-BoldMT" bbox="423.177,68.248,428.748,88.288" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="428.568,68.248,440.812,88.288" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="Arial-BoldMT" bbox="440.812,68.248,446.383,88.288" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="446.383,68.248,464.199,88.288" colourspace="Pattern" ncolour="1" size="20.040">m</text>
+<text font="Arial-BoldMT" bbox="464.139,68.248,475.281,88.288" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="475.281,68.248,487.525,88.288" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="487.525,68.248,498.667,88.288" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-BoldMT" bbox="498.667,68.248,504.239,88.288" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="504.239,68.248,516.483,88.288" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="516.483,68.248,528.727,88.288" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-BoldMT" bbox="528.727,68.248,538.226,88.288" colourspace="Pattern" ncolour="1" size="20.040">"</text>
+<text font="Arial-BoldMT" bbox="538.226,68.248,544.900,88.288" colourspace="Pattern" ncolour="1" size="20.040">:</text>
+<text font="Arial-BoldMT" bbox="544.960,68.248,550.531,88.288" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="550.351,68.248,561.493,88.288" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="561.493,68.248,572.635,88.288" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="Arial-BoldMT" bbox="572.635,68.248,583.777,88.288" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="Arial-BoldMT" bbox="583.777,68.248,596.022,88.288" colourspace="Pattern" ncolour="1" size="20.040">u</text>
+<text font="Arial-BoldMT" bbox="596.082,68.248,603.877,88.288" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="Arial-BoldMT" bbox="603.877,68.248,615.020,88.288" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="615.020,68.248,626.162,88.288" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="Arial-BoldMT" bbox="626.162,68.248,637.304,88.288" colourspace="Pattern" ncolour="1" size="20.040">y</text>
+</textline>
+</textbox>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="51.456,490.683,581.109,518.667" size="27.984">CLARREO Crossing Below Aqua 700km <textline bbox="51.456,490.683,581.109,518.667" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="Pattern">CLARREO Crossing Below Aqua 700km </textline>
+</textbox>
+<textbox id="1" bbox="15.120,402.850,162.072,464.050" size="18.0">Aqua MODIS, 
+CERES, or AIRS 
+Crosstrack Scan  <textline bbox="15.120,446.050,129.132,464.050" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">Aqua MODIS, </textline>
+<textline bbox="15.120,424.450,151.902,442.450" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">CERES, or AIRS </textline>
+<textline bbox="15.120,402.850,162.072,420.850" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">Crosstrack Scan  </textline>
+</textbox>
+<textbox id="2" bbox="16.488,98.600,253.008,116.600" size="18.0">CLARREO 100 km nadir fov <textline bbox="16.488,98.600,253.008,116.600" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="Pattern">CLARREO 100 km nadir fov </textline>
+</textbox>
+<textbox id="3" bbox="612.480,93.777,690.620,128.933" size="15.96">D. Garber  
+LaRC, 7/07 <textline bbox="612.480,112.973,686.167,128.933" font="BCDEEE+Times,Bold" ncolour="0" size="15.960" colourspace="Pattern">D. Garber  </textline>
+<textline bbox="612.480,93.777,690.620,109.737" font="BCDEEE+Times,Bold" ncolour="0" size="15.960" colourspace="Pattern">LaRC, 7/07 </textline>
+</textbox>
+<textbox id="4" bbox="21.120,6.251,665.114,50.296" size="20.052">Time to Achieve Viewing Angle Matches:  
+40 seconds per 100km orbit altitude Difference: 140 seconds above  <textline bbox="21.120,30.256,411.820,50.296" font="Arial-BoldItalicMT" ncolour="0" size="20.040" colourspace="Pattern">Time to Achieve Viewing Angle Matches:  </textline>
+<textline bbox="21.120,6.251,665.114,26.315" font="Arial-BoldItalicMT" ncolour="0" size="20.064" colourspace="Pattern">40 seconds per 100km orbit altitude Difference: 140 seconds above  </textline>
+</textbox>
+<figure name="Image84" bbox="0.000,-0.120,720.000,540.000" src="Image84.jpg" width="720" height="540">
+</figure>
+<figure name="Image85" bbox="34.080,470.820,600.660,532.800" src="Image85.1574x173.bmp" width="566" height="61">
+</figure>
+<figure name="Image87" bbox="5.160,85.621,264.900,125.880" src="Image87.722x112.bmp" width="259" height="40">
+</figure>
+<figure name="Image95" bbox="8.520,15.900,425.700,60.600" src="Image95.1159x125.bmp" width="417" height="44">
+</figure>
+<figure name="Image99" bbox="8.520,-1.139,679.020,36.600" src="Image99.1863x105.bmp" width="670" height="37">
+</figure>
+<figure name="Image101" bbox="602.280,101.460,697.620,137.280" src="Image101.265x100.bmp" width="95" height="35">
+</figure>
+<figure name="Image105" bbox="602.280,82.260,701.940,118.080" src="Image105.277x100.bmp" width="99" height="35">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="83.256,484.683,633.527,512.667" size="27.984">Top View: CLARREO under-flight of Aqua <textline bbox="83.256,484.683,633.527,512.667" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">Top View: CLARREO under-flight of Aqua </textline>
+</textbox>
+<textbox id="1" bbox="531.600,289.450,678.552,350.650" size="18.0">Aqua MODIS, 
+CERES, or AIRS 
+Crosstrack Scan  <textline bbox="531.600,332.650,645.612,350.650" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">Aqua MODIS, </textline>
+<textline bbox="531.600,311.050,668.382,329.050" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">CERES, or AIRS </textline>
+<textline bbox="531.600,289.450,678.552,307.450" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">Crosstrack Scan  </textline>
+</textbox>
+<textbox id="2" bbox="530.710,169.520,672.640,209.120" size="18.0">CLARREO  
+100 km nadir fov <textline bbox="530.710,191.120,624.130,209.120" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">CLARREO  </textline>
+<textline bbox="530.710,169.520,672.640,187.520" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">100 km nadir fov </textline>
+</textbox>
+<textbox id="3" bbox="21.120,12.251,586.182,80.296" size="20.048">Angle Pointing (zenith, azimuth) is required to obtain  
+any calibration matches beyond those at nadir. Options: 
+pointable instrument, pointing table, or S/C reaction wheels <textline bbox="21.120,60.256,528.352,80.296" font="Arial-BoldItalicMT" ncolour="0" size="20.040" colourspace="DeviceGray">Angle Pointing (zenith, azimuth) is required to obtain  </textline>
+<textline bbox="21.120,36.256,554.124,56.296" font="Arial-BoldItalicMT" ncolour="0" size="20.040" colourspace="DeviceGray">any calibration matches beyond those at nadir. Options: </textline>
+<textline bbox="21.120,12.251,586.182,32.315" font="Arial-BoldItalicMT" ncolour="0" size="20.064" colourspace="DeviceGray">pointable instrument, pointing table, or S/C reaction wheels </textline>
+</textbox>
+<textbox id="4" bbox="630.480,7.521,708.620,42.681" size="15.96">D. Garber  
+LaRC, 7/07 <textline bbox="630.480,26.721,704.167,42.681" font="BCDEEE+Times,Bold" ncolour="0" size="15.960" colourspace="DeviceGray">D. Garber  </textline>
+<textline bbox="630.480,7.521,708.620,23.481" font="BCDEEE+Times,Bold" ncolour="0" size="15.960" colourspace="DeviceGray">LaRC, 7/07 </textline>
+</textbox>
+<figure name="Image109" bbox="18.000,28.320,523.320,462.000" src="Image109.jpg" width="505" height="433">
+</figure>
+<figure name="Image110" bbox="65.880,464.820,463.980,526.800" src="Image110.1106x173.bmp" width="398" height="61">
+</figure>
+<figure name="Image112" bbox="427.200,464.820,473.340,526.800" src="Image112.129x173.bmp" width="46" height="61">
+</figure>
+<figure name="Image114" bbox="436.560,464.820,652.860,526.800" src="Image114.601x173.bmp" width="216" height="61">
+</figure>
+<figure name="Image116" bbox="520.200,319.620,658.380,359.879" src="Image116.384x112.bmp" width="138" height="40">
+</figure>
+<figure name="Image118" bbox="520.200,298.020,681.060,338.279" src="Image118.447x112.bmp" width="160" height="40">
+</figure>
+<figure name="Image120" bbox="520.200,276.420,691.260,316.679" src="Image120.476x112.bmp" width="171" height="40">
+</figure>
+<figure name="Image122" bbox="519.360,178.140,637.380,218.399" src="Image122.328x112.bmp" width="118" height="40">
+</figure>
+<figure name="Image124" bbox="519.360,156.540,685.020,196.799" src="Image124.461x112.bmp" width="165" height="40">
+</figure>
+<figure name="Image126" bbox="620.280,15.180,715.620,51.000" src="Image126.265x100.bmp" width="95" height="35">
+</figure>
+<figure name="Image128" bbox="620.280,-0.899,719.940,31.800" src="Image128.277x91.bmp" width="99" height="32">
+</figure>
+<figure name="Image130" bbox="8.520,45.900,542.340,90.600" src="Image130.1483x125.bmp" width="533" height="44">
+</figure>
+<figure name="Image132" bbox="8.520,21.900,568.380,66.600" src="Image132.1556x125.bmp" width="559" height="44">
+</figure>
+<figure name="Image134" bbox="8.520,-1.140,600.300,42.600" src="Image134.1644x122.bmp" width="591" height="43">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="164.380,477.468,555.205,505.428" size="27.96">Precession Rate Trade Space <textline bbox="164.380,477.468,555.205,505.428" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">Precession Rate Trade Space </textline>
+</textbox>
+<textbox id="1" bbox="461.660,231.153,544.844,247.113" size="15.96">600km/74.2&#176; <textline bbox="461.660,231.153,544.844,247.113" font="BCDFEE+Times" ncolour="0" size="15.960" colourspace="Pattern">600km/74.2&#176; </textline>
+</textbox>
+<textbox id="2" bbox="574.180,240.033,645.384,255.993" size="15.96">600km/90&#176; <textline bbox="574.180,240.033,645.384,255.993" font="BCDFEE+Times" ncolour="0" size="15.960" colourspace="Pattern">600km/90&#176; </textline>
+</textbox>
+<textbox id="3" bbox="587.570,27.711,594.590,41.751" size="14.04">5 <textline bbox="587.570,27.711,594.590,41.751" font="BCDFEE+Times" ncolour="0" size="14.040" colourspace="Pattern">5 </textline>
+</textbox>
+<figure name="Image144" bbox="60.000,57.000,660.000,467.040" src="Image144.913x624.bmp" width="600" height="410">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="63.552,460.668,664.060,522.267" size="27.972">Sun-Synchronous with respect to CLARREO  
+600km/74.2&#176; <textline bbox="63.552,494.283,664.060,522.267" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.984" colourspace="Pattern">Sun-Synchronous with respect to CLARREO  </textline>
+<textline bbox="279.600,460.668,440.444,488.628" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">600km/74.2&#176; </textline>
+</textbox>
+<textbox id="1" bbox="596.570,97.760,684.260,115.760" size="18.0">Sun-Synch <textline bbox="596.570,97.760,684.260,115.760" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">Sun-Synch </textline>
+</textbox>
+<textbox id="2" bbox="587.570,21.675,688.216,81.756" size="17.016">CLARREO  
+600km/74.2 
+6 
+&#176; <textline bbox="594.310,63.756,686.164,81.756" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">CLARREO  </textline>
+<textline bbox="594.310,42.156,688.216,60.156" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">600km/74.2 </textline>
+<textline bbox="587.570,27.711,594.590,41.751" font="BCDFEE+Times" ncolour="0" size="14.040" colourspace="Pattern">6 </textline>
+<textline bbox="594.310,21.675,612.334,39.699" font="BCDGEE+MS-PGothic" ncolour="0" size="18.024" colourspace="Pattern">&#176; </textline>
+</textbox>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="63.552,460.668,664.060,522.267" size="27.972">Sun-Synchronous with respect to CLARREO  
+600km/90&#176; <textline bbox="63.552,494.283,664.060,522.267" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.984" colourspace="Pattern">Sun-Synchronous with respect to CLARREO  </textline>
+<textline bbox="291.240,460.668,428.684,488.628" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">600km/90&#176; </textline>
+</textbox>
+<textbox id="1" bbox="596.570,97.760,684.260,115.760" size="18.0">Sun-Synch <textline bbox="596.570,97.760,684.260,115.760" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">Sun-Synch </textline>
+</textbox>
+<textbox id="2" bbox="587.570,27.711,691.180,81.756" size="16.68">CLARREO  
+600km/90&#176; 
+7 <textline bbox="594.310,63.756,686.164,81.756" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">CLARREO  </textline>
+<textline bbox="594.310,42.036,691.180,61.278">600km/90&#176; <text font="ArialMT" bbox="594.310,42.036,604.318,60.036" colourspace="Pattern" ncolour="0" size="18.000">6</text>
+<text font="ArialMT" bbox="604.318,42.036,614.326,60.036" colourspace="Pattern" ncolour="0" size="18.000">0</text>
+<text font="ArialMT" bbox="614.236,42.036,624.244,60.036" colourspace="Pattern" ncolour="0" size="18.000">0</text>
+<text font="ArialMT" bbox="624.244,42.036,633.244,60.036" colourspace="Pattern" ncolour="0" size="18.000">k</text>
+<text font="ArialMT" bbox="633.244,42.036,648.238,60.036" colourspace="Pattern" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="648.238,42.036,653.242,60.036" colourspace="Pattern" ncolour="0" size="18.000">/</text>
+<text font="ArialMT" bbox="653.242,42.036,663.250,60.036" colourspace="Pattern" ncolour="0" size="18.000">9</text>
+<text font="ArialMT" bbox="663.196,42.036,673.204,60.036" colourspace="Pattern" ncolour="0" size="18.000">0</text>
+<text font="BCDGEE+MS-PGothic" bbox="673.180,43.278,691.180,61.278" colourspace="Pattern" ncolour="0" size="18.000">&#176;</text>
+</textline>
+<textline bbox="587.570,27.711,594.590,41.751" font="BCDFEE+Times" ncolour="0" size="14.040" colourspace="Pattern">7 </textline>
+</textbox>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="113.400,455.868,603.091,517.467" size="27.972">74 degree Inclination/600 km Orbit 
+6 months of Equator Crossing Times <textline bbox="130.200,489.483,586.423,517.467" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.984" colourspace="Pattern">74 degree Inclination/600 km Orbit </textline>
+<textline bbox="113.400,455.868,603.091,483.828" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">6 months of Equator Crossing Times </textline>
+</textbox>
+<textbox id="1" bbox="498.720,342.302,693.048,410.372" size="20.048">Solar zenith angle in 
+color (blue high sun 
+to red low sun) <textline bbox="498.720,390.332,693.048,410.372" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">Solar zenith angle in </textline>
+<textline bbox="498.720,366.327,689.789,386.391" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.064" colourspace="Pattern">color (blue high sun </textline>
+<textline bbox="498.720,342.302,640.703,362.342" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">to red low sun) </textline>
+</textbox>
+<textbox id="2" bbox="498.720,246.297,687.161,314.342" size="20.048">This orbit samples  
+the equator at local 
+noon 6 times per yr. <textline bbox="498.720,294.302,680.884,314.342" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">This orbit samples  </textline>
+<textline bbox="498.720,270.302,681.966,290.342" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">the equator at local </textline>
+<textline bbox="498.720,246.297,687.161,266.361" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.064" colourspace="Pattern">noon 6 times per yr. </textline>
+</textbox>
+<textbox id="3" bbox="498.720,126.277,697.737,218.322" size="20.046">Nominal CLARREO 
+90 degree inclination 
+orbit does this twice 
+per year.  <textline bbox="498.720,198.282,682.326,218.322" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">Nominal CLARREO </textline>
+<textline bbox="498.720,174.282,697.737,194.322" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">90 degree inclination </textline>
+<textline bbox="498.720,150.282,692.146,170.322" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">orbit does this twice </textline>
+<textline bbox="498.720,126.277,586.299,146.341" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.064" colourspace="Pattern">per year.  </textline>
+</textbox>
+<textbox id="4" bbox="498.720,30.256,723.008,98.296" size="20.04">Inclination is max 
+latitude seen at nadir, 
+add 10 deg lat off nadir  <textline bbox="498.720,78.256,666.395,98.296" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">Inclination is max </textline>
+<textline bbox="498.720,54.256,702.968,74.296" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">latitude seen at nadir, </textline>
+<textline bbox="498.720,30.256,723.008,50.296" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">add 10 deg lat off nadir  </textline>
+</textbox>
+<figure name="Image176" bbox="24.000,23.520,498.000,438.000" src="Image176.jpg" width="474" height="414">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="65.976,475.540,650.764,528.360" size="24.0">How often and Where will Orbits Cross? June - Dec 
+CLARREO calibrating Terra/Aqua/NPOESS <textline bbox="65.976,504.360,650.764,528.360" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">How often and Where will Orbits Cross? June - Dec </textline>
+<textline bbox="116.040,475.540,600.600,499.540" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">CLARREO calibrating Terra/Aqua/NPOESS </textline>
+</textbox>
+<textbox id="1" bbox="39.120,455.320,299.852,473.320" size="18.0">90 degree Incl. 1 24-hr cycle/yr <textline bbox="39.120,455.320,299.852,473.320" font="Arial-BoldMT" ncolour="1" size="18.000" colourspace="Pattern">90 degree Incl. 1 24-hr cycle/yr </textline>
+</textbox>
+<textbox id="2" bbox="393.070,452.680,663.736,470.680" size="18.0">74 degree Incl. 3 24-hr cycles/yr <textline bbox="393.070,452.680,663.736,470.680" font="Arial-BoldMT" ncolour="1" size="18.000" colourspace="Pattern">74 degree Incl. 3 24-hr cycles/yr </textline>
+</textbox>
+<textbox id="3" bbox="69.144,13.504,636.256,57.544" size="20.04">Conclusion: intercalibration in polar regions is common for 
+leo satellites, tropics less common: precession cycle limits. <textline bbox="69.144,37.504,633.170,57.544" font="Arial-BoldItalicMT" ncolour="1" size="20.040" colourspace="Pattern">Conclusion: intercalibration in polar regions is common for </textline>
+<textline bbox="69.144,13.504,636.256,33.544" font="Arial-BoldItalicMT" ncolour="1" size="20.040" colourspace="Pattern">leo satellites, tropics less common: precession cycle limits. </textline>
+</textbox>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="65.976,481.555,650.764,534.360" size="24.012">How often and Where will Orbits Cross? June - Dec 
+CLARREO calibrating Terra/Aqua/NPOESS <textline bbox="65.976,510.360,650.764,534.360" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">How often and Where will Orbits Cross? June - Dec </textline>
+<textline bbox="116.040,481.555,600.628,505.579" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.024" colourspace="Pattern">CLARREO calibrating Terra/Aqua/NPOESS </textline>
+</textbox>
+<textbox id="1" bbox="39.120,458.680,299.852,476.680" size="18.0">90 degree Incl. 1 24-hr cycle/yr <textline bbox="39.120,458.680,299.852,476.680" font="Arial-BoldMT" ncolour="1" size="18.000" colourspace="Pattern">90 degree Incl. 1 24-hr cycle/yr </textline>
+</textbox>
+<textbox id="2" bbox="393.070,458.680,663.736,476.680" size="18.0">74 degree Incl. 3 24-hr cycles/yr <textline bbox="393.070,458.680,663.736,476.680" font="Arial-BoldMT" ncolour="1" size="18.000" colourspace="Pattern">74 degree Incl. 3 24-hr cycles/yr </textline>
+</textbox>
+<textbox id="3" bbox="69.144,6.251,661.155,74.296" size="20.048">Conclusion: in 6 months can cross-calibrate across the entire  
+Range of climate regimes: equator to pole, ocean to land.   
+But is the sampling enough? <textline bbox="69.144,54.256,661.155,74.296" font="Arial-BoldItalicMT" ncolour="1" size="20.040" colourspace="Pattern">Conclusion: in 6 months can cross-calibrate across the entire  </textline>
+<textline bbox="69.144,30.256,624.012,50.296" font="Arial-BoldItalicMT" ncolour="1" size="20.040" colourspace="Pattern">Range of climate regimes: equator to pole, ocean to land.   </textline>
+<textline bbox="69.144,6.251,343.479,26.315" font="Arial-BoldItalicMT" ncolour="1" size="20.064" colourspace="Pattern">But is the sampling enough? </textline>
+</textbox>
+<figure name="Image257" bbox="24.000,84.000,339.120,456.000" src="Image257.jpg" width="315" height="372">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="120.700,460.668,606.838,522.267" size="27.972">Maximum Slew Rate versus Altitude  
+Difference <textline bbox="120.700,494.283,606.838,522.267" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.984" colourspace="Pattern">Maximum Slew Rate versus Altitude  </textline>
+<textline bbox="291.480,460.668,428.344,488.628" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">Difference </textline>
+</textbox>
+<textbox id="1" bbox="233.230,177.153,451.852,193.113" size="15.96">3&#176;/second for CLARREO to Aqua <textline bbox="233.230,177.153,451.852,193.113" font="BCDFEE+Times" ncolour="0" size="15.960" colourspace="Pattern">3&#176;/second for CLARREO to Aqua </textline>
+</textbox>
+<textbox id="2" bbox="584.330,27.711,597.974,41.751" size="14.04">11 <textline bbox="584.330,27.711,597.974,41.751" font="BCDFEE+Times" ncolour="0" size="14.040" colourspace="Pattern">11 </textline>
+</textbox>
+<figure name="Image268" bbox="72.000,66.600,666.720,438.840" src="Image268.913x572.bmp" width="594" height="372">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="110.860,443.868,616.573,505.428" size="27.96">Minimum Calibration Duration versus  
+Altitude Difference <textline bbox="110.860,477.468,616.573,505.428" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">Minimum Calibration Duration versus  </textline>
+<textline bbox="235.440,443.868,484.312,471.828" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">Altitude Difference </textline>
+</textbox>
+<textbox id="1" bbox="282.620,181.903,571.847,197.863" size="15.96">40 seconds for CLARREO (600 km) to Aqua <textline bbox="282.620,181.903,571.847,197.863" font="BCDFEE+Times" ncolour="0" size="15.960" colourspace="Pattern">40 seconds for CLARREO (600 km) to Aqua </textline>
+</textbox>
+<textbox id="2" bbox="584.090,27.711,598.214,41.751" size="14.04">12 <textline bbox="584.090,27.711,598.214,41.751" font="BCDFEE+Times" ncolour="0" size="14.040" colourspace="Pattern">12 </textline>
+</textbox>
+<figure name="Image278" bbox="79.200,74.880,656.280,434.160" src="Image278.913x568.bmp" width="577" height="359">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="162.600,472.668,554.040,500.628" size="27.96">How Often Will Orbits Cross? <textline bbox="162.600,472.668,554.040,500.628" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">How Often Will Orbits Cross? </textline>
+</textbox>
+<textbox id="1" bbox="370.200,244.832,593.885,292.472" size="14.04">Adding Pointing to CLARREO 
+Increases Matches by factor of 10 
+over Nadir Only Values (red, blue) <textline bbox="370.200,278.432,567.827,292.472" font="Arial-BoldItalicMT" ncolour="(0, 0.502, 0.251)" size="14.040" colourspace="Pattern">Adding Pointing to CLARREO </textline>
+<textline bbox="370.200,261.632,593.380,275.672" font="Arial-BoldItalicMT" ncolour="(0, 0.502, 0.251)" size="14.040" colourspace="Pattern">Increases Matches by factor of 10 </textline>
+<textline bbox="370.200,244.832,593.885,258.872" font="Arial-BoldItalicMT" ncolour="(0, 0.502, 0.251)" size="14.040" colourspace="Pattern">over Nadir Only Values (red, blue) </textline>
+</textbox>
+<textbox id="2" bbox="45.120,7.499,616.282,27.563" size="20.064">Conclusion: Solar Sampling Much Less: 1 satellite, day only <textline bbox="45.120,7.499,616.282,27.563" font="Arial-BoldItalicMT" ncolour="1" size="20.064" colourspace="Pattern">Conclusion: Solar Sampling Much Less: 1 satellite, day only </textline>
+</textbox>
+<figure name="Image286" bbox="0.000,34.680,720.000,542.160" src="Image286.837x590.bmp" width="720" height="507">
+</figure>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="162.600,472.668,554.040,500.628" size="27.96">How Often Will Orbits Cross? <textline bbox="162.600,472.668,554.040,500.628" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">How Often Will Orbits Cross? </textline>
+</textbox>
+<textbox id="1" bbox="61.128,421.018,295.800,436.978" size="15.96">&#8226; What about diurnal cycles? <textline bbox="61.128,421.018,295.800,436.978">&#8226; What about diurnal cycles? <text font="ArialMT" bbox="61.128,421.018,66.714,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">&#8226;</text>
+<text font="Arial-BoldMT" bbox="88.128,421.018,103.194,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">W</text>
+<text font="Arial-BoldMT" bbox="103.258,421.018,113.010,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">h</text>
+<text font="Arial-BoldMT" bbox="113.010,421.018,121.883,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">a</text>
+<text font="Arial-BoldMT" bbox="121.883,421.018,127.198,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">t</text>
+<text font="Arial-BoldMT" bbox="127.134,421.018,131.571,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960"> </text>
+<text font="Arial-BoldMT" bbox="131.795,421.018,140.668,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">a</text>
+<text font="Arial-BoldMT" bbox="140.668,421.018,150.420,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">b</text>
+<text font="Arial-BoldMT" bbox="150.420,421.018,160.171,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">o</text>
+<text font="Arial-BoldMT" bbox="160.108,421.018,169.859,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">u</text>
+<text font="Arial-BoldMT" bbox="169.859,421.018,175.174,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">t</text>
+<text font="Arial-BoldMT" bbox="175.110,421.018,179.547,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960"> </text>
+<text font="Arial-BoldMT" bbox="179.770,421.018,189.522,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">d</text>
+<text font="Arial-BoldMT" bbox="189.522,421.018,193.959,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">i</text>
+<text font="Arial-BoldMT" bbox="193.959,421.018,203.710,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">u</text>
+<text font="Arial-BoldMT" bbox="203.646,421.018,209.855,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">r</text>
+<text font="Arial-BoldMT" bbox="209.855,421.018,219.606,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">n</text>
+<text font="Arial-BoldMT" bbox="219.606,421.018,228.480,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">a</text>
+<text font="Arial-BoldMT" bbox="228.480,421.018,232.917,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">l</text>
+<text font="Arial-BoldMT" bbox="232.917,421.018,237.354,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960"> </text>
+<text font="Arial-BoldMT" bbox="237.593,421.018,246.467,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">c</text>
+<text font="Arial-BoldMT" bbox="246.467,421.018,255.341,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">y</text>
+<text font="Arial-BoldMT" bbox="254.990,421.018,263.864,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">c</text>
+<text font="Arial-BoldMT" bbox="263.864,421.018,268.300,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">l</text>
+<text font="Arial-BoldMT" bbox="268.300,421.018,277.174,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">e</text>
+<text font="Arial-BoldMT" bbox="277.174,421.018,286.048,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">s</text>
+<text font="Arial-BoldMT" bbox="286.048,421.018,295.800,436.978" colourspace="Pattern" ncolour="(1, 1, 0)" size="15.960">?</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="23.136,7.499,668.220,51.544" size="20.052">Conclusion: Pointing capability is critical to calibrate geostationary 
+sensors at any position other than the sub-satellite equatorial point. <textline bbox="23.136,31.504,662.693,51.544" font="Arial-BoldItalicMT" ncolour="1" size="20.040" colourspace="Pattern">Conclusion: Pointing capability is critical to calibrate geostationary </textline>
+<textline bbox="23.136,7.499,668.220,27.563" font="Arial-BoldItalicMT" ncolour="1" size="20.064" colourspace="Pattern">sensors at any position other than the sub-satellite equatorial point. </textline>
+</textbox>
+<figure name="Image297" bbox="0.000,60.240,720.000,540.000" src="Image297.863x575.bmp" width="720" height="479">
+</figure>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="131.140,460.668,588.649,488.628" size="27.96">Orbit Plane Convergence Example <textline bbox="131.140,460.668,588.649,488.628" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">Orbit Plane Convergence Example </textline>
+</textbox>
+<textbox id="1" bbox="584.090,27.711,598.214,41.751" size="14.04">15 <textline bbox="584.090,27.711,598.214,41.751" font="BCDFEE+Times" ncolour="0" size="14.040" colourspace="Pattern">15 </textline>
+</textbox>
+<figure name="Image312" bbox="161.040,87.120,535.320,405.120" src="Image312.jpg" width="374" height="318">
+</figure>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="123.340,477.468,596.423,505.428" size="27.96">Geostationary Orbit Intercalibration <textline bbox="123.340,477.468,596.423,505.428" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="27.960" colourspace="Pattern">Geostationary Orbit Intercalibration </textline>
+</textbox>
+<textbox id="1" bbox="453.960,379.192,688.167,447.271" size="20.048">The maximum slew  
+angular rate is less than  
+0.1 degree per second.  <textline bbox="453.960,427.207,642.983,447.271" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.064" colourspace="Pattern">The maximum slew  </textline>
+<textline bbox="453.960,403.192,688.167,423.232" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">angular rate is less than  </textline>
+<textline bbox="453.960,379.192,676.264,399.232" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">0.1 degree per second.  </textline>
+</textbox>
+<textbox id="2" bbox="453.960,307.187,683.759,351.232" size="20.052">Precession rate is not a  
+factor. <textline bbox="453.960,331.192,683.759,351.232" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">Precession rate is not a  </textline>
+<textline bbox="453.960,307.187,514.232,327.251" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.064" colourspace="Pattern">factor. </textline>
+</textbox>
+<textbox id="3" bbox="453.960,235.172,624.921,279.212" size="20.04">Pointing ability is  
+required for  <textline bbox="453.960,259.172,624.921,279.212" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">Pointing ability is  </textline>
+<textline bbox="453.960,235.172,571.675,255.212" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="20.040" colourspace="Pattern">required for  </textline>
+</textbox>
+<textbox id="4" bbox="584.090,27.711,598.214,41.751" size="14.04">16 <textline bbox="584.090,27.711,598.214,41.751" font="BCDFEE+Times" ncolour="0" size="14.040" colourspace="Pattern">16 </textline>
+</textbox>
+<figure name="Image319" bbox="38.760,187.440,380.520,462.360" src="Image319.jpg" width="341" height="274">
+</figure>
+<figure name="Image320" bbox="197.640,18.000,687.120,227.280" src="Image320.913x390.bmp" width="489" height="209">
+</figure>
+</page>
+</pages>

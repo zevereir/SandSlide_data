@@ -1,0 +1,849 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="83.832,307.943,617.988,335.927" size="27.984" unique_id="0">SPoRT ADAS:  A Meso-Surface Analysis <textline bbox="83.832,307.943,617.988,335.927" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">SPoRT ADAS:  A Meso-Surface Analysis </textline>
+</title>
+<normal_text id="1" bbox="199.180,142.172,772.244,162.212" size="20.04" unique_id="1">Science Sharing Session for NWS                                                  <textline bbox="199.180,142.172,772.244,162.212" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Science Sharing Session for NWS                                                  </textline>
+</normal_text>
+<normal_text id="2" bbox="307.080,118.172,394.855,138.212" size="20.04" unique_id="2">May 2008 <textline bbox="307.080,118.172,394.855,138.212" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">May 2008 </textline>
+</normal_text>
+<footer id="3" bbox="213.860,2.164,682.038,16.204" size="14.04" unique_id="3">transitioning unique NASA data and research technologies to the NWS <textline bbox="213.860,2.164,682.038,16.204" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040" colourspace="DeviceGray">transitioning unique NASA data and research technologies to the NWS </textline>
+</footer>
+<slide_number id="4" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="4">1 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">1 </textline>
+</slide_number>
+<picture name="Image8" bbox="32.640,3.600,204.960,42.000" src="Image8.233x61.bmp" width="172" height="38" unique_id="5">
+</picture>
+<picture name="Image16" bbox="576.000,474.360,706.560,521.640" src="Image16.174x63.bmp" width="130" height="47" unique_id="6">
+</picture>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<normal_text id="0" bbox="87.456,496.242,171.043,516.282" size="20.04" unique_id="0">Overview <textline bbox="87.456,496.242,171.043,516.282" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Overview </textline>
+</normal_text>
+<enlisting id="6" bbox="34.824,54.551,544.700,68.615" size="14.064" unique_id="6">*Advanced Regional Prediction System (ARPS) Data Analysis System (CAPS/OU) <textline bbox="34.824,54.551,544.700,68.615" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">*Advanced Regional Prediction System (ARPS) Data Analysis System (CAPS/OU) </textline>
+</enlisting>
+<footer id="7" bbox="213.860,2.164,682.038,16.204" size="14.04" unique_id="7">transitioning unique NASA data and research technologies to the NWS <textline bbox="213.860,2.164,682.038,16.204" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040" colourspace="DeviceGray">transitioning unique NASA data and research technologies to the NWS </textline>
+</footer>
+<slide_number id="8" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="8">2 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">2 </textline>
+</slide_number>
+<picture name="Image8" bbox="32.640,3.600,204.960,42.000" src="Image8.0.233x61.bmp" width="172" height="38" unique_id="9">
+</picture>
+<picture name="Image16" bbox="576.000,474.360,706.560,521.640" src="Image16.0.174x63.bmp" width="130" height="47" unique_id="10">
+</picture>
+<enlisting bbox="163.97,191.387,556.677,360.252" unique_id="['5', '1', ' 2', ' 3', ' 4']">&#8226; Missing product expectations and actions &#8226; What is the SPoRT ADAS*? &#8226; What are its uses? &#8226; Accessing product in AWIPS &#8226; Comparison with existing analysis <normal_text id="5" bbox="163.970,191.387,556.677,211.451" size="20.064" unique_id="5">&#8226; Missing product expectations and actions <textline bbox="163.970,191.387,556.677,211.451" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; Missing product expectations and actions </textline>
+</normal_text>
+<normal_text bbox="196.73,228.592,523.929,360.252" unique_id="['1', '2', '3', '4']">&#8226; What is the SPoRT ADAS*? &#8226; What are its uses? &#8226; Accessing product in AWIPS &#8226; Comparison with existing analysis <normal_text id="1" bbox="222.430,340.212,498.447,360.252" size="20.04" unique_id="1">&#8226; What is the SPoRT ADAS*? <textline bbox="222.430,340.212,498.447,360.252" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; What is the SPoRT ADAS*? </textline>
+</normal_text>
+<normal_text id="2" bbox="264.070,303.007,456.658,323.071" size="20.064" unique_id="2">&#8226; What are its uses? <textline bbox="264.070,303.007,456.658,323.071" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; What are its uses? </textline>
+</normal_text>
+<normal_text id="3" bbox="219.670,265.792,501.078,285.832" size="20.04" unique_id="3">&#8226; Accessing product in AWIPS <textline bbox="219.670,265.792,501.078,285.832" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Accessing product in AWIPS </textline>
+</normal_text>
+<normal_text id="4" bbox="196.730,228.592,523.929,248.632" size="20.04" unique_id="4">&#8226; Comparison with existing analysis <textline bbox="196.730,228.592,523.929,248.632" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Comparison with existing analysis </textline>
+</normal_text>
+</normal_text></enlisting></page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<normal_text id="0" bbox="87.456,487.982,327.174,508.022" size="20.04" unique_id="0">What is the SPoRT ADAS? <textline bbox="87.456,487.982,327.174,508.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">What is the SPoRT ADAS? </textline>
+</normal_text>
+<footer id="16" bbox="213.860,2.164,682.038,16.204" size="14.04" unique_id="16">transitioning unique NASA data and research technologies to the NWS <textline bbox="213.860,2.164,682.038,16.204" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040" colourspace="DeviceGray">transitioning unique NASA data and research technologies to the NWS </textline>
+</footer>
+<slide_number id="17" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="17">3 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">3 </textline>
+</slide_number>
+<picture name="Image8" bbox="32.640,3.600,204.960,42.000" src="Image8.1.233x61.bmp" width="172" height="38" unique_id="18">
+</picture>
+<picture name="Image16" bbox="576.000,474.360,706.560,521.640" src="Image16.1.174x63.bmp" width="130" height="47" unique_id="19">
+</picture>
+<picture name="Image26" bbox="416.640,166.320,702.600,403.080" src="Image26.jpg" width="285" height="236" unique_id="20">
+</picture>
+<enlisting bbox="17.712,63.107,658.462,432.882" unique_id="['1', '    2', '    3', '    5', '    6', '    7', '    8', '    9', '    13', '    14', '    15', '   4', '  10', ' 11', '12']">&#8226; Blends surface data into a coherent analysis using ADAS: &#8226; Strength in analyzing asynoptic data sets &#8226; &#8226; METAR, buoy, Mesonet, SAO &#8226; An observation is rejected if it is: &#8226; &#8226; &#8226; &#8226; 2-km resolution captures mesoscale features &#8226; Assimilates observations from &#177;15 minutes from the top of every hour &#8226; Available in AWIPS at 40-45 minutes past every hour <normal_text id="1" bbox="17.712,412.842,555.612,432.882" size="20.04" unique_id="1">&#8226; Blends surface data into a coherent analysis using ADAS: <textline bbox="17.712,412.842,555.612,432.882" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Blends surface data into a coherent analysis using ADAS: </textline>
+</normal_text>
+<normal_text id="2" bbox="53.712,378.470,407.754,396.470" size="18.0" unique_id="2">&#8226; Strength in analyzing asynoptic data sets <textline bbox="53.712,378.470,407.754,396.470" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; Strength in analyzing asynoptic data sets </textline>
+</normal_text>
+<normal_text id="3" bbox="53.712,344.990,60.012,362.990" size="18.0" unique_id="3">&#8226; <textline bbox="53.712,344.990,60.012,362.990" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="5" bbox="53.712,311.510,319.758,329.510" size="18.0" unique_id="5">&#8226; METAR, buoy, Mesonet, SAO <textline bbox="53.712,311.510,319.758,329.510" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; METAR, buoy, Mesonet, SAO </textline>
+</normal_text>
+<normal_text id="6" bbox="17.712,275.172,331.164,295.212" size="20.04" unique_id="6">&#8226; An observation is rejected if it is: <textline bbox="17.712,275.172,331.164,295.212" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; An observation is rejected if it is: </textline>
+</normal_text>
+<normal_text id="7" bbox="53.712,240.800,60.012,258.800" size="18.0" unique_id="7">&#8226; <textline bbox="53.712,240.800,60.012,258.800" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="8" bbox="53.712,207.320,60.012,225.320" size="18.0" unique_id="8">&#8226; <textline bbox="53.712,207.320,60.012,225.320" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="9" bbox="53.712,173.835,60.020,191.859" size="18.024" unique_id="9">&#8226; <textline bbox="53.712,173.835,60.020,191.859" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="13" bbox="17.712,137.512,442.464,157.552" size="20.04" unique_id="13">&#8226; 2-km resolution captures mesoscale features <textline bbox="17.712,137.512,442.464,157.552" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; 2-km resolution captures mesoscale features </textline>
+</normal_text>
+<normal_text id="14" bbox="17.712,100.312,658.462,120.352" size="20.04" unique_id="14">&#8226; Assimilates observations from &#177;15 minutes from the top of every hour <textline bbox="17.712,100.312,658.462,120.352" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Assimilates observations from &#177;15 minutes from the top of every hour </textline>
+</normal_text>
+<normal_text id="15" bbox="17.712,63.107,514.768,83.171" size="20.064" unique_id="15">&#8226; Available in AWIPS at 40-45 minutes past every hour <textline bbox="17.712,63.107,514.768,83.171" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; Available in AWIPS at 40-45 minutes past every hour </textline>
+</normal_text>
+<normal_text id="4" bbox="80.712,344.990,391.734,362.990" size="18.0" unique_id="4">13-km, 2-h RUC forecast as first-guess <textline bbox="80.712,344.990,391.734,362.990" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">13-km, 2-h RUC forecast as first-guess </textline>
+</normal_text>
+<normal_text id="10" bbox="80.712,240.800,367.344,258.800" size="18.0" unique_id="10">significantly different than neighbors <textline bbox="80.712,240.800,367.344,258.800" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">significantly different than neighbors </textline>
+</normal_text>
+<normal_text id="11" bbox="80.712,207.320,332.694,225.320" size="18.0" unique_id="11">greatly different than first-guess <textline bbox="80.712,207.320,332.694,225.320" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">greatly different than first-guess </textline>
+</normal_text>
+<normal_text id="12" bbox="80.712,173.835,281.532,191.859" size="18.024" unique_id="12">blacklisted (user-defined) <textline bbox="80.712,173.835,281.532,191.859" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">blacklisted (user-defined) </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<normal_text id="0" bbox="87.456,487.982,261.884,508.022" size="20.04" unique_id="0">SPoRT ADAS Uses <textline bbox="87.456,487.982,261.884,508.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">SPoRT ADAS Uses </textline>
+</normal_text>
+<footer id="16" bbox="213.860,2.164,682.038,16.204" size="14.04" unique_id="16">transitioning unique NASA data and research technologies to the NWS <textline bbox="213.860,2.164,682.038,16.204" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040" colourspace="DeviceGray">transitioning unique NASA data and research technologies to the NWS </textline>
+</footer>
+<slide_number id="17" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="17">4 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4 </textline>
+</slide_number>
+<picture name="Image8" bbox="32.640,3.600,204.960,42.000" src="Image8.2.233x61.bmp" width="172" height="38" unique_id="18">
+</picture>
+<picture name="Image16" bbox="576.000,474.360,706.560,521.640" src="Image16.2.174x63.bmp" width="130" height="47" unique_id="19">
+</picture>
+<enlisting bbox="26.712,49.199,632.132,433.022" unique_id="['1', '     2', '     3', '     4', '     5', '     9', '     11', '     12', '     13', '     15', '    6', '   7', '  8', ' 10', '14']">&#8226; Provides an additional high-resolution surface analysis for: &#8226; &#8226; &#8226; &#8226; &#8226; Similar to: &#8226; MSAS&#8224;:  smooth appearance &#8226; RTMA&#8225;:  quality control issues and smooth appearance &#8226; SPoRT ADAS has been most useful in forecasting nighttime  *Local Analysis and Prediction System (NOAA/GSD) 
+&#8224;Mesoscale Analysis and Prediction System (MAPS) Surface Assimilation System (NOAA/ESRL) 
+&#8225;Real-Time Mesoscale Analysis (NCEP) <normal_text id="1" bbox="26.712,412.982,570.659,433.022" size="20.04" unique_id="1">&#8226; Provides an additional high-resolution surface analysis for: <textline bbox="26.712,412.982,570.659,433.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Provides an additional high-resolution surface analysis for: </textline>
+</normal_text>
+<normal_text id="2" bbox="62.712,378.590,69.012,396.590" size="18.0" unique_id="2">&#8226; <textline bbox="62.712,378.590,69.012,396.590" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="3" bbox="62.712,345.110,69.012,363.110" size="18.0" unique_id="3">&#8226; <textline bbox="62.712,345.110,69.012,363.110" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="4" bbox="62.712,311.630,69.012,329.630" size="18.0" unique_id="4">&#8226; <textline bbox="62.712,311.630,69.012,329.630" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="5" bbox="62.712,240.920,69.012,258.920" size="18.0" unique_id="5">&#8226; <textline bbox="62.712,240.920,69.012,258.920" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="9" bbox="26.712,275.317,142.696,295.381" size="20.064" unique_id="9">&#8226; Similar to: <textline bbox="26.712,275.317,142.696,295.381" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; Similar to: </textline>
+</normal_text>
+<normal_text id="11" bbox="62.712,207.440,321.214,226.100" size="18.0" unique_id="11">&#8226; MSAS&#8224;:  smooth appearance <textline bbox="62.712,207.440,321.214,226.100">&#8226; MSAS&#8224;:  smooth appearance <text font="ArialMT" bbox="62.712,207.440,69.012,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">&#8226;</text>
+<text font="ArialMT" bbox="89.712,207.440,104.706,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">M</text>
+<text font="ArialMT" bbox="104.706,207.440,116.712,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">S</text>
+<text font="ArialMT" bbox="116.712,207.440,128.718,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">A</text>
+<text font="ArialMT" bbox="128.718,207.440,140.724,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">S</text>
+<text font="ArialMT" bbox="140.740,214.100,147.412,226.100" colourspace="DeviceGray" ncolour="0" size="12.000">&#8224;</text>
+<text font="ArialMT" bbox="147.460,207.440,152.464,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">:</text>
+<text font="ArialMT" bbox="152.464,207.440,157.468,225.440" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="157.468,207.440,162.472,225.440" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="162.472,207.440,171.472,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="171.472,207.440,186.466,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="186.466,207.440,196.474,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="196.420,207.440,206.428,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="206.428,207.440,211.432,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="211.432,207.440,221.440,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">h</text>
+<text font="ArialMT" bbox="221.386,207.440,226.390,225.440" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="226.390,207.440,236.398,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="236.398,207.440,246.406,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">p</text>
+<text font="ArialMT" bbox="246.352,207.440,256.360,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">p</text>
+<text font="ArialMT" bbox="256.360,207.440,266.368,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="266.278,207.440,276.286,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="276.286,207.440,282.280,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="282.280,207.440,292.288,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="292.198,207.440,302.206,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="302.206,207.440,311.206,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">c</text>
+<text font="ArialMT" bbox="311.206,207.440,321.214,225.440" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+</textline>
+</normal_text>
+<normal_text id="12" bbox="62.712,173.960,528.154,192.620" size="18.0" unique_id="12">&#8226; RTMA&#8225;:  quality control issues and smooth appearance <textline bbox="62.712,173.960,528.154,192.620">&#8226; RTMA&#8225;:  quality control issues and smooth appearance <text font="ArialMT" bbox="62.712,173.960,69.012,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">&#8226;</text>
+<text font="ArialMT" bbox="89.712,173.960,102.708,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">R</text>
+<text font="ArialMT" bbox="102.708,173.960,113.706,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">T</text>
+<text font="ArialMT" bbox="113.814,173.960,128.808,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">M</text>
+<text font="ArialMT" bbox="128.808,173.960,140.814,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">A</text>
+<text font="ArialMT" bbox="140.860,180.620,147.532,192.620" colourspace="DeviceGray" ncolour="0" size="12.000">&#8225;</text>
+<text font="ArialMT" bbox="147.580,173.960,152.584,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">:</text>
+<text font="ArialMT" bbox="152.584,173.960,157.588,191.960" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="157.426,173.960,162.430,191.960" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="162.430,173.960,172.438,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">q</text>
+<text font="ArialMT" bbox="172.438,173.960,182.446,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">u</text>
+<text font="ArialMT" bbox="182.392,173.960,192.400,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="192.400,173.960,196.396,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">l</text>
+<text font="ArialMT" bbox="196.306,173.960,200.302,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="200.302,173.960,205.306,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="205.306,173.960,214.306,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">y</text>
+<text font="ArialMT" bbox="214.072,173.960,219.076,191.960" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="219.328,173.960,228.328,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">c</text>
+<text font="ArialMT" bbox="228.328,173.960,238.336,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="238.336,173.960,248.344,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="248.254,173.960,253.258,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="253.258,173.960,259.252,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="259.252,173.960,269.260,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="269.260,173.960,273.256,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">l</text>
+<text font="ArialMT" bbox="273.256,173.960,278.260,191.960" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="278.350,173.960,282.346,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="282.346,173.960,291.346,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="291.346,173.960,300.346,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="300.346,173.960,310.354,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">u</text>
+<text font="ArialMT" bbox="310.264,173.960,320.272,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="320.272,173.960,329.272,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="329.272,173.960,334.276,191.960" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="334.366,173.960,344.374,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="344.374,173.960,354.382,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="354.292,173.960,364.300,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">d</text>
+<text font="ArialMT" bbox="364.300,173.960,369.304,191.960" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="369.304,173.960,378.304,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="ArialMT" bbox="378.304,173.960,393.298,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="393.298,173.960,403.306,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="403.252,173.960,413.260,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="413.260,173.960,418.264,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="418.264,173.960,428.272,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">h</text>
+<text font="ArialMT" bbox="428.218,173.960,433.222,191.960" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="433.366,173.960,443.374,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="443.374,173.960,453.382,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">p</text>
+<text font="ArialMT" bbox="453.292,173.960,463.300,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">p</text>
+<text font="ArialMT" bbox="463.300,173.960,473.308,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="473.218,173.960,483.226,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="483.226,173.960,489.220,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="489.220,173.960,499.228,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="499.138,173.960,509.146,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="509.146,173.960,518.146,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">c</text>
+<text font="ArialMT" bbox="518.146,173.960,528.154,191.960" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+</textline>
+</normal_text>
+<normal_text id="13" bbox="26.712,137.632,591.443,157.672" size="20.04" unique_id="13">&#8226; SPoRT ADAS has been most useful in forecasting nighttime  <textline bbox="26.712,137.632,591.443,157.672" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; SPoRT ADAS has been most useful in forecasting nighttime  </textline>
+</normal_text>
+<normal_text id="15" bbox="34.824,49.199,632.132,96.844" size="10.92" unique_id="15">*Local Analysis and Prediction System (NOAA/GSD) 
+&#8224;Mesoscale Analysis and Prediction System (MAPS) Surface Assimilation System (NOAA/ESRL) 
+&#8225;Real-Time Mesoscale Analysis (NCEP) <textline bbox="34.824,82.804,359.625,96.844" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">*Local Analysis and Prediction System (NOAA/GSD) </textline>
+<textline bbox="34.824,66.004,632.132,80.546">&#8224;Mesoscale Analysis and Prediction System (MAPS) Surface Assimilation System (NOAA/ESRL) <text font="ArialMT" bbox="34.824,71.186,40.028,80.546" colourspace="DeviceGray" ncolour="0" size="9.360">&#8224;</text>
+<text font="ArialMT" bbox="39.984,66.004,51.679,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">M</text>
+<text font="ArialMT" bbox="51.623,66.004,59.429,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="59.429,66.004,66.449,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="66.492,66.004,74.298,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">o</text>
+<text font="ArialMT" bbox="74.298,66.004,81.318,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="81.360,66.004,88.380,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="ArialMT" bbox="88.422,66.004,96.228,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="96.228,66.004,99.345,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">l</text>
+<text font="ArialMT" bbox="99.345,66.004,107.151,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="109.970,66.004,119.335,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">A</text>
+<text font="ArialMT" bbox="119.335,66.004,127.141,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="127.141,66.004,134.947,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="134.947,66.004,138.064,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">l</text>
+<text font="ArialMT" bbox="138.064,66.004,145.084,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">y</text>
+<text font="ArialMT" bbox="144.887,66.004,151.907,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="151.950,66.004,155.066,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="155.066,66.004,162.086,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="162.129,66.004,166.032,80.044" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="165.976,66.004,173.782,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="173.782,66.004,181.588,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="181.588,66.004,189.394,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="189.394,66.004,193.297,80.044" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="193.101,66.004,202.466,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">P</text>
+<text font="ArialMT" bbox="202.466,66.004,207.141,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="207.141,66.004,214.947,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="214.947,66.004,222.753,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="222.753,66.004,225.870,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="225.870,66.004,232.890,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="ArialMT" bbox="232.932,66.004,236.835,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="236.878,66.004,239.994,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="239.994,66.004,247.801,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">o</text>
+<text font="ArialMT" bbox="247.801,66.004,255.607,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="255.481,66.004,259.384,80.044" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="259.075,66.004,268.439,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">S</text>
+<text font="ArialMT" bbox="268.439,66.004,275.459,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">y</text>
+<text font="ArialMT" bbox="275.277,66.004,282.297,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="282.339,66.004,286.242,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="286.284,66.004,294.091,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="294.091,66.004,305.786,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">m</text>
+<text font="ArialMT" bbox="305.730,66.004,309.633,80.044" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="309.450,66.004,314.126,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">(</text>
+<text font="ArialMT" bbox="314.126,66.004,325.821,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">M</text>
+<text font="ArialMT" bbox="325.765,66.004,335.129,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">A</text>
+<text font="ArialMT" bbox="335.129,66.004,344.494,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">P</text>
+<text font="ArialMT" bbox="344.494,66.004,353.859,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">S</text>
+<text font="ArialMT" bbox="353.859,66.004,358.534,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">)</text>
+<text font="ArialMT" bbox="358.534,66.004,362.437,80.044" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="362.367,66.004,371.732,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">S</text>
+<text font="ArialMT" bbox="371.732,66.004,379.538,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">u</text>
+<text font="ArialMT" bbox="379.538,66.004,384.213,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="384.213,66.004,388.116,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">f</text>
+<text font="ArialMT" bbox="388.159,66.004,395.965,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="395.965,66.004,402.985,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="ArialMT" bbox="403.027,66.004,410.833,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="410.833,66.004,414.736,80.044" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="413.585,66.004,422.950,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">A</text>
+<text font="ArialMT" bbox="422.950,66.004,429.970,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="430.012,66.004,437.032,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="437.074,66.004,440.191,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="440.191,66.004,451.886,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">m</text>
+<text font="ArialMT" bbox="451.830,66.004,454.947,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="454.947,66.004,458.064,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">l</text>
+<text font="ArialMT" bbox="458.064,66.004,465.870,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="465.870,66.004,469.773,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="469.815,66.004,472.932,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="472.932,66.004,480.738,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">o</text>
+<text font="ArialMT" bbox="480.738,66.004,488.545,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="488.545,66.004,492.448,80.044" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="492.012,66.004,501.377,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">S</text>
+<text font="ArialMT" bbox="501.377,66.004,508.397,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">y</text>
+<text font="ArialMT" bbox="508.215,66.004,515.235,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="515.277,66.004,519.180,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="519.222,66.004,527.028,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="527.028,66.004,538.724,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">m</text>
+<text font="ArialMT" bbox="538.667,66.004,542.570,80.044" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="542.514,66.004,547.190,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">(</text>
+<text font="ArialMT" bbox="547.190,66.004,557.327,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">N</text>
+<text font="ArialMT" bbox="557.270,66.004,568.193,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">O</text>
+<text font="ArialMT" bbox="568.193,66.004,577.558,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">A</text>
+<text font="ArialMT" bbox="577.558,66.004,586.923,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">A</text>
+<text font="ArialMT" bbox="586.923,66.004,590.826,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">/</text>
+<text font="ArialMT" bbox="590.854,66.004,600.219,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">E</text>
+<text font="ArialMT" bbox="600.219,66.004,609.583,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">S</text>
+<text font="ArialMT" bbox="609.583,66.004,619.720,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">R</text>
+<text font="ArialMT" bbox="619.650,66.004,627.456,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">L</text>
+<text font="ArialMT" bbox="627.456,66.004,632.132,80.044" colourspace="DeviceGray" ncolour="0" size="14.040">)</text>
+</textline>
+<textline bbox="34.824,49.199,282.160,63.746">&#8225;Real-Time Mesoscale Analysis (NCEP) <text font="ArialMT" bbox="34.824,54.386,40.028,63.746" colourspace="DeviceGray" ncolour="0" size="9.360">&#8225;</text>
+<text font="ArialMT" bbox="39.984,49.199,50.138,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">R</text>
+<text font="ArialMT" bbox="50.068,49.199,57.887,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">e</text>
+<text font="ArialMT" bbox="57.887,49.199,65.707,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">a</text>
+<text font="ArialMT" bbox="65.707,49.199,68.829,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">l</text>
+<text font="ArialMT" bbox="68.808,49.199,73.491,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">-</text>
+<text font="ArialMT" bbox="73.488,49.199,82.081,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">T</text>
+<text font="ArialMT" bbox="81.533,49.199,84.655,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">i</text>
+<text font="ArialMT" bbox="84.655,49.199,96.370,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">m</text>
+<text font="ArialMT" bbox="96.286,49.199,104.105,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">e</text>
+<text font="ArialMT" bbox="104.105,49.199,108.015,63.263" colourspace="DeviceGray" ncolour="0" size="14.064"> </text>
+<text font="ArialMT" bbox="107.810,49.199,119.525,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">M</text>
+<text font="ArialMT" bbox="119.455,49.199,127.275,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">e</text>
+<text font="ArialMT" bbox="127.275,49.199,134.307,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">s</text>
+<text font="ArialMT" bbox="134.307,49.199,142.126,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">o</text>
+<text font="ArialMT" bbox="142.126,49.199,149.158,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">s</text>
+<text font="ArialMT" bbox="149.200,49.199,156.232,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">c</text>
+<text font="ArialMT" bbox="156.260,49.199,164.080,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">a</text>
+<text font="ArialMT" bbox="164.080,49.199,167.202,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">l</text>
+<text font="ArialMT" bbox="167.202,49.199,175.022,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">e</text>
+<text font="ArialMT" bbox="177.650,49.199,187.031,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">A</text>
+<text font="ArialMT" bbox="187.031,49.199,194.850,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">n</text>
+<text font="ArialMT" bbox="194.850,49.199,202.670,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">a</text>
+<text font="ArialMT" bbox="202.670,49.199,205.792,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">l</text>
+<text font="ArialMT" bbox="205.792,49.199,212.824,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">y</text>
+<text font="ArialMT" bbox="212.669,49.199,219.701,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">s</text>
+<text font="ArialMT" bbox="219.758,49.199,222.880,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">i</text>
+<text font="ArialMT" bbox="222.880,49.199,229.912,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">s</text>
+<text font="ArialMT" bbox="229.968,49.199,233.878,63.263" colourspace="DeviceGray" ncolour="0" size="14.064"> </text>
+<text font="ArialMT" bbox="233.808,49.199,238.491,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">(</text>
+<text font="ArialMT" bbox="238.491,49.199,248.645,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">N</text>
+<text font="ArialMT" bbox="248.645,49.199,258.799,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">C</text>
+<text font="ArialMT" bbox="258.715,49.199,268.096,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">E</text>
+<text font="ArialMT" bbox="268.096,49.199,277.476,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">P</text>
+<text font="ArialMT" bbox="277.476,49.199,282.160,63.263" colourspace="DeviceGray" ncolour="0" size="14.064">)</text>
+</textline>
+</normal_text>
+<normal_text id="6" bbox="89.712,378.590,279.262,396.590" size="18.0" unique_id="6">real-time meso-analysis <textline bbox="89.712,378.590,279.262,396.590" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">real-time meso-analysis </textline>
+</normal_text>
+<normal_text id="7" bbox="89.712,345.110,405.612,363.110" size="18.0" unique_id="7">initializing grids within gridded forecasts <textline bbox="89.712,345.110,405.612,363.110" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">initializing grids within gridded forecasts </textline>
+</normal_text>
+<normal_text id="8" bbox="89.712,311.630,338.706,329.630" size="18.0" unique_id="8">verification of gridded forecasts <textline bbox="89.712,311.630,338.706,329.630" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">verification of gridded forecasts </textline>
+</normal_text>
+<normal_text id="10" bbox="89.712,240.920,392.652,258.920" size="18.0" unique_id="10">LAPS*:  quality control issues at times <textline bbox="89.712,240.920,392.652,258.920" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">LAPS*:  quality control issues at times </textline>
+</normal_text>
+<normal_text id="14" bbox="53.712,113.632,463.290,133.672" size="20.04" unique_id="14">temperatures in the elevated regions of NE AL <textline bbox="53.712,113.632,463.290,133.672" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">temperatures in the elevated regions of NE AL </textline>
+</normal_text>
+</enlisting></page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[87.456, 487.982, 430.3, 508.022]">
+<title id="0" bbox="87.456,487.982,430.300,508.022" size="20.04" unique_id="0">Accessing the SPoRT ADAS in AWIPS <textline bbox="87.456,487.982,430.300,508.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Accessing the SPoRT ADAS in AWIPS </textline>
+</title>
+<normal_text id="13" bbox="83.472,87.655,311.424,127.260" size="18.012" unique_id="13">other variables derived from  
+T and RH <textline bbox="83.472,109.260,311.424,127.260" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">other variables derived from  </textline>
+<textline bbox="83.472,87.655,160.471,105.679" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">T and RH </textline>
+</normal_text>
+<footer id="14" bbox="213.860,2.164,682.038,16.204" size="14.04" unique_id="14">transitioning unique NASA data and research technologies to the NWS <textline bbox="213.860,2.164,682.038,16.204" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040" colourspace="DeviceGray">transitioning unique NASA data and research technologies to the NWS </textline>
+</footer>
+<slide_number id="15" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="15">5 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">5 </textline>
+</slide_number>
+<picture name="Image8" bbox="32.640,3.600,204.960,42.000" src="Image8.3.233x61.bmp" width="172" height="38" unique_id="16">
+</picture>
+<picture name="Image16" bbox="576.000,474.360,706.560,521.640" src="Image16.3.174x63.bmp" width="130" height="47" unique_id="17">
+</picture>
+<picture name="Image31" bbox="332.040,96.720,705.000,392.160" src="Image31.1280x1024.bmp" width="372" height="295" unique_id="18">
+</picture>
+<enlisting bbox="20.448,109.26,301.395,399.762" unique_id="['1', ' 3', ' 4', ' 5', ' 9', ' 10', ' 11', ' 12', ' 6', '  7', '  8', '2']">&#8226; Located under the &#8220;Volume&#8221;  &#8226; Click on &#8220;Browser&#8221; &#8226; Product appears as &#8220;ADAS&#8221; &#8226; Variables available: &#8226; &#8226; &#8226; &#8226; 2-m temperature 2-m relative humidity 10-m winds <normal_text id="1" bbox="20.448,379.722,301.395,399.762" size="20.04" unique_id="1">&#8226; Located under the &#8220;Volume&#8221;  <textline bbox="20.448,379.722,301.395,399.762" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Located under the &#8220;Volume&#8221;  </textline>
+</normal_text>
+<normal_text id="3" bbox="20.448,318.492,211.495,338.532" size="20.04" unique_id="3">&#8226; Click on &#8220;Browser&#8221; <textline bbox="20.448,318.492,211.495,338.532" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Click on &#8220;Browser&#8221; </textline>
+</normal_text>
+<normal_text id="4" bbox="20.448,281.292,294.501,301.332" size="20.04" unique_id="4">&#8226; Product appears as &#8220;ADAS&#8221; <textline bbox="20.448,281.292,294.501,301.332" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Product appears as &#8220;ADAS&#8221; </textline>
+</normal_text>
+<normal_text id="5" bbox="20.448,244.092,221.435,264.132" size="20.04" unique_id="5">&#8226; Variables available: <textline bbox="20.448,244.092,221.435,264.132" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Variables available: </textline>
+</normal_text>
+<normal_text id="9" bbox="56.472,209.715,62.780,227.739" size="18.024" unique_id="9">&#8226; <textline bbox="56.472,209.715,62.780,227.739" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="10" bbox="56.472,176.220,62.772,194.220" size="18.0" unique_id="10">&#8226; <textline bbox="56.472,176.220,62.772,194.220" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="11" bbox="56.472,142.740,62.772,160.740" size="18.0" unique_id="11">&#8226; <textline bbox="56.472,142.740,62.772,160.740" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="12" bbox="56.472,109.260,62.772,127.260" size="18.0" unique_id="12">&#8226; <textline bbox="56.472,109.260,62.772,127.260" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text bbox="83.472,142.74,249.3,227.739" unique_id="['6', '7', '8']">2-m temperature 2-m relative humidity 10-m winds <normal_text id="6" bbox="83.472,209.715,216.408,227.739" size="18.024" unique_id="6">2-m temperature <textline bbox="83.472,209.715,216.408,227.739" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">2-m temperature </textline>
+</normal_text>
+<normal_text id="7" bbox="83.472,176.220,249.300,194.220" size="18.0" unique_id="7">2-m relative humidity <textline bbox="83.472,176.220,249.300,194.220" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">2-m relative humidity </textline>
+</normal_text>
+<normal_text id="8" bbox="83.472,142.740,174.946,160.740" size="18.0" unique_id="8">10-m winds <textline bbox="83.472,142.740,174.946,160.740" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">10-m winds </textline>
+</normal_text>
+</normal_text><normal_text id="2" bbox="47.448,355.722,192.077,375.762" size="20.04" unique_id="2">tab on the menu <textline bbox="47.448,355.722,192.077,375.762" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">tab on the menu </textline>
+</normal_text>
+</enlisting></page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[87.456, 487.982, 401.99066666666664, 508.022]">
+<title id="0" bbox="87.456,487.982,387.836,508.022" size="20.04" unique_id="0">Surface Temperature Comparison <textline bbox="87.456,487.982,387.836,508.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Surface Temperature Comparison </textline>
+</title>
+<footer id="7" bbox="213.860,2.164,682.038,16.204" size="14.04" unique_id="7">transitioning unique NASA data and research technologies to the NWS <textline bbox="213.860,2.164,682.038,16.204" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040" colourspace="DeviceGray">transitioning unique NASA data and research technologies to the NWS </textline>
+</footer>
+<slide_number id="8" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="8">6 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">6 </textline>
+</slide_number>
+<picture name="Image8" bbox="32.640,3.600,204.960,42.000" src="Image8.4.233x61.bmp" width="172" height="38" unique_id="9">
+</picture>
+<picture name="Image16" bbox="576.000,474.360,706.560,521.640" src="Image16.4.174x63.bmp" width="130" height="47" unique_id="10">
+</picture>
+<picture name="Image34" bbox="8.520,42.360,372.000,453.120" src="Image34.685x782.bmp" width="363" height="410" unique_id="11">
+</picture>
+<enlisting bbox="253.78,46.284,695.768,420.012" unique_id="['1', ' 2', ' 3', ' 4', ' 5', '6']">&#8226; May 9, 2008  1700 UTC &#8226; Neither analysis shows obvious  
+bulls eyes due to quality control  
+issues &#8226; One case&#8212;may have been no  
+questionable observations &#8226; Better resolution of SPoRT 
+ADAS allows it to pick up  
+sharper gradients &#8226; Especially evident in the higher  
+terrain of eastern Alabama and  
+western Georgia <normal_text id="1" bbox="384.020,399.972,623.063,420.012" size="20.04" unique_id="1">&#8226; May 9, 2008  1700 UTC <textline bbox="384.020,399.972,623.063,420.012" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; May 9, 2008  1700 UTC </textline>
+</normal_text>
+<normal_text id="2" bbox="384.020,314.752,695.768,382.831" size="20.048" unique_id="2">&#8226; Neither analysis shows obvious  
+bulls eyes due to quality control  
+issues <textline bbox="384.020,362.767,695.768,382.831" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; Neither analysis shows obvious  </textline>
+<textline bbox="411.020,338.752,695.608,358.792" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">bulls eyes due to quality control  </textline>
+<textline bbox="411.020,314.752,467.914,334.792" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">issues </textline>
+</normal_text>
+<normal_text id="3" bbox="420.020,258.780,694.916,298.380" size="18.0" unique_id="3">&#8226; One case&#8212;may have been no  
+questionable observations <textline bbox="420.020,280.380,694.916,298.380" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; One case&#8212;may have been no  </textline>
+<textline bbox="447.020,258.780,655.820,276.780" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">questionable observations </textline>
+</normal_text>
+<normal_text id="4" bbox="384.020,174.452,648.859,242.492" size="20.04" unique_id="4">&#8226; Better resolution of SPoRT 
+ADAS allows it to pick up  
+sharper gradients <textline bbox="384.020,222.452,648.859,242.492" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Better resolution of SPoRT </textline>
+<textline bbox="411.020,198.452,638.935,218.492" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">ADAS allows it to pick up  </textline>
+<textline bbox="411.020,174.452,566.651,194.492" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">sharper gradients </textline>
+</normal_text>
+<normal_text id="5" bbox="384.020,89.224,692.362,157.292" size="20.048" unique_id="5">&#8226; Especially evident in the higher  
+terrain of eastern Alabama and  
+western Georgia <textline bbox="384.020,137.252,692.362,157.292" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Especially evident in the higher  </textline>
+<textline bbox="411.020,113.247,690.893,133.311" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">terrain of eastern Alabama and  </textline>
+<textline bbox="411.020,89.224,557.813,109.264" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">western Georgia </textline>
+</normal_text>
+<normal_text id="6" bbox="253.780,46.284,364.120,85.884" size="18.0" unique_id="6">LAPS 
+SPoRT ADAS <textline bbox="318.100,67.884,364.072,85.884" font="ArialMT" ncolour="(1, 1, 0)" size="18.000" colourspace="DeviceGray">LAPS </textline>
+<textline bbox="253.780,46.284,364.120,64.284" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">SPoRT ADAS </textline>
+</normal_text>
+</enlisting></page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[87.456, 487.982, 405.34383333333335, 508.022]">
+<title id="0" bbox="87.456,487.982,408.697,508.022" size="20.04" unique_id="0">Surface Temperature in High Terrain <textline bbox="87.456,487.982,408.697,508.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Surface Temperature in High Terrain </textline>
+</title>
+<normal_text id="1" bbox="22.200,399.590,671.424,439.229" size="18.012" unique_id="1">SPoRT ADAS depicts tight gradients associated with terrain features much better  
+than LAPS <textline bbox="22.200,421.205,671.424,439.229" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">SPoRT ADAS depicts tight gradients associated with terrain features much better  </textline>
+<textline bbox="22.200,399.590,108.150,417.590" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">than LAPS </textline>
+</normal_text>
+<footer id="2" bbox="213.860,2.164,682.038,16.204" size="14.04" unique_id="2">transitioning unique NASA data and research technologies to the NWS <textline bbox="213.860,2.164,682.038,16.204" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040" colourspace="DeviceGray">transitioning unique NASA data and research technologies to the NWS </textline>
+</footer>
+<slide_number id="3" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="3">7 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">7 </textline>
+</slide_number>
+<picture name="Image8" bbox="32.640,3.600,204.960,42.000" src="Image8.5.233x61.bmp" width="172" height="38" unique_id="4">
+</picture>
+<picture name="Image16" bbox="576.000,474.360,706.560,521.640" src="Image16.5.174x63.bmp" width="130" height="47" unique_id="5">
+</picture>
+<picture name="Image37" bbox="360.000,42.720,720.000,396.480" src="Image37.486x559.bmp" width="360" height="353" unique_id="6">
+</picture>
+<picture name="Image38" bbox="0.000,41.640,360.000,395.400" src="Image38.486x559.bmp" width="360" height="353" unique_id="7">
+</picture>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[87.45599999999999, 487.9820000000001, 372.62510000000003, 508.02200000000005]">
+<title id="0" bbox="87.456,487.982,323.547,508.022" size="20.04" unique_id="0">Errors and Error Reporting <textline bbox="87.456,487.982,323.547,508.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Errors and Error Reporting </textline>
+</title>
+<footer id="9" bbox="213.860,2.164,682.038,16.204" size="14.04" unique_id="9">transitioning unique NASA data and research technologies to the NWS <textline bbox="213.860,2.164,682.038,16.204" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040" colourspace="DeviceGray">transitioning unique NASA data and research technologies to the NWS </textline>
+</footer>
+<slide_number id="10" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="10">8 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8 </textline>
+</slide_number>
+<picture name="Image8" bbox="32.640,3.600,204.960,42.000" src="Image8.6.233x61.bmp" width="172" height="38" unique_id="11">
+</picture>
+<picture name="Image16" bbox="576.000,474.360,706.560,521.640" src="Image16.6.174x63.bmp" width="130" height="47" unique_id="12">
+</picture>
+<enlisting bbox="26.712,124.572,687.176,376.281" unique_id="['1', '    3', '    5', '    7', '   2', '  4', ' 6', '8']">&#8226; &#8226; Analyses may occasionally be missing due to unavailable RUC files,  &#8226; Outages due to errors in the analysis process may last for several  &#8226; Contact SPoRT Liaisons Geoffrey Stano and/or Kevin Fuell if a data  <normal_text id="1" bbox="26.712,356.217,33.734,376.281" size="20.064" unique_id="1">&#8226; <textline bbox="26.712,356.217,33.734,376.281" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="3" bbox="26.712,271.002,663.028,291.042" size="20.04" unique_id="3">&#8226; Analyses may occasionally be missing due to unavailable RUC files,  <textline bbox="26.712,271.002,663.028,291.042" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Analyses may occasionally be missing due to unavailable RUC files,  </textline>
+</normal_text>
+<normal_text id="5" bbox="26.712,209.772,639.682,229.812" size="20.04" unique_id="5">&#8226; Outages due to errors in the analysis process may last for several  <textline bbox="26.712,209.772,639.682,229.812" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Outages due to errors in the analysis process may last for several  </textline>
+</normal_text>
+<normal_text id="7" bbox="26.712,148.572,660.302,168.612" size="20.04" unique_id="7">&#8226; Contact SPoRT Liaisons Geoffrey Stano and/or Kevin Fuell if a data  <textline bbox="26.712,148.572,660.302,168.612" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Contact SPoRT Liaisons Geoffrey Stano and/or Kevin Fuell if a data  </textline>
+</normal_text>
+<normal_text id="2" bbox="53.712,308.202,687.176,376.281" size="20.048" unique_id="2">If the file has not arrived by 50 past the hour, there has either been an  
+error in the analysis process or in the transfer of the data from NASA to  
+NWS <textline bbox="53.712,356.217,676.238,376.281" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">If the file has not arrived by 50 past the hour, there has either been an  </textline>
+<textline bbox="53.712,332.202,687.176,352.242" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">error in the analysis process or in the transfer of the data from NASA to  </textline>
+<textline bbox="53.712,308.202,100.568,328.242" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">NWS </textline>
+</normal_text>
+<normal_text id="4" bbox="53.712,247.002,539.943,267.042" size="20.04" unique_id="4">missing observation files, or corrupted observation files <textline bbox="53.712,247.002,539.943,267.042" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">missing observation files, or corrupted observation files </textline>
+</normal_text>
+<normal_text id="6" bbox="53.712,185.772,214.974,205.812" size="20.04" unique_id="6">consecutive hours <textline bbox="53.712,185.772,214.974,205.812" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">consecutive hours </textline>
+</normal_text>
+<normal_text id="8" bbox="53.712,124.572,395.394,144.612" size="20.04" unique_id="8">outage occurs for more than a half day <textline bbox="53.712,124.572,395.394,144.612" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">outage occurs for more than a half day </textline>
+</normal_text>
+</enlisting></page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[87.45599999999999, 487.9820000000001, 306.18573333333336, 508.022]">
+<title id="0" bbox="87.456,487.982,173.307,508.022" size="20.04" unique_id="0">Summary <textline bbox="87.456,487.982,173.307,508.022" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Summary </textline>
+</title>
+<normal_text id="5" bbox="45.192,102.782,679.005,122.822" size="20.04" unique_id="5">Science Point of Contact:  Brad Zavodsky (Brad.Zavodsky@nasa.gov),  <textline bbox="45.192,102.782,679.005,122.822">Science Point of Contact:  Brad Zavodsky (Brad.Zavodsky@nasa.gov),  <text font="ArialMT" bbox="45.192,102.782,58.559,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">S</text>
+<text font="ArialMT" bbox="58.559,102.782,68.579,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="68.579,102.782,73.028,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="73.028,102.782,84.170,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="84.170,102.782,95.312,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="95.312,102.782,105.332,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="105.412,102.782,116.554,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="116.554,102.782,122.126,122.822" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="121.965,102.782,135.332,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">P</text>
+<text font="ArialMT" bbox="135.332,102.782,146.474,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="146.474,102.782,150.923,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="150.923,102.782,162.065,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="162.065,102.782,167.636,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="167.556,102.782,173.127,122.822" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="173.127,102.782,184.270,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="184.270,102.782,189.841,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="189.761,102.782,195.332,122.822" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="195.151,102.782,209.620,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">C</text>
+<text font="ArialMT" bbox="209.620,102.782,220.762,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="220.803,102.782,231.945,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="231.945,102.782,237.516,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="237.516,102.782,248.658,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="248.658,102.782,258.678,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="258.678,102.782,264.249,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="264.249,102.782,269.820,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">:</text>
+<text font="ArialMT" bbox="269.820,102.782,275.391,122.822" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="275.051,102.782,280.622,122.822" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="280.622,102.782,293.989,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">B</text>
+<text font="ArialMT" bbox="293.888,102.782,300.562,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="300.562,102.782,311.704,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="311.744,102.782,322.886,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="322.886,102.782,328.457,122.822" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="328.320,102.782,340.564,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">Z</text>
+<text font="ArialMT" bbox="340.564,102.782,351.707,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="351.707,102.782,361.727,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">v</text>
+<text font="ArialMT" bbox="361.727,102.782,372.869,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="372.869,102.782,384.011,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="384.011,102.782,394.031,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="394.031,102.782,404.051,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">k</text>
+<text font="ArialMT" bbox="404.131,102.782,414.151,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="419.540,102.782,426.213,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">(</text>
+<text font="ArialMT" bbox="426.260,102.782,439.627,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">B</text>
+<text font="ArialMT" bbox="439.627,102.782,446.300,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">r</text>
+<text font="ArialMT" bbox="446.300,102.782,457.442,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">a</text>
+<text font="ArialMT" bbox="457.442,102.782,468.584,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">d</text>
+<text font="ArialMT" bbox="468.584,102.782,474.156,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">.</text>
+<text font="ArialMT" bbox="474.156,102.782,486.400,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">Z</text>
+<text font="ArialMT" bbox="486.400,102.782,497.542,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">a</text>
+<text font="ArialMT" bbox="497.542,102.782,507.562,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">v</text>
+<text font="ArialMT" bbox="507.502,102.782,518.644,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">o</text>
+<text font="ArialMT" bbox="518.644,102.782,529.787,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">d</text>
+<text font="ArialMT" bbox="529.787,102.782,539.807,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">s</text>
+<text font="ArialMT" bbox="539.887,102.782,549.907,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">k</text>
+<text font="ArialMT" bbox="549.907,102.782,559.927,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">y</text>
+<text font="ArialMT" bbox="559.807,102.782,580.147,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">@</text>
+<text font="ArialMT" bbox="580.087,102.782,591.229,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">n</text>
+<text font="ArialMT" bbox="591.229,102.782,602.372,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">a</text>
+<text font="ArialMT" bbox="602.372,102.782,612.392,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">s</text>
+<text font="ArialMT" bbox="612.392,102.782,623.534,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">a</text>
+<text font="ArialMT" bbox="623.534,102.782,629.105,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">.</text>
+<text font="ArialMT" bbox="628.925,102.782,640.067,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">g</text>
+<text font="ArialMT" bbox="640.067,102.782,651.209,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">o</text>
+<text font="ArialMT" bbox="651.209,102.782,661.229,122.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="20.040">v</text>
+<text font="ArialMT" bbox="661.270,102.782,667.943,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">)</text>
+<text font="ArialMT" bbox="667.863,102.782,673.434,122.822" colourspace="DeviceGray" ncolour="0" size="20.040">,</text>
+<text font="ArialMT" bbox="673.434,102.782,679.005,122.822" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="6" bbox="330.360,78.784,415.182,98.824" size="20.04" unique_id="6">961-7914 <textline bbox="330.360,78.784,415.182,98.824" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">961-7914 </textline>
+</normal_text>
+<footer id="7" bbox="213.860,2.164,682.038,16.204" size="14.04" unique_id="7">transitioning unique NASA data and research technologies to the NWS <textline bbox="213.860,2.164,682.038,16.204" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040" colourspace="DeviceGray">transitioning unique NASA data and research technologies to the NWS </textline>
+</footer>
+<slide_number id="8" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="8">9 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">9 </textline>
+</slide_number>
+<picture name="Image8" bbox="32.640,3.600,204.960,42.000" src="Image8.7.233x61.bmp" width="172" height="38" unique_id="9">
+</picture>
+<picture name="Image16" bbox="576.000,474.360,706.560,521.640" src="Image16.7.174x63.bmp" width="130" height="47" unique_id="10">
+</picture>
+<enlisting bbox="26.712,214.412,682.707,404.911" unique_id="['1', ' 2', ' 4', '3']">&#8226; SPoRT ADAS uses good quality control and 2-km resolution to pick up  
+fine-scale features not seen in other surface analyses available in  
+AWIPS &#8226; SPoRT ADAS has proven most useful for nighttime temperature over  &#8226; Let&#8217;s work together to analyze this product:  feedback on where/when  
+SPoRT ADAS provides better analysis than other available analyses <normal_text id="1" bbox="26.712,336.832,682.707,404.911" size="20.048" unique_id="1">&#8226; SPoRT ADAS uses good quality control and 2-km resolution to pick up  
+fine-scale features not seen in other surface analyses available in  
+AWIPS <textline bbox="26.712,384.847,682.707,404.911" font="ArialMT" ncolour="(0, 0.125, 0.376)" size="20.064" colourspace="DeviceGray">&#8226; SPoRT ADAS uses good quality control and 2-km resolution to pick up  </textline>
+<textline bbox="53.712,360.832,637.989,380.872">fine-scale features not seen in other surface analyses available in  <text font="ArialMT" bbox="53.712,360.832,59.283,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">f</text>
+<text font="ArialMT" bbox="59.283,360.832,63.732,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">i</text>
+<text font="ArialMT" bbox="63.732,360.832,74.874,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">n</text>
+<text font="ArialMT" bbox="74.874,360.832,86.016,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">e</text>
+<text font="ArialMT" bbox="85.992,360.832,92.665,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">-</text>
+<text font="ArialMT" bbox="92.712,360.832,102.732,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">s</text>
+<text font="ArialMT" bbox="102.732,360.832,112.752,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">c</text>
+<text font="ArialMT" bbox="112.852,360.832,123.994,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">a</text>
+<text font="ArialMT" bbox="123.994,360.832,128.443,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">l</text>
+<text font="ArialMT" bbox="128.443,360.832,139.586,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">e</text>
+<text font="ArialMT" bbox="139.586,360.832,145.157,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040"> </text>
+<text font="ArialMT" bbox="144.776,360.832,150.347,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">f</text>
+<text font="ArialMT" bbox="150.347,360.832,161.489,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">e</text>
+<text font="ArialMT" bbox="161.489,360.832,172.632,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">a</text>
+<text font="ArialMT" bbox="172.632,360.832,178.203,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">t</text>
+<text font="ArialMT" bbox="178.143,360.832,189.285,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">u</text>
+<text font="ArialMT" bbox="189.285,360.832,195.958,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">r</text>
+<text font="ArialMT" bbox="195.998,360.832,207.140,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">e</text>
+<text font="ArialMT" bbox="207.140,360.832,217.160,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040">s</text>
+<text font="ArialMT" bbox="217.221,360.832,222.792,380.872" colourspace="DeviceGray" ncolour="(0, 0.125, 0.376)" size="20.040"> </text>
+<text font="ArialMT" bbox="222.460,360.832,233.602,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="233.602,360.832,244.744,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="244.744,360.832,250.316,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="250.316,360.832,255.887,380.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="255.706,360.832,265.726,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="265.726,360.832,276.869,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="276.929,360.832,288.071,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="288.071,360.832,299.213,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="299.213,360.832,304.784,380.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="304.644,360.832,309.093,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="309.093,360.832,320.235,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="320.235,360.832,325.806,380.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="325.806,360.832,336.949,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="336.949,360.832,342.520,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="342.439,360.832,353.582,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="353.582,360.832,364.724,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="364.724,360.832,371.397,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="371.457,360.832,377.029,380.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="376.728,360.832,386.748,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="386.748,360.832,397.890,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="397.950,360.832,404.624,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="404.624,360.832,410.195,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="410.195,360.832,421.337,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="421.337,360.832,431.357,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="431.417,360.832,442.559,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="442.559,360.832,448.130,380.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="447.609,360.832,458.752,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="458.752,360.832,469.894,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="469.894,360.832,481.036,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="481.036,360.832,485.485,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="485.485,360.832,495.505,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="495.505,360.832,505.525,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="505.525,360.832,516.667,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="516.707,360.832,526.727,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="526.727,360.832,532.298,380.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="532.178,360.832,543.320,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="543.320,360.832,553.340,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">v</text>
+<text font="ArialMT" bbox="553.340,360.832,564.483,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="564.483,360.832,568.932,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="568.932,360.832,573.380,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="573.380,360.832,584.523,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="584.523,360.832,595.665,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="ArialMT" bbox="595.665,360.832,600.114,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="600.114,360.832,611.256,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="611.256,360.832,616.827,380.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="616.827,360.832,621.276,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="621.276,360.832,632.418,380.872" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="632.418,360.832,637.989,380.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+<textline bbox="53.712,336.832,118.201,356.872" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">AWIPS </textline>
+</normal_text>
+<normal_text id="2" bbox="26.712,299.632,670.141,319.672" size="20.04" unique_id="2">&#8226; SPoRT ADAS has proven most useful for nighttime temperature over  <textline bbox="26.712,299.632,670.141,319.672" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; SPoRT ADAS has proven most useful for nighttime temperature over  </textline>
+</normal_text>
+<normal_text id="4" bbox="26.712,214.412,672.227,258.452" size="20.04" unique_id="4">&#8226; Let&#8217;s work together to analyze this product:  feedback on where/when  
+SPoRT ADAS provides better analysis than other available analyses <textline bbox="26.712,238.412,672.227,258.452" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Let&#8217;s work together to analyze this product:  feedback on where/when  </textline>
+<textline bbox="53.712,214.412,659.640,234.452" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">SPoRT ADAS provides better analysis than other available analyses </textline>
+</normal_text>
+<normal_text id="3" bbox="53.712,275.627,543.554,295.691" size="20.064" unique_id="3">elevated terrain in eastern edge of HUN forecast region <textline bbox="53.712,275.627,543.554,295.691" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">elevated terrain in eastern edge of HUN forecast region </textline>
+</normal_text>
+</enlisting></page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[87.45599999999999, 487.9820000000001, 306.18573333333336, 508.022]">
+<title id="0" bbox="67.344,227.340,645.394,288.540" size="18.0" unique_id="0">For more information on the ARPS Data Analysis System (ADAS) 
+For more information on the MAPS Surface Assimilation System (MSAS) 
+For more information on the Real-Time Mesoscale Analysis (RTMA) <textline bbox="67.344,270.540,587.918,288.540">For more information on the ARPS Data Analysis System (ADAS) <text font="ArialMT" bbox="67.344,270.540,78.342,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">F</text>
+<text font="ArialMT" bbox="78.342,270.540,88.350,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="88.350,270.540,94.344,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="94.344,270.540,99.348,288.540" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="99.348,270.540,114.342,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="114.342,270.540,124.350,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="124.350,270.540,130.344,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="130.344,270.540,140.352,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="140.352,270.540,145.356,288.540" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="145.356,270.540,149.352,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="149.352,270.540,159.360,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="159.270,270.540,164.274,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">f</text>
+<text font="ArialMT" bbox="164.274,270.540,174.282,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="174.282,270.540,180.276,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="180.276,270.540,195.270,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="195.270,270.540,205.278,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="205.278,270.540,210.282,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="210.282,270.540,214.278,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="214.278,270.540,224.286,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="224.196,270.540,234.204,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="234.204,270.540,239.208,288.540" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="239.298,270.540,249.306,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="249.306,270.540,259.314,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="259.224,270.540,264.228,288.540" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="264.372,270.540,269.376,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="269.376,270.540,279.384,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">h</text>
+<text font="ArialMT" bbox="279.384,270.540,289.392,288.540" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="289.338,270.540,294.342,288.540" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="293.330,270.540,305.336,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">A</text>
+<text font="ArialMT" bbox="305.336,270.540,318.332,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">R</text>
+<text font="ArialMT" bbox="318.332,270.540,330.338,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">P</text>
+<text font="ArialMT" bbox="330.338,270.540,342.344,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text font="ArialMT" bbox="342.344,270.540,347.348,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="347.438,270.540,360.434,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">D</text>
+<text font="ArialMT" bbox="360.434,270.540,370.442,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="370.442,270.540,375.446,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">t</text>
+<text font="ArialMT" bbox="375.446,270.540,385.454,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="385.454,270.540,390.458,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="389.558,270.540,401.564,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">A</text>
+<text font="ArialMT" bbox="401.564,270.540,411.572,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">n</text>
+<text font="ArialMT" bbox="411.572,270.540,421.580,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="421.580,270.540,425.576,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">l</text>
+<text font="ArialMT" bbox="425.504,270.540,434.504,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">y</text>
+<text font="ArialMT" bbox="434.288,270.540,443.288,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="443.288,270.540,447.284,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">i</text>
+<text font="ArialMT" bbox="447.284,270.540,456.284,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="456.284,270.540,461.288,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="461.702,270.540,473.708,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text font="ArialMT" bbox="473.708,270.540,482.708,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">y</text>
+<text font="ArialMT" bbox="482.510,270.540,491.510,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="491.510,270.540,496.514,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">t</text>
+<text font="ArialMT" bbox="496.586,270.540,506.594,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="506.594,270.540,521.588,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">m</text>
+<text font="ArialMT" bbox="521.588,270.540,526.592,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="526.880,270.540,532.874,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">(</text>
+<text font="ArialMT" bbox="532.874,270.540,544.880,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">A</text>
+<text font="ArialMT" bbox="544.880,270.540,557.876,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">D</text>
+<text font="ArialMT" bbox="557.876,270.540,569.882,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">A</text>
+<text font="ArialMT" bbox="569.918,270.540,581.924,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text font="ArialMT" bbox="581.924,270.540,587.918,288.540" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">)</text>
+</textline>
+<textline bbox="67.344,248.940,645.394,266.940">For more information on the MAPS Surface Assimilation System (MSAS) <text font="ArialMT" bbox="67.344,248.940,78.342,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">F</text>
+<text font="ArialMT" bbox="78.342,248.940,88.350,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="88.350,248.940,94.344,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="94.344,248.940,99.348,266.940" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="99.348,248.940,114.342,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="114.342,248.940,124.350,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="124.350,248.940,130.344,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="130.344,248.940,140.352,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="140.352,248.940,145.356,266.940" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="145.356,248.940,149.352,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="149.352,248.940,159.360,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="159.270,248.940,164.274,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">f</text>
+<text font="ArialMT" bbox="164.274,248.940,174.282,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="174.282,248.940,180.276,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="180.276,248.940,195.270,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="195.270,248.940,205.278,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="205.278,248.940,210.282,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="210.282,248.940,214.278,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="214.278,248.940,224.286,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="224.196,248.940,234.204,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="234.204,248.940,239.208,266.940" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="239.298,248.940,249.306,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="249.306,248.940,259.314,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="259.224,248.940,264.228,266.940" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="264.372,248.940,269.376,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="269.376,248.940,279.384,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">h</text>
+<text font="ArialMT" bbox="279.384,248.940,289.392,266.940" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="289.338,248.940,294.342,266.940" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="294.430,248.940,309.424,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">M</text>
+<text font="ArialMT" bbox="309.424,248.940,321.430,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">A</text>
+<text font="ArialMT" bbox="321.430,248.940,333.436,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">P</text>
+<text font="ArialMT" bbox="333.436,248.940,345.442,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text font="ArialMT" bbox="345.442,248.940,350.446,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="350.356,248.940,362.362,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text font="ArialMT" bbox="362.362,248.940,372.370,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">u</text>
+<text font="ArialMT" bbox="372.316,248.940,378.310,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">r</text>
+<text font="ArialMT" bbox="378.310,248.940,383.314,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">f</text>
+<text font="ArialMT" bbox="383.314,248.940,393.322,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="393.322,248.940,402.322,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">c</text>
+<text font="ArialMT" bbox="402.322,248.940,412.330,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="412.276,248.940,417.280,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="416.362,248.940,428.368,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">A</text>
+<text font="ArialMT" bbox="428.368,248.940,437.368,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="437.368,248.940,446.368,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="446.368,248.940,450.364,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">i</text>
+<text font="ArialMT" bbox="450.364,248.940,465.358,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">m</text>
+<text font="ArialMT" bbox="465.358,248.940,469.354,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">i</text>
+<text font="ArialMT" bbox="469.282,248.940,473.278,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">l</text>
+<text font="ArialMT" bbox="473.278,248.940,483.286,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="483.196,248.940,488.200,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">t</text>
+<text font="ArialMT" bbox="488.200,248.940,492.196,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">i</text>
+<text font="ArialMT" bbox="492.196,248.940,502.204,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">o</text>
+<text font="ArialMT" bbox="502.204,248.940,512.212,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">n</text>
+<text font="ArialMT" bbox="512.122,248.940,517.126,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="517.378,248.940,529.384,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text font="ArialMT" bbox="529.384,248.940,538.384,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">y</text>
+<text font="ArialMT" bbox="538.132,248.940,547.132,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="547.132,248.940,552.136,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">t</text>
+<text font="ArialMT" bbox="552.136,248.940,562.144,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="562.144,248.940,577.138,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">m</text>
+<text font="ArialMT" bbox="577.138,248.940,582.142,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="582.394,248.940,588.388,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">(</text>
+<text font="ArialMT" bbox="588.388,248.940,603.382,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">M</text>
+<text font="ArialMT" bbox="603.382,248.940,615.388,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text font="ArialMT" bbox="615.388,248.940,627.394,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">A</text>
+<text font="ArialMT" bbox="627.394,248.940,639.400,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">S</text>
+<text font="ArialMT" bbox="639.400,248.940,645.394,266.940" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">)</text>
+</textline>
+<textline bbox="67.344,227.340,606.388,245.340">For more information on the Real-Time Mesoscale Analysis (RTMA) <text font="ArialMT" bbox="67.344,227.340,78.342,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">F</text>
+<text font="ArialMT" bbox="78.342,227.340,88.350,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="88.350,227.340,94.344,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="94.344,227.340,99.348,245.340" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="99.348,227.340,114.342,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="114.342,227.340,124.350,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="124.350,227.340,130.344,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="130.344,227.340,140.352,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="140.352,227.340,145.356,245.340" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="145.356,227.340,149.352,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="149.352,227.340,159.360,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="159.270,227.340,164.274,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">f</text>
+<text font="ArialMT" bbox="164.274,227.340,174.282,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="174.282,227.340,180.276,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="ArialMT" bbox="180.276,227.340,195.270,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="195.270,227.340,205.278,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="205.278,227.340,210.282,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="210.282,227.340,214.278,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="214.278,227.340,224.286,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="224.196,227.340,234.204,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="234.204,227.340,239.208,245.340" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="239.298,227.340,249.306,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="ArialMT" bbox="249.306,227.340,259.314,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="259.224,227.340,264.228,245.340" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="264.372,227.340,269.376,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="269.376,227.340,279.384,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">h</text>
+<text font="ArialMT" bbox="279.384,227.340,289.392,245.340" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="289.338,227.340,294.342,245.340" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="294.430,227.340,307.426,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">R</text>
+<text font="ArialMT" bbox="307.426,227.340,317.434,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="317.344,227.340,327.352,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="327.352,227.340,331.348,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">l</text>
+<text font="ArialMT" bbox="331.270,227.340,337.264,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">-</text>
+<text font="ArialMT" bbox="337.270,227.340,348.268,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">T</text>
+<text font="ArialMT" bbox="347.710,227.340,351.706,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">i</text>
+<text font="ArialMT" bbox="351.706,227.340,366.700,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">m</text>
+<text font="ArialMT" bbox="366.700,227.340,376.708,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="376.636,227.340,381.640,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="381.640,227.340,396.634,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">M</text>
+<text font="ArialMT" bbox="396.634,227.340,406.642,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="406.642,227.340,415.642,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="415.642,227.340,425.650,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">o</text>
+<text font="ArialMT" bbox="425.596,227.340,434.596,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="434.596,227.340,443.596,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">c</text>
+<text font="ArialMT" bbox="443.596,227.340,453.604,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="453.604,227.340,457.600,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">l</text>
+<text font="ArialMT" bbox="457.510,227.340,467.518,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="467.518,227.340,472.522,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="471.676,227.340,483.682,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">A</text>
+<text font="ArialMT" bbox="483.682,227.340,493.690,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">n</text>
+<text font="ArialMT" bbox="493.636,227.340,503.644,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="503.644,227.340,507.640,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">l</text>
+<text font="ArialMT" bbox="507.550,227.340,516.550,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">y</text>
+<text font="ArialMT" bbox="516.316,227.340,525.316,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="525.316,227.340,529.312,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">i</text>
+<text font="ArialMT" bbox="529.312,227.340,538.312,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="538.312,227.340,543.316,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000"> </text>
+<text font="ArialMT" bbox="543.658,227.340,549.652,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">(</text>
+<text font="ArialMT" bbox="549.652,227.340,562.648,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">R</text>
+<text font="ArialMT" bbox="562.252,227.340,573.250,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">T</text>
+<text font="ArialMT" bbox="573.394,227.340,588.388,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">M</text>
+<text font="ArialMT" bbox="588.388,227.340,600.394,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">A</text>
+<text font="ArialMT" bbox="600.394,227.340,606.388,245.340" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">)</text>
+</textline>
+</title>
+<footer id="1" bbox="213.860,2.164,682.038,16.204" size="14.04" unique_id="1">transitioning unique NASA data and research technologies to the NWS <textline bbox="213.860,2.164,682.038,16.204" font="Arial-BoldItalicMT" ncolour="(0, 0, 1)" size="14.040" colourspace="DeviceGray">transitioning unique NASA data and research technologies to the NWS </textline>
+</footer>
+<slide_number id="2" bbox="661.200,28.036,676.806,42.076" size="14.04" unique_id="2">10 <textline bbox="661.200,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">10 </textline>
+</slide_number>
+<picture name="Image8" bbox="32.640,3.600,204.960,42.000" src="Image8.8.233x61.bmp" width="172" height="38" unique_id="3">
+</picture>
+</page>
+</pages>
