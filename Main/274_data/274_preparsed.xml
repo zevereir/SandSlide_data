@@ -1,0 +1,176 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,489.268,328.146,517.228" size="27.96">RPC+ Meeting <textline bbox="139.220,489.268,328.146,517.228" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">RPC+ Meeting </textline>
+</textbox>
+<textbox id="1" bbox="379.270,467.080,605.170,485.080" size="18.0">Argonne, December 7, 2007 <textline bbox="379.270,467.080,605.170,485.080" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Argonne, December 7, 2007 </textline>
+</textbox>
+<textbox id="2" bbox="103.220,331.860,384.002,393.060" size="18.0">RPC construction (glass, channels) 
+Gas system 
+HV systems <textline bbox="103.220,375.060,384.002,393.060" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">RPC construction (glass, channels) </textline>
+<textline bbox="103.220,353.460,198.026,371.460" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Gas system </textline>
+<textline bbox="103.220,331.860,198.980,349.860" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">HV systems </textline>
+</textbox>
+<textbox id="3" bbox="463.300,331.860,600.190,393.060" size="18.0">Guarino, Repond 
+Northacker 
+Norbeck <textline bbox="463.300,375.060,600.190,393.060" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Guarino, Repond </textline>
+<textline bbox="463.300,353.460,551.176,371.460" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Northacker </textline>
+<textline bbox="463.300,331.860,530.134,349.860" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Norbeck </textline>
+</textbox>
+<textbox id="4" bbox="103.220,267.040,304.010,306.679" size="18.012">Pad- &amp; FE-board design 
+Data concentrator design <textline bbox="103.220,288.655,296.162,306.679" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">Pad- &amp; FE-board design </textline>
+<textline bbox="103.220,267.040,304.010,285.040" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Data concentrator design </textline>
+</textbox>
+<textbox id="5" bbox="463.300,267.040,511.262,306.679" size="18.012">Drake 
+Drake <textline bbox="463.300,288.655,511.262,306.679" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">Drake </textline>
+<textline bbox="463.300,267.040,511.234,285.040" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Drake </textline>
+</textbox>
+<textbox id="6" bbox="103.220,223.840,215.774,241.840" size="18.0">Data analysis: <textline bbox="103.220,223.840,215.774,241.840" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Data analysis: </textline>
+</textbox>
+<textbox id="7" bbox="247.250,180.640,351.164,241.840" size="18.0">error modes 
+muon data 
+electron data <textline bbox="247.250,223.840,344.090,241.840" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">error modes </textline>
+<textline bbox="247.250,202.240,332.210,220.240" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">muon data </textline>
+<textline bbox="247.250,180.640,351.164,198.640" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">electron data </textline>
+</textbox>
+<textbox id="8" bbox="463.300,180.640,630.142,241.840" size="18.0">Xia 
+Bilki, Repond 
+Mavromanolakis, Xia <textline bbox="463.300,223.840,489.184,241.840" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Xia </textline>
+<textline bbox="463.300,202.240,569.086,220.240" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Bilki, Repond </textline>
+<textline bbox="463.300,180.640,630.142,198.640" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Mavromanolakis, Xia </textline>
+</textbox>
+<textbox id="9" bbox="103.220,115.810,331.874,155.410" size="18.0">DAQ software developments 
+Interface to CALICE DAQ <textline bbox="103.220,137.410,331.874,155.410" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">DAQ software developments </textline>
+<textline bbox="103.220,115.810,307.178,133.810" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Interface to CALICE DAQ </textline>
+</textbox>
+<textbox id="10" bbox="103.220,72.612,261.062,90.612" size="18.0">Schedule and plans <textline bbox="103.220,72.612,261.062,90.612" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Schedule and plans </textline>
+</textbox>
+<textbox id="11" bbox="463.300,115.810,554.290,155.410" size="18.0">Kreps, May 
+Schlereth <textline bbox="463.300,137.410,554.290,155.410" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Kreps, May </textline>
+<textline bbox="463.300,115.810,539.188,133.810" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Schlereth </textline>
+</textbox>
+<textbox id="12" bbox="463.300,72.612,483.298,90.612" size="18.0">All <textline bbox="463.300,72.612,483.298,90.612" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">All </textline>
+</textbox>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="95.976,500.220,295.884,518.220" size="18.0">Most beautiful pion event <textline bbox="95.976,500.220,295.884,518.220" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Most beautiful pion event </textline>
+</textbox>
+<figure name="Image13" bbox="138.000,70.440,579.720,480.000" src="Image13.589x546.bmp" width="441" height="409">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="25.200,77.004,173.088,95.004" size="18.0">Ordered 10 pieces <textline bbox="25.200,77.004,173.088,95.004" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Ordered 10 pieces </textline>
+</textbox>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="101.980,512.752,488.071,532.792" size="20.04">Measurements with Cosmic Ray Test Stand <textline bbox="101.980,512.752,488.071,532.792" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Measurements with Cosmic Ray Test Stand </textline>
+</textbox>
+<textbox id="1" bbox="43.200,465.100,322.020,477.100" size="12.0">a)   Install and test new DCON firmware (chamber 7) <textline bbox="43.200,465.100,322.020,477.100" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">a)   Install and test new DCON firmware (chamber 7) </textline>
+</textbox>
+<textbox id="2" bbox="63.504,421.900,241.116,448.300" size="12.0">- Test with CRs 
+- If successful install on all DCON <textline bbox="63.504,436.300,143.904,448.300" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">- Test with CRs </textline>
+<textline bbox="63.504,421.900,241.116,433.900" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">- If successful install on all DCON </textline>
+</textbox>
+<textbox id="3" bbox="43.200,393.095,283.632,405.119" size="12.024">b)    Measure noise with Lecroy power supply <textline bbox="43.200,393.095,283.632,405.119" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">b)    Measure noise with Lecroy power supply </textline>
+</textbox>
+<textbox id="4" bbox="43.200,364.270,288.132,376.270" size="12.0">c)    Change grounding and study error modes <textline bbox="43.200,364.270,288.132,376.270" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">c)    Change grounding and study error modes </textline>
+</textbox>
+<textbox id="5" bbox="43.200,335.470,254.796,347.470" size="12.0">d)    Study inefficiencies of layers 3, 4, 5 <textline bbox="43.200,335.470,254.796,347.470" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">d)    Study inefficiencies of layers 3, 4, 5 </textline>
+</textbox>
+<textbox id="6" bbox="63.504,292.270,286.476,318.670" size="12.0">- Test with inverted high voltage 
+- Take off chambers + run charge injection <textline bbox="63.504,306.670,230.856,318.670" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">- Test with inverted high voltage </textline>
+<textline bbox="63.504,292.270,286.476,304.270" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">- Take off chambers + run charge injection </textline>
+</textbox>
+<textbox id="7" bbox="43.200,263.450,366.362,275.450" size="12.0">e)    Measure pad multiplicity with extra Mylar (1 &#8211; 10 sheets) <textline bbox="43.200,263.450,366.362,275.450" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">e)    Measure pad multiplicity with extra Mylar (1 &#8211; 10 sheets) </textline>
+</textbox>
+<textbox id="8" bbox="43.200,234.650,50.676,246.650" size="12.0">f) <textline bbox="43.200,234.650,50.676,246.650" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">f) </textline>
+</textbox>
+<textbox id="9" bbox="72.504,234.650,295.034,246.650" size="12.0">Measure noise with DCOL and self-trigger <textline bbox="72.504,234.650,295.034,246.650" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Measure noise with DCOL and self-trigger </textline>
+</textbox>
+<textbox id="10" bbox="63.504,205.850,247.080,217.850" size="12.0">- Measure with Droege and Lecroy <textline bbox="63.504,205.850,247.080,217.850" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">- Measure with Droege and Lecroy </textline>
+</textbox>
+<textbox id="11" bbox="43.200,177.050,344.904,189.050" size="12.0">g)   Gang 3 chambers gas I/O and measure performance <textline bbox="43.200,177.050,344.904,189.050" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">g)   Gang 3 chambers gas I/O and measure performance </textline>
+</textbox>
+<textbox id="12" bbox="403.270,465.100,409.942,477.100" size="12.0">3 <textline bbox="403.270,465.100,409.942,477.100" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">3 </textline>
+</textbox>
+<textbox id="13" bbox="403.270,393.095,409.955,405.119" size="12.024">1 <textline bbox="403.270,393.095,409.955,405.119" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">1 </textline>
+</textbox>
+<textbox id="14" bbox="403.270,364.270,409.942,376.270" size="12.0">4 <textline bbox="403.270,364.270,409.942,376.270" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">4 </textline>
+</textbox>
+<textbox id="15" bbox="403.270,234.650,409.942,246.650" size="12.0">2 <textline bbox="403.270,234.650,409.942,246.650" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">2 </textline>
+</textbox>
+<textbox id="16" bbox="43.200,148.245,215.817,160.269" size="12.024">h)   Operate stack with 2 DCOLs <textline bbox="43.200,148.245,215.817,160.269" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">h)   Operate stack with 2 DCOLs </textline>
+</textbox>
+<textbox id="17" bbox="72.504,119.420,215.100,131.420" size="12.0">Investigate exotic chamber <textline bbox="72.504,119.420,215.100,131.420" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Investigate exotic chamber </textline>
+</textbox>
+<textbox id="18" bbox="72.504,90.624,163.980,102.624" size="12.0">DAQ rate studies <textline bbox="72.504,90.624,163.980,102.624" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">DAQ rate studies </textline>
+</textbox>
+<textbox id="19" bbox="72.504,61.824,267.600,73.824" size="12.0">Study of charge injection parameters <textline bbox="72.504,61.824,267.600,73.824" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Study of charge injection parameters </textline>
+</textbox>
+<textbox id="20" bbox="72.504,33.019,221.986,45.043" size="12.024">Long term studies (x-y map) <textline bbox="72.504,33.019,221.986,45.043" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Long term studies (x-y map) </textline>
+</textbox>
+<textbox id="21" bbox="43.200,119.420,49.836,131.420" size="12.0">i) <textline bbox="43.200,119.420,49.836,131.420" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">i) </textline>
+</textbox>
+<textbox id="22" bbox="43.200,90.624,49.836,102.624" size="12.0">j) <textline bbox="43.200,90.624,49.836,102.624" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">j) </textline>
+</textbox>
+<textbox id="23" bbox="43.200,61.824,53.196,73.824" size="12.0">k) <textline bbox="43.200,61.824,53.196,73.824" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">k) </textline>
+</textbox>
+<textbox id="24" bbox="43.200,33.019,49.844,45.043" size="12.024">l) <textline bbox="43.200,33.019,49.844,45.043" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">l) </textline>
+</textbox>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="83.976,469.862,271.851,489.902" size="20.04">Schedule and plans <textline bbox="83.976,469.862,271.851,489.902" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Schedule and plans </textline>
+</textbox>
+<textbox id="1" bbox="125.980,431.080,365.920,449.080" size="18.0">Next meeting January 4, 2007 <textline bbox="125.980,431.080,365.920,449.080" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Next meeting January 4, 2007 </textline>
+</textbox>
+<textbox id="2" bbox="67.224,390.960,132.360,402.960" size="12.0">Large RPCs <textline bbox="67.224,390.960,132.360,402.960" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Large RPCs </textline>
+</textbox>
+<textbox id="3" bbox="193.250,376.560,499.490,402.960" size="12.0">Get glass quote, test urethane, silicon paste, look at PVC  
+samples <textline bbox="193.250,390.960,499.490,402.960" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Get glass quote, test urethane, silicon paste, look at PVC  </textline>
+<textline bbox="193.250,376.560,238.070,388.560" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">samples </textline>
+</textbox>
+<textbox id="4" bbox="67.224,354.960,130.476,366.960" size="12.0">Gas system <textline bbox="67.224,354.960,130.476,366.960" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Gas system </textline>
+</textbox>
+<textbox id="5" bbox="193.250,354.960,261.302,366.960" size="12.0">Test ganging <textline bbox="193.250,354.960,261.302,366.960" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Test ganging </textline>
+</textbox>
+<textbox id="6" bbox="67.224,325.940,83.868,337.940" size="12.0">HV <textline bbox="67.224,325.940,83.868,337.940" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">HV </textline>
+</textbox>
+<textbox id="7" bbox="193.250,325.940,281.990,337.940" size="12.0">Test with LeCroy <textline bbox="193.250,325.940,281.990,337.940" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Test with LeCroy </textline>
+</textbox>
+<textbox id="8" bbox="67.224,296.810,156.792,308.810" size="12.0">Pad- &amp; FE board <textline bbox="67.224,296.810,156.792,308.810" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Pad- &amp; FE board </textline>
+</textbox>
+<textbox id="9" bbox="193.250,296.810,321.506,308.810" size="12.0">Fabricate and begin test <textline bbox="193.250,296.810,321.506,308.810" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Fabricate and begin test </textline>
+</textbox>
+<textbox id="10" bbox="67.224,267.695,162.646,279.719" size="12.024">Data concentrator <textline bbox="67.224,267.695,162.646,279.719" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Data concentrator </textline>
+</textbox>
+<textbox id="11" bbox="193.250,267.695,267.222,279.719" size="12.024">Initiate design <textline bbox="193.250,267.695,267.222,279.719" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Initiate design </textline>
+</textbox>
+<textbox id="12" bbox="67.224,238.560,133.392,250.560" size="12.0">Error modes <textline bbox="67.224,238.560,133.392,250.560" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Error modes </textline>
+</textbox>
+<textbox id="13" bbox="67.224,182.380,139.188,194.380" size="12.0">Data analysis <textline bbox="67.224,182.380,139.188,194.380" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Data analysis </textline>
+</textbox>
+<textbox id="14" bbox="67.224,91.651,93.244,103.675" size="12.024">DAQ <textline bbox="67.224,91.651,93.244,103.675" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">DAQ </textline>
+</textbox>
+<textbox id="15" bbox="193.250,203.980,336.842,250.560" size="12.0">Further understanding 
+Explore different grounding 
+Implement new firmware <textline bbox="193.250,238.560,311.186,250.560" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Further understanding </textline>
+<textline bbox="193.250,221.280,336.842,233.280" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Explore different grounding </textline>
+<textline bbox="193.250,203.980,323.702,215.980" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Implement new firmware </textline>
+</textbox>
+<textbox id="16" bbox="193.250,113.260,465.878,194.380" size="12.0">Reconstruct data 
+Create SW &#8216;killer&#8217; 
+Continue muon analysis 
+Continue positron analysis 
+Repeat noise measurement with Bertan and Lecroy <textline bbox="193.250,182.380,283.838,194.380" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Reconstruct data </textline>
+<textline bbox="193.250,165.100,285.590,177.100" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Create SW &#8216;killer&#8217; </textline>
+<textline bbox="193.250,147.820,320.834,159.820" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Continue muon analysis </textline>
+<textline bbox="193.250,130.540,333.446,142.540" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Continue positron analysis </textline>
+<textline bbox="193.250,113.260,465.878,125.260" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Repeat noise measurement with Bertan and Lecroy </textline>
+</textbox>
+<textbox id="17" bbox="193.250,57.072,418.202,103.675" size="12.008000000000001">Meet with Boston 
+Refine strategies 
+Further discussions on overall architecture <textline bbox="193.250,91.651,285.330,103.675" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Meet with Boston </textline>
+<textline bbox="193.250,74.352,283.334,86.352" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Refine strategies </textline>
+<textline bbox="193.250,57.072,418.202,69.072" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Further discussions on overall architecture </textline>
+</textbox>
+</page>
+</pages>

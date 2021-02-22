@@ -1,0 +1,1430 @@
+<pages>
+<page id="1" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="92.232,318.662,717.809,415.551" size="44.052">Volcanic Ash Collaboration Tool  
+(VACT) <textline bbox="92.232,371.487,717.809,415.551" font="ArialMT" ncolour="(1, 1, 0.6)" size="44.064" colourspace="Pattern">Volcanic Ash Collaboration Tool  </textline>
+<textline bbox="327.220,318.662,470.746,362.702" font="ArialMT" ncolour="(1, 1, 0.6)" size="44.040" colourspace="Pattern">(VACT) </textline>
+</textbox>
+<textbox id="1" bbox="104.230,145.538,693.526,255.938" size="24.0">Jeff Osiensky, NOAA/NWS Anchorage VAAC 
+Lynn Sherretz, NOAA Forecast Systems Laboratory 
+Greg Pratt, NOAA Forecast Systems Laboratory 
+David J. Schneider, USGS Alaska Volcano Observatory <textline bbox="159.670,231.938,638.206,255.938" font="Arial-ItalicMT" ncolour="(1, 1, 0.6)" size="24.000" colourspace="Pattern">Jeff Osiensky, NOAA/NWS Anchorage VAAC </textline>
+<textline bbox="124.270,203.138,673.510,227.138" font="Arial-ItalicMT" ncolour="(1, 1, 0.6)" size="24.000" colourspace="Pattern">Lynn Sherretz, NOAA Forecast Systems Laboratory </textline>
+<textline bbox="143.470,174.338,654.334,198.338" font="Arial-ItalicMT" ncolour="(1, 1, 0.6)" size="24.000" colourspace="Pattern">Greg Pratt, NOAA Forecast Systems Laboratory </textline>
+<textline bbox="104.230,145.538,693.526,169.538" font="Arial-ItalicMT" ncolour="(1, 1, 0.6)" size="24.000" colourspace="Pattern">David J. Schneider, USGS Alaska Volcano Observatory </textline>
+</textbox>
+<textbox id="2" bbox="111.670,68.696,686.034,113.409" size="20.04">2nd International Conference on Volcanic Ash and Aviation Safety 
+Alexandria, Virginia <textline bbox="111.670,92.696,686.034,113.409">2nd International Conference on Volcanic Ash and Aviation Safety <text font="Arial-ItalicMT" bbox="111.670,92.696,122.812,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">2</text>
+<text font="Arial-ItalicMT" bbox="122.830,100.089,130.236,113.409" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="13.320">n</text>
+<text font="Arial-ItalicMT" bbox="130.270,100.089,137.676,113.409" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="13.320">d</text>
+<text font="Arial-ItalicMT" bbox="142.990,92.696,148.561,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">I</text>
+<text font="Arial-ItalicMT" bbox="148.561,92.696,159.703,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="159.703,92.696,165.274,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="165.194,92.696,176.337,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="176.337,92.696,183.010,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="183.050,92.696,194.192,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="194.192,92.696,205.334,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="205.334,92.696,210.906,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="210.906,92.696,215.354,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="215.354,92.696,226.497,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="226.497,92.696,237.639,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="237.639,92.696,248.781,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="248.781,92.696,253.230,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">l</text>
+<text font="Arial-ItalicMT" bbox="253.230,92.696,258.801,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="258.521,92.696,272.989,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">C</text>
+<text font="Arial-ItalicMT" bbox="272.989,92.696,284.132,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="284.172,92.696,295.314,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="295.314,92.696,300.885,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="300.885,92.696,312.027,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="312.027,92.696,318.701,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="318.701,92.696,329.843,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="329.843,92.696,340.985,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="341.025,92.696,351.045,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">c</text>
+<text font="Arial-ItalicMT" bbox="351.045,92.696,362.188,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="362.188,92.696,367.759,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="367.298,92.696,378.440,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="378.440,92.696,389.582,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="389.582,92.696,395.153,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="395.153,92.696,408.520,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">V</text>
+<text font="Arial-ItalicMT" bbox="407.738,92.696,418.881,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="418.881,92.696,423.330,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">l</text>
+<text font="Arial-ItalicMT" bbox="423.330,92.696,433.350,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">c</text>
+<text font="Arial-ItalicMT" bbox="433.390,92.696,444.532,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="444.532,92.696,455.674,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="455.674,92.696,460.123,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="460.123,92.696,470.143,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">c</text>
+<text font="Arial-ItalicMT" bbox="470.203,92.696,475.774,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="474.772,92.696,488.139,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">A</text>
+<text font="Arial-ItalicMT" bbox="488.139,92.696,498.159,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="498.159,92.696,509.301,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">h</text>
+<text font="Arial-ItalicMT" bbox="509.301,92.696,514.872,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="514.872,92.696,526.015,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="526.015,92.696,537.157,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="537.157,92.696,548.299,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">d</text>
+<text font="Arial-ItalicMT" bbox="548.299,92.696,553.870,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="552.888,92.696,566.255,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">A</text>
+<text font="Arial-ItalicMT" bbox="565.854,92.696,575.874,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">v</text>
+<text font="Arial-ItalicMT" bbox="575.874,92.696,580.323,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="580.323,92.696,591.465,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="591.505,92.696,597.076,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="597.076,92.696,601.525,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="601.525,92.696,612.667,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="612.667,92.696,623.810,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="623.810,92.696,629.381,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="629.301,92.696,642.667,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">S</text>
+<text font="Arial-ItalicMT" bbox="642.667,92.696,653.810,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="653.810,92.696,659.381,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="659.301,92.696,670.443,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="670.443,92.696,676.014,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="676.014,92.696,686.034,112.736" colourspace="Pattern" ncolour="(1, 1, 0.6)" size="20.040">y</text>
+</textline>
+<textline bbox="312.940,68.696,484.983,88.736" font="Arial-ItalicMT" ncolour="(1, 1, 0.6)" size="20.040" colourspace="Pattern">Alexandria, Virginia </textline>
+</textbox>
+<textbox id="3" bbox="335.620,20.696,462.253,40.736" size="20.04">June 22, 2004 <textline bbox="335.620,20.696,462.253,40.736" font="Arial-ItalicMT" ncolour="(1, 1, 0.6)" size="20.040" colourspace="Pattern">June 22, 2004 </textline>
+</textbox>
+<textbox id="4" bbox="734.980,21.711,742.000,35.751" size="14.04">1 <textline bbox="734.980,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">1 </textline>
+</textbox>
+<figure name="Image40" bbox="30.000,444.840,114.000,522.000" src="Image40.jpg" width="84" height="77">
+</figure>
+<figure name="Image41" bbox="672.000,437.400,772.080,516.000" src="Image41.jpg" width="100" height="78">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="99.216,419.020,710.928,467.020" size="48.0">A Look Back 15 Years Ago&#8230; <textline bbox="99.216,419.020,710.928,467.020" font="ArialMT" ncolour="(1, 1, 0.6)" size="48.000" colourspace="Pattern">A Look Back 15 Years Ago&#8230; </textline>
+</textbox>
+<textbox id="1" bbox="67.968,351.910,309.696,375.910" size="19.2">&#9899; During the Redoubt  <textline bbox="67.968,351.910,309.696,375.910">&#9899; During the Redoubt  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,353.014,82.310,372.214" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="19.200">&#9899;</text>
+<text font="ArialMT" bbox="94.968,351.910,112.296,375.910" colourspace="Pattern" ncolour="1" size="24.000">D</text>
+<text font="ArialMT" bbox="112.296,351.910,125.640,375.910" colourspace="Pattern" ncolour="1" size="24.000">u</text>
+<text font="ArialMT" bbox="125.568,351.910,133.560,375.910" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="133.560,351.910,138.888,375.910" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="138.888,351.910,152.232,375.910" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="ArialMT" bbox="152.232,351.910,165.576,375.910" colourspace="Pattern" ncolour="1" size="24.000">g</text>
+<text font="ArialMT" bbox="165.576,351.910,172.248,375.910" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="172.464,351.910,179.136,375.910" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="179.136,351.910,192.480,375.910" colourspace="Pattern" ncolour="1" size="24.000">h</text>
+<text font="ArialMT" bbox="192.480,351.910,205.824,375.910" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="205.824,351.910,212.496,375.910" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="212.496,351.910,229.824,375.910" colourspace="Pattern" ncolour="1" size="24.000">R</text>
+<text font="ArialMT" bbox="229.704,351.910,243.048,375.910" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="243.048,351.910,256.392,375.910" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="ArialMT" bbox="256.392,351.910,269.736,375.910" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="269.664,351.910,283.008,375.910" colourspace="Pattern" ncolour="1" size="24.000">u</text>
+<text font="ArialMT" bbox="283.008,351.910,296.352,375.910" colourspace="Pattern" ncolour="1" size="24.000">b</text>
+<text font="ArialMT" bbox="296.352,351.910,303.024,375.910" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="303.024,351.910,309.696,375.910" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+</textline>
+</textbox>
+<textbox id="2" bbox="94.968,294.310,349.920,347.110" size="24.0">Eruption&#8230;satellite data  
+was limited  <textline bbox="94.968,323.110,349.920,347.110" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">Eruption&#8230;satellite data  </textline>
+<textline bbox="94.968,294.310,220.248,318.310" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">was limited  </textline>
+</textbox>
+<textbox id="3" bbox="67.968,138.765,361.827,283.769" size="22.0896">&#9899; Volcanic Ash forecasting  
+was but another duty  
+assigned to the general  
+forecaster 
+&#9899; VAACs ?? <textline bbox="67.968,259.745,361.827,283.769">&#9899; Volcanic Ash forecasting  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,260.849,82.328,280.073" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="19.224">&#9899;</text>
+<text font="ArialMT" bbox="94.968,259.745,110.992,283.769" colourspace="Pattern" ncolour="1" size="24.024">V</text>
+<text font="ArialMT" bbox="109.599,259.745,122.956,283.769" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="ArialMT" bbox="122.956,259.745,128.289,283.769" colourspace="Pattern" ncolour="1" size="24.024">l</text>
+<text font="ArialMT" bbox="128.193,259.745,140.205,283.769" colourspace="Pattern" ncolour="1" size="24.024">c</text>
+<text font="ArialMT" bbox="140.205,259.745,153.563,283.769" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="ArialMT" bbox="153.563,259.745,166.920,283.769" colourspace="Pattern" ncolour="1" size="24.024">n</text>
+<text font="ArialMT" bbox="166.824,259.745,172.157,283.769" colourspace="Pattern" ncolour="1" size="24.024">i</text>
+<text font="ArialMT" bbox="172.157,259.745,184.169,283.769" colourspace="Pattern" ncolour="1" size="24.024">c</text>
+<text font="ArialMT" bbox="184.169,259.745,190.848,283.769" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="ArialMT" bbox="189.743,259.745,205.767,283.769" colourspace="Pattern" ncolour="1" size="24.024">A</text>
+<text font="ArialMT" bbox="205.767,259.745,217.779,283.769" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="ArialMT" bbox="217.707,259.745,231.064,283.769" colourspace="Pattern" ncolour="1" size="24.024">h</text>
+<text font="ArialMT" bbox="231.064,259.745,237.743,283.769" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="ArialMT" bbox="237.743,259.745,244.421,283.769" colourspace="Pattern" ncolour="1" size="24.024">f</text>
+<text font="ArialMT" bbox="244.421,259.745,257.779,283.769" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="ArialMT" bbox="257.779,259.745,265.779,283.769" colourspace="Pattern" ncolour="1" size="24.024">r</text>
+<text font="ArialMT" bbox="265.779,259.745,279.136,283.769" colourspace="Pattern" ncolour="1" size="24.024">e</text>
+<text font="ArialMT" bbox="279.136,259.745,291.148,283.769" colourspace="Pattern" ncolour="1" size="24.024">c</text>
+<text font="ArialMT" bbox="291.148,259.745,304.505,283.769" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="ArialMT" bbox="304.505,259.745,316.517,283.769" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="ArialMT" bbox="316.517,259.745,323.196,283.769" colourspace="Pattern" ncolour="1" size="24.024">t</text>
+<text font="ArialMT" bbox="323.196,259.745,328.529,283.769" colourspace="Pattern" ncolour="1" size="24.024">i</text>
+<text font="ArialMT" bbox="328.529,259.745,341.887,283.769" colourspace="Pattern" ncolour="1" size="24.024">n</text>
+<text font="ArialMT" bbox="341.791,259.745,355.148,283.769" colourspace="Pattern" ncolour="1" size="24.024">g</text>
+<text font="ArialMT" bbox="355.148,259.745,361.827,283.769" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+</textline>
+<textline bbox="94.968,230.930,324.432,254.930" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">was but another duty  </textline>
+<textline bbox="94.968,202.130,351.120,226.130" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">assigned to the general  </textline>
+<textline bbox="94.968,173.330,201.720,197.330" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">forecaster </textline>
+<textline bbox="67.968,138.765,203.869,162.789">&#9899; VAACs ?? <text font="BCDEEE+Wingdings-Regular" bbox="67.968,139.869,82.328,159.093" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="19.224">&#9899;</text>
+<text font="ArialMT" bbox="94.968,138.765,110.992,162.789" colourspace="Pattern" ncolour="1" size="24.024">V</text>
+<text font="ArialMT" bbox="109.118,138.765,125.142,162.789" colourspace="Pattern" ncolour="1" size="24.024">A</text>
+<text font="ArialMT" bbox="125.142,138.765,141.166,162.789" colourspace="Pattern" ncolour="1" size="24.024">A</text>
+<text font="ArialMT" bbox="141.046,138.765,158.391,162.789" colourspace="Pattern" ncolour="1" size="24.024">C</text>
+<text font="ArialMT" bbox="158.391,138.765,170.403,162.789" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="ArialMT" bbox="170.331,138.765,177.010,162.789" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="ArialMT" bbox="177.154,138.765,190.511,162.789" colourspace="Pattern" ncolour="1" size="24.024">?</text>
+<text font="ArialMT" bbox="190.511,138.765,203.869,162.789" colourspace="Pattern" ncolour="1" size="24.024">?</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="734.980,21.711,742.000,35.751" size="14.04">2 <textline bbox="734.980,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">2 </textline>
+</textbox>
+<figure name="Image61" bbox="402.000,84.120,786.000,372.000" src="Image61.jpg" width="384" height="287">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="44.328,406.588,772.089,479.732" size="34.019999999999996">Changes Since the Redoubt Eruption 
+&#8220;We&#8217;ve come a long way&#8230;&#8221; <textline bbox="44.328,435.692,772.089,479.732" font="ArialMT" ncolour="(1, 1, 0.6)" size="44.040" colourspace="Pattern">Changes Since the Redoubt Eruption </textline>
+<textline bbox="261.460,406.588,554.380,430.588" font="Arial-ItalicMT" ncolour="(1, 1, 0.6)" size="24.000" colourspace="Pattern">&#8220;We&#8217;ve come a long way&#8230;&#8221; </textline>
+</textbox>
+<textbox id="1" bbox="67.968,254.593,706.981,363.198" size="22.447999999999997">&#9899; Huge advances in technology 
+&#9899; Rapid development of the internet 
+&#9899; &#8220;World&#8221; getting smaller &#8211; greater interaction  with  <textline bbox="67.968,335.238,462.642,363.198">&#9899; Huge advances in technology <text font="BCDEEE+Wingdings-Regular" bbox="67.968,336.510,84.731,358.950" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,335.238,115.155,363.198" colourspace="Pattern" ncolour="1" size="27.960">H</text>
+<text font="ArialMT" bbox="115.155,335.238,130.701,363.198" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="130.701,335.238,146.247,363.198" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="146.247,335.238,161.792,363.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="161.904,335.238,169.677,363.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="169.789,335.238,185.335,363.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="185.335,335.238,200.880,363.198" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="200.964,335.238,214.944,363.198" colourspace="Pattern" ncolour="1" size="27.960">v</text>
+<text font="ArialMT" bbox="214.944,335.238,230.490,363.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="230.574,335.238,246.120,363.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="246.120,335.238,260.100,363.198" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="260.184,335.238,275.729,363.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="275.729,335.238,289.709,363.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="289.793,335.238,297.566,363.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="297.566,335.238,303.773,363.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="303.773,335.238,319.319,363.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="319.403,335.238,327.176,363.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="327.092,335.238,334.865,363.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="334.865,335.238,350.411,363.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="350.411,335.238,364.391,363.198" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="364.502,335.238,380.048,363.198" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="380.048,335.238,395.594,363.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="395.678,335.238,411.224,363.198" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="411.224,335.238,417.431,363.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="417.487,335.238,433.032,363.198" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="433.032,335.238,448.578,363.198" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="448.662,335.238,462.642,363.198" colourspace="Pattern" ncolour="1" size="27.960">y</text>
+</textline>
+<textline bbox="67.968,294.918,515.682,322.878">&#9899; Rapid development of the internet <text font="BCDEEE+Wingdings-Regular" bbox="67.968,296.190,84.731,318.630" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,294.918,115.155,322.878" colourspace="Pattern" ncolour="1" size="27.960">R</text>
+<text font="ArialMT" bbox="115.155,294.918,130.701,322.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="130.701,294.918,146.247,322.878" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="146.247,294.918,152.454,322.878" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="152.538,294.918,168.083,322.878" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="168.083,294.918,175.856,322.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="176.024,294.918,191.570,322.878" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="191.570,294.918,207.116,322.878" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="207.199,294.918,221.179,322.878" colourspace="Pattern" ncolour="1" size="27.960">v</text>
+<text font="ArialMT" bbox="221.179,294.918,236.725,322.878" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="236.809,294.918,243.016,322.878" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="243.016,294.918,258.562,322.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="258.618,294.918,274.164,322.878" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="274.164,294.918,297.454,322.878" colourspace="Pattern" ncolour="1" size="27.960">m</text>
+<text font="ArialMT" bbox="297.454,294.918,313.000,322.878" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="313.056,294.918,328.602,322.878" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="328.602,294.918,336.375,322.878" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="336.375,294.918,344.148,322.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="344.343,294.918,359.889,322.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="359.889,294.918,367.662,322.878" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="367.662,294.918,375.435,322.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="375.519,294.918,383.292,322.878" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="383.292,294.918,398.837,322.878" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="398.837,294.918,414.383,322.878" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="414.495,294.918,422.268,322.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="422.184,294.918,428.391,322.878" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="428.391,294.918,443.937,322.878" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="443.993,294.918,451.766,322.878" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="451.766,294.918,467.311,322.878" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="467.311,294.918,476.622,322.878" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="476.734,294.918,492.280,322.878" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="492.280,294.918,507.825,322.878" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="507.909,294.918,515.682,322.878" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+</textline>
+<textline bbox="67.968,254.593,706.981,282.577">&#9899; &#8220;World&#8221; getting smaller &#8211; greater interaction  with  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,255.865,84.749,278.329" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.464">&#9899;</text>
+<text font="ArialMT" bbox="94.968,254.593,104.287,282.577" colourspace="Pattern" ncolour="1" size="27.984">&#8220;</text>
+<text font="ArialMT" bbox="104.287,254.593,130.704,282.577" colourspace="Pattern" ncolour="1" size="27.984">W</text>
+<text font="ArialMT" bbox="130.256,254.593,145.815,282.577" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="ArialMT" bbox="145.815,254.593,155.134,282.577" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="155.134,254.593,161.346,282.577" colourspace="Pattern" ncolour="1" size="27.984">l</text>
+<text font="ArialMT" bbox="161.430,254.593,176.989,282.577" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="ArialMT" bbox="176.989,254.593,186.308,282.577" colourspace="Pattern" ncolour="1" size="27.984">&#8221;</text>
+<text font="ArialMT" bbox="186.308,254.593,194.087,282.577" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="194.171,254.593,209.730,282.577" colourspace="Pattern" ncolour="1" size="27.984">g</text>
+<text font="ArialMT" bbox="209.730,254.593,225.289,282.577" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="225.289,254.593,233.069,282.577" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="233.153,254.593,240.933,282.577" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="240.933,254.593,247.145,282.577" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="247.145,254.593,262.704,282.577" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="ArialMT" bbox="262.760,254.593,278.319,282.577" colourspace="Pattern" ncolour="1" size="27.984">g</text>
+<text font="ArialMT" bbox="278.319,254.593,286.099,282.577" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="286.099,254.593,300.091,282.577" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+<text font="ArialMT" bbox="300.175,254.593,323.485,282.577" colourspace="Pattern" ncolour="1" size="27.984">m</text>
+<text font="ArialMT" bbox="323.485,254.593,339.044,282.577" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="339.044,254.593,345.257,282.577" colourspace="Pattern" ncolour="1" size="27.984">l</text>
+<text font="ArialMT" bbox="345.257,254.593,351.469,282.577" colourspace="Pattern" ncolour="1" size="27.984">l</text>
+<text font="ArialMT" bbox="351.469,254.593,367.028,282.577" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="367.112,254.593,376.431,282.577" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="376.431,254.593,384.211,282.577" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="384.430,254.593,399.989,282.577" colourspace="Pattern" ncolour="1" size="27.984">&#8211;</text>
+<text font="ArialMT" bbox="407.860,254.593,423.419,282.577" colourspace="Pattern" ncolour="1" size="27.984">g</text>
+<text font="ArialMT" bbox="423.419,254.593,432.738,282.577" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="432.738,254.593,448.297,282.577" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="448.381,254.593,463.940,282.577" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="463.940,254.593,471.719,282.577" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="471.719,254.593,487.279,282.577" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="487.363,254.593,496.681,282.577" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="496.681,254.593,504.461,282.577" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="504.601,254.593,510.813,282.577" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="510.813,254.593,526.372,282.577" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="ArialMT" bbox="526.372,254.593,534.152,282.577" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="534.208,254.593,549.767,282.577" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="549.767,254.593,559.086,282.577" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="559.086,254.593,574.645,282.577" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="574.729,254.593,588.721,282.577" colourspace="Pattern" ncolour="1" size="27.984">c</text>
+<text font="ArialMT" bbox="588.721,254.593,596.500,282.577" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="596.500,254.593,602.713,282.577" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="602.769,254.593,618.328,282.577" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="ArialMT" bbox="618.328,254.593,633.887,282.577" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="ArialMT" bbox="633.887,254.593,641.666,282.577" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="641.666,254.593,649.446,282.577" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="649.446,254.593,669.650,282.577" colourspace="Pattern" ncolour="1" size="27.984">w</text>
+<text font="ArialMT" bbox="669.650,254.593,675.863,282.577" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="675.863,254.593,683.642,282.577" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="683.642,254.593,699.201,282.577" colourspace="Pattern" ncolour="1" size="27.984">h</text>
+<text font="ArialMT" bbox="699.201,254.593,706.981,282.577" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+</textline>
+</textbox>
+<textbox id="2" bbox="94.968,220.978,197.805,248.938" size="27.96">partners <textline bbox="94.968,220.978,197.805,248.938" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">partners </textline>
+</textbox>
+<textbox id="3" bbox="67.968,147.178,714.953,208.618" size="25.200000000000003">&#9899; Need to rapidly assimilate huge quantities of data  
+and decide upon a single representative solution <textline bbox="67.968,180.658,714.953,208.618">&#9899; Need to rapidly assimilate huge quantities of data  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,181.930,84.731,204.370" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,180.658,115.155,208.618" colourspace="Pattern" ncolour="1" size="27.960">N</text>
+<text font="ArialMT" bbox="115.155,180.658,130.701,208.618" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="130.701,180.658,146.247,208.618" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="146.247,180.658,161.792,208.618" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="161.904,180.658,169.677,208.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="169.789,180.658,177.562,208.618" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="177.562,180.658,193.108,208.618" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="193.108,180.658,200.880,208.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="200.880,180.658,210.191,208.618" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="210.191,180.658,225.737,208.618" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="225.793,180.658,241.339,208.618" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="241.339,180.658,247.546,208.618" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="247.602,180.658,263.147,208.618" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="263.147,180.658,269.355,208.618" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="269.410,180.658,283.390,208.618" colourspace="Pattern" ncolour="1" size="27.960">y</text>
+<text font="ArialMT" bbox="283.390,180.658,291.163,208.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="291.331,180.658,306.877,208.618" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="306.877,180.658,320.857,208.618" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="320.941,180.658,334.921,208.618" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="334.921,180.658,341.128,208.618" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="341.184,180.658,364.474,208.618" colourspace="Pattern" ncolour="1" size="27.960">m</text>
+<text font="ArialMT" bbox="364.474,180.658,370.682,208.618" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="370.682,180.658,376.889,208.618" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="376.889,180.658,392.434,208.618" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="392.518,180.658,400.291,208.618" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="400.291,180.658,415.837,208.618" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="415.837,180.658,423.610,208.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="423.694,180.658,439.239,208.618" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="439.239,180.658,454.785,208.618" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="454.869,180.658,470.415,208.618" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="470.415,180.658,485.961,208.618" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="486.045,180.658,493.817,208.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="493.817,180.658,509.363,208.618" colourspace="Pattern" ncolour="1" size="27.960">q</text>
+<text font="ArialMT" bbox="509.363,180.658,524.909,208.618" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="525.021,180.658,540.567,208.618" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="540.567,180.658,556.112,208.618" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="556.196,180.658,563.969,208.618" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="563.969,180.658,570.176,208.618" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="570.176,180.658,577.949,208.618" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="578.005,180.658,584.212,208.618" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="584.212,180.658,599.758,208.618" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="599.814,180.658,613.794,208.618" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="613.794,180.658,621.567,208.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="621.623,180.658,637.168,208.618" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="637.168,180.658,644.941,208.618" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="644.941,180.658,652.714,208.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="652.714,180.658,668.260,208.618" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="668.260,180.658,683.806,208.618" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="683.862,180.658,691.634,208.618" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="691.634,180.658,707.180,208.618" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="707.180,180.658,714.953,208.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+<textline bbox="94.968,147.178,696.611,175.138" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">and decide upon a single representative solution </textline>
+</textbox>
+<textbox id="4" bbox="734.980,21.711,742.000,35.751" size="14.04">3 <textline bbox="734.980,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">3 </textline>
+</textbox>
+</page>
+<page id="4" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="342.840,419.020,467.304,467.020" size="48.0">VACT <textline bbox="342.840,419.020,467.304,467.020" font="ArialMT" ncolour="(1, 1, 0.6)" size="48.000" colourspace="Pattern">VACT </textline>
+</textbox>
+<textbox id="1" bbox="67.968,347.238,598.108,375.198" size="22.44">&#9899; Relatively inexpensive means to display  <textline bbox="67.968,347.238,598.108,375.198">&#9899; Relatively inexpensive means to display  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,348.510,84.731,370.950" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,347.238,115.155,375.198" colourspace="Pattern" ncolour="1" size="27.960">R</text>
+<text font="ArialMT" bbox="115.155,347.238,130.701,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="130.701,347.238,136.908,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="136.908,347.238,152.454,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="152.538,347.238,160.311,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="160.311,347.238,166.518,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="166.518,347.238,180.498,375.198" colourspace="Pattern" ncolour="1" size="27.960">v</text>
+<text font="ArialMT" bbox="180.582,347.238,196.127,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="196.127,347.238,202.334,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="202.390,347.238,216.370,375.198" colourspace="Pattern" ncolour="1" size="27.960">y</text>
+<text font="ArialMT" bbox="216.370,347.238,224.143,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="224.199,347.238,230.406,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="230.406,347.238,245.952,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="246.008,347.238,261.554,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="261.554,347.238,275.534,375.198" colourspace="Pattern" ncolour="1" size="27.960">x</text>
+<text font="ArialMT" bbox="275.618,347.238,291.163,375.198" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="291.163,347.238,306.709,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="306.793,347.238,322.339,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="322.339,347.238,336.319,375.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="336.403,347.238,342.610,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="342.610,347.238,356.590,375.198" colourspace="Pattern" ncolour="1" size="27.960">v</text>
+<text font="ArialMT" bbox="356.646,347.238,372.191,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="372.191,347.238,379.964,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="379.964,347.238,403.255,375.198" colourspace="Pattern" ncolour="1" size="27.960">m</text>
+<text font="ArialMT" bbox="403.255,347.238,418.801,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="418.885,347.238,434.430,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="434.430,347.238,449.976,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="450.060,347.238,464.040,375.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="464.040,347.238,471.813,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="471.981,347.238,479.754,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="479.754,347.238,495.299,375.198" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="495.299,347.238,503.072,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="503.072,347.238,518.618,375.198" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="518.618,347.238,524.825,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="524.825,347.238,538.805,375.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="538.917,347.238,554.463,375.198" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="554.463,347.238,560.670,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="560.726,347.238,576.271,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="576.271,347.238,590.251,375.198" colourspace="Pattern" ncolour="1" size="27.960">y</text>
+<text font="ArialMT" bbox="590.335,347.238,598.108,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+</textbox>
+<textbox id="2" bbox="94.968,280.038,711.933,341.598" size="27.96">meteorological data and share that data amongst  
+several users <textline bbox="94.968,313.638,711.933,341.598" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">meteorological data and share that data amongst  </textline>
+<textline bbox="94.968,280.038,261.638,307.998" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">several users </textline>
+</textbox>
+<textbox id="3" bbox="67.968,165.778,682.296,267.697" size="24.288">&#9899; Runs on either XP or LINUX platforms 
+&#9899; Can support a number of users (30 users were  
+connected simultaneously in system tests)  <textline bbox="67.968,239.713,567.786,267.697">&#9899; Runs on either XP or LINUX platforms <text font="BCDEEE+Wingdings-Regular" bbox="67.968,240.985,84.749,263.449" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.464">&#9899;</text>
+<text font="ArialMT" bbox="94.968,239.713,115.172,267.697" colourspace="Pattern" ncolour="1" size="27.984">R</text>
+<text font="ArialMT" bbox="115.172,239.713,130.732,267.697" colourspace="Pattern" ncolour="1" size="27.984">u</text>
+<text font="ArialMT" bbox="130.732,239.713,146.291,267.697" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="ArialMT" bbox="146.291,239.713,160.283,267.697" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+<text font="ArialMT" bbox="160.339,239.713,168.118,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="168.118,239.713,183.677,267.697" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="ArialMT" bbox="183.677,239.713,199.236,267.697" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="ArialMT" bbox="199.320,239.713,207.100,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="207.100,239.713,222.659,267.697" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="222.659,239.713,228.871,267.697" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="228.927,239.713,236.707,267.697" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="236.707,239.713,252.266,267.697" colourspace="Pattern" ncolour="1" size="27.984">h</text>
+<text font="ArialMT" bbox="252.266,239.713,267.825,267.697" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="267.909,239.713,277.228,267.697" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="277.228,239.713,285.007,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="285.007,239.713,303.673,267.697" colourspace="Pattern" ncolour="1" size="27.984">X</text>
+<text font="ArialMT" bbox="303.673,239.713,322.338,267.697" colourspace="Pattern" ncolour="1" size="27.984">P</text>
+<text font="ArialMT" bbox="321.778,239.713,329.558,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="329.558,239.713,345.117,267.697" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="ArialMT" bbox="345.117,239.713,354.436,267.697" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="354.520,239.713,362.299,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="362.299,239.713,377.858,267.697" colourspace="Pattern" ncolour="1" size="27.984">L</text>
+<text font="ArialMT" bbox="377.858,239.713,385.638,267.697" colourspace="Pattern" ncolour="1" size="27.984">I</text>
+<text font="ArialMT" bbox="385.638,239.713,405.842,267.697" colourspace="Pattern" ncolour="1" size="27.984">N</text>
+<text font="ArialMT" bbox="405.842,239.713,426.047,267.697" colourspace="Pattern" ncolour="1" size="27.984">U</text>
+<text font="ArialMT" bbox="426.047,239.713,444.712,267.697" colourspace="Pattern" ncolour="1" size="27.984">X</text>
+<text font="ArialMT" bbox="444.712,239.713,452.492,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="452.492,239.713,468.051,267.697" colourspace="Pattern" ncolour="1" size="27.984">p</text>
+<text font="ArialMT" bbox="468.135,239.713,474.347,267.697" colourspace="Pattern" ncolour="1" size="27.984">l</text>
+<text font="ArialMT" bbox="474.347,239.713,489.906,267.697" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="489.906,239.713,497.686,267.697" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="497.742,239.713,505.521,267.697" colourspace="Pattern" ncolour="1" size="27.984">f</text>
+<text font="ArialMT" bbox="505.521,239.713,521.080,267.697" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="ArialMT" bbox="521.080,239.713,530.399,267.697" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="530.483,239.713,553.794,267.697" colourspace="Pattern" ncolour="1" size="27.984">m</text>
+<text font="ArialMT" bbox="553.794,239.713,567.786,267.697" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+</textline>
+<textline bbox="67.968,199.378,682.296,227.338">&#9899; Can support a number of users (30 users were  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,200.650,84.731,223.090" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,199.378,115.155,227.338" colourspace="Pattern" ncolour="1" size="27.960">C</text>
+<text font="ArialMT" bbox="115.155,199.378,130.701,227.338" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="130.701,199.378,146.247,227.338" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="146.247,199.378,154.020,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="154.215,199.378,168.195,227.338" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="168.195,199.378,183.741,227.338" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="183.825,199.378,199.371,227.338" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="199.371,199.378,214.916,227.338" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="215.000,199.378,230.546,227.338" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="230.546,199.378,239.857,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="239.941,199.378,247.713,227.338" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="247.713,199.378,255.486,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="255.486,199.378,271.032,227.338" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="271.116,199.378,278.889,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="278.805,199.378,294.351,227.338" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="294.351,199.378,309.897,227.338" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="309.980,199.378,333.271,227.338" colourspace="Pattern" ncolour="1" size="27.960">m</text>
+<text font="ArialMT" bbox="333.271,199.378,348.817,227.338" colourspace="Pattern" ncolour="1" size="27.960">b</text>
+<text font="ArialMT" bbox="348.817,199.378,364.363,227.338" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="364.419,199.378,373.729,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="373.729,199.378,381.502,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="381.782,199.378,397.327,227.338" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="397.327,199.378,405.100,227.338" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="405.100,199.378,412.873,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="412.873,199.378,428.419,227.338" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="428.419,199.378,442.399,227.338" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="442.483,199.378,458.029,227.338" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="458.029,199.378,467.339,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="467.423,199.378,481.403,227.338" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="481.403,199.378,489.176,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="489.232,199.378,498.543,227.338" colourspace="Pattern" ncolour="1" size="27.960">(</text>
+<text font="ArialMT" bbox="498.543,199.378,514.088,227.338" colourspace="Pattern" ncolour="1" size="27.960">3</text>
+<text font="ArialMT" bbox="514.172,199.378,529.718,227.338" colourspace="Pattern" ncolour="1" size="27.960">0</text>
+<text font="ArialMT" bbox="529.718,199.378,537.491,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="537.491,199.378,553.037,227.338" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="553.149,199.378,567.129,227.338" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="567.129,199.378,582.674,227.338" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="582.758,199.378,592.069,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="592.069,199.378,606.049,227.338" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="606.133,199.378,613.906,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="613.822,199.378,634.009,227.338" colourspace="Pattern" ncolour="1" size="27.960">w</text>
+<text font="ArialMT" bbox="634.009,199.378,649.555,227.338" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="649.555,199.378,658.865,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="658.865,199.378,674.411,227.338" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="674.523,199.378,682.296,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+<textline bbox="94.968,165.778,627.606,193.738" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">connected simultaneously in system tests)  </textline>
+</textbox>
+<textbox id="4" bbox="67.968,125.453,703.284,153.437" size="22.464">&#9899; Those interested may view a demo of the VACT!! <textline bbox="67.968,125.453,703.284,153.437">&#9899; Those interested may view a demo of the VACT!! <text font="BCDEEE+Wingdings-Regular" bbox="67.968,126.725,84.749,149.189" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.464">&#9899;</text>
+<text font="ArialMT" bbox="94.968,125.453,112.066,153.437" colourspace="Pattern" ncolour="1" size="27.984">T</text>
+<text font="ArialMT" bbox="112.066,125.453,127.625,153.437" colourspace="Pattern" ncolour="1" size="27.984">h</text>
+<text font="ArialMT" bbox="127.625,125.453,143.184,153.437" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="ArialMT" bbox="143.184,125.453,157.176,153.437" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+<text font="ArialMT" bbox="157.176,125.453,172.736,153.437" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="172.819,125.453,180.599,153.437" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="180.711,125.453,186.923,153.437" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="186.923,125.453,202.483,153.437" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="ArialMT" bbox="202.483,125.453,210.262,153.437" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="210.318,125.453,225.877,153.437" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="225.877,125.453,235.196,153.437" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="235.196,125.453,250.755,153.437" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="250.839,125.453,264.831,153.437" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+<text font="ArialMT" bbox="264.831,125.453,272.610,153.437" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="272.610,125.453,288.170,153.437" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="288.253,125.453,303.813,153.437" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="ArialMT" bbox="303.813,125.453,311.592,153.437" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="311.592,125.453,334.903,153.437" colourspace="Pattern" ncolour="1" size="27.984">m</text>
+<text font="ArialMT" bbox="334.819,125.453,350.378,153.437" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="350.378,125.453,364.370,153.437" colourspace="Pattern" ncolour="1" size="27.984">y</text>
+<text font="ArialMT" bbox="364.426,125.453,372.205,153.437" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="372.317,125.453,386.309,153.437" colourspace="Pattern" ncolour="1" size="27.984">v</text>
+<text font="ArialMT" bbox="386.309,125.453,392.522,153.437" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="392.522,125.453,408.081,153.437" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="408.165,125.453,428.369,153.437" colourspace="Pattern" ncolour="1" size="27.984">w</text>
+<text font="ArialMT" bbox="428.369,125.453,436.149,153.437" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="436.149,125.453,451.708,153.437" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="451.708,125.453,459.488,153.437" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="459.488,125.453,475.047,153.437" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="ArialMT" bbox="475.047,125.453,490.606,153.437" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="490.690,125.453,514.000,153.437" colourspace="Pattern" ncolour="1" size="27.984">m</text>
+<text font="ArialMT" bbox="514.000,125.453,529.560,153.437" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="ArialMT" bbox="529.560,125.453,537.339,153.437" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="537.451,125.453,553.010,153.437" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="ArialMT" bbox="553.010,125.453,560.790,153.437" colourspace="Pattern" ncolour="1" size="27.984">f</text>
+<text font="ArialMT" bbox="560.790,125.453,568.569,153.437" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="568.569,125.453,576.349,153.437" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="576.349,125.453,591.908,153.437" colourspace="Pattern" ncolour="1" size="27.984">h</text>
+<text font="ArialMT" bbox="591.908,125.453,607.467,153.437" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="607.467,125.453,615.247,153.437" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="615.302,125.453,633.968,153.437" colourspace="Pattern" ncolour="1" size="27.984">V</text>
+<text font="ArialMT" bbox="631.869,125.453,650.534,153.437" colourspace="Pattern" ncolour="1" size="27.984">A</text>
+<text font="ArialMT" bbox="650.534,125.453,670.739,153.437" colourspace="Pattern" ncolour="1" size="27.984">C</text>
+<text font="ArialMT" bbox="670.627,125.453,687.725,153.437" colourspace="Pattern" ncolour="1" size="27.984">T</text>
+<text font="ArialMT" bbox="687.725,125.453,695.505,153.437" colourspace="Pattern" ncolour="1" size="27.984">!</text>
+<text font="ArialMT" bbox="695.505,125.453,703.284,153.437" colourspace="Pattern" ncolour="1" size="27.984">!</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="734.980,21.711,742.000,35.751" size="14.04">4 <textline bbox="734.980,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">4 </textline>
+</textbox>
+</page>
+<page id="5" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="139.660,419.020,670.252,467.020" size="48.0">Why the need for VACT? <textline bbox="139.660,419.020,670.252,467.020" font="ArialMT" ncolour="(1, 1, 0.6)" size="48.000" colourspace="Pattern">Why the need for VACT? </textline>
+</textbox>
+<textbox id="1" bbox="67.968,347.238,659.089,375.198" size="22.44">&#9899; Excellent &#8220;team&#8221; in Alaska with the AVO, FAA  <textline bbox="67.968,347.238,659.089,375.198">&#9899; Excellent &#8220;team&#8221; in Alaska with the AVO, FAA  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,348.510,84.731,370.950" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,347.238,113.617,375.198" colourspace="Pattern" ncolour="1" size="27.960">E</text>
+<text font="ArialMT" bbox="113.617,347.238,127.597,375.198" colourspace="Pattern" ncolour="1" size="27.960">x</text>
+<text font="ArialMT" bbox="127.597,347.238,141.577,375.198" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="141.577,347.238,157.123,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="157.207,347.238,163.414,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="163.414,347.238,169.621,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="169.621,347.238,185.167,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="185.251,347.238,200.797,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="200.797,347.238,208.569,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="208.569,347.238,216.342,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="216.342,347.238,225.653,375.198" colourspace="Pattern" ncolour="1" size="27.960">&#8220;</text>
+<text font="ArialMT" bbox="225.653,347.238,233.426,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="233.426,347.238,248.972,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="249.056,347.238,264.601,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="264.601,347.238,287.892,375.198" colourspace="Pattern" ncolour="1" size="27.960">m</text>
+<text font="ArialMT" bbox="287.892,347.238,297.203,375.198" colourspace="Pattern" ncolour="1" size="27.960">&#8221;</text>
+<text font="ArialMT" bbox="297.259,347.238,305.031,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="305.143,347.238,311.350,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="311.350,347.238,326.896,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="326.952,347.238,334.725,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="333.187,347.238,351.837,375.198" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="351.837,347.238,358.044,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="358.044,347.238,373.589,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="373.589,347.238,387.569,375.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="387.625,347.238,401.605,375.198" colourspace="Pattern" ncolour="1" size="27.960">k</text>
+<text font="ArialMT" bbox="401.605,347.238,417.151,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="417.235,347.238,425.008,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="425.008,347.238,445.195,375.198" colourspace="Pattern" ncolour="1" size="27.960">w</text>
+<text font="ArialMT" bbox="445.195,347.238,451.402,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="451.402,347.238,459.175,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="459.175,347.238,474.721,375.198" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="474.805,347.238,482.577,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="482.577,347.238,490.350,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="490.350,347.238,505.896,375.198" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="505.980,347.238,521.526,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="521.526,347.238,529.299,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="527.817,347.238,546.466,375.198" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="544.369,347.238,563.018,375.198" colourspace="Pattern" ncolour="1" size="27.960">V</text>
+<text font="ArialMT" bbox="563.018,347.238,584.771,375.198" colourspace="Pattern" ncolour="1" size="27.960">O</text>
+<text font="ArialMT" bbox="584.771,347.238,592.544,375.198" colourspace="Pattern" ncolour="1" size="27.960">,</text>
+<text font="ArialMT" bbox="592.544,347.238,600.317,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="600.177,347.238,617.261,375.198" colourspace="Pattern" ncolour="1" size="27.960">F</text>
+<text font="ArialMT" bbox="615.667,347.238,634.316,375.198" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="634.316,347.238,652.966,375.198" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="651.316,347.238,659.089,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+</textbox>
+<textbox id="2" bbox="94.968,280.038,723.102,341.598" size="27.96">ARTCC/CWSU, and Anchorage VAAC &#8211; good site  
+for development work <textline bbox="94.968,313.638,723.102,341.598" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">ARTCC/CWSU, and Anchorage VAAC &#8211; good site  </textline>
+<textline bbox="94.968,280.038,362.853,307.998" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">for development work </textline>
+</textbox>
+<textbox id="3" bbox="67.968,239.713,741.706,267.697" size="22.464">&#9899; Need to communicate and share data with adjacent  <textline bbox="67.968,239.713,741.706,267.697">&#9899; Need to communicate and share data with adjacent  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,240.985,84.749,263.449" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.464">&#9899;</text>
+<text font="ArialMT" bbox="94.968,239.713,115.172,267.697" colourspace="Pattern" ncolour="1" size="27.984">N</text>
+<text font="ArialMT" bbox="115.172,239.713,130.732,267.697" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="130.732,239.713,146.291,267.697" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="146.291,239.713,161.850,267.697" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="ArialMT" bbox="161.850,239.713,169.629,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="169.825,239.713,177.605,267.697" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="177.605,239.713,193.164,267.697" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="ArialMT" bbox="193.164,239.713,200.943,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="200.943,239.713,214.935,267.697" colourspace="Pattern" ncolour="1" size="27.984">c</text>
+<text font="ArialMT" bbox="214.935,239.713,230.495,267.697" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="ArialMT" bbox="230.495,239.713,253.805,267.697" colourspace="Pattern" ncolour="1" size="27.984">m</text>
+<text font="ArialMT" bbox="253.805,239.713,277.116,267.697" colourspace="Pattern" ncolour="1" size="27.984">m</text>
+<text font="ArialMT" bbox="277.116,239.713,292.675,267.697" colourspace="Pattern" ncolour="1" size="27.984">u</text>
+<text font="ArialMT" bbox="292.675,239.713,308.234,267.697" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="ArialMT" bbox="308.234,239.713,314.447,267.697" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="314.530,239.713,328.522,267.697" colourspace="Pattern" ncolour="1" size="27.984">c</text>
+<text font="ArialMT" bbox="328.522,239.713,344.082,267.697" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="344.138,239.713,351.917,267.697" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="351.917,239.713,367.476,267.697" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="367.476,239.713,375.256,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="375.536,239.713,391.095,267.697" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="391.095,239.713,406.654,267.697" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="ArialMT" bbox="406.654,239.713,422.213,267.697" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="ArialMT" bbox="422.297,239.713,430.076,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="430.076,239.713,444.068,267.697" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+<text font="ArialMT" bbox="444.068,239.713,459.628,267.697" colourspace="Pattern" ncolour="1" size="27.984">h</text>
+<text font="ArialMT" bbox="459.711,239.713,475.271,267.697" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="475.271,239.713,484.589,267.697" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="484.589,239.713,500.148,267.697" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="500.232,239.713,508.012,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="508.012,239.713,523.571,267.697" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="ArialMT" bbox="523.571,239.713,539.130,267.697" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="539.214,239.713,546.994,267.697" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="546.994,239.713,562.553,267.697" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="562.553,239.713,570.332,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="570.332,239.713,590.537,267.697" colourspace="Pattern" ncolour="1" size="27.984">w</text>
+<text font="ArialMT" bbox="590.537,239.713,596.749,267.697" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="596.749,239.713,604.529,267.697" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="604.585,239.713,620.144,267.697" colourspace="Pattern" ncolour="1" size="27.984">h</text>
+<text font="ArialMT" bbox="620.144,239.713,627.923,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="627.923,239.713,643.482,267.697" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="643.566,239.713,659.125,267.697" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="ArialMT" bbox="659.125,239.713,665.338,267.697" colourspace="Pattern" ncolour="1" size="27.984">j</text>
+<text font="ArialMT" bbox="665.338,239.713,680.897,267.697" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="680.981,239.713,694.973,267.697" colourspace="Pattern" ncolour="1" size="27.984">c</text>
+<text font="ArialMT" bbox="694.973,239.713,710.532,267.697" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="710.588,239.713,726.147,267.697" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="ArialMT" bbox="726.147,239.713,733.927,267.697" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="733.927,239.713,741.706,267.697" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+</textline>
+</textbox>
+<textbox id="4" bbox="94.968,206.098,330.755,234.058" size="27.96">VAACs and MWOs <textline bbox="94.968,206.098,330.755,234.058" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">VAACs and MWOs </textline>
+</textbox>
+<textbox id="5" bbox="67.968,132.173,738.132,193.738" size="25.212000000000003">&#9899; Be proactive in developing ways to work better with  
+our partners (e.g. Tokyo VAAC, Elizovo MWO, etc.) <textline bbox="67.968,165.778,738.132,193.738">&#9899; Be proactive in developing ways to work better with  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,167.050,84.731,189.490" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,165.778,113.617,193.738" colourspace="Pattern" ncolour="1" size="27.960">B</text>
+<text font="ArialMT" bbox="113.617,165.778,129.163,193.738" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="129.163,165.778,136.936,193.738" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="136.936,165.778,152.482,193.738" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="152.538,165.778,161.848,193.738" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="161.848,165.778,177.394,193.738" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="177.478,165.778,193.024,193.738" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="193.024,165.778,207.004,193.738" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="207.088,165.778,214.860,193.738" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="214.860,165.778,221.068,193.738" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="221.068,165.778,235.048,193.738" colourspace="Pattern" ncolour="1" size="27.960">v</text>
+<text font="ArialMT" bbox="235.131,165.778,250.677,193.738" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="250.677,165.778,258.450,193.738" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="258.450,165.778,264.657,193.738" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="264.741,165.778,280.287,193.738" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="280.287,165.778,288.060,193.738" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="288.060,165.778,303.606,193.738" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="303.606,165.778,319.151,193.738" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="319.151,165.778,333.131,193.738" colourspace="Pattern" ncolour="1" size="27.960">v</text>
+<text font="ArialMT" bbox="333.243,165.778,348.789,193.738" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="348.789,165.778,354.996,193.738" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="355.052,165.778,370.598,193.738" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="370.598,165.778,386.143,193.738" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="386.227,165.778,392.434,193.738" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="392.434,165.778,407.980,193.738" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="408.036,165.778,423.582,193.738" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="423.582,165.778,431.355,193.738" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="431.523,165.778,451.710,193.738" colourspace="Pattern" ncolour="1" size="27.960">w</text>
+<text font="ArialMT" bbox="451.710,165.778,467.255,193.738" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="467.255,165.778,481.235,193.738" colourspace="Pattern" ncolour="1" size="27.960">y</text>
+<text font="ArialMT" bbox="481.291,165.778,495.271,193.738" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="495.271,165.778,503.044,193.738" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="503.100,165.778,510.873,193.738" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="510.873,165.778,526.419,193.738" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="526.419,165.778,534.192,193.738" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="534.276,165.778,554.463,193.738" colourspace="Pattern" ncolour="1" size="27.960">w</text>
+<text font="ArialMT" bbox="554.463,165.778,570.008,193.738" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="570.008,165.778,579.319,193.738" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="579.319,165.778,593.299,193.738" colourspace="Pattern" ncolour="1" size="27.960">k</text>
+<text font="ArialMT" bbox="593.411,165.778,601.184,193.738" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="601.184,165.778,616.730,193.738" colourspace="Pattern" ncolour="1" size="27.960">b</text>
+<text font="ArialMT" bbox="616.730,165.778,632.275,193.738" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="632.387,165.778,640.160,193.738" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="640.160,165.778,647.933,193.738" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="647.933,165.778,663.479,193.738" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="663.563,165.778,672.873,193.738" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="672.873,165.778,680.646,193.738" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="680.646,165.778,700.833,193.738" colourspace="Pattern" ncolour="1" size="27.960">w</text>
+<text font="ArialMT" bbox="700.833,165.778,707.040,193.738" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="707.040,165.778,714.813,193.738" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="714.813,165.778,730.359,193.738" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="730.359,165.778,738.132,193.738" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+<textline bbox="94.968,132.173,727.406,160.157" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">our partners (e.g. Tokyo VAAC, Elizovo MWO, etc.) </textline>
+</textbox>
+<textbox id="6" bbox="734.980,21.711,742.000,35.751" size="14.04">5 <textline bbox="734.980,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">5 </textline>
+</textbox>
+</page>
+<page id="6" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="342.840,419.020,467.304,467.020" size="48.0">VACT <textline bbox="342.840,419.020,467.304,467.020" font="ArialMT" ncolour="(1, 1, 0.6)" size="48.000" colourspace="Pattern">VACT </textline>
+</textbox>
+<textbox id="1" bbox="67.968,239.713,688.615,375.198" size="25.206000000000003">&#9899; Shared situational awareness  
+&#9899; Data sharing through NWS AWIPS (operational  
+meteorological workstation), internet, or local  
+database <textline bbox="67.968,347.238,470.359,375.198">&#9899; Shared situational awareness  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,348.510,84.731,370.950" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,347.238,113.617,375.198" colourspace="Pattern" ncolour="1" size="27.960">S</text>
+<text font="ArialMT" bbox="113.617,347.238,129.163,375.198" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="129.163,347.238,144.709,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="144.709,347.238,154.020,375.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="154.103,347.238,169.649,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="169.649,347.238,185.195,375.198" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="185.279,347.238,193.052,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="193.164,347.238,207.144,375.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="207.144,347.238,213.351,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="213.407,347.238,221.179,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="221.179,347.238,236.725,375.198" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="236.725,347.238,252.271,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="252.383,347.238,260.156,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="260.156,347.238,266.363,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="266.363,347.238,281.909,375.198" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="281.992,347.238,297.538,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="297.538,347.238,313.084,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="313.168,347.238,319.375,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="319.375,347.238,327.148,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="327.148,347.238,342.694,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="342.694,347.238,362.881,375.198" colourspace="Pattern" ncolour="1" size="27.960">w</text>
+<text font="ArialMT" bbox="362.881,347.238,378.426,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="378.426,347.238,387.737,375.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="387.737,347.238,403.283,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="403.367,347.238,418.913,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="418.913,347.238,434.458,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="434.542,347.238,448.522,375.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="448.522,347.238,462.502,375.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="462.586,347.238,470.359,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+<textline bbox="67.968,306.918,688.615,334.878">&#9899; Data sharing through NWS AWIPS (operational  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,308.190,84.731,330.630" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,306.918,115.155,334.878" colourspace="Pattern" ncolour="1" size="27.960">D</text>
+<text font="ArialMT" bbox="115.155,306.918,130.701,334.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="130.701,306.918,138.474,334.878" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="138.474,306.918,154.020,334.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="154.103,306.918,161.876,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="161.876,306.918,175.856,334.878" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="175.912,306.918,191.458,334.878" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="191.458,306.918,207.004,334.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="207.088,306.918,216.398,334.878" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="216.398,306.918,222.605,334.878" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="222.605,306.918,238.151,334.878" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="238.263,306.918,253.809,334.878" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="253.809,306.918,261.582,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="261.749,306.918,269.522,334.878" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="269.522,306.918,285.068,334.878" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="285.068,306.918,294.379,334.878" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="294.491,306.918,310.036,334.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="310.036,306.918,325.582,334.878" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="325.666,306.918,341.212,334.878" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="341.212,306.918,356.757,334.878" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="356.841,306.918,364.614,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="364.614,306.918,384.801,334.878" colourspace="Pattern" ncolour="1" size="27.960">N</text>
+<text font="ArialMT" bbox="384.801,306.918,411.196,334.878" colourspace="Pattern" ncolour="1" size="27.960">W</text>
+<text font="ArialMT" bbox="411.196,306.918,429.845,334.878" colourspace="Pattern" ncolour="1" size="27.960">S</text>
+<text font="ArialMT" bbox="429.845,306.918,437.618,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="436.052,306.918,454.701,334.878" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="453.583,306.918,479.977,334.878" colourspace="Pattern" ncolour="1" size="27.960">W</text>
+<text font="ArialMT" bbox="479.977,306.918,487.750,334.878" colourspace="Pattern" ncolour="1" size="27.960">I</text>
+<text font="ArialMT" bbox="487.750,306.918,506.399,334.878" colourspace="Pattern" ncolour="1" size="27.960">P</text>
+<text font="ArialMT" bbox="506.399,306.918,525.049,334.878" colourspace="Pattern" ncolour="1" size="27.960">S</text>
+<text font="ArialMT" bbox="525.049,306.918,532.822,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="532.822,306.918,542.132,334.878" colourspace="Pattern" ncolour="1" size="27.960">(</text>
+<text font="ArialMT" bbox="542.132,306.918,557.678,334.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="557.678,306.918,573.224,334.878" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="573.308,306.918,588.853,334.878" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="588.853,306.918,598.164,334.878" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="598.248,306.918,613.794,334.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="613.794,306.918,621.567,334.878" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="621.567,306.918,627.774,334.878" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="627.858,306.918,643.403,334.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="643.403,306.918,658.949,334.878" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="659.033,306.918,674.579,334.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="674.579,306.918,680.786,334.878" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="680.842,306.918,688.615,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+<textline bbox="94.968,273.318,658.865,301.278" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">meteorological workstation), internet, or local  </textline>
+<textline bbox="94.968,239.713,210.262,267.697" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">database </textline>
+</textbox>
+<textbox id="2" bbox="67.968,159.058,387.905,227.338" size="22.44">&#9899; Graphical drawing tools 
+&#9899; Chat capability <textline bbox="67.968,199.378,387.905,227.338">&#9899; Graphical drawing tools <text font="BCDEEE+Wingdings-Regular" bbox="67.968,200.650,84.731,223.090" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,199.378,116.721,227.338" colourspace="Pattern" ncolour="1" size="27.960">G</text>
+<text font="ArialMT" bbox="116.721,199.378,126.032,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="126.032,199.378,141.577,227.338" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="141.577,199.378,157.123,227.338" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="157.207,199.378,172.753,227.338" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="172.753,199.378,178.960,227.338" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="179.016,199.378,192.996,227.338" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="192.996,199.378,208.542,227.338" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="208.625,199.378,214.833,227.338" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="214.833,199.378,222.605,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="222.745,199.378,238.291,227.338" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="238.291,199.378,247.602,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="247.686,199.378,263.231,227.338" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="263.231,199.378,283.418,227.338" colourspace="Pattern" ncolour="1" size="27.960">w</text>
+<text font="ArialMT" bbox="283.418,199.378,289.626,227.338" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="289.626,199.378,305.171,227.338" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="305.255,199.378,320.801,227.338" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="320.801,199.378,328.574,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="328.742,199.378,336.514,227.338" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="336.514,199.378,352.060,227.338" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="352.060,199.378,367.606,227.338" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="367.718,199.378,373.925,227.338" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="373.925,199.378,387.905,227.338" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+</textline>
+<textline bbox="67.968,159.058,278.721,187.018">&#9899; Chat capability <text font="BCDEEE+Wingdings-Regular" bbox="67.968,160.330,84.731,182.770" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,159.058,115.155,187.018" colourspace="Pattern" ncolour="1" size="27.960">C</text>
+<text font="ArialMT" bbox="115.155,159.058,130.701,187.018" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="130.701,159.058,146.247,187.018" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="146.247,159.058,154.020,187.018" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="154.103,159.058,161.876,187.018" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="161.876,159.058,175.856,187.018" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="175.912,159.058,191.458,187.018" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="191.458,159.058,207.004,187.018" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="207.088,159.058,222.633,187.018" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="222.633,159.058,238.179,187.018" colourspace="Pattern" ncolour="1" size="27.960">b</text>
+<text font="ArialMT" bbox="238.263,159.058,244.470,187.018" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="244.470,159.058,250.677,187.018" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="250.677,159.058,256.884,187.018" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="256.968,159.058,264.741,187.018" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="264.741,159.058,278.721,187.018" colourspace="Pattern" ncolour="1" size="27.960">y</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="734.980,21.711,742.000,35.751" size="14.04">6 <textline bbox="734.980,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">6 </textline>
+</textbox>
+</page>
+<page id="7" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="734.980,21.711,742.000,35.751" size="14.04">7 <textline bbox="734.980,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">7 </textline>
+</textbox>
+<figure name="Image105" bbox="60.000,61.080,756.480,474.000" src="Image105.jpg" width="696" height="412">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="198.840,419.020,611.160,467.020" size="48.0">VAAC Coordination <textline bbox="198.840,419.020,611.160,467.020" font="ArialMT" ncolour="(1, 1, 0.6)" size="48.000" colourspace="Pattern">VAAC Coordination </textline>
+</textbox>
+<textbox id="1" bbox="67.968,306.918,724.189,375.198" size="22.44">&#9899; Future integration of multi-lingual chat capabilities 
+&#9899; Improve VAAC to VAAC hand-off and coordination  <textline bbox="67.968,347.238,710.759,375.198">&#9899; Future integration of multi-lingual chat capabilities <text font="BCDEEE+Wingdings-Regular" bbox="67.968,348.510,84.731,370.950" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,347.238,112.052,375.198" colourspace="Pattern" ncolour="1" size="27.960">F</text>
+<text font="ArialMT" bbox="112.052,347.238,127.597,375.198" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="127.597,347.238,135.370,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="135.370,347.238,150.916,375.198" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="150.972,347.238,160.283,375.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="160.283,347.238,175.828,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="175.912,347.238,183.685,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="183.797,347.238,190.004,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="190.004,347.238,205.550,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="205.606,347.238,213.379,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="213.379,347.238,228.924,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="228.924,347.238,244.470,375.198" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="244.582,347.238,253.893,375.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="253.893,347.238,269.438,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="269.522,347.238,277.295,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="277.295,347.238,283.502,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="283.502,347.238,299.048,375.198" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="299.132,347.238,314.678,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="314.678,347.238,322.451,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="322.451,347.238,337.996,375.198" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="338.108,347.238,345.881,375.198" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="345.881,347.238,353.654,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="353.654,347.238,376.945,375.198" colourspace="Pattern" ncolour="1" size="27.960">m</text>
+<text font="ArialMT" bbox="376.945,347.238,392.490,375.198" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="392.490,347.238,398.697,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="398.697,347.238,406.470,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="406.470,347.238,412.677,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="413.020,347.238,422.331,375.198" colourspace="Pattern" ncolour="1" size="27.960">-</text>
+<text font="ArialMT" bbox="422.380,347.238,428.587,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="428.587,347.238,434.794,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="434.794,347.238,450.340,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="450.424,347.238,465.970,375.198" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="465.970,347.238,481.515,375.198" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="481.599,347.238,497.145,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="497.145,347.238,503.352,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="503.408,347.238,511.181,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="511.433,347.238,525.413,375.198" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="525.413,347.238,540.958,375.198" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="541.042,347.238,556.588,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="556.588,347.238,564.361,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="564.361,347.238,572.134,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="572.134,347.238,586.114,375.198" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="586.114,347.238,601.660,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="601.743,347.238,617.289,375.198" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="617.289,347.238,632.835,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="632.919,347.238,648.465,375.198" colourspace="Pattern" ncolour="1" size="27.960">b</text>
+<text font="ArialMT" bbox="648.465,347.238,654.672,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="654.728,347.238,660.935,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="660.935,347.238,667.142,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="667.142,347.238,674.915,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="674.971,347.238,681.178,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="681.178,347.238,696.724,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="696.779,347.238,710.759,375.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+</textline>
+<textline bbox="67.968,306.918,724.189,334.878">&#9899; Improve VAAC to VAAC hand-off and coordination  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,308.190,84.731,330.630" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,306.918,102.741,334.878" colourspace="Pattern" ncolour="1" size="27.960">I</text>
+<text font="ArialMT" bbox="102.741,306.918,126.032,334.878" colourspace="Pattern" ncolour="1" size="27.960">m</text>
+<text font="ArialMT" bbox="126.032,306.918,141.577,334.878" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="141.577,306.918,150.888,334.878" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="150.972,306.918,166.518,334.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="166.518,306.918,180.498,334.878" colourspace="Pattern" ncolour="1" size="27.960">v</text>
+<text font="ArialMT" bbox="180.582,306.918,196.127,334.878" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="196.127,306.918,203.900,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="203.900,306.918,222.549,334.878" colourspace="Pattern" ncolour="1" size="27.960">V</text>
+<text font="ArialMT" bbox="220.536,306.918,239.186,334.878" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="239.186,306.918,257.835,334.878" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="257.723,306.918,277.910,334.878" colourspace="Pattern" ncolour="1" size="27.960">C</text>
+<text font="ArialMT" bbox="277.910,306.918,285.683,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="285.767,306.918,293.540,334.878" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="293.540,306.918,309.086,334.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="309.086,306.918,316.859,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="316.859,306.918,335.508,334.878" colourspace="Pattern" ncolour="1" size="27.960">V</text>
+<text font="ArialMT" bbox="333.411,306.918,352.060,334.878" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="352.060,306.918,370.710,334.878" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="370.598,306.918,390.785,334.878" colourspace="Pattern" ncolour="1" size="27.960">C</text>
+<text font="ArialMT" bbox="390.785,306.918,398.558,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="398.642,306.918,414.187,334.878" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="414.187,306.918,429.733,334.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="429.817,306.918,445.363,334.878" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="445.363,306.918,460.908,334.878" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="461.260,306.918,470.571,334.878" colourspace="Pattern" ncolour="1" size="27.960">-</text>
+<text font="ArialMT" bbox="470.620,306.918,486.166,334.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="486.166,306.918,493.939,334.878" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="493.547,306.918,501.320,334.878" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="501.320,306.918,509.093,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="509.093,306.918,524.639,334.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="524.723,306.918,540.268,334.878" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="540.268,306.918,555.814,334.878" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="555.898,306.918,563.671,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="563.671,306.918,577.651,334.878" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="577.707,306.918,593.253,334.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="593.253,306.918,608.798,334.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="608.882,306.918,618.193,334.878" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="618.193,306.918,633.739,334.878" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="633.823,306.918,640.030,334.878" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="640.030,306.918,655.575,334.878" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="655.631,306.918,671.177,334.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="671.177,306.918,678.950,334.878" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="678.950,306.918,685.157,334.878" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="685.241,306.918,700.787,334.878" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="700.787,306.918,716.332,334.878" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="716.416,306.918,724.189,334.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+</textbox>
+<textbox id="2" bbox="67.968,192.658,635.686,301.278" size="24.28">despite language differences 
+&#9899; Share data between the VAACs 
+&#9899; Gain a better understanding of each others  <textline bbox="94.968,273.318,453.024,301.278" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">despite language differences </textline>
+<textline bbox="67.968,232.978,488.309,260.938">&#9899; Share data between the VAACs <text font="BCDEEE+Wingdings-Regular" bbox="67.968,234.250,84.731,256.690" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,232.978,113.617,260.938" colourspace="Pattern" ncolour="1" size="27.960">S</text>
+<text font="ArialMT" bbox="113.617,232.978,129.163,260.938" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="129.163,232.978,144.709,260.938" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="144.709,232.978,154.020,260.938" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="154.103,232.978,169.649,260.938" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="169.649,232.978,177.422,260.938" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="177.590,232.978,193.136,260.938" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="193.136,232.978,208.681,260.938" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="208.765,232.978,216.538,260.938" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="216.538,232.978,232.084,260.938" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="232.084,232.978,239.857,260.938" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="239.857,232.978,255.402,260.938" colourspace="Pattern" ncolour="1" size="27.960">b</text>
+<text font="ArialMT" bbox="255.402,232.978,270.948,260.938" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="271.004,232.978,278.777,260.938" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="278.777,232.978,298.964,260.938" colourspace="Pattern" ncolour="1" size="27.960">w</text>
+<text font="ArialMT" bbox="298.964,232.978,314.510,260.938" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="314.510,232.978,330.056,260.938" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="330.140,232.978,345.685,260.938" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="345.685,232.978,353.458,260.938" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="353.626,232.978,361.399,260.938" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="361.399,232.978,376.945,260.938" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="376.945,232.978,392.490,260.938" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="392.602,232.978,400.375,260.938" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="400.375,232.978,419.024,260.938" colourspace="Pattern" ncolour="1" size="27.960">V</text>
+<text font="ArialMT" bbox="416.955,232.978,435.605,260.938" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="435.605,232.978,454.254,260.938" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="454.142,232.978,474.329,260.938" colourspace="Pattern" ncolour="1" size="27.960">C</text>
+<text font="ArialMT" bbox="474.329,232.978,488.309,260.938" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+</textline>
+<textline bbox="67.968,192.658,635.686,220.618">&#9899; Gain a better understanding of each others  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,193.930,84.731,216.370" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,192.658,116.721,220.618" colourspace="Pattern" ncolour="1" size="27.960">G</text>
+<text font="ArialMT" bbox="116.721,192.658,132.267,220.618" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="132.267,192.658,138.474,220.618" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="138.474,192.658,154.020,220.618" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="154.103,192.658,161.876,220.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="161.876,192.658,177.422,220.618" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="177.422,192.658,185.195,220.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="185.279,192.658,200.825,220.618" colourspace="Pattern" ncolour="1" size="27.960">b</text>
+<text font="ArialMT" bbox="200.825,192.658,216.370,220.618" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="216.454,192.658,224.227,220.618" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="224.227,192.658,232.000,220.618" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="232.000,192.658,247.546,220.618" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="247.630,192.658,256.940,220.618" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="256.940,192.658,264.713,220.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="264.713,192.658,280.259,220.618" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="280.371,192.658,295.917,220.618" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="295.917,192.658,311.462,220.618" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="311.546,192.658,327.092,220.618" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="327.092,192.658,336.403,220.618" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="336.486,192.658,350.466,220.618" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="350.466,192.658,358.239,220.618" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="358.295,192.658,373.841,220.618" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="373.841,192.658,389.387,220.618" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="389.471,192.658,405.016,220.618" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="405.016,192.658,411.224,220.618" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="411.279,192.658,426.825,220.618" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="426.825,192.658,442.371,220.618" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="442.455,192.658,450.228,220.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="450.340,192.658,465.885,220.618" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="465.885,192.658,473.658,220.618" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="473.658,192.658,481.431,220.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="481.431,192.658,496.977,220.618" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="496.977,192.658,512.523,220.618" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="512.579,192.658,526.559,220.618" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="526.559,192.658,542.104,220.618" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="542.188,192.658,549.961,220.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="549.961,192.658,565.507,220.618" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="565.507,192.658,573.280,220.618" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="573.364,192.658,588.909,220.618" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="588.909,192.658,604.455,220.618" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="604.539,192.658,613.850,220.618" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="613.850,192.658,627.830,220.618" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="627.914,192.658,635.686,220.618" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+</textbox>
+<textbox id="3" bbox="94.968,159.058,238.469,187.018" size="27.96">perspective <textline bbox="94.968,159.058,238.469,187.018" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">perspective </textline>
+</textbox>
+<textbox id="4" bbox="734.980,21.711,742.000,35.751" size="14.04">8 <textline bbox="734.980,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">8 </textline>
+</textbox>
+</page>
+<page id="9" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="212.640,419.020,597.504,467.020" size="48.0">VACT Capabilities <textline bbox="212.640,419.020,597.504,467.020" font="ArialMT" ncolour="(1, 1, 0.6)" size="48.000" colourspace="Pattern">VACT Capabilities </textline>
+</textbox>
+<textbox id="1" bbox="379.250,339.910,589.874,363.910" size="24.0">Graphics Enhanced <textline bbox="379.250,339.910,589.874,363.910" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">Graphics Enhanced </textline>
+</textbox>
+<textbox id="2" bbox="109.220,111.860,230.516,135.860" size="24.0">Unmodified <textline bbox="109.220,111.860,230.516,135.860" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">Unmodified </textline>
+</textbox>
+<textbox id="3" bbox="734.980,21.711,742.000,35.751" size="14.04">9 <textline bbox="734.980,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">9 </textline>
+</textbox>
+<figure name="Image122" bbox="282.000,27.000,708.000,318.000" src="Image122.jpg" width="426" height="291">
+</figure>
+<figure name="Image123" bbox="30.000,167.280,302.280,402.000" src="Image123.574x495.bmp" width="272" height="234">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="264.960,419.020,545.040,467.020" size="48.0">Data Sharing <textline bbox="264.960,419.020,545.040,467.020" font="ArialMT" ncolour="(1, 1, 0.6)" size="48.000" colourspace="Pattern">Data Sharing </textline>
+</textbox>
+<textbox id="1" bbox="727.900,21.711,742.000,35.751" size="14.04">10 <textline bbox="727.900,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">10 </textline>
+</textbox>
+<figure name="Image130" bbox="432.000,124.440,738.000,354.000" src="Image130.jpg" width="306" height="229">
+</figure>
+<figure name="Image131" bbox="60.000,122.280,369.000,354.000" src="Image131.jpg" width="309" height="231">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="182.400,419.020,627.504,467.020" size="48.0">Benefits of the VACT <textline bbox="182.400,419.020,627.504,467.020" font="ArialMT" ncolour="(1, 1, 0.6)" size="48.000" colourspace="Pattern">Benefits of the VACT </textline>
+</textbox>
+<textbox id="1" bbox="67.968,232.978,339.506,375.198" size="23.82">&#9899; Beneficial in larger,  
+long-lasting events 
+&#9899; Useful briefing tool 
+&#9899; Archive for case  <textline bbox="67.968,347.238,339.506,375.198">&#9899; Beneficial in larger,  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,348.510,84.731,370.950" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,347.238,113.617,375.198" colourspace="Pattern" ncolour="1" size="27.960">B</text>
+<text font="ArialMT" bbox="113.617,347.238,129.163,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="129.163,347.238,144.709,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="144.709,347.238,160.255,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="160.338,347.238,168.111,375.198" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="168.111,347.238,174.318,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="174.318,347.238,188.298,375.198" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="188.382,347.238,194.589,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="194.589,347.238,210.135,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="210.191,347.238,216.398,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="216.398,347.238,224.171,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="224.171,347.238,230.378,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="230.434,347.238,245.980,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="245.980,347.238,253.753,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="253.753,347.238,259.960,375.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="260.044,347.238,275.590,375.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="275.590,347.238,284.900,375.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="284.984,347.238,300.530,375.198" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="300.530,347.238,316.076,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="316.160,347.238,325.470,375.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="323.960,347.238,331.733,375.198" colourspace="Pattern" ncolour="1" size="27.960">,</text>
+<text font="ArialMT" bbox="331.733,347.238,339.506,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+<textline bbox="94.968,313.638,328.681,341.598" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">long-lasting events </textline>
+<textline bbox="67.968,273.318,327.064,301.278">&#9899; Useful briefing tool <text font="BCDEEE+Wingdings-Regular" bbox="67.968,274.590,84.731,297.030" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,273.318,115.155,301.278" colourspace="Pattern" ncolour="1" size="27.960">U</text>
+<text font="ArialMT" bbox="115.155,273.318,129.135,301.278" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="129.135,273.318,144.681,301.278" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="144.737,273.318,152.510,301.278" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="152.510,273.318,168.055,301.278" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="168.055,273.318,174.263,301.278" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="174.346,273.318,182.119,301.278" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="182.119,273.318,197.665,301.278" colourspace="Pattern" ncolour="1" size="27.960">b</text>
+<text font="ArialMT" bbox="197.665,273.318,206.976,301.278" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="207.088,273.318,213.295,301.278" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="213.295,273.318,228.840,301.278" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="228.896,273.318,236.669,301.278" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="236.669,273.318,242.876,301.278" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="242.876,273.318,258.422,301.278" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="258.506,273.318,274.052,301.278" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="274.052,273.318,281.825,301.278" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="281.825,273.318,289.598,301.278" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="289.681,273.318,305.227,301.278" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="305.227,273.318,320.773,301.278" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="320.857,273.318,327.064,301.278" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+</textline>
+<textline bbox="67.968,232.978,303.578,260.938">&#9899; Archive for case  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,234.250,84.731,256.690" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,232.978,113.617,260.938" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="113.617,232.978,122.928,260.938" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="122.928,232.978,136.908,260.938" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="136.908,232.978,152.454,260.938" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="152.538,232.978,158.745,260.938" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="158.745,232.978,172.725,260.938" colourspace="Pattern" ncolour="1" size="27.960">v</text>
+<text font="ArialMT" bbox="172.781,232.978,188.326,260.938" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="188.326,232.978,196.099,260.938" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="196.099,232.978,203.872,260.938" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="203.956,232.978,219.502,260.938" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="219.502,232.978,228.813,260.938" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="228.896,232.978,236.669,260.938" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="236.585,232.978,250.565,260.938" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="250.565,232.978,266.111,260.938" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="266.195,232.978,280.175,260.938" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="280.175,232.978,295.721,260.938" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="295.805,232.978,303.578,260.938" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+</textbox>
+<textbox id="2" bbox="94.968,199.378,183.741,227.338" size="27.96">studies <textline bbox="94.968,199.378,183.741,227.338" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">studies </textline>
+</textbox>
+<textbox id="3" bbox="67.968,159.058,337.860,187.018" size="22.44">&#9899; Post-event analysis <textline bbox="67.968,159.058,337.860,187.018">&#9899; Post-event analysis <text font="BCDEEE+Wingdings-Regular" bbox="67.968,160.330,84.731,182.770" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,159.058,113.617,187.018" colourspace="Pattern" ncolour="1" size="27.960">P</text>
+<text font="ArialMT" bbox="113.617,159.058,129.163,187.018" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="129.163,159.058,143.143,187.018" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="143.143,159.058,150.916,187.018" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="151.010,159.058,160.321,187.018" colourspace="Pattern" ncolour="1" size="27.960">-</text>
+<text font="ArialMT" bbox="160.370,159.058,175.916,187.018" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="175.916,159.058,189.896,187.018" colourspace="Pattern" ncolour="1" size="27.960">v</text>
+<text font="ArialMT" bbox="189.980,159.058,205.525,187.018" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="205.525,159.058,221.071,187.018" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="221.155,159.058,228.928,187.018" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="228.928,159.058,236.701,187.018" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="236.701,159.058,252.247,187.018" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="252.247,159.058,267.792,187.018" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="267.792,159.058,283.338,187.018" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="283.394,159.058,289.601,187.018" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="289.601,159.058,303.581,187.018" colourspace="Pattern" ncolour="1" size="27.960">y</text>
+<text font="ArialMT" bbox="303.637,159.058,317.617,187.018" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="317.617,159.058,323.824,187.018" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="323.880,159.058,337.860,187.018" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="728.380,21.711,742.000,35.751" size="14.04">11 <textline bbox="728.380,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">11 </textline>
+</textbox>
+<figure name="Image142" bbox="414.000,136.920,787.200,384.000" src="Image142.jpg" width="373" height="247">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="302.400,419.020,507.744,467.020" size="48.0">Summary <textline bbox="302.400,419.020,507.744,467.020" font="ArialMT" ncolour="(1, 1, 0.6)" size="48.000" colourspace="Pattern">Summary </textline>
+</textbox>
+<textbox id="1" bbox="67.968,248.593,462.502,357.198" size="22.447999999999997">&#9899; Shared situational awareness 
+&#9899; Data sharing 
+&#9899; Briefing/archive capabilities <textline bbox="67.968,329.238,462.502,357.198">&#9899; Shared situational awareness <text font="BCDEEE+Wingdings-Regular" bbox="67.968,330.510,84.731,352.950" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,329.238,113.617,357.198" colourspace="Pattern" ncolour="1" size="27.960">S</text>
+<text font="ArialMT" bbox="113.617,329.238,129.163,357.198" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="129.163,329.238,144.709,357.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="144.709,329.238,154.020,357.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="154.103,329.238,169.649,357.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="169.649,329.238,185.195,357.198" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="185.279,329.238,193.052,357.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="193.164,329.238,207.144,357.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="207.144,329.238,213.351,357.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="213.407,329.238,221.179,357.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="221.179,329.238,236.725,357.198" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="236.725,329.238,252.271,357.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="252.383,329.238,260.156,357.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="260.156,329.238,266.363,357.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="266.363,329.238,281.909,357.198" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="281.992,329.238,297.538,357.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="297.538,329.238,313.084,357.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="313.168,329.238,319.375,357.198" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="ArialMT" bbox="319.375,329.238,327.148,357.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="327.148,329.238,342.694,357.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="342.694,329.238,362.881,357.198" colourspace="Pattern" ncolour="1" size="27.960">w</text>
+<text font="ArialMT" bbox="362.881,329.238,378.426,357.198" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="378.426,329.238,387.737,357.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="387.737,329.238,403.283,357.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="403.367,329.238,418.913,357.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="418.913,329.238,434.458,357.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="434.542,329.238,448.522,357.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="448.522,329.238,462.502,357.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+</textline>
+<textline bbox="67.968,288.918,253.809,316.878">&#9899; Data sharing <text font="BCDEEE+Wingdings-Regular" bbox="67.968,290.190,84.731,312.630" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,288.918,115.155,316.878" colourspace="Pattern" ncolour="1" size="27.960">D</text>
+<text font="ArialMT" bbox="115.155,288.918,130.701,316.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="130.701,288.918,138.474,316.878" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="138.474,288.918,154.020,316.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="154.103,288.918,161.876,316.878" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="161.876,288.918,175.856,316.878" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="175.912,288.918,191.458,316.878" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="191.458,288.918,207.004,316.878" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="207.088,288.918,216.398,316.878" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="216.398,288.918,222.605,316.878" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="222.605,288.918,238.151,316.878" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="238.263,288.918,253.809,316.878" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+</textline>
+<textline bbox="67.968,248.593,434.638,276.577">&#9899; Briefing/archive capabilities <text font="BCDEEE+Wingdings-Regular" bbox="67.968,249.865,84.749,272.329" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.464">&#9899;</text>
+<text font="ArialMT" bbox="94.968,248.593,113.633,276.577" colourspace="Pattern" ncolour="1" size="27.984">B</text>
+<text font="ArialMT" bbox="113.633,248.593,122.952,276.577" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="122.952,248.593,129.164,276.577" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="129.164,248.593,144.724,276.577" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="144.724,248.593,152.503,276.577" colourspace="Pattern" ncolour="1" size="27.984">f</text>
+<text font="ArialMT" bbox="152.503,248.593,158.716,276.577" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="158.772,248.593,174.331,276.577" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="ArialMT" bbox="174.331,248.593,189.890,276.577" colourspace="Pattern" ncolour="1" size="27.984">g</text>
+<text font="ArialMT" bbox="189.890,248.593,197.669,276.577" colourspace="Pattern" ncolour="1" size="27.984">/</text>
+<text font="ArialMT" bbox="197.753,248.593,213.312,276.577" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="213.312,248.593,222.631,276.577" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="ArialMT" bbox="222.631,248.593,236.623,276.577" colourspace="Pattern" ncolour="1" size="27.984">c</text>
+<text font="ArialMT" bbox="236.735,248.593,252.294,276.577" colourspace="Pattern" ncolour="1" size="27.984">h</text>
+<text font="ArialMT" bbox="252.294,248.593,258.506,276.577" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="258.506,248.593,272.498,276.577" colourspace="Pattern" ncolour="1" size="27.984">v</text>
+<text font="ArialMT" bbox="272.582,248.593,288.142,276.577" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="288.142,248.593,295.921,276.577" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="ArialMT" bbox="295.921,248.593,309.913,276.577" colourspace="Pattern" ncolour="1" size="27.984">c</text>
+<text font="ArialMT" bbox="309.997,248.593,325.556,276.577" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="325.556,248.593,341.115,276.577" colourspace="Pattern" ncolour="1" size="27.984">p</text>
+<text font="ArialMT" bbox="341.115,248.593,356.674,276.577" colourspace="Pattern" ncolour="1" size="27.984">a</text>
+<text font="ArialMT" bbox="356.758,248.593,372.317,276.577" colourspace="Pattern" ncolour="1" size="27.984">b</text>
+<text font="ArialMT" bbox="372.317,248.593,378.530,276.577" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="378.530,248.593,384.742,276.577" colourspace="Pattern" ncolour="1" size="27.984">l</text>
+<text font="ArialMT" bbox="384.798,248.593,391.011,276.577" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="391.011,248.593,398.790,276.577" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="ArialMT" bbox="398.790,248.593,405.003,276.577" colourspace="Pattern" ncolour="1" size="27.984">i</text>
+<text font="ArialMT" bbox="405.003,248.593,420.562,276.577" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="ArialMT" bbox="420.646,248.593,434.638,276.577" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="67.968,162.282,688.445,194.322" size="25.56">&#9899; Please stop by the NOAA exhibit to see a  <textline bbox="67.968,162.282,688.445,194.322">&#9899; Please stop by the NOAA exhibit to see a  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,163.770,87.061,189.330" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="25.560">&#9899;</text>
+<text font="ArialMT" bbox="94.968,162.282,116.339,194.322" colourspace="Pattern" ncolour="1" size="32.040">P</text>
+<text font="ArialMT" bbox="116.339,162.282,123.452,194.322" colourspace="Pattern" ncolour="1" size="32.040">l</text>
+<text font="ArialMT" bbox="123.452,162.282,141.266,194.322" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="ArialMT" bbox="141.170,162.282,158.984,194.322" colourspace="Pattern" ncolour="1" size="32.040">a</text>
+<text font="ArialMT" bbox="158.984,162.282,175.004,194.322" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="ArialMT" bbox="175.004,162.282,192.818,194.322" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="ArialMT" bbox="192.818,162.282,201.725,194.322" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="201.725,162.282,217.745,194.322" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="ArialMT" bbox="217.745,162.282,226.652,194.322" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="ArialMT" bbox="226.652,162.282,244.467,194.322" colourspace="Pattern" ncolour="1" size="32.040">o</text>
+<text font="ArialMT" bbox="244.371,162.282,262.185,194.322" colourspace="Pattern" ncolour="1" size="32.040">p</text>
+<text font="ArialMT" bbox="262.185,162.282,271.092,194.322" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="270.900,162.282,288.714,194.322" colourspace="Pattern" ncolour="1" size="32.040">b</text>
+<text font="ArialMT" bbox="288.714,162.282,304.734,194.322" colourspace="Pattern" ncolour="1" size="32.040">y</text>
+<text font="ArialMT" bbox="304.734,162.282,313.641,194.322" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="313.513,162.282,322.420,194.322" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="ArialMT" bbox="322.420,162.282,340.234,194.322" colourspace="Pattern" ncolour="1" size="32.040">h</text>
+<text font="ArialMT" bbox="340.234,162.282,358.048,194.322" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="ArialMT" bbox="357.920,162.282,366.827,194.322" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="366.827,162.282,389.960,194.322" colourspace="Pattern" ncolour="1" size="32.040">N</text>
+<text font="ArialMT" bbox="389.960,162.282,414.887,194.322" colourspace="Pattern" ncolour="1" size="32.040">O</text>
+<text font="ArialMT" bbox="414.887,162.282,436.258,194.322" colourspace="Pattern" ncolour="1" size="32.040">A</text>
+<text font="ArialMT" bbox="436.258,162.282,457.629,194.322" colourspace="Pattern" ncolour="1" size="32.040">A</text>
+<text font="ArialMT" bbox="455.835,162.282,464.742,194.322" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="464.581,162.282,482.396,194.322" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="ArialMT" bbox="482.396,162.282,498.416,194.322" colourspace="Pattern" ncolour="1" size="32.040">x</text>
+<text font="ArialMT" bbox="498.416,162.282,516.230,194.322" colourspace="Pattern" ncolour="1" size="32.040">h</text>
+<text font="ArialMT" bbox="516.230,162.282,523.343,194.322" colourspace="Pattern" ncolour="1" size="32.040">i</text>
+<text font="ArialMT" bbox="523.343,162.282,541.157,194.322" colourspace="Pattern" ncolour="1" size="32.040">b</text>
+<text font="ArialMT" bbox="541.029,162.282,548.142,194.322" colourspace="Pattern" ncolour="1" size="32.040">i</text>
+<text font="ArialMT" bbox="548.142,162.282,557.049,194.322" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="ArialMT" bbox="557.049,162.282,565.956,194.322" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="565.956,162.282,574.863,194.322" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="ArialMT" bbox="574.735,162.282,592.549,194.322" colourspace="Pattern" ncolour="1" size="32.040">o</text>
+<text font="ArialMT" bbox="592.549,162.282,601.456,194.322" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="601.456,162.282,617.476,194.322" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="ArialMT" bbox="617.476,162.282,635.291,194.322" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="ArialMT" bbox="635.291,162.282,653.105,194.322" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="ArialMT" bbox="652.977,162.282,661.884,194.322" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="ArialMT" bbox="661.724,162.282,679.538,194.322" colourspace="Pattern" ncolour="1" size="32.040">a</text>
+<text font="ArialMT" bbox="679.538,162.282,688.445,194.322" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+</textline>
+</textbox>
+<textbox id="3" bbox="94.968,123.877,364.466,155.941" size="32.064">demo of the VACT! <textline bbox="94.968,123.877,364.466,155.941" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">demo of the VACT! </textline>
+</textbox>
+<textbox id="4" bbox="727.900,21.711,742.000,35.751" size="14.04">12 <textline bbox="727.900,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">12 </textline>
+</textbox>
+</page>
+<page id="13" bbox="0.000,0.000,810.000,540.000" rotate="0">
+<textbox id="0" bbox="326.400,419.020,483.648,467.020" size="48.0">Thanks <textline bbox="326.400,419.020,483.648,467.020" font="ArialMT" ncolour="(1, 1, 0.6)" size="48.000" colourspace="Pattern">Thanks </textline>
+</textbox>
+<textbox id="1" bbox="67.968,280.038,691.243,375.198" size="26.120000000000005">&#9899; VACT project funding support through the NWS  
+Aviation Initiative and the FAA Aviation Weather  
+Research Program <textline bbox="67.968,347.238,690.348,375.198">&#9899; VACT project funding support through the NWS  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,348.510,84.731,370.950" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,347.238,113.617,375.198" colourspace="Pattern" ncolour="1" size="27.960">V</text>
+<text font="ArialMT" bbox="111.520,347.238,130.170,375.198" colourspace="Pattern" ncolour="1" size="27.960">A</text>
+<text font="ArialMT" bbox="130.170,347.238,150.357,375.198" colourspace="Pattern" ncolour="1" size="27.960">C</text>
+<text font="ArialMT" bbox="150.357,347.238,167.440,375.198" colourspace="Pattern" ncolour="1" size="27.960">T</text>
+<text font="ArialMT" bbox="166.853,347.238,174.626,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="174.738,347.238,190.284,375.198" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="190.284,347.238,199.594,375.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="199.678,347.238,215.224,375.198" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="215.224,347.238,221.431,375.198" colourspace="Pattern" ncolour="1" size="27.960">j</text>
+<text font="ArialMT" bbox="221.487,347.238,237.033,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="237.033,347.238,251.013,375.198" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="251.097,347.238,258.870,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="258.870,347.238,266.642,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="266.642,347.238,274.415,375.198" colourspace="Pattern" ncolour="1" size="27.960">f</text>
+<text font="ArialMT" bbox="274.415,347.238,289.961,375.198" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="290.073,347.238,305.619,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="305.619,347.238,321.164,375.198" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="321.248,347.238,327.455,375.198" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="327.455,347.238,343.001,375.198" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="343.057,347.238,358.603,375.198" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="358.603,347.238,366.376,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="366.376,347.238,380.356,375.198" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="380.468,347.238,396.013,375.198" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="396.013,347.238,411.559,375.198" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="411.643,347.238,427.189,375.198" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="427.189,347.238,442.734,375.198" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="442.818,347.238,452.129,375.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="452.129,347.238,459.902,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="459.902,347.238,467.675,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="467.759,347.238,475.532,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="475.532,347.238,491.077,375.198" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="491.077,347.238,500.388,375.198" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="500.500,347.238,516.046,375.198" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="516.046,347.238,531.591,375.198" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="531.675,347.238,547.221,375.198" colourspace="Pattern" ncolour="1" size="27.960">g</text>
+<text font="ArialMT" bbox="547.221,347.238,562.767,375.198" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="562.851,347.238,570.624,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="570.624,347.238,578.396,375.198" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="578.396,347.238,593.942,375.198" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="594.026,347.238,609.572,375.198" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="609.572,347.238,617.345,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="617.345,347.238,637.532,375.198" colourspace="Pattern" ncolour="1" size="27.960">N</text>
+<text font="ArialMT" bbox="637.532,347.238,663.926,375.198" colourspace="Pattern" ncolour="1" size="27.960">W</text>
+<text font="ArialMT" bbox="663.926,347.238,682.575,375.198" colourspace="Pattern" ncolour="1" size="27.960">S</text>
+<text font="ArialMT" bbox="682.575,347.238,690.348,375.198" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+<textline bbox="94.968,313.638,691.243,341.598" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Aviation Initiative and the FAA Aviation Weather  </textline>
+<textline bbox="94.968,280.038,330.140,307.998" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Research Program </textline>
+</textbox>
+<textbox id="2" bbox="67.968,199.378,736.902,227.338" size="22.44">&#9899; Thanks to our partners who have contributed to the  <textline bbox="67.968,199.378,736.902,227.338">&#9899; Thanks to our partners who have contributed to the  <text font="BCDEEE+Wingdings-Regular" bbox="67.968,200.650,84.731,223.090" colourspace="Pattern" ncolour="(0.2, 0.4, 1)" size="22.440">&#9899;</text>
+<text font="ArialMT" bbox="94.968,199.378,112.052,227.338" colourspace="Pattern" ncolour="1" size="27.960">T</text>
+<text font="ArialMT" bbox="112.052,199.378,127.597,227.338" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="127.597,199.378,143.143,227.338" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="143.143,199.378,158.689,227.338" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="158.773,199.378,172.753,227.338" colourspace="Pattern" ncolour="1" size="27.960">k</text>
+<text font="ArialMT" bbox="172.753,199.378,186.733,227.338" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="186.817,199.378,194.589,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="194.589,199.378,202.362,227.338" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="202.362,199.378,217.908,227.338" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="217.992,199.378,225.765,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="225.765,199.378,241.311,227.338" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="241.311,199.378,256.856,227.338" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="256.968,199.378,266.279,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="266.279,199.378,274.052,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="274.052,199.378,289.598,227.338" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="ArialMT" bbox="289.709,199.378,305.255,227.338" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="305.255,199.378,314.566,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="314.650,199.378,322.423,227.338" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="322.423,199.378,337.968,227.338" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="337.968,199.378,353.514,227.338" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="353.626,199.378,362.937,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="362.937,199.378,376.917,227.338" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="ArialMT" bbox="377.001,199.378,384.773,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="384.773,199.378,404.961,227.338" colourspace="Pattern" ncolour="1" size="27.960">w</text>
+<text font="ArialMT" bbox="404.961,199.378,420.506,227.338" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="420.506,199.378,436.052,227.338" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="436.136,199.378,443.909,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="443.909,199.378,459.455,227.338" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="459.455,199.378,475.000,227.338" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="ArialMT" bbox="475.112,199.378,489.092,227.338" colourspace="Pattern" ncolour="1" size="27.960">v</text>
+<text font="ArialMT" bbox="489.092,199.378,504.638,227.338" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="504.722,199.378,512.495,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="512.495,199.378,526.475,227.338" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="ArialMT" bbox="526.531,199.378,542.076,227.338" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="542.076,199.378,557.622,227.338" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="ArialMT" bbox="557.706,199.378,565.479,227.338" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="565.479,199.378,574.790,227.338" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="ArialMT" bbox="574.790,199.378,580.997,227.338" colourspace="Pattern" ncolour="1" size="27.960">i</text>
+<text font="ArialMT" bbox="581.081,199.378,596.626,227.338" colourspace="Pattern" ncolour="1" size="27.960">b</text>
+<text font="ArialMT" bbox="596.626,199.378,612.172,227.338" colourspace="Pattern" ncolour="1" size="27.960">u</text>
+<text font="ArialMT" bbox="612.256,199.378,620.029,227.338" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="620.029,199.378,635.575,227.338" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="635.575,199.378,651.120,227.338" colourspace="Pattern" ncolour="1" size="27.960">d</text>
+<text font="ArialMT" bbox="651.232,199.378,659.005,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="659.005,199.378,666.778,227.338" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="666.778,199.378,682.324,227.338" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="ArialMT" bbox="682.408,199.378,690.180,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="ArialMT" bbox="690.180,199.378,697.953,227.338" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="ArialMT" bbox="697.953,199.378,713.499,227.338" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="ArialMT" bbox="713.583,199.378,729.129,227.338" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="ArialMT" bbox="729.129,199.378,736.902,227.338" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+</textline>
+</textbox>
+<textbox id="3" bbox="94.968,165.778,413.600,193.738" size="27.96">development of the VACT <textline bbox="94.968,165.778,413.600,193.738" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">development of the VACT </textline>
+</textbox>
+<textbox id="4" bbox="91.224,26.553,207.816,36.513" size="9.96">Forecast Systems Laboratory <textline bbox="91.224,26.553,207.816,36.513" font="TimesNewRomanPSMT" ncolour="1" size="9.960" colourspace="Pattern">Forecast Systems Laboratory </textline>
+</textbox>
+<textbox id="5" bbox="312.220,20.553,485.923,30.513" size="9.96">National Weather Service  - Alaska Region <textline bbox="312.220,20.553,485.923,30.513" font="TimesNewRomanPSMT" ncolour="1" size="9.960" colourspace="Pattern">National Weather Service  - Alaska Region </textline>
+</textbox>
+<textbox id="6" bbox="559.270,20.553,710.934,30.513" size="9.96">USGS &#8211; Alaska Volcano Observatory <textline bbox="559.270,20.553,710.934,30.513" font="TimesNewRomanPSMT" ncolour="1" size="9.960" colourspace="Pattern">USGS &#8211; Alaska Volcano Observatory </textline>
+</textbox>
+<textbox id="7" bbox="727.900,21.711,742.000,35.751" size="14.04">13 <textline bbox="727.900,21.711,742.000,35.751" font="TimesNewRomanPSMT" ncolour="1" size="14.040" colourspace="Pattern">13 </textline>
+</textbox>
+<figure name="Image159" bbox="582.000,35.760,683.640,138.000" src="Image159.166x167.bmp" width="101" height="102">
+</figure>
+<figure name="Image160" bbox="342.000,34.440,455.040,138.000" src="Image160.jpg" width="113" height="103">
+</figure>
+<figure name="Image40" bbox="96.000,38.880,204.000,138.000" src="Image40.0.jpg" width="108" height="99">
+</figure>
+</page>
+</pages>

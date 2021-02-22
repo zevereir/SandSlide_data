@@ -1,0 +1,646 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="85.632,262.237,634.399,359.082" size="44.052">CPRS Tab-by-Tab Training 
+Introduction <textline bbox="85.632,315.042,634.399,359.082" font="Arial-BoldMT" ncolour="0" size="44.040" colourspace="DeviceGray">CPRS Tab-by-Tab Training </textline>
+<textline bbox="231.700,262.237,488.461,306.301" font="Arial-BoldMT" ncolour="0" size="44.064" colourspace="DeviceGray">Introduction </textline>
+</textbox>
+<textbox id="1" bbox="76.992,160.122,619.109,230.562" size="32.04">Dr. Neil Evans, Washington DC VAMC 
+Rick Hines, OIFO Salt Lake City <textline bbox="76.992,198.522,619.109,230.562" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Dr. Neil Evans, Washington DC VAMC </textline>
+<textline bbox="120.550,160.122,575.390,192.162" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Rick Hines, OIFO Salt Lake City </textline>
+</textbox>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,469.800,701.280,517.800" size="48.0">Interesting Coincidence: 2006  <textline bbox="7.200,469.800,701.280,517.800" font="Arial-BoldMT" ncolour="0" size="48.000" colourspace="Pattern">Interesting Coincidence: 2006  </textline>
+</textbox>
+<textbox id="1" bbox="128.180,41.192,584.068,69.152" size="27.96">Rachel Evans          Jeannie Hines  <textline bbox="128.180,41.192,584.068,69.152" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="Pattern">Rachel Evans          Jeannie Hines  </textline>
+</textbox>
+<figure name="Image15" bbox="72.000,102.000,326.040,456.000" src="Image15.jpg" width="254" height="354">
+</figure>
+<figure name="Image16" bbox="342.000,108.000,607.560,462.000" src="Image16.jpg" width="265" height="354">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="98.592,461.020,591.408,509.020" size="48.0">Wives and Twins: 2009 <textline bbox="98.592,461.020,591.408,509.020" font="ArialMT" ncolour="0" size="48.000" colourspace="Pattern">Wives and Twins: 2009 </textline>
+</textbox>
+<figure name="Image21" bbox="24.000,96.000,321.480,402.000" src="Image21.jpg" width="297" height="306">
+</figure>
+<figure name="Image22" bbox="336.000,120.000,708.000,382.440" src="Image22.jpg" width="372" height="262">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="43.200,381.940,51.600,405.940" size="24.0">&#8226; <textline bbox="43.200,381.940,51.600,405.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="1" bbox="70.224,255.185,645.528,520.819" size="29.149714285714285">CPRS Tab by Tab 
+Presentation Outline 
+Introduction of the Veteran&#8217;s Administrations  
+Computerized Patient Record System Graphical User  
+Interface 
+&#8211; CPRS GUI 
+&#8211; CCOW overview <textline bbox="200.620,484.795,483.480,520.819" font="ArialMT" ncolour="0" size="36.024" colourspace="DeviceGray">CPRS Tab by Tab </textline>
+<textline bbox="124.390,427.420,559.606,475.420" font="ArialMT" ncolour="0" size="48.000" colourspace="DeviceGray">Presentation Outline </textline>
+<textline bbox="70.224,381.940,544.680,405.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Introduction of the Veteran&#8217;s Administrations  </textline>
+<textline bbox="70.224,353.110,645.528,377.110">Computerized Patient Record System Graphical User  <text font="Arial-BoldMT" bbox="70.224,353.110,87.552,377.110" colourspace="DeviceGray" ncolour="(0.741, 0.549, 0)" size="24.000">C</text>
+<text font="ArialMT" bbox="87.504,353.110,100.848,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="100.848,353.110,120.840,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="120.840,353.110,134.184,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="ArialMT" bbox="134.184,353.110,147.528,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="ArialMT" bbox="147.528,353.110,154.200,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="154.200,353.110,167.544,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="167.544,353.110,175.536,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="175.536,353.110,180.864,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="180.864,353.110,192.864,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">z</text>
+<text font="ArialMT" bbox="192.864,353.110,206.208,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="206.208,353.110,219.552,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="ArialMT" bbox="219.552,353.110,226.224,377.110" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="226.490,353.110,242.498,377.110" colourspace="DeviceGray" ncolour="(0.741, 0.549, 0)" size="24.000">P</text>
+<text font="ArialMT" bbox="242.450,353.110,255.794,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="255.794,353.110,262.466,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="262.466,353.110,267.794,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="267.794,353.110,281.138,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="281.138,353.110,294.482,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="ArialMT" bbox="294.482,353.110,301.154,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="301.154,353.110,307.826,377.110" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="307.850,353.110,325.178,377.110" colourspace="DeviceGray" ncolour="(0.741, 0.549, 0)" size="24.000">R</text>
+<text font="ArialMT" bbox="325.150,353.110,338.494,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="338.494,353.110,350.494,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="350.494,353.110,363.838,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="363.838,353.110,371.830,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="371.830,353.110,385.174,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="ArialMT" bbox="385.174,353.110,391.846,377.110" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="391.990,353.110,407.998,377.110" colourspace="DeviceGray" ncolour="(0.741, 0.549, 0)" size="24.000">S</text>
+<text font="ArialMT" bbox="407.950,353.110,419.950,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">y</text>
+<text font="ArialMT" bbox="419.950,353.110,431.950,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="431.950,353.110,438.622,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="438.622,353.110,451.966,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="451.966,353.110,471.958,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="472.006,353.110,478.678,377.110" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="478.660,353.110,497.332,377.110" colourspace="DeviceGray" ncolour="(0.741, 0.549, 0)" size="24.000">G</text>
+<text font="ArialMT" bbox="497.380,353.110,505.372,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="505.372,353.110,518.716,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="518.716,353.110,532.060,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="ArialMT" bbox="532.060,353.110,545.404,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="ArialMT" bbox="545.404,353.110,550.732,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="550.660,353.110,562.660,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="562.660,353.110,576.004,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="576.004,353.110,581.332,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="ArialMT" bbox="581.332,353.110,588.004,377.110" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="588.240,353.110,605.568,377.110" colourspace="DeviceGray" ncolour="(0.741, 0.549, 0)" size="24.000">U</text>
+<text font="ArialMT" bbox="605.520,353.110,617.520,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="617.520,353.110,630.864,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="630.864,353.110,638.856,377.110" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="638.856,353.110,645.528,377.110" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+<textline bbox="70.224,324.310,163.728,348.310">Interface <text font="Arial-BoldMT" bbox="70.224,324.310,76.896,348.310" colourspace="DeviceGray" ncolour="(0.741, 0.549, 0)" size="24.000">I</text>
+<text font="ArialMT" bbox="76.944,324.310,90.288,348.310" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="ArialMT" bbox="90.288,324.310,96.960,348.310" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="96.960,324.310,110.304,348.310" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="110.304,324.310,118.296,348.310" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="118.296,324.310,124.968,348.310" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="ArialMT" bbox="125.040,324.310,138.384,348.310" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="138.384,324.310,150.384,348.310" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="150.384,324.310,163.728,348.310" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+</textline>
+<textline bbox="79.224,289.750,217.748,313.750">&#8211; CPRS GUI <text font="ArialMT" bbox="79.224,289.750,92.568,313.750" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="Arial-BoldMT" bbox="101.780,289.750,119.108,313.750" colourspace="DeviceGray" ncolour="0" size="24.000">C</text>
+<text font="Arial-BoldMT" bbox="119.108,289.750,135.116,313.750" colourspace="DeviceGray" ncolour="0" size="24.000">P</text>
+<text font="Arial-BoldMT" bbox="135.020,289.750,152.348,313.750" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="Arial-BoldMT" bbox="152.348,289.750,168.356,313.750" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="Arial-BoldMT" bbox="168.260,289.750,174.932,313.750" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-BoldMT" bbox="175.076,289.750,193.748,313.750" colourspace="DeviceGray" ncolour="0" size="24.000">G</text>
+<text font="Arial-BoldMT" bbox="193.748,289.750,211.076,313.750" colourspace="DeviceGray" ncolour="0" size="24.000">U</text>
+<text font="Arial-BoldMT" bbox="211.076,289.750,217.748,313.750" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+</textline>
+<textline bbox="79.224,255.185,287.221,279.209">&#8211; CCOW overview <text font="ArialMT" bbox="79.224,255.185,92.581,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">&#8211;</text>
+<text font="Arial-BoldMT" bbox="101.780,255.185,119.125,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">C</text>
+<text font="Arial-BoldMT" bbox="119.125,255.185,136.471,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">C</text>
+<text font="Arial-BoldMT" bbox="136.351,255.185,155.041,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">O</text>
+<text font="Arial-BoldMT" bbox="155.041,255.185,177.720,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">W</text>
+<text font="Arial-BoldMT" bbox="177.720,255.185,184.399,279.209" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="Arial-BoldMT" bbox="184.399,255.185,199.077,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">o</text>
+<text font="Arial-BoldMT" bbox="199.077,255.185,212.435,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">v</text>
+<text font="Arial-BoldMT" bbox="212.435,255.185,225.792,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="Arial-BoldMT" bbox="225.792,255.185,235.137,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">r</text>
+<text font="Arial-BoldMT" bbox="235.137,255.185,248.495,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">v</text>
+<text font="Arial-BoldMT" bbox="248.495,255.185,255.173,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">i</text>
+<text font="Arial-BoldMT" bbox="255.173,255.185,268.531,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="Arial-BoldMT" bbox="268.531,255.185,287.221,279.209" colourspace="DeviceGray" ncolour="0" size="24.024">w</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="43.200,220.610,660.936,244.610" size="24.0">&#8226; Hands On Interactive Web Based experience using the  <textline bbox="43.200,220.610,660.936,244.610" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Hands On Interactive Web Based experience using the  </textline>
+</textbox>
+<textbox id="3" bbox="70.224,191.810,340.536,215.810" size="24.0">CPRS Chart &#8220;Tab by Tab&#8221; <textline bbox="70.224,191.810,340.536,215.810" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">CPRS Chart &#8220;Tab by Tab&#8221; </textline>
+</textbox>
+<textbox id="4" bbox="43.200,122.685,513.528,181.250" size="24.016000000000002">&#8226; Customizing CPRS and Tips/Time Savers 
+IMed Consent and Vista Imaging Display  
+&#8226; <textline bbox="43.200,157.250,513.528,181.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Customizing CPRS and Tips/Time Savers </textline>
+<textline bbox="70.224,122.685,509.983,146.709" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">IMed Consent and Vista Imaging Display  </textline>
+<textline bbox="43.200,122.685,51.608,146.709" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="171.790,451.292,524.286,495.332" size="44.04">CPRS: What is it? <textline bbox="171.790,451.292,524.286,495.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">CPRS: What is it? </textline>
+</textbox>
+<textbox id="1" bbox="43.200,383.983,672.971,411.967" size="27.984">&#8226; Integrated EMR for clinicians, managers, quality  <textline bbox="43.200,383.983,672.971,411.967" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Integrated EMR for clinicians, managers, quality  </textline>
+</textbox>
+<textbox id="2" bbox="70.224,328.150,546.068,385.087" size="25.992">assurance staff, and researchers 
+&#8211; Graphical User Interface released in 1997 <textline bbox="70.224,357.103,478.155,385.087" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">assurance staff, and researchers </textline>
+<textline bbox="79.224,328.150,546.068,352.150" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Graphical User Interface released in 1997 </textline>
+</textbox>
+<textbox id="3" bbox="43.200,271.638,551.662,299.598" size="27.96">&#8226; Fast and easy-to-use system providing <textline bbox="43.200,271.638,551.662,299.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Fast and easy-to-use system providing </textline>
+</textbox>
+<textbox id="4" bbox="70.224,158.210,583.196,272.737" size="24.996000000000002">information through: 
+&#8211; clinical reminders 
+&#8211; results reporting 
+&#8211; expert system feedback through notifications  <textline bbox="70.224,244.753,319.561,272.737" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">information through: </textline>
+<textline bbox="79.224,215.810,287.252,239.810" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; clinical reminders </textline>
+<textline bbox="79.224,187.010,273.836,211.010" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; results reporting </textline>
+<textline bbox="79.224,158.210,583.196,182.210" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; expert system feedback through notifications  </textline>
+</textbox>
+<textbox id="5" bbox="101.780,135.165,285.852,159.189" size="24.024">and order checks <textline bbox="101.780,135.165,285.852,159.189" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">and order checks </textline>
+</textbox>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="120.190,463.292,587.631,507.332" size="44.04">A Truly Integrated EMR! <textline bbox="120.190,463.292,587.631,507.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">A Truly Integrated EMR! </textline>
+</textbox>
+<textbox id="1" bbox="73.224,129.293,293.254,399.247" size="27.97028571428572">&#8226; Progress Notes 
+&#8226; Problem List 
+&#8226; Vitals 
+&#8226; Pharmacy 
+&#8226; Lab 
+&#8226; Radiology 
+&#8226; Clinical Images <textline bbox="73.224,371.263,293.254,399.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Progress Notes </textline>
+<textline bbox="73.224,330.918,255.901,358.878" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Problem List </textline>
+<textline bbox="73.224,290.598,168.135,318.558" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Vitals </textline>
+<textline bbox="73.224,250.273,226.260,278.257" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Pharmacy </textline>
+<textline bbox="73.224,209.938,146.966,237.898" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Lab </textline>
+<textline bbox="73.224,169.618,224.754,197.578" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Radiology </textline>
+<textline bbox="73.224,129.293,290.287,157.277" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Clinical Images </textline>
+</textbox>
+<textbox id="2" bbox="343.270,129.293,669.330,399.247" size="27.97028571428572">&#8226; Surgery Reports 
+&#8226; Allergy Tracking 
+&#8226; Consults 
+&#8226; Dietetics 
+&#8226; Patient Administration 
+&#8226; Patient Care Encounter  
+&#8226; Clinical Lexicon <textline bbox="343.270,371.263,574.217,399.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Surgery Reports </textline>
+<textline bbox="343.270,330.918,569.513,358.878" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Allergy Tracking </textline>
+<textline bbox="343.270,290.598,479.202,318.558" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Consults </textline>
+<textline bbox="343.270,250.273,477.673,278.257" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Dietetics </textline>
+<textline bbox="343.270,209.938,641.146,237.898" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Patient Administration </textline>
+<textline bbox="343.270,169.618,669.330,197.578" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Patient Care Encounter  </textline>
+<textline bbox="343.270,129.293,565.123,157.277" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Clinical Lexicon </textline>
+</textbox>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="55.152,474.708,646.680,514.668" size="39.96">CPRS Success = Dedicated Staff <textline bbox="55.152,474.708,646.680,514.668" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">CPRS Success = Dedicated Staff </textline>
+</textbox>
+<textbox id="1" bbox="43.200,373.663,582.479,438.588" size="27.972">&#8226; System Design and Development Staff 
+&#8226; Subject Matter Expert Groups <textline bbox="43.200,410.628,582.479,438.588">&#8226; System Design and Development Staff <text font="ArialMT" bbox="43.200,410.628,52.986,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="Arial-BoldMT" bbox="70.224,410.628,88.873,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">S</text>
+<text font="Arial-BoldMT" bbox="88.873,410.628,104.419,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">y</text>
+<text font="Arial-BoldMT" bbox="104.056,410.628,119.601,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="Arial-BoldMT" bbox="119.601,410.628,128.912,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="128.996,410.628,144.542,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="144.542,410.628,169.398,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="Arial-BoldMT" bbox="169.398,410.628,177.171,438.588" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="177.674,410.628,197.861,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">D</text>
+<text font="Arial-BoldMT" bbox="197.861,410.628,213.407,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="213.407,410.628,228.953,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="Arial-BoldMT" bbox="228.953,410.628,236.726,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="236.810,410.628,253.893,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">g</text>
+<text font="Arial-BoldMT" bbox="253.893,410.628,270.977,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="270.893,410.628,278.666,438.588" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="278.917,410.628,294.463,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="294.463,410.628,311.547,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="311.547,410.628,328.630,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="Arial-BoldMT" bbox="328.630,410.628,336.403,438.588" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="336.487,410.628,356.674,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">D</text>
+<text font="Arial-BoldMT" bbox="356.674,410.628,372.220,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="372.220,410.628,387.766,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">v</text>
+<text font="Arial-BoldMT" bbox="387.766,410.628,403.311,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="403.423,410.628,411.196,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="Arial-BoldMT" bbox="411.196,410.628,428.280,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="428.280,410.628,445.363,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="Arial-BoldMT" bbox="445.363,410.628,470.220,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="Arial-BoldMT" bbox="470.220,410.628,485.766,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="485.766,410.628,502.849,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="502.849,410.628,512.160,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="512.160,410.628,519.933,438.588" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="520.268,410.628,538.917,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">S</text>
+<text font="Arial-BoldMT" bbox="538.917,410.628,548.228,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="548.228,410.628,563.774,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="563.774,410.628,573.085,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">f</text>
+<text font="Arial-BoldMT" bbox="573.168,410.628,582.479,438.588" colourspace="DeviceGray" ncolour="0" size="27.960">f</text>
+</textline>
+<textline bbox="43.200,373.663,465.498,401.647">&#8226; Subject Matter Expert Groups <text font="ArialMT" bbox="43.200,373.663,52.994,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">&#8226;</text>
+<text font="Arial-BoldMT" bbox="70.224,373.663,88.889,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">S</text>
+<text font="Arial-BoldMT" bbox="88.889,373.663,105.988,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">u</text>
+<text font="Arial-BoldMT" bbox="105.876,373.663,122.974,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">b</text>
+<text font="Arial-BoldMT" bbox="122.974,373.663,130.753,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">j</text>
+<text font="Arial-BoldMT" bbox="130.753,373.663,146.312,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="Arial-BoldMT" bbox="146.312,373.663,161.872,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="Arial-BoldMT" bbox="161.872,373.663,171.190,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="Arial-BoldMT" bbox="171.246,373.663,179.026,401.647" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="179.138,373.663,202.448,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">M</text>
+<text font="Arial-BoldMT" bbox="202.448,373.663,218.008,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="Arial-BoldMT" bbox="218.008,373.663,227.326,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="Arial-BoldMT" bbox="227.326,373.663,236.645,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="Arial-BoldMT" bbox="236.701,373.663,252.260,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="Arial-BoldMT" bbox="252.260,373.663,263.146,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="Arial-BoldMT" bbox="263.146,373.663,270.925,401.647" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="271.121,373.663,289.786,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">E</text>
+<text font="Arial-BoldMT" bbox="289.786,373.663,305.346,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">x</text>
+<text font="Arial-BoldMT" bbox="305.346,373.663,322.444,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">p</text>
+<text font="Arial-BoldMT" bbox="322.444,373.663,338.003,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="Arial-BoldMT" bbox="338.003,373.663,348.889,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="Arial-BoldMT" bbox="348.889,373.663,358.207,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="Arial-BoldMT" bbox="358.207,373.663,365.987,401.647" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="366.127,373.663,387.898,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">G</text>
+<text font="Arial-BoldMT" bbox="387.898,373.663,398.784,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="Arial-BoldMT" bbox="398.784,373.663,415.882,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="415.882,373.663,432.981,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">u</text>
+<text font="Arial-BoldMT" bbox="432.841,373.663,449.939,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">p</text>
+<text font="Arial-BoldMT" bbox="449.939,373.663,465.498,401.647" colourspace="DeviceGray" ncolour="0" size="27.984">s</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="79.224,341.830,570.188,365.830" size="24.0">&#8211; providing feedback for product improvement <textline bbox="79.224,341.830,570.188,365.830" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; providing feedback for product improvement </textline>
+</textbox>
+<textbox id="3" bbox="43.200,236.338,505.813,332.958" size="26.64">&#8226; VA Medical Center Test Sites 
+&#8211; testing, testing and more testing! 
+&#8226; Front line Patient Care Providers <textline bbox="43.200,304.998,451.011,332.958">&#8226; VA Medical Center Test Sites <text font="ArialMT" bbox="43.200,304.998,52.986,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="Arial-BoldMT" bbox="70.224,304.998,88.873,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">V</text>
+<text font="Arial-BoldMT" bbox="86.776,304.998,106.963,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">A</text>
+<text font="Arial-BoldMT" bbox="105.845,304.998,113.618,332.958" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="113.730,304.998,137.020,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">M</text>
+<text font="Arial-BoldMT" bbox="137.020,304.998,152.566,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="152.566,304.998,169.650,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="Arial-BoldMT" bbox="169.650,304.998,177.423,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="177.423,304.998,192.968,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="Arial-BoldMT" bbox="192.968,304.998,208.514,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="208.626,304.998,216.399,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="Arial-BoldMT" bbox="216.399,304.998,224.172,332.958" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="224.172,304.998,244.359,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">C</text>
+<text font="Arial-BoldMT" bbox="244.359,304.998,259.905,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="259.905,304.998,276.988,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="276.988,304.998,286.299,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="286.355,304.998,301.901,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="301.901,304.998,312.777,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="312.833,304.998,320.606,332.958" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="320.857,304.998,337.941,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">T</text>
+<text font="Arial-BoldMT" bbox="335.844,304.998,351.390,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="351.390,304.998,366.936,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="Arial-BoldMT" bbox="367.019,304.998,376.330,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="376.330,304.998,384.103,332.958" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="384.103,304.998,402.752,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">S</text>
+<text font="Arial-BoldMT" bbox="402.752,304.998,410.525,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="410.525,304.998,419.836,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="419.920,304.998,435.465,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="435.465,304.998,451.011,332.958" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+</textline>
+<textline bbox="79.224,273.190,448.652,297.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; testing, testing and more testing! </textline>
+<textline bbox="43.200,236.338,505.813,264.298">&#8226; Front line Patient Care Providers <text font="ArialMT" bbox="43.200,236.338,52.986,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="Arial-BoldMT" bbox="70.224,236.338,87.308,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">F</text>
+<text font="Arial-BoldMT" bbox="87.308,236.338,98.184,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="98.184,236.338,115.268,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="115.268,236.338,132.351,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="132.267,236.338,141.578,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="141.578,236.338,149.351,264.298" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="149.519,236.338,157.291,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="Arial-BoldMT" bbox="157.291,236.338,165.064,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="165.064,236.338,182.148,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="182.148,236.338,197.694,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="197.694,236.338,205.467,264.298" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="205.522,236.338,224.172,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">P</text>
+<text font="Arial-BoldMT" bbox="224.172,236.338,239.718,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="239.718,236.338,249.028,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="249.028,236.338,256.801,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="256.801,236.338,272.347,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="272.459,236.338,289.542,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="289.542,236.338,298.853,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="298.853,236.338,306.626,264.298" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="306.738,236.338,326.925,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">C</text>
+<text font="Arial-BoldMT" bbox="326.925,236.338,342.471,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="342.471,236.338,353.347,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="353.347,236.338,368.893,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="368.977,236.338,376.749,264.298" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="376.749,236.338,395.399,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">P</text>
+<text font="Arial-BoldMT" bbox="395.399,236.338,406.275,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="406.275,236.338,423.359,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="423.359,236.338,438.905,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">v</text>
+<text font="Arial-BoldMT" bbox="438.905,236.338,446.677,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="446.677,236.338,463.761,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="Arial-BoldMT" bbox="463.761,236.338,479.307,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="479.307,236.338,490.183,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="490.267,236.338,505.813,264.298" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="79.224,204.530,306.068,228.530" size="24.0">&#8211; Providing feedback <textline bbox="79.224,204.530,306.068,228.530" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Providing feedback </textline>
+</textbox>
+<textbox id="5" bbox="43.200,167.698,585.303,195.658" size="27.96">&#8226; National Training and Education Office <textline bbox="43.200,167.698,585.303,195.658">&#8226; National Training and Education Office <text font="ArialMT" bbox="43.200,167.698,52.986,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="Arial-BoldMT" bbox="70.224,167.698,90.411,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">N</text>
+<text font="Arial-BoldMT" bbox="90.411,167.698,105.957,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="105.957,167.698,115.268,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="115.268,167.698,123.040,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="123.124,167.698,140.208,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="140.208,167.698,157.291,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="157.208,167.698,172.753,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="172.753,167.698,180.526,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="Arial-BoldMT" bbox="180.526,167.698,188.299,195.658" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="188.495,167.698,205.578,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">T</text>
+<text font="Arial-BoldMT" bbox="203.985,167.698,214.861,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="214.861,167.698,230.407,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="230.463,167.698,238.236,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="238.236,167.698,255.319,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="255.319,167.698,263.092,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="263.092,167.698,280.176,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="280.176,167.698,297.259,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">g</text>
+<text font="Arial-BoldMT" bbox="297.259,167.698,305.032,195.658" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="305.200,167.698,320.746,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="320.746,167.698,337.829,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="337.829,167.698,354.913,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="Arial-BoldMT" bbox="354.913,167.698,362.686,195.658" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="362.769,167.698,381.419,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">E</text>
+<text font="Arial-BoldMT" bbox="381.419,167.698,398.502,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="Arial-BoldMT" bbox="398.418,167.698,415.502,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="Arial-BoldMT" bbox="415.502,167.698,431.048,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="Arial-BoldMT" bbox="431.048,167.698,446.594,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="446.594,167.698,455.904,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="455.988,167.698,463.761,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="463.761,167.698,480.845,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="480.845,167.698,497.928,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="497.928,167.698,505.701,195.658" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="506.009,167.698,527.761,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">O</text>
+<text font="Arial-BoldMT" bbox="527.761,167.698,537.072,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">f</text>
+<text font="Arial-BoldMT" bbox="537.072,167.698,546.383,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">f</text>
+<text font="Arial-BoldMT" bbox="546.383,167.698,554.156,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="554.212,167.698,569.757,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="Arial-BoldMT" bbox="569.757,167.698,585.303,195.658" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+</textline>
+</textbox>
+<textbox id="6" bbox="79.224,135.885,673.888,159.909" size="24.024">&#8211; VeHU Conference, Web Based Training, Live Meeting <textline bbox="79.224,135.885,673.888,159.909" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; VeHU Conference, Web Based Training, Live Meeting </textline>
+</textbox>
+<textbox id="7" bbox="43.200,99.028,645.557,126.988" size="27.96">&#8226; National Support &amp; Troubleshooting Teams <textline bbox="43.200,99.028,645.557,126.988">&#8226; National Support &amp; Troubleshooting Teams <text font="ArialMT" bbox="43.200,99.028,52.986,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="Arial-BoldMT" bbox="70.224,99.028,90.411,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">N</text>
+<text font="Arial-BoldMT" bbox="90.411,99.028,105.957,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="105.957,99.028,115.268,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="115.268,99.028,123.040,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="123.124,99.028,140.208,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="140.208,99.028,157.291,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="157.208,99.028,172.753,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="172.753,99.028,180.526,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="Arial-BoldMT" bbox="180.526,99.028,188.299,126.988" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="188.495,99.028,207.144,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">S</text>
+<text font="Arial-BoldMT" bbox="207.144,99.028,224.228,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="Arial-BoldMT" bbox="224.144,99.028,241.227,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="Arial-BoldMT" bbox="241.227,99.028,258.311,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="Arial-BoldMT" bbox="258.227,99.028,275.311,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="275.311,99.028,286.187,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="286.187,99.028,295.498,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="295.498,99.028,303.271,126.988" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="303.690,99.028,323.877,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">&amp;</text>
+<text font="Arial-BoldMT" bbox="323.877,99.028,331.650,126.988" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="331.650,99.028,348.734,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">T</text>
+<text font="Arial-BoldMT" bbox="347.140,99.028,358.016,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="358.016,99.028,375.100,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="375.100,99.028,392.183,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="Arial-BoldMT" bbox="392.183,99.028,409.267,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">b</text>
+<text font="Arial-BoldMT" bbox="409.183,99.028,416.956,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="Arial-BoldMT" bbox="416.956,99.028,432.502,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="432.502,99.028,448.047,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="Arial-BoldMT" bbox="448.159,99.028,465.243,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">h</text>
+<text font="Arial-BoldMT" bbox="465.243,99.028,482.326,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="482.243,99.028,499.326,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="499.326,99.028,508.637,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="508.637,99.028,516.410,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="Arial-BoldMT" bbox="516.410,99.028,533.493,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="Arial-BoldMT" bbox="533.577,99.028,550.661,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">g</text>
+<text font="Arial-BoldMT" bbox="550.661,99.028,558.434,126.988" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="558.993,99.028,576.076,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">T</text>
+<text font="Arial-BoldMT" bbox="573.979,99.028,589.525,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="589.525,99.028,605.071,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="605.155,99.028,630.011,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="Arial-BoldMT" bbox="630.011,99.028,645.557,126.988" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+</textline>
+</textbox>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="18.408,472.188,707.542,512.148" size="39.96">The Clinical Application Coordinator <textline bbox="18.408,472.188,707.542,512.148">The Clinical Application Coordinator <text font="ArialMT" bbox="18.408,472.188,42.824,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">T</text>
+<text font="ArialMT" bbox="42.824,472.188,65.041,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">h</text>
+<text font="ArialMT" bbox="65.041,472.188,87.259,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">e</text>
+<text font="ArialMT" bbox="87.259,472.188,98.368,512.148" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="Arial-BoldMT" bbox="98.472,472.188,127.323,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">C</text>
+<text font="Arial-BoldMT" bbox="127.323,472.188,138.432,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">l</text>
+<text font="Arial-BoldMT" bbox="138.432,472.188,149.541,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="Arial-BoldMT" bbox="149.541,472.188,173.956,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="Arial-BoldMT" bbox="173.956,472.188,185.065,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="Arial-BoldMT" bbox="185.065,472.188,207.283,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">c</text>
+<text font="Arial-BoldMT" bbox="207.283,472.188,229.501,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="Arial-BoldMT" bbox="229.501,472.188,240.610,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">l</text>
+<text font="Arial-BoldMT" bbox="240.610,472.188,251.719,512.148" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="Arial-BoldMT" bbox="250.280,472.188,279.131,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">A</text>
+<text font="Arial-BoldMT" bbox="279.131,472.188,303.547,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">p</text>
+<text font="Arial-BoldMT" bbox="303.547,472.188,327.962,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">p</text>
+<text font="Arial-BoldMT" bbox="327.802,472.188,338.911,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">l</text>
+<text font="Arial-BoldMT" bbox="338.911,472.188,350.020,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="Arial-BoldMT" bbox="350.020,472.188,372.238,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">c</text>
+<text font="Arial-BoldMT" bbox="372.238,472.188,394.456,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="Arial-BoldMT" bbox="394.456,472.188,407.762,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="Arial-BoldMT" bbox="407.762,472.188,418.871,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="Arial-BoldMT" bbox="418.951,472.188,443.367,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="Arial-BoldMT" bbox="443.367,472.188,467.782,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="Arial-BoldMT" bbox="467.782,472.188,478.891,512.148" colourspace="DeviceGray" ncolour="0" size="39.960"> </text>
+<text font="Arial-BoldMT" bbox="479.051,472.188,507.902,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">C</text>
+<text font="Arial-BoldMT" bbox="507.902,472.188,532.318,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="Arial-BoldMT" bbox="532.318,472.188,556.733,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="Arial-BoldMT" bbox="556.573,472.188,572.118,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+<text font="Arial-BoldMT" bbox="572.118,472.188,596.533,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">d</text>
+<text font="Arial-BoldMT" bbox="596.533,472.188,607.642,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">i</text>
+<text font="Arial-BoldMT" bbox="607.642,472.188,632.058,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">n</text>
+<text font="Arial-BoldMT" bbox="632.058,472.188,654.276,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">a</text>
+<text font="Arial-BoldMT" bbox="654.276,472.188,667.582,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">t</text>
+<text font="Arial-BoldMT" bbox="667.582,472.188,691.998,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">o</text>
+<text font="Arial-BoldMT" bbox="691.998,472.188,707.542,512.148" colourspace="DeviceGray" ncolour="0" size="39.960">r</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="43.200,406.412,361.980,438.452" size="32.04">&#8226; Local CPRS Experts <textline bbox="43.200,406.412,361.980,438.452" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Local CPRS Experts </textline>
+</textbox>
+<textbox id="2" bbox="79.224,279.430,610.152,398.519" size="24.006">&#8211; Customize CPRS to match your clinical practice 
+&#8211; Order sets to save you time 
+&#8211; Templates to assist  you in writing notes 
+&#8211; Provide endless training  <textline bbox="79.224,374.495,610.152,398.519" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Customize CPRS to match your clinical practice </textline>
+<textline bbox="79.224,342.790,395.108,366.790" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Order sets to save you time </textline>
+<textline bbox="79.224,311.110,524.612,335.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Templates to assist  you in writing notes </textline>
+<textline bbox="79.224,279.430,364.628,303.430" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Provide endless training  </textline>
+</textbox>
+<textbox id="3" bbox="43.200,237.417,557.092,269.481" size="32.064">&#8226; Multi-tasking and Troubleshooting  <textline bbox="43.200,237.417,557.092,269.481" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Multi-tasking and Troubleshooting  </textline>
+</textbox>
+<textbox id="4" bbox="70.224,202.842,175.187,234.882" size="32.04">experts <textline bbox="70.224,202.842,175.187,234.882" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">experts </textline>
+</textbox>
+<textbox id="5" bbox="43.200,118.357,402.343,192.642" size="32.052">&#8226; Develop a relationship 
+&#8226; Nurture the relationship <textline bbox="43.200,160.602,386.523,192.642" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Develop a relationship </textline>
+<textline bbox="43.200,118.357,402.343,150.421" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Nurture the relationship </textline>
+</textbox>
+<figure name="Image38" bbox="414.000,34.440,702.000,228.000" src="Image38.jpg" width="288" height="193">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="19.248,404.732,672.614,505.668" size="26.679999999999996">Electronic Medical Record Statistics* 
+Number of Items  
+per Workday <textline bbox="19.248,465.708,670.716,505.668" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">Electronic Medical Record Statistics* </textline>
+<textline bbox="509.180,428.732,672.614,448.772" font="Arial-BoldMT" ncolour="1" size="20.040" colourspace="DeviceGray">Number of Items  </textline>
+<textline bbox="527.780,404.732,648.681,424.772" font="Arial-BoldMT" ncolour="1" size="20.040" colourspace="DeviceGray">per Workday </textline>
+</textbox>
+<textbox id="1" bbox="320.160,404.732,483.564,448.772" size="20.04">Number of Items  
+per Workday <textline bbox="320.160,428.732,483.564,448.772" font="Arial-BoldMT" ncolour="1" size="20.040" colourspace="DeviceGray">Number of Items  </textline>
+<textline bbox="338.760,404.732,459.661,424.772" font="Arial-BoldMT" ncolour="1" size="20.040" colourspace="DeviceGray">per Workday </textline>
+</textbox>
+<textbox id="2" bbox="104.590,404.732,231.223,424.772" size="20.04">Data Element <textline bbox="104.590,404.732,231.223,424.772" font="Arial-BoldMT" ncolour="1" size="20.040" colourspace="DeviceGray">Data Element </textline>
+</textbox>
+<textbox id="3" bbox="376.680,356.702,421.302,376.742" size="20.04">2005 <textline bbox="376.680,356.702,421.302,376.742" font="Arial-BoldMT" ncolour="1" size="20.040" colourspace="DeviceGray">2005 </textline>
+</textbox>
+<textbox id="4" bbox="565.730,356.702,610.352,376.742" size="20.04">2009 <textline bbox="565.730,356.702,610.352,376.742" font="Arial-BoldMT" ncolour="1" size="20.040" colourspace="DeviceGray">2009 </textline>
+</textbox>
+<textbox id="5" bbox="37.200,241.722,288.441,309.762" size="20.04">Documents 
+(Progress Notes, Discharge  
+Summaries, Reports) <textline bbox="37.200,289.722,146.358,309.762" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Documents </textline>
+<textline bbox="37.200,265.722,288.441,285.762" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">(Progress Notes, Discharge  </textline>
+<textline bbox="37.200,241.722,226.197,261.762" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Summaries, Reports) </textline>
+</textbox>
+<textbox id="6" bbox="362.760,265.722,435.185,285.762" size="20.04">577,000 <textline bbox="362.760,265.722,435.185,285.762" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">577,000 </textline>
+</textbox>
+<textbox id="7" bbox="551.780,265.722,624.205,285.762" size="20.04">859,240 <textline bbox="551.780,265.722,624.205,285.762" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">859,240 </textline>
+</textbox>
+<textbox id="8" bbox="37.200,184.452,102.911,204.492" size="20.04">Orders <textline bbox="37.200,184.452,102.911,204.492" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Orders </textline>
+</textbox>
+<textbox id="9" bbox="362.760,184.452,435.185,204.492" size="20.04">906,000 <textline bbox="362.760,184.452,435.185,204.492" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">906,000 </textline>
+</textbox>
+<textbox id="10" bbox="543.500,184.452,632.638,204.492" size="20.04">1,172,563 <textline bbox="543.500,184.452,632.638,204.492" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">1,172,563 </textline>
+</textbox>
+<textbox id="11" bbox="37.200,108.572,172.630,128.612" size="20.04">Digital Images <textline bbox="37.200,108.572,172.630,128.612" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Digital Images </textline>
+</textbox>
+<textbox id="12" bbox="362.760,108.572,435.185,128.612" size="20.04">608,000 <textline bbox="362.760,108.572,435.185,128.612" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">608,000 </textline>
+</textbox>
+<textbox id="13" bbox="543.500,108.572,632.638,128.612" size="20.04">1,525,729 <textline bbox="543.500,108.572,632.638,128.612" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">1,525,729 </textline>
+</textbox>
+<textbox id="14" bbox="445.270,21.796,711.890,35.836" size="14.04">*Data source:  Office of Health Information  <textline bbox="445.270,21.796,711.890,35.836" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">*Data source:  Office of Health Information  </textline>
+</textbox>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="89.712,469.292,630.303,513.332" size="44.04">CPRS is CCOW Compliant! <textline bbox="89.712,469.292,630.303,513.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">CPRS is CCOW Compliant! </textline>
+</textbox>
+<textbox id="1" bbox="49.200,405.940,531.456,429.940" size="24.0">&#8226; CCOW: Clinical Context Object Workgroup <textline bbox="49.200,405.940,531.456,429.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; CCOW: Clinical Context Object Workgroup </textline>
+</textbox>
+<textbox id="2" bbox="85.224,336.790,662.832,395.399" size="24.012">&#8211; HL7 standard protocol  
+&#8211; Enables different applications to synchronize in real- <textline bbox="85.224,371.375,350.663,395.399" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; HL7 standard protocol  </textline>
+<textline bbox="85.224,336.790,662.832,360.790" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Enables different applications to synchronize in real- </textline>
+</textbox>
+<textbox id="3" bbox="107.780,307.990,433.244,331.990" size="24.0">time  (share the same patient!) <textline bbox="107.780,307.990,433.244,331.990" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">time  (share the same patient!) </textline>
+</textbox>
+<textbox id="4" bbox="85.224,273.430,605.660,297.430" size="24.0">&#8211; Applications operate in a unified, cohesive way <textline bbox="85.224,273.430,605.660,297.430" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Applications operate in a unified, cohesive way </textline>
+</textbox>
+<textbox id="5" bbox="49.200,238.865,560.668,262.889" size="24.024">&#8226; Different applications &#8216;share&#8217; the same patient <textline bbox="49.200,238.865,560.668,262.889" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Different applications &#8216;share&#8217; the same patient </textline>
+</textbox>
+<textbox id="6" bbox="85.224,204.290,399.740,228.290" size="24.0">&#8211; Known as &#8220;Patient Context&#8221; <textline bbox="85.224,204.290,399.740,228.290" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Known as &#8220;Patient Context&#8221; </textline>
+</textbox>
+<textbox id="7" bbox="49.200,169.730,642.334,193.730" size="24.0">&#8226; Can also provide single sign-on between applications <textline bbox="49.200,169.730,642.334,193.730" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Can also provide single sign-on between applications </textline>
+</textbox>
+<textbox id="8" bbox="85.224,135.165,375.744,159.189" size="24.024">&#8211; Known as &#8220;User Context&#8221; <textline bbox="85.224,135.165,375.744,159.189" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Known as &#8220;User Context&#8221; </textline>
+</textbox>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="95.832,421.262,636.335,518.102" size="44.04">Why is CCOW important to  
+You? <textline bbox="95.832,474.062,636.335,518.102" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Why is CCOW important to  </textline>
+<textline bbox="310.680,421.262,409.462,465.302" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">You? </textline>
+</textbox>
+<textbox id="1" bbox="43.200,381.940,599.880,405.940" size="24.0">&#8226; Don&#8217;t have to select the patient again when using  <textline bbox="43.200,381.940,599.880,405.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Don&#8217;t have to select the patient again when using  </textline>
+</textbox>
+<textbox id="2" bbox="70.224,353.110,502.152,377.110" size="24.0">different clinical applications in a session <textline bbox="70.224,353.110,502.152,377.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">different clinical applications in a session </textline>
+</textbox>
+<textbox id="3" bbox="43.200,318.550,258.168,342.550" size="24.0">&#8226; But&#8230;.  Be careful <textline bbox="43.200,318.550,258.168,342.550" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; But&#8230;.  Be careful </textline>
+</textbox>
+<textbox id="4" bbox="79.224,283.990,673.940,307.990" size="24.0">&#8211; must be aware when CPRS is and is not participating  <textline bbox="79.224,283.990,673.940,307.990" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; must be aware when CPRS is and is not participating  </textline>
+</textbox>
+<textbox id="5" bbox="79.224,220.610,650.300,244.610" size="24.0">&#8211; Careful with multiple CPRS Chart sessions open at  <textline bbox="79.224,220.610,650.300,244.610" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Careful with multiple CPRS Chart sessions open at  </textline>
+</textbox>
+<textbox id="6" bbox="101.780,255.185,291.065,279.209" size="24.024">in Patient Context <textline bbox="101.780,255.185,291.065,279.209" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">in Patient Context </textline>
+</textbox>
+<textbox id="7" bbox="101.780,191.810,259.172,215.810" size="24.0">the same time! <textline bbox="101.780,191.810,259.172,215.810" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">the same time! </textline>
+</textbox>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="43.200,350.890,643.914,513.332" size="33.51">CPRS and Patient Context 
+&#8226; You know CPRS is in patient context when  
+you see the &#8220;little blue person with a chain  
+link&#8221; icon <textline bbox="99.312,469.292,620.702,513.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">CPRS and Patient Context </textline>
+<textline bbox="43.200,422.920,643.914,452.920" font="ArialMT" ncolour="0" size="30.000" colourspace="DeviceGray">&#8226; You know CPRS is in patient context when  </textline>
+<textline bbox="70.224,386.920,636.534,416.920" font="ArialMT" ncolour="0" size="30.000" colourspace="DeviceGray">you see the &#8220;little blue person with a chain  </textline>
+<textline bbox="70.224,350.890,188.454,380.890" font="ArialMT" ncolour="0" size="30.000" colourspace="DeviceGray">link&#8221; icon </textline>
+</textbox>
+<textbox id="1" bbox="43.200,185.270,669.894,251.270" size="30.0">&#8226; CPRS is not in patient context when you see  
+the &#8220;crowd of people with a broken link&#8221; icon <textline bbox="43.200,221.270,669.894,251.270" font="ArialMT" ncolour="0" size="30.000" colourspace="DeviceGray">&#8226; CPRS is not in patient context when you see  </textline>
+<textline bbox="70.224,185.270,654.804,215.270" font="ArialMT" ncolour="0" size="30.000" colourspace="DeviceGray">the &#8220;crowd of people with a broken link&#8221; icon </textline>
+</textbox>
+<figure name="Image48" bbox="332.640,262.320,568.560,366.000" src="Image48.223x98.bmp" width="235" height="103">
+</figure>
+<figure name="Image49" bbox="294.000,54.000,610.200,168.000" src="Image49.294x106.bmp" width="316" height="114">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="70.632,450.078,649.333,490.038" size="39.96">CCOW: Take Home Message #1 <textline bbox="70.632,450.078,649.333,490.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">CCOW: Take Home Message #1 </textline>
+</textbox>
+<textbox id="1" bbox="43.200,396.572,621.120,428.612" size="32.04">&#8226; Be aware when CPRS is not in patient  <textline bbox="43.200,396.572,621.120,428.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Be aware when CPRS is not in patient  </textline>
+</textbox>
+<textbox id="2" bbox="70.224,277.398,593.317,390.231" size="29.328000000000003">context 
+&#8211; Broken link crowded people icon 
+&#8211; Applications can NOT share this patient <textline bbox="70.224,358.167,173.470,390.231" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">context </textline>
+<textline bbox="79.224,317.718,505.327,345.678" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Broken link crowded people icon </textline>
+<textline bbox="79.224,277.398,593.317,305.358" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Applications can NOT share this patient </textline>
+</textbox>
+<textbox id="3" bbox="43.200,231.402,671.487,263.442" size="32.04">&#8226; You can &#8220;Set New Context&#8221; via CPRS File  <textline bbox="43.200,231.402,671.487,263.442" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; You can &#8220;Set New Context&#8221; via CPRS File  </textline>
+</textbox>
+<textbox id="4" bbox="70.224,193.002,150.208,225.042" size="32.04">Menu <textline bbox="70.224,193.002,150.208,225.042" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Menu </textline>
+</textbox>
+<figure name="Image52" bbox="264.000,24.000,552.000,224.160" src="Image52.347x283.bmp" width="288" height="200">
+</figure>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="70.632,446.372,649.400,524.907" size="36.012">CCOW: Take Home Message #2 
+No CCOW icon is not a good thing! <textline bbox="70.632,484.923,649.400,524.907" font="ArialMT" ncolour="0" size="39.984" colourspace="DeviceGray">CCOW: Take Home Message #2 </textline>
+<textline bbox="111.310,446.372,608.891,478.412" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">No CCOW icon is not a good thing! </textline>
+</textbox>
+<textbox id="1" bbox="31.200,307.030,331.056,387.959" size="24.008">Cause:   Starting CPRS too  
+quickly after logging onto  
+the Computer <textline bbox="31.200,363.935,329.962,387.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Cause:   Starting CPRS too  </textline>
+<textline bbox="58.200,335.110,331.056,359.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">quickly after logging onto  </textline>
+<textline bbox="58.200,307.030,203.664,331.030" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">the Computer </textline>
+</textbox>
+<textbox id="2" bbox="49.200,153.778,301.536,240.050" size="24.0">Solution:   
+Exit CPRS  and start it  
+again. <textline bbox="49.200,216.050,156.048,240.050" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Solution:   </textline>
+<textline bbox="55.800,187.250,301.536,211.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Exit CPRS  and start it  </textline>
+<textline bbox="49.200,153.778,115.553,181.738">again. <text font="ArialMT" bbox="49.200,154.610,62.544,178.610" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="62.544,154.610,75.888,178.610" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="ArialMT" bbox="75.888,154.610,89.232,178.610" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="89.232,154.610,94.560,178.610" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="94.560,154.610,107.904,178.610" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="ArialMT" bbox="107.780,153.778,115.553,181.738" colourspace="DeviceGray" ncolour="0" size="27.960">.</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="49.200,86.552,201.778,114.512" size="27.96">Blue Person <textline bbox="49.200,86.552,201.778,114.512" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">Blue Person </textline>
+</textbox>
+<figure name="Image55" bbox="488.880,280.440,680.640,384.000" src="Image55.180x99.bmp" width="191" height="103">
+</figure>
+<figure name="Image48" bbox="472.080,76.320,684.000,186.000" src="Image48.0.223x98.bmp" width="211" height="109">
+</figure>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="39.288,467.980,633.036,503.980" size="36.0">Take Home Message #3: The CCOW <textline bbox="39.288,467.980,633.036,503.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Take Home Message #3: The CCOW </textline>
+</textbox>
+<textbox id="1" bbox="523.300,13.848,682.353,40.291" size="12.012">Special thanks to Denise from 
+Buffalo VAMC for this image <textline bbox="523.300,28.267,682.353,40.291" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Special thanks to Denise from </textline>
+<textline bbox="523.300,13.848,672.760,25.848" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Buffalo VAMC for this image </textline>
+</textbox>
+<figure name="Image58" bbox="180.000,9.120,498.000,462.000" src="Image58.jpg" width="318" height="452">
+</figure>
+</page>
+</pages>

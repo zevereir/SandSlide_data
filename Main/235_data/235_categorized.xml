@@ -1,0 +1,1371 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="98.232,383.111,647.196,501.916" size="54.012" unique_id="0">Databases, software, etc.  
+for X-ray astronomy <textline bbox="98.232,447.916,647.196,501.916" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Databases, software, etc.  </textline>
+<textline bbox="143.950,383.111,588.004,437.135" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.024" colourspace="DeviceGray">for X-ray astronomy </textline>
+</title>
+<normal_text id="1" bbox="208.780,100.259,511.109,224.489" size="32.04" unique_id="1">Keith Arnaud 
+NASA Goddard 
+University of Maryland <textline bbox="273.100,192.449,446.757,224.489" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="32.040" colourspace="DeviceGray">Keith Arnaud </textline>
+<textline bbox="257.140,146.369,462.805,178.409" font="BCDEEE+Times" ncolour="(0, 0.4, 0)" size="32.040" colourspace="DeviceGray">NASA Goddard </textline>
+<textline bbox="208.780,100.259,511.109,132.299" font="BCDEEE+Times" ncolour="(0, 0.4, 0)" size="32.040" colourspace="DeviceGray">University of Maryland </textline>
+</normal_text>
+<footer id="2" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="2">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[170.23, 451.516, 549.904, 505.516]">
+<title id="0" bbox="170.230,451.516,549.904,505.516" size="54.0" unique_id="0">What I will cover <textline bbox="170.230,451.516,549.904,505.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">What I will cover </textline>
+</title>
+<normal_text id="1" bbox="43.200,394.036,129.888,418.036" size="24.0" unique_id="1">Archives <textline bbox="43.200,394.036,129.888,418.036" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Archives </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,350.806,124.368,374.806" size="24.0" unique_id="2">CALDB <textline bbox="43.200,350.806,124.368,374.806" font="BCDEEE+Times" ncolour="(0, 0.4, 0)" size="24.000" colourspace="DeviceGray">CALDB </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,307.606,397.416,331.606" size="24.0" unique_id="3">Data reduction and analysis software <textline bbox="43.200,307.606,397.416,331.606" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Data reduction and analysis software </textline>
+</normal_text>
+<footer id="4" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="4">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[223.76999999999998, 451.516, 496.272, 505.516]">
+<title id="0" bbox="250.540,451.516,469.456,505.516" size="54.0" unique_id="0">Databases <textline bbox="250.540,451.516,469.456,505.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Databases </textline>
+</title>
+<normal_text id="1" bbox="55.200,382.036,167.112,406.036" size="24.0" unique_id="1">HEASARC <textline bbox="55.200,382.036,167.112,406.036" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">HEASARC </textline>
+</normal_text>
+<normal_text id="2" bbox="211.250,338.806,597.530,362.806" size="24.0" unique_id="2">heasarc.gsfc.nasa.gov/docs/archive.html <textline bbox="211.250,338.806,597.530,362.806" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">heasarc.gsfc.nasa.gov/docs/archive.html </textline>
+</normal_text>
+<normal_text id="3" bbox="55.200,295.606,270.048,319.606" size="24.0" unique_id="3">Chandra Data Archive <textline bbox="55.200,295.606,270.048,319.606" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Chandra Data Archive </textline>
+</normal_text>
+<normal_text id="4" bbox="211.250,252.401,402.073,276.425" size="24.024" unique_id="4">asc.harvard.edu/cda <textline bbox="211.250,252.401,402.073,276.425" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">asc.harvard.edu/cda </textline>
+</normal_text>
+<normal_text id="5" bbox="55.200,209.186,278.160,233.186" size="24.0" unique_id="5">XMM Science Archive <textline bbox="55.200,209.186,278.160,233.186" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">XMM Science Archive </textline>
+</normal_text>
+<normal_text id="6" bbox="211.250,165.986,431.786,189.986" size="24.0" unique_id="6">xmm.vilspa.esa.es/xsa/ <textline bbox="211.250,165.986,431.786,189.986" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">xmm.vilspa.esa.es/xsa/ </textline>
+</normal_text>
+<normal_text id="7" bbox="55.200,122.781,168.113,146.805" size="24.024" unique_id="7">Mirror sites <textline bbox="55.200,122.781,168.113,146.805" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.024" colourspace="DeviceGray">Mirror sites </textline>
+</normal_text>
+<footer id="8" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="8">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[225.875, 454.516, 488.135, 508.516]">
+<title id="0" bbox="227.980,457.516,479.998,511.516" size="54.0" unique_id="0">HEASARC <textline bbox="227.980,457.516,479.998,511.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">HEASARC </textline>
+</title>
+<normal_text id="1" bbox="31.200,342.406,683.524,424.036" size="24.008" unique_id="1">Provides access to all the publically available X- and gamma-ray  
+datasets. Also many general catalogs and datasets held at other data  
+centers (eg Chandra and XMM-Newton). <textline bbox="31.200,400.036,659.496,424.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Provides access to all the publically available X- and gamma-ray  </textline>
+<textline bbox="31.200,371.231,683.524,395.255" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">datasets. Also many general catalogs and datasets held at other data  </textline>
+<textline bbox="31.200,342.406,427.606,366.406" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">centers (eg Chandra and XMM-Newton). </textline>
+</normal_text>
+<normal_text id="2" bbox="31.200,270.406,661.824,323.206" size="24.0" unique_id="2">Powerful search engine (Browse) with a uniform interface across  
+missions. <textline bbox="31.200,299.206,661.824,323.206" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Powerful search engine (Browse) with a uniform interface across  </textline>
+<textline bbox="31.200,270.406,121.104,294.406" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">missions. </textline>
+</normal_text>
+<normal_text id="3" bbox="31.200,227.186,524.714,251.186" size="24.0" unique_id="3">Batch processing and cross-correlation capabilities. <textline bbox="31.200,227.186,524.714,251.186" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Batch processing and cross-correlation capabilities. </textline>
+</normal_text>
+<normal_text id="4" bbox="31.200,183.986,568.464,207.986" size="24.0" unique_id="4">Includes bibliographic links to datasets where available. <textline bbox="31.200,183.986,568.464,207.986" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Includes bibliographic links to datasets where available. </textline>
+</normal_text>
+<normal_text id="5" bbox="31.200,111.956,594.072,164.786" size="24.0" unique_id="5">If you haven&#8217;t used browse before read the introduction at  
+heasarc.gsfc.nasa.gov/W3Browse/w3browse-help.html <textline bbox="31.200,140.786,594.072,164.786" font="BCDFEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">If you haven&#8217;t used browse before read the introduction at  </textline>
+<textline bbox="31.200,111.956,559.132,135.956" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">heasarc.gsfc.nasa.gov/W3Browse/w3browse-help.html </textline>
+</normal_text>
+<footer id="6" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="6">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[180.529, 455.716, 531.0538, 509.716]">
+<title id="0" bbox="112.510,457.516,595.432,511.516" size="54.0" unique_id="0">Chandra Data Archive <textline bbox="112.510,457.516,595.432,511.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Chandra Data Archive </textline>
+</title>
+<normal_text id="1" bbox="43.200,371.231,635.928,424.036" size="24.012" unique_id="1">Provides access to all the Chandra datasets using an interface  
+tailored for Chandra (http://asc.harvard.edu/cda). <textline bbox="43.200,400.036,635.928,424.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Provides access to all the Chandra datasets using an interface  </textline>
+<textline bbox="43.200,371.231,513.488,395.255">tailored for Chandra (http://asc.harvard.edu/cda). <text font="BCDEEE+Times" bbox="43.200,371.231,49.879,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">t</text>
+<text font="BCDEEE+Times" bbox="49.879,371.231,60.545,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="60.545,371.231,67.224,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">i</text>
+<text font="BCDEEE+Times" bbox="67.296,371.231,73.975,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">l</text>
+<text font="BCDEEE+Times" bbox="73.975,371.231,85.987,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">o</text>
+<text font="BCDEEE+Times" bbox="85.987,371.231,93.987,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="93.987,371.231,104.653,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="BCDEEE+Times" bbox="104.653,371.231,116.665,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">d</text>
+<text font="BCDEEE+Times" bbox="116.665,371.231,122.671,395.255" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="122.263,371.231,130.263,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">f</text>
+<text font="BCDEEE+Times" bbox="130.191,371.231,142.203,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">o</text>
+<text font="BCDEEE+Times" bbox="142.203,371.231,150.203,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="150.203,371.231,156.209,395.255" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="156.329,371.231,172.353,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">C</text>
+<text font="BCDEEE+Times" bbox="172.353,371.231,184.365,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">h</text>
+<text font="BCDEEE+Times" bbox="184.293,371.231,194.960,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="194.960,371.231,206.972,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">n</text>
+<text font="BCDEEE+Times" bbox="206.972,371.231,218.984,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">d</text>
+<text font="BCDEEE+Times" bbox="218.984,371.231,226.984,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="226.984,371.231,237.650,395.255" colourspace="DeviceGray" ncolour="0" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="237.650,371.231,243.656,395.255" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="243.650,371.231,251.650,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">(</text>
+<text font="BCDEEE+Times" bbox="251.650,371.231,263.662,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">h</text>
+<text font="BCDEEE+Times" bbox="263.662,371.231,270.341,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">t</text>
+<text font="BCDEEE+Times" bbox="270.341,371.231,277.019,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">t</text>
+<text font="BCDEEE+Times" bbox="277.115,371.231,289.127,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">p</text>
+<text font="BCDEEE+Times" bbox="289.127,371.231,295.806,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">:</text>
+<text font="BCDEEE+Times" bbox="295.806,371.231,302.485,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">/</text>
+<text font="BCDEEE+Times" bbox="302.485,371.231,309.163,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">/</text>
+<text font="BCDEEE+Times" bbox="309.163,371.231,319.830,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="319.710,371.231,329.055,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">s</text>
+<text font="BCDEEE+Times" bbox="329.055,371.231,339.722,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">c</text>
+<text font="BCDEEE+Times" bbox="339.722,371.231,345.728,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">.</text>
+<text font="BCDEEE+Times" bbox="345.728,371.231,357.740,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">h</text>
+<text font="BCDEEE+Times" bbox="357.740,371.231,368.407,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="368.311,371.231,376.311,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="376.311,371.231,388.323,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">v</text>
+<text font="BCDEEE+Times" bbox="388.323,371.231,398.989,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="398.917,371.231,406.917,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="406.917,371.231,418.929,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">d</text>
+<text font="BCDEEE+Times" bbox="418.929,371.231,424.935,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">.</text>
+<text font="BCDEEE+Times" bbox="424.935,371.231,435.602,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">e</text>
+<text font="BCDEEE+Times" bbox="435.602,371.231,447.614,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">d</text>
+<text font="BCDEEE+Times" bbox="447.614,371.231,459.626,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">u</text>
+<text font="BCDEEE+Times" bbox="459.626,371.231,466.304,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">/</text>
+<text font="BCDEEE+Times" bbox="466.304,371.231,476.971,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">c</text>
+<text font="BCDEEE+Times" bbox="476.803,371.231,488.815,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">d</text>
+<text font="BCDEEE+Times" bbox="488.815,371.231,499.482,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="499.482,371.231,507.482,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">)</text>
+<text font="BCDEEE+Times" bbox="507.482,371.231,513.488,395.255" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.024">.</text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,299.206,658.224,352.006" size="24.0" unique_id="2">ChaSeR (java) and WebChaSeR (web page) provide search and  
+retrieval of datasets. <textline bbox="43.200,328.006,658.224,352.006" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">ChaSeR (java) and WebChaSeR (web page) provide search and  </textline>
+<textline bbox="43.200,299.206,236.976,323.206" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">retrieval of datasets. </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,198.386,631.572,280.025" size="24.008" unique_id="3">Chandra Fast Image is a simplified interface intended for the  
+general public but can also be used to get quick looks at data  
+before deciding whether to download it. <textline bbox="43.200,256.001,631.572,280.025" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">Chandra Fast Image is a simplified interface intended for the  </textline>
+<textline bbox="43.200,227.186,631.008,251.186" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">general public but can also be used to get quick looks at data  </textline>
+<textline bbox="43.200,198.386,426.768,222.386" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">before deciding whether to download it. </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,126.381,629.112,179.186" size="24.012" unique_id="4">Bibliography search for Chandra papers on a given object or  
+observation. <textline bbox="43.200,155.186,629.112,179.186" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Bibliography search for Chandra papers on a given object or  </textline>
+<textline bbox="43.200,126.381,161.374,150.405" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.024" colourspace="DeviceGray">observation. </textline>
+</normal_text>
+<footer id="5" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="5">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[154.85600000000002, 456.316, 555.5252, 510.316]">
+<title id="0" bbox="103.510,457.516,604.468,511.516" size="54.0" unique_id="0">XMM Science Archive <textline bbox="103.510,457.516,604.468,511.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">XMM Science Archive </textline>
+</title>
+<normal_text id="1" bbox="43.200,371.231,604.612,424.036" size="24.012" unique_id="1">Java-based interface provides access to all XMM-Newton  
+datasets. <textline bbox="43.200,400.036,604.612,424.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Java-based interface provides access to all XMM-Newton  </textline>
+<textline bbox="43.200,371.231,125.314,395.255" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">datasets. </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,299.206,643.868,352.006" size="24.0" unique_id="2">Many XMM-specific search options including on attributes in  
+the EPIC source catalog. <textline bbox="43.200,328.006,643.868,352.006" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Many XMM-specific search options including on attributes in  </textline>
+<textline bbox="43.200,299.206,280.440,323.206" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">the EPIC source catalog. </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,256.001,468.689,280.025" size="24.024" unique_id="3">Optical images from the source ID program. <textline bbox="43.200,256.001,468.689,280.025" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">Optical images from the source ID program. </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,188.681,583.899,236.786" size="22.02" unique_id="4">New users should take the guided tour at  
+http://xmm.esac.esa.int/external/xmm_data_acc/xsa/docs/tour.shtml <textline bbox="43.200,212.786,440.208,236.786" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">New users should take the guided tour at  </textline>
+<textline bbox="43.200,188.681,583.899,208.721" font="BCDEEE+Times" ncolour="0" size="20.040" colourspace="DeviceGray">http://xmm.esac.esa.int/external/xmm_data_acc/xsa/docs/tour.shtml </textline>
+</normal_text>
+<footer id="5" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="5">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[175.54285714285714, 456.65885714285713, 534.1568571428572, 510.65885714285713]">
+<title id="0" bbox="227.260,457.516,480.736,511.516" size="54.0" unique_id="0">Mirror sites <textline bbox="227.260,457.516,480.736,511.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Mirror sites </textline>
+</title>
+<normal_text id="1" bbox="43.200,371.231,651.144,424.036" size="24.012" unique_id="1">Several sites mirror some datasets. You should use these if you  
+are physically located near them. <textline bbox="43.200,400.036,651.144,424.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Several sites mirror some datasets. You should use these if you  </textline>
+<textline bbox="43.200,371.231,359.140,395.255" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">are physically located near them. </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,270.406,670.704,352.006" size="24.0" unique_id="2">LEDAS at Leicester University in the UK has mirrors of the  
+Chandra, ASCA,  ROSAT archives and the XMM source catalog  
+(http://ledas-www.star.le.ac.uk). <textline bbox="43.200,328.006,627.240,352.006" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">LEDAS at Leicester University in the UK has mirrors of the  </textline>
+<textline bbox="43.200,299.206,670.704,323.206" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Chandra, ASCA,  ROSAT archives and the XMM source catalog  </textline>
+<textline bbox="43.200,270.406,350.276,294.406" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">(http://ledas-www.star.le.ac.uk). </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,198.386,666.576,251.186" size="24.0" unique_id="3">DARTS at ISAS in Japan has several archival datasets including  
+a mirror of the ROSAT All-sky survey (http://darts.isas.jaxa.jp). <textline bbox="43.200,227.186,666.576,251.186" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">DARTS at ISAS in Japan has several archival datasets including  </textline>
+<textline bbox="43.200,198.386,655.250,222.386" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">a mirror of the ROSAT All-sky survey (http://darts.isas.jaxa.jp). </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,126.381,627.648,179.186" size="24.012" unique_id="4">ASDC in Italy has BeppoSAX, ASCA, and ROSAT datasets  
+(http://www.asdc.asi.it). <textline bbox="43.200,155.186,627.648,179.186" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">ASDC in Italy has BeppoSAX, ASCA, and ROSAT datasets  </textline>
+<textline bbox="43.200,126.381,273.734,150.405" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.024" colourspace="DeviceGray">(http://www.asdc.asi.it). </textline>
+</normal_text>
+<footer id="5" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="5">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[197.29214285714286, 456.87314285714285, 512.0041428571429, 510.87314285714285]">
+<title id="0" bbox="262.540,457.516,445.546,511.516" size="54.0" unique_id="0">CALDB <textline bbox="262.540,457.516,445.546,511.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">CALDB </textline>
+</title>
+<normal_text id="1" bbox="43.200,308.806,655.490,448.036" size="24.0048" unique_id="1">One of the problems in X-ray astronomy is the large number of  
+files that are usually required to store all the calibration  
+information for an instrument. Keeping track of these and  
+making these available to the data analysis software is  
+challenging. <textline bbox="43.200,424.036,655.490,448.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">One of the problems in X-ray astronomy is the large number of  </textline>
+<textline bbox="43.200,395.236,579.624,419.236" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">files that are usually required to store all the calibration  </textline>
+<textline bbox="43.200,366.431,602.479,390.455" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">information for an instrument. Keeping track of these and  </textline>
+<textline bbox="43.200,337.606,568.272,361.606" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">making these available to the data analysis software is  </textline>
+<textline bbox="43.200,308.806,161.256,332.806" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">challenging. </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,207.986,665.088,289.606" size="24.0" unique_id="2">The CALDB is a directory structure and indexing system for  
+FITS files which enables software to read the correct calibration  
+data without needing to know the filename or directory. <textline bbox="43.200,265.606,631.776,289.606" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">The CALDB is a directory structure and indexing system for  </textline>
+<textline bbox="43.200,236.786,665.088,260.786" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">FITS files which enables software to read the correct calibration  </textline>
+<textline bbox="43.200,207.986,576.336,231.986" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">data without needing to know the filename or directory. </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,135.981,648.240,188.786" size="24.012" unique_id="3">Users can either install a CALDB locally or for occasional use  
+access the calibration files from the HEASARC site. <textline bbox="43.200,164.786,648.240,188.786" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Users can either install a CALDB locally or for occasional use  </textline>
+<textline bbox="43.200,135.981,546.743,160.005" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">access the calibration files from the HEASARC site. </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,63.960,642.120,116.760" size="24.0" unique_id="4">CALDB is used for HEASARC archival and current missions  
+and for Chandra but not (alas) for XMM. <textline bbox="43.200,92.760,642.120,116.760" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">CALDB is used for HEASARC archival and current missions  </textline>
+<textline bbox="43.200,63.960,437.496,87.960" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">and for Chandra but not (alas) for XMM. </textline>
+</normal_text>
+<footer id="5" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="5">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[186.93166666666667, 457.016, 522.0316666666668, 511.016]">
+<title id="0" bbox="150.670,457.516,557.128,511.516" size="54.0" unique_id="0">Software packages <textline bbox="150.670,457.516,557.128,511.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Software packages </textline>
+</title>
+<normal_text id="1" bbox="25.200,400.036,573.716,424.036" size="24.0" unique_id="1">HEAsoft - heasarc.gsfc.nasa.gov/docs/software/lheasoft <textline bbox="25.200,400.036,573.716,424.036">HEAsoft - heasarc.gsfc.nasa.gov/docs/software/lheasoft <text font="BCDEEE+Times" bbox="25.200,400.036,42.528,424.036" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">H</text>
+<text font="BCDEEE+Times" bbox="42.528,400.036,57.192,424.036" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">E</text>
+<text font="BCDEEE+Times" bbox="57.120,400.036,74.448,424.036" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">A</text>
+<text font="BCDEEE+Times" bbox="74.448,400.036,83.784,424.036" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="83.784,400.036,95.784,424.036" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="95.784,400.036,103.776,424.036" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="103.680,400.036,110.352,424.036" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="122.540,400.036,130.532,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="142.580,400.036,154.580,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="154.580,400.036,165.236,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="165.236,400.036,175.892,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="175.892,400.036,185.228,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="185.228,400.036,195.884,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="195.956,400.036,203.948,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="203.948,400.036,214.604,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="214.604,400.036,220.604,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="220.652,400.036,232.652,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="232.652,400.036,241.988,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="241.988,400.036,249.980,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="249.980,400.036,260.636,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="260.636,400.036,266.636,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="266.636,400.036,278.636,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="278.636,400.036,289.292,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="289.292,400.036,298.628,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="298.628,400.036,309.284,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="309.284,400.036,315.284,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="315.284,400.036,327.284,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="327.284,400.036,339.284,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="339.284,400.036,351.284,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="351.284,400.036,357.956,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="358.028,400.036,370.028,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="370.028,400.036,382.028,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="382.028,400.036,392.684,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="392.588,400.036,401.924,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="401.924,400.036,408.596,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="408.596,400.036,417.932,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="418.004,400.036,430.004,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="430.004,400.036,437.996,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="437.996,400.036,444.668,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="444.668,400.036,461.996,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">w</text>
+<text font="BCDEEE+Times" bbox="461.924,400.036,472.580,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="472.580,400.036,480.572,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="480.572,400.036,491.228,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="491.228,400.036,497.900,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="497.804,400.036,504.476,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="504.476,400.036,516.476,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="516.476,400.036,527.132,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="527.132,400.036,537.788,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="537.788,400.036,547.124,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="547.124,400.036,559.124,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="559.124,400.036,567.116,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="567.044,400.036,573.716,424.036" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="25.200,356.806,313.244,380.806" size="24.0" unique_id="2">CIAO - asc.harvard.edu/ciao <textline bbox="25.200,356.806,313.244,380.806">CIAO - asc.harvard.edu/ciao <text font="BCDEEE+Times" bbox="25.200,356.806,41.208,380.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">C</text>
+<text font="BCDEEE+Times" bbox="41.208,356.806,49.200,380.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">I</text>
+<text font="BCDEEE+Times" bbox="49.200,356.806,66.528,380.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">A</text>
+<text font="BCDEEE+Times" bbox="66.528,356.806,83.856,380.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">O</text>
+<text font="BCDEEE+Times" bbox="96.024,356.806,104.016,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="115.940,356.806,126.596,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="126.596,356.806,135.932,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="135.932,356.806,146.588,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="146.588,356.806,152.588,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="152.588,356.806,164.588,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="164.588,356.806,175.244,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="175.316,356.806,183.308,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="183.308,356.806,195.308,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="195.308,356.806,205.964,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="206.012,356.806,214.004,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="214.004,356.806,226.004,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="226.004,356.806,232.004,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="232.004,356.806,242.660,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="242.708,356.806,254.708,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="254.708,356.806,266.708,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Times" bbox="266.708,356.806,273.380,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="273.380,356.806,284.036,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="284.036,356.806,290.708,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="290.588,356.806,301.244,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="301.244,356.806,313.244,380.806" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="25.200,313.606,657.884,337.606" size="24.0" unique_id="3">SAS - xmm.vilspa.esa.es/external/xmm_sw_cal/sas_frame.shtml <textline bbox="25.200,313.606,657.884,337.606">SAS - xmm.vilspa.esa.es/external/xmm_sw_cal/sas_frame.shtml <text font="BCDEEE+Times" bbox="25.200,313.606,38.544,337.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">S</text>
+<text font="BCDEEE+Times" bbox="38.544,313.606,55.872,337.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">A</text>
+<text font="BCDEEE+Times" bbox="55.800,313.606,69.144,337.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">S</text>
+<text font="BCDEEE+Times" bbox="81.384,313.606,89.376,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="101.300,313.606,113.300,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">x</text>
+<text font="BCDEEE+Times" bbox="113.300,313.606,131.972,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="131.780,313.606,150.452,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="150.260,313.606,156.260,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="156.260,313.606,168.260,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="168.260,313.606,174.932,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="174.932,313.606,181.604,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="181.676,313.606,191.012,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="191.012,313.606,203.012,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+Times" bbox="203.012,313.606,213.668,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="213.668,313.606,219.668,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="219.668,313.606,230.324,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="230.372,313.606,239.708,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="239.708,313.606,250.364,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="250.364,313.606,256.364,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="256.364,313.606,267.020,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="267.020,313.606,276.356,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="276.428,313.606,283.100,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="283.100,313.606,293.756,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="293.756,313.606,305.756,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">x</text>
+<text font="BCDEEE+Times" bbox="305.756,313.606,312.428,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="312.524,313.606,323.180,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="323.180,313.606,331.172,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="331.172,313.606,343.172,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="343.220,313.606,353.876,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="353.780,313.606,360.452,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="360.452,313.606,367.124,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="367.124,313.606,379.124,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">x</text>
+<text font="BCDEEE+Times" bbox="379.124,313.606,397.796,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="397.580,313.606,416.252,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="416.060,313.606,428.060,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">_</text>
+<text font="BCDEEE+Times" bbox="428.060,313.606,437.396,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="437.396,313.606,454.724,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">w</text>
+<text font="BCDEEE+Times" bbox="454.724,313.606,466.724,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">_</text>
+<text font="BCDEEE+Times" bbox="466.724,313.606,477.380,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="477.380,313.606,488.036,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="488.036,313.606,494.708,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="494.708,313.606,501.380,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="501.476,313.606,510.812,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="510.812,313.606,521.468,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="521.468,313.606,530.804,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="530.804,313.606,542.804,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">_</text>
+<text font="BCDEEE+Times" bbox="542.804,313.606,550.796,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="550.796,313.606,558.788,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="558.788,313.606,569.444,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="569.444,313.606,588.116,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="587.996,313.606,598.652,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="598.652,313.606,604.652,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="604.652,313.606,613.988,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="613.988,313.606,625.988,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="625.988,313.606,632.660,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="632.732,313.606,651.404,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="651.212,313.606,657.884,337.606" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+</textline>
+</normal_text>
+<normal_text id="4" bbox="25.200,169.586,634.944,251.186" size="24.0" unique_id="4">All these packages operate on FITS files with standard formats  
+defined for each type of dataset. We have attempted to make it  
+possible to mix and match tools from different packages. <textline bbox="25.200,227.186,634.944,251.186" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">All these packages operate on FITS files with standard formats  </textline>
+<textline bbox="25.200,198.386,628.992,222.386" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">defined for each type of dataset. We have attempted to make it  </textline>
+<textline bbox="25.200,169.586,570.048,193.586" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">possible to mix and match tools from different packages. </textline>
+</normal_text>
+<footer id="5" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="5">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[202.34133333333335, 456.516, 508.8153333333334, 510.516]">
+<title id="0" bbox="263.980,454.516,455.950,508.516" size="54.0" unique_id="0">HEAsoft <textline bbox="263.980,454.516,455.950,508.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">HEAsoft </textline>
+</title>
+<normal_text id="1" bbox="37.200,400.036,597.552,424.036" size="24.0" unique_id="1">Large and diverse package distributed by NASA Goddard. <textline bbox="37.200,400.036,597.552,424.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Large and diverse package distributed by NASA Goddard. </textline>
+</normal_text>
+<normal_text id="2" bbox="37.200,328.006,628.972,380.806" size="24.0" unique_id="2">Latest release is 6.3.1. Runs under Linux, Solaris, OS-X, and  
+Cygwin. <textline bbox="37.200,356.806,628.972,380.806" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Latest release is 6.3.1. Runs under Linux, Solaris, OS-X, and  </textline>
+<textline bbox="37.200,328.006,119.112,352.006" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Cygwin. </textline>
+</normal_text>
+<normal_text id="3" bbox="37.200,256.001,673.656,308.806" size="24.012" unique_id="3">Can be downloaded as either source code or binaries. The latter is  
+usually adequate unless you want to apply source patches. <textline bbox="37.200,284.806,673.656,308.806" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Can be downloaded as either source code or binaries. The latter is  </textline>
+<textline bbox="37.200,256.001,594.773,280.025" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">usually adequate unless you want to apply source patches. </textline>
+</normal_text>
+<normal_text id="4" bbox="37.200,155.186,662.088,236.786" size="24.0" unique_id="4">Contains generic multi-mission tools as well as packages for  
+current missions RXTE, Swift, Suzaku and a number of archival  
+missions. <textline bbox="37.200,212.786,623.714,236.786" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Contains generic multi-mission tools as well as packages for  </textline>
+<textline bbox="37.200,183.986,662.088,207.986" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">current missions RXTE, Swift, Suzaku and a number of archival  </textline>
+<textline bbox="37.200,155.186,127.104,179.186" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">missions. </textline>
+</normal_text>
+<normal_text id="5" bbox="37.200,111.956,522.382,135.956" size="24.0" unique_id="5">For help : heasarc.gsfc.nasa.gov/cgi-bin/ftoolshelp <textline bbox="37.200,111.956,522.382,135.956" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">For help : heasarc.gsfc.nasa.gov/cgi-bin/ftoolshelp </textline>
+</normal_text>
+<footer id="6" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="6">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[188.5829090909091, 456.15236363636365, 524.1438181818182, 510.15236363636365]">
+<title id="0" bbox="126.670,454.516,593.122,508.516" size="54.0" unique_id="0">HEAsoft components <textline bbox="126.670,454.516,593.122,508.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">HEAsoft components </textline>
+</title>
+<footer id="3" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="3">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+<enlisting bbox="37.2,86.16,686.468,421.276" unique_id="['1', '2']">&#8226; XANADU  - High-level, multi-mission tasks for X-ray   
+astronomical spectral, timing, and imaging data analysis   
+&#8226; FTOOLS  - General and mission-specific tools for FITS files 
+&#8226; FITSIO  - Core library responsible for reading/writing FITS files  
+&#8226; fv  - General FITS file browser/editor/plotter with a graphical  
+user interface (distributed with FTOOLS) 
+&#8226; XSTAR  - Tool for calculating the physical conditions and  
+emission spectra of photo-ionized gases &#8226; PROFIT - Visualizing and modelling high-resolution spectra. <normal_text id="1" bbox="37.200,155.306,686.468,421.276" size="24.006" unique_id="1">&#8226; XANADU  - High-level, multi-mission tasks for X-ray   
+astronomical spectral, timing, and imaging data analysis   
+&#8226; FTOOLS  - General and mission-specific tools for FITS files 
+&#8226; FITSIO  - Core library responsible for reading/writing FITS files  
+&#8226; fv  - General FITS file browser/editor/plotter with a graphical  
+user interface (distributed with FTOOLS) 
+&#8226; XSTAR  - Tool for calculating the physical conditions and  
+emission spectra of photo-ionized gases <textline bbox="37.200,397.276,597.556,421.276">&#8226; XANADU  - High-level, multi-mission tasks for X-ray   <text font="BCDFEE+Times" bbox="37.200,397.276,45.600,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="BCDEEE+Times" bbox="51.600,397.276,68.928,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">X</text>
+<text font="BCDEEE+Times" bbox="68.928,397.276,86.256,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">A</text>
+<text font="BCDEEE+Times" bbox="86.256,397.276,103.584,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">N</text>
+<text font="BCDEEE+Times" bbox="103.584,397.276,120.912,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">A</text>
+<text font="BCDEEE+Times" bbox="120.816,397.276,138.144,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">D</text>
+<text font="BCDEEE+Times" bbox="138.144,397.276,155.472,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">U</text>
+<text font="BCDEEE+Times" bbox="155.472,397.276,161.472,421.276" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="162.000,397.276,168.000,421.276" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="167.900,397.276,175.892,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="187.820,397.276,205.148,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">H</text>
+<text font="BCDEEE+Times" bbox="205.148,397.276,211.820,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="211.820,397.276,223.820,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="223.868,397.276,235.868,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="235.850,397.276,243.842,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="243.890,397.276,250.562,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="250.562,397.276,261.218,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="261.218,397.276,273.218,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="273.218,397.276,283.874,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="283.946,397.276,290.618,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="290.618,397.276,296.618,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">,</text>
+<text font="BCDEEE+Times" bbox="296.618,397.276,302.618,421.276" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="302.426,397.276,321.098,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="320.906,397.276,332.906,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Times" bbox="332.906,397.276,339.578,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="339.578,397.276,346.250,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="346.322,397.276,352.994,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="353.110,397.276,361.102,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="361.150,397.276,379.822,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="379.630,397.276,386.302,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="386.302,397.276,395.638,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="395.638,397.276,404.974,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="405.046,397.276,411.718,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="411.718,397.276,423.718,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="423.718,397.276,435.718,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="435.718,397.276,441.718,421.276" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="441.526,397.276,448.198,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="448.198,397.276,458.854,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="458.854,397.276,468.190,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="468.262,397.276,480.262,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">k</text>
+<text font="BCDEEE+Times" bbox="480.262,397.276,489.598,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="489.598,397.276,495.598,421.276" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="495.502,397.276,503.494,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="503.494,397.276,515.494,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="515.494,397.276,523.486,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="523.486,397.276,529.486,421.276" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="529.486,397.276,546.814,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">X</text>
+<text font="BCDEEE+Times" bbox="546.820,397.276,554.812,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="554.860,397.276,562.852,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="562.852,397.276,573.508,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="573.508,397.276,585.508,421.276" colourspace="DeviceGray" ncolour="0" size="24.000">y</text>
+<text font="BCDEEE+Times" bbox="585.556,397.276,591.556,421.276" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="591.556,397.276,597.556,421.276" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+<textline bbox="37.200,362.711,588.142,386.735" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">astronomical spectral, timing, and imaging data analysis   </textline>
+<textline bbox="37.200,328.126,636.910,352.126">&#8226; FTOOLS  - General and mission-specific tools for FITS files <text font="BCDFEE+Times" bbox="37.200,328.126,45.600,352.126" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="BCDEEE+Times" bbox="51.600,328.126,64.944,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">F</text>
+<text font="BCDEEE+Times" bbox="64.944,328.126,79.608,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">T</text>
+<text font="BCDEEE+Times" bbox="79.128,328.126,96.456,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">O</text>
+<text font="BCDEEE+Times" bbox="96.456,328.126,113.784,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">O</text>
+<text font="BCDEEE+Times" bbox="113.784,328.126,128.448,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">L</text>
+<text font="BCDEEE+Times" bbox="128.448,328.126,141.792,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">S</text>
+<text font="BCDEEE+Times" bbox="141.792,328.126,147.792,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="148.080,328.126,154.080,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="153.980,328.126,161.972,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="167.900,328.126,185.228,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">G</text>
+<text font="BCDEEE+Times" bbox="185.228,328.126,195.884,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="195.884,328.126,207.884,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="207.884,328.126,218.540,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="218.540,328.126,226.532,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="226.532,328.126,237.188,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="237.188,328.126,243.860,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="243.956,328.126,249.956,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="249.836,328.126,260.492,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="260.492,328.126,272.492,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="272.492,328.126,284.492,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="284.492,328.126,290.492,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="290.396,328.126,309.068,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="308.876,328.126,315.548,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="315.548,328.126,324.884,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="324.884,328.126,334.220,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="334.292,328.126,340.964,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="340.964,328.126,352.964,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="352.964,328.126,364.964,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="365.110,328.126,373.102,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="373.150,328.126,382.486,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="382.486,328.126,394.486,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">p</text>
+<text font="BCDEEE+Times" bbox="394.486,328.126,405.142,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="405.142,328.126,415.798,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="415.798,328.126,422.470,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="422.566,328.126,430.558,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="430.558,328.126,437.230,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="437.230,328.126,447.886,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="447.886,328.126,453.886,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="453.646,328.126,460.318,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="460.318,328.126,472.318,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="472.318,328.126,484.318,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="484.318,328.126,490.990,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="491.062,328.126,500.398,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="500.398,328.126,506.398,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="506.182,328.126,514.174,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="514.174,328.126,526.174,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="526.174,328.126,534.166,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="534.166,328.126,540.166,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="540.166,328.126,553.510,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">F</text>
+<text font="BCDEEE+Times" bbox="553.510,328.126,561.502,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">I</text>
+<text font="BCDEEE+Times" bbox="561.502,328.126,576.166,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">T</text>
+<text font="BCDEEE+Times" bbox="576.166,328.126,589.510,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">S</text>
+<text font="BCDEEE+Times" bbox="589.510,328.126,595.510,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="595.510,328.126,603.502,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="603.502,328.126,610.174,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="610.174,328.126,616.846,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="616.918,328.126,627.574,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="627.574,328.126,636.910,352.126" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+</textline>
+<textline bbox="37.200,293.566,686.468,317.566">&#8226; FITSIO  - Core library responsible for reading/writing FITS files  <text font="BCDFEE+Times" bbox="37.200,293.566,45.600,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="BCDEEE+Times" bbox="51.600,293.566,64.944,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">F</text>
+<text font="BCDEEE+Times" bbox="64.944,293.566,72.936,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="BCDEEE+Times" bbox="72.936,293.566,87.600,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+Times" bbox="87.600,293.566,100.944,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="BCDEEE+Times" bbox="100.944,293.566,108.936,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="BCDEEE+Times" bbox="109.008,293.566,126.336,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">O</text>
+<text font="BCDEEE+Times" bbox="126.336,293.566,132.336,317.566" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="132.408,293.566,138.408,317.566" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="138.380,293.566,146.372,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="158.420,293.566,174.428,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">C</text>
+<text font="BCDEEE+Times" bbox="174.428,293.566,186.428,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="186.428,293.566,194.420,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="194.420,293.566,205.076,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="205.076,293.566,211.076,317.566" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="210.980,293.566,217.652,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="217.652,293.566,224.324,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="224.396,293.566,236.396,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="BCDEEE+Times" bbox="236.396,293.566,244.388,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="244.388,293.566,255.044,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="255.092,293.566,263.084,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="263.084,293.566,275.084,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">y</text>
+<text font="BCDEEE+Times" bbox="275.084,293.566,281.084,317.566" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="280.772,293.566,288.764,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="288.764,293.566,299.420,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="299.420,293.566,308.756,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="308.828,293.566,320.828,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+Times" bbox="320.828,293.566,332.828,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="332.828,293.566,344.828,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="344.828,293.566,354.164,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="354.164,293.566,360.836,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="360.884,293.566,372.884,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="BCDEEE+Times" bbox="372.884,293.566,379.556,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="379.556,293.566,390.212,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="390.212,293.566,396.212,317.566" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="396.044,293.566,404.036,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="404.036,293.566,416.036,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="416.036,293.566,424.028,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="424.028,293.566,430.028,317.566" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="430.028,293.566,438.020,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="438.020,293.566,448.676,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="448.676,293.566,459.332,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="459.380,293.566,471.380,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="471.380,293.566,478.052,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="478.052,293.566,490.052,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="490.052,293.566,502.052,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="502.052,293.566,508.724,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="508.796,293.566,526.124,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">w</text>
+<text font="BCDEEE+Times" bbox="526.124,293.566,534.116,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="534.116,293.566,540.788,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="540.788,293.566,547.460,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="547.460,293.566,554.132,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="554.036,293.566,566.036,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="566.036,293.566,578.036,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="578.036,293.566,584.036,317.566" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="583.676,293.566,597.020,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">F</text>
+<text font="BCDEEE+Times" bbox="597.020,293.566,605.012,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="BCDEEE+Times" bbox="605.012,293.566,619.676,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+Times" bbox="619.676,293.566,633.020,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="BCDEEE+Times" bbox="633.020,293.566,639.020,317.566" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="639.092,293.566,647.084,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="647.084,293.566,653.756,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="653.756,293.566,660.428,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="660.428,293.566,671.084,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="671.084,293.566,680.420,317.566" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="680.468,293.566,686.468,317.566" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+<textline bbox="37.200,259.001,654.402,283.025">&#8226; fv  - General FITS file browser/editor/plotter with a graphical  <text font="BCDFEE+Times" bbox="37.200,259.001,45.608,283.025" colourspace="DeviceGray" ncolour="0" size="24.024">&#8226;</text>
+<text font="BCDEEE+Times" bbox="51.600,259.001,59.600,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">f</text>
+<text font="BCDEEE+Times" bbox="59.528,259.001,71.540,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">v</text>
+<text font="BCDEEE+Times" bbox="71.540,259.001,77.546,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="77.618,259.001,83.624,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="83.664,259.001,91.664,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">-</text>
+<text font="BCDEEE+Times" bbox="103.580,259.001,120.925,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">G</text>
+<text font="BCDEEE+Times" bbox="120.925,259.001,131.592,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text font="BCDEEE+Times" bbox="131.592,259.001,143.604,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">n</text>
+<text font="BCDEEE+Times" bbox="143.604,259.001,154.271,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text font="BCDEEE+Times" bbox="154.271,259.001,162.271,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="162.271,259.001,172.937,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="172.937,259.001,179.616,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">l</text>
+<text font="BCDEEE+Times" bbox="179.616,259.001,185.622,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="185.550,259.001,198.907,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">F</text>
+<text font="BCDEEE+Times" bbox="198.907,259.001,206.907,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">I</text>
+<text font="BCDEEE+Times" bbox="206.907,259.001,221.586,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">T</text>
+<text font="BCDEEE+Times" bbox="221.586,259.001,234.943,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">S</text>
+<text font="BCDEEE+Times" bbox="234.871,259.001,240.877,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="240.877,259.001,248.877,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">f</text>
+<text font="BCDEEE+Times" bbox="248.781,259.001,255.460,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">i</text>
+<text font="BCDEEE+Times" bbox="255.460,259.001,262.138,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">l</text>
+<text font="BCDEEE+Times" bbox="262.186,259.001,272.853,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text font="BCDEEE+Times" bbox="272.853,259.001,278.859,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="278.739,259.001,290.751,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">b</text>
+<text font="BCDEEE+Times" bbox="290.751,259.001,298.751,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="298.751,259.001,310.763,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">o</text>
+<text font="BCDEEE+Times" bbox="310.763,259.001,328.108,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">w</text>
+<text font="BCDEEE+Times" bbox="328.108,259.001,337.454,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">s</text>
+<text font="BCDEEE+Times" bbox="337.454,259.001,348.120,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text font="BCDEEE+Times" bbox="348.120,259.001,356.120,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="356.120,259.001,362.799,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">/</text>
+<text font="BCDEEE+Times" bbox="362.799,259.001,373.466,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text font="BCDEEE+Times" bbox="373.514,259.001,385.526,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">d</text>
+<text font="BCDEEE+Times" bbox="385.526,259.001,392.204,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">i</text>
+<text font="BCDEEE+Times" bbox="392.204,259.001,398.883,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">t</text>
+<text font="BCDEEE+Times" bbox="398.883,259.001,410.895,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">o</text>
+<text font="BCDEEE+Times" bbox="410.895,259.001,418.895,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="418.895,259.001,425.574,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">/</text>
+<text font="BCDEEE+Times" bbox="425.574,259.001,437.586,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">p</text>
+<text font="BCDEEE+Times" bbox="437.586,259.001,444.264,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">l</text>
+<text font="BCDEEE+Times" bbox="444.264,259.001,456.276,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">o</text>
+<text font="BCDEEE+Times" bbox="456.204,259.001,462.883,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">t</text>
+<text font="BCDEEE+Times" bbox="462.811,259.001,469.490,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">t</text>
+<text font="BCDEEE+Times" bbox="469.417,259.001,480.084,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">e</text>
+<text font="BCDEEE+Times" bbox="480.084,259.001,488.084,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="488.084,259.001,494.090,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="493.658,259.001,511.003,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">w</text>
+<text font="BCDEEE+Times" bbox="511.003,259.001,517.682,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">i</text>
+<text font="BCDEEE+Times" bbox="517.682,259.001,524.360,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">t</text>
+<text font="BCDEEE+Times" bbox="524.360,259.001,536.372,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">h</text>
+<text font="BCDEEE+Times" bbox="536.372,259.001,542.378,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="542.378,259.001,553.045,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="553.045,259.001,559.051,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+<text font="BCDEEE+Times" bbox="558.931,259.001,570.943,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">g</text>
+<text font="BCDEEE+Times" bbox="570.943,259.001,578.943,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">r</text>
+<text font="BCDEEE+Times" bbox="578.943,259.001,589.610,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="589.610,259.001,601.622,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">p</text>
+<text font="BCDEEE+Times" bbox="601.622,259.001,613.634,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">h</text>
+<text font="BCDEEE+Times" bbox="613.634,259.001,620.312,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">i</text>
+<text font="BCDEEE+Times" bbox="620.312,259.001,630.979,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">c</text>
+<text font="BCDEEE+Times" bbox="630.979,259.001,641.646,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">a</text>
+<text font="BCDEEE+Times" bbox="641.718,259.001,648.396,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024">l</text>
+<text font="BCDEEE+Times" bbox="648.396,259.001,654.402,283.025" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.024"> </text>
+</textline>
+<textline bbox="37.200,224.426,435.936,248.426" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">user interface (distributed with FTOOLS) </textline>
+<textline bbox="37.200,189.866,622.100,213.866">&#8226; XSTAR  - Tool for calculating the physical conditions and  <text font="BCDFEE+Times" bbox="37.200,189.866,45.600,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="BCDEEE+Times" bbox="51.600,189.866,68.928,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">X</text>
+<text font="BCDEEE+Times" bbox="68.928,189.866,82.272,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="BCDEEE+Times" bbox="82.272,189.866,96.936,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+Times" bbox="94.992,189.866,112.320,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">A</text>
+<text font="BCDEEE+Times" bbox="112.320,189.866,128.328,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="BCDEEE+Times" bbox="128.328,189.866,134.328,213.866" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="134.496,189.866,140.496,213.866" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="140.420,189.866,148.412,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="159.980,189.866,174.644,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+Times" bbox="172.940,189.866,184.940,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="184.940,189.866,196.940,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="196.940,189.866,203.612,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="203.612,189.866,209.612,213.866" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="209.540,189.866,217.532,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="217.532,189.866,229.532,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="229.532,189.866,237.524,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="237.524,189.866,243.524,213.866" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="243.596,189.866,254.252,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="254.252,189.866,264.908,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="264.908,189.866,271.580,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="271.652,189.866,282.308,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="282.308,189.866,294.308,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Times" bbox="294.308,189.866,300.980,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="300.980,189.866,311.636,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="311.636,189.866,318.308,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="318.308,189.866,324.980,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="324.980,189.866,336.980,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="336.980,189.866,348.980,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="348.980,189.866,354.980,213.866" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="354.572,189.866,361.244,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="361.244,189.866,373.244,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="373.244,189.866,383.900,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="383.900,189.866,389.900,213.866" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="389.900,189.866,401.900,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+Times" bbox="401.900,189.866,413.900,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="413.900,189.866,425.900,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">y</text>
+<text font="BCDEEE+Times" bbox="425.900,189.866,435.236,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="435.236,189.866,441.908,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="441.908,189.866,452.564,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="452.564,189.866,463.220,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="463.220,189.866,469.892,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="469.988,189.866,475.988,213.866" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="475.628,189.866,486.284,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="486.284,189.866,498.284,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="498.284,189.866,510.284,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="510.284,189.866,522.284,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="522.284,189.866,528.956,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="528.956,189.866,535.628,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="535.724,189.866,542.396,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="542.396,189.866,554.396,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="554.396,189.866,566.396,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="566.396,189.866,575.732,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="575.732,189.866,581.732,213.866" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="581.444,189.866,592.100,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="592.100,189.866,604.100,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="604.100,189.866,616.100,213.866" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="616.100,189.866,622.100,213.866" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+<textline bbox="37.200,155.306,419.450,179.306" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">emission spectra of photo-ionized gases </textline>
+</normal_text>
+<normal_text id="2" bbox="37.200,86.160,638.980,110.160" size="24.0" unique_id="2">&#8226; PROFIT - Visualizing and modelling high-resolution spectra. <textline bbox="37.200,86.160,638.980,110.160">&#8226; PROFIT - Visualizing and modelling high-resolution spectra. <text font="BCDFEE+Times" bbox="37.200,86.160,45.600,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="BCDEEE+Times" bbox="51.600,86.160,64.944,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">P</text>
+<text font="BCDEEE+Times" bbox="64.944,86.160,80.952,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="BCDEEE+Times" bbox="80.952,86.160,98.280,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">O</text>
+<text font="BCDEEE+Times" bbox="98.280,86.160,111.624,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">F</text>
+<text font="BCDEEE+Times" bbox="111.624,86.160,119.616,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="BCDEEE+Times" bbox="119.616,86.160,134.280,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+Times" bbox="133.800,86.160,139.800,110.160" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="139.940,86.160,147.932,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="153.500,86.160,170.828,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">V</text>
+<text font="BCDEEE+Times" bbox="169.340,86.160,176.012,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="176.012,86.160,185.348,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="185.348,86.160,197.348,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Times" bbox="197.348,86.160,208.004,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="208.076,86.160,214.748,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="214.748,86.160,221.420,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="221.492,86.160,232.148,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">z</text>
+<text font="BCDEEE+Times" bbox="232.148,86.160,238.820,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="238.820,86.160,250.820,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="250.820,86.160,262.820,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="262.820,86.160,268.820,110.160" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="268.532,86.160,279.188,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="279.188,86.160,291.188,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="291.188,86.160,303.188,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="303.188,86.160,309.188,110.160" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="309.092,86.160,327.764,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="327.572,86.160,339.572,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="339.572,86.160,351.572,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="351.572,86.160,362.228,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="362.228,86.160,368.900,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="368.900,86.160,375.572,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="375.668,86.160,382.340,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="382.340,86.160,394.340,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="394.340,86.160,406.340,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="406.340,86.160,412.340,110.160" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="412.268,86.160,424.268,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="424.268,86.160,430.940,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="430.940,86.160,442.940,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="442.940,86.160,454.940,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="455.140,86.160,463.132,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="463.180,86.160,471.172,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="471.172,86.160,481.828,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="481.828,86.160,491.164,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="491.236,86.160,503.236,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="503.236,86.160,509.908,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="509.908,86.160,521.908,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Times" bbox="521.908,86.160,528.580,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="528.580,86.160,535.252,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="535.252,86.160,547.252,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="547.252,86.160,559.252,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="559.252,86.160,565.252,110.160" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="564.916,86.160,574.252,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="574.252,86.160,586.252,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+Times" bbox="586.252,86.160,596.908,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="596.908,86.160,607.564,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="607.564,86.160,614.236,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="614.332,86.160,622.324,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="622.324,86.160,632.980,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="632.980,86.160,638.980,110.160" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[206.14909090909094, 457.3796363636364, 507.77918181818194, 511.37963636363634]">
+<title id="0" bbox="293.980,463.516,425.956,517.516" size="54.0" unique_id="0">CIAO <textline bbox="293.980,463.516,425.956,517.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">CIAO </textline>
+</title>
+<normal_text id="1" bbox="43.200,389.236,678.600,442.036" size="24.0" unique_id="1">Written for Chandra by the CXC but contains many tools that can  
+be used for other purposes. <textline bbox="43.200,418.036,678.600,442.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Written for Chandra by the CXC but contains many tools that can  </textline>
+<textline bbox="43.200,389.236,302.376,413.236" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">be used for other purposes. </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,288.406,670.752,370.006" size="24.0" unique_id="2">Current version is 3.4.0 which is supported on Solaris 8, Redhat  
+6.2, Redhat 8, and Mac OS X (both PowerPC and Intel). The  
+Redhat 8 distribution should run on most modern Linux versions. <textline bbox="43.200,346.006,662.832,370.006" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Current version is 3.4.0 which is supported on Solaris 8, Redhat  </textline>
+<textline bbox="43.200,317.206,633.144,341.206" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">6.2, Redhat 8, and Mac OS X (both PowerPC and Intel). The  </textline>
+<textline bbox="43.200,288.406,670.752,312.406" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Redhat 8 distribution should run on most modern Linux versions. </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,216.386,637.626,269.225" size="24.012" unique_id="3">The CIAO source is available but it is recommended that you  
+download the binaries and not try to compile it yourself. <textline bbox="43.200,245.201,637.626,269.225" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">The CIAO source is available but it is recommended that you  </textline>
+<textline bbox="43.200,216.386,582.432,240.386" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">download the binaries and not try to compile it yourself. </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,144.386,677.808,197.186" size="24.0" unique_id="4">CIAO v4.0 development is under way and a Beta 1 distribution is  
+available. <textline bbox="43.200,173.186,677.808,197.186" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">CIAO v4.0 development is under way and a Beta 1 distribution is  </textline>
+<textline bbox="43.200,144.386,135.912,168.386" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">available. </textline>
+</normal_text>
+<normal_text id="5" bbox="43.200,101.156,385.104,125.156" size="24.0" unique_id="5">For help : asc.harvard.edu/helpdesk <textline bbox="43.200,101.156,385.104,125.156" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">For help : asc.harvard.edu/helpdesk </textline>
+</normal_text>
+<footer id="6" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="6">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[198.5369230769231, 458.3236923076923, 516.3359230769231, 512.3236923076922]">
+<title id="0" bbox="156.670,463.516,563.398,517.516" size="54.0" unique_id="0">CIAO components <textline bbox="156.670,463.516,563.398,517.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">CIAO components </textline>
+</title>
+<normal_text id="1" bbox="43.200,400.036,259.748,424.036" size="24.0" unique_id="1">Chandra-specific tools <textline bbox="43.200,400.036,259.748,424.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Chandra-specific tools </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,356.806,412.412,380.806" size="24.0" unique_id="2">Multi-mission DM  (DataModel) tools <textline bbox="43.200,356.806,412.412,380.806" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Multi-mission DM  (DataModel) tools </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,313.606,216.528,337.606" size="24.0" unique_id="3">ds9 image display <textline bbox="43.200,313.606,216.528,337.606" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">ds9 image display </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,270.406,271.032,294.406" size="24.0" unique_id="4">ChIPS plotting package <textline bbox="43.200,270.406,271.032,294.406" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">ChIPS plotting package </textline>
+</normal_text>
+<normal_text id="5" bbox="43.200,227.186,417.864,251.186" size="24.0" unique_id="5">Sherpa multidimensional fitting engine <textline bbox="43.200,227.186,417.864,251.186" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Sherpa multidimensional fitting engine </textline>
+</normal_text>
+<normal_text id="6" bbox="43.200,155.186,654.360,207.986" size="24.0" unique_id="6">GUIDE tool for identifying atomic features in spectra (uses the  
+APED atomic physics database) <textline bbox="43.200,183.986,654.360,207.986" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">GUIDE tool for identifying atomic features in spectra (uses the  </textline>
+<textline bbox="43.200,155.186,351.768,179.186" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">APED atomic physics database) </textline>
+</normal_text>
+<footer id="7" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="7">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[214.5402197802198, 457.77973626373625, 501.0873626373627, 511.77973626373614]">
+<title id="0" bbox="310.560,454.516,409.596,508.516" size="54.0" unique_id="0">SAS <textline bbox="310.560,454.516,409.596,508.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">SAS </textline>
+</title>
+<normal_text id="1" bbox="25.200,394.036,465.982,418.036" size="24.0" unique_id="1">Tools to be used on data from XMM-Newton. <textline bbox="25.200,394.036,465.982,418.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Tools to be used on data from XMM-Newton. </textline>
+</normal_text>
+<normal_text id="2" bbox="25.200,264.406,702.384,374.806" size="24.0" unique_id="2">Current version is 7.1.0 and is supported for Redhat 9.0, RHEL 3,4,  
+Fedora Core 3, SuSE 7.3, 8.2, Solaris 8, 9, Mac OS X 10.3, 10.4  
+(PowerPC only), Windows via a virtual machine running Fedora Core  
+4. <textline bbox="25.200,350.806,679.800,374.806" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Current version is 7.1.0 and is supported for Redhat 9.0, RHEL 3,4,  </textline>
+<textline bbox="25.200,322.006,649.032,346.006" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Fedora Core 3, SuSE 7.3, 8.2, Solaris 8, 9, Mac OS X 10.3, 10.4  </textline>
+<textline bbox="25.200,293.206,702.384,317.206" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">(PowerPC only), Windows via a virtual machine running Fedora Core  </textline>
+<textline bbox="25.200,264.406,43.200,288.406" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">4. </textline>
+</normal_text>
+<normal_text id="3" bbox="25.200,221.186,358.896,245.186" size="24.0" unique_id="3">Binary versions only are available. <textline bbox="25.200,221.186,358.896,245.186" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Binary versions only are available. </textline>
+</normal_text>
+<normal_text id="4" bbox="25.200,177.986,630.984,201.986" size="24.0" unique_id="4">Requires the user to have installed : ds9, XPA, Grace, HEAsoft <textline bbox="25.200,177.986,630.984,201.986" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Requires the user to have installed : ds9, XPA, Grace, HEAsoft </textline>
+</normal_text>
+<normal_text id="5" bbox="25.200,105.956,700.080,158.805" size="24.012" unique_id="5">For help :  
+xmm.vilspa.esa.es/external/xmm_user_support/xmmhelp_frame.shtml <textline bbox="25.200,134.781,124.515,158.805" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">For help :  </textline>
+<textline bbox="25.200,105.956,700.080,129.956" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">xmm.vilspa.esa.es/external/xmm_user_support/xmmhelp_frame.shtml </textline>
+</normal_text>
+<footer id="6" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="6">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[226.94019047619048, 457.34457142857144, 489.2706476190477, 511.3445714285714]">
+<title id="0" bbox="307.540,454.516,412.462,508.516" size="54.0" unique_id="0">Hera <textline bbox="307.540,454.516,412.462,508.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Hera </textline>
+</title>
+<normal_text id="1" bbox="25.200,365.231,524.539,418.036" size="24.012" unique_id="1">Run your analysis remotely on machines at GSFC.  
+(http://heasarc.gsfc.nasa.gov/hera/startinghera.html) <textline bbox="25.200,394.036,517.104,418.036" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Run your analysis remotely on machines at GSFC.  </textline>
+<textline bbox="25.200,365.231,524.539,389.255" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.024" colourspace="DeviceGray">(http://heasarc.gsfc.nasa.gov/hera/startinghera.html) </textline>
+</normal_text>
+<normal_text id="2" bbox="25.200,264.406,693.334,346.006" size="24.0" unique_id="2">Uses fv as a front-end. fv is a small stand-alone program that runs on  
+Windows, Linux, Mac OS X.  
+(http://heasarc.gsfc.nasa.gov/docs/software/ftools/fv) <textline bbox="25.200,322.006,693.334,346.006" font="BCDEEE+Times" ncolour="(0, 0.4, 0)" size="24.000" colourspace="DeviceGray">Uses fv as a front-end. fv is a small stand-alone program that runs on  </textline>
+<textline bbox="25.200,293.206,312.120,317.206" font="BCDEEE+Times" ncolour="(0, 0.4, 0)" size="24.000" colourspace="DeviceGray">Windows, Linux, Mac OS X.  </textline>
+<textline bbox="25.200,264.406,534.816,288.406">(http://heasarc.gsfc.nasa.gov/docs/software/ftools/fv) <text font="BCDEEE+Times" bbox="25.200,264.406,33.192,288.406" colourspace="DeviceGray" ncolour="(0, 0.4, 0)" size="24.000">(</text>
+<text font="BCDEEE+Times" bbox="33.240,264.406,45.240,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="45.240,264.406,51.912,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="51.912,264.406,58.584,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="58.656,264.406,70.656,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">p</text>
+<text font="BCDEEE+Times" bbox="70.656,264.406,77.328,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">:</text>
+<text font="BCDEEE+Times" bbox="77.328,264.406,84.000,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="84.000,264.406,90.672,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="90.672,264.406,102.672,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="102.672,264.406,113.328,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="113.256,264.406,123.912,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="123.912,264.406,133.248,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="133.248,264.406,143.904,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="143.904,264.406,151.896,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="151.896,264.406,162.552,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="162.552,264.406,168.552,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="168.552,264.406,180.552,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="180.552,264.406,189.888,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="189.888,264.406,197.880,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="197.880,264.406,208.536,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="208.536,264.406,214.536,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="214.536,264.406,226.536,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="226.536,264.406,237.192,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="237.192,264.406,246.528,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="246.528,264.406,257.184,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="257.184,264.406,263.184,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">.</text>
+<text font="BCDEEE+Times" bbox="263.184,264.406,275.184,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="275.184,264.406,287.184,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="287.184,264.406,299.184,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="299.184,264.406,305.856,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="305.736,264.406,317.736,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="317.736,264.406,329.736,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="329.736,264.406,340.392,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="340.392,264.406,349.728,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="349.728,264.406,356.400,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="356.400,264.406,365.736,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="365.736,264.406,377.736,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="377.736,264.406,385.728,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="385.656,264.406,392.328,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="392.328,264.406,409.656,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">w</text>
+<text font="BCDEEE+Times" bbox="409.656,264.406,420.312,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="420.312,264.406,428.304,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="428.352,264.406,439.008,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="439.008,264.406,445.680,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="445.680,264.406,453.672,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="453.552,264.406,460.224,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="460.224,264.406,472.224,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="472.224,264.406,484.224,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="484.224,264.406,490.896,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="490.896,264.406,500.232,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="500.232,264.406,506.904,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">/</text>
+<text font="BCDEEE+Times" bbox="506.832,264.406,514.824,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="514.824,264.406,526.824,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="526.824,264.406,534.816,288.406" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="24.000">)</text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="25.200,192.386,693.480,245.186" size="24.0" unique_id="3">Through Hera you can run programs from HEAsoft, CIAO, and SAS  
+without having to install any of them on your computer. <textline bbox="25.200,221.186,693.480,245.186" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">Through Hera you can run programs from HEAsoft, CIAO, and SAS  </textline>
+<textline bbox="25.200,192.386,560.520,216.386" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">without having to install any of them on your computer. </textline>
+</normal_text>
+<normal_text id="4" bbox="25.200,149.186,548.996,173.186" size="24.0" unique_id="4">Hera has high-speed access to the HEASARC archive. <textline bbox="25.200,149.186,548.996,173.186" font="BCDEEE+Times" ncolour="(0, 0.4, 0)" size="24.000" colourspace="DeviceGray">Hera has high-speed access to the HEASARC archive. </textline>
+</normal_text>
+<normal_text id="5" bbox="25.200,105.956,692.256,129.956" size="24.0" unique_id="5">On Linux and Mac OS X systems there is a command line interface :  <textline bbox="25.200,105.956,692.256,129.956" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">On Linux and Mac OS X systems there is a command line interface :  </textline>
+</normal_text>
+<normal_text id="6" bbox="49.200,62.760,462.744,86.760" size="24.0" unique_id="6">fv -r  &lt;HEAsoft, CIAO or SAS command&gt; <textline bbox="49.200,62.760,462.744,86.760" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">fv -r  &lt;HEAsoft, CIAO or SAS command&gt; </textline>
+</normal_text>
+<footer id="7" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="7">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[217.9764166666667, 456.616, 498.7008166666667, 510.61599999999993]">
+<title id="0" bbox="155.230,451.516,564.712,505.516" size="54.0" unique_id="0">Software overview <textline bbox="155.230,451.516,564.712,505.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Software overview </textline>
+</title>
+<normal_text id="1" bbox="25.200,394.036,538.124,418.036" size="24.0" unique_id="1">Divide X-ray astronomy software into several classes <textline bbox="25.200,394.036,538.124,418.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Divide X-ray astronomy software into several classes </textline>
+</normal_text>
+<footer id="7" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="7">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+<enlisting bbox="25.2,177.986,574.246,374.806" unique_id="['2', '3', '4', '5', '6']">&#8226; Calculating event attributes - sky position, PI, grade,&#8230; &#8226; Cleaning and filtering events &#8226; Extracting products - images, spectra, lightcurves,&#8230; &#8226; Creating observation calibration files &#8226; High-level analysis - source detection, spectral fitting <normal_text id="2" bbox="25.200,350.806,574.246,374.806" size="24.0" unique_id="2">&#8226; Calculating event attributes - sky position, PI, grade,&#8230; <textline bbox="25.200,350.806,574.246,374.806">&#8226; Calculating event attributes - sky position, PI, grade,&#8230; <text font="BCDFEE+Times" bbox="25.200,350.806,33.600,374.806" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="BCDEEE+Times" bbox="45.600,350.806,61.608,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">C</text>
+<text font="BCDEEE+Times" bbox="61.608,350.806,72.264,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="72.264,350.806,78.936,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="78.936,350.806,89.592,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="89.592,350.806,101.592,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">u</text>
+<text font="BCDEEE+Times" bbox="101.592,350.806,108.264,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="108.360,350.806,119.016,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="119.016,350.806,125.688,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="125.688,350.806,132.360,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="132.360,350.806,144.360,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="144.360,350.806,156.360,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="156.360,350.806,162.360,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="162.000,350.806,172.656,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="172.656,350.806,184.656,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="184.656,350.806,195.312,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="195.312,350.806,207.312,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="207.312,350.806,213.984,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="214.056,350.806,220.056,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="219.816,350.806,230.472,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="230.472,350.806,237.144,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="237.144,350.806,243.816,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="243.912,350.806,251.904,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="251.904,350.806,258.576,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="258.648,350.806,270.648,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">b</text>
+<text font="BCDEEE+Times" bbox="270.648,350.806,282.648,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">u</text>
+<text font="BCDEEE+Times" bbox="282.648,350.806,289.320,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="289.248,350.806,299.904,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="299.904,350.806,309.240,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="309.240,350.806,315.240,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="315.050,350.806,323.042,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">-</text>
+<text font="BCDFEE+Times" bbox="328.990,350.806,338.326,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDFEE+Times" bbox="338.326,350.806,350.326,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">k</text>
+<text font="BCDFEE+Times" bbox="350.326,350.806,362.326,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">y</text>
+<text font="BCDFEE+Times" bbox="362.326,350.806,368.326,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDFEE+Times" bbox="368.446,350.806,380.446,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">p</text>
+<text font="BCDFEE+Times" bbox="380.446,350.806,392.446,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDFEE+Times" bbox="392.446,350.806,401.782,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDFEE+Times" bbox="401.782,350.806,408.454,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDFEE+Times" bbox="408.502,350.806,415.174,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDFEE+Times" bbox="415.174,350.806,421.846,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDFEE+Times" bbox="421.918,350.806,433.918,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDFEE+Times" bbox="433.918,350.806,445.918,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDFEE+Times" bbox="445.918,350.806,451.918,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">,</text>
+<text font="BCDFEE+Times" bbox="451.918,350.806,457.918,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDFEE+Times" bbox="457.558,350.806,470.902,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">P</text>
+<text font="BCDFEE+Times" bbox="470.902,350.806,478.894,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">I</text>
+<text font="BCDFEE+Times" bbox="478.894,350.806,484.894,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">,</text>
+<text font="BCDFEE+Times" bbox="484.894,350.806,490.894,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDFEE+Times" bbox="490.894,350.806,502.894,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">g</text>
+<text font="BCDFEE+Times" bbox="502.894,350.806,510.886,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDFEE+Times" bbox="510.934,350.806,521.590,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDFEE+Times" bbox="521.590,350.806,533.590,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">d</text>
+<text font="BCDFEE+Times" bbox="533.590,350.806,544.246,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDFEE+Times" bbox="544.246,350.806,550.246,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">,</text>
+<text font="BCDFEE+Times" bbox="550.246,350.806,574.246,374.806" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">&#8230;</text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="25.200,307.606,323.184,331.606" size="24.0" unique_id="3">&#8226; Cleaning and filtering events <textline bbox="25.200,307.606,323.184,331.606">&#8226; Cleaning and filtering events <text font="BCDFEE+Times" bbox="25.200,307.606,33.600,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">&#8226;</text>
+<text font="BCDEEE+Times" bbox="45.600,307.606,61.608,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">C</text>
+<text font="BCDEEE+Times" bbox="61.608,307.606,68.280,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="68.280,307.606,78.936,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="78.936,307.606,89.592,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="89.592,307.606,101.592,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="101.640,307.606,108.312,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="108.312,307.606,120.312,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="120.312,307.606,132.312,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="132.312,307.606,138.312,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="138.120,307.606,148.776,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="148.776,307.606,160.776,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="160.776,307.606,172.776,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="172.776,307.606,178.776,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="178.680,307.606,186.672,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="186.672,307.606,193.344,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="193.344,307.606,200.016,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="200.016,307.606,206.688,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="206.688,307.606,217.344,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="217.416,307.606,225.408,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="225.408,307.606,232.080,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="232.152,307.606,244.152,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="244.152,307.606,256.152,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="256.152,307.606,262.152,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="261.792,307.606,272.448,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="272.448,307.606,284.448,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="284.448,307.606,295.104,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="295.104,307.606,307.104,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="307.104,307.606,313.776,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="313.848,307.606,323.184,331.606" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+</textline>
+</normal_text>
+<normal_text id="4" bbox="25.200,264.406,550.466,288.406" size="24.0" unique_id="4">&#8226; Extracting products - images, spectra, lightcurves,&#8230; <textline bbox="25.200,264.406,550.466,288.406">&#8226; Extracting products - images, spectra, lightcurves,&#8230; <text font="BCDFEE+Times" bbox="25.200,264.406,33.600,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">&#8226;</text>
+<text font="BCDEEE+Times" bbox="45.600,264.406,60.264,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">E</text>
+<text font="BCDEEE+Times" bbox="60.264,264.406,72.264,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">x</text>
+<text font="BCDEEE+Times" bbox="72.264,264.406,78.936,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="78.936,264.406,86.928,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="87.000,264.406,97.656,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="97.656,264.406,108.312,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="108.312,264.406,114.984,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="115.056,264.406,121.728,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="121.728,264.406,133.728,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="133.656,264.406,145.656,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="145.656,264.406,151.656,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="151.296,264.406,163.296,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">p</text>
+<text font="BCDEEE+Times" bbox="163.296,264.406,171.288,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="171.288,264.406,183.288,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="183.288,264.406,195.288,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="195.288,264.406,207.288,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">u</text>
+<text font="BCDEEE+Times" bbox="207.288,264.406,217.944,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="217.992,264.406,224.664,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="224.664,264.406,234.000,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="234.000,264.406,240.000,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="240.050,264.406,248.042,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">-</text>
+<text font="BCDFEE+Times" bbox="253.970,264.406,260.642,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDFEE+Times" bbox="260.642,264.406,279.314,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">m</text>
+<text font="BCDFEE+Times" bbox="279.170,264.406,289.826,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDFEE+Times" bbox="289.826,264.406,301.826,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">g</text>
+<text font="BCDFEE+Times" bbox="301.826,264.406,312.482,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDFEE+Times" bbox="312.482,264.406,321.818,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDFEE+Times" bbox="321.818,264.406,327.818,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">,</text>
+<text font="BCDFEE+Times" bbox="327.818,264.406,333.818,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDFEE+Times" bbox="333.818,264.406,343.154,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDFEE+Times" bbox="343.226,264.406,355.226,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">p</text>
+<text font="BCDFEE+Times" bbox="355.226,264.406,365.882,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDFEE+Times" bbox="365.882,264.406,376.538,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDFEE+Times" bbox="376.538,264.406,383.210,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDFEE+Times" bbox="383.282,264.406,391.274,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDFEE+Times" bbox="391.274,264.406,401.930,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDFEE+Times" bbox="401.930,264.406,407.930,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">,</text>
+<text font="BCDFEE+Times" bbox="407.978,264.406,413.978,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDFEE+Times" bbox="413.738,264.406,420.410,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDFEE+Times" bbox="420.410,264.406,427.082,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDFEE+Times" bbox="427.154,264.406,439.154,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">g</text>
+<text font="BCDFEE+Times" bbox="439.154,264.406,451.154,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">h</text>
+<text font="BCDFEE+Times" bbox="451.154,264.406,457.826,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDFEE+Times" bbox="457.826,264.406,468.482,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDFEE+Times" bbox="468.482,264.406,480.482,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">u</text>
+<text font="BCDFEE+Times" bbox="480.482,264.406,488.474,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDFEE+Times" bbox="488.570,264.406,500.570,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">v</text>
+<text font="BCDFEE+Times" bbox="500.570,264.406,511.226,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDFEE+Times" bbox="511.130,264.406,520.466,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDFEE+Times" bbox="520.466,264.406,526.466,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">,</text>
+<text font="BCDFEE+Times" bbox="526.466,264.406,550.466,288.406" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">&#8230;</text>
+</textline>
+</normal_text>
+<normal_text id="5" bbox="25.200,221.186,401.592,245.186" size="24.0" unique_id="5">&#8226; Creating observation calibration files <textline bbox="25.200,221.186,401.592,245.186">&#8226; Creating observation calibration files <text font="BCDFEE+Times" bbox="25.200,221.186,33.600,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">&#8226;</text>
+<text font="BCDEEE+Times" bbox="45.600,221.186,61.608,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">C</text>
+<text font="BCDEEE+Times" bbox="61.608,221.186,69.600,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="69.600,221.186,80.256,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="80.256,221.186,90.912,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="90.912,221.186,97.584,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="97.680,221.186,104.352,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="104.352,221.186,116.352,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="116.352,221.186,128.352,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="128.352,221.186,134.352,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="134.040,221.186,146.040,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="146.040,221.186,158.040,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">b</text>
+<text font="BCDEEE+Times" bbox="158.040,221.186,167.376,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="167.376,221.186,178.032,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="178.032,221.186,186.024,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="186.096,221.186,198.096,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="198.096,221.186,208.752,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="208.752,221.186,215.424,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="215.424,221.186,222.096,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="222.192,221.186,234.192,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="234.192,221.186,246.192,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="246.192,221.186,252.192,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="251.952,221.186,262.608,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="262.608,221.186,273.264,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="273.264,221.186,279.936,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="280.008,221.186,286.680,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="286.680,221.186,298.680,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">b</text>
+<text font="BCDEEE+Times" bbox="298.680,221.186,306.672,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="306.744,221.186,317.400,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="317.400,221.186,324.072,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="324.072,221.186,330.744,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="330.624,221.186,342.624,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="342.624,221.186,354.624,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="354.624,221.186,360.624,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="360.264,221.186,368.256,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="368.256,221.186,374.928,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="374.928,221.186,381.600,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="381.600,221.186,392.256,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="392.256,221.186,401.592,245.186" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+</textline>
+</normal_text>
+<normal_text id="6" bbox="25.200,177.986,558.986,201.986" size="24.0" unique_id="6">&#8226; High-level analysis - source detection, spectral fitting <textline bbox="25.200,177.986,558.986,201.986">&#8226; High-level analysis - source detection, spectral fitting <text font="BCDFEE+Times" bbox="25.200,177.986,33.600,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">&#8226;</text>
+<text font="BCDEEE+Times" bbox="45.600,177.986,62.928,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">H</text>
+<text font="BCDEEE+Times" bbox="62.928,177.986,69.600,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="69.600,177.986,81.600,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">g</text>
+<text font="BCDEEE+Times" bbox="81.600,177.986,93.600,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="93.624,177.986,101.616,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="101.660,177.986,108.332,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="108.332,177.986,118.988,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="118.988,177.986,130.988,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="130.988,177.986,141.644,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="141.716,177.986,148.388,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="148.388,177.986,154.388,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="154.076,177.986,164.732,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="164.732,177.986,176.732,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="176.732,177.986,187.388,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="187.388,177.986,194.060,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="194.132,177.986,206.132,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">y</text>
+<text font="BCDEEE+Times" bbox="206.132,177.986,215.468,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="215.468,177.986,222.140,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="222.140,177.986,231.476,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="231.548,177.986,237.548,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="237.410,177.986,245.402,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">-</text>
+<text font="BCDEEE+Times" bbox="251.450,177.986,260.786,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="260.786,177.986,272.786,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="272.786,177.986,284.786,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">u</text>
+<text font="BCDEEE+Times" bbox="284.786,177.986,292.778,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="292.826,177.986,303.482,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="303.482,177.986,314.138,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="314.138,177.986,320.138,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="319.946,177.986,331.946,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="331.946,177.986,342.602,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="342.602,177.986,349.274,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="349.274,177.986,359.930,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="360.002,177.986,370.658,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="370.658,177.986,377.330,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="377.330,177.986,384.002,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="384.098,177.986,396.098,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="396.098,177.986,408.098,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="408.098,177.986,414.098,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">,</text>
+<text font="BCDEEE+Times" bbox="414.098,177.986,420.098,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="419.738,177.986,429.074,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="429.074,177.986,441.074,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">p</text>
+<text font="BCDEEE+Times" bbox="441.074,177.986,451.730,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="451.730,177.986,462.386,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">c</text>
+<text font="BCDEEE+Times" bbox="462.386,177.986,469.058,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="469.154,177.986,477.146,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">r</text>
+<text font="BCDEEE+Times" bbox="477.146,177.986,487.802,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="487.802,177.986,494.474,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="494.570,177.986,500.570,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="500.210,177.986,508.202,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">f</text>
+<text font="BCDEEE+Times" bbox="508.202,177.986,514.874,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="514.874,177.986,521.546,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="521.546,177.986,528.218,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="528.218,177.986,534.890,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="534.986,177.986,546.986,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="546.986,177.986,558.986,201.986" colourspace="DeviceGray" ncolour="(0, 0, 0.4)" size="24.000">g</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[206.98036764705884, 456.36894117647057, 510.0950735294118, 510.3689411764705]">
+<title id="0" bbox="124.510,454.516,595.552,508.516" size="54.0" unique_id="0">Filling event columns <textline bbox="124.510,454.516,595.552,508.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Filling event columns </textline>
+</title>
+<normal_text id="1" bbox="25.200,301.606,685.272,412.036" size="24.006" unique_id="1">The first step is to calculate various event attributes such as the sky  
+position, the energy, and, for CCDs, the grade. Usually this will be  
+performed automatically for you in pipeline processing. However, if  
+calibration files change you might want to reprocess. <textline bbox="25.200,388.036,675.384,412.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">The first step is to calculate various event attributes such as the sky  </textline>
+<textline bbox="25.200,359.231,669.908,383.255" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">position, the energy, and, for CCDs, the grade. Usually this will be  </textline>
+<textline bbox="25.200,330.406,685.272,354.406" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">performed automatically for you in pipeline processing. However, if  </textline>
+<textline bbox="25.200,301.606,532.488,325.606" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">calibration files change you might want to reprocess. </textline>
+</normal_text>
+<normal_text id="2" bbox="25.200,171.986,687.312,282.425" size="24.006" unique_id="2">For Chandra this is performed using the CIAO routines  
+acis_process_events or hrc_process_events. Reprocessing involves  
+setting the input parameters correctly and making sure that you have  
+the latest calibration files. <textline bbox="25.200,258.401,561.776,282.425" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.024" colourspace="DeviceGray">For Chandra this is performed using the CIAO routines  </textline>
+<textline bbox="25.200,229.586,674.016,253.586" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">acis_process_events or hrc_process_events. Reprocessing involves  </textline>
+<textline bbox="25.200,200.786,687.312,224.786" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">setting the input parameters correctly and making sure that you have  </textline>
+<textline bbox="25.200,171.986,272.664,195.986" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">the latest calibration files. </textline>
+</normal_text>
+<normal_text id="3" bbox="25.200,99.956,677.139,152.805" size="24.012" unique_id="3">XMM reprocessing is performed using emproc, epproc, rgsproc for  
+the MOS, PN, and RGS respectively.  <textline bbox="25.200,128.781,677.139,152.805" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">XMM reprocessing is performed using emproc, epproc, rgsproc for  </textline>
+<textline bbox="25.200,99.956,387.120,123.956" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">the MOS, PN, and RGS respectively.  </textline>
+</normal_text>
+<footer id="4" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="4">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[197.64366013071898, 456.8297254901961, 519.740954248366, 510.829725490196]">
+<title id="0" bbox="122.950,460.516,596.908,514.516" size="54.0" unique_id="0">Cleaning and filtering <textline bbox="122.950,460.516,596.908,514.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Cleaning and filtering </textline>
+</title>
+<normal_text id="1" bbox="37.200,313.606,669.048,424.036" size="24.006" unique_id="1">The next step is to remove events that do not meet some criterion  
+for validity, remove events during any times of particularly bad  
+background. You might also want to select only events within a  
+particular region on the sky or on the detector.  <textline bbox="37.200,400.036,669.048,424.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">The next step is to remove events that do not meet some criterion  </textline>
+<textline bbox="37.200,371.231,650.004,395.255" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">for validity, remove events during any times of particularly bad  </textline>
+<textline bbox="37.200,342.406,650.424,366.406" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">background. You might also want to select only events within a  </textline>
+<textline bbox="37.200,313.606,486.072,337.606" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">particular region on the sky or on the detector.  </textline>
+</normal_text>
+<normal_text id="2" bbox="37.200,126.381,679.704,294.406" size="24.008" unique_id="2">There are many tools to select rows out of FITS files however you  
+do need to be a bit careful about which ones are used. Other  
+software may need to know what selections were made. For  
+instance : suppose you select events within some time interval.  
+You can&#8217;t reconstruct this selection just from the events left in the  
+file because there might be real gaps in the data. <textline bbox="37.200,270.406,679.704,294.406" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">There are many tools to select rows out of FITS files however you  </textline>
+<textline bbox="37.200,241.601,617.908,265.625" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.024" colourspace="DeviceGray">do need to be a bit careful about which ones are used. Other  </textline>
+<textline bbox="37.200,212.786,617.208,236.786" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">software may need to know what selections were made. For  </textline>
+<textline bbox="37.200,183.986,645.072,207.986" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">instance : suppose you select events within some time interval.  </textline>
+<textline bbox="37.200,155.186,673.272,179.186" font="BCDFEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">You can&#8217;t reconstruct this selection just from the events left in the  </textline>
+<textline bbox="37.200,126.381,499.085,150.405" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.024" colourspace="DeviceGray">file because there might be real gaps in the data. </textline>
+</normal_text>
+<footer id="3" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="3">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[187.1792748538012, 457.21775438596495, 530.4686432748539, 511.21775438596484]">
+<title id="0" bbox="98.232,460.516,621.654,514.516" size="54.0" unique_id="0">Cleaning and filtering II <textline bbox="98.232,460.516,621.654,514.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Cleaning and filtering II </textline>
+</title>
+<normal_text id="1" bbox="7.200,389.236,705.336,442.036" size="24.0" unique_id="1">Selections are tracked by storing additional information in the file either  
+in keywords or extra extensions.  <textline bbox="7.200,418.036,705.336,442.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Selections are tracked by storing additional information in the file either  </textline>
+<textline bbox="7.200,389.236,324.480,413.236" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">in keywords or extra extensions.  </textline>
+</normal_text>
+<normal_text id="2" bbox="7.200,317.206,608.040,370.006" size="24.0" unique_id="2">In CIAO this is done using the DataModel filtering. See ahelp  
+dmfiltering for details. <textline bbox="7.200,346.006,608.040,370.006" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">In CIAO this is done using the DataModel filtering. See ahelp  </textline>
+<textline bbox="7.200,317.206,223.680,341.206" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">dmfiltering for details. </textline>
+</normal_text>
+<normal_text id="3" bbox="7.200,245.201,662.448,298.006" size="24.012" unique_id="3">The SAS has either a command line option called evselect or a GUI  
+called xmmselect (xmm.vilspa.esa.es/sas/current/doc/evselect). <textline bbox="7.200,274.006,662.448,298.006" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">The SAS has either a command line option called evselect or a GUI  </textline>
+<textline bbox="7.200,245.201,612.989,269.225" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">called xmmselect (xmm.vilspa.esa.es/sas/current/doc/evselect). </textline>
+</normal_text>
+<normal_text id="4" bbox="7.200,86.760,711.000,225.986" size="24.0" unique_id="4">HEAsoft has a program xselect which can be used to perform filtering  
+(through the filter command). xselect actually runs an ftool called  
+extractor, which is available for the sophisticated user  
+(http://heasarc.gsfc.nasa.gov/docs/software/lheasoft/ftools/xselect/xselect 
+.html). <textline bbox="7.200,201.986,686.616,225.986" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">HEAsoft has a program xselect which can be used to perform filtering  </textline>
+<textline bbox="7.200,173.186,642.840,197.186" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">(through the filter command). xselect actually runs an ftool called  </textline>
+<textline bbox="7.200,144.386,528.648,168.386" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">extractor, which is available for the sophisticated user  </textline>
+<textline bbox="7.200,115.556,711.000,139.556" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">(http://heasarc.gsfc.nasa.gov/docs/software/lheasoft/ftools/xselect/xselect </textline>
+<textline bbox="7.200,86.760,71.136,110.760" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">.html). </textline>
+</normal_text>
+<normal_text id="5" bbox="7.200,43.560,391.082,67.560" size="24.0" unique_id="5">All these methods should be equivalent. <textline bbox="7.200,43.560,391.082,67.560">All these methods should be equivalent. <text font="BCDEEE+Times" bbox="7.200,43.560,24.528,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">A</text>
+<text font="BCDEEE+Times" bbox="24.528,43.560,31.200,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="31.200,43.560,37.872,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="37.872,43.560,43.872,67.560" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="43.800,43.560,50.472,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="50.472,43.560,62.472,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="62.472,43.560,73.128,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="73.128,43.560,82.464,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="82.536,43.560,93.192,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="93.192,43.560,99.192,67.560" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="99.096,43.560,117.768,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Times" bbox="117.576,43.560,128.232,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="128.232,43.560,134.904,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="134.904,43.560,146.904,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDEEE+Times" bbox="146.904,43.560,158.904,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Times" bbox="158.904,43.560,170.904,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="170.904,43.560,180.240,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Times" bbox="180.312,43.560,186.312,67.560" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDGEE+Times,Italic" bbox="186.380,43.560,195.716,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDGEE+Times,Italic" bbox="195.716,43.560,207.716,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">h</text>
+<text font="BCDGEE+Times,Italic" bbox="207.716,43.560,219.716,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDGEE+Times,Italic" bbox="219.788,43.560,231.788,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDGEE+Times,Italic" bbox="231.788,43.560,238.460,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDGEE+Times,Italic" bbox="238.532,43.560,250.532,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Times" bbox="256.370,43.560,268.370,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="BCDEEE+Times" bbox="268.370,43.560,279.026,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="279.026,43.560,285.026,67.560" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Times" bbox="285.026,43.560,295.682,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="295.682,43.560,307.682,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">q</text>
+<text font="BCDEEE+Times" bbox="307.682,43.560,319.682,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Times" bbox="319.682,43.560,326.354,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Times" bbox="326.426,43.560,338.426,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="BCDEEE+Times" bbox="338.426,43.560,349.082,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Times" bbox="349.082,43.560,355.754,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Times" bbox="355.754,43.560,366.410,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Times" bbox="366.482,43.560,378.482,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Times" bbox="378.482,43.560,385.154,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Times" bbox="385.082,43.560,391.082,67.560" colourspace="DeviceGray" ncolour="0" size="24.000">.</text>
+</textline>
+</normal_text>
+<footer id="6" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="6">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[183.22834736842105, 457.84757894736845, 534.6327789473685, 511.8475789473684]">
+<title id="0" bbox="147.670,463.516,572.110,517.516" size="54.0" unique_id="0">Extracting products <textline bbox="147.670,463.516,572.110,517.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Extracting products </textline>
+</title>
+<normal_text id="1" bbox="37.200,313.606,663.554,424.036" size="24.006" unique_id="1">Images, energy spectra, and lightcurves are histograms on event  
+attributes so again one could use general software to create these  
+but in many cases subsequent software requires particular  
+keywords or extensions so it is better to use our standard tools. <textline bbox="37.200,400.036,656.664,424.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Images, energy spectra, and lightcurves are histograms on event  </textline>
+<textline bbox="37.200,371.231,663.554,395.255" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">attributes so again one could use general software to create these  </textline>
+<textline bbox="37.200,342.406,596.688,366.406" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">but in many cases subsequent software requires particular  </textline>
+<textline bbox="37.200,313.606,639.384,337.606" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">keywords or extensions so it is better to use our standard tools. </textline>
+</normal_text>
+<normal_text id="2" bbox="37.200,241.601,661.560,294.406" size="24.012" unique_id="2">The HEAsoft program xselect has a command extract which can  
+be used to make these products.  <textline bbox="37.200,270.406,661.560,294.406" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">The HEAsoft program xselect has a command extract which can  </textline>
+<textline bbox="37.200,241.601,348.287,265.625" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.024" colourspace="DeviceGray">be used to make these products.  </textline>
+</normal_text>
+<normal_text id="3" bbox="37.200,169.586,616.320,222.386" size="24.0" unique_id="3">evselect and xmmselect in SAS have options to create these  
+products.  <textline bbox="37.200,198.386,616.320,222.386" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">evselect and xmmselect in SAS have options to create these  </textline>
+<textline bbox="37.200,169.586,131.904,193.586" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">products.  </textline>
+</normal_text>
+<normal_text id="4" bbox="37.200,97.556,682.172,150.405" size="24.012" unique_id="4">In CIAO dmextract is used to make energy spectra and lightcurves  
+and dmcopy to make images. <textline bbox="37.200,126.381,682.172,150.405" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.024" colourspace="DeviceGray">In CIAO dmextract is used to make energy spectra and lightcurves  </textline>
+<textline bbox="37.200,97.556,317.424,121.556" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">and dmcopy to make images. </textline>
+</normal_text>
+<footer id="5" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="5">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[177.99040952380952, 453.58742857142863, 540.2274666666666, 513.7625714285714]">
+<title id="0" bbox="128.230,413.116,593.377,531.955" size="54.012" unique_id="0">Creating observation  
+calibration files <textline bbox="128.230,477.931,593.377,531.955" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.024" colourspace="DeviceGray">Creating observation  </textline>
+<textline bbox="185.260,413.116,522.706,467.116" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">calibration files </textline>
+</title>
+<normal_text id="1" bbox="37.200,295.776,680.904,377.396" size="24.008" unique_id="1">Once you have your products you may need to create other files in  
+order to continue with scientific analysis. For instance, analysis of  
+images may need exposure maps and spectra require responses. <textline bbox="37.200,353.396,680.904,377.396" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Once you have your products you may need to create other files in  </textline>
+<textline bbox="37.200,324.591,677.512,348.615" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">order to continue with scientific analysis. For instance, analysis of  </textline>
+<textline bbox="37.200,295.776,646.512,319.776" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">images may need exposure maps and spectra require responses. </textline>
+</normal_text>
+<normal_text id="2" bbox="37.200,166.156,642.605,276.576" size="24.006" unique_id="2">These tools are always mission-specific since they depend on  
+details of the instruments in use. For Chandra you will want to  
+look at the appropriate analysis threads in :  
+http://asc.harvard.edu/ciao/threads/index.html <textline bbox="37.200,252.576,631.822,276.576" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">These tools are always mission-specific since they depend on  </textline>
+<textline bbox="37.200,223.771,642.605,247.795" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.024" colourspace="DeviceGray">details of the instruments in use. For Chandra you will want to  </textline>
+<textline bbox="37.200,194.956,455.112,218.956" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">look at the appropriate analysis threads in :  </textline>
+<textline bbox="37.200,166.156,477.144,190.156" font="BCDEEE+Times" ncolour="(0, 0, 0.4)" size="24.000" colourspace="DeviceGray">http://asc.harvard.edu/ciao/threads/index.html </textline>
+</normal_text>
+<normal_text id="3" bbox="37.200,94.147,598.224,146.956" size="24.012" unique_id="3">For SAS a good place to start is the XMM ABC guide at :  
+http://xmm.gsfc.nasa.gov/docs/xmm/abc/abc.html <textline bbox="37.200,122.956,598.224,146.956" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">For SAS a good place to start is the XMM ABC guide at :  </textline>
+<textline bbox="37.200,94.147,516.479,118.171" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">http://xmm.gsfc.nasa.gov/docs/xmm/abc/abc.html </textline>
+</normal_text>
+<footer id="4" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="4">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[173.67400865800863, 454.490025974026, 543.6129696969697, 514.1037922077921]">
+<title id="0" bbox="130.510,463.516,577.468,517.516" size="54.0" unique_id="0">Analysis of products <textline bbox="130.510,463.516,577.468,517.516" font="BCDEEE+Times" ncolour="(1, 0, 0)" size="54.000" colourspace="DeviceGray">Analysis of products </textline>
+</title>
+<normal_text id="1" bbox="43.200,342.406,691.752,424.036" size="24.008" unique_id="1">Finally, you can get to the scientific analysis you wanted to do in  
+the first place. Source detection in images, fitting models to energy  
+spectra, searching for periods in lightcurves,&#8230; <textline bbox="43.200,400.036,671.304,424.036" font="BCDEEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">Finally, you can get to the scientific analysis you wanted to do in  </textline>
+<textline bbox="43.200,371.231,691.752,395.255" font="BCDEEE+Times" ncolour="0" size="24.024" colourspace="DeviceGray">the first place. Source detection in images, fitting models to energy  </textline>
+<textline bbox="43.200,342.406,492.864,366.406" font="BCDFEE+Times" ncolour="0" size="24.000" colourspace="DeviceGray">spectra, searching for periods in lightcurves,&#8230; </textline>
+</normal_text>
+<footer id="2" bbox="273.700,27.711,446.017,41.751" size="14.04" unique_id="2">X-ray Astronomy School 2007 <textline bbox="273.700,27.711,446.017,41.751" font="BCDEEE+Times" ncolour="0" size="14.040" colourspace="DeviceGray">X-ray Astronomy School 2007 </textline>
+</footer>
+</page>
+</pages>

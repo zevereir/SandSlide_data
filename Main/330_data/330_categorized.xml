@@ -1,0 +1,819 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="102.550,272.345,627.358,351.550" size="36.012" unique_id="0">Building and Using an Access  
+Grid Node <textline bbox="102.550,315.550,627.358,351.550" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Building and Using an Access  </textline>
+<textline bbox="272.980,272.345,447.120,308.369" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="36.024" colourspace="Pattern">Grid Node </textline>
+</title>
+<normal_text id="1" bbox="229.540,201.890,490.612,225.890" size="24.0" unique_id="1">The Argonne FL Group <textline bbox="229.540,201.890,490.612,225.890" font="Arial-BoldMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">The Argonne FL Group </textline>
+</normal_text>
+<footer id="2" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="2">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<picture name="Image11" bbox="60.000,60.000,660.000,282.000" src="Image11.jpg" width="600" height="222" unique_id="3">
+</picture>
+<picture name="Image12" bbox="390.000,297.000,666.000,504.000" src="Image12.jpg" width="276" height="207" unique_id="4">
+</picture>
+<picture name="Image13" bbox="60.000,299.040,333.240,504.000" src="Image13.jpg" width="273" height="204" unique_id="5">
+</picture>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[232.3, 425.98, 487.684, 461.98]">
+<title id="0" bbox="232.300,425.980,487.684,461.980" size="36.0" unique_id="0">Schedule Today <textline bbox="232.300,425.980,487.684,461.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Schedule Today </textline>
+</title>
+<footer id="8" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="8">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<enlisting bbox="61.224,80.184,600.403,378.79" unique_id="['2', ' 3', ' 4', ' 5', ' 6', ' 7', '1']">&#8226; 
+&#8226; Self organize into two groups 
+&#8226; Concurrent sessions &#8211; Lisa Childers/Bob Olson &#8211; Session 1 &#8211; Session 2 &#8226; Group A &#8211; Node assembly, software install  in the library  
+&#8226; Group B &#8211; Operations in the workshop &#8226; Group A &#8211; Operations in the workshop 
+&#8226; Group B &#8211; Node assembly, software install in the library &#8226; Audio testing and tuning &#8211; Bob Olson 
+&#8226; Live AG sessions Library &#8211; workshop  <normal_text id="2" bbox="61.224,291.430,591.550,378.790" size="24.0" unique_id="2">&#8226; 
+&#8226; Self organize into two groups 
+&#8226; Concurrent sessions &#8211; Lisa Childers/Bob Olson <textline bbox="61.224,354.790,69.624,378.790" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; </textline>
+<textline bbox="61.224,323.110,397.776,347.110" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Self organize into two groups </textline>
+<textline bbox="61.224,291.430,591.550,315.430" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Concurrent sessions &#8211; Lisa Childers/Bob Olson </textline>
+</normal_text>
+<normal_text id="3" bbox="97.224,265.022,207.716,285.062" size="20.04" unique_id="3">&#8211; Session 1 <textline bbox="97.224,265.022,207.716,285.062" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Session 1 </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,191.082,207.716,211.122" size="20.04" unique_id="4">&#8211; Session 2 <textline bbox="97.224,191.082,207.716,211.122" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Session 2 </textline>
+</normal_text>
+<normal_text id="5" bbox="133.220,217.430,600.403,259.229" size="18.012" unique_id="5">&#8226; Group A &#8211; Node assembly, software install  in the library  
+&#8226; Group B &#8211; Operations in the workshop <textline bbox="133.220,241.205,600.403,259.229" font="ArialMT" ncolour="1" size="18.024" colourspace="Pattern">&#8226; Group A &#8211; Node assembly, software install  in the library  </textline>
+<textline bbox="133.220,217.430,456.716,235.430" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8226; Group B &#8211; Operations in the workshop </textline>
+</normal_text>
+<normal_text id="6" bbox="133.220,143.510,592.670,185.270" size="18.0" unique_id="6">&#8226; Group A &#8211; Operations in the workshop 
+&#8226; Group B &#8211; Node assembly, software install in the library <textline bbox="133.220,167.270,454.802,185.270" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8226; Group A &#8211; Operations in the workshop </textline>
+<textline bbox="133.220,143.510,592.670,161.510" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8226; Group B &#8211; Node assembly, software install in the library </textline>
+</normal_text>
+<normal_text id="7" bbox="61.224,80.184,488.446,135.860" size="24.0" unique_id="7">&#8226; Audio testing and tuning &#8211; Bob Olson 
+&#8226; Live AG sessions Library &#8211; workshop  <textline bbox="61.224,111.860,484.630,135.860" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Audio testing and tuning &#8211; Bob Olson </textline>
+<textline bbox="61.224,80.184,488.446,104.184" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Live AG sessions Library &#8211; workshop  </textline>
+</normal_text>
+<normal_text id="1" bbox="88.224,354.790,346.466,378.790" size="24.0" unique_id="1">Introduction &#8211; Terry Disz <textline bbox="88.224,354.790,346.466,378.790" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">Introduction &#8211; Terry Disz </textline>
+</normal_text>
+</enlisting></page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[233.42, 445.98, 494.54, 481.98]">
+<title id="0" bbox="233.980,455.980,497.968,491.980" size="36.0" unique_id="0">The Access Grid <textline bbox="233.980,455.980,497.968,491.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">The Access Grid </textline>
+</title>
+<footer id="5" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="5">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<enlisting bbox="73.224,100.332,663.212,423.94" unique_id="['1', ' 3', ' 4', '2']">&#8226; Access Grid does for people what the computational  &#8226; The Access Grid project focus is to enable groups of  
+people to interact with Grid resources and to use the  
+Grid technology to support group to group  
+collaboration at a distance &#8211; Distributed Lectures and seminars 
+&#8211; Remote participation in panel discussions 
+&#8211; Virtual site visits meetings 
+&#8211; Complex distributed grid based demonstrations <normal_text id="1" bbox="73.224,399.940,661.652,423.940" size="24.0" unique_id="1">&#8226; Access Grid does for people what the computational  <textline bbox="73.224,399.940,661.652,423.940" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Access Grid does for people what the computational  </textline>
+</normal_text>
+<normal_text id="3" bbox="73.224,250.145,663.212,360.598" size="24.006" unique_id="3">&#8226; The Access Grid project focus is to enable groups of  
+people to interact with Grid resources and to use the  
+Grid technology to support group to group  
+collaboration at a distance <textline bbox="73.224,336.550,662.088,360.598">&#8226; The Access Grid project focus is to enable groups of  <text font="ArialMT" bbox="73.224,336.550,81.624,360.550" colourspace="Pattern" ncolour="1" size="24.000">&#8226;</text>
+<text font="ArialMT" bbox="100.220,336.550,114.884,360.550" colourspace="Pattern" ncolour="1" size="24.000">T</text>
+<text font="ArialMT" bbox="114.884,336.550,128.228,360.550" colourspace="Pattern" ncolour="1" size="24.000">h</text>
+<text font="ArialMT" bbox="128.228,336.550,141.572,360.550" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="141.500,336.550,148.172,360.550" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="146.900,336.550,162.908,360.550" colourspace="Pattern" ncolour="1" size="24.000">A</text>
+<text font="ArialMT" bbox="162.908,336.550,174.908,360.550" colourspace="Pattern" ncolour="1" size="24.000">c</text>
+<text font="ArialMT" bbox="174.908,336.550,186.908,360.550" colourspace="Pattern" ncolour="1" size="24.000">c</text>
+<text font="ArialMT" bbox="186.908,336.550,200.252,360.550" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="200.180,336.550,212.180,360.550" colourspace="Pattern" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="212.180,336.550,224.180,360.550" colourspace="Pattern" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="224.180,336.550,230.852,360.550" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="230.852,336.550,249.524,360.550" colourspace="Pattern" ncolour="1" size="24.000">G</text>
+<text font="ArialMT" bbox="249.596,336.550,257.588,360.550" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="257.588,336.550,262.916,360.550" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="262.916,336.550,276.260,360.550" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="ArialMT" bbox="276.260,336.550,282.932,360.550" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="282.836,336.550,296.180,360.550" colourspace="Pattern" ncolour="1" size="24.000">p</text>
+<text font="ArialMT" bbox="296.180,336.550,304.172,360.550" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="304.172,336.550,317.516,360.550" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="317.516,336.550,322.844,360.550" colourspace="Pattern" ncolour="1" size="24.000">j</text>
+<text font="ArialMT" bbox="322.892,336.550,336.236,360.550" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="336.236,336.550,348.236,360.550" colourspace="Pattern" ncolour="1" size="24.000">c</text>
+<text font="ArialMT" bbox="348.236,336.550,354.908,360.550" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="354.908,336.550,361.580,360.550" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="361.628,336.550,368.300,360.550" colourspace="Pattern" ncolour="1" size="24.000">f</text>
+<text font="ArialMT" bbox="368.300,336.550,381.644,360.550" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="381.644,336.550,393.644,360.550" colourspace="Pattern" ncolour="1" size="24.000">c</text>
+<text font="ArialMT" bbox="393.644,336.550,406.988,360.550" colourspace="Pattern" ncolour="1" size="24.000">u</text>
+<text font="ArialMT" bbox="406.988,336.550,418.988,360.550" colourspace="Pattern" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="418.988,336.550,425.660,360.550" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="425.660,336.550,430.988,360.550" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="430.868,336.550,442.868,360.550" colourspace="Pattern" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="442.868,336.550,449.540,360.550" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="449.540,336.550,456.212,360.550" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="456.284,336.550,469.628,360.550" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="469.628,336.550,476.300,360.550" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="476.204,336.550,489.548,360.550" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="489.548,336.550,502.892,360.550" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="ArialMT" bbox="502.892,336.550,516.236,360.550" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="ArialMT" bbox="516.164,336.550,529.508,360.550" colourspace="Pattern" ncolour="1" size="24.000">b</text>
+<text font="ArialMT" bbox="529.508,336.550,534.836,360.550" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="ArialMT" bbox="534.764,336.550,548.108,360.550" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="548.108,336.550,554.780,360.550" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="555.220,336.598,568.564,360.598" colourspace="Pattern" ncolour="1" size="24.000">g</text>
+<text font="Arial-ItalicMT" bbox="568.564,336.598,576.556,360.598" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="Arial-ItalicMT" bbox="576.556,336.598,589.900,360.598" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="Arial-ItalicMT" bbox="589.900,336.598,603.244,360.598" colourspace="Pattern" ncolour="1" size="24.000">u</text>
+<text font="Arial-ItalicMT" bbox="603.244,336.598,616.588,360.598" colourspace="Pattern" ncolour="1" size="24.000">p</text>
+<text font="Arial-ItalicMT" bbox="616.588,336.598,628.588,360.598" colourspace="Pattern" ncolour="1" size="24.000">s</text>
+<text font="ArialMT" bbox="635.400,336.550,648.744,360.550" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="648.744,336.550,655.416,360.550" colourspace="Pattern" ncolour="1" size="24.000">f</text>
+<text font="ArialMT" bbox="655.416,336.550,662.088,360.550" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+</textline>
+<textline bbox="100.220,307.750,663.212,331.750" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">people to interact with Grid resources and to use the  </textline>
+<textline bbox="100.220,278.950,551.156,302.950" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">Grid technology to support group to group  </textline>
+<textline bbox="100.220,250.145,379.187,274.169" font="ArialMT" ncolour="1" size="24.024" colourspace="Pattern">collaboration at a distance </textline>
+</normal_text>
+<normal_text id="4" bbox="109.220,100.332,549.814,206.802" size="20.046" unique_id="4">&#8211; Distributed Lectures and seminars 
+&#8211; Remote participation in panel discussions 
+&#8211; Virtual site visits meetings 
+&#8211; Complex distributed grid based demonstrations <textline bbox="109.220,186.762,435.206,206.802" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Distributed Lectures and seminars </textline>
+<textline bbox="109.220,157.962,499.975,178.002" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Remote participation in panel discussions </textline>
+<textline bbox="109.220,129.157,361.633,149.221" font="ArialMT" ncolour="1" size="20.064" colourspace="Pattern">&#8211; Virtual site visits meetings </textline>
+<textline bbox="109.220,100.332,549.814,120.372" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Complex distributed grid based demonstrations </textline>
+</normal_text>
+<normal_text id="2" bbox="100.220,371.135,348.148,395.159" size="24.024" unique_id="2">Grid does for machines <textline bbox="100.220,371.135,348.148,395.159" font="ArialMT" ncolour="1" size="24.024" colourspace="Pattern">Grid does for machines </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[222.17999999999998, 453.98, 501.78000000000003, 489.98]">
+<title id="0" bbox="210.940,461.980,509.020,497.980" size="36.0" unique_id="0">Access Grid Goals <textline bbox="210.940,461.980,509.020,497.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Access Grid Goals </textline>
+</title>
+<footer id="5" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="5">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<enlisting bbox="55.2,99.86,668.112,411.94" unique_id="['1', '2', '3', '4']">&#8226; Enable quality group to group interactions at a distance 
+&#8226; Optimize the user experience &#8211; provide a sense of presence and participation 
+&#8211; support natural interaction modalities &#8226; Highest quality but affordable digital audio/video  
+&#8226; Enable complex multisite visual experiences 
+&#8211; Integrate with high-end visualization environments 
+&#8211; ActiveMural, Powerwall, CAVE family, Workbenches &#8226; Build on Grid services 
+&#8226; Provide a distributed testbed for ActiveSpace research <normal_text id="1" bbox="55.200,353.350,668.112,411.940" size="24.0" unique_id="1">&#8226; Enable quality group to group interactions at a distance 
+&#8226; Optimize the user experience <textline bbox="55.200,387.940,668.112,411.940" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Enable quality group to group interactions at a distance </textline>
+<textline bbox="55.200,353.350,394.104,377.350" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Optimize the user experience </textline>
+</normal_text>
+<normal_text id="2" bbox="91.224,295.742,517.065,344.582" size="20.04" unique_id="2">&#8211; provide a sense of presence and participation 
+&#8211; support natural interaction modalities <textline bbox="91.224,324.542,517.065,344.582" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; provide a sense of presence and participation </textline>
+<textline bbox="91.224,295.742,440.412,315.782" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; support natural interaction modalities </textline>
+</normal_text>
+<normal_text id="3" bbox="55.200,169.002,598.056,285.190" size="22.019999999999996" unique_id="3">&#8226; Highest quality but affordable digital audio/video  
+&#8226; Enable complex multisite visual experiences 
+&#8211; Integrate with high-end visualization environments 
+&#8211; ActiveMural, Powerwall, CAVE family, Workbenches <textline bbox="55.200,261.190,598.056,285.190" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Highest quality but affordable digital audio/video  </textline>
+<textline bbox="55.200,226.610,551.856,250.610" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Enable complex multisite visual experiences </textline>
+<textline bbox="91.224,197.802,557.516,217.842" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Integrate with high-end visualization environments </textline>
+<textline bbox="91.224,169.002,574.159,189.042" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; ActiveMural, Powerwall, CAVE family, Workbenches </textline>
+</normal_text>
+<normal_text id="4" bbox="55.200,99.860,659.904,158.469" size="24.012" unique_id="4">&#8226; Build on Grid services 
+&#8226; Provide a distributed testbed for ActiveSpace research <textline bbox="55.200,134.445,315.737,158.469" font="ArialMT" ncolour="1" size="24.024" colourspace="Pattern">&#8226; Build on Grid services </textline>
+<textline bbox="55.200,99.860,659.904,123.860" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Provide a distributed testbed for ActiveSpace research </textline>
+</normal_text>
+</enlisting></page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[152.0472, 442.78000000000003, 572.7272, 496.06000000000006]">
+<title id="0" bbox="46.848,425.980,679.148,505.180" size="36.0" unique_id="0">The Access Grid is Based on Digitally  
+Linking &#8220;Intentionally Designed&#8221; Spaces <textline bbox="63.912,469.180,672.024,505.180" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">The Access Grid is Based on Digitally  </textline>
+<textline bbox="46.848,425.980,679.148,462.052">Linking &#8220;Intentionally Designed&#8221; Spaces <text font="ArialMT" bbox="46.848,425.980,66.864,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">L</text>
+<text font="ArialMT" bbox="66.864,425.980,74.856,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">i</text>
+<text font="ArialMT" bbox="74.928,425.980,94.944,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">n</text>
+<text font="ArialMT" bbox="94.944,425.980,112.944,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">k</text>
+<text font="ArialMT" bbox="112.944,425.980,120.936,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">i</text>
+<text font="ArialMT" bbox="121.044,425.980,141.060,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">n</text>
+<text font="ArialMT" bbox="141.060,425.980,161.076,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">g</text>
+<text font="ArialMT" bbox="161.076,425.980,171.084,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000"> </text>
+<text font="ArialMT" bbox="170.904,425.980,182.892,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">&#8220;</text>
+<text font="Arial-ItalicMT" bbox="182.860,426.052,192.868,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">I</text>
+<text font="Arial-ItalicMT" bbox="192.868,426.052,212.884,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">n</text>
+<text font="Arial-ItalicMT" bbox="212.884,426.052,222.892,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">t</text>
+<text font="Arial-ItalicMT" bbox="222.892,426.052,242.908,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">e</text>
+<text font="Arial-ItalicMT" bbox="242.908,426.052,262.924,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">n</text>
+<text font="Arial-ItalicMT" bbox="262.924,426.052,272.932,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">t</text>
+<text font="Arial-ItalicMT" bbox="272.932,426.052,280.924,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">i</text>
+<text font="Arial-ItalicMT" bbox="280.924,426.052,300.940,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">o</text>
+<text font="Arial-ItalicMT" bbox="300.940,426.052,320.956,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">n</text>
+<text font="Arial-ItalicMT" bbox="320.956,426.052,340.972,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">a</text>
+<text font="Arial-ItalicMT" bbox="340.972,426.052,348.964,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">l</text>
+<text font="Arial-ItalicMT" bbox="348.964,426.052,356.956,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">l</text>
+<text font="Arial-ItalicMT" bbox="357.064,426.052,375.064,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">y</text>
+<text font="Arial-ItalicMT" bbox="375.064,426.052,385.072,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000"> </text>
+<text font="Arial-ItalicMT" bbox="384.892,426.052,410.884,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">D</text>
+<text font="Arial-ItalicMT" bbox="410.884,426.052,430.900,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">e</text>
+<text font="Arial-ItalicMT" bbox="430.900,426.052,448.900,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">s</text>
+<text font="Arial-ItalicMT" bbox="448.900,426.052,456.892,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">i</text>
+<text font="Arial-ItalicMT" bbox="456.964,426.052,476.980,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">g</text>
+<text font="Arial-ItalicMT" bbox="476.980,426.052,496.996,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">n</text>
+<text font="Arial-ItalicMT" bbox="496.996,426.052,517.012,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">e</text>
+<text font="Arial-ItalicMT" bbox="517.012,426.052,537.028,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">d</text>
+<text font="Arial-ItalicMT" bbox="537.028,426.052,549.016,462.052" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">&#8221;</text>
+<text font="ArialMT" bbox="558.980,425.980,582.992,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">S</text>
+<text font="ArialMT" bbox="582.992,425.980,603.008,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">p</text>
+<text font="ArialMT" bbox="603.008,425.980,623.024,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">a</text>
+<text font="ArialMT" bbox="623.024,425.980,641.024,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">c</text>
+<text font="ArialMT" bbox="641.132,425.980,661.148,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">e</text>
+<text font="ArialMT" bbox="661.148,425.980,679.148,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">s</text>
+</textline>
+</title>
+<footer id="7" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="7">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<enlisting bbox="61.224,110.172,587.674,381.959" unique_id="['1', '2', '3', '4', '5', '6']">&#8226; Physical Groupwork spaces  &#8211; seating, lighting, audio, video, screens, worksurfaces &#8226; Virtual collaborative spaces &#8211; strong metaphors for resource organization  
+&#8211; interaction scope management &#8226; Agenda driven scenarios and work sessions  
+&#8211; lectures, brainstorming, demos, meetings, planning 
+Integration with GRID services  
+&#8211; resource management, security, services brokering &#8226; <normal_text id="1" bbox="61.224,357.935,391.095,381.959" size="24.024" unique_id="1">&#8226; Physical Groupwork spaces  <textline bbox="61.224,357.935,391.095,381.959" font="ArialMT" ncolour="1" size="24.024" colourspace="Pattern">&#8226; Physical Groupwork spaces  </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,329.102,587.674,349.142" size="20.04" unique_id="2">&#8211; seating, lighting, audio, video, screens, worksurfaces <textline bbox="97.224,329.102,587.674,349.142" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; seating, lighting, audio, video, screens, worksurfaces </textline>
+</normal_text>
+<normal_text id="3" bbox="61.224,294.550,380.208,318.550" size="24.0" unique_id="3">&#8226; Virtual collaborative spaces <textline bbox="61.224,294.550,380.208,318.550" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Virtual collaborative spaces </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,236.922,507.394,285.782" size="20.04" unique_id="4">&#8211; strong metaphors for resource organization  
+&#8211; interaction scope management <textline bbox="97.224,265.742,507.394,285.782" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; strong metaphors for resource organization  </textline>
+<textline bbox="97.224,236.922,393.346,256.962" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; interaction scope management </textline>
+</normal_text>
+<normal_text id="5" bbox="61.224,110.172,571.662,226.370" size="22.025999999999996" unique_id="5">&#8226; Agenda driven scenarios and work sessions  
+&#8211; lectures, brainstorming, demos, meetings, planning 
+Integration with GRID services  
+&#8211; resource management, security, services brokering <textline bbox="61.224,202.370,563.280,226.370" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Agenda driven scenarios and work sessions  </textline>
+<textline bbox="97.224,173.562,571.662,193.602" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; lectures, brainstorming, demos, meetings, planning </textline>
+<textline bbox="88.224,139.005,419.059,163.029" font="ArialMT" ncolour="1" size="24.024" colourspace="Pattern">Integration with GRID services  </textline>
+<textline bbox="97.224,110.172,571.421,130.212" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; resource management, security, services brokering </textline>
+</normal_text>
+<normal_text id="6" bbox="61.224,139.005,69.632,163.029" size="24.024" unique_id="6">&#8226; <textline bbox="61.224,139.005,69.632,163.029" font="ArialMT" ncolour="1" size="24.024" colourspace="Pattern">&#8226; </textline>
+</normal_text>
+</enlisting></page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[165.99813333333333, 447.18000000000006, 557.1754666666668, 494.7]">
+<title id="0" bbox="193.900,455.980,526.072,491.980" size="36.0" unique_id="0">Some AG Definitions <textline bbox="193.900,455.980,526.072,491.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Some AG Definitions </textline>
+</title>
+<normal_text id="1" bbox="88.224,291.942,655.156,408.852" size="20.0448" unique_id="1">The Access Grid: The infrastructure and software technologies  
+enabling linking together distributed Active(Work)Spaces to  
+support highly distributed collaborations in science, engineering  
+and education, integrated with and providing seamless access  
+to the resources of the National Technology Grid. <textline bbox="88.224,388.772,645.928,408.852">The Access Grid: The infrastructure and software technologies  <text font="ArialMT" bbox="88.224,388.772,100.468,408.812" colourspace="Pattern" ncolour="1" size="20.040">T</text>
+<text font="ArialMT" bbox="100.468,388.772,111.611,408.812" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="ArialMT" bbox="111.611,388.772,122.753,408.812" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="ArialMT" bbox="122.753,388.772,128.324,408.812" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="ArialMT" bbox="127.102,388.772,140.468,408.812" colourspace="Pattern" ncolour="1" size="20.040">A</text>
+<text font="ArialMT" bbox="140.468,388.772,150.488,408.812" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="ArialMT" bbox="150.488,388.772,160.508,408.812" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="ArialMT" bbox="160.568,388.772,171.711,408.812" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="ArialMT" bbox="171.711,388.772,181.731,408.812" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="ArialMT" bbox="181.791,388.772,191.811,408.812" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="ArialMT" bbox="191.811,388.772,197.382,408.812" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="ArialMT" bbox="197.021,388.772,212.612,408.812" colourspace="Pattern" ncolour="1" size="20.040">G</text>
+<text font="ArialMT" bbox="212.612,388.772,219.286,408.812" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="ArialMT" bbox="219.286,388.772,223.734,408.812" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="ArialMT" bbox="223.734,388.772,234.877,408.812" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="ArialMT" bbox="234.917,388.772,240.488,408.812" colourspace="Pattern" ncolour="1" size="20.040">:</text>
+<text font="ArialMT" bbox="240.488,388.772,246.059,408.812" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="245.930,388.812,258.174,408.852" colourspace="Pattern" ncolour="1" size="20.040">T</text>
+<text font="Arial-ItalicMT" bbox="258.174,388.812,269.317,408.852" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-ItalicMT" bbox="269.317,388.812,280.459,408.852" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="280.459,388.812,286.030,408.852" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="285.890,388.812,290.339,408.852" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="290.339,388.812,301.481,408.852" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="301.481,388.812,307.052,408.852" colourspace="Pattern" ncolour="1" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="307.052,388.812,313.725,408.852" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="313.725,388.812,324.868,408.852" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="324.868,388.812,334.888,408.852" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="334.948,388.812,340.519,408.852" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="340.519,388.812,347.192,408.852" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="347.192,388.812,358.334,408.852" colourspace="Pattern" ncolour="1" size="20.040">u</text>
+<text font="Arial-ItalicMT" bbox="358.334,388.812,368.354,408.852" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="Arial-ItalicMT" bbox="368.354,388.812,373.925,408.852" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="373.825,388.812,384.968,408.852" colourspace="Pattern" ncolour="1" size="20.040">u</text>
+<text font="Arial-ItalicMT" bbox="384.968,388.812,391.641,408.852" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="391.641,388.812,402.783,408.852" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="402.783,388.812,408.354,408.852" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="407.913,388.812,419.056,408.852" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="419.056,388.812,430.198,408.852" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="430.198,388.812,441.340,408.852" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="Arial-ItalicMT" bbox="441.340,388.812,446.911,408.852" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="446.791,388.812,456.811,408.852" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="456.811,388.812,467.953,408.852" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="468.013,388.812,473.584,408.852" colourspace="Pattern" ncolour="1" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="473.584,388.812,479.156,408.852" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="479.055,388.812,493.524,408.852" colourspace="Pattern" ncolour="1" size="20.040">w</text>
+<text font="Arial-ItalicMT" bbox="493.524,388.812,504.666,408.852" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="504.707,388.812,511.380,408.852" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="511.380,388.812,522.522,408.852" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="522.562,388.812,528.133,408.852" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="527.712,388.812,533.284,408.852" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="533.284,388.812,544.426,408.852" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="544.426,388.812,554.446,408.852" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="Arial-ItalicMT" bbox="554.446,388.812,565.588,408.852" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-ItalicMT" bbox="565.588,388.812,576.730,408.852" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="576.770,388.812,587.913,408.852" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="587.913,388.812,592.361,408.852" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-ItalicMT" bbox="592.361,388.812,603.504,408.852" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="603.504,388.812,614.646,408.852" colourspace="Pattern" ncolour="1" size="20.040">g</text>
+<text font="Arial-ItalicMT" bbox="614.646,388.812,619.095,408.852" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="619.095,388.812,630.237,408.852" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="630.237,388.812,640.257,408.852" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="640.357,388.812,645.928,408.852" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+</textline>
+<textline bbox="88.224,363.967,616.569,384.031" font="Arial-ItalicMT" ncolour="1" size="20.064" colourspace="Pattern">enabling linking together distributed Active(Work)Spaces to  </textline>
+<textline bbox="88.224,339.942,655.156,359.982" font="Arial-ItalicMT" ncolour="1" size="20.040" colourspace="Pattern">support highly distributed collaborations in science, engineering  </textline>
+<textline bbox="88.224,315.942,643.973,335.982" font="Arial-ItalicMT" ncolour="1" size="20.040" colourspace="Pattern">and education, integrated with and providing seamless access  </textline>
+<textline bbox="88.224,291.942,521.669,311.982" font="Arial-ItalicMT" ncolour="1" size="20.040" colourspace="Pattern">to the resources of the National Technology Grid. </textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,186.322,617.082,254.362" size="20.04" unique_id="2">Access Grid Node: The ensemble of  systems and services  
+managed and scheduled as a coherent unit (i.e. basic  
+component of a virtual venue). <textline bbox="88.224,234.282,617.082,254.362">Access Grid Node: The ensemble of  systems and services  <text font="ArialMT" bbox="88.224,234.282,101.591,254.322" colourspace="Pattern" ncolour="1" size="20.040">A</text>
+<text font="ArialMT" bbox="101.591,234.282,111.611,254.322" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="ArialMT" bbox="111.611,234.282,121.631,254.322" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="ArialMT" bbox="121.691,234.282,132.833,254.322" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="ArialMT" bbox="132.833,234.282,142.853,254.322" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="ArialMT" bbox="142.913,234.282,152.933,254.322" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="ArialMT" bbox="152.933,234.282,158.504,254.322" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="ArialMT" bbox="158.144,234.282,173.735,254.322" colourspace="Pattern" ncolour="1" size="20.040">G</text>
+<text font="ArialMT" bbox="173.735,234.282,180.408,254.322" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="ArialMT" bbox="180.408,234.282,184.857,254.322" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="ArialMT" bbox="184.857,234.282,195.999,254.322" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="ArialMT" bbox="196.039,234.282,201.610,254.322" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="ArialMT" bbox="201.430,234.282,215.899,254.322" colourspace="Pattern" ncolour="1" size="20.040">N</text>
+<text font="ArialMT" bbox="215.899,234.282,227.041,254.322" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="ArialMT" bbox="227.081,234.282,238.223,254.322" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="ArialMT" bbox="238.223,234.282,249.366,254.322" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="ArialMT" bbox="249.366,234.282,254.937,254.322" colourspace="Pattern" ncolour="1" size="20.040">:</text>
+<text font="ArialMT" bbox="254.937,234.282,260.508,254.322" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="260.330,234.322,272.574,254.362" colourspace="Pattern" ncolour="1" size="20.040">T</text>
+<text font="Arial-ItalicMT" bbox="272.574,234.322,283.717,254.362" colourspace="Pattern" ncolour="1" size="20.040">h</text>
+<text font="Arial-ItalicMT" bbox="283.717,234.322,294.859,254.362" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="294.859,234.322,300.430,254.362" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="300.430,234.322,311.572,254.362" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="311.572,234.322,322.715,254.362" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="322.715,234.322,332.735,254.362" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="332.795,234.322,343.937,254.362" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="343.937,234.322,360.630,254.362" colourspace="Pattern" ncolour="1" size="20.040">m</text>
+<text font="Arial-ItalicMT" bbox="360.510,234.322,371.652,254.362" colourspace="Pattern" ncolour="1" size="20.040">b</text>
+<text font="Arial-ItalicMT" bbox="371.652,234.322,376.101,254.362" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="Arial-ItalicMT" bbox="376.101,234.322,387.243,254.362" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="387.243,234.322,392.814,254.362" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="392.554,234.322,403.696,254.362" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="Arial-ItalicMT" bbox="403.696,234.322,409.267,254.362" colourspace="Pattern" ncolour="1" size="20.040">f</text>
+<text font="Arial-ItalicMT" bbox="409.267,234.322,414.838,254.362" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="414.758,234.322,420.329,254.362" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="420.329,234.322,430.349,254.362" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="430.349,234.322,440.369,254.362" colourspace="Pattern" ncolour="1" size="20.040">y</text>
+<text font="Arial-ItalicMT" bbox="440.409,234.322,450.429,254.362" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="450.429,234.322,456.001,254.362" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="Arial-ItalicMT" bbox="456.001,234.322,467.143,254.362" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="467.143,234.322,483.836,254.362" colourspace="Pattern" ncolour="1" size="20.040">m</text>
+<text font="Arial-ItalicMT" bbox="483.736,234.322,493.756,254.362" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="493.756,234.322,499.327,254.362" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="498.966,234.322,510.109,254.362" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="Arial-ItalicMT" bbox="510.109,234.322,521.251,254.362" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="Arial-ItalicMT" bbox="521.251,234.322,532.393,254.362" colourspace="Pattern" ncolour="1" size="20.040">d</text>
+<text font="Arial-ItalicMT" bbox="532.393,234.322,537.964,254.362" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="Arial-ItalicMT" bbox="537.844,234.322,547.864,254.362" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="547.864,234.322,559.006,254.362" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="559.066,234.322,565.740,254.362" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="Arial-ItalicMT" bbox="565.740,234.322,575.760,254.362" colourspace="Pattern" ncolour="1" size="20.040">v</text>
+<text font="Arial-ItalicMT" bbox="575.840,234.322,580.289,254.362" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="Arial-ItalicMT" bbox="580.289,234.322,590.309,254.362" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="Arial-ItalicMT" bbox="590.309,234.322,601.451,254.362" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="Arial-ItalicMT" bbox="601.491,234.322,611.511,254.362" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="Arial-ItalicMT" bbox="611.511,234.322,617.082,254.362" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+</textline>
+<textline bbox="88.224,210.322,568.082,230.362" font="Arial-ItalicMT" ncolour="1" size="20.040" colourspace="Pattern">managed and scheduled as a coherent unit (i.e. basic  </textline>
+<textline bbox="88.224,186.322,357.101,206.362" font="Arial-ItalicMT" ncolour="1" size="20.040" colourspace="Pattern">component of a virtual venue). </textline>
+</normal_text>
+<normal_text id="3" bbox="88.224,56.696,625.497,148.781" size="20.046" unique_id="3">Access Grid Site: A physical site (admin domain, networking  
+POP, etc.) that  supports one or more Access Grid Nodes.  
+Access Grid Sites need to be Grid services enabled  
+(authentication, QoS, security, resource management, etc.) <textline bbox="88.224,128.677,625.497,148.781">Access Grid Site: A physical site (admin domain, networking  <text font="ArialMT" bbox="88.224,128.677,101.607,148.741" colourspace="Pattern" ncolour="1" size="20.064">A</text>
+<text font="ArialMT" bbox="101.546,128.677,111.578,148.741" colourspace="Pattern" ncolour="1" size="20.064">c</text>
+<text font="ArialMT" bbox="111.578,128.677,121.610,148.741" colourspace="Pattern" ncolour="1" size="20.064">c</text>
+<text font="ArialMT" bbox="121.691,128.677,132.846,148.741" colourspace="Pattern" ncolour="1" size="20.064">e</text>
+<text font="ArialMT" bbox="132.846,128.677,142.878,148.741" colourspace="Pattern" ncolour="1" size="20.064">s</text>
+<text font="ArialMT" bbox="142.878,128.677,152.910,148.741" colourspace="Pattern" ncolour="1" size="20.064">s</text>
+<text font="ArialMT" bbox="152.991,128.677,158.568,148.741" colourspace="Pattern" ncolour="1" size="20.064"> </text>
+<text font="ArialMT" bbox="158.147,128.677,173.757,148.741" colourspace="Pattern" ncolour="1" size="20.064">G</text>
+<text font="ArialMT" bbox="173.757,128.677,180.438,148.741" colourspace="Pattern" ncolour="1" size="20.064">r</text>
+<text font="ArialMT" bbox="180.438,128.677,184.892,148.741" colourspace="Pattern" ncolour="1" size="20.064">i</text>
+<text font="ArialMT" bbox="184.892,128.677,196.048,148.741" colourspace="Pattern" ncolour="1" size="20.064">d</text>
+<text font="ArialMT" bbox="196.048,128.677,201.626,148.741" colourspace="Pattern" ncolour="1" size="20.064"> </text>
+<text font="ArialMT" bbox="201.465,128.677,214.848,148.741" colourspace="Pattern" ncolour="1" size="20.064">S</text>
+<text font="ArialMT" bbox="214.788,128.677,219.242,148.741" colourspace="Pattern" ncolour="1" size="20.064">i</text>
+<text font="ArialMT" bbox="219.242,128.677,224.820,148.741" colourspace="Pattern" ncolour="1" size="20.064">t</text>
+<text font="ArialMT" bbox="224.739,128.677,235.895,148.741" colourspace="Pattern" ncolour="1" size="20.064">e</text>
+<text font="ArialMT" bbox="235.895,128.677,241.473,148.741" colourspace="Pattern" ncolour="1" size="20.064">:</text>
+<text font="ArialMT" bbox="241.473,128.677,247.051,148.741" colourspace="Pattern" ncolour="1" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="247.010,128.717,260.393,148.781" colourspace="Pattern" ncolour="1" size="20.064">A</text>
+<text font="Arial-ItalicMT" bbox="259.610,128.717,265.188,148.781" colourspace="Pattern" ncolour="1" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="265.188,128.717,276.344,148.781" colourspace="Pattern" ncolour="1" size="20.064">p</text>
+<text font="Arial-ItalicMT" bbox="276.344,128.717,287.499,148.781" colourspace="Pattern" ncolour="1" size="20.064">h</text>
+<text font="Arial-ItalicMT" bbox="287.499,128.717,297.531,148.781" colourspace="Pattern" ncolour="1" size="20.064">y</text>
+<text font="Arial-ItalicMT" bbox="297.531,128.717,307.563,148.781" colourspace="Pattern" ncolour="1" size="20.064">s</text>
+<text font="Arial-ItalicMT" bbox="307.563,128.717,312.017,148.781" colourspace="Pattern" ncolour="1" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="312.017,128.717,322.049,148.781" colourspace="Pattern" ncolour="1" size="20.064">c</text>
+<text font="Arial-ItalicMT" bbox="322.110,128.717,333.265,148.781" colourspace="Pattern" ncolour="1" size="20.064">a</text>
+<text font="Arial-ItalicMT" bbox="333.265,128.717,337.719,148.781" colourspace="Pattern" ncolour="1" size="20.064">l</text>
+<text font="Arial-ItalicMT" bbox="337.719,128.717,343.297,148.781" colourspace="Pattern" ncolour="1" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="342.996,128.717,353.028,148.781" colourspace="Pattern" ncolour="1" size="20.064">s</text>
+<text font="Arial-ItalicMT" bbox="353.028,128.717,357.482,148.781" colourspace="Pattern" ncolour="1" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="357.482,128.717,363.060,148.781" colourspace="Pattern" ncolour="1" size="20.064">t</text>
+<text font="Arial-ItalicMT" bbox="363.060,128.717,374.216,148.781" colourspace="Pattern" ncolour="1" size="20.064">e</text>
+<text font="Arial-ItalicMT" bbox="374.216,128.717,379.794,148.781" colourspace="Pattern" ncolour="1" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="379.593,128.717,386.274,148.781" colourspace="Pattern" ncolour="1" size="20.064">(</text>
+<text font="Arial-ItalicMT" bbox="386.274,128.717,397.430,148.781" colourspace="Pattern" ncolour="1" size="20.064">a</text>
+<text font="Arial-ItalicMT" bbox="397.430,128.717,408.585,148.781" colourspace="Pattern" ncolour="1" size="20.064">d</text>
+<text font="Arial-ItalicMT" bbox="408.585,128.717,425.299,148.781" colourspace="Pattern" ncolour="1" size="20.064">m</text>
+<text font="Arial-ItalicMT" bbox="425.198,128.717,429.653,148.781" colourspace="Pattern" ncolour="1" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="429.653,128.717,440.808,148.781" colourspace="Pattern" ncolour="1" size="20.064">n</text>
+<text font="Arial-ItalicMT" bbox="440.808,128.717,446.386,148.781" colourspace="Pattern" ncolour="1" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="446.205,128.717,457.361,148.781" colourspace="Pattern" ncolour="1" size="20.064">d</text>
+<text font="Arial-ItalicMT" bbox="457.361,128.717,468.517,148.781" colourspace="Pattern" ncolour="1" size="20.064">o</text>
+<text font="Arial-ItalicMT" bbox="468.517,128.717,485.230,148.781" colourspace="Pattern" ncolour="1" size="20.064">m</text>
+<text font="Arial-ItalicMT" bbox="485.089,128.717,496.245,148.781" colourspace="Pattern" ncolour="1" size="20.064">a</text>
+<text font="Arial-ItalicMT" bbox="496.245,128.717,500.699,148.781" colourspace="Pattern" ncolour="1" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="500.699,128.717,511.855,148.781" colourspace="Pattern" ncolour="1" size="20.064">n</text>
+<text font="Arial-ItalicMT" bbox="511.855,128.717,517.433,148.781" colourspace="Pattern" ncolour="1" size="20.064">,</text>
+<text font="Arial-ItalicMT" bbox="517.372,128.717,522.950,148.781" colourspace="Pattern" ncolour="1" size="20.064"> </text>
+<text font="Arial-ItalicMT" bbox="522.950,128.717,534.106,148.781" colourspace="Pattern" ncolour="1" size="20.064">n</text>
+<text font="Arial-ItalicMT" bbox="534.106,128.717,545.261,148.781" colourspace="Pattern" ncolour="1" size="20.064">e</text>
+<text font="Arial-ItalicMT" bbox="545.261,128.717,550.839,148.781" colourspace="Pattern" ncolour="1" size="20.064">t</text>
+<text font="Arial-ItalicMT" bbox="550.739,128.717,565.225,148.781" colourspace="Pattern" ncolour="1" size="20.064">w</text>
+<text font="Arial-ItalicMT" bbox="565.225,128.717,576.381,148.781" colourspace="Pattern" ncolour="1" size="20.064">o</text>
+<text font="Arial-ItalicMT" bbox="576.381,128.717,583.062,148.781" colourspace="Pattern" ncolour="1" size="20.064">r</text>
+<text font="Arial-ItalicMT" bbox="583.122,128.717,593.154,148.781" colourspace="Pattern" ncolour="1" size="20.064">k</text>
+<text font="Arial-ItalicMT" bbox="593.154,128.717,597.608,148.781" colourspace="Pattern" ncolour="1" size="20.064">i</text>
+<text font="Arial-ItalicMT" bbox="597.608,128.717,608.764,148.781" colourspace="Pattern" ncolour="1" size="20.064">n</text>
+<text font="Arial-ItalicMT" bbox="608.764,128.717,619.920,148.781" colourspace="Pattern" ncolour="1" size="20.064">g</text>
+<text font="Arial-ItalicMT" bbox="619.920,128.717,625.497,148.781" colourspace="Pattern" ncolour="1" size="20.064"> </text>
+</textline>
+<textline bbox="88.224,104.692,604.074,124.732" font="Arial-ItalicMT" ncolour="1" size="20.040" colourspace="Pattern">POP, etc.) that  supports one or more Access Grid Nodes.  </textline>
+<textline bbox="88.224,80.696,550.166,100.736" font="Arial-ItalicMT" ncolour="1" size="20.040" colourspace="Pattern">Access Grid Sites need to be Grid services enabled  </textline>
+<textline bbox="88.224,56.696,609.424,76.736" font="Arial-ItalicMT" ncolour="1" size="20.040" colourspace="Pattern">(authentication, QoS, security, resource management, etc.) </textline>
+</normal_text>
+<footer id="4" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="4">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[164.29295238095239, 451.4085714285715, 557.9899047619048, 495.6371428571429]">
+<title id="0" bbox="160.030,461.980,560.026,497.980" size="36.0" unique_id="0">Access Grid Concepts (I) <textline bbox="160.030,461.980,560.026,497.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Access Grid Concepts (I) </textline>
+</title>
+<footer id="3" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="3">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<picture name="Image54" bbox="108.000,231.960,552.000,420.000" src="Image54.jpg" width="444" height="188" unique_id="4">
+</picture>
+<enlisting bbox="61.224,110.412,480.642,445.24" unique_id="['1', '2']">&#8226; AG prototype Demonstration at UKY Chautauqua &#8226; Shared PowerPoint 
+&#8226; Large-format displays 
+&#8226; Multiple audio and video streams 
+&#8226; Supporting distributed meetings <normal_text id="1" bbox="61.224,427.240,480.642,445.240" size="18.0" unique_id="1">&#8226; AG prototype Demonstration at UKY Chautauqua <textline bbox="61.224,427.240,480.642,445.240" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8226; AG prototype Demonstration at UKY Chautauqua </textline>
+</normal_text>
+<normal_text id="2" bbox="61.224,110.412,380.837,209.682" size="20.046" unique_id="2">&#8226; Shared PowerPoint 
+&#8226; Large-format displays 
+&#8226; Multiple audio and video streams 
+&#8226; Supporting distributed meetings <textline bbox="61.224,189.642,260.688,209.682" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8226; Shared PowerPoint </textline>
+<textline bbox="61.224,163.242,280.408,183.282" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8226; Large-format displays </textline>
+<textline bbox="61.224,136.837,380.837,156.901" font="ArialMT" ncolour="1" size="20.064" colourspace="Pattern">&#8226; Multiple audio and video streams </textline>
+<textline bbox="61.224,110.412,369.525,130.452" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8226; Supporting distributed meetings </textline>
+</normal_text>
+</enlisting></page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[169.4747142857143, 454.05142857142863, 567.2484285714286, 496.2228571428572]">
+<title id="0" bbox="185.020,461.980,595.024,497.980" size="36.0" unique_id="0">Access Grid Concepts (II) <textline bbox="185.020,461.980,595.024,497.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Access Grid Concepts (II) </textline>
+</title>
+<normal_text id="1" bbox="660.620,332.607,713.003,363.447" size="14.04" unique_id="1">Presenter 
+mic <textline bbox="660.620,349.407,713.003,363.447" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">Presenter </textline>
+<textline bbox="676.340,332.607,697.203,346.647" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">mic </textline>
+</normal_text>
+<normal_text id="2" bbox="35.880,322.112,88.263,352.957" size="14.052" unique_id="2">Presenter 
+camera <textline bbox="35.880,338.917,88.263,352.957" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">Presenter </textline>
+<textline bbox="41.880,322.112,82.216,336.176" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.064" colourspace="Pattern">camera </textline>
+</normal_text>
+<normal_text id="3" bbox="46.296,261.947,119.543,292.787" size="14.04" unique_id="3">Ambient mic 
+(tabletop) <textline bbox="46.296,278.747,119.543,292.787" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">Ambient mic </textline>
+<textline bbox="55.656,261.947,110.552,275.987" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">(tabletop) </textline>
+</normal_text>
+<normal_text id="4" bbox="31.392,230.487,128.886,244.527" size="14.04" unique_id="4">Audience camera <textline bbox="31.392,230.487,128.886,244.527" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">Audience camera </textline>
+</normal_text>
+<normal_text id="5" bbox="291.100,400.987,343.483,431.827" size="14.04" unique_id="5">Presenter 
+mic <textline bbox="291.100,417.787,343.483,431.827" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">Presenter </textline>
+<textline bbox="306.820,400.987,327.683,415.027" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">mic </textline>
+</normal_text>
+<normal_text id="6" bbox="369.190,324.497,421.573,355.337" size="14.04" unique_id="6">Presenter 
+camera <textline bbox="369.190,341.297,421.573,355.337" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">Presenter </textline>
+<textline bbox="375.190,324.497,415.499,338.537" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">camera </textline>
+</normal_text>
+<normal_text id="7" bbox="344.400,250.987,417.647,281.827" size="14.04" unique_id="7">Ambient mic 
+(tabletop) <textline bbox="344.400,267.787,417.647,281.827" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">Ambient mic </textline>
+<textline bbox="353.640,250.987,408.396,265.027" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">(tabletop) </textline>
+</normal_text>
+<normal_text id="8" bbox="339.310,230.987,436.804,245.027" size="14.04" unique_id="8">Audience camera <textline bbox="339.310,230.987,436.804,245.027" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="14.040" colourspace="Pattern">Audience camera </textline>
+</normal_text>
+<footer id="11" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="11">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<picture name="Image59" bbox="77.280,214.800,329.400,434.760" src="Image59.jpg" width="252" height="219" unique_id="12">
+</picture>
+<picture name="Image62" bbox="413.640,213.000,654.720,408.000" src="Image62.jpg" width="241" height="195" unique_id="13">
+</picture>
+<enlisting bbox="61.224,54.736,452.52,193.97" unique_id="['9', '10']">&#8226; Spaces underdevelopment at ANL &#8211; Library 
+&#8211; Workshop 
+&#8211; ActiveMural Room 
+&#8211; Office <normal_text id="9" bbox="61.224,169.970,452.520,193.970" size="24.0" unique_id="9">&#8226; Spaces underdevelopment at ANL <textline bbox="61.224,169.970,452.520,193.970" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Spaces underdevelopment at ANL </textline>
+</normal_text>
+<normal_text id="10" bbox="97.224,54.736,283.286,161.202" size="20.04" unique_id="10">&#8211; Library 
+&#8211; Workshop 
+&#8211; ActiveMural Room 
+&#8211; Office <textline bbox="97.224,141.162,181.122,161.202" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Library </textline>
+<textline bbox="97.224,112.332,209.720,132.372" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Workshop </textline>
+<textline bbox="97.224,83.536,283.286,103.576" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; ActiveMural Room </textline>
+<textline bbox="97.224,54.736,171.724,74.776" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Office </textline>
+</normal_text>
+</enlisting></page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[144.22966666666667, 454.4800000000001, 592.7292222222222, 495.28000000000003]">
+<title id="0" bbox="55.872,455.980,681.912,491.980" size="36.0" unique_id="0">Physical Spaces to Support Groupwork <textline bbox="55.872,455.980,681.912,491.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Physical Spaces to Support Groupwork </textline>
+</title>
+<footer id="7" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="7">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<enlisting bbox="61.224,111.132,631.662,405.94" unique_id="['1', '2', '3', '4', '5', '6']">&#8226; Overall room layout &#8211; large enough to support groups and workplace tools  
+&#8211; configured so that both local and remote interactions work &#8226; Lighting and camera geometry  &#8211; studio type environment with specified placement, levels 
+&#8211; well tested and calibrated for good image quality &#8226; Audio geometry &#8211; multiple microphones and speakers 
+&#8211; tested to provide good coverage 
+&#8211; designed to support audio clarity and some spatialization <normal_text id="1" bbox="61.224,381.940,296.256,405.940" size="24.0" unique_id="1">&#8226; Overall room layout <textline bbox="61.224,381.940,296.256,405.940" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Overall room layout </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,324.302,631.662,373.142" size="20.04" unique_id="2">&#8211; large enough to support groups and workplace tools  
+&#8211; configured so that both local and remote interactions work <textline bbox="97.224,353.102,585.069,373.142" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; large enough to support groups and workplace tools  </textline>
+<textline bbox="97.224,324.302,631.662,344.342" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; configured so that both local and remote interactions work </textline>
+</normal_text>
+<normal_text id="3" bbox="61.224,289.750,419.232,313.750" size="24.0" unique_id="3">&#8226; Lighting and camera geometry  <textline bbox="61.224,289.750,419.232,313.750" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Lighting and camera geometry  </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,232.122,617.433,280.982" size="20.04" unique_id="4">&#8211; studio type environment with specified placement, levels 
+&#8211; well tested and calibrated for good image quality <textline bbox="97.224,260.942,617.433,280.982" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; studio type environment with specified placement, levels </textline>
+<textline bbox="97.224,232.122,547.454,252.162" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; well tested and calibrated for good image quality </textline>
+</normal_text>
+<normal_text id="5" bbox="61.224,197.570,256.368,221.570" size="24.0" unique_id="5">&#8226; Audio geometry <textline bbox="61.224,197.570,256.368,221.570" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Audio geometry </textline>
+</normal_text>
+<normal_text id="6" bbox="97.224,111.132,622.043,188.802" size="20.048" unique_id="6">&#8211; multiple microphones and speakers 
+&#8211; tested to provide good coverage 
+&#8211; designed to support audio clarity and some spatialization <textline bbox="97.224,168.762,434.628,188.802" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; multiple microphones and speakers </textline>
+<textline bbox="97.224,139.957,405.471,160.021" font="ArialMT" ncolour="1" size="20.064" colourspace="Pattern">&#8211; tested to provide good coverage </textline>
+<textline bbox="97.224,111.132,622.043,131.172" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; designed to support audio clarity and some spatialization </textline>
+</normal_text>
+</enlisting></page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[142.03773333333334, 454.78000000000003, 591.4925777777778, 494.62]">
+<title id="0" bbox="133.270,455.980,586.546,491.980" size="36.0" unique_id="0">Virtual Collaboration Spaces <textline bbox="133.270,455.980,586.546,491.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Virtual Collaboration Spaces </textline>
+</title>
+<footer id="9" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="9">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<enlisting bbox="67.224,94.344,618.792,417.94" unique_id="['1', '2', '3', '4', '5', '6', '7', '8']">&#8226; Structure and organization supports intended use &#8211; activity dependent  &#8226; secure channels for &#8220;private sessions&#8221; 
+&#8226; broadcast channels for public meetings &#8226; Supports multiple interaction types (modalities) &#8211; text, audio, video, graphics, animation, VR &#8226; Can exploit strong spatial metaphor &#8211; interaction scoping 
+&#8211; resource organization 
+&#8211; navigation and discovery &#8226; Needed to escape the tyranny of the desktop <normal_text id="1" bbox="67.224,393.940,618.792,417.940" size="24.0" unique_id="1">&#8226; Structure and organization supports intended use <textline bbox="67.224,393.940,618.792,417.940" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Structure and organization supports intended use </textline>
+</normal_text>
+<normal_text id="2" bbox="103.220,365.127,292.733,385.191" size="20.064" unique_id="2">&#8211; activity dependent  <textline bbox="103.220,365.127,292.733,385.191" font="ArialMT" ncolour="1" size="20.064" colourspace="Pattern">&#8211; activity dependent  </textline>
+</normal_text>
+<normal_text id="3" bbox="139.220,313.210,469.052,357.130" size="18.0" unique_id="3">&#8226; secure channels for &#8220;private sessions&#8221; 
+&#8226; broadcast channels for public meetings <textline bbox="139.220,339.130,460.052,357.130" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8226; secure channels for &#8220;private sessions&#8221; </textline>
+<textline bbox="139.220,313.210,469.052,331.210" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8226; broadcast channels for public meetings </textline>
+</normal_text>
+<normal_text id="4" bbox="67.224,278.710,591.816,302.710" size="24.0" unique_id="4">&#8226; Supports multiple interaction types (modalities) <textline bbox="67.224,278.710,591.816,302.710" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Supports multiple interaction types (modalities) </textline>
+</normal_text>
+<normal_text id="5" bbox="103.220,249.897,499.853,269.961" size="20.064" unique_id="5">&#8211; text, audio, video, graphics, animation, VR <textline bbox="103.220,249.897,499.853,269.961" font="ArialMT" ncolour="1" size="20.064" colourspace="Pattern">&#8211; text, audio, video, graphics, animation, VR </textline>
+</normal_text>
+<normal_text id="6" bbox="67.224,215.330,471.840,239.330" size="24.0" unique_id="6">&#8226; Can exploit strong spatial metaphor <textline bbox="67.224,215.330,471.840,239.330" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Can exploit strong spatial metaphor </textline>
+</normal_text>
+<normal_text id="7" bbox="103.220,128.917,346.123,206.562" size="20.048" unique_id="7">&#8211; interaction scoping 
+&#8211; resource organization 
+&#8211; navigation and discovery <textline bbox="103.220,186.522,292.713,206.562" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; interaction scoping </textline>
+<textline bbox="103.220,157.722,318.264,177.762" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; resource organization </textline>
+<textline bbox="103.220,128.917,346.123,148.981" font="ArialMT" ncolour="1" size="20.064" colourspace="Pattern">&#8211; navigation and discovery </textline>
+</normal_text>
+<normal_text id="8" bbox="67.224,94.344,571.800,118.344" size="24.0" unique_id="8">&#8226; Needed to escape the tyranny of the desktop <textline bbox="67.224,94.344,571.800,118.344" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Needed to escape the tyranny of the desktop </textline>
+</normal_text>
+</enlisting></page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[134.5526909090909, 458.27090909090913, 596.5102909090909, 497.4127272727273]">
+<title id="0" bbox="100.870,473.980,619.090,509.980" size="36.0" unique_id="0">Access Grid at the Chautauquas <textline bbox="100.870,473.980,619.090,509.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Access Grid at the Chautauquas </textline>
+</title>
+<normal_text id="1" bbox="319.250,409.453,378.877,425.413" size="15.96" unique_id="1">Argonne <textline bbox="319.250,409.453,378.877,425.413" font="TimesNewRomanPS-BoldMT" ncolour="1" size="15.960" colourspace="Pattern">Argonne </textline>
+</normal_text>
+<normal_text id="2" bbox="475.300,409.453,518.734,425.413" size="15.96" unique_id="2">NCSA <textline bbox="475.300,409.453,518.734,425.413" font="TimesNewRomanPS-BoldMT" ncolour="1" size="15.960" colourspace="Pattern">NCSA </textline>
+</normal_text>
+<normal_text id="3" bbox="614.570,348.223,648.262,383.431" size="15.972000000000001" unique_id="3">U of  
+Utah <textline bbox="614.570,367.447,647.385,383.431" font="TimesNewRomanPS-BoldMT" ncolour="1" size="15.984" colourspace="Pattern">U of  </textline>
+<textline bbox="614.570,348.223,648.262,364.183" font="TimesNewRomanPS-BoldMT" ncolour="1" size="15.960" colourspace="Pattern">Utah </textline>
+</normal_text>
+<normal_text id="4" bbox="349.270,226.959,465.671,258.999" size="32.04" unique_id="4">The Grid <textline bbox="349.270,226.959,465.671,258.999" font="TimesNewRomanPSMT" ncolour="(1, 0, 0)" size="32.040" colourspace="Pattern">The Grid </textline>
+</normal_text>
+<normal_text id="7" bbox="577.300,70.977,637.310,125.333" size="15.96" unique_id="7">Alliance  
+Access  
+Center  <textline bbox="577.300,109.373,637.310,125.333" font="TimesNewRomanPS-BoldMT" ncolour="1" size="15.960" colourspace="Pattern">Alliance  </textline>
+<textline bbox="577.300,90.177,626.632,106.137" font="TimesNewRomanPS-BoldMT" ncolour="1" size="15.960" colourspace="Pattern">Access  </textline>
+<textline bbox="577.300,70.977,628.101,86.937" font="TimesNewRomanPS-BoldMT" ncolour="1" size="15.960" colourspace="Pattern">Center  </textline>
+</normal_text>
+<normal_text id="8" bbox="25.200,96.356,283.200,177.986" size="24.008" unique_id="8">University of New Mexico 
+University of Kentucky 
+Boston University <textline bbox="25.200,153.986,283.200,177.986" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">University of New Mexico </textline>
+<textline bbox="25.200,125.181,251.746,149.205" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="Pattern">University of Kentucky </textline>
+<textline bbox="25.200,96.356,200.712,120.356" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Boston University </textline>
+</normal_text>
+<footer id="9" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="9">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<picture name="Image75" bbox="31.200,192.960,235.200,324.000" src="Image75.jpg" width="204" height="131" unique_id="10">
+</picture>
+<picture name="Image76" bbox="463.200,320.280,583.200,402.000" src="Image76.jpg" width="120" height="81" unique_id="11">
+</picture>
+<enlisting_image name="Image76" bbox="547.200,260.280,667.200,342.000" src="Image76.0.jpg" width="120" height="81" unique_id="12">
+</enlisting_image>
+<picture name="Image76" bbox="301.200,314.280,421.200,396.000" src="Image76.1.jpg" width="120" height="81" unique_id="13">
+</picture>
+<enlisting_image name="Image76" bbox="541.200,134.280,661.200,216.000" src="Image76.2.jpg" width="120" height="81" unique_id="14">
+</enlisting_image>
+<picture name="Image76" bbox="439.200,86.280,559.200,168.000" src="Image76.3.jpg" width="120" height="81" unique_id="15" caption="UIC-EVL " caption_ids="['6']">
+</picture>
+<picture name="Image76" bbox="301.200,86.280,421.200,168.000" src="Image76.4.jpg" width="120" height="81" unique_id="16" caption="GA Tech " caption_ids="['5']">
+</picture>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[139.61890909090909, 460.8890909090909, 589.6305757575758, 499.5072727272728]">
+<title id="0" bbox="164.950,473.980,555.232,509.980" size="36.0" unique_id="0">A Semi-Designed Space <textline bbox="164.950,473.980,555.232,509.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">A Semi-Designed Space </textline>
+</title>
+<footer id="1" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="1">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<picture name="Image93" bbox="78.000,85.800,636.000,444.000" src="Image93.jpg" width="558" height="358" unique_id="2">
+</picture>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[124.71876923076924, 461.4249230769231, 607.8731025641025, 499.0310769230769]">
+<title id="0" bbox="42.768,464.372,708.207,496.412" size="32.04" unique_id="0">Enhanced Space for Distributed  Presentations <textline bbox="42.768,464.372,708.207,496.412" font="ArialMT" ncolour="(1, 1, 0)" size="32.040" colourspace="Pattern">Enhanced Space for Distributed  Presentations </textline>
+</title>
+<footer id="1" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="1">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<picture name="Image98" bbox="90.000,88.320,612.000,444.000" src="Image98.jpg" width="522" height="355" unique_id="2">
+</picture>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[137.79037362637362, 456.3613626373626, 593.0066593406593, 493.7380659340659]">
+<title id="0" bbox="216.220,425.980,503.808,461.980" size="36.0" unique_id="0">Equipment &#8211; PC&#8217;s <textline bbox="216.220,425.980,503.808,461.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Equipment &#8211; PC&#8217;s </textline>
+</title>
+<footer id="9" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="9">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<enlisting bbox="61.224,68.552,461.6,376.742" unique_id="['1', '2', '3', '4', '5', '6', '7', '8']">&#8226; 4 PC&#8217;s, minimum Pentium 2, 350MHz &#8211; Display Machine &#8226; 1 - Matrox G100-quad  multiple display card 
+&#8226; Windows NT &#8211; Audio Capture Machine &#8226; Linux 
+&#8226; 2 or more  - Soundblaster PCI 128 card &#8211; Video Capture Machine &#8226; Dual CPU 
+&#8226; Linux 
+&#8226; 4 &#8211; Hauppage WinTV PCI capture cards &#8211; Control machine 
+&#8226; Win 98  <normal_text id="1" bbox="61.224,356.702,420.187,376.742" size="20.04" unique_id="1">&#8226; 4 PC&#8217;s, minimum Pentium 2, 350MHz <textline bbox="61.224,356.702,420.187,376.742" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8226; 4 PC&#8217;s, minimum Pentium 2, 350MHz </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,330.730,251.558,348.730" size="18.0" unique_id="2">&#8211; Display Machine <textline bbox="97.224,330.730,251.558,348.730" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8211; Display Machine </textline>
+</normal_text>
+<normal_text id="3" bbox="133.220,284.598,461.600,323.598" size="15.96" unique_id="3">&#8226; 1 - Matrox G100-quad  multiple display card 
+&#8226; Windows NT <textline bbox="133.220,307.638,461.600,323.598" font="ArialMT" ncolour="1" size="15.960" colourspace="Pattern">&#8226; 1 - Matrox G100-quad  multiple display card </textline>
+<textline bbox="133.220,284.598,241.681,300.558" font="ArialMT" ncolour="1" size="15.960" colourspace="Pattern">&#8226; Windows NT </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,258.730,307.574,276.730" size="18.0" unique_id="4">&#8211; Audio Capture Machine <textline bbox="97.224,258.730,307.574,276.730" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8211; Audio Capture Machine </textline>
+</normal_text>
+<normal_text id="5" bbox="133.220,212.578,430.665,251.578" size="15.96" unique_id="5">&#8226; Linux 
+&#8226; 2 or more  - Soundblaster PCI 128 card <textline bbox="133.220,235.618,189.412,251.578" font="ArialMT" ncolour="1" size="15.960" colourspace="Pattern">&#8226; Linux </textline>
+<textline bbox="133.220,212.578,430.665,228.538" font="ArialMT" ncolour="1" size="15.960" colourspace="Pattern">&#8226; 2 or more  - Soundblaster PCI 128 card </textline>
+</normal_text>
+<normal_text id="6" bbox="97.224,186.710,307.232,204.710" size="18.0" unique_id="6">&#8211; Video Capture Machine <textline bbox="97.224,186.710,307.232,204.710" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8211; Video Capture Machine </textline>
+</normal_text>
+<normal_text id="7" bbox="133.220,117.508,436.467,179.578" size="15.96" unique_id="7">&#8226; Dual CPU 
+&#8226; Linux 
+&#8226; 4 &#8211; Hauppage WinTV PCI capture cards <textline bbox="133.220,163.618,222.098,179.578" font="ArialMT" ncolour="1" size="15.960" colourspace="Pattern">&#8226; Dual CPU </textline>
+<textline bbox="133.220,140.578,189.412,156.538" font="ArialMT" ncolour="1" size="15.960" colourspace="Pattern">&#8226; Linux </textline>
+<textline bbox="133.220,117.508,436.467,133.468" font="ArialMT" ncolour="1" size="15.960" colourspace="Pattern">&#8226; 4 &#8211; Hauppage WinTV PCI capture cards </textline>
+</normal_text>
+<normal_text id="8" bbox="97.224,68.552,250.604,109.644" size="16.98" unique_id="8">&#8211; Control machine 
+&#8226; Win 98  <textline bbox="97.224,91.644,250.604,109.644" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8211; Control machine </textline>
+<textline bbox="133.220,68.552,205.404,84.512" font="ArialMT" ncolour="1" size="15.960" colourspace="Pattern">&#8226; Win 98  </textline>
+</normal_text>
+</enlisting></page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[146.87165714285715, 452.3105142857143, 582.4719047619047, 489.50365714285715]">
+<title id="0" bbox="205.900,425.980,513.996,461.980" size="36.0" unique_id="0">Equipment - Sound <textline bbox="205.900,425.980,513.996,461.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Equipment - Sound </textline>
+</title>
+<footer id="3" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="3">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<enlisting bbox="61.224,196.362,546.0,375.91" unique_id="['1', '2']">&#8226; Gentner AP400 or AP800 Echo Cancel box 
+&#8226; Genelec speakers (2) 
+&#8226; Microphones &#8211; 4 Maximum on the Gentner &#8211; For table top use, Crown pcc 160 
+&#8211; Wireless, Vega R22/T25 
+&#8211; Room use &#8211; Crown PZM-30D <normal_text id="1" bbox="61.224,282.790,546.000,375.910" size="24.0" unique_id="1">&#8226; Gentner AP400 or AP800 Echo Cancel box 
+&#8226; Genelec speakers (2) 
+&#8226; Microphones &#8211; 4 Maximum on the Gentner <textline bbox="61.224,351.910,546.000,375.910" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Gentner AP400 or AP800 Echo Cancel box </textline>
+<textline bbox="61.224,317.350,317.784,341.350" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Genelec speakers (2) </textline>
+<textline bbox="61.224,282.790,543.362,306.790" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Microphones &#8211; 4 Maximum on the Gentner </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,196.362,414.079,274.041" size="20.048" unique_id="2">&#8211; For table top use, Crown pcc 160 
+&#8211; Wireless, Vega R22/T25 
+&#8211; Room use &#8211; Crown PZM-30D <textline bbox="97.224,253.977,414.079,274.041" font="ArialMT" ncolour="1" size="20.064" colourspace="Pattern">&#8211; For table top use, Crown pcc 160 </textline>
+<textline bbox="97.224,225.162,335.471,245.202" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Wireless, Vega R22/T25 </textline>
+<textline bbox="97.224,196.362,382.219,216.402" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Room use &#8211; Crown PZM-30D </textline>
+</normal_text>
+</enlisting></page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[151.6252, 449.0192, 576.5389166666666, 486.0632]">
+<title id="0" bbox="184.900,425.980,535.008,461.980" size="36.0" unique_id="0">Equipment - Cameras <textline bbox="184.900,425.980,535.008,461.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Equipment - Cameras </textline>
+</title>
+<footer id="1" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="1">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[145.10364705882353, 446.30870588235297, 582.0924558823529, 483.22988235294116]">
+<title id="0" bbox="96.192,425.980,623.744,461.980" size="36.0" unique_id="0">Projection Technology - Projectors <textline bbox="96.192,425.980,623.744,461.980">Projection Technology - Projectors <text font="ArialMT" bbox="96.192,425.980,120.204,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">P</text>
+<text font="ArialMT" bbox="120.204,425.980,132.192,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">r</text>
+<text font="ArialMT" bbox="132.192,425.980,152.208,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">o</text>
+<text font="ArialMT" bbox="152.208,425.980,160.200,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">j</text>
+<text font="ArialMT" bbox="160.200,425.980,180.216,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">e</text>
+<text font="ArialMT" bbox="180.216,425.980,198.216,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">c</text>
+<text font="ArialMT" bbox="198.216,425.980,208.224,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">t</text>
+<text font="ArialMT" bbox="208.224,425.980,216.216,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">i</text>
+<text font="ArialMT" bbox="216.216,425.980,236.232,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">o</text>
+<text font="ArialMT" bbox="236.304,425.980,256.320,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">n</text>
+<text font="ArialMT" bbox="256.320,425.980,266.328,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000"> </text>
+<text font="ArialMT" bbox="265.464,425.980,287.460,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">T</text>
+<text font="ArialMT" bbox="283.464,425.980,303.480,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">e</text>
+<text font="ArialMT" bbox="303.480,425.980,321.480,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">c</text>
+<text font="ArialMT" bbox="321.480,425.980,341.496,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">h</text>
+<text font="ArialMT" bbox="341.496,425.980,361.512,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">n</text>
+<text font="ArialMT" bbox="361.512,425.980,381.528,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">o</text>
+<text font="ArialMT" bbox="381.528,425.980,389.520,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">l</text>
+<text font="ArialMT" bbox="389.628,425.980,409.644,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">o</text>
+<text font="ArialMT" bbox="409.644,425.980,429.660,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">g</text>
+<text font="ArialMT" bbox="429.660,425.980,447.660,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">y</text>
+<text font="ArialMT" bbox="447.660,425.980,457.668,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000"> </text>
+<text font="ArialMT" bbox="457.580,425.980,469.568,461.980" colourspace="Pattern" ncolour="(1, 1, 0)" size="36.000">-</text>
+<text font="ArialMT" bbox="479.660,426.812,501.031,458.852" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">P</text>
+<text font="ArialMT" bbox="501.031,426.812,511.700,458.852" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">r</text>
+<text font="ArialMT" bbox="511.700,426.812,529.514,458.852" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">o</text>
+<text font="ArialMT" bbox="529.514,426.812,536.627,458.852" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">j</text>
+<text font="ArialMT" bbox="536.627,426.812,554.441,458.852" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">e</text>
+<text font="ArialMT" bbox="554.313,426.812,570.333,458.852" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">c</text>
+<text font="ArialMT" bbox="570.333,426.812,579.240,458.852" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">t</text>
+<text font="ArialMT" bbox="579.240,426.812,597.055,458.852" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">o</text>
+<text font="ArialMT" bbox="597.055,426.812,607.724,458.852" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">r</text>
+<text font="ArialMT" bbox="607.724,426.812,623.744,458.852" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">s</text>
+</textline>
+</title>
+<footer id="3" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="3">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<enlisting bbox="61.224,150.282,431.823,375.91" unique_id="['1', '2']">&#8226; Epson ELP-7500 &#8211; LCD  
+&#8211; small, light, bright  
+&#8211; uniform 
+&#8211; Low cost - $ 4,500 
+&#8211; focus from 3.6&#8217;  to 38&#8217; 
+&#8211; screen size from 24&#8221; to 300&#8221; 
+&#8211; airflow front to side: good geometry <normal_text id="1" bbox="61.224,351.910,269.594,375.910" size="24.0" unique_id="1">&#8226; Epson ELP-7500 <textline bbox="61.224,351.910,269.594,375.910" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Epson ELP-7500 </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,150.282,431.823,343.142" size="20.039999999999996" unique_id="2">&#8211; LCD  
+&#8211; small, light, bright  
+&#8211; uniform 
+&#8211; Low cost - $ 4,500 
+&#8211; focus from 3.6&#8217;  to 38&#8217; 
+&#8211; screen size from 24&#8221; to 300&#8221; 
+&#8211; airflow front to side: good geometry <textline bbox="97.224,323.102,165.471,343.142" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; LCD  </textline>
+<textline bbox="97.224,294.302,280.982,314.342" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; small, light, bright  </textline>
+<textline bbox="97.224,265.502,186.593,285.542" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; uniform </textline>
+<textline bbox="97.224,236.682,288.603,256.722" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Low cost - $ 4,500 </textline>
+<textline bbox="97.224,207.882,309.819,227.922" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; focus from 3.6&#8217;  to 38&#8217; </textline>
+<textline bbox="97.224,179.082,368.336,199.122" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; screen size from 24&#8221; to 300&#8221; </textline>
+<textline bbox="97.224,150.282,431.823,170.322" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; airflow front to side: good geometry </textline>
+</normal_text>
+</enlisting></page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[161.0854640522876, 446.4499607843137, 566.4159607843137, 483.26878431372546]">
+<title id="0" bbox="288.940,447.580,441.004,483.580" size="36.0" unique_id="0">Software  <textline bbox="288.940,447.580,441.004,483.580" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Software  </textline>
+</title>
+<footer id="7" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="7">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<enlisting bbox="61.224,83.964,575.858,375.91" unique_id="['1', '2', '3', '4', '5', '6']">&#8226; NT Software 
+&#8211; NT 4.0 
+&#8211; AG Virtual Venue Software Installation 
+&#8211; Microsoft Office 97 or 2000 &#8226; Windows 98 &#8211; Gentner Control Software &#8226; Linux &#8211; Redhat 6.1 
+&#8211; AG Software install script &#8226; Installs Video, audio capture, resource managers, etc <normal_text id="1" bbox="61.224,265.502,458.356,375.910" size="21.03" unique_id="1">&#8226; NT Software 
+&#8211; NT 4.0 
+&#8211; AG Virtual Venue Software Installation 
+&#8211; Microsoft Office 97 or 2000 <textline bbox="61.224,351.910,221.016,375.910" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; NT Software </textline>
+<textline bbox="97.224,323.102,179.519,343.142" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; NT 4.0 </textline>
+<textline bbox="97.224,294.302,458.356,314.342" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; AG Virtual Venue Software Installation </textline>
+<textline bbox="97.224,265.502,359.018,285.542" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Microsoft Office 97 or 2000 </textline>
+</normal_text>
+<normal_text id="2" bbox="61.224,230.930,219.048,254.930" size="24.0" unique_id="2">&#8226; Windows 98 <textline bbox="61.224,230.930,219.048,254.930" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Windows 98 </textline>
+</normal_text>
+<normal_text id="3" bbox="97.224,202.122,346.372,222.162" size="20.04" unique_id="3">&#8211; Gentner Control Software <textline bbox="97.224,202.122,346.372,222.162" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; Gentner Control Software </textline>
+</normal_text>
+<normal_text id="4" bbox="61.224,167.570,145.512,191.570" size="24.0" unique_id="4">&#8226; Linux <textline bbox="61.224,167.570,145.512,191.570" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; Linux </textline>
+</normal_text>
+<normal_text id="5" bbox="97.224,109.932,343.266,158.821" size="20.052" unique_id="5">&#8211; Redhat 6.1 
+&#8211; AG Software install script <textline bbox="97.224,138.757,217.632,158.821" font="ArialMT" ncolour="1" size="20.064" colourspace="Pattern">&#8211; Redhat 6.1 </textline>
+<textline bbox="97.224,109.932,343.266,129.972" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">&#8211; AG Software install script </textline>
+</normal_text>
+<normal_text id="6" bbox="133.220,83.964,575.858,101.964" size="18.0" unique_id="6">&#8226; Installs Video, audio capture, resource managers, etc <textline bbox="133.220,83.964,575.858,101.964" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">&#8226; Installs Video, audio capture, resource managers, etc </textline>
+</normal_text>
+</enlisting></page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[161.8364678362573, 444.2952280701754, 564.8622807017543, 481.0278596491228]">
+<title id="0" bbox="168.220,425.980,551.656,461.980" size="36.0" unique_id="0">Argonne Ag Web Pages <textline bbox="168.220,425.980,551.656,461.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Argonne Ag Web Pages </textline>
+</title>
+<enlisting id="1" bbox="61.224,351.910,512.498,375.910" size="24.0" unique_id="1">&#8226; http://www-fp.mcs.anl.gov/fl/Accessgrid/ <textline bbox="61.224,351.910,512.498,375.910" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">&#8226; http://www-fp.mcs.anl.gov/fl/Accessgrid/ </textline>
+</enlisting>
+<footer id="2" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="2">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[177.15282105263157, 442.46370526315786, 548.8796526315789, 479.12307368421045]">
+<title id="0" bbox="315.000,425.980,405.036,461.980" size="36.0" unique_id="0">SC99 <textline bbox="315.000,425.980,405.036,461.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">SC99 </textline>
+</title>
+<footer id="1" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="1">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<picture name="Image128" bbox="114.000,66.000,570.000,408.000" src="Image128.jpg" width="456" height="342" unique_id="2">
+</picture>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[190.28112380952382, 440.89382857142857, 535.1802571428572, 477.49039999999997]">
+<title id="0" bbox="315.000,425.980,405.036,461.980" size="36.0" unique_id="0">SC99 <textline bbox="315.000,425.980,405.036,461.980" font="ArialMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">SC99 </textline>
+</title>
+<footer id="1" bbox="19.200,9.473,146.128,23.537" size="14.064" unique_id="1">Argonne FL Group <textline bbox="19.200,9.473,146.128,23.537" font="BCDEEE+Tahoma-Bold" ncolour="1" size="14.064" colourspace="Pattern">Argonne FL Group </textline>
+</footer>
+<picture name="Image133" bbox="114.000,58.080,588.480,414.000" src="Image133.jpg" width="474" height="355" unique_id="2">
+</picture>
+</page>
+</pages>

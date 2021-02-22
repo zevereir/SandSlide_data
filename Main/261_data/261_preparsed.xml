@@ -1,0 +1,1465 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="17.568,308.557,713.268,458.227" size="44.048">Calibration, Sensitivity Analysis and  
+Uncertainty of Groundwater  
+Models  <textline bbox="17.568,414.187,713.268,458.227" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040" colourspace="Pattern">Calibration, Sensitivity Analysis and  </textline>
+<textline bbox="90.672,361.382,640.238,405.446" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.064" colourspace="Pattern">Uncertainty of Groundwater  </textline>
+<textline bbox="280.540,308.557,428.558,352.597" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040" colourspace="Pattern">Models  </textline>
+</textbox>
+<textbox id="1" bbox="238.490,221.186,481.421,274.025" size="24.012">Geocenter, Copenhagen 
+13-15 September 2007 <textline bbox="238.490,250.001,481.421,274.025" font="TimesNewRomanPS-BoldMT" ncolour="1" size="24.024" colourspace="Pattern">Geocenter, Copenhagen </textline>
+<textline bbox="250.730,221.186,469.202,245.186" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">13-15 September 2007 </textline>
+</textbox>
+<textbox id="2" bbox="7.200,163.586,570.074,187.586" size="24.0">Instructors: Mary C. Hill (US Geological Survey, USA) <textline bbox="7.200,163.586,570.074,187.586">Instructors: Mary C. Hill (US Geological Survey, USA) <text font="TimesNewRomanPS-BoldMT" bbox="7.200,163.586,16.536,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">I</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="16.536,163.586,29.880,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="29.880,163.586,39.216,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="39.216,163.586,47.208,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="47.256,163.586,57.912,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="57.912,163.586,71.256,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="71.256,163.586,81.912,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="81.912,163.586,89.904,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="89.952,163.586,101.952,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="101.952,163.586,112.608,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="112.608,163.586,121.944,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="121.944,163.586,129.936,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">:</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="130.008,163.586,136.008,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="135.888,163.586,158.544,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">M</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="158.544,163.586,170.544,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="170.544,163.586,181.200,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="181.200,163.586,193.200,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="193.200,163.586,199.200,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="199.128,163.586,216.456,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">C</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="216.456,163.586,222.456,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">.</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="222.456,163.586,228.456,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="228.456,163.586,247.128,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">H</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="247.224,163.586,253.896,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="253.896,163.586,260.568,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="260.640,163.586,267.312,187.586" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="273.170,163.586,281.162,187.586" colourspace="Pattern" ncolour="1" size="24.000">(</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="281.162,163.586,298.490,187.586" colourspace="Pattern" ncolour="1" size="24.000">U</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="298.490,163.586,311.834,187.586" colourspace="Pattern" ncolour="1" size="24.000">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="311.834,163.586,317.834,187.586" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="317.906,163.586,336.578,187.586" colourspace="Pattern" ncolour="1" size="24.000">G</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="336.578,163.586,347.234,187.586" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="347.234,163.586,359.234,187.586" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="359.234,163.586,365.906,187.586" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="366.002,163.586,378.002,187.586" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="378.002,163.586,390.002,187.586" colourspace="Pattern" ncolour="1" size="24.000">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="390.002,163.586,396.674,187.586" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="396.674,163.586,407.330,187.586" colourspace="Pattern" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="407.330,163.586,419.330,187.586" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="419.330,163.586,426.002,187.586" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="425.882,163.586,431.882,187.586" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="431.522,163.586,444.866,187.586" colourspace="Pattern" ncolour="1" size="24.000">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="444.866,163.586,458.210,187.586" colourspace="Pattern" ncolour="1" size="24.000">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="458.210,163.586,468.866,187.586" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="468.866,163.586,480.866,187.586" colourspace="Pattern" ncolour="1" size="24.000">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="480.866,163.586,491.522,187.586" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="491.522,163.586,503.522,187.586" colourspace="Pattern" ncolour="1" size="24.000">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="502.202,163.586,508.202,187.586" colourspace="Pattern" ncolour="1" size="24.000">,</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="508.202,163.586,514.202,187.586" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="514.202,163.586,531.530,187.586" colourspace="Pattern" ncolour="1" size="24.000">U</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="531.530,163.586,544.874,187.586" colourspace="Pattern" ncolour="1" size="24.000">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="544.874,163.586,562.202,187.586" colourspace="Pattern" ncolour="1" size="24.000">A</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="562.082,163.586,570.074,187.586" colourspace="Pattern" ncolour="1" size="24.000">)</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="127.220,134.781,698.869,158.805" size="24.024">Matthew Tonkin (SS Papadopulos and Associates, USA) <textline bbox="127.220,134.781,698.869,158.805">Matthew Tonkin (SS Papadopulos and Associates, USA) <text font="TimesNewRomanPS-BoldMT" bbox="127.220,134.781,149.899,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">M</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="149.899,134.781,161.911,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="161.911,134.781,169.911,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="169.911,134.781,177.911,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="177.911,134.781,191.268,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="191.268,134.781,201.935,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="201.935,134.781,219.280,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">w</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="219.136,134.781,225.142,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="224.781,134.781,240.805,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">T</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="238.571,134.781,250.583,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="250.583,134.781,263.941,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="263.941,134.781,277.298,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">k</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="277.298,134.781,283.977,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="284.025,134.781,297.382,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="297.382,134.781,303.388,158.805" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="303.410,134.781,311.410,158.805" colourspace="Pattern" ncolour="1" size="24.024">(</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="311.410,134.781,324.767,158.805" colourspace="Pattern" ncolour="1" size="24.024">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="324.767,134.781,338.125,158.805" colourspace="Pattern" ncolour="1" size="24.024">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="338.125,134.781,344.131,158.805" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="344.131,134.781,358.809,158.805" colourspace="Pattern" ncolour="1" size="24.024">P</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="358.737,134.781,370.749,158.805" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="370.749,134.781,384.107,158.805" colourspace="Pattern" ncolour="1" size="24.024">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="384.107,134.781,396.119,158.805" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="396.119,134.781,409.476,158.805" colourspace="Pattern" ncolour="1" size="24.024">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="409.380,134.781,421.392,158.805" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="421.392,134.781,434.749,158.805" colourspace="Pattern" ncolour="1" size="24.024">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="434.749,134.781,448.107,158.805" colourspace="Pattern" ncolour="1" size="24.024">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="448.010,134.781,454.689,158.805" colourspace="Pattern" ncolour="1" size="24.024">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="454.689,134.781,466.701,158.805" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="466.701,134.781,476.046,158.805" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="476.046,134.781,482.052,158.805" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="482.197,134.781,494.209,158.805" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="494.209,134.781,507.566,158.805" colourspace="Pattern" ncolour="1" size="24.024">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="507.566,134.781,520.923,158.805" colourspace="Pattern" ncolour="1" size="24.024">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="520.827,134.781,526.833,158.805" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="525.632,134.781,542.977,158.805" colourspace="Pattern" ncolour="1" size="24.024">A</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="542.977,134.781,552.323,158.805" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="552.323,134.781,561.668,158.805" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="561.668,134.781,573.680,158.805" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="573.680,134.781,584.347,158.805" colourspace="Pattern" ncolour="1" size="24.024">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="584.347,134.781,591.025,158.805" colourspace="Pattern" ncolour="1" size="24.024">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="591.025,134.781,603.037,158.805" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="603.037,134.781,611.037,158.805" colourspace="Pattern" ncolour="1" size="24.024">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="611.037,134.781,621.704,158.805" colourspace="Pattern" ncolour="1" size="24.024">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="621.704,134.781,631.049,158.805" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="631.049,134.781,637.055,158.805" colourspace="Pattern" ncolour="1" size="24.024">,</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="637.055,134.781,643.061,158.805" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="643.061,134.781,660.407,158.805" colourspace="Pattern" ncolour="1" size="24.024">U</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="660.262,134.781,673.620,158.805" colourspace="Pattern" ncolour="1" size="24.024">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="673.620,134.781,690.965,158.805" colourspace="Pattern" ncolour="1" size="24.024">A</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="690.869,134.781,698.869,158.805" colourspace="Pattern" ncolour="1" size="24.024">)</text>
+</textline>
+</textbox>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,409.156,698.151,510.955" size="24.006">&#8226; These slides were developed for classes coordinated by Mary Hill or  
+Claire Tiedeman since 1992. The slides are freely available from the  
+web site for the text book by Hill and Tiedeman (2007, Wiley) at  
+http://water.usgs.gov/lookup/get?research/hill_tiedeman_book.  <textline bbox="7.200,486.931,698.151,510.955" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="Pattern">&#8226; These slides were developed for classes coordinated by Mary Hill or  </textline>
+<textline bbox="34.200,460.996,695.136,484.996" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Claire Tiedeman since 1992. The slides are freely available from the  </textline>
+<textline bbox="34.200,435.076,661.224,459.076" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">web site for the text book by Hill and Tiedeman (2007, Wiley) at  </textline>
+<textline bbox="34.200,409.156,644.064,433.156" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">http://water.usgs.gov/lookup/get?research/hill_tiedeman_book.  </textline>
+</textbox>
+<textbox id="1" bbox="7.200,51.960,708.356,401.495" size="24.00553846153846">&#8226; Contributors to the slides include  
+Mary C. Hill             Claire R. Tiedeman                                           U.S. 
+Richard L. Cooley (retired)                                                      Geological 
+Edward Banta                                                                                 Survey 
+Marshall Gannett      D. Matthew Ely 
+Arlen Harbaugh        Howard Reeves 
+Steffen Mehl (now at California State Univ, Chico) 
+Evan Anderman, formerly Calibra Consultants, McDonald Morrissey 
+Matt Tonkin, SS Papadopulos and Associates 
+Gilbert Barth, SS Papadopulos and Associates 
+Heidi Christensen Barlebo, GEUS 
+Frank Smits,  Dutch hydrologist 
+Willem Jan Zaadnoordijk, Royal Haskoning, the Netherlands <textline bbox="7.200,377.471,358.740,401.495" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="Pattern">&#8226; Contributors to the slides include  </textline>
+<textline bbox="7.200,345.766,696.120,369.766">Mary C. Hill             Claire R. Tiedeman                                           U.S. <text font="TimesNewRomanPSMT" bbox="7.200,345.766,28.536,369.766" colourspace="Pattern" ncolour="1" size="24.000">M</text>
+<text font="TimesNewRomanPSMT" bbox="28.536,345.766,39.192,369.766" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="39.192,345.766,47.184,369.766" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="47.256,345.766,59.256,369.766" colourspace="Pattern" ncolour="1" size="24.000">y</text>
+<text font="TimesNewRomanPSMT" bbox="59.256,345.766,65.256,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="65.136,345.766,81.144,369.766" colourspace="Pattern" ncolour="1" size="24.000">C</text>
+<text font="TimesNewRomanPSMT" bbox="81.144,345.766,87.144,369.766" colourspace="Pattern" ncolour="1" size="24.000">.</text>
+<text font="TimesNewRomanPSMT" bbox="87.144,345.766,93.144,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="93.192,345.766,110.520,369.766" colourspace="Pattern" ncolour="1" size="24.000">H</text>
+<text font="TimesNewRomanPSMT" bbox="110.520,345.766,117.192,369.766" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="117.192,345.766,123.864,369.766" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="123.864,345.766,130.536,369.766" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="130.608,345.766,136.608,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="136.368,345.766,142.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="142.368,345.766,148.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="148.368,345.766,154.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="154.368,345.766,160.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="160.368,345.766,166.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="166.368,345.766,172.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="172.368,345.766,178.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="178.368,345.766,184.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="184.368,345.766,190.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="190.368,345.766,196.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="196.368,345.766,202.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="202.368,345.766,208.368,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="208.368,345.766,224.376,369.766" colourspace="Pattern" ncolour="1" size="24.000">C</text>
+<text font="TimesNewRomanPSMT" bbox="224.376,345.766,231.048,369.766" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="231.048,345.766,241.704,369.766" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="241.704,345.766,248.376,369.766" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="248.424,345.766,256.416,369.766" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="256.416,345.766,267.072,369.766" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="267.072,345.766,273.072,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="272.904,345.766,288.912,369.766" colourspace="Pattern" ncolour="1" size="24.000">R</text>
+<text font="TimesNewRomanPSMT" bbox="288.912,345.766,294.912,369.766" colourspace="Pattern" ncolour="1" size="24.000">.</text>
+<text font="TimesNewRomanPSMT" bbox="294.912,345.766,300.912,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="300.384,345.766,315.048,369.766" colourspace="Pattern" ncolour="1" size="24.000">T</text>
+<text font="TimesNewRomanPSMT" bbox="314.184,345.766,320.856,369.766" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="320.856,345.766,331.512,369.766" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="331.512,345.766,343.512,369.766" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="343.512,345.766,354.168,369.766" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="354.240,345.766,372.912,369.766" colourspace="Pattern" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="372.720,345.766,383.376,369.766" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="383.376,345.766,395.376,369.766" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="395.376,345.766,401.376,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="401.280,345.766,407.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="407.280,345.766,413.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="413.280,345.766,419.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="419.280,345.766,425.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="425.280,345.766,431.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="431.280,345.766,437.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="437.280,345.766,443.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="443.280,345.766,449.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="449.280,345.766,455.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="455.280,345.766,461.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="461.280,345.766,467.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="467.280,345.766,473.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="473.280,345.766,479.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="479.280,345.766,485.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="485.280,345.766,491.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="491.280,345.766,497.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="497.280,345.766,503.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="503.280,345.766,509.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="509.280,345.766,515.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="515.280,345.766,521.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="521.280,345.766,527.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="527.280,345.766,533.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="533.280,345.766,539.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="539.280,345.766,545.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="545.280,345.766,551.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="551.280,345.766,557.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="557.280,345.766,563.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="563.280,345.766,569.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="569.280,345.766,575.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="575.280,345.766,581.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="581.280,345.766,587.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="587.280,345.766,593.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="593.280,345.766,599.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="599.280,345.766,605.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="605.280,345.766,611.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="611.280,345.766,617.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="617.280,345.766,623.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="623.280,345.766,629.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="629.280,345.766,635.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="635.280,345.766,641.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="641.280,345.766,647.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="647.280,345.766,653.280,369.766" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="653.520,345.766,670.848,369.766" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">U</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="670.848,345.766,676.848,369.766" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">.</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="676.848,345.766,690.192,369.766" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="690.120,345.766,696.120,369.766" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">.</text>
+</textline>
+<textline bbox="7.200,319.846,701.616,343.846">Richard L. Cooley (retired)                                                      Geological <text font="TimesNewRomanPSMT" bbox="7.200,319.846,23.208,343.846" colourspace="Pattern" ncolour="1" size="24.000">R</text>
+<text font="TimesNewRomanPSMT" bbox="23.208,319.846,29.880,343.846" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="29.880,319.846,40.536,343.846" colourspace="Pattern" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPSMT" bbox="40.536,319.846,52.536,343.846" colourspace="Pattern" ncolour="1" size="24.000">h</text>
+<text font="TimesNewRomanPSMT" bbox="52.536,319.846,63.192,343.846" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="63.192,319.846,71.184,343.846" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="71.256,319.846,83.256,343.846" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="83.256,319.846,89.256,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="89.016,319.846,103.680,343.846" colourspace="Pattern" ncolour="1" size="24.000">L</text>
+<text font="TimesNewRomanPSMT" bbox="103.680,319.846,109.680,343.846" colourspace="Pattern" ncolour="1" size="24.000">.</text>
+<text font="TimesNewRomanPSMT" bbox="109.680,319.846,115.680,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="115.680,319.846,131.688,343.846" colourspace="Pattern" ncolour="1" size="24.000">C</text>
+<text font="TimesNewRomanPSMT" bbox="131.616,319.846,143.616,343.846" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="143.616,319.846,155.616,343.846" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="155.616,319.846,162.288,343.846" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="162.288,319.846,172.944,343.846" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="172.944,319.846,184.944,343.846" colourspace="Pattern" ncolour="1" size="24.000">y</text>
+<text font="TimesNewRomanPSMT" bbox="184.944,319.846,190.944,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="190.944,319.846,198.936,343.846" colourspace="Pattern" ncolour="1" size="24.000">(</text>
+<text font="TimesNewRomanPSMT" bbox="198.936,319.846,206.928,343.846" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="206.928,319.846,217.584,343.846" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="217.584,319.846,224.256,343.846" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="224.352,319.846,231.024,343.846" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="231.024,319.846,239.016,343.846" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="239.088,319.846,249.744,343.846" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="249.744,319.846,261.744,343.846" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="261.744,319.846,269.736,343.846" colourspace="Pattern" ncolour="1" size="24.000">)</text>
+<text font="TimesNewRomanPSMT" bbox="269.736,319.846,275.736,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="275.328,319.846,281.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="281.328,319.846,287.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="287.328,319.846,293.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="293.328,319.846,299.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="299.328,319.846,305.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="305.328,319.846,311.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="311.328,319.846,317.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="317.328,319.846,323.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="323.328,319.846,329.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="329.328,319.846,335.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="335.328,319.846,341.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="341.328,319.846,347.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="347.328,319.846,353.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="353.328,319.846,359.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="359.328,319.846,365.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="365.328,319.846,371.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="371.328,319.846,377.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="377.328,319.846,383.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="383.328,319.846,389.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="389.328,319.846,395.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="395.328,319.846,401.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="401.328,319.846,407.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="407.328,319.846,413.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="413.328,319.846,419.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="419.328,319.846,425.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="425.328,319.846,431.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="431.328,319.846,437.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="437.328,319.846,443.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="443.328,319.846,449.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="449.328,319.846,455.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="455.328,319.846,461.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="461.328,319.846,467.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="467.328,319.846,473.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="473.328,319.846,479.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="479.328,319.846,485.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="485.328,319.846,491.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="491.328,319.846,497.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="497.328,319.846,503.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="503.328,319.846,509.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="509.328,319.846,515.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="515.328,319.846,521.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="521.328,319.846,527.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="527.328,319.846,533.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="533.328,319.846,539.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="539.328,319.846,545.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="545.328,319.846,551.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="551.328,319.846,557.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="557.328,319.846,563.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="563.328,319.846,569.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="569.328,319.846,575.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="575.328,319.846,581.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="581.328,319.846,587.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="587.328,319.846,593.328,343.846" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="593.520,319.846,612.192,343.846" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">G</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="612.192,319.846,622.848,343.846" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="622.848,319.846,634.848,343.846" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="634.848,319.846,641.520,343.846" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="641.616,319.846,653.616,343.846" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="653.616,319.846,665.616,343.846" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="665.616,319.846,672.288,343.846" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="672.288,319.846,682.944,343.846" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="682.944,319.846,694.944,343.846" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="694.944,319.846,701.616,343.846" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">l</text>
+</textline>
+<textline bbox="7.200,293.926,701.880,317.926">Edward Banta                                                                                 Survey <text font="TimesNewRomanPSMT" bbox="7.200,293.926,21.864,317.926" colourspace="Pattern" ncolour="1" size="24.000">E</text>
+<text font="TimesNewRomanPSMT" bbox="21.864,293.926,33.864,317.926" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="33.864,293.926,51.192,317.926" colourspace="Pattern" ncolour="1" size="24.000">w</text>
+<text font="TimesNewRomanPSMT" bbox="51.120,293.926,61.776,317.926" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="61.776,293.926,69.768,317.926" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="69.768,293.926,81.768,317.926" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="81.816,293.926,87.816,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="87.816,293.926,103.824,317.926" colourspace="Pattern" ncolour="1" size="24.000">B</text>
+<text font="TimesNewRomanPSMT" bbox="103.824,293.926,114.480,317.926" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="114.480,293.926,126.480,317.926" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="126.480,293.926,133.152,317.926" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="133.152,293.926,143.808,317.926" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="143.808,293.926,149.808,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="149.736,293.926,155.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="155.736,293.926,161.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="161.736,293.926,167.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="167.736,293.926,173.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="173.736,293.926,179.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="179.736,293.926,185.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="185.736,293.926,191.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="191.736,293.926,197.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="197.736,293.926,203.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="203.736,293.926,209.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="209.736,293.926,215.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="215.736,293.926,221.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="221.736,293.926,227.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="227.736,293.926,233.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="233.736,293.926,239.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="239.736,293.926,245.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="245.736,293.926,251.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="251.736,293.926,257.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="257.736,293.926,263.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="263.736,293.926,269.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="269.736,293.926,275.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="275.736,293.926,281.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="281.736,293.926,287.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="287.736,293.926,293.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="293.736,293.926,299.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="299.736,293.926,305.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="305.736,293.926,311.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="311.736,293.926,317.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="317.736,293.926,323.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="323.736,293.926,329.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="329.736,293.926,335.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="335.736,293.926,341.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="341.736,293.926,347.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="347.736,293.926,353.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="353.736,293.926,359.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="359.736,293.926,365.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="365.736,293.926,371.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="371.736,293.926,377.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="377.736,293.926,383.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="383.736,293.926,389.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="389.736,293.926,395.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="395.736,293.926,401.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="401.736,293.926,407.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="407.736,293.926,413.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="413.736,293.926,419.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="419.736,293.926,425.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="425.736,293.926,431.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="431.736,293.926,437.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="437.736,293.926,443.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="443.736,293.926,449.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="449.736,293.926,455.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="455.736,293.926,461.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="461.736,293.926,467.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="467.736,293.926,473.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="473.736,293.926,479.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="479.736,293.926,485.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="485.736,293.926,491.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="491.736,293.926,497.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="497.736,293.926,503.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="503.736,293.926,509.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="509.736,293.926,515.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="515.736,293.926,521.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="521.736,293.926,527.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="527.736,293.926,533.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="533.736,293.926,539.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="539.736,293.926,545.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="545.736,293.926,551.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="551.736,293.926,557.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="557.736,293.926,563.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="563.736,293.926,569.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="569.736,293.926,575.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="575.736,293.926,581.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="581.736,293.926,587.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="587.736,293.926,593.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="593.736,293.926,599.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="599.736,293.926,605.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="605.736,293.926,611.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="611.736,293.926,617.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="617.736,293.926,623.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="623.736,293.926,629.736,317.926" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="629.880,293.926,643.224,317.926" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="643.224,293.926,656.568,317.926" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="656.568,293.926,667.224,317.926" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="667.224,293.926,679.224,317.926" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="679.224,293.926,689.880,317.926" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="689.880,293.926,701.880,317.926" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">y</text>
+</textline>
+<textline bbox="7.200,268.006,364.176,292.006" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Marshall Gannett      D. Matthew Ely </textline>
+<textline bbox="7.200,242.081,363.236,266.105" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="Pattern">Arlen Harbaugh        Howard Reeves </textline>
+<textline bbox="7.200,216.146,497.976,240.146" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Steffen Mehl (now at California State Univ, Chico) </textline>
+<textline bbox="7.200,181.586,708.356,205.586">Evan Anderman, formerly Calibra Consultants, McDonald Morrissey <text font="TimesNewRomanPSMT" bbox="7.200,181.586,21.864,205.586" colourspace="Pattern" ncolour="1" size="24.000">E</text>
+<text font="TimesNewRomanPSMT" bbox="21.864,181.586,33.864,205.586" colourspace="Pattern" ncolour="1" size="24.000">v</text>
+<text font="TimesNewRomanPSMT" bbox="33.864,181.586,44.520,205.586" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="44.520,181.586,56.520,205.586" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="56.520,181.586,62.520,205.586" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="61.080,181.586,78.408,205.586" colourspace="Pattern" ncolour="1" size="24.000">A</text>
+<text font="TimesNewRomanPSMT" bbox="78.408,181.586,90.408,205.586" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="90.408,181.586,102.408,205.586" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="102.408,181.586,113.064,205.586" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="113.064,181.586,121.056,205.586" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="121.056,181.586,139.728,205.586" colourspace="Pattern" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="139.560,181.586,150.216,205.586" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="150.216,181.586,162.216,205.586" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="162.216,181.586,168.216,205.586" colourspace="Pattern" ncolour="1" size="24.000">,</text>
+<text font="TimesNewRomanPSMT" bbox="168.216,181.586,174.216,205.586" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="174.380,181.586,182.372,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">f</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="182.372,181.586,194.372,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="194.372,181.586,205.028,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="205.076,181.586,225.068,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">m</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="225.068,181.586,235.724,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="235.772,181.586,246.428,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="246.428,181.586,253.100,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="253.100,181.586,265.100,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="265.100,181.586,271.100,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="270.812,181.586,288.140,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">C</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="288.140,181.586,300.140,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="300.140,181.586,306.812,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="306.812,181.586,313.484,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="313.484,181.586,326.828,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">b</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="326.828,181.586,337.484,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="337.484,181.586,349.484,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="349.484,181.586,355.484,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="355.484,181.586,372.812,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">C</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="372.812,181.586,384.812,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="384.812,181.586,398.156,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="398.156,181.586,407.492,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="407.492,181.586,420.836,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="420.836,181.586,427.508,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="427.508,181.586,435.500,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="435.548,181.586,447.548,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="447.548,181.586,460.892,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="460.892,181.586,468.884,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="468.884,181.586,478.220,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="478.220,181.586,484.220,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">,</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="484.220,181.586,490.220,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="490.220,181.586,512.876,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">M</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="512.948,181.586,523.604,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="523.604,181.586,540.932,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="540.932,181.586,552.932,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="552.932,181.586,566.276,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="566.276,181.586,578.276,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="578.276,181.586,584.948,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="584.948,181.586,598.292,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="598.292,181.586,604.292,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="604.292,181.586,626.948,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">M</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="626.948,181.586,638.948,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="638.948,181.586,649.604,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="649.604,181.586,660.260,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="660.260,181.586,666.932,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="667.028,181.586,676.364,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="676.364,181.586,685.700,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="685.700,181.586,696.356,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="696.356,181.586,708.356,205.586" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">y</text>
+</textline>
+<textline bbox="7.200,155.666,457.220,179.666">Matt Tonkin, SS Papadopulos and Associates <text font="TimesNewRomanPSMT" bbox="7.200,155.666,28.536,179.666" colourspace="Pattern" ncolour="1" size="24.000">M</text>
+<text font="TimesNewRomanPSMT" bbox="28.536,155.666,39.192,179.666" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="39.192,155.666,45.864,179.666" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="45.936,155.666,52.608,179.666" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="52.608,155.666,58.608,179.666" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="57.936,155.666,72.600,179.666" colourspace="Pattern" ncolour="1" size="24.000">T</text>
+<text font="TimesNewRomanPSMT" bbox="70.896,155.666,82.896,179.666" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="82.896,155.666,94.896,179.666" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="94.896,155.666,106.896,179.666" colourspace="Pattern" ncolour="1" size="24.000">k</text>
+<text font="TimesNewRomanPSMT" bbox="106.896,155.666,113.568,179.666" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="113.568,155.666,125.568,179.666" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="125.568,155.666,131.568,179.666" colourspace="Pattern" ncolour="1" size="24.000">,</text>
+<text font="TimesNewRomanPSMT" bbox="131.568,155.666,137.568,179.666" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="137.660,155.666,151.004,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="151.004,155.666,164.348,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="164.348,155.666,170.348,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="170.396,155.666,185.060,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">P</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="185.060,155.666,197.060,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="197.060,155.666,210.404,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="210.404,155.666,222.404,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="222.404,155.666,235.748,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="235.676,155.666,247.676,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="247.676,155.666,261.020,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="261.020,155.666,274.364,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="274.364,155.666,281.036,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="281.036,155.666,293.036,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="293.036,155.666,302.372,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="302.372,155.666,308.372,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="308.492,155.666,320.492,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="320.492,155.666,333.836,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="333.836,155.666,347.180,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="347.180,155.666,353.180,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="351.812,155.666,369.140,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">A</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="369.140,155.666,378.476,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="378.476,155.666,387.812,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="387.812,155.666,399.812,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="399.812,155.666,410.468,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="410.468,155.666,417.140,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="417.140,155.666,429.140,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="429.140,155.666,437.132,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="437.228,155.666,447.884,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="447.884,155.666,457.220,179.666" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+</textline>
+<textline bbox="7.200,129.741,465.987,153.765">Gilbert Barth, SS Papadopulos and Associates <text font="TimesNewRomanPSMT" bbox="7.200,129.741,24.545,153.765" colourspace="Pattern" ncolour="1" size="24.024">G</text>
+<text font="TimesNewRomanPSMT" bbox="24.545,129.741,31.224,153.765" colourspace="Pattern" ncolour="1" size="24.024">i</text>
+<text font="TimesNewRomanPSMT" bbox="31.224,129.741,37.903,153.765" colourspace="Pattern" ncolour="1" size="24.024">l</text>
+<text font="TimesNewRomanPSMT" bbox="37.903,129.741,49.915,153.765" colourspace="Pattern" ncolour="1" size="24.024">b</text>
+<text font="TimesNewRomanPSMT" bbox="49.915,129.741,60.581,153.765" colourspace="Pattern" ncolour="1" size="24.024">e</text>
+<text font="TimesNewRomanPSMT" bbox="60.581,129.741,68.581,153.765" colourspace="Pattern" ncolour="1" size="24.024">r</text>
+<text font="TimesNewRomanPSMT" bbox="68.581,129.741,75.260,153.765" colourspace="Pattern" ncolour="1" size="24.024">t</text>
+<text font="TimesNewRomanPSMT" bbox="75.332,129.741,81.338,153.765" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPSMT" bbox="81.098,129.741,97.122,153.765" colourspace="Pattern" ncolour="1" size="24.024">B</text>
+<text font="TimesNewRomanPSMT" bbox="97.122,129.741,107.788,153.765" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="TimesNewRomanPSMT" bbox="107.788,129.741,115.788,153.765" colourspace="Pattern" ncolour="1" size="24.024">r</text>
+<text font="TimesNewRomanPSMT" bbox="115.788,129.741,122.467,153.765" colourspace="Pattern" ncolour="1" size="24.024">t</text>
+<text font="TimesNewRomanPSMT" bbox="122.467,129.741,134.479,153.765" colourspace="Pattern" ncolour="1" size="24.024">h</text>
+<text font="TimesNewRomanPSMT" bbox="134.479,129.741,140.485,153.765" colourspace="Pattern" ncolour="1" size="24.024">,</text>
+<text font="TimesNewRomanPSMT" bbox="140.485,129.741,146.491,153.765" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="146.300,129.741,159.657,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="159.657,129.741,173.015,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="172.943,129.741,178.949,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="179.045,129.741,193.723,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">P</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="193.723,129.741,205.735,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="205.735,129.741,219.093,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="218.997,129.741,231.009,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="231.009,129.741,244.366,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="244.366,129.741,256.378,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="256.378,129.741,269.735,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="269.639,129.741,282.997,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="282.997,129.741,289.675,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="289.675,129.741,301.687,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="301.687,129.741,311.033,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="311.033,129.741,317.039,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="317.135,129.741,329.147,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="329.147,129.741,342.504,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="342.504,129.741,355.861,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="355.765,129.741,361.771,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="360.570,129.741,377.915,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">A</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="377.915,129.741,387.261,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="387.261,129.741,396.606,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="396.606,129.741,408.618,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="408.618,129.741,419.285,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="419.285,129.741,425.963,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="425.963,129.741,437.975,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="437.975,129.741,445.975,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="445.975,129.741,456.642,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="456.642,129.741,465.987,153.765" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.024">s</text>
+</textline>
+<textline bbox="7.200,103.796,339.002,127.796">Heidi Christensen Barlebo, GEUS <text font="TimesNewRomanPSMT" bbox="7.200,103.796,24.528,127.796" colourspace="Pattern" ncolour="1" size="24.000">H</text>
+<text font="TimesNewRomanPSMT" bbox="24.528,103.796,35.184,127.796" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="35.184,103.796,41.856,127.796" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="41.856,103.796,53.856,127.796" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="53.856,103.796,60.528,127.796" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="60.528,103.796,66.528,127.796" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="66.528,103.796,82.536,127.796" colourspace="Pattern" ncolour="1" size="24.000">C</text>
+<text font="TimesNewRomanPSMT" bbox="82.440,103.796,94.440,127.796" colourspace="Pattern" ncolour="1" size="24.000">h</text>
+<text font="TimesNewRomanPSMT" bbox="94.440,103.796,102.432,127.796" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="102.432,103.796,109.104,127.796" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="109.176,103.796,118.512,127.796" colourspace="Pattern" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="118.512,103.796,125.184,127.796" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="125.184,103.796,135.840,127.796" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="135.912,103.796,147.912,127.796" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="147.912,103.796,157.248,127.796" colourspace="Pattern" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="157.248,103.796,167.904,127.796" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="167.904,103.796,179.904,127.796" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="179.904,103.796,185.904,127.796" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="185.712,103.796,201.720,127.796" colourspace="Pattern" ncolour="1" size="24.000">B</text>
+<text font="TimesNewRomanPSMT" bbox="201.720,103.796,212.376,127.796" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="212.376,103.796,220.368,127.796" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="220.368,103.796,227.040,127.796" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="227.088,103.796,237.744,127.796" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="237.744,103.796,249.744,127.796" colourspace="Pattern" ncolour="1" size="24.000">b</text>
+<text font="TimesNewRomanPSMT" bbox="249.744,103.796,261.744,127.796" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="261.744,103.796,267.744,127.796" colourspace="Pattern" ncolour="1" size="24.000">,</text>
+<text font="TimesNewRomanPSMT" bbox="267.744,103.796,273.744,127.796" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="273.650,103.796,292.322,127.796" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">G</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="292.322,103.796,308.330,127.796" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">E</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="308.330,103.796,325.658,127.796" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">U</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="325.658,103.796,339.002,127.796" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">S</text>
+</textline>
+<textline bbox="7.200,77.880,326.180,101.880">Frank Smits,  Dutch hydrologist <text font="TimesNewRomanPSMT" bbox="7.200,77.880,20.544,101.880" colourspace="Pattern" ncolour="1" size="24.000">F</text>
+<text font="TimesNewRomanPSMT" bbox="20.544,77.880,28.536,101.880" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="28.536,77.880,39.192,101.880" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="39.192,77.880,51.192,101.880" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="51.192,77.880,63.192,101.880" colourspace="Pattern" ncolour="1" size="24.000">k</text>
+<text font="TimesNewRomanPSMT" bbox="63.192,77.880,69.192,101.880" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="69.192,77.880,82.536,101.880" colourspace="Pattern" ncolour="1" size="24.000">S</text>
+<text font="TimesNewRomanPSMT" bbox="82.536,77.880,101.208,101.880" colourspace="Pattern" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="101.040,77.880,107.712,101.880" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="107.712,77.880,114.384,101.880" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPSMT" bbox="114.456,77.880,123.792,101.880" colourspace="Pattern" ncolour="1" size="24.000">s</text>
+<text font="TimesNewRomanPSMT" bbox="123.792,77.880,129.792,101.880" colourspace="Pattern" ncolour="1" size="24.000">,</text>
+<text font="TimesNewRomanPSMT" bbox="129.792,77.880,135.792,101.880" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="135.792,77.880,141.792,101.880" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="141.860,77.880,159.188,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="159.188,77.880,172.532,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="172.460,77.880,180.452,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="180.452,77.880,191.108,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="191.108,77.880,204.452,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="204.452,77.880,210.452,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="210.596,77.880,223.940,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="223.940,77.880,235.940,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="235.940,77.880,249.284,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="249.284,77.880,259.940,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="259.436,77.880,271.436,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="271.436,77.880,278.108,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="278.108,77.880,290.108,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="290.108,77.880,302.108,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="302.108,77.880,308.780,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="308.852,77.880,318.188,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="318.188,77.880,326.180,101.880" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">t</text>
+</textline>
+<textline bbox="7.200,51.960,615.266,75.960">Willem Jan Zaadnoordijk, Royal Haskoning, the Netherlands <text font="TimesNewRomanPSMT" bbox="7.200,51.960,29.856,75.960" colourspace="Pattern" ncolour="1" size="24.000">W</text>
+<text font="TimesNewRomanPSMT" bbox="28.680,51.960,35.352,75.960" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="35.352,51.960,42.024,75.960" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="42.096,51.960,48.768,75.960" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPSMT" bbox="48.768,51.960,59.424,75.960" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPSMT" bbox="59.424,51.960,78.096,75.960" colourspace="Pattern" ncolour="1" size="24.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="77.976,51.960,83.976,75.960" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="83.976,51.960,93.312,75.960" colourspace="Pattern" ncolour="1" size="24.000">J</text>
+<text font="TimesNewRomanPSMT" bbox="93.312,51.960,103.968,75.960" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="103.968,51.960,115.968,75.960" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="115.968,51.960,121.968,75.960" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPSMT" bbox="121.968,51.960,136.632,75.960" colourspace="Pattern" ncolour="1" size="24.000">Z</text>
+<text font="TimesNewRomanPSMT" bbox="136.632,51.960,147.288,75.960" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="147.288,51.960,157.944,75.960" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPSMT" bbox="157.944,51.960,169.944,75.960" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="169.944,51.960,181.944,75.960" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPSMT" bbox="181.992,51.960,193.992,75.960" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="193.992,51.960,205.992,75.960" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPSMT" bbox="205.992,51.960,213.984,75.960" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPSMT" bbox="213.984,51.960,225.984,75.960" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPSMT" bbox="225.984,51.960,232.656,75.960" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="232.728,51.960,239.400,75.960" colourspace="Pattern" ncolour="1" size="24.000">j</text>
+<text font="TimesNewRomanPSMT" bbox="239.400,51.960,251.400,75.960" colourspace="Pattern" ncolour="1" size="24.000">k</text>
+<text font="TimesNewRomanPSMT" bbox="251.400,51.960,257.400,75.960" colourspace="Pattern" ncolour="1" size="24.000">,</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="263.210,51.960,280.538,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">R</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="280.538,51.960,292.538,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="292.538,51.960,304.538,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="304.538,51.960,316.538,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="316.538,51.960,323.210,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="323.210,51.960,329.210,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="329.210,51.960,347.882,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">H</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="347.882,51.960,359.882,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="359.882,51.960,369.218,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="369.218,51.960,382.562,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">k</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="382.706,51.960,394.706,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="394.706,51.960,408.050,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="408.050,51.960,414.722,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="414.722,51.960,428.066,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="428.066,51.960,440.066,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="440.066,51.960,446.066,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">,</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="446.066,51.960,452.066,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="451.946,51.960,459.938,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="459.938,51.960,473.282,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="473.282,51.960,483.938,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="483.938,51.960,489.938,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="489.866,51.960,507.194,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">N</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="507.194,51.960,517.850,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="517.850,51.960,525.842,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="525.842,51.960,539.186,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="539.186,51.960,549.842,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="549.842,51.960,560.498,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="560.498,51.960,567.170,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="567.242,51.960,579.242,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="579.242,51.960,592.586,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="592.586,51.960,605.930,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="605.930,51.960,615.266,75.960" colourspace="Pattern" ncolour="(1, 0.6, 0)" size="24.000">s</text>
+</textline>
+</textbox>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="267.940,474.004,439.912,510.004" size="36.0">Instructors <textline bbox="267.940,474.004,439.912,510.004" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="36.000" colourspace="Pattern">Instructors </textline>
+</textbox>
+<textbox id="1" bbox="7.200,426.916,566.420,450.916" size="24.0">Mary Hill &#8211; US Geological Survey, Boulder, CO, USA.  <textline bbox="7.200,426.916,566.420,450.916">Mary Hill &#8211; US Geological Survey, Boulder, CO, USA.  <text font="TimesNewRomanPS-BoldMT" bbox="7.200,426.916,29.856,450.916" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">M</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="29.856,426.916,41.856,450.916" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="41.856,426.916,52.512,450.916" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.512,426.916,64.512,450.916" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="64.512,426.916,70.512,450.916" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="70.440,426.916,89.112,450.916" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">H</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="89.112,426.916,95.784,450.916" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="95.856,426.916,102.528,450.916" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="102.528,426.916,109.200,450.916" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="114.980,426.916,126.980,450.916" colourspace="Pattern" ncolour="1" size="24.000">&#8211;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="132.980,426.916,150.308,450.916" colourspace="Pattern" ncolour="1" size="24.000">U</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="150.308,426.916,163.652,450.916" colourspace="Pattern" ncolour="1" size="24.000">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="163.580,426.916,169.580,450.916" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="169.676,426.916,188.348,450.916" colourspace="Pattern" ncolour="1" size="24.000">G</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="188.348,426.916,199.004,450.916" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="199.004,426.916,211.004,450.916" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="211.004,426.916,217.676,450.916" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="217.772,426.916,229.772,450.916" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="229.772,426.916,241.772,450.916" colourspace="Pattern" ncolour="1" size="24.000">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="241.772,426.916,248.444,450.916" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="248.444,426.916,259.100,450.916" colourspace="Pattern" ncolour="1" size="24.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="259.100,426.916,271.100,450.916" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="271.100,426.916,277.772,450.916" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="277.772,426.916,283.772,450.916" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="283.412,426.916,296.756,450.916" colourspace="Pattern" ncolour="1" size="24.000">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="296.756,426.916,310.100,450.916" colourspace="Pattern" ncolour="1" size="24.000">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="310.100,426.916,320.756,450.916" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="320.756,426.916,332.756,450.916" colourspace="Pattern" ncolour="1" size="24.000">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="332.756,426.916,343.412,450.916" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="343.412,426.916,355.412,450.916" colourspace="Pattern" ncolour="1" size="24.000">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="354.092,426.916,360.092,450.916" colourspace="Pattern" ncolour="1" size="24.000">,</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="360.092,426.916,366.092,450.916" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="366.092,426.916,382.100,450.916" colourspace="Pattern" ncolour="1" size="24.000">B</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="382.100,426.916,394.100,450.916" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="394.100,426.916,407.444,450.916" colourspace="Pattern" ncolour="1" size="24.000">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="407.372,426.916,414.044,450.916" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="414.044,426.916,427.388,450.916" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="427.388,426.916,438.044,450.916" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="438.044,426.916,448.700,450.916" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="446.612,426.916,452.612,450.916" colourspace="Pattern" ncolour="1" size="24.000">,</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="452.612,426.916,458.612,450.916" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="458.492,426.916,475.820,450.916" colourspace="Pattern" ncolour="1" size="24.000">C</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="475.820,426.916,494.492,450.916" colourspace="Pattern" ncolour="1" size="24.000">O</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="494.492,426.916,500.492,450.916" colourspace="Pattern" ncolour="1" size="24.000">,</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="500.492,426.916,506.492,450.916" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="506.492,426.916,523.820,450.916" colourspace="Pattern" ncolour="1" size="24.000">U</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="523.820,426.916,537.164,450.916" colourspace="Pattern" ncolour="1" size="24.000">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="537.092,426.916,554.420,450.916" colourspace="Pattern" ncolour="1" size="24.000">A</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="554.420,426.916,560.420,450.916" colourspace="Pattern" ncolour="1" size="24.000">.</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="560.420,426.916,566.420,450.916" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+</textline>
+</textbox>
+<textbox id="2" bbox="43.200,402.811,655.604,422.851" size="20.04">Focus: Improve how we simulate ground-water systems and evaluate model  <textline bbox="43.200,402.811,655.604,422.851" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">Focus: Improve how we simulate ground-water systems and evaluate model  </textline>
+</textbox>
+<textbox id="3" bbox="65.784,359.606,666.476,401.251" size="20.052">uncertainty. Wrote MODFLOWP, PCG2 solver, co-author of, for example,  
+MODFLOW-2000, HUF, UCODE_2005, MMA, OPR-PPR. <textline bbox="65.784,381.211,666.476,401.251" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">uncertainty. Wrote MODFLOWP, PCG2 solver, co-author of, for example,  </textline>
+<textline bbox="65.784,359.606,549.010,379.670" font="TimesNewRomanPSMT" ncolour="1" size="20.064" colourspace="Pattern">MODFLOW-2000, HUF, UCODE_2005, MMA, OPR-PPR. </textline>
+</textbox>
+<textbox id="4" bbox="43.200,311.581,618.709,355.621" size="20.04">BA, Geology and Business Administration, Hope College, Holland, MI. 
+PhD, Water Resources, Civil Engineering, Princeton University <textline bbox="43.200,335.581,618.709,355.621" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">BA, Geology and Business Administration, Hope College, Holland, MI. </textline>
+<textline bbox="43.200,311.581,551.234,331.621" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">PhD, Water Resources, Civil Engineering, Princeton University </textline>
+</textbox>
+<textbox id="5" bbox="7.200,248.321,633.037,272.345" size="24.024">Matt Tonkin &#8211; Hydrogeologist, SS Papadopulos &amp; Assoc, Inc. <textline bbox="7.200,248.321,633.037,272.345">Matt Tonkin &#8211; Hydrogeologist, SS Papadopulos &amp; Assoc, Inc. <text font="TimesNewRomanPS-BoldMT" bbox="7.200,248.321,29.879,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">M</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="29.879,248.321,41.891,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="41.891,248.321,49.891,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="49.891,248.321,57.891,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="57.891,248.321,63.897,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="63.368,248.321,79.392,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">T</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="77.158,248.321,89.170,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="89.170,248.321,102.527,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="102.527,248.321,115.885,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">k</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="115.885,248.321,122.563,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="122.611,248.321,135.969,272.345" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="141.980,248.321,153.992,272.345" colourspace="Pattern" ncolour="1" size="24.024">&#8211;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="159.980,248.321,178.671,272.345" colourspace="Pattern" ncolour="1" size="24.024">H</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="178.671,248.321,190.683,272.345" colourspace="Pattern" ncolour="1" size="24.024">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="190.683,248.321,204.040,272.345" colourspace="Pattern" ncolour="1" size="24.024">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="204.040,248.321,214.707,272.345" colourspace="Pattern" ncolour="1" size="24.024">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="214.226,248.321,226.238,272.345" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="226.238,248.321,238.250,272.345" colourspace="Pattern" ncolour="1" size="24.024">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="238.250,248.321,248.917,272.345" colourspace="Pattern" ncolour="1" size="24.024">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="248.917,248.321,260.929,272.345" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="260.929,248.321,267.608,272.345" colourspace="Pattern" ncolour="1" size="24.024">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="267.608,248.321,279.620,272.345" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="279.620,248.321,291.632,272.345" colourspace="Pattern" ncolour="1" size="24.024">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="291.632,248.321,298.310,272.345" colourspace="Pattern" ncolour="1" size="24.024">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="298.310,248.321,307.656,272.345" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="307.656,248.321,315.656,272.345" colourspace="Pattern" ncolour="1" size="24.024">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="315.728,248.321,321.734,272.345" colourspace="Pattern" ncolour="1" size="24.024">,</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="321.734,248.321,327.740,272.345" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="327.379,248.321,340.737,272.345" colourspace="Pattern" ncolour="1" size="24.024">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="340.737,248.321,354.094,272.345" colourspace="Pattern" ncolour="1" size="24.024">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="354.022,248.321,360.028,272.345" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="360.124,248.321,374.803,272.345" colourspace="Pattern" ncolour="1" size="24.024">P</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="374.803,248.321,386.815,272.345" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="386.815,248.321,400.172,272.345" colourspace="Pattern" ncolour="1" size="24.024">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="400.076,248.321,412.088,272.345" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="412.088,248.321,425.445,272.345" colourspace="Pattern" ncolour="1" size="24.024">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="425.445,248.321,437.457,272.345" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="437.457,248.321,450.815,272.345" colourspace="Pattern" ncolour="1" size="24.024">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="450.718,248.321,464.076,272.345" colourspace="Pattern" ncolour="1" size="24.024">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="464.076,248.321,470.754,272.345" colourspace="Pattern" ncolour="1" size="24.024">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="470.754,248.321,482.766,272.345" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="482.766,248.321,492.112,272.345" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="492.112,248.321,498.118,272.345" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="498.214,248.321,518.226,272.345" colourspace="Pattern" ncolour="1" size="24.024">&amp;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="518.226,248.321,524.232,272.345" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="522.935,248.321,540.280,272.345" colourspace="Pattern" ncolour="1" size="24.024">A</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="540.280,248.321,549.625,272.345" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="549.625,248.321,558.971,272.345" colourspace="Pattern" ncolour="1" size="24.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="558.971,248.321,570.983,272.345" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="570.983,248.321,581.649,272.345" colourspace="Pattern" ncolour="1" size="24.024">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="581.649,248.321,587.655,272.345" colourspace="Pattern" ncolour="1" size="24.024">,</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="587.655,248.321,593.661,272.345" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="593.661,248.321,603.007,272.345" colourspace="Pattern" ncolour="1" size="24.024">I</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="603.007,248.321,616.364,272.345" colourspace="Pattern" ncolour="1" size="24.024">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="616.364,248.321,627.031,272.345" colourspace="Pattern" ncolour="1" size="24.024">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="627.031,248.321,633.037,272.345" colourspace="Pattern" ncolour="1" size="24.024">.</text>
+</textline>
+</textbox>
+<textbox id="6" bbox="46.200,185.801,704.975,240.626" size="22.02">PhD student, U. of Queensland, Australia 
+Focus: Computationally efficient predictive analysis through regularized inversion <textline bbox="163.220,216.626,586.076,240.626" font="TimesNewRomanPS-BoldMT" ncolour="1" size="24.000" colourspace="Pattern">PhD student, U. of Queensland, Australia </textline>
+<textline bbox="46.200,185.801,704.975,205.841" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">Focus: Computationally efficient predictive analysis through regularized inversion </textline>
+</textbox>
+<textbox id="7" bbox="99.264,132.036,427.077,178.481" size="20.052">Co-author &#8211; MOD-PREDICT, OPR-PPR 
+Host &#8211; PEST technical support forum <textline bbox="99.264,158.441,427.077,178.481" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">Co-author &#8211; MOD-PREDICT, OPR-PPR </textline>
+<textline bbox="99.264,132.036,399.293,152.100" font="TimesNewRomanPSMT" ncolour="1" size="20.064" colourspace="Pattern">Host &#8211; PEST technical support forum </textline>
+</textbox>
+<textbox id="8" bbox="44.160,79.215,613.096,125.651" size="20.04">BA, Applied and Environmental Geology, Birmingham University, UK 
+MS, Hydrogeology, Birmingham University, UK <textline bbox="44.160,105.611,613.096,125.651" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">BA, Applied and Environmental Geology, Birmingham University, UK </textline>
+<textline bbox="44.160,79.215,434.920,99.255" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">MS, Hydrogeology, Birmingham University, UK </textline>
+</textbox>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="316.920,451.387,402.974,495.427" size="44.04">You! <textline bbox="316.920,451.387,402.974,495.427" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="44.040" colourspace="Pattern">You! </textline>
+</textbox>
+<textbox id="1" bbox="37.200,279.766,659.908,442.036" size="24.0">Student introductions 
+Name 
+Your country and, briefly, major national ground-water problems 
+Employer/school 
+Experience in ground-water modeling <textline bbox="37.200,418.036,243.168,442.036" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Student introductions </textline>
+<textline bbox="37.200,383.476,94.296,407.476" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Name </textline>
+<textline bbox="37.200,348.886,659.908,372.886" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Your country and, briefly, major national ground-water problems </textline>
+<textline bbox="37.200,314.326,201.144,338.326" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Employer/school </textline>
+<textline bbox="37.200,279.766,401.402,303.766" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Experience in ground-water modeling </textline>
+</textbox>
+<textbox id="2" bbox="181.220,210.626,337.664,269.225" size="24.012">inverse methods 
+statistics <textline bbox="181.220,245.201,337.664,269.225" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="Pattern">inverse methods </textline>
+<textline bbox="181.220,210.626,263.948,234.626" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">statistics </textline>
+</textbox>
+<textbox id="3" bbox="37.200,176.066,439.152,200.066" size="24.0">Graphical interface experience/preference <textline bbox="37.200,176.066,439.152,200.066" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Graphical interface experience/preference </textline>
+</textbox>
+<textbox id="4" bbox="37.200,72.360,645.360,130.916" size="24.0">What do you want to obtain from this course? 
+To what modeling project(s) do you plan to apply the methods? <textline bbox="37.200,106.916,476.712,130.916" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">What do you want to obtain from this course? </textline>
+<textline bbox="37.200,72.360,645.360,96.360" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">To what modeling project(s) do you plan to apply the methods? </textline>
+</textbox>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="105.070,491.314,614.599,523.378" size="32.064">Primary Documents Used in the Course <textline bbox="105.070,491.314,614.599,523.378" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="32.064" colourspace="Pattern">Primary Documents Used in the Course </textline>
+</textbox>
+<textbox id="1" bbox="7.200,312.406,656.160,394.055" size="24.008">Effective Groundwater Model Calibration, with Analysis of Data,  
+Sensitivity, Predictions, and Uncertainty 
+(Hill and Tiedeman, 2007, Wiley).  <textline bbox="7.200,370.031,656.160,394.055" font="TimesNewRomanPS-BoldItalicMT" ncolour="(1, 1, 0)" size="24.024" colourspace="Pattern">Effective Groundwater Model Calibration, with Analysis of Data,  </textline>
+<textline bbox="7.200,341.206,403.968,365.206" font="TimesNewRomanPS-BoldItalicMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">Sensitivity, Predictions, and Uncertainty </textline>
+<textline bbox="7.200,312.406,342.790,336.406" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">(Hill and Tiedeman, 2007, Wiley).  </textline>
+</textbox>
+<textbox id="2" bbox="7.200,225.986,600.064,278.825" size="24.012">Program Documentation for MODFLOW-2005, MODPATH,  
+UCODE_2005, OPR-PPR, MMA, PEST <textline bbox="7.200,254.801,600.064,278.825">Program Documentation for MODFLOW-2005, MODPATH,  <text font="TimesNewRomanPSMT" bbox="7.200,254.801,20.557,278.825" colourspace="Pattern" ncolour="1" size="24.024">P</text>
+<text font="TimesNewRomanPSMT" bbox="20.557,254.801,28.557,278.825" colourspace="Pattern" ncolour="1" size="24.024">r</text>
+<text font="TimesNewRomanPSMT" bbox="28.557,254.801,40.569,278.825" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPSMT" bbox="40.569,254.801,52.581,278.825" colourspace="Pattern" ncolour="1" size="24.024">g</text>
+<text font="TimesNewRomanPSMT" bbox="52.581,254.801,60.581,278.825" colourspace="Pattern" ncolour="1" size="24.024">r</text>
+<text font="TimesNewRomanPSMT" bbox="60.581,254.801,71.248,278.825" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="TimesNewRomanPSMT" bbox="71.248,254.801,89.939,278.825" colourspace="Pattern" ncolour="1" size="24.024">m</text>
+<text font="TimesNewRomanPSMT" bbox="89.770,254.801,95.776,278.825" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPSMT" bbox="95.873,254.801,113.218,278.825" colourspace="Pattern" ncolour="1" size="24.024">D</text>
+<text font="TimesNewRomanPSMT" bbox="113.218,254.801,125.230,278.825" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPSMT" bbox="125.158,254.801,135.824,278.825" colourspace="Pattern" ncolour="1" size="24.024">c</text>
+<text font="TimesNewRomanPSMT" bbox="135.824,254.801,147.836,278.825" colourspace="Pattern" ncolour="1" size="24.024">u</text>
+<text font="TimesNewRomanPSMT" bbox="147.836,254.801,166.527,278.825" colourspace="Pattern" ncolour="1" size="24.024">m</text>
+<text font="TimesNewRomanPSMT" bbox="166.311,254.801,176.978,278.825" colourspace="Pattern" ncolour="1" size="24.024">e</text>
+<text font="TimesNewRomanPSMT" bbox="176.978,254.801,188.990,278.825" colourspace="Pattern" ncolour="1" size="24.024">n</text>
+<text font="TimesNewRomanPSMT" bbox="188.990,254.801,195.668,278.825" colourspace="Pattern" ncolour="1" size="24.024">t</text>
+<text font="TimesNewRomanPSMT" bbox="195.668,254.801,206.335,278.825" colourspace="Pattern" ncolour="1" size="24.024">a</text>
+<text font="TimesNewRomanPSMT" bbox="206.335,254.801,213.014,278.825" colourspace="Pattern" ncolour="1" size="24.024">t</text>
+<text font="TimesNewRomanPSMT" bbox="213.086,254.801,219.764,278.825" colourspace="Pattern" ncolour="1" size="24.024">i</text>
+<text font="TimesNewRomanPSMT" bbox="219.764,254.801,231.776,278.825" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPSMT" bbox="231.776,254.801,243.788,278.825" colourspace="Pattern" ncolour="1" size="24.024">n</text>
+<text font="TimesNewRomanPSMT" bbox="243.788,254.801,249.794,278.825" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPSMT" bbox="249.554,254.801,257.554,278.825" colourspace="Pattern" ncolour="1" size="24.024">f</text>
+<text font="TimesNewRomanPSMT" bbox="257.482,254.801,269.494,278.825" colourspace="Pattern" ncolour="1" size="24.024">o</text>
+<text font="TimesNewRomanPSMT" bbox="269.494,254.801,277.494,278.825" colourspace="Pattern" ncolour="1" size="24.024">r</text>
+<text font="TimesNewRomanPSMT" bbox="277.494,254.801,283.500,278.825" colourspace="Pattern" ncolour="1" size="24.024"> </text>
+<text font="TimesNewRomanPSMT" bbox="283.610,254.801,304.967,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">M</text>
+<text font="TimesNewRomanPSMT" bbox="304.967,254.801,322.313,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">O</text>
+<text font="TimesNewRomanPSMT" bbox="322.313,254.801,339.658,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">D</text>
+<text font="TimesNewRomanPSMT" bbox="339.538,254.801,352.895,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">F</text>
+<text font="TimesNewRomanPSMT" bbox="352.895,254.801,367.574,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">L</text>
+<text font="TimesNewRomanPSMT" bbox="367.502,254.801,384.847,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">O</text>
+<text font="TimesNewRomanPSMT" bbox="384.847,254.801,407.526,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">W</text>
+<text font="TimesNewRomanPSMT" bbox="405.910,254.801,413.910,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">-</text>
+<text font="TimesNewRomanPSMT" bbox="413.950,254.801,425.962,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">2</text>
+<text font="TimesNewRomanPSMT" bbox="425.962,254.801,437.974,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">0</text>
+<text font="TimesNewRomanPSMT" bbox="437.974,254.801,449.986,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">0</text>
+<text font="TimesNewRomanPSMT" bbox="449.986,254.801,461.998,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">5</text>
+<text font="TimesNewRomanPSMT" bbox="461.998,254.801,468.004,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">,</text>
+<text font="TimesNewRomanPSMT" bbox="468.004,254.801,474.010,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024"> </text>
+<text font="TimesNewRomanPSMT" bbox="474.394,254.801,495.752,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">M</text>
+<text font="TimesNewRomanPSMT" bbox="495.752,254.801,513.097,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">O</text>
+<text font="TimesNewRomanPSMT" bbox="513.097,254.801,530.442,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">D</text>
+<text font="TimesNewRomanPSMT" bbox="530.322,254.801,543.680,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">P</text>
+<text font="TimesNewRomanPSMT" bbox="541.493,254.801,558.839,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">A</text>
+<text font="TimesNewRomanPSMT" bbox="556.124,254.801,570.803,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">T</text>
+<text font="TimesNewRomanPSMT" bbox="570.803,254.801,588.148,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">H</text>
+<text font="TimesNewRomanPSMT" bbox="588.052,254.801,594.058,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024">,</text>
+<text font="TimesNewRomanPSMT" bbox="594.058,254.801,600.064,278.825" colourspace="Pattern" ncolour="(1, 1, 0)" size="24.024"> </text>
+</textline>
+<textline bbox="7.200,225.986,399.506,249.986" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="24.000" colourspace="Pattern">UCODE_2005, OPR-PPR, MMA, PEST </textline>
+</textbox>
+<textbox id="3" bbox="23.952,87.903,707.496,179.971" size="20.046">For all programs, documentation PDF files are provided and also can be downloaded  
+from the internet. 
+Additional MODFLOW documentation can be found on:  
+http://water.usgs.gov/nrp/gwsoftware/modflow2005/modflow2005.html <textline bbox="23.952,159.931,707.496,179.971" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">For all programs, documentation PDF files are provided and also can be downloaded  </textline>
+<textline bbox="23.952,135.931,163.250,155.971" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">from the internet. </textline>
+<textline bbox="23.952,111.926,485.023,131.990" font="TimesNewRomanPSMT" ncolour="1" size="20.064" colourspace="Pattern">Additional MODFLOW documentation can be found on:  </textline>
+<textline bbox="23.952,87.903,597.998,107.943" font="TimesNewRomanPSMT" ncolour="1" size="20.040" colourspace="Pattern">http://water.usgs.gov/nrp/gwsoftware/modflow2005/modflow2005.html </textline>
+</textbox>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="174.430,493.522,545.845,537.586" size="44.064">Computer Software <textline bbox="174.430,493.522,545.845,537.586" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.064" colourspace="Pattern">Computer Software </textline>
+</textbox>
+<textbox id="1" bbox="7.200,427.123,661.672,477.763" size="23.04">&#8226; Parameter-estimation with UCODE_2005 
+&#8226; Class provides much of the background needed to use MODFLOW- <textline bbox="7.200,454.723,419.867,477.763" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">&#8226; Parameter-estimation with UCODE_2005 </textline>
+<textline bbox="7.200,427.123,661.672,450.163" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">&#8226; Class provides much of the background needed to use MODFLOW- </textline>
+</textbox>
+<textbox id="2" bbox="34.200,382.963,689.043,428.083" size="23.04">2000, UCODE_2005, PEST, OSTRICH or any other inverse modeling  
+code <textline bbox="34.200,405.043,689.043,428.083" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">2000, UCODE_2005, PEST, OSTRICH or any other inverse modeling  </textline>
+<textline bbox="34.200,382.963,77.700,406.003" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">code </textline>
+</textbox>
+<textbox id="3" bbox="7.200,327.733,635.057,378.253" size="23.04">&#61608; MODFLOW2005 
+- USGS three-dimensional, transient, ground-water flow computer  <textline bbox="7.200,355.213,203.091,378.253">&#61608; MODFLOW2005 <text font="SymbolMT" bbox="7.200,355.213,24.549,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">&#61608;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="30.360,355.213,52.110,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">M</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.110,355.213,70.035,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">O</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="69.966,355.213,86.601,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="86.601,355.213,100.678,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">F</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="100.678,355.213,116.046,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">L</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="116.046,355.213,133.971,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">O</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="133.971,355.213,157.011,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">W</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="157.011,355.213,168.531,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">2</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="168.531,355.213,180.051,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">0</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="180.051,355.213,191.571,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">0</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="191.571,355.213,203.091,378.253" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">5</text>
+</textline>
+<textline bbox="7.200,327.733,635.057,350.773" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">- USGS three-dimensional, transient, ground-water flow computer  </textline>
+</textbox>
+<textbox id="4" bbox="34.200,305.653,123.595,328.693" size="23.04">program.  <textline bbox="34.200,305.653,123.595,328.693" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">program.  </textline>
+</textbox>
+<textbox id="5" bbox="7.200,167.633,425.250,301.093" size="23.0448">&#61608; UCODE-2005:  
+- USGS Universal inverse modeling CODE 
+- Constructed using the JUPITER API 
+- Use with any model.  
+- <textline bbox="7.200,278.053,183.380,301.093">&#61608; UCODE-2005:  <text font="SymbolMT" bbox="7.200,278.053,24.549,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">&#61608;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="34.200,278.053,50.835,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">U</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="50.835,278.053,67.470,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">C</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="67.539,278.053,85.464,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">O</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="85.464,278.053,102.099,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="102.099,278.053,117.467,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">E</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="117.500,278.053,125.172,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">-</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="125.180,278.053,136.700,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">2</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="136.700,278.053,148.220,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">0</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="148.220,278.053,159.740,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">0</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="159.740,278.053,171.260,301.093" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">5</text>
+<text font="TimesNewRomanPSMT" bbox="171.260,278.053,177.665,301.093" colourspace="Pattern" ncolour="1" size="23.040">:</text>
+<text font="TimesNewRomanPSMT" bbox="177.620,278.053,183.380,301.093" colourspace="Pattern" ncolour="1" size="23.040"> </text>
+</textline>
+<textline bbox="7.200,250.448,425.250,273.512">- USGS Universal inverse modeling CODE <text font="TimesNewRomanPSMT" bbox="7.200,250.448,14.880,273.512" colourspace="Pattern" ncolour="1" size="23.064">-</text>
+<text font="TimesNewRomanPSMT" bbox="37.800,250.448,54.452,273.512" colourspace="Pattern" ncolour="1" size="23.064">U</text>
+<text font="TimesNewRomanPSMT" bbox="54.452,250.448,67.276,273.512" colourspace="Pattern" ncolour="1" size="23.064">S</text>
+<text font="TimesNewRomanPSMT" bbox="67.276,250.448,83.928,273.512" colourspace="Pattern" ncolour="1" size="23.064">G</text>
+<text font="TimesNewRomanPSMT" bbox="83.974,250.448,96.798,273.512" colourspace="Pattern" ncolour="1" size="23.064">S</text>
+<text font="TimesNewRomanPSMT" bbox="102.380,250.448,119.032,273.512" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.064">U</text>
+<text font="TimesNewRomanPSMT" bbox="119.060,250.448,130.592,273.512" colourspace="Pattern" ncolour="1" size="23.064">n</text>
+<text font="TimesNewRomanPSMT" bbox="130.592,250.448,137.004,273.512" colourspace="Pattern" ncolour="1" size="23.064">i</text>
+<text font="TimesNewRomanPSMT" bbox="137.004,250.448,148.536,273.512" colourspace="Pattern" ncolour="1" size="23.064">v</text>
+<text font="TimesNewRomanPSMT" bbox="148.467,250.448,158.707,273.512" colourspace="Pattern" ncolour="1" size="23.064">e</text>
+<text font="TimesNewRomanPSMT" bbox="158.707,250.448,166.387,273.512" colourspace="Pattern" ncolour="1" size="23.064">r</text>
+<text font="TimesNewRomanPSMT" bbox="166.387,250.448,175.359,273.512" colourspace="Pattern" ncolour="1" size="23.064">s</text>
+<text font="TimesNewRomanPSMT" bbox="175.359,250.448,185.600,273.512" colourspace="Pattern" ncolour="1" size="23.064">a</text>
+<text font="TimesNewRomanPSMT" bbox="185.600,250.448,192.011,273.512" colourspace="Pattern" ncolour="1" size="23.064">l</text>
+<text font="TimesNewRomanPSMT" bbox="191.896,250.448,197.662,273.512" colourspace="Pattern" ncolour="1" size="23.064"> </text>
+<text font="TimesNewRomanPSMT" bbox="197.547,250.448,203.959,273.512" colourspace="Pattern" ncolour="1" size="23.064">i</text>
+<text font="TimesNewRomanPSMT" bbox="203.959,250.448,215.491,273.512" colourspace="Pattern" ncolour="1" size="23.064">n</text>
+<text font="TimesNewRomanPSMT" bbox="215.491,250.448,227.023,273.512" colourspace="Pattern" ncolour="1" size="23.064">v</text>
+<text font="TimesNewRomanPSMT" bbox="226.953,250.448,237.194,273.512" colourspace="Pattern" ncolour="1" size="23.064">e</text>
+<text font="TimesNewRomanPSMT" bbox="237.194,250.448,244.874,273.512" colourspace="Pattern" ncolour="1" size="23.064">r</text>
+<text font="TimesNewRomanPSMT" bbox="244.874,250.448,253.846,273.512" colourspace="Pattern" ncolour="1" size="23.064">s</text>
+<text font="TimesNewRomanPSMT" bbox="253.846,250.448,264.086,273.512" colourspace="Pattern" ncolour="1" size="23.064">e</text>
+<text font="TimesNewRomanPSMT" bbox="264.086,250.448,269.852,273.512" colourspace="Pattern" ncolour="1" size="23.064"> </text>
+<text font="TimesNewRomanPSMT" bbox="269.852,250.448,287.796,273.512" colourspace="Pattern" ncolour="1" size="23.064">m</text>
+<text font="TimesNewRomanPSMT" bbox="287.681,250.448,299.213,273.512" colourspace="Pattern" ncolour="1" size="23.064">o</text>
+<text font="TimesNewRomanPSMT" bbox="299.213,250.448,310.745,273.512" colourspace="Pattern" ncolour="1" size="23.064">d</text>
+<text font="TimesNewRomanPSMT" bbox="310.745,250.448,320.985,273.512" colourspace="Pattern" ncolour="1" size="23.064">e</text>
+<text font="TimesNewRomanPSMT" bbox="320.985,250.448,327.397,273.512" colourspace="Pattern" ncolour="1" size="23.064">l</text>
+<text font="TimesNewRomanPSMT" bbox="327.282,250.448,333.694,273.512" colourspace="Pattern" ncolour="1" size="23.064">i</text>
+<text font="TimesNewRomanPSMT" bbox="333.694,250.448,345.226,273.512" colourspace="Pattern" ncolour="1" size="23.064">n</text>
+<text font="TimesNewRomanPSMT" bbox="345.226,250.448,356.758,273.512" colourspace="Pattern" ncolour="1" size="23.064">g</text>
+<text font="TimesNewRomanPSMT" bbox="356.688,250.448,362.454,273.512" colourspace="Pattern" ncolour="1" size="23.064"> </text>
+<text font="TimesNewRomanPSMT" bbox="362.470,250.448,377.854,273.512" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.064">C</text>
+<text font="TimesNewRomanPSMT" bbox="377.854,250.448,394.506,273.512" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.064">O</text>
+<text font="TimesNewRomanPSMT" bbox="394.506,250.448,411.158,273.512" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.064">D</text>
+<text font="TimesNewRomanPSMT" bbox="411.158,250.448,425.250,273.512" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.064">E</text>
+</textline>
+<textline bbox="7.200,222.833,375.290,245.873" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">- Constructed using the JUPITER API </textline>
+<textline bbox="7.200,195.233,233.986,218.273" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">- Use with any model.  </textline>
+<textline bbox="7.200,167.633,14.872,190.673" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">- </textline>
+</textbox>
+<textbox id="6" bbox="34.200,145.553,711.490,190.673" size="23.04">If used with perturbation sensitivities, consequences investigated by Hill  
+and &#216;sterby, 2003; Mehl and Hill, 2002 <textline bbox="37.800,167.633,711.490,190.673" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">If used with perturbation sensitivities, consequences investigated by Hill  </textline>
+<textline bbox="34.200,145.553,400.974,168.593" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">and &#216;sterby, 2003; Mehl and Hill, 2002 </textline>
+</textbox>
+<textbox id="7" bbox="7.200,35.127,706.080,141.012" size="23.046">- Parameter-estimation method expanded from that in MODFLOW-2000.  
+&#61608; PEST &#8211; Parameter ESTimation software 
+- Model independent like UCODE_2005 
+- <textline bbox="7.200,117.948,706.080,141.012" font="TimesNewRomanPSMT" ncolour="1" size="23.064" colourspace="Pattern">- Parameter-estimation method expanded from that in MODFLOW-2000.  </textline>
+<textline bbox="7.200,90.327,413.797,113.367">&#61608; PEST &#8211; Parameter ESTimation software <text font="SymbolMT" bbox="7.200,90.327,24.549,113.367" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">&#61608;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="34.200,90.327,48.277,113.367" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">P</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="48.277,90.327,63.645,113.367" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">E</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="63.645,90.327,76.455,113.367" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="76.455,90.327,91.823,113.367" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">T</text>
+<text font="TimesNewRomanPSMT" bbox="97.464,90.327,108.984,113.367" colourspace="Pattern" ncolour="1" size="23.040">&#8211;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="114.740,90.327,128.817,113.367" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">P</text>
+<text font="TimesNewRomanPSMT" bbox="128.780,90.327,139.010,113.367" colourspace="Pattern" ncolour="1" size="23.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="139.010,90.327,146.682,113.367" colourspace="Pattern" ncolour="1" size="23.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="146.682,90.327,156.912,113.367" colourspace="Pattern" ncolour="1" size="23.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="156.912,90.327,174.837,113.367" colourspace="Pattern" ncolour="1" size="23.040">m</text>
+<text font="TimesNewRomanPSMT" bbox="174.630,90.327,184.859,113.367" colourspace="Pattern" ncolour="1" size="23.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="184.859,90.327,191.264,113.367" colourspace="Pattern" ncolour="1" size="23.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="191.195,90.327,201.425,113.367" colourspace="Pattern" ncolour="1" size="23.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="201.425,90.327,209.097,113.367" colourspace="Pattern" ncolour="1" size="23.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="209.097,90.327,214.857,113.367" colourspace="Pattern" ncolour="1" size="23.040"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="214.970,90.327,230.338,113.367" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">E</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="230.338,90.327,243.148,113.367" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="243.148,90.327,258.516,113.367" colourspace="Pattern" ncolour="(1, 1, 0)" size="23.040">T</text>
+<text font="TimesNewRomanPSMT" bbox="258.530,90.327,264.935,113.367" colourspace="Pattern" ncolour="1" size="23.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="264.935,90.327,282.860,113.367" colourspace="Pattern" ncolour="1" size="23.040">m</text>
+<text font="TimesNewRomanPSMT" bbox="282.653,90.327,292.883,113.367" colourspace="Pattern" ncolour="1" size="23.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="292.883,90.327,299.288,113.367" colourspace="Pattern" ncolour="1" size="23.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="299.219,90.327,305.624,113.367" colourspace="Pattern" ncolour="1" size="23.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="305.624,90.327,317.144,113.367" colourspace="Pattern" ncolour="1" size="23.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="317.144,90.327,328.664,113.367" colourspace="Pattern" ncolour="1" size="23.040">n</text>
+<text font="TimesNewRomanPSMT" bbox="328.664,90.327,334.424,113.367" colourspace="Pattern" ncolour="1" size="23.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="334.470,90.327,343.432,113.367" colourspace="Pattern" ncolour="1" size="23.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="343.432,90.327,354.952,113.367" colourspace="Pattern" ncolour="1" size="23.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="354.952,90.327,362.625,113.367" colourspace="Pattern" ncolour="1" size="23.040">f</text>
+<text font="TimesNewRomanPSMT" bbox="362.625,90.327,369.030,113.367" colourspace="Pattern" ncolour="1" size="23.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="369.030,90.327,385.665,113.367" colourspace="Pattern" ncolour="1" size="23.040">w</text>
+<text font="TimesNewRomanPSMT" bbox="385.665,90.327,395.894,113.367" colourspace="Pattern" ncolour="1" size="23.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="395.894,90.327,403.567,113.367" colourspace="Pattern" ncolour="1" size="23.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="403.567,90.327,413.797,113.367" colourspace="Pattern" ncolour="1" size="23.040">e</text>
+</textline>
+<textline bbox="7.200,62.727,399.228,85.767" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">- Model independent like UCODE_2005 </textline>
+<textline bbox="7.200,35.127,14.872,58.167" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">- </textline>
+</textbox>
+<textbox id="8" bbox="34.200,13.042,660.709,58.167" size="23.052">Includes additional very useful parameterization and regularization  
+capabilities. <textline bbox="37.800,35.127,660.709,58.167" font="TimesNewRomanPSMT" ncolour="1" size="23.040" colourspace="Pattern">Includes additional very useful parameterization and regularization  </textline>
+<textline bbox="34.200,13.042,144.630,36.106" font="TimesNewRomanPSMT" ncolour="1" size="23.064" colourspace="Pattern">capabilities. </textline>
+</textbox>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="281.620,483.514,438.381,515.578" size="32.064">Perspective <textline bbox="281.620,483.514,438.381,515.578" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="32.064" colourspace="Pattern">Perspective </textline>
+</textbox>
+<textbox id="1" bbox="7.200,434.701,710.534,462.661" size="27.96">The methods and guidelines are broadly applicable, but taught  <textline bbox="7.200,434.701,710.534,462.661" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">The methods and guidelines are broadly applicable, but taught  </textline>
+</textbox>
+<textbox id="2" bbox="34.200,404.461,485.239,432.421" size="27.96">using ground-water modeling examples. <textline bbox="34.200,404.461,485.239,432.421" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">using ground-water modeling examples. </textline>
+</textbox>
+<textbox id="3" bbox="7.200,186.011,718.325,395.479" size="27.966857142857148">There are about as many opinions about how to construct and  
+use models as there are people working with models. There  
+are a number of ongoing methods to standardize ground- 
+water model construction and use. For example,  
+HarmoniQua (&#8364;5 million over 5 years), Germany, Australia,  
+New Zeeland, USEPA, USGS, ASTM, &#8230;See review by Hill  
+et al. (2004, conf. proceedings, FEM-MODFLOW) <textline bbox="7.200,367.495,702.071,395.479" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="Pattern">There are about as many opinions about how to construct and  </textline>
+<textline bbox="34.200,337.231,705.324,365.191" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">use models as there are people working with models. There  </textline>
+<textline bbox="34.200,306.991,670.031,334.951" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">are a number of ongoing methods to standardize ground- </textline>
+<textline bbox="34.200,276.751,578.302,304.711" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">water model construction and use. For example,  </textline>
+<textline bbox="34.200,246.505,710.741,274.489" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="Pattern">HarmoniQua (&#8364;5 million over 5 years), Germany, Australia,  </textline>
+<textline bbox="34.200,216.251,718.325,244.211" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">New Zeeland, USEPA, USGS, ASTM, &#8230;See review by Hill  </textline>
+<textline bbox="34.200,186.011,608.328,213.971" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">et al. (2004, conf. proceedings, FEM-MODFLOW) </textline>
+</textbox>
+<textbox id="4" bbox="7.200,149.051,686.404,177.011" size="27.96">No set of methods and ideas is best in all circumstances, but  <textline bbox="7.200,149.051,686.404,177.011" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">No set of methods and ideas is best in all circumstances, but  </textline>
+</textbox>
+<textbox id="5" bbox="34.200,28.065,718.157,146.789" size="27.966">we are hoping that by learning one set of methods and ideas,  
+you will improve how you develop models, and be in a  
+position to improvise using new ideas as you come across  
+new, useful ideas. <textline bbox="34.200,118.805,718.157,146.789" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="Pattern">we are hoping that by learning one set of methods and ideas,  </textline>
+<textline bbox="34.200,88.545,657.093,116.505" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">you will improve how you develop models, and be in a  </textline>
+<textline bbox="34.200,58.305,687.793,86.265" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">position to improvise using new ideas as you come across  </textline>
+<textline bbox="34.200,28.065,232.716,56.025" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">new, useful ideas. </textline>
+</textbox>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="212.020,483.019,496.069,519.043" size="36.024">Purpose of Course <textline bbox="212.020,483.019,496.069,519.043" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0.4)" size="36.024" colourspace="Pattern">Purpose of Course </textline>
+</textbox>
+<textbox id="1" bbox="25.200,419.779,703.795,451.819" size="32.04">&#8226; Methods for sensitivity analysis, data assessment,  <textline bbox="25.200,419.779,703.795,451.819">&#8226; Methods for sensitivity analysis, data assessment,  <text font="TimesNewRomanPSMT" bbox="25.200,419.779,36.414,451.819" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,419.779,82.446,451.819" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">M</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="82.446,419.779,96.672,451.819" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="96.736,419.779,107.405,451.819" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="107.405,419.779,125.219,451.819" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="125.219,419.779,141.239,451.819" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="141.239,419.779,159.053,451.819" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="159.053,419.779,171.517,451.819" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="179.300,419.779,189.969,451.819" colourspace="Pattern" ncolour="1" size="32.040">f</text>
+<text font="TimesNewRomanPSMT" bbox="189.969,419.779,205.989,451.819" colourspace="Pattern" ncolour="1" size="32.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="205.989,419.779,216.659,451.819" colourspace="Pattern" ncolour="1" size="32.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="216.723,419.779,224.733,451.819" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="224.508,419.779,236.972,451.819" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="236.972,419.779,251.198,451.819" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="251.294,419.779,267.314,451.819" colourspace="Pattern" ncolour="1" size="32.040">n</text>
+<text font="TimesNewRomanPSMT" bbox="267.314,419.779,279.777,451.819" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="279.874,419.779,288.781,451.819" colourspace="Pattern" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="288.781,419.779,297.688,451.819" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="297.688,419.779,306.595,451.819" colourspace="Pattern" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="306.595,419.779,322.615,451.819" colourspace="Pattern" ncolour="1" size="32.040">v</text>
+<text font="TimesNewRomanPSMT" bbox="322.615,419.779,331.522,451.819" colourspace="Pattern" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="331.522,419.779,340.429,451.819" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="340.429,419.779,356.449,451.819" colourspace="Pattern" ncolour="1" size="32.040">y</text>
+<text font="TimesNewRomanPSMT" bbox="356.449,419.779,364.459,451.819" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="364.267,419.779,378.493,451.819" colourspace="Pattern" ncolour="1" size="32.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="378.493,419.779,394.513,451.819" colourspace="Pattern" ncolour="1" size="32.040">n</text>
+<text font="TimesNewRomanPSMT" bbox="394.641,419.779,408.867,451.819" colourspace="Pattern" ncolour="1" size="32.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="408.867,419.779,417.774,451.819" colourspace="Pattern" ncolour="1" size="32.040">l</text>
+<text font="TimesNewRomanPSMT" bbox="417.774,419.779,433.794,451.819" colourspace="Pattern" ncolour="1" size="32.040">y</text>
+<text font="TimesNewRomanPSMT" bbox="433.890,419.779,446.353,451.819" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="446.353,419.779,455.261,451.819" colourspace="Pattern" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="455.261,419.779,467.724,451.819" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="467.724,419.779,475.734,451.819" colourspace="Pattern" ncolour="1" size="32.040">,</text>
+<text font="TimesNewRomanPSMT" bbox="475.734,419.779,483.744,451.819" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="483.616,419.779,499.636,451.819" colourspace="Pattern" ncolour="1" size="32.040">d</text>
+<text font="TimesNewRomanPSMT" bbox="499.636,419.779,513.862,451.819" colourspace="Pattern" ncolour="1" size="32.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="513.990,419.779,522.897,451.819" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="522.897,419.779,537.123,451.819" colourspace="Pattern" ncolour="1" size="32.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="537.123,419.779,545.133,451.819" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="544.973,419.779,559.198,451.819" colourspace="Pattern" ncolour="1" size="32.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="559.198,419.779,571.662,451.819" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="571.758,419.779,584.222,451.819" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="584.222,419.779,598.447,451.819" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="598.543,419.779,611.007,451.819" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="611.007,419.779,623.471,451.819" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="623.471,419.779,648.398,451.819" colourspace="Pattern" ncolour="1" size="32.040">m</text>
+<text font="TimesNewRomanPSMT" bbox="648.494,419.779,662.720,451.819" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="662.720,419.779,678.740,451.819" colourspace="Pattern" ncolour="1" size="32.040">n</text>
+<text font="TimesNewRomanPSMT" bbox="678.868,419.779,687.775,451.819" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="687.775,419.779,695.785,451.819" colourspace="Pattern" ncolour="1" size="32.040">,</text>
+<text font="TimesNewRomanPSMT" bbox="695.785,419.779,703.795,451.819" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+</textline>
+</textbox>
+<textbox id="2" bbox="52.200,250.784,691.943,409.598" size="32.052">model calibration, and evaluation of model  
+uncertainty. These methods take advantage of the  
+quantitative connections provided models  
+between: <textline bbox="52.200,377.534,611.877,409.598" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="Pattern">model calibration, and evaluation of model  </textline>
+<textline bbox="52.200,335.269,691.943,367.309" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="Pattern">uncertainty. These methods take advantage of the  </textline>
+<textline bbox="52.200,293.029,595.118,325.069" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="Pattern">quantitative connections provided models  </textline>
+<textline bbox="52.200,250.784,168.143,282.848" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="Pattern">between: </textline>
+</textbox>
+<textbox id="3" bbox="105.260,200.849,645.418,232.889" size="32.04">observations &#8211; parameters - predictions <textline bbox="105.260,200.849,645.418,232.889" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0.6, 0)" size="32.040" colourspace="Pattern">observations &#8211; parameters - predictions </textline>
+</textbox>
+<textbox id="4" bbox="25.200,150.929,687.307,182.969" size="32.04">&#8226; Guidelines that describe how to use the methods  <textline bbox="25.200,150.929,687.307,182.969">&#8226; Guidelines that describe how to use the methods  <text font="TimesNewRomanPSMT" bbox="25.200,150.929,36.414,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,150.929,77.127,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">G</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="77.127,150.929,94.941,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="94.941,150.929,103.848,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="103.848,150.929,121.663,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="121.663,150.929,135.888,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="135.888,150.929,144.796,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="144.796,150.929,153.703,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="153.703,150.929,171.517,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="171.517,150.929,185.743,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="185.743,150.929,198.206,182.969" colourspace="Pattern" ncolour="(1, 1, 0)" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="205.970,150.929,214.877,182.969" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="214.877,150.929,230.897,182.969" colourspace="Pattern" ncolour="1" size="32.040">h</text>
+<text font="TimesNewRomanPSMT" bbox="230.897,150.929,245.123,182.969" colourspace="Pattern" ncolour="1" size="32.040">a</text>
+<text font="TimesNewRomanPSMT" bbox="245.123,150.929,254.030,182.969" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="254.030,150.929,262.040,182.969" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="262.040,150.929,278.060,182.969" colourspace="Pattern" ncolour="1" size="32.040">d</text>
+<text font="TimesNewRomanPSMT" bbox="278.060,150.929,292.286,182.969" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="292.286,150.929,304.749,182.969" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="304.813,150.929,319.039,182.969" colourspace="Pattern" ncolour="1" size="32.040">c</text>
+<text font="TimesNewRomanPSMT" bbox="319.039,150.929,329.708,182.969" colourspace="Pattern" ncolour="1" size="32.040">r</text>
+<text font="TimesNewRomanPSMT" bbox="329.708,150.929,338.616,182.969" colourspace="Pattern" ncolour="1" size="32.040">i</text>
+<text font="TimesNewRomanPSMT" bbox="338.616,150.929,354.636,182.969" colourspace="Pattern" ncolour="1" size="32.040">b</text>
+<text font="TimesNewRomanPSMT" bbox="354.700,150.929,368.925,182.969" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="368.925,150.929,376.935,182.969" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="376.647,150.929,392.667,182.969" colourspace="Pattern" ncolour="1" size="32.040">h</text>
+<text font="TimesNewRomanPSMT" bbox="392.667,150.929,408.687,182.969" colourspace="Pattern" ncolour="1" size="32.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="408.783,150.929,431.916,182.969" colourspace="Pattern" ncolour="1" size="32.040">w</text>
+<text font="TimesNewRomanPSMT" bbox="431.916,150.929,439.926,182.969" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="439.734,150.929,448.641,182.969" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="448.641,150.929,464.661,182.969" colourspace="Pattern" ncolour="1" size="32.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="464.661,150.929,472.671,182.969" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="472.671,150.929,488.691,182.969" colourspace="Pattern" ncolour="1" size="32.040">u</text>
+<text font="TimesNewRomanPSMT" bbox="488.691,150.929,501.155,182.969" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="501.155,150.929,515.380,182.969" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="515.380,150.929,523.390,182.969" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="523.390,150.929,532.297,182.969" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="532.297,150.929,548.317,182.969" colourspace="Pattern" ncolour="1" size="32.040">h</text>
+<text font="TimesNewRomanPSMT" bbox="548.317,150.929,562.543,182.969" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="562.543,150.929,570.553,182.969" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="570.553,150.929,595.480,182.969" colourspace="Pattern" ncolour="1" size="32.040">m</text>
+<text font="TimesNewRomanPSMT" bbox="595.480,150.929,609.706,182.969" colourspace="Pattern" ncolour="1" size="32.040">e</text>
+<text font="TimesNewRomanPSMT" bbox="609.706,150.929,618.613,182.969" colourspace="Pattern" ncolour="1" size="32.040">t</text>
+<text font="TimesNewRomanPSMT" bbox="618.613,150.929,634.633,182.969" colourspace="Pattern" ncolour="1" size="32.040">h</text>
+<text font="TimesNewRomanPSMT" bbox="634.697,150.929,650.717,182.969" colourspace="Pattern" ncolour="1" size="32.040">o</text>
+<text font="TimesNewRomanPSMT" bbox="650.717,150.929,666.737,182.969" colourspace="Pattern" ncolour="1" size="32.040">d</text>
+<text font="TimesNewRomanPSMT" bbox="666.833,150.929,679.297,182.969" colourspace="Pattern" ncolour="1" size="32.040">s</text>
+<text font="TimesNewRomanPSMT" bbox="679.297,150.929,687.307,182.969" colourspace="Pattern" ncolour="1" size="32.040"> </text>
+</textline>
+</textbox>
+<textbox id="5" bbox="52.200,66.423,619.084,140.699" size="32.04">presented, with emphasis on applications to  
+ground-water models. <textline bbox="52.200,108.659,619.084,140.699" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="Pattern">presented, with emphasis on applications to  </textline>
+<textline bbox="52.200,66.423,333.284,98.463" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="Pattern">ground-water models. </textline>
+</textbox>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="90.432,394.982,640.547,491.827" size="44.052">Major steps of ground-water  
+modeling <textline bbox="90.432,447.787,640.547,491.827" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040" colourspace="Pattern">Major steps of ground-water  </textline>
+<textline bbox="273.100,394.982,446.932,439.046" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.064" colourspace="Pattern">modeling </textline>
+</textbox>
+<textbox id="1" bbox="53.184,316.346,412.752,369.146" size="24.0">Hydrologic and hydrogeologic data 
+Relate to model inputs <textline bbox="53.184,345.146,412.752,369.146" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000" colourspace="Pattern">Hydrologic and hydrogeologic data </textline>
+<textline bbox="124.700,316.346,341.108,340.346" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="Pattern">Relate to model inputs </textline>
+</textbox>
+<textbox id="2" bbox="39.624,232.316,246.308,285.116" size="24.0">Ground-Water Model 
+-- parameters <textline bbox="39.624,261.116,246.308,285.116" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="Pattern">Ground-Water Model </textline>
+<textline bbox="73.224,232.316,212.592,256.316">-- parameters <text font="TimesNewRomanPSMT" bbox="73.224,232.316,81.216,256.316" colourspace="Pattern" ncolour="1" size="24.000">-</text>
+<text font="TimesNewRomanPSMT" bbox="81.264,232.316,89.256,256.316" colourspace="Pattern" ncolour="1" size="24.000">-</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="95.184,232.316,108.528,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="108.528,232.316,120.528,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="120.528,232.316,131.184,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="131.184,232.316,143.184,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="143.184,232.316,163.176,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">m</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="163.176,232.316,173.832,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="173.880,232.316,181.872,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="181.872,232.316,192.528,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="192.528,232.316,203.184,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="203.256,232.316,212.592,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">s</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="320.470,232.316,679.512,285.116" size="24.0">Dependent variable observations 
+Relate to model outputs -- calibration <textline bbox="331.990,261.116,668.088,285.116">Dependent variable observations <text font="TimesNewRomanPS-BoldMT" bbox="331.990,261.116,349.318,285.116" colourspace="Pattern" ncolour="0" size="24.000">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="349.318,261.116,359.974,285.116" colourspace="Pattern" ncolour="0" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="359.974,261.116,373.318,285.116" colourspace="Pattern" ncolour="0" size="24.000">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="373.318,261.116,383.974,285.116" colourspace="Pattern" ncolour="0" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="383.974,261.116,397.318,285.116" colourspace="Pattern" ncolour="0" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="397.318,261.116,410.662,285.116" colourspace="Pattern" ncolour="0" size="24.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="410.662,261.116,421.318,285.116" colourspace="Pattern" ncolour="0" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="421.318,261.116,434.662,285.116" colourspace="Pattern" ncolour="0" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="434.662,261.116,442.654,285.116" colourspace="Pattern" ncolour="0" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="442.654,261.116,448.654,285.116" colourspace="Pattern" ncolour="0" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="448.726,261.116,460.726,285.116" colourspace="Pattern" ncolour="0" size="24.000">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="460.726,261.116,472.726,285.116" colourspace="Pattern" ncolour="0" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="472.726,261.116,483.382,285.116" colourspace="Pattern" ncolour="0" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="483.382,261.116,490.054,285.116" colourspace="Pattern" ncolour="0" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="490.054,261.116,502.054,285.116" colourspace="Pattern" ncolour="0" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="502.054,261.116,515.398,285.116" colourspace="Pattern" ncolour="0" size="24.000">b</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="515.398,261.116,522.070,285.116" colourspace="Pattern" ncolour="0" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="522.142,261.116,532.798,285.116" colourspace="Pattern" ncolour="0" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="538.680,261.116,550.680,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="550.680,261.116,564.024,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">b</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="564.024,261.116,573.360,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="573.360,261.116,584.016,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="584.016,261.116,594.672,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="594.672,261.116,606.672,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="606.672,261.116,618.672,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="618.672,261.116,626.664,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="626.736,261.116,633.408,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="633.408,261.116,645.408,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="645.408,261.116,658.752,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="658.752,261.116,668.088,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">s</text>
+</textline>
+<textline bbox="320.470,232.316,679.512,256.316" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="Pattern">Relate to model outputs -- calibration </textline>
+</textbox>
+<textbox id="4" bbox="229.130,177.111,344.830,201.135" size="24.024">Predictions <textline bbox="229.130,177.111,344.830,201.135" font="TimesNewRomanPS-BoldMT" ncolour="(0.8, 0, 0)" size="24.024" colourspace="Pattern">Predictions </textline>
+</textbox>
+<textbox id="5" bbox="249.650,117.096,462.194,141.096" size="24.0">Prediction uncertainty <textline bbox="249.650,117.096,462.194,141.096" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="Pattern">Prediction uncertainty </textline>
+</textbox>
+<textbox id="6" bbox="374.710,57.091,547.370,81.115" size="24.024">Societal decisions <textline bbox="374.710,57.091,547.370,81.115" font="TimesNewRomanPSMT" ncolour="0" size="24.024" colourspace="Pattern">Societal decisions </textline>
+</textbox>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="90.432,394.982,640.547,491.827" size="44.052">Major steps of ground-water  
+modeling <textline bbox="90.432,447.787,640.547,491.827" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.040" colourspace="Pattern">Major steps of ground-water  </textline>
+<textline bbox="273.100,394.982,446.932,439.046" font="TimesNewRomanPS-BoldMT" ncolour="(1, 1, 0)" size="44.064" colourspace="Pattern">modeling </textline>
+</textbox>
+<textbox id="1" bbox="53.184,316.346,412.752,369.146" size="24.0">Hydrologic and hydrogeologic data 
+Relate to model inputs <textline bbox="53.184,345.146,412.752,369.146" font="TimesNewRomanPS-BoldMT" ncolour="0" size="24.000" colourspace="Pattern">Hydrologic and hydrogeologic data </textline>
+<textline bbox="124.700,316.346,341.108,340.346" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="Pattern">Relate to model inputs </textline>
+</textbox>
+<textbox id="2" bbox="39.624,232.316,246.308,285.116" size="24.0">Ground-Water Model 
+-- parameters <textline bbox="39.624,261.116,246.308,285.116" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="Pattern">Ground-Water Model </textline>
+<textline bbox="73.224,232.316,212.592,256.316">-- parameters <text font="TimesNewRomanPSMT" bbox="73.224,232.316,81.216,256.316" colourspace="Pattern" ncolour="1" size="24.000">-</text>
+<text font="TimesNewRomanPSMT" bbox="81.264,232.316,89.256,256.316" colourspace="Pattern" ncolour="1" size="24.000">-</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="95.184,232.316,108.528,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="108.528,232.316,120.528,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="120.528,232.316,131.184,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="131.184,232.316,143.184,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="143.184,232.316,163.176,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">m</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="163.176,232.316,173.832,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="173.880,232.316,181.872,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="181.872,232.316,192.528,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="192.528,232.316,203.184,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="203.256,232.316,212.592,256.316" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">s</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="320.470,232.316,679.512,285.116" size="24.0">Dependent variable observations 
+Relate to model outputs -- calibration <textline bbox="331.990,261.116,668.088,285.116">Dependent variable observations <text font="TimesNewRomanPS-BoldMT" bbox="331.990,261.116,349.318,285.116" colourspace="Pattern" ncolour="1" size="24.000">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="349.318,261.116,359.974,285.116" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="359.974,261.116,373.318,285.116" colourspace="Pattern" ncolour="1" size="24.000">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="373.318,261.116,383.974,285.116" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="383.974,261.116,397.318,285.116" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="397.318,261.116,410.662,285.116" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="410.662,261.116,421.318,285.116" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="421.318,261.116,434.662,285.116" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="434.662,261.116,442.654,285.116" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="442.654,261.116,448.654,285.116" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="448.726,261.116,460.726,285.116" colourspace="Pattern" ncolour="1" size="24.000">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="460.726,261.116,472.726,285.116" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="472.726,261.116,483.382,285.116" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="483.382,261.116,490.054,285.116" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="490.054,261.116,502.054,285.116" colourspace="Pattern" ncolour="1" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="502.054,261.116,515.398,285.116" colourspace="Pattern" ncolour="1" size="24.000">b</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="515.398,261.116,522.070,285.116" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="522.142,261.116,532.798,285.116" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="532.798,261.116,538.798,285.116" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="538.680,261.116,550.680,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="550.680,261.116,564.024,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">b</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="564.024,261.116,573.360,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="573.360,261.116,584.016,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="584.016,261.116,594.672,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="594.672,261.116,606.672,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="606.672,261.116,618.672,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="618.672,261.116,626.664,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="626.736,261.116,633.408,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="633.408,261.116,645.408,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="645.408,261.116,658.752,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="658.752,261.116,668.088,285.116" colourspace="Pattern" ncolour="(0.8, 0, 0)" size="24.000">s</text>
+</textline>
+<textline bbox="320.470,232.316,679.512,256.316" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Relate to model outputs -- calibration </textline>
+</textbox>
+<textbox id="4" bbox="229.130,177.111,344.830,201.135" size="24.024">Predictions <textline bbox="229.130,177.111,344.830,201.135" font="TimesNewRomanPS-BoldMT" ncolour="(0.8, 0, 0)" size="24.024" colourspace="Pattern">Predictions </textline>
+</textbox>
+<textbox id="5" bbox="249.650,117.096,462.194,141.096" size="24.0">Prediction uncertainty <textline bbox="249.650,117.096,462.194,141.096" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="Pattern">Prediction uncertainty </textline>
+</textbox>
+<textbox id="6" bbox="374.710,57.091,547.370,81.115" size="24.024">Societal decisions <textline bbox="374.710,57.091,547.370,81.115" font="TimesNewRomanPSMT" ncolour="0" size="24.024" colourspace="Pattern">Societal decisions </textline>
+</textbox>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="38.712,329.749,690.699,511.669" size="37.986">We consider calibration with analysis of  
+data, sensitivities, predictions, and  
+uncertainty 
+observations &#8211; parameters - predictions <textline bbox="38.712,471.709,690.699,511.669" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="39.960" colourspace="Pattern">We consider calibration with analysis of  </textline>
+<textline bbox="84.192,423.709,645.310,463.669" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="39.960" colourspace="Pattern">data, sensitivities, predictions, and  </textline>
+<textline bbox="269.860,375.703,449.988,415.687" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="39.984" colourspace="Pattern">uncertainty </textline>
+<textline bbox="89.904,329.749,630.058,361.789" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0.6, 0)" size="32.040" colourspace="Pattern">observations &#8211; parameters - predictions </textline>
+</textbox>
+<textbox id="1" bbox="7.200,280.549,636.872,312.589" size="32.04">&#8226; Estimate parameters with observations using a  <textline bbox="7.200,280.549,636.872,312.589" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="Pattern">&#8226; Estimate parameters with observations using a  </textline>
+</textbox>
+<textbox id="2" bbox="34.200,165.329,711.781,274.208" size="32.048">gradient-based method (versus global optimization).  
+Gradient methods are much faster but can get stuck  
+in local minima. <textline bbox="34.200,242.144,711.781,274.208" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="Pattern">gradient-based method (versus global optimization).  </textline>
+<textline bbox="34.200,203.729,700.055,235.769" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="Pattern">Gradient methods are much faster but can get stuck  </textline>
+<textline bbox="34.200,165.329,243.293,197.369" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="Pattern">in local minima. </textline>
+</textbox>
+<textbox id="3" bbox="7.200,119.244,640.947,151.308" size="32.064">&#8226; Use sensitivity analysis to investigate relations  <textline bbox="7.200,119.244,640.947,151.308" font="TimesNewRomanPSMT" ncolour="1" size="32.064" colourspace="Pattern">&#8226; Use sensitivity analysis to investigate relations  </textline>
+</textbox>
+<textbox id="4" bbox="34.200,80.823,687.880,112.863" size="32.04">between observations, parameters, and predictions. <textline bbox="34.200,80.823,687.880,112.863" font="TimesNewRomanPSMT" ncolour="1" size="32.040" colourspace="Pattern">between observations, parameters, and predictions. </textline>
+</textbox>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="41.448,469.387,679.015,513.427" size="44.04">Sensitivity analysis measures taught <textline bbox="41.448,469.387,679.015,513.427" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="44.040" colourspace="Pattern">Sensitivity analysis measures taught </textline>
+</textbox>
+<textbox id="1" bbox="175.220,398.516,560.548,422.516" size="24.0">Observations &#8211; Parameters - Predictions <textline bbox="175.220,398.516,560.548,422.516" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="24.000" colourspace="Pattern">Observations &#8211; Parameters - Predictions </textline>
+</textbox>
+<textbox id="2" bbox="181.220,35.640,556.246,364.006" size="24.004363636363635">dss                                  pss 
+css                                  ppr 
+pcc 
+leverage 
+Parameter cv 
+AIC 
+BIC 
+DFBETAS  
+Cook&#8217;s D 
+Observations ---------------- Predictions 
+opr <textline bbox="182.740,340.006,448.132,364.006" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">dss                                  pss </textline>
+<textline bbox="182.740,311.206,448.108,335.206" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">css                                  ppr </textline>
+<textline bbox="182.740,282.406,216.052,306.406" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">pcc </textline>
+<textline bbox="182.740,247.841,264.181,271.865" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="Pattern">leverage </textline>
+<textline bbox="182.740,213.266,308.428,237.266" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Parameter cv </textline>
+<textline bbox="182.740,184.466,224.068,208.466" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">AIC </textline>
+<textline bbox="182.740,155.666,222.748,179.666" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">BIC </textline>
+<textline bbox="182.740,126.861,293.274,150.885" font="TimesNewRomanPSMT" ncolour="1" size="24.024" colourspace="Pattern">DFBETAS  </textline>
+<textline bbox="182.740,98.036,274.084,122.036" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Cook&#8217;s D </textline>
+<textline bbox="181.220,63.216,556.246,87.216" font="TimesNewRomanPSMT" ncolour="(1, 0.6, 0)" size="24.000" colourspace="Pattern">Observations ---------------- Predictions </textline>
+<textline bbox="349.080,35.640,381.072,59.640" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">opr </textline>
+</textbox>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="61.224,281.446,633.220,495.427" size="28.664">Field and synthetic examples 
+&#8226; Field examples are used to demonstrate how the  
+methods and guidelines are used in practice.  
+&#8211; We begin the class with a study of the Death Valley  
+regional ground-water system in California and  
+Nevada, USA. <textline bbox="103.870,451.387,616.055,495.427" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="44.040" colourspace="Pattern">Field and synthetic examples </textline>
+<textline bbox="61.224,407.341,633.220,435.301" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">&#8226; Field examples are used to demonstrate how the  </textline>
+<textline bbox="88.224,373.735,589.641,401.719" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="Pattern">methods and guidelines are used in practice.  </textline>
+<textline bbox="97.224,339.046,618.836,363.046" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">&#8211; We begin the class with a study of the Death Valley  </textline>
+<textline bbox="119.780,310.246,580.490,334.246" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">regional ground-water system in California and  </textline>
+<textline bbox="119.780,281.446,258.908,305.446" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">Nevada, USA. </textline>
+</textbox>
+<textbox id="1" bbox="61.224,241.225,605.088,269.209" size="27.984">&#8226; A synthetic example is used to investigate the  <textline bbox="61.224,241.225,605.088,269.209" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="Pattern">&#8226; A synthetic example is used to investigate the  </textline>
+</textbox>
+<textbox id="2" bbox="88.224,81.720,642.188,235.571" size="25.584">methods and guidelines in a situation for which  
+the truth is known. 
+&#8211; A synthetic test case with a model development phase  
+followed by a predictions phase is developed over the  
+length of the course.  <textline bbox="88.224,207.611,625.447,235.571" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">methods and guidelines in a situation for which  </textline>
+<textline bbox="88.224,174.011,298.008,201.971" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">the truth is known. </textline>
+<textline bbox="97.224,139.346,642.188,163.346" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">&#8211; A synthetic test case with a model development phase  </textline>
+<textline bbox="119.780,110.516,641.132,134.516" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">followed by a predictions phase is developed over the  </textline>
+<textline bbox="119.780,81.720,321.500,105.720" font="TimesNewRomanPSMT" ncolour="1" size="24.000" colourspace="Pattern">length of the course.  </textline>
+</textbox>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="29.448,430.987,690.973,527.866" size="44.052">Common questions that can be  
+addressed by the methods taught here <textline bbox="88.632,483.802,642.296,527.866" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="44.064" colourspace="Pattern">Common questions that can be  </textline>
+<textline bbox="29.448,430.987,690.973,475.027" font="TimesNewRomanPSMT" ncolour="(1, 1, 0)" size="44.040" colourspace="Pattern">addressed by the methods taught here </textline>
+</textbox>
+<textbox id="1" bbox="37.200,374.695,600.062,402.679" size="27.984">&#8226; How much and what model complexity can the  <textline bbox="37.200,374.695,600.062,402.679" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="Pattern">&#8226; How much and what model complexity can the  </textline>
+</textbox>
+<textbox id="2" bbox="64.224,344.431,309.014,372.391" size="27.96">observations support? <textline bbox="64.224,344.431,309.014,372.391" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">observations support? </textline>
+</textbox>
+<textbox id="3" bbox="37.200,307.471,668.160,335.431" size="27.96">&#8226; Are any of the estimated parameter values dominated  <textline bbox="37.200,307.471,668.160,335.431" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">&#8226; Are any of the estimated parameter values dominated  </textline>
+</textbox>
+<textbox id="4" bbox="64.224,277.231,342.426,305.191" size="27.96">by a single observation?  <textline bbox="64.224,277.231,342.426,305.191" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">by a single observation?  </textline>
+</textbox>
+<textbox id="5" bbox="37.200,240.265,656.449,268.249" size="27.984">&#8226; What model parameters are important to the things I  <textline bbox="37.200,240.265,656.449,268.249" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="Pattern">&#8226; What model parameters are important to the things I  </textline>
+</textbox>
+<textbox id="6" bbox="37.200,173.051,578.101,201.011" size="27.96">&#8226; What data should be collected to improve the  <textline bbox="37.200,173.051,578.101,201.011" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">&#8226; What data should be collected to improve the  </textline>
+</textbox>
+<textbox id="7" bbox="64.224,210.011,242.805,237.971" size="27.96">need to predict? <textline bbox="64.224,210.011,242.805,237.971" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">need to predict? </textline>
+</textbox>
+<textbox id="8" bbox="64.224,142.805,208.146,170.789" size="27.984">predictions?  <textline bbox="64.224,142.805,208.146,170.789" font="TimesNewRomanPSMT" ncolour="1" size="27.984" colourspace="Pattern">predictions?  </textline>
+</textbox>
+<textbox id="9" bbox="37.200,105.821,631.672,133.781" size="27.96">&#8226; Which conceptual model of the system is likely to  <textline bbox="37.200,105.821,631.672,133.781" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">&#8226; Which conceptual model of the system is likely to  </textline>
+</textbox>
+<textbox id="10" bbox="64.224,75.585,368.820,103.545" size="27.96">produce better predictions? <textline bbox="64.224,75.585,368.820,103.545" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">produce better predictions? </textline>
+</textbox>
+<textbox id="11" bbox="37.200,38.625,427.788,66.585" size="27.96">&#8226; How certain are the predictions? <textline bbox="37.200,38.625,427.788,66.585" font="TimesNewRomanPSMT" ncolour="1" size="27.960" colourspace="Pattern">&#8226; How certain are the predictions? </textline>
+</textbox>
+</page>
+</pages>

@@ -1,0 +1,556 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="10.368,461.868,709.283,524.549" size="27.972" unique_id="0">2nd CEOS/WGCV/LPV Workshop on Albedo Products 
+EGU, Vienna    April 27-28, 2005 <textline bbox="10.368,495.483,709.283,524.549">2nd CEOS/WGCV/LPV Workshop on Albedo Products <text font="Arial-BoldMT" bbox="10.368,495.483,25.927,523.467" colourspace="Pattern" ncolour="1" size="27.984">2</text>
+<text font="Arial-BoldMT" bbox="25.968,505.829,37.406,524.549" colourspace="Pattern" ncolour="1" size="18.720">n</text>
+<text font="Arial-BoldMT" bbox="37.368,505.829,48.806,524.549" colourspace="Pattern" ncolour="1" size="18.720">d</text>
+<text font="Arial-BoldMT" bbox="56.472,495.483,76.676,523.467" colourspace="Pattern" ncolour="1" size="27.984">C</text>
+<text font="Arial-BoldMT" bbox="76.676,495.483,95.342,523.467" colourspace="Pattern" ncolour="1" size="27.984">E</text>
+<text font="Arial-BoldMT" bbox="95.230,495.483,117.001,523.467" colourspace="Pattern" ncolour="1" size="27.984">O</text>
+<text font="Arial-BoldMT" bbox="117.001,495.483,135.667,523.467" colourspace="Pattern" ncolour="1" size="27.984">S</text>
+<text font="Arial-BoldMT" bbox="135.555,495.483,143.334,523.467" colourspace="Pattern" ncolour="1" size="27.984">/</text>
+<text font="Arial-BoldMT" bbox="143.334,495.483,169.751,523.467" colourspace="Pattern" ncolour="1" size="27.984">W</text>
+<text font="Arial-BoldMT" bbox="169.751,495.483,191.523,523.467" colourspace="Pattern" ncolour="1" size="27.984">G</text>
+<text font="Arial-BoldMT" bbox="191.523,495.483,211.727,523.467" colourspace="Pattern" ncolour="1" size="27.984">C</text>
+<text font="Arial-BoldMT" bbox="211.643,495.483,230.309,523.467" colourspace="Pattern" ncolour="1" size="27.984">V</text>
+<text font="Arial-BoldMT" bbox="230.309,495.483,238.088,523.467" colourspace="Pattern" ncolour="1" size="27.984">/</text>
+<text font="Arial-BoldMT" bbox="238.088,495.483,255.186,523.467" colourspace="Pattern" ncolour="1" size="27.984">L</text>
+<text font="Arial-BoldMT" bbox="255.074,495.483,273.740,523.467" colourspace="Pattern" ncolour="1" size="27.984">P</text>
+<text font="Arial-BoldMT" bbox="273.740,495.483,292.405,523.467" colourspace="Pattern" ncolour="1" size="27.984">V</text>
+<text font="Arial-BoldMT" bbox="292.265,495.483,300.045,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="300.409,495.483,326.825,523.467" colourspace="Pattern" ncolour="1" size="27.984">W</text>
+<text font="Arial-BoldMT" bbox="326.322,495.483,343.420,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="343.420,495.483,354.306,523.467" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="Arial-BoldMT" bbox="354.306,495.483,369.865,523.467" colourspace="Pattern" ncolour="1" size="27.984">k</text>
+<text font="Arial-BoldMT" bbox="369.865,495.483,385.424,523.467" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+<text font="Arial-BoldMT" bbox="385.424,495.483,402.522,523.467" colourspace="Pattern" ncolour="1" size="27.984">h</text>
+<text font="Arial-BoldMT" bbox="402.522,495.483,419.620,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="419.620,495.483,436.719,523.467" colourspace="Pattern" ncolour="1" size="27.984">p</text>
+<text font="Arial-BoldMT" bbox="436.607,495.483,444.386,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="444.610,495.483,461.708,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="461.708,495.483,478.807,523.467" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="Arial-BoldMT" bbox="478.695,495.483,486.474,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="485.523,495.483,505.727,523.467" colourspace="Pattern" ncolour="1" size="27.984">A</text>
+<text font="Arial-BoldMT" bbox="505.727,495.483,513.507,523.467" colourspace="Pattern" ncolour="1" size="27.984">l</text>
+<text font="Arial-BoldMT" bbox="513.507,495.483,530.605,523.467" colourspace="Pattern" ncolour="1" size="27.984">b</text>
+<text font="Arial-BoldMT" bbox="530.605,495.483,546.164,523.467" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="Arial-BoldMT" bbox="546.164,495.483,563.262,523.467" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="Arial-BoldMT" bbox="563.150,495.483,580.249,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="580.249,495.483,588.028,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="588.196,495.483,606.861,523.467" colourspace="Pattern" ncolour="1" size="27.984">P</text>
+<text font="Arial-BoldMT" bbox="606.861,495.483,617.747,523.467" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="Arial-BoldMT" bbox="617.747,495.483,634.845,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="634.761,495.483,651.860,523.467" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="Arial-BoldMT" bbox="651.860,495.483,668.958,523.467" colourspace="Pattern" ncolour="1" size="27.984">u</text>
+<text font="Arial-BoldMT" bbox="668.846,495.483,684.405,523.467" colourspace="Pattern" ncolour="1" size="27.984">c</text>
+<text font="Arial-BoldMT" bbox="684.405,495.483,693.724,523.467" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="Arial-BoldMT" bbox="693.724,495.483,709.283,523.467" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+</textline>
+<textline bbox="150.670,461.868,569.292,489.828" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">EGU, Vienna    April 27-28, 2005 </textline>
+</title>
+<normal_text id="1" bbox="25.200,44.895,674.400,420.916" size="21.176571428571428" unique_id="1">The goal of this workshop is to design and initiate a validation and  
+comparison exercise for the various satellite-derived land surface  
+albedo products available. 
+Wednesday Morning 
+8:30 Welcome - LPV Chair 
+8:45 BSRN Albedo Subgroup and Canadian Sites 
+9:10 BSRN Archive and Global Climate Results 
+9:35 ARM Site 
+10-10:30 Break 
+10:30 Eval. of UMD GEWEX/ISCCP Albedo Products 
+10:45 Sahelian Site 
+11:00 GOFC-Siberia2 
+11:15 DART Code to Validate Coarse Scale Albedo Sylvie Duthoit 
+12:00-13:30 Lunch <textline bbox="25.200,396.916,674.400,420.916" font="BCDEEE+Times,Italic" ncolour="0" size="24.000" colourspace="Pattern">The goal of this workshop is to design and initiate a validation and  </textline>
+<textline bbox="25.200,370.991,662.607,395.015" font="BCDEEE+Times,Italic" ncolour="0" size="24.024" colourspace="Pattern">comparison exercise for the various satellite-derived land surface  </textline>
+<textline bbox="25.200,341.686,280.920,365.686" font="BCDEEE+Times,Italic" ncolour="0" size="24.000" colourspace="Pattern">albedo products available. </textline>
+<textline bbox="25.200,309.046,225.144,333.046" font="BCDFEE+Times" ncolour="0" size="24.000" colourspace="Pattern">Wednesday Morning </textline>
+<textline bbox="25.200,282.541,243.954,302.581" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">8:30 Welcome - LPV Chair </textline>
+<textline bbox="25.200,256.136,421.685,276.200" font="BCDFEE+Times" ncolour="0" size="20.064" colourspace="Pattern">8:45 BSRN Albedo Subgroup and Canadian Sites </textline>
+<textline bbox="25.200,229.721,411.551,249.761" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">9:10 BSRN Archive and Global Climate Results </textline>
+<textline bbox="25.200,203.321,146.282,223.361" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">9:35 ARM Site </textline>
+<textline bbox="25.200,176.921,150.196,196.961" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">10-10:30 Break </textline>
+<textline bbox="25.200,150.521,466.421,170.561" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">10:30 Eval. of UMD GEWEX/ISCCP Albedo Products </textline>
+<textline bbox="25.200,124.116,180.495,144.180" font="BCDFEE+Times" ncolour="0" size="20.064" colourspace="Pattern">10:45 Sahelian Site </textline>
+<textline bbox="25.200,97.691,202.053,117.731" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">11:00 GOFC-Siberia2 </textline>
+<textline bbox="25.200,71.295,574.714,91.335" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">11:15 DART Code to Validate Coarse Scale Albedo Sylvie Duthoit </textline>
+<textline bbox="25.200,44.895,179.127,64.935" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">12:00-13:30 Lunch </textline>
+</normal_text>
+<normal_text id="2" bbox="529.300,229.721,662.284,302.581" size="20.048" unique_id="2">Jeff Morisette 
+Bruce McArthur 
+Andreas Roesch <textline bbox="529.300,282.541,640.622,302.581" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">Jeff Morisette </textline>
+<textline bbox="529.300,256.136,662.284,276.200" font="BCDFEE+Times" ncolour="0" size="20.064" colourspace="Pattern">Bruce McArthur </textline>
+<textline bbox="529.300,229.721,659.901,249.761" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">Andreas Roesch </textline>
+</normal_text>
+<normal_text id="3" bbox="529.300,124.116,650.808,170.561" size="20.052" unique_id="3">Rachel Pinker 
+Larent Kergoat <textline bbox="529.300,150.521,642.165,170.561" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">Rachel Pinker </textline>
+<textline bbox="529.300,124.116,650.808,144.180" font="BCDFEE+Times" ncolour="0" size="20.064" colourspace="Pattern">Larent Kergoat </textline>
+</normal_text>
+<normal_text id="4" bbox="457.300,203.321,590.366,223.361" size="20.04" unique_id="4">Alex Trischenko <textline bbox="457.300,203.321,590.366,223.361" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">Alex Trischenko </textline>
+</normal_text>
+<normal_text id="5" bbox="385.270,97.691,688.094,117.731" size="20.04" unique_id="5">Christiane Schmullius/Annett Bartsch <textline bbox="385.270,97.691,688.094,117.731" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">Christiane Schmullius/Annett Bartsch </textline>
+</normal_text>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[10.368, 461.868, 709.283, 524.549]">
+<title id="0" bbox="10.368,461.868,709.283,524.549" size="27.972" unique_id="0">2nd CEOS/WGCV/LPV Workshop on Albedo Products 
+EGU, Vienna    April 27-28, 2005 <textline bbox="10.368,495.483,709.283,524.549">2nd CEOS/WGCV/LPV Workshop on Albedo Products <text font="Arial-BoldMT" bbox="10.368,495.483,25.927,523.467" colourspace="Pattern" ncolour="1" size="27.984">2</text>
+<text font="Arial-BoldMT" bbox="25.968,505.829,37.406,524.549" colourspace="Pattern" ncolour="1" size="18.720">n</text>
+<text font="Arial-BoldMT" bbox="37.368,505.829,48.806,524.549" colourspace="Pattern" ncolour="1" size="18.720">d</text>
+<text font="Arial-BoldMT" bbox="56.472,495.483,76.676,523.467" colourspace="Pattern" ncolour="1" size="27.984">C</text>
+<text font="Arial-BoldMT" bbox="76.676,495.483,95.342,523.467" colourspace="Pattern" ncolour="1" size="27.984">E</text>
+<text font="Arial-BoldMT" bbox="95.230,495.483,117.001,523.467" colourspace="Pattern" ncolour="1" size="27.984">O</text>
+<text font="Arial-BoldMT" bbox="117.001,495.483,135.667,523.467" colourspace="Pattern" ncolour="1" size="27.984">S</text>
+<text font="Arial-BoldMT" bbox="135.555,495.483,143.334,523.467" colourspace="Pattern" ncolour="1" size="27.984">/</text>
+<text font="Arial-BoldMT" bbox="143.334,495.483,169.751,523.467" colourspace="Pattern" ncolour="1" size="27.984">W</text>
+<text font="Arial-BoldMT" bbox="169.751,495.483,191.523,523.467" colourspace="Pattern" ncolour="1" size="27.984">G</text>
+<text font="Arial-BoldMT" bbox="191.523,495.483,211.727,523.467" colourspace="Pattern" ncolour="1" size="27.984">C</text>
+<text font="Arial-BoldMT" bbox="211.643,495.483,230.309,523.467" colourspace="Pattern" ncolour="1" size="27.984">V</text>
+<text font="Arial-BoldMT" bbox="230.309,495.483,238.088,523.467" colourspace="Pattern" ncolour="1" size="27.984">/</text>
+<text font="Arial-BoldMT" bbox="238.088,495.483,255.186,523.467" colourspace="Pattern" ncolour="1" size="27.984">L</text>
+<text font="Arial-BoldMT" bbox="255.074,495.483,273.740,523.467" colourspace="Pattern" ncolour="1" size="27.984">P</text>
+<text font="Arial-BoldMT" bbox="273.740,495.483,292.405,523.467" colourspace="Pattern" ncolour="1" size="27.984">V</text>
+<text font="Arial-BoldMT" bbox="292.265,495.483,300.045,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="300.409,495.483,326.825,523.467" colourspace="Pattern" ncolour="1" size="27.984">W</text>
+<text font="Arial-BoldMT" bbox="326.322,495.483,343.420,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="343.420,495.483,354.306,523.467" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="Arial-BoldMT" bbox="354.306,495.483,369.865,523.467" colourspace="Pattern" ncolour="1" size="27.984">k</text>
+<text font="Arial-BoldMT" bbox="369.865,495.483,385.424,523.467" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+<text font="Arial-BoldMT" bbox="385.424,495.483,402.522,523.467" colourspace="Pattern" ncolour="1" size="27.984">h</text>
+<text font="Arial-BoldMT" bbox="402.522,495.483,419.620,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="419.620,495.483,436.719,523.467" colourspace="Pattern" ncolour="1" size="27.984">p</text>
+<text font="Arial-BoldMT" bbox="436.607,495.483,444.386,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="444.610,495.483,461.708,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="461.708,495.483,478.807,523.467" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="Arial-BoldMT" bbox="478.695,495.483,486.474,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="485.523,495.483,505.727,523.467" colourspace="Pattern" ncolour="1" size="27.984">A</text>
+<text font="Arial-BoldMT" bbox="505.727,495.483,513.507,523.467" colourspace="Pattern" ncolour="1" size="27.984">l</text>
+<text font="Arial-BoldMT" bbox="513.507,495.483,530.605,523.467" colourspace="Pattern" ncolour="1" size="27.984">b</text>
+<text font="Arial-BoldMT" bbox="530.605,495.483,546.164,523.467" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="Arial-BoldMT" bbox="546.164,495.483,563.262,523.467" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="Arial-BoldMT" bbox="563.150,495.483,580.249,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="580.249,495.483,588.028,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="588.196,495.483,606.861,523.467" colourspace="Pattern" ncolour="1" size="27.984">P</text>
+<text font="Arial-BoldMT" bbox="606.861,495.483,617.747,523.467" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="Arial-BoldMT" bbox="617.747,495.483,634.845,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="634.761,495.483,651.860,523.467" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="Arial-BoldMT" bbox="651.860,495.483,668.958,523.467" colourspace="Pattern" ncolour="1" size="27.984">u</text>
+<text font="Arial-BoldMT" bbox="668.846,495.483,684.405,523.467" colourspace="Pattern" ncolour="1" size="27.984">c</text>
+<text font="Arial-BoldMT" bbox="684.405,495.483,693.724,523.467" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="Arial-BoldMT" bbox="693.724,495.483,709.283,523.467" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+</textline>
+<textline bbox="150.670,461.868,569.292,489.828" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">EGU, Vienna    April 27-28, 2005 </textline>
+</title>
+<normal_text id="1" bbox="25.200,162.002,669.112,423.571" size="18.512" unique_id="1">The goal of this workshop is to design and initiate a validation and comparison  
+exercise for the various satellite-derived land surface albedo products available. 
+Wednesday Afternoon 
+13:30 Belmanip 
+13:45 MERIS 
+14:00 MISR/MODIS/METEOSAT 
+14:25 Geostationary Surface Albedo Retrieval Error Est. Y. Govaerts/A. Lattanzio 
+14:40 SAF Land (MSG)/Polder Parasol/CYCLOPES 
+15:10-15:30 Break 
+15:30 MODIS Subsets  
+15:45 Roundtable: Requirements and Issues 
+17:00 Conclude <textline bbox="25.200,403.531,665.438,423.571" font="BCDEEE+Times,Italic" ncolour="0" size="20.040" colourspace="Pattern">The goal of this workshop is to design and initiate a validation and comparison  </textline>
+<textline bbox="25.200,381.451,669.112,401.491" font="BCDEEE+Times,Italic" ncolour="0" size="20.040" colourspace="Pattern">exercise for the various satellite-derived land surface albedo products available. </textline>
+<textline bbox="25.200,356.461,203.155,376.501" font="BCDFEE+Times" ncolour="0" size="20.040" colourspace="Pattern">Wednesday Afternoon </textline>
+<textline bbox="25.200,334.822,140.724,352.822" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">13:30 Belmanip </textline>
+<textline bbox="25.200,313.222,125.640,331.222" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">13:45 MERIS </textline>
+<textline bbox="25.200,291.622,276.408,309.622" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">14:00 MISR/MODIS/METEOSAT </textline>
+<textline bbox="25.200,270.022,637.138,288.022" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">14:25 Geostationary Surface Albedo Retrieval Error Est. Y. Govaerts/A. Lattanzio </textline>
+<textline bbox="25.200,248.417,407.147,266.441" font="BCDFEE+Times" ncolour="0" size="18.024" colourspace="Pattern">14:40 SAF Land (MSG)/Polder Parasol/CYCLOPES </textline>
+<textline bbox="25.200,226.802,160.806,244.802" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">15:10-15:30 Break </textline>
+<textline bbox="25.200,205.202,192.672,223.202" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">15:30 MODIS Subsets  </textline>
+<textline bbox="25.200,183.602,342.036,201.602" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">15:45 Roundtable: Requirements and Issues </textline>
+<textline bbox="25.200,162.002,139.734,180.002" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">17:00 Conclude </textline>
+</normal_text>
+<normal_text id="2" bbox="457.300,291.622,654.262,352.822" size="18.0" unique_id="2">Fred Baret 
+J.-Peter Muller/R. Pruesker 
+Bernard Pinty <textline bbox="457.300,334.822,533.800,352.822" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">Fred Baret </textline>
+<textline bbox="457.300,313.222,654.262,331.222" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">J.-Peter Muller/R. Pruesker </textline>
+<textline bbox="457.300,291.622,557.812,309.622" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">Bernard Pinty </textline>
+</normal_text>
+<normal_text id="3" bbox="457.300,183.602,636.580,223.202" size="18.0" unique_id="3">R. Cook 
+Facilitators:Baret/Schaaf <textline bbox="457.300,205.202,517.294,223.202" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">R. Cook </textline>
+<textline bbox="457.300,183.602,636.580,201.602" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">Facilitators:Baret/Schaaf </textline>
+</normal_text>
+<normal_text id="4" bbox="457.300,248.417,600.925,266.441" size="18.024" unique_id="4">Jean-Louis Roujean <textline bbox="457.300,248.417,600.925,266.441" font="BCDFEE+Times" ncolour="0" size="18.024" colourspace="Pattern">Jean-Louis Roujean </textline>
+</normal_text>
+<normal_text id="5" bbox="25.200,27.576,401.400,134.051" size="18.407999999999998" unique_id="5">Thursday Morning 
+8:30 Roundtable: Design for LPV Virtual Campaign 
+10:00-10:30 Break 
+10:30 Roundtable: Continued 
+12:00 Conclude <textline bbox="25.200,114.011,189.308,134.051" font="BCDGEE+Times,Bold" ncolour="0" size="20.040" colourspace="Pattern">Thursday Morning </textline>
+<textline bbox="25.200,92.376,401.400,110.376" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">8:30 Roundtable: Design for LPV Virtual Campaign </textline>
+<textline bbox="25.200,70.776,160.806,88.776" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">10:00-10:30 Break </textline>
+<textline bbox="25.200,49.176,238.230,67.176" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">10:30 Roundtable: Continued </textline>
+<textline bbox="25.200,27.576,139.734,45.576" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">12:00 Conclude </textline>
+</normal_text>
+<normal_text id="6" bbox="457.300,92.376,677.908,110.376" size="18.0" unique_id="6">Facilitators: Privette/Morisette <textline bbox="457.300,92.376,677.908,110.376" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">Facilitators: Privette/Morisette </textline>
+</normal_text>
+<normal_text id="7" bbox="457.300,49.176,677.908,67.176" size="18.0" unique_id="7">Facilitators: Privette/Morisette <textline bbox="457.300,49.176,677.908,67.176" font="BCDFEE+Times" ncolour="0" size="18.000" colourspace="Pattern">Facilitators: Privette/Morisette </textline>
+</normal_text>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[10.368, 461.868, 709.283, 524.549]">
+<title id="0" bbox="10.368,461.868,709.283,524.549" size="27.972" unique_id="0">2nd CEOS/WGCV/LPV Workshop on Albedo Products 
+EGU, Vienna    April 27-28, 2005 <textline bbox="10.368,495.483,709.283,524.549">2nd CEOS/WGCV/LPV Workshop on Albedo Products <text font="Arial-BoldMT" bbox="10.368,495.483,25.927,523.467" colourspace="Pattern" ncolour="1" size="27.984">2</text>
+<text font="Arial-BoldMT" bbox="25.968,505.829,37.406,524.549" colourspace="Pattern" ncolour="1" size="18.720">n</text>
+<text font="Arial-BoldMT" bbox="37.368,505.829,48.806,524.549" colourspace="Pattern" ncolour="1" size="18.720">d</text>
+<text font="Arial-BoldMT" bbox="56.472,495.483,76.676,523.467" colourspace="Pattern" ncolour="1" size="27.984">C</text>
+<text font="Arial-BoldMT" bbox="76.676,495.483,95.342,523.467" colourspace="Pattern" ncolour="1" size="27.984">E</text>
+<text font="Arial-BoldMT" bbox="95.230,495.483,117.001,523.467" colourspace="Pattern" ncolour="1" size="27.984">O</text>
+<text font="Arial-BoldMT" bbox="117.001,495.483,135.667,523.467" colourspace="Pattern" ncolour="1" size="27.984">S</text>
+<text font="Arial-BoldMT" bbox="135.555,495.483,143.334,523.467" colourspace="Pattern" ncolour="1" size="27.984">/</text>
+<text font="Arial-BoldMT" bbox="143.334,495.483,169.751,523.467" colourspace="Pattern" ncolour="1" size="27.984">W</text>
+<text font="Arial-BoldMT" bbox="169.751,495.483,191.523,523.467" colourspace="Pattern" ncolour="1" size="27.984">G</text>
+<text font="Arial-BoldMT" bbox="191.523,495.483,211.727,523.467" colourspace="Pattern" ncolour="1" size="27.984">C</text>
+<text font="Arial-BoldMT" bbox="211.643,495.483,230.309,523.467" colourspace="Pattern" ncolour="1" size="27.984">V</text>
+<text font="Arial-BoldMT" bbox="230.309,495.483,238.088,523.467" colourspace="Pattern" ncolour="1" size="27.984">/</text>
+<text font="Arial-BoldMT" bbox="238.088,495.483,255.186,523.467" colourspace="Pattern" ncolour="1" size="27.984">L</text>
+<text font="Arial-BoldMT" bbox="255.074,495.483,273.740,523.467" colourspace="Pattern" ncolour="1" size="27.984">P</text>
+<text font="Arial-BoldMT" bbox="273.740,495.483,292.405,523.467" colourspace="Pattern" ncolour="1" size="27.984">V</text>
+<text font="Arial-BoldMT" bbox="292.265,495.483,300.045,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="300.409,495.483,326.825,523.467" colourspace="Pattern" ncolour="1" size="27.984">W</text>
+<text font="Arial-BoldMT" bbox="326.322,495.483,343.420,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="343.420,495.483,354.306,523.467" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="Arial-BoldMT" bbox="354.306,495.483,369.865,523.467" colourspace="Pattern" ncolour="1" size="27.984">k</text>
+<text font="Arial-BoldMT" bbox="369.865,495.483,385.424,523.467" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+<text font="Arial-BoldMT" bbox="385.424,495.483,402.522,523.467" colourspace="Pattern" ncolour="1" size="27.984">h</text>
+<text font="Arial-BoldMT" bbox="402.522,495.483,419.620,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="419.620,495.483,436.719,523.467" colourspace="Pattern" ncolour="1" size="27.984">p</text>
+<text font="Arial-BoldMT" bbox="436.607,495.483,444.386,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="444.610,495.483,461.708,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="461.708,495.483,478.807,523.467" colourspace="Pattern" ncolour="1" size="27.984">n</text>
+<text font="Arial-BoldMT" bbox="478.695,495.483,486.474,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="485.523,495.483,505.727,523.467" colourspace="Pattern" ncolour="1" size="27.984">A</text>
+<text font="Arial-BoldMT" bbox="505.727,495.483,513.507,523.467" colourspace="Pattern" ncolour="1" size="27.984">l</text>
+<text font="Arial-BoldMT" bbox="513.507,495.483,530.605,523.467" colourspace="Pattern" ncolour="1" size="27.984">b</text>
+<text font="Arial-BoldMT" bbox="530.605,495.483,546.164,523.467" colourspace="Pattern" ncolour="1" size="27.984">e</text>
+<text font="Arial-BoldMT" bbox="546.164,495.483,563.262,523.467" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="Arial-BoldMT" bbox="563.150,495.483,580.249,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="580.249,495.483,588.028,523.467" colourspace="Pattern" ncolour="1" size="27.984"> </text>
+<text font="Arial-BoldMT" bbox="588.196,495.483,606.861,523.467" colourspace="Pattern" ncolour="1" size="27.984">P</text>
+<text font="Arial-BoldMT" bbox="606.861,495.483,617.747,523.467" colourspace="Pattern" ncolour="1" size="27.984">r</text>
+<text font="Arial-BoldMT" bbox="617.747,495.483,634.845,523.467" colourspace="Pattern" ncolour="1" size="27.984">o</text>
+<text font="Arial-BoldMT" bbox="634.761,495.483,651.860,523.467" colourspace="Pattern" ncolour="1" size="27.984">d</text>
+<text font="Arial-BoldMT" bbox="651.860,495.483,668.958,523.467" colourspace="Pattern" ncolour="1" size="27.984">u</text>
+<text font="Arial-BoldMT" bbox="668.846,495.483,684.405,523.467" colourspace="Pattern" ncolour="1" size="27.984">c</text>
+<text font="Arial-BoldMT" bbox="684.405,495.483,693.724,523.467" colourspace="Pattern" ncolour="1" size="27.984">t</text>
+<text font="Arial-BoldMT" bbox="693.724,495.483,709.283,523.467" colourspace="Pattern" ncolour="1" size="27.984">s</text>
+</textline>
+<textline bbox="150.670,461.868,569.292,489.828" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">EGU, Vienna    April 27-28, 2005 </textline>
+</title>
+<normal_text id="1" bbox="19.200,374.726,663.148,418.771" size="20.052" unique_id="1">The goal of this workshop is to design and initiate a validation and comparison  
+exercise for the various satellite-derived land surface albedo products available. <textline bbox="19.200,398.731,659.438,418.771" font="BCDEEE+Times,Italic" ncolour="0" size="20.040" colourspace="Pattern">The goal of this workshop is to design and initiate a validation and comparison  </textline>
+<textline bbox="19.200,374.726,663.148,394.790" font="BCDEEE+Times,Italic" ncolour="0" size="20.064" colourspace="Pattern">exercise for the various satellite-derived land surface albedo products available. </textline>
+</normal_text>
+<enlisting id="2" bbox="19.200,201.881,704.499,337.648" size="20.4048" unique_id="2">&#9642; Definitions of albedo with regard to applications 
+&#9642; Ground measurements of albedo 
+&#9642; Temporal and spatial representativeness of ground measured albedo 
+&#9642; Comparisons between satellite albedo products and ground measurements 
+&#9642; Intercomparison between albedo products derived from different sensors/algorithms <textline bbox="19.200,317.101,421.855,337.648">&#9642; Definitions of albedo with regard to applications <text font="BCDHEE+Wingdings-Regular" bbox="19.200,317.248,28.543,337.648" colourspace="Pattern" ncolour="0" size="20.400">&#9642;</text>
+<text font="BCDFEE+Times" bbox="33.600,317.101,48.069,337.141" colourspace="Pattern" ncolour="0" size="20.040">D</text>
+<text font="BCDFEE+Times" bbox="48.069,317.101,56.967,337.141" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="56.967,317.101,63.640,337.141" colourspace="Pattern" ncolour="0" size="20.040">f</text>
+<text font="BCDFEE+Times" bbox="63.700,317.101,69.271,337.141" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="69.271,317.101,79.291,337.141" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="79.291,317.101,84.862,337.141" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="84.862,317.101,90.433,337.141" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="90.333,317.101,95.904,337.141" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="95.904,317.101,105.924,337.141" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="105.924,317.101,115.944,337.141" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="115.944,317.101,123.740,337.141" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="123.740,317.101,128.750,337.141" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="128.249,317.101,138.269,337.141" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="138.269,317.101,144.942,337.141" colourspace="Pattern" ncolour="0" size="20.040">f</text>
+<text font="BCDFEE+Times" bbox="145.022,317.101,150.032,337.141" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="149.832,317.101,158.730,337.141" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="158.730,317.101,164.301,337.141" colourspace="Pattern" ncolour="0" size="20.040">l</text>
+<text font="BCDFEE+Times" bbox="164.241,317.101,174.261,337.141" colourspace="Pattern" ncolour="0" size="20.040">b</text>
+<text font="BCDFEE+Times" bbox="174.261,317.101,183.159,337.141" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="183.159,317.101,193.179,337.141" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="193.259,317.101,203.279,337.141" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="203.279,317.101,208.289,337.141" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="208.148,317.101,222.617,337.141" colourspace="Pattern" ncolour="0" size="20.040">w</text>
+<text font="BCDFEE+Times" bbox="222.617,317.101,228.188,337.141" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="228.188,317.101,233.760,337.141" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="233.760,317.101,243.780,337.141" colourspace="Pattern" ncolour="0" size="20.040">h</text>
+<text font="BCDFEE+Times" bbox="243.780,317.101,248.790,337.141" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="248.589,317.101,255.262,337.141" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="255.262,317.101,264.160,337.141" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="264.160,317.101,274.180,337.141" colourspace="Pattern" ncolour="0" size="20.040">g</text>
+<text font="BCDFEE+Times" bbox="274.240,317.101,283.138,337.141" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="283.138,317.101,289.811,337.141" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="289.811,317.101,299.831,337.141" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="299.892,317.101,304.902,337.141" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="304.581,317.101,310.152,337.141" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="310.152,317.101,320.172,337.141" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="320.172,317.101,325.182,337.141" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="325.102,317.101,334.000,337.141" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="334.000,317.101,344.020,337.141" colourspace="Pattern" ncolour="0" size="20.040">p</text>
+<text font="BCDFEE+Times" bbox="344.020,317.101,354.040,337.141" colourspace="Pattern" ncolour="0" size="20.040">p</text>
+<text font="BCDFEE+Times" bbox="354.120,317.101,359.691,337.141" colourspace="Pattern" ncolour="0" size="20.040">l</text>
+<text font="BCDFEE+Times" bbox="359.691,317.101,365.262,337.141" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="365.162,317.101,374.060,337.141" colourspace="Pattern" ncolour="0" size="20.040">c</text>
+<text font="BCDFEE+Times" bbox="374.060,317.101,382.957,337.141" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="382.957,317.101,388.528,337.141" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="388.448,317.101,394.019,337.141" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="394.019,317.101,404.039,337.141" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="404.039,317.101,414.059,337.141" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="414.059,317.101,421.855,337.141" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+</textline>
+<textline bbox="19.200,288.301,293.859,308.848">&#9642; Ground measurements of albedo <text font="BCDHEE+Wingdings-Regular" bbox="19.200,288.448,28.543,308.848" colourspace="Pattern" ncolour="0" size="20.400">&#9642;</text>
+<text font="BCDFEE+Times" bbox="33.600,288.301,48.069,308.341" colourspace="Pattern" ncolour="0" size="20.040">G</text>
+<text font="BCDFEE+Times" bbox="48.069,288.301,54.742,308.341" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="54.822,288.301,64.842,308.341" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="64.842,288.301,74.862,308.341" colourspace="Pattern" ncolour="0" size="20.040">u</text>
+<text font="BCDFEE+Times" bbox="74.963,288.301,84.983,308.341" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="84.983,288.301,95.003,308.341" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="95.003,288.301,100.013,308.341" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="99.692,288.301,115.283,308.341" colourspace="Pattern" ncolour="0" size="20.040">m</text>
+<text font="BCDFEE+Times" bbox="115.043,288.301,123.940,308.341" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="123.940,288.301,132.838,308.341" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="132.838,288.301,140.634,308.341" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="140.634,288.301,150.654,308.341" colourspace="Pattern" ncolour="0" size="20.040">u</text>
+<text font="BCDFEE+Times" bbox="150.654,288.301,157.327,308.341" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="157.387,288.301,166.285,308.341" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="166.285,288.301,181.876,308.341" colourspace="Pattern" ncolour="0" size="20.040">m</text>
+<text font="BCDFEE+Times" bbox="181.635,288.301,190.533,308.341" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="190.533,288.301,200.553,308.341" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="200.553,288.301,206.124,308.341" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="206.124,288.301,213.920,308.341" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="213.920,288.301,218.930,308.341" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="218.709,288.301,228.729,308.341" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="228.729,288.301,235.403,308.341" colourspace="Pattern" ncolour="0" size="20.040">f</text>
+<text font="BCDFEE+Times" bbox="235.483,288.301,240.493,308.341" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="240.413,288.301,249.311,308.341" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="249.311,288.301,254.882,308.341" colourspace="Pattern" ncolour="0" size="20.040">l</text>
+<text font="BCDFEE+Times" bbox="254.822,288.301,264.842,308.341" colourspace="Pattern" ncolour="0" size="20.040">b</text>
+<text font="BCDFEE+Times" bbox="264.842,288.301,273.739,308.341" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="273.739,288.301,283.759,308.341" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="283.839,288.301,293.859,308.341" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+</textline>
+<textline bbox="19.200,259.496,574.547,280.067">&#9642; Temporal and spatial representativeness of ground measured albedo <text font="BCDHEE+Wingdings-Regular" bbox="19.200,259.643,28.554,280.067" colourspace="Pattern" ncolour="0" size="20.424">&#9642;</text>
+<text font="BCDFEE+Times" bbox="33.240,259.496,45.499,279.560" colourspace="Pattern" ncolour="0" size="20.064">T</text>
+<text font="BCDFEE+Times" bbox="44.034,259.496,52.943,279.560" colourspace="Pattern" ncolour="0" size="20.064">e</text>
+<text font="BCDFEE+Times" bbox="52.943,259.496,68.553,279.560" colourspace="Pattern" ncolour="0" size="20.064">m</text>
+<text font="BCDFEE+Times" bbox="68.272,259.496,78.304,279.560" colourspace="Pattern" ncolour="0" size="20.064">p</text>
+<text font="BCDFEE+Times" bbox="78.304,259.496,88.336,279.560" colourspace="Pattern" ncolour="0" size="20.064">o</text>
+<text font="BCDFEE+Times" bbox="88.416,259.496,95.097,279.560" colourspace="Pattern" ncolour="0" size="20.064">r</text>
+<text font="BCDFEE+Times" bbox="95.097,259.496,104.006,279.560" colourspace="Pattern" ncolour="0" size="20.064">a</text>
+<text font="BCDFEE+Times" bbox="104.006,259.496,109.584,279.560" colourspace="Pattern" ncolour="0" size="20.064">l</text>
+<text font="BCDFEE+Times" bbox="109.584,259.496,114.600,279.560" colourspace="Pattern" ncolour="0" size="20.064"> </text>
+<text font="BCDFEE+Times" bbox="114.459,259.496,123.367,279.560" colourspace="Pattern" ncolour="0" size="20.064">a</text>
+<text font="BCDFEE+Times" bbox="123.367,259.496,133.399,279.560" colourspace="Pattern" ncolour="0" size="20.064">n</text>
+<text font="BCDFEE+Times" bbox="133.399,259.496,143.431,279.560" colourspace="Pattern" ncolour="0" size="20.064">d</text>
+<text font="BCDFEE+Times" bbox="143.472,259.496,148.488,279.560" colourspace="Pattern" ncolour="0" size="20.064"> </text>
+<text font="BCDFEE+Times" bbox="148.267,259.496,156.072,279.560" colourspace="Pattern" ncolour="0" size="20.064">s</text>
+<text font="BCDFEE+Times" bbox="156.072,259.496,166.104,279.560" colourspace="Pattern" ncolour="0" size="20.064">p</text>
+<text font="BCDFEE+Times" bbox="166.104,259.496,175.012,279.560" colourspace="Pattern" ncolour="0" size="20.064">a</text>
+<text font="BCDFEE+Times" bbox="175.012,259.496,180.590,279.560" colourspace="Pattern" ncolour="0" size="20.064">t</text>
+<text font="BCDFEE+Times" bbox="180.590,259.496,186.168,279.560" colourspace="Pattern" ncolour="0" size="20.064">i</text>
+<text font="BCDFEE+Times" bbox="186.067,259.496,194.976,279.560" colourspace="Pattern" ncolour="0" size="20.064">a</text>
+<text font="BCDFEE+Times" bbox="194.976,259.496,200.554,279.560" colourspace="Pattern" ncolour="0" size="20.064">l</text>
+<text font="BCDFEE+Times" bbox="200.473,259.496,205.489,279.560" colourspace="Pattern" ncolour="0" size="20.064"> </text>
+<text font="BCDFEE+Times" bbox="205.269,259.496,211.950,279.560" colourspace="Pattern" ncolour="0" size="20.064">r</text>
+<text font="BCDFEE+Times" bbox="211.950,259.496,220.858,279.560" colourspace="Pattern" ncolour="0" size="20.064">e</text>
+<text font="BCDFEE+Times" bbox="220.858,259.496,230.890,279.560" colourspace="Pattern" ncolour="0" size="20.064">p</text>
+<text font="BCDFEE+Times" bbox="230.890,259.496,237.572,279.560" colourspace="Pattern" ncolour="0" size="20.064">r</text>
+<text font="BCDFEE+Times" bbox="237.652,259.496,246.560,279.560" colourspace="Pattern" ncolour="0" size="20.064">e</text>
+<text font="BCDFEE+Times" bbox="246.560,259.496,254.365,279.560" colourspace="Pattern" ncolour="0" size="20.064">s</text>
+<text font="BCDFEE+Times" bbox="254.365,259.496,263.274,279.560" colourspace="Pattern" ncolour="0" size="20.064">e</text>
+<text font="BCDFEE+Times" bbox="263.214,259.496,273.246,279.560" colourspace="Pattern" ncolour="0" size="20.064">n</text>
+<text font="BCDFEE+Times" bbox="273.165,259.496,278.743,279.560" colourspace="Pattern" ncolour="0" size="20.064">t</text>
+<text font="BCDFEE+Times" bbox="278.743,259.496,287.652,279.560" colourspace="Pattern" ncolour="0" size="20.064">a</text>
+<text font="BCDFEE+Times" bbox="287.571,259.496,293.149,279.560" colourspace="Pattern" ncolour="0" size="20.064">t</text>
+<text font="BCDFEE+Times" bbox="293.149,259.496,298.727,279.560" colourspace="Pattern" ncolour="0" size="20.064">i</text>
+<text font="BCDFEE+Times" bbox="298.606,259.496,308.638,279.560" colourspace="Pattern" ncolour="0" size="20.064">v</text>
+<text font="BCDFEE+Times" bbox="308.558,259.496,317.467,279.560" colourspace="Pattern" ncolour="0" size="20.064">e</text>
+<text font="BCDFEE+Times" bbox="317.467,259.496,327.499,279.560" colourspace="Pattern" ncolour="0" size="20.064">n</text>
+<text font="BCDFEE+Times" bbox="327.499,259.496,336.407,279.560" colourspace="Pattern" ncolour="0" size="20.064">e</text>
+<text font="BCDFEE+Times" bbox="336.287,259.496,344.092,279.560" colourspace="Pattern" ncolour="0" size="20.064">s</text>
+<text font="BCDFEE+Times" bbox="344.092,259.496,351.896,279.560" colourspace="Pattern" ncolour="0" size="20.064">s</text>
+<text font="BCDFEE+Times" bbox="351.896,259.496,356.912,279.560" colourspace="Pattern" ncolour="0" size="20.064"> </text>
+<text font="BCDFEE+Times" bbox="356.451,259.496,366.483,279.560" colourspace="Pattern" ncolour="0" size="20.064">o</text>
+<text font="BCDFEE+Times" bbox="366.483,259.496,373.164,279.560" colourspace="Pattern" ncolour="0" size="20.064">f</text>
+<text font="BCDFEE+Times" bbox="373.224,259.496,378.240,279.560" colourspace="Pattern" ncolour="0" size="20.064"> </text>
+<text font="BCDFEE+Times" bbox="378.140,259.496,388.172,279.560" colourspace="Pattern" ncolour="0" size="20.064">g</text>
+<text font="BCDFEE+Times" bbox="388.172,259.496,394.853,279.560" colourspace="Pattern" ncolour="0" size="20.064">r</text>
+<text font="BCDFEE+Times" bbox="394.914,259.496,404.946,279.560" colourspace="Pattern" ncolour="0" size="20.064">o</text>
+<text font="BCDFEE+Times" bbox="404.946,259.496,414.978,279.560" colourspace="Pattern" ncolour="0" size="20.064">u</text>
+<text font="BCDFEE+Times" bbox="415.058,259.496,425.090,279.560" colourspace="Pattern" ncolour="0" size="20.064">n</text>
+<text font="BCDFEE+Times" bbox="425.010,259.496,435.042,279.560" colourspace="Pattern" ncolour="0" size="20.064">d</text>
+<text font="BCDFEE+Times" bbox="434.961,259.496,439.977,279.560" colourspace="Pattern" ncolour="0" size="20.064"> </text>
+<text font="BCDFEE+Times" bbox="439.636,259.496,455.246,279.560" colourspace="Pattern" ncolour="0" size="20.064">m</text>
+<text font="BCDFEE+Times" bbox="455.005,259.496,463.914,279.560" colourspace="Pattern" ncolour="0" size="20.064">e</text>
+<text font="BCDFEE+Times" bbox="463.914,259.496,472.822,279.560" colourspace="Pattern" ncolour="0" size="20.064">a</text>
+<text font="BCDFEE+Times" bbox="472.822,259.496,480.627,279.560" colourspace="Pattern" ncolour="0" size="20.064">s</text>
+<text font="BCDFEE+Times" bbox="480.567,259.496,490.599,279.560" colourspace="Pattern" ncolour="0" size="20.064">u</text>
+<text font="BCDFEE+Times" bbox="490.599,259.496,497.280,279.560" colourspace="Pattern" ncolour="0" size="20.064">r</text>
+<text font="BCDFEE+Times" bbox="497.340,259.496,506.249,279.560" colourspace="Pattern" ncolour="0" size="20.064">e</text>
+<text font="BCDFEE+Times" bbox="506.249,259.496,516.281,279.560" colourspace="Pattern" ncolour="0" size="20.064">d</text>
+<text font="BCDFEE+Times" bbox="516.281,259.496,521.297,279.560" colourspace="Pattern" ncolour="0" size="20.064"> </text>
+<text font="BCDFEE+Times" bbox="521.096,259.496,530.005,279.560" colourspace="Pattern" ncolour="0" size="20.064">a</text>
+<text font="BCDFEE+Times" bbox="530.005,259.496,535.582,279.560" colourspace="Pattern" ncolour="0" size="20.064">l</text>
+<text font="BCDFEE+Times" bbox="535.502,259.496,545.534,279.560" colourspace="Pattern" ncolour="0" size="20.064">b</text>
+<text font="BCDFEE+Times" bbox="545.534,259.496,554.443,279.560" colourspace="Pattern" ncolour="0" size="20.064">e</text>
+<text font="BCDFEE+Times" bbox="554.443,259.496,564.475,279.560" colourspace="Pattern" ncolour="0" size="20.064">d</text>
+<text font="BCDFEE+Times" bbox="564.515,259.496,574.547,279.560" colourspace="Pattern" ncolour="0" size="20.064">o</text>
+</textline>
+<textline bbox="19.200,230.681,623.998,251.228">&#9642; Comparisons between satellite albedo products and ground measurements <text font="BCDHEE+Wingdings-Regular" bbox="19.200,230.828,28.543,251.228" colourspace="Pattern" ncolour="0" size="20.400">&#9642;</text>
+<text font="BCDFEE+Times" bbox="33.600,230.681,46.967,250.721" colourspace="Pattern" ncolour="0" size="20.040">C</text>
+<text font="BCDFEE+Times" bbox="46.967,230.681,56.987,250.721" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="56.987,230.681,72.578,250.721" colourspace="Pattern" ncolour="0" size="20.040">m</text>
+<text font="BCDFEE+Times" bbox="72.357,230.681,82.377,250.721" colourspace="Pattern" ncolour="0" size="20.040">p</text>
+<text font="BCDFEE+Times" bbox="82.377,230.681,91.275,250.721" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="91.275,230.681,97.948,250.721" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="98.009,230.681,103.580,250.721" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="103.580,230.681,111.375,250.721" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="111.375,230.681,121.395,250.721" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="121.395,230.681,131.415,250.721" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="131.475,230.681,139.271,250.721" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="139.271,230.681,144.281,250.721" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="143.840,230.681,153.860,250.721" colourspace="Pattern" ncolour="0" size="20.040">b</text>
+<text font="BCDFEE+Times" bbox="153.860,230.681,162.758,250.721" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="162.758,230.681,168.329,250.721" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="168.329,230.681,182.798,250.721" colourspace="Pattern" ncolour="0" size="20.040">w</text>
+<text font="BCDFEE+Times" bbox="182.798,230.681,191.696,250.721" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="191.696,230.681,200.593,250.721" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="200.593,230.681,210.613,250.721" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="210.653,230.681,215.663,250.721" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="215.463,230.681,223.259,250.721" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="223.259,230.681,232.156,250.721" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="232.156,230.681,237.727,250.721" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="237.667,230.681,246.565,250.721" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="246.565,230.681,252.136,250.721" colourspace="Pattern" ncolour="0" size="20.040">l</text>
+<text font="BCDFEE+Times" bbox="252.076,230.681,257.647,250.721" colourspace="Pattern" ncolour="0" size="20.040">l</text>
+<text font="BCDFEE+Times" bbox="257.647,230.681,263.218,250.721" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="263.118,230.681,268.689,250.721" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="268.689,230.681,277.587,250.721" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="277.527,230.681,282.537,250.721" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="282.457,230.681,291.354,250.721" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="291.354,230.681,296.926,250.721" colourspace="Pattern" ncolour="0" size="20.040">l</text>
+<text font="BCDFEE+Times" bbox="296.865,230.681,306.885,250.721" colourspace="Pattern" ncolour="0" size="20.040">b</text>
+<text font="BCDFEE+Times" bbox="306.885,230.681,315.783,250.721" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="315.783,230.681,325.803,250.721" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="325.883,230.681,335.903,250.721" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="335.903,230.681,340.913,250.721" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="340.653,230.681,350.673,250.721" colourspace="Pattern" ncolour="0" size="20.040">p</text>
+<text font="BCDFEE+Times" bbox="350.673,230.681,357.346,250.721" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="357.426,230.681,367.446,250.721" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="367.446,230.681,377.466,250.721" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="377.567,230.681,387.587,250.721" colourspace="Pattern" ncolour="0" size="20.040">u</text>
+<text font="BCDFEE+Times" bbox="387.587,230.681,396.484,250.721" colourspace="Pattern" ncolour="0" size="20.040">c</text>
+<text font="BCDFEE+Times" bbox="396.484,230.681,402.055,250.721" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="401.935,230.681,409.731,250.721" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="409.731,230.681,414.741,250.721" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="414.420,230.681,423.318,250.721" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="423.318,230.681,433.338,250.721" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="433.338,230.681,443.358,250.721" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="443.438,230.681,448.448,250.721" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="448.248,230.681,458.268,250.721" colourspace="Pattern" ncolour="0" size="20.040">g</text>
+<text font="BCDFEE+Times" bbox="458.268,230.681,464.941,250.721" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="465.021,230.681,475.041,250.721" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="475.041,230.681,485.061,250.721" colourspace="Pattern" ncolour="0" size="20.040">u</text>
+<text font="BCDFEE+Times" bbox="485.161,230.681,495.181,250.721" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="495.181,230.681,505.201,250.721" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="505.201,230.681,510.211,250.721" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="509.770,230.681,525.362,250.721" colourspace="Pattern" ncolour="0" size="20.040">m</text>
+<text font="BCDFEE+Times" bbox="525.121,230.681,534.019,250.721" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="534.019,230.681,542.917,250.721" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="542.917,230.681,550.712,250.721" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="550.712,230.681,560.732,250.721" colourspace="Pattern" ncolour="0" size="20.040">u</text>
+<text font="BCDFEE+Times" bbox="560.732,230.681,567.405,250.721" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="567.466,230.681,576.363,250.721" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="576.363,230.681,591.954,250.721" colourspace="Pattern" ncolour="0" size="20.040">m</text>
+<text font="BCDFEE+Times" bbox="591.714,230.681,600.612,250.721" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="600.612,230.681,610.632,250.721" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="610.632,230.681,616.203,250.721" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="616.203,230.681,623.998,250.721" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+</textline>
+<textline bbox="19.200,201.881,704.499,222.428">&#9642; Intercomparison between albedo products derived from different sensors/algorithms <text font="BCDHEE+Wingdings-Regular" bbox="19.200,202.028,28.543,222.428" colourspace="Pattern" ncolour="0" size="20.400">&#9642;</text>
+<text font="BCDFEE+Times" bbox="33.600,201.881,40.273,221.921" colourspace="Pattern" ncolour="0" size="20.040">I</text>
+<text font="BCDFEE+Times" bbox="40.273,201.881,50.293,221.921" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="50.373,201.881,55.945,221.921" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="55.945,201.881,64.842,221.921" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="64.782,201.881,71.456,221.921" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="71.456,201.881,80.353,221.921" colourspace="Pattern" ncolour="0" size="20.040">c</text>
+<text font="BCDFEE+Times" bbox="80.353,201.881,90.373,221.921" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="90.373,201.881,105.964,221.921" colourspace="Pattern" ncolour="0" size="20.040">m</text>
+<text font="BCDFEE+Times" bbox="105.704,201.881,115.724,221.921" colourspace="Pattern" ncolour="0" size="20.040">p</text>
+<text font="BCDFEE+Times" bbox="115.724,201.881,124.622,221.921" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="124.622,201.881,131.295,221.921" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="131.355,201.881,136.926,221.921" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="136.926,201.881,144.722,221.921" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="144.722,201.881,154.742,221.921" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="154.642,201.881,164.662,221.921" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="164.662,201.881,169.672,221.921" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="169.291,201.881,179.311,221.921" colourspace="Pattern" ncolour="0" size="20.040">b</text>
+<text font="BCDFEE+Times" bbox="179.311,201.881,188.209,221.921" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="188.209,201.881,193.780,221.921" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="193.780,201.881,208.249,221.921" colourspace="Pattern" ncolour="0" size="20.040">w</text>
+<text font="BCDFEE+Times" bbox="208.249,201.881,217.146,221.921" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="217.146,201.881,226.044,221.921" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="226.044,201.881,236.064,221.921" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="236.104,201.881,241.114,221.921" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="240.914,201.881,249.812,221.921" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="249.812,201.881,255.383,221.921" colourspace="Pattern" ncolour="0" size="20.040">l</text>
+<text font="BCDFEE+Times" bbox="255.323,201.881,265.343,221.921" colourspace="Pattern" ncolour="0" size="20.040">b</text>
+<text font="BCDFEE+Times" bbox="265.343,201.881,274.240,221.921" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="274.240,201.881,284.260,221.921" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="284.340,201.881,294.360,221.921" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="294.360,201.881,299.370,221.921" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="299.110,201.881,309.130,221.921" colourspace="Pattern" ncolour="0" size="20.040">p</text>
+<text font="BCDFEE+Times" bbox="309.130,201.881,315.803,221.921" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="315.883,201.881,325.903,221.921" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="325.903,201.881,335.923,221.921" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="336.024,201.881,346.044,221.921" colourspace="Pattern" ncolour="0" size="20.040">u</text>
+<text font="BCDFEE+Times" bbox="346.044,201.881,354.941,221.921" colourspace="Pattern" ncolour="0" size="20.040">c</text>
+<text font="BCDFEE+Times" bbox="354.941,201.881,360.513,221.921" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="360.513,201.881,368.308,221.921" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="368.188,201.881,373.198,221.921" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="372.877,201.881,382.897,221.921" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="382.897,201.881,391.795,221.921" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="391.795,201.881,398.468,221.921" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="398.528,201.881,404.100,221.921" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="404.100,201.881,414.120,221.921" colourspace="Pattern" ncolour="0" size="20.040">v</text>
+<text font="BCDFEE+Times" bbox="414.120,201.881,423.017,221.921" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="423.017,201.881,433.037,221.921" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="433.037,201.881,438.047,221.921" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="437.646,201.881,444.320,221.921" colourspace="Pattern" ncolour="0" size="20.040">f</text>
+<text font="BCDFEE+Times" bbox="444.320,201.881,450.993,221.921" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="451.073,201.881,461.093,221.921" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="461.093,201.881,476.684,221.921" colourspace="Pattern" ncolour="0" size="20.040">m</text>
+<text font="BCDFEE+Times" bbox="476.504,201.881,481.514,221.921" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="481.434,201.881,491.454,221.921" colourspace="Pattern" ncolour="0" size="20.040">d</text>
+<text font="BCDFEE+Times" bbox="491.454,201.881,497.025,221.921" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="497.025,201.881,503.698,221.921" colourspace="Pattern" ncolour="0" size="20.040">f</text>
+<text font="BCDFEE+Times" bbox="503.398,201.881,510.071,221.921" colourspace="Pattern" ncolour="0" size="20.040">f</text>
+<text font="BCDFEE+Times" bbox="510.071,201.881,518.969,221.921" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="518.969,201.881,525.642,221.921" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="525.702,201.881,534.600,221.921" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="534.600,201.881,544.620,221.921" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="544.540,201.881,550.111,221.921" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="550.111,201.881,555.121,221.921" colourspace="Pattern" ncolour="0" size="20.040"> </text>
+<text font="BCDFEE+Times" bbox="554.740,201.881,562.536,221.921" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="562.536,201.881,571.434,221.921" colourspace="Pattern" ncolour="0" size="20.040">e</text>
+<text font="BCDFEE+Times" bbox="571.434,201.881,581.454,221.921" colourspace="Pattern" ncolour="0" size="20.040">n</text>
+<text font="BCDFEE+Times" bbox="581.454,201.881,589.249,221.921" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="589.249,201.881,599.269,221.921" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="599.369,201.881,606.043,221.921" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="606.043,201.881,613.838,221.921" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+<text font="BCDFEE+Times" bbox="613.778,201.881,619.349,221.921" colourspace="Pattern" ncolour="0" size="20.040">/</text>
+<text font="BCDFEE+Times" bbox="619.349,201.881,628.247,221.921" colourspace="Pattern" ncolour="0" size="20.040">a</text>
+<text font="BCDFEE+Times" bbox="628.187,201.881,633.758,221.921" colourspace="Pattern" ncolour="0" size="20.040">l</text>
+<text font="BCDFEE+Times" bbox="633.758,201.881,643.778,221.921" colourspace="Pattern" ncolour="0" size="20.040">g</text>
+<text font="BCDFEE+Times" bbox="643.658,201.881,653.678,221.921" colourspace="Pattern" ncolour="0" size="20.040">o</text>
+<text font="BCDFEE+Times" bbox="653.678,201.881,660.351,221.921" colourspace="Pattern" ncolour="0" size="20.040">r</text>
+<text font="BCDFEE+Times" bbox="660.351,201.881,665.922,221.921" colourspace="Pattern" ncolour="0" size="20.040">i</text>
+<text font="BCDFEE+Times" bbox="665.742,201.881,671.313,221.921" colourspace="Pattern" ncolour="0" size="20.040">t</text>
+<text font="BCDFEE+Times" bbox="671.313,201.881,681.333,221.921" colourspace="Pattern" ncolour="0" size="20.040">h</text>
+<text font="BCDFEE+Times" bbox="681.333,201.881,696.924,221.921" colourspace="Pattern" ncolour="0" size="20.040">m</text>
+<text font="BCDFEE+Times" bbox="696.704,201.881,704.499,221.921" colourspace="Pattern" ncolour="0" size="20.040">s</text>
+</textline>
+</enlisting>
+</page>
+</pages>

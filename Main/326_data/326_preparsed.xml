@@ -1,0 +1,389 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="63.192,372.463,260.785,434.028" size="27.972">Blah Blah Blah 
+GIS Portal <textline bbox="63.192,406.068,260.785,434.028" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="27.960" colourspace="DeviceGray">Blah Blah Blah </textline>
+<textline bbox="94.392,372.463,229.583,400.447" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="27.984" colourspace="DeviceGray">GIS Portal </textline>
+</textbox>
+<textbox id="1" bbox="98.592,290.702,225.465,334.742" size="20.04">Bert Granberg 
+Steve Gourley <textline bbox="98.592,314.702,225.425,334.742" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Bert Granberg </textline>
+<textline bbox="98.592,290.702,225.465,310.742" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Steve Gourley </textline>
+</textbox>
+<textbox id="2" bbox="35.208,242.697,288.917,262.761" size="20.064">Utah Automated Geographic <textline bbox="35.208,242.697,288.917,262.761" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">Utah Automated Geographic </textline>
+</textbox>
+<textbox id="3" bbox="82.992,210.882,240.907,230.922" size="20.04">Reference Center <textline bbox="82.992,210.882,240.907,230.922" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Reference Center </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.jpg" width="720" height="540">
+</figure>
+<figure name="Image12" bbox="312.000,166.800,690.000,480.000" src="Image12.jpg" width="378" height="313">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="290.260,447.662,429.779,491.702" size="44.04">Who?? <textline bbox="290.260,447.662,429.779,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Who?? </textline>
+</textbox>
+<textbox id="1" bbox="43.200,313.750,377.972,432.868" size="24.006">Partners --- informal agreement 
+&#8226; AGRC 
+&#8226; UGIC Board 
+&#8226; GIS Advisory Committee <textline bbox="43.200,408.820,377.972,432.868">Partners --- informal agreement <text font="ArialMT" bbox="43.200,408.820,59.208,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">P</text>
+<text font="ArialMT" bbox="59.208,408.820,72.552,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="72.480,408.820,80.472,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="80.472,408.820,87.144,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="87.216,408.820,100.560,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="ArialMT" bbox="100.560,408.820,113.904,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="113.904,408.820,121.896,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="121.896,408.820,133.896,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="133.896,408.820,140.568,432.820" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="Arial-ItalicMT" bbox="140.540,408.868,148.532,432.868" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="Arial-ItalicMT" bbox="148.580,408.868,156.572,432.868" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="Arial-ItalicMT" bbox="156.620,408.868,164.612,432.868" colourspace="DeviceGray" ncolour="0" size="24.000">-</text>
+<text font="ArialMT" bbox="171.260,408.820,176.588,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="176.588,408.820,189.932,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="ArialMT" bbox="189.860,408.820,196.532,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="ArialMT" bbox="196.532,408.820,209.876,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="209.876,408.820,217.868,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="217.916,408.820,237.908,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="237.908,408.820,251.252,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="251.252,408.820,256.580,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="ArialMT" bbox="256.580,408.820,263.252,432.820" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="263.252,408.820,276.596,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="276.596,408.820,289.940,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="ArialMT" bbox="289.940,408.820,297.932,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="297.932,408.820,311.276,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="311.276,408.820,324.620,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="324.620,408.820,344.612,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="344.612,408.820,357.956,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="357.956,408.820,371.300,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="ArialMT" bbox="371.300,408.820,377.972,432.820" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+</textline>
+<textline bbox="43.200,377.135,139.533,401.159" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; AGRC </textline>
+<textline bbox="43.200,345.430,200.808,369.430" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; UGIC Board </textline>
+<textline bbox="43.200,313.750,332.832,337.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; GIS Advisory Committee </textline>
+</textbox>
+<textbox id="2" bbox="43.200,250.385,89.807,274.409" size="24.024">Plus <textline bbox="43.200,250.385,89.807,274.409" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Plus </textline>
+</textbox>
+<textbox id="3" bbox="43.200,187.010,296.688,211.010" size="24.0">&#8226; Utah GIS Community <textline bbox="43.200,187.010,296.688,211.010" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Utah GIS Community </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.0.jpg" width="720" height="540">
+</figure>
+<figure name="Image22" bbox="492.000,144.000,624.000,468.000" src="Image22.jpg" width="132" height="324">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="232.780,447.662,487.331,491.702" size="44.04">About AGRC <textline bbox="232.780,447.662,487.331,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">About AGRC </textline>
+</textbox>
+<textbox id="1" bbox="43.200,408.070,543.260,432.070" size="24.0">&#8226; AGRC &#8211; Part of DTS, Integrated Technology <textline bbox="43.200,408.070,543.260,432.070" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; AGRC &#8211; Part of DTS, Integrated Technology </textline>
+</textbox>
+<textbox id="2" bbox="43.200,350.450,312.696,374.450" size="24.0">&#8226; AGRC Responsibilities <textline bbox="43.200,350.450,312.696,374.450" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; AGRC Responsibilities </textline>
+</textbox>
+<textbox id="3" bbox="79.224,328.790,664.460,346.790" size="18.0">&#8211; Charged by CIO to facilitate implementation of an enterprise approach  <textline bbox="79.224,328.790,664.460,346.790" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Charged by CIO to facilitate implementation of an enterprise approach  </textline>
+</textbox>
+<textbox id="4" bbox="101.780,311.510,309.536,329.510" size="18.0">to geospatial technologies <textline bbox="101.780,311.510,309.536,329.510" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">to geospatial technologies </textline>
+</textbox>
+<textbox id="5" bbox="43.200,265.957,533.729,286.021" size="20.064">&#8226; Enterprise Geospatial Focus Areas &#8211; Across sectors <textline bbox="43.200,265.957,533.729,286.021" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; Enterprise Geospatial Focus Areas &#8211; Across sectors </textline>
+</textbox>
+<textbox id="6" bbox="79.224,244.305,139.739,262.329" size="18.024">&#8211; Data <textline bbox="79.224,244.305,139.739,262.329" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8211; Data </textline>
+</textbox>
+<textbox id="7" bbox="115.220,225.028,673.546,240.988" size="15.96">&#8226; Provide stewardship, maintenance, and access for Utah&#8217;s State Geographic  <textline bbox="115.220,225.028,673.546,240.988" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; Provide stewardship, maintenance, and access for Utah&#8217;s State Geographic  </textline>
+</textbox>
+<textbox id="8" bbox="133.220,209.668,340.301,225.628" size="15.96">Information Database (SGID) <textline bbox="133.220,209.668,340.301,225.628" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Information Database (SGID) </textline>
+</textbox>
+<textbox id="9" bbox="115.220,168.868,426.309,184.828" size="15.96">&#8226; GIS Data, Mapping &amp; Application Servers <textline bbox="115.220,168.868,426.309,184.828" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; GIS Data, Mapping &amp; Application Servers </textline>
+</textbox>
+<textbox id="10" bbox="79.224,188.120,170.666,206.120" size="18.0">&#8211; Services <textline bbox="79.224,188.120,170.666,206.120" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Services </textline>
+</textbox>
+<textbox id="11" bbox="79.224,147.320,199.682,165.320" size="18.0">&#8211; Governance <textline bbox="79.224,147.320,199.682,165.320" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Governance </textline>
+</textbox>
+<textbox id="12" bbox="79.224,106.500,190.232,124.500" size="18.0">&#8211; Awareness <textline bbox="79.224,106.500,190.232,124.500" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Awareness </textline>
+</textbox>
+<textbox id="13" bbox="115.220,128.063,308.325,144.047" size="15.984">&#8226; GIS Advisory Committee <textline bbox="115.220,128.063,308.325,144.047" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">&#8226; GIS Advisory Committee </textline>
+</textbox>
+<textbox id="14" bbox="115.220,87.248,305.460,103.208" size="15.96">&#8226; Coordination, Promotion <textline bbox="115.220,87.248,305.460,103.208" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; Coordination, Promotion </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.1.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="241.300,447.662,478.720,491.702" size="44.04">About UGIC <textline bbox="241.300,447.662,478.720,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">About UGIC </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.2.jpg" width="720" height="540">
+</figure>
+<figure name="Image27" bbox="132.000,90.000,600.000,438.000" src="Image27.624x464.bmp" width="468" height="348">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="118.870,447.662,600.888,491.702" size="44.04">GIS Advisory Committee <textline bbox="118.870,447.662,600.888,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">GIS Advisory Committee </textline>
+</textbox>
+<textbox id="1" bbox="43.200,372.567,640.739,404.631" size="32.064">&#8226; The mission of GISAC is to recommend  <textline bbox="43.200,372.567,640.739,404.631" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; The mission of GISAC is to recommend  </textline>
+</textbox>
+<textbox id="2" bbox="70.224,218.922,668.827,366.182" size="32.046">GIS policy and standards, encourage GIS  
+use and education, and promote data  
+collection, integration and dissemination  
+among all GIS users  <textline bbox="70.224,334.142,668.827,366.182" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">GIS policy and standards, encourage GIS  </textline>
+<textline bbox="70.224,295.742,608.368,327.782" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">use and education, and promote data  </textline>
+<textline bbox="70.224,257.337,645.901,289.401" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">collection, integration and dissemination  </textline>
+<textline bbox="70.224,218.922,368.773,250.962" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">among all GIS users  </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.3.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="291.460,447.662,428.512,491.702" size="44.04">Why?? <textline bbox="291.460,447.662,428.512,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Why?? </textline>
+</textbox>
+<textbox id="1" bbox="43.200,273.662,672.739,432.516" size="32.046">&#8226; AGRC site Stale, Outdated Content 
+&#8226; AGRC &amp; UGIC need to distribute workload 
+&#8226; One stop shopping 
+&#8226; AGRC, UGIC,GISAC <textline bbox="43.200,400.412,573.102,432.516">&#8226; AGRC site Stale, Outdated Content <text font="ArialMT" bbox="43.200,400.412,54.414,432.452" colourspace="DeviceGray" ncolour="0" size="32.040">&#8226;</text>
+<text font="ArialMT" bbox="70.224,400.412,91.595,432.452" colourspace="DeviceGray" ncolour="0" size="32.040">A</text>
+<text font="ArialMT" bbox="91.595,400.412,116.522,432.452" colourspace="DeviceGray" ncolour="0" size="32.040">G</text>
+<text font="ArialMT" bbox="116.522,400.412,139.655,432.452" colourspace="DeviceGray" ncolour="0" size="32.040">R</text>
+<text font="ArialMT" bbox="139.655,400.412,162.788,432.452" colourspace="DeviceGray" ncolour="0" size="32.040">C</text>
+<text font="ArialMT" bbox="162.788,400.412,171.695,432.452" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="171.695,400.412,187.715,432.452" colourspace="DeviceGray" ncolour="0" size="32.040">s</text>
+<text font="ArialMT" bbox="187.715,400.412,194.828,432.452" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="ArialMT" bbox="194.828,400.412,203.735,432.452" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="ArialMT" bbox="203.735,400.412,221.549,432.452" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="ArialMT" bbox="221.421,400.412,230.328,432.452" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="Arial-ItalicMT" bbox="230.210,400.476,251.581,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">S</text>
+<text font="Arial-ItalicMT" bbox="251.581,400.476,260.488,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="Arial-ItalicMT" bbox="260.488,400.476,278.302,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="Arial-ItalicMT" bbox="278.302,400.476,285.415,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">l</text>
+<text font="Arial-ItalicMT" bbox="285.287,400.476,303.101,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="Arial-ItalicMT" bbox="303.101,400.476,312.008,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">,</text>
+<text font="Arial-ItalicMT" bbox="312.008,400.476,320.915,432.516" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="Arial-ItalicMT" bbox="320.915,400.476,345.842,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">O</text>
+<text font="Arial-ItalicMT" bbox="345.842,400.476,363.657,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">u</text>
+<text font="Arial-ItalicMT" bbox="363.657,400.476,372.564,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="Arial-ItalicMT" bbox="372.564,400.476,390.378,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">d</text>
+<text font="Arial-ItalicMT" bbox="390.378,400.476,408.192,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="Arial-ItalicMT" bbox="408.032,400.476,416.939,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="Arial-ItalicMT" bbox="416.939,400.476,434.753,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="Arial-ItalicMT" bbox="434.753,400.476,452.568,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">d</text>
+<text font="Arial-ItalicMT" bbox="452.439,400.476,461.347,432.516" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="Arial-ItalicMT" bbox="461.090,400.476,484.223,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">C</text>
+<text font="Arial-ItalicMT" bbox="484.223,400.476,502.037,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="Arial-ItalicMT" bbox="502.037,400.476,519.852,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">n</text>
+<text font="Arial-ItalicMT" bbox="519.852,400.476,528.759,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="Arial-ItalicMT" bbox="528.663,400.476,546.477,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="Arial-ItalicMT" bbox="546.477,400.476,564.291,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">n</text>
+<text font="Arial-ItalicMT" bbox="564.195,400.476,573.102,432.516" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+</textline>
+<textline bbox="43.200,358.167,672.739,390.231" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; AGRC &amp; UGIC need to distribute workload </textline>
+<textline bbox="43.200,315.902,338.495,347.942" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; One stop shopping </textline>
+<textline bbox="43.200,273.662,369.221,305.702" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; AGRC, UGIC,GISAC </textline>
+</textbox>
+<textbox id="2" bbox="79.224,236.593,659.585,264.577" size="27.984">&#8211; Need for single source, good contact info for  <textline bbox="79.224,236.593,659.585,264.577" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8211; Need for single source, good contact info for  </textline>
+</textbox>
+<textbox id="3" bbox="101.780,206.338,363.206,234.298" size="27.96">GIS users/customers <textline bbox="101.780,206.338,363.206,234.298" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">GIS users/customers </textline>
+</textbox>
+<textbox id="4" bbox="79.224,169.378,652.983,197.338" size="27.96">&#8211; Especially for &#8216;next gen&#8217; GIS collaboration &amp;  <textline bbox="79.224,169.378,652.983,197.338" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Especially for &#8216;next gen&#8217; GIS collaboration &amp;  </textline>
+</textbox>
+<textbox id="5" bbox="101.780,139.133,400.817,167.117" size="27.984">targeted communication <textline bbox="101.780,139.133,400.817,167.117" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">targeted communication </textline>
+</textbox>
+<textbox id="6" bbox="43.200,96.972,658.222,129.012" size="32.04">&#8226; Others: calendar, news, upload, stats, etc <textline bbox="43.200,96.972,658.222,129.012" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Others: calendar, news, upload, stats, etc </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.4.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="141.430,451.292,278.495,495.332" size="44.04">How?? <textline bbox="141.430,451.292,278.495,495.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">How?? </textline>
+</textbox>
+<textbox id="1" bbox="43.200,361.663,329.888,426.588" size="27.972">&#8226; Joomla 1.0.14 CMS 
+&#8226; XAMPP for Windows <textline bbox="43.200,398.628,316.188,426.588" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Joomla 1.0.14 CMS </textline>
+<textline bbox="43.200,361.663,329.888,389.647" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; XAMPP for Windows </textline>
+</textbox>
+<textbox id="2" bbox="79.224,329.830,395.036,353.830" size="24.0">&#8211; Apache, MySQL, PHP, Perl <textline bbox="79.224,329.830,395.036,353.830" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Apache, MySQL, PHP, Perl </textline>
+</textbox>
+<textbox id="3" bbox="43.200,102.740,305.368,320.958" size="24.569142857142857">&#8226; Joomla Extensions 
+&#8211; Community Builder 
+&#8211; DB Query 
+&#8211; JEvents Calendar 
+&#8211; mxComment 
+&#8211; Artio SEF 
+&#8211; DocMan <textline bbox="43.200,292.998,305.368,320.958" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Joomla Extensions </textline>
+<textline bbox="79.224,261.190,304.412,285.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Community Builder </textline>
+<textline bbox="79.224,229.490,207.116,253.490" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; DB Query </textline>
+<textline bbox="79.224,197.810,290.948,221.810" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; JEvents Calendar </textline>
+<textline bbox="79.224,166.130,237.716,190.130" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; mxComment </textline>
+<textline bbox="79.224,134.445,204.411,158.469" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Artio SEF </textline>
+<textline bbox="79.224,102.740,191.060,126.740" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; DocMan </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.5.jpg" width="720" height="540">
+</figure>
+<figure name="Image34" bbox="420.000,301.320,694.920,522.000" src="Image34.928x745.bmp" width="274" height="220">
+</figure>
+<figure name="Image35" bbox="420.000,76.320,690.000,300.000" src="Image35.928x769.bmp" width="270" height="223">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="43.200,322.382,656.332,507.332" size="35.046">What &#8211; Part 1?? 
+&#8226; Database driven content and functionality 
+&#8226; Site wide search capability &amp; site map 
+&#8226; Multi-user, browser-based content  <textline bbox="200.860,463.292,519.151,507.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">What &#8211; Part 1?? </textline>
+<textline bbox="43.200,414.572,656.332,446.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Database driven content and functionality </textline>
+<textline bbox="43.200,368.487,606.847,400.551" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Site wide search capability &amp; site map </textline>
+<textline bbox="43.200,322.382,562.251,354.422" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Multi-user, browser-based content  </textline>
+</textbox>
+<textbox id="1" bbox="70.224,283.982,306.455,316.022" size="32.04">authoring/editing <textline bbox="70.224,283.982,306.455,316.022" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">authoring/editing </textline>
+</textbox>
+<textbox id="2" bbox="43.200,191.802,507.188,269.961" size="32.052">&#8226; Web-based front and back end 
+&#8226; RSS feeds allow content  <textline bbox="43.200,237.897,507.188,269.961" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Web-based front and back end </textline>
+<textline bbox="43.200,191.802,427.598,223.842" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; RSS feeds allow content  </textline>
+</textbox>
+<textbox id="3" bbox="70.224,153.402,349.324,185.442" size="32.04">sharing/distrubution <textline bbox="70.224,153.402,349.324,185.442" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">sharing/distrubution </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.6.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="200.860,463.292,519.151,507.332" size="44.04">What &#8211; Part 2?? <textline bbox="200.860,463.292,519.151,507.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">What &#8211; Part 2?? </textline>
+</textbox>
+<textbox id="1" bbox="70.224,418.068,347.322,434.028" size="15.96">AGRC web pages &amp; project web pages <textline bbox="70.224,418.068,347.322,434.028" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">AGRC web pages &amp; project web pages </textline>
+</textbox>
+<textbox id="2" bbox="43.200,302.838,620.969,453.228" size="15.963000000000001">&#8226; UGIC web pages, mentoring info 
+&#8226; 
+&#8226; GISAC web pages (including strategic planning)  
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; User registration &amp; self-maintenance of contact info, interests, mail lists, avitar <textline bbox="43.200,437.268,302.266,453.228" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; UGIC web pages, mentoring info </textline>
+<textline bbox="43.200,418.068,48.786,434.028" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,398.868,413.986,414.828" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; GISAC web pages (including strategic planning)  </textline>
+<textline bbox="43.200,379.668,48.786,395.628" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,360.463,48.794,376.447" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,341.238,48.786,357.198" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,322.038,48.786,337.998" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,302.838,620.969,318.798" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; User registration &amp; self-maintenance of contact info, interests, mail lists, avitar </textline>
+</textbox>
+<textbox id="3" bbox="70.224,322.038,340.459,395.628" size="15.966000000000001">SGID data server info, file downloads 
+SGID data change logs 
+Scripting resources (python, VBA, C#) 
+Events calendar <textline bbox="70.224,379.668,334.282,395.628" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">SGID data server info, file downloads </textline>
+<textline bbox="70.224,360.463,235.610,376.447" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">SGID data change logs </textline>
+<textline bbox="70.224,341.238,340.459,357.198" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Scripting resources (python, VBA, C#) </textline>
+<textline bbox="70.224,322.038,184.897,337.998" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Events calendar </textline>
+</textbox>
+<textbox id="4" bbox="79.224,286.082,428.322,300.122" size="14.04">&#8211; 959 users to date, greatly reduced email bounce rate <textline bbox="79.224,286.082,428.322,300.122" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8211; 959 users to date, greatly reduced email bounce rate </textline>
+</textbox>
+<textbox id="5" bbox="43.200,132.413,374.549,282.798" size="15.96654545454546">&#8226; GIS user directory by sector, interest areas 
+Local GIS data links 
+&#8226; 
+&#8226; 
+Local GIS organization links 
+&#8226; GIS Education and Training 
+&#8226; 
+TURN GPS information 
+&#8226; Nightly SQL database backup 
+&#8226; Google analytics for site usage stats 
+&#8226; <textline bbox="43.200,266.838,374.549,282.798" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; GIS user directory by sector, interest areas </textline>
+<textline bbox="70.224,247.633,212.609,263.617" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">Local GIS data links </textline>
+<textline bbox="43.200,247.633,48.794,263.617" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,228.418,48.786,244.378" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="70.224,228.418,268.415,244.378" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Local GIS organization links </textline>
+<textline bbox="43.200,209.218,266.580,225.178" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; GIS Education and Training </textline>
+<textline bbox="43.200,190.018,48.786,205.978" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="70.224,190.018,236.240,205.978" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">TURN GPS information </textline>
+<textline bbox="43.200,170.818,281.678,186.778" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; Nightly SQL database backup </textline>
+<textline bbox="43.200,151.618,327.036,167.578" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; Google analytics for site usage stats </textline>
+<textline bbox="43.200,132.413,48.794,148.397" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="6" bbox="70.224,132.413,244.514,148.397" size="15.984">February banner contest <textline bbox="70.224,132.413,244.514,148.397" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">February banner contest </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.7.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="202.660,484.683,517.200,512.667" size="27.984">Backend  Admin Console <textline bbox="202.660,484.683,517.200,512.667" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">Backend  Admin Console </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.8.jpg" width="720" height="540">
+</figure>
+<figure name="Image42" bbox="4.920,0.000,720.000,480.840" src="Image42.1123x755.bmp" width="715" height="480">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="220.540,469.292,499.577,513.332" size="44.04">What&#8217;s next?? <textline bbox="220.540,469.292,499.577,513.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">What&#8217;s next?? </textline>
+</textbox>
+<textbox id="1" bbox="43.200,424.412,331.542,456.452" size="32.04">&#8226; Discussion forums <textline bbox="43.200,424.412,331.542,456.452" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Discussion forums </textline>
+</textbox>
+<textbox id="2" bbox="79.224,387.348,620.522,415.308" size="27.96">&#8211; Data, programming/services, coordination <textline bbox="79.224,387.348,620.522,415.308" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Data, programming/services, coordination </textline>
+</textbox>
+<textbox id="3" bbox="43.200,91.696,610.066,377.222" size="32.04685714285714">&#8226; Better internal navigation 
+&#8226; Joomla 1.5? 
+&#8226; SGID layer file catalog 
+&#8226; SGID vector accessibility (fc&#8217;s, keywords) 
+&#8226; Web service for raster data availability 
+&#8226; Better registration for &#8217;09 UGIC 
+&#8226; You tell us&#8230;. <textline bbox="43.200,345.182,423.753,377.222" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Better internal navigation </textline>
+<textline bbox="43.200,302.942,244.297,334.982" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Joomla 1.5? </textline>
+<textline bbox="43.200,260.697,388.459,292.761" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; SGID layer file catalog </textline>
+<textline bbox="43.200,218.442,571.828,250.482">&#8226; SGID vector accessibility (fc&#8217;s, keywords) <text font="ArialMT" bbox="43.200,218.442,54.414,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">&#8226;</text>
+<text font="ArialMT" bbox="70.224,218.442,91.595,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">S</text>
+<text font="ArialMT" bbox="91.595,218.442,116.522,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">G</text>
+<text font="ArialMT" bbox="116.522,218.442,125.429,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">I</text>
+<text font="ArialMT" bbox="125.429,218.442,148.562,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">D</text>
+<text font="ArialMT" bbox="148.562,218.442,157.469,250.482" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="157.341,218.442,173.361,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">v</text>
+<text font="ArialMT" bbox="173.361,218.442,191.175,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="ArialMT" bbox="191.175,218.442,207.195,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">c</text>
+<text font="ArialMT" bbox="207.195,218.442,216.102,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="ArialMT" bbox="216.102,218.442,233.916,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="ArialMT" bbox="233.916,218.442,244.586,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">r</text>
+<text font="ArialMT" bbox="244.586,218.442,253.493,250.482" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="253.236,218.442,271.051,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="ArialMT" bbox="271.051,218.442,287.071,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">c</text>
+<text font="ArialMT" bbox="287.071,218.442,303.091,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">c</text>
+<text font="ArialMT" bbox="303.091,218.442,320.905,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="ArialMT" bbox="320.905,218.442,336.925,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">s</text>
+<text font="ArialMT" bbox="336.925,218.442,352.945,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">s</text>
+<text font="ArialMT" bbox="353.041,218.442,360.154,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="ArialMT" bbox="360.154,218.442,377.968,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">b</text>
+<text font="ArialMT" bbox="377.968,218.442,385.081,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="ArialMT" bbox="384.953,218.442,392.066,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">l</text>
+<text font="ArialMT" bbox="392.066,218.442,399.179,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="ArialMT" bbox="399.179,218.442,408.086,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="ArialMT" bbox="408.086,218.442,424.106,250.482" colourspace="DeviceGray" ncolour="0" size="32.040">y</text>
+<text font="ArialMT" bbox="424.106,218.442,433.013,250.482" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="ArialMT" bbox="432.790,220.962,439.463,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">(</text>
+<text font="ArialMT" bbox="439.463,220.962,445.034,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="445.034,220.962,455.054,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="455.054,220.962,459.503,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">&#8217;</text>
+<text font="ArialMT" bbox="459.503,220.962,469.523,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="469.603,220.962,475.175,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">,</text>
+<text font="ArialMT" bbox="475.175,220.962,480.746,241.002" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="480.405,220.962,490.425,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">k</text>
+<text font="ArialMT" bbox="490.425,220.962,501.567,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="501.627,220.962,511.647,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="511.647,220.962,526.116,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">w</text>
+<text font="ArialMT" bbox="526.116,220.962,537.259,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="537.259,220.962,543.932,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="543.932,220.962,555.074,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="555.134,220.962,565.154,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="565.154,220.962,571.828,241.002" colourspace="DeviceGray" ncolour="0" size="20.040">)</text>
+</textline>
+<textline bbox="43.200,176.202,610.066,208.242" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Web service for raster data availability </textline>
+<textline bbox="43.200,133.957,509.052,166.021" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Better registration for &#8217;09 UGIC </textline>
+<textline bbox="43.200,91.696,260.381,123.736" font="ArialMT" ncolour="(0.8, 0.2, 0)" size="32.040" colourspace="DeviceGray">&#8226; You tell us&#8230;. </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.9.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="149.230,486.955,570.635,510.979" size="24.024">Questions, Comments, AGRC Contacts <textline bbox="149.230,486.955,570.635,510.979" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Questions, Comments, AGRC Contacts </textline>
+</textbox>
+<textbox id="1" bbox="31.200,387.313,313.307,455.598" size="27.972">Bert Granberg  
+bgranberg@utah.gov <textline bbox="31.200,427.638,228.626,455.598" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="27.960" colourspace="DeviceGray">Bert Granberg  </textline>
+<textline bbox="31.200,387.313,313.307,415.297" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="27.984" colourspace="DeviceGray">bgranberg@utah.gov </textline>
+</textbox>
+<textbox id="2" bbox="31.200,266.333,291.535,334.618" size="27.972">Steve Gourley  
+sgourley@utah.gov <textline bbox="31.200,306.658,226.920,334.618" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="27.960" colourspace="DeviceGray">Steve Gourley  </textline>
+<textline bbox="31.200,266.333,291.535,294.317" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="27.984" colourspace="DeviceGray">sgourley@utah.gov </textline>
+</textbox>
+<textbox id="3" bbox="31.200,116.400,303.336,174.980" size="24.0">http://gis.utah.gov 
+http://mapserv.utah.gov <textline bbox="31.200,150.980,239.136,174.980" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="24.000" colourspace="DeviceGray">http://gis.utah.gov </textline>
+<textline bbox="31.200,116.400,303.336,140.400" font="Arial-BoldMT" ncolour="(0.8, 0.2, 0)" size="24.000" colourspace="DeviceGray">http://mapserv.utah.gov </textline>
+</textbox>
+<figure name="Image5" bbox="0.000,0.000,720.000,540.000" src="Image5.10.jpg" width="720" height="540">
+</figure>
+<figure name="Image47" bbox="337.200,78.000,702.000,450.000" src="Image47.809x825.bmp" width="364" height="372">
+</figure>
+</page>
+</pages>

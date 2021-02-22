@@ -1,0 +1,1488 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<normal_text id="1" bbox="80.952,77.094,670.232,228.200" size="32.046" unique_id="1">Module 2.e 
+MARC21 en Registros de Autoridad de NACO  
+con RDA:  
+Entidades Corporativas y Familias <textline bbox="297.700,196.160,446.558,228.200" font="BCDEEE+Calibri" ncolour="0" size="32.040" colourspace="DeviceGray">Module 2.e </textline>
+<textline bbox="80.952,153.920,670.232,185.960" font="BCDEEE+Calibri" ncolour="0" size="32.040" colourspace="DeviceGray">MARC21 en Registros de Autoridad de NACO  </textline>
+<textline bbox="312.720,119.354,438.539,151.418" font="BCDEEE+Calibri" ncolour="0" size="32.064" colourspace="DeviceGray">con RDA:  </textline>
+<textline bbox="154.150,77.094,589.894,109.134" font="BCDEEE+Calibri" ncolour="0" size="32.040" colourspace="DeviceGray">Entidades Corporativas y Familias </textline>
+</normal_text>
+<picture name="Image6" bbox="78.000,391.630,638.760,522.000" src="Image6.1536x357.bmp" width="560" height="130" unique_id="2" caption="RDA en NACO  " caption_ids="['0']">
+</picture>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[118.75, 440.17, 641.458, 512.808]">
+<title id="0" bbox="118.750,440.170,641.458,512.808" size="32.052" unique_id="0">Nuevo campo: 368 &#8211; Otros atributos de  
+Personas o Entidades Corporativas (R) <textline bbox="118.750,480.744,641.458,512.808">Nuevo campo: 368 &#8211; Otros atributos de  <text font="BCDEEE+Calibri" bbox="118.750,480.744,139.463,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">N</text>
+<text font="BCDEEE+Calibri" bbox="139.463,480.744,156.297,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">u</text>
+<text font="BCDEEE+Calibri" bbox="156.201,480.744,172.169,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">e</text>
+<text font="BCDEEE+Calibri" bbox="172.169,480.744,186.662,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">v</text>
+<text font="BCDEEE+Calibri" bbox="186.662,480.744,203.559,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">o</text>
+<text font="BCDEEE+Calibri" bbox="203.559,480.744,210.806,512.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+Calibri" bbox="210.806,480.744,224.369,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">c</text>
+<text font="BCDEEE+Calibri" bbox="224.369,480.744,239.727,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+Calibri" bbox="239.727,480.744,265.347,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">m</text>
+<text font="BCDEEE+Calibri" bbox="265.347,480.744,282.180,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">p</text>
+<text font="BCDEEE+Calibri" bbox="282.084,480.744,298.982,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">o</text>
+<text font="BCDEEE+Calibri" bbox="298.982,480.744,307.575,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">:</text>
+<text font="BCDEEE+Calibri" bbox="316.680,480.744,332.936,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">3</text>
+<text font="BCDEEE+Calibri" bbox="332.880,480.744,349.136,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">6</text>
+<text font="BCDEEE+Calibri" bbox="349.080,480.744,365.337,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">8</text>
+<text font="BCDEEE+Calibri" bbox="365.280,480.744,372.527,512.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDFEE+Calibri" bbox="372.720,480.744,388.688,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="395.880,480.744,417.106,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">O</text>
+<text font="BCDEEE+Calibri" bbox="417.106,480.744,427.848,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">t</text>
+<text font="BCDEEE+Calibri" bbox="427.848,480.744,439.038,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">r</text>
+<text font="BCDEEE+Calibri" bbox="439.038,480.744,455.936,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">o</text>
+<text font="BCDEEE+Calibri" bbox="455.936,480.744,468.473,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">s</text>
+<text font="BCDEEE+Calibri" bbox="468.345,480.744,475.591,512.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+Calibri" bbox="475.591,480.744,490.950,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+Calibri" bbox="490.950,480.744,501.691,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">t</text>
+<text font="BCDEEE+Calibri" bbox="501.691,480.744,512.882,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">r</text>
+<text font="BCDEEE+Calibri" bbox="512.882,480.744,520.256,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">i</text>
+<text font="BCDEEE+Calibri" bbox="520.256,480.744,537.090,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">b</text>
+<text font="BCDEEE+Calibri" bbox="536.994,480.744,553.827,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">u</text>
+<text font="BCDEEE+Calibri" bbox="553.827,480.744,564.569,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">t</text>
+<text font="BCDEEE+Calibri" bbox="564.569,480.744,581.466,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">o</text>
+<text font="BCDEEE+Calibri" bbox="581.466,480.744,594.003,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">s</text>
+<text font="BCDEEE+Calibri" bbox="593.875,480.744,601.122,512.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+Calibri" bbox="601.410,480.744,618.244,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">d</text>
+<text font="BCDEEE+Calibri" bbox="618.244,480.744,634.212,512.808" colourspace="DeviceGray" ncolour="0" size="32.064">e</text>
+<text font="BCDEEE+Calibri" bbox="634.212,480.744,641.458,512.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+</textline>
+<textline bbox="124.750,440.170,619.083,472.210">Personas o Entidades Corporativas (R) <text font="BCDEEE+Calibri" bbox="124.750,440.170,141.315,472.210" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">P</text>
+<text font="BCDEEE+Calibri" bbox="141.315,440.170,157.271,472.210" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">e</text>
+<text font="BCDEEE+Calibri" bbox="157.271,440.170,168.453,472.210" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">r</text>
+<text font="BCDEEE+Calibri" bbox="168.453,440.170,180.980,472.210" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">s</text>
+<text font="BCDEEE+Calibri" bbox="180.980,440.170,197.865,472.210" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="197.865,440.170,214.686,472.210" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">n</text>
+<text font="BCDEEE+Calibri" bbox="214.686,440.170,230.033,472.210" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="230.033,440.170,242.561,472.210" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">s</text>
+<text font="BCDEEE+Calibri" bbox="242.561,440.170,249.802,472.210" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="249.674,440.170,266.559,472.210" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="273.820,440.170,289.456,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">E</text>
+<text font="BCDEEE+Calibri" bbox="289.456,440.170,306.277,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Calibri" bbox="306.277,440.170,317.010,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Calibri" bbox="316.914,440.170,324.283,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Calibri" bbox="324.283,440.170,341.104,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Calibri" bbox="341.104,440.170,356.451,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="356.451,440.170,373.272,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Calibri" bbox="373.272,440.170,389.228,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Calibri" bbox="389.228,440.170,401.756,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">s</text>
+<text font="BCDEEE+Calibri" bbox="401.628,440.170,408.869,472.210" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="409.157,440.170,426.234,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">C</text>
+<text font="BCDEEE+Calibri" bbox="426.234,440.170,443.119,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="443.119,440.170,454.301,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Calibri" bbox="454.301,440.170,471.122,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">p</text>
+<text font="BCDEEE+Calibri" bbox="471.122,440.170,488.007,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="488.007,440.170,499.189,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Calibri" bbox="499.189,440.170,514.537,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="514.537,440.170,525.270,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Calibri" bbox="525.270,440.170,532.639,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Calibri" bbox="532.511,440.170,546.993,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">v</text>
+<text font="BCDEEE+Calibri" bbox="546.993,440.170,562.340,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="562.340,440.170,574.868,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">s</text>
+<text font="BCDEEE+Calibri" bbox="574.868,440.170,582.109,472.210" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="582.269,440.170,591.977,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">(</text>
+<text font="BCDEEE+Calibri" bbox="591.977,440.170,609.375,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">R</text>
+<text font="BCDEEE+Calibri" bbox="609.375,440.170,619.083,472.210" colourspace="DeviceGray" ncolour="0" size="32.040">)</text>
+</textline>
+</title>
+<slide_number id="6" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="6">2 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">2 </textline>
+</slide_number>
+<picture name="Image13" bbox="282.000,13.680,456.000,54.000" src="Image13.532x123.bmp" width="174" height="40" unique_id="7">
+</picture>
+<enlisting bbox="79.224,81.984,678.404,417.1" unique_id="['1', '  3', '  5', ' 2', '4']">&#8226; Indicadores: No definidos 
+&#8226; Subcampos &#8211; $a   Tipo de entidad corporativa (R) 
+&#8211; $b   Tipo de jurisdicci&#243;n (R) 
+&#8211; $c    Otra designaci&#243;n (R) 
+&#8211; $d    T&#237;tulo de la persona (R) [no activados en NACO]  
+&#8211; $s    Inicio de periodo (NR) [no activados en NACO]  
+&#8211; $t    Terminaci&#243;n de periodo (NR) [no activados en  &#8211; $u    URI (R) [no activados en NACO]  
+&#8211; $v    Fuente de informaci&#243;n (R) [no activados en NACO]  
+&#8211; $2    Fuente (NR)  <normal_text id="1" bbox="79.224,364.294,355.028,417.100" size="24.012" unique_id="1">&#8226; Indicadores: No definidos 
+&#8226; Subcampos <textline bbox="79.224,393.100,355.028,417.100">&#8226; Indicadores: No definidos <text font="BCDFEE+Calibri" bbox="79.224,393.100,91.176,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="106.220,393.100,112.268,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">I</text>
+<text font="BCDEEE+Calibri" bbox="112.268,393.100,124.868,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="124.868,393.100,137.468,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="137.468,393.100,142.988,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="142.988,393.100,153.140,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="153.140,393.100,164.636,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="164.636,393.100,177.236,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="177.236,393.100,189.884,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="189.884,393.100,198.260,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="198.260,393.100,210.212,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="210.212,393.100,219.596,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="219.596,393.100,226.028,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">:</text>
+<text font="BCDEEE+Calibri" bbox="226.028,393.100,231.452,417.100" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="231.380,393.100,246.884,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">N</text>
+<text font="BCDEEE+Calibri" bbox="246.884,393.100,259.532,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="259.460,393.100,264.884,417.100" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="264.884,393.100,277.484,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="277.484,393.100,289.436,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="289.436,393.100,296.756,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+Calibri" bbox="296.756,393.100,302.276,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="302.276,393.100,314.876,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="314.876,393.100,320.396,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="320.396,393.100,332.996,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="332.996,393.100,345.644,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="345.644,393.100,355.028,417.100" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+</textline>
+<textline bbox="79.224,364.294,218.004,388.318">&#8226; Subcampos <text font="BCDFEE+Calibri" bbox="79.224,364.294,91.188,388.318" colourspace="DeviceGray" ncolour="0" size="24.024">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="106.220,364.294,117.247,388.318" colourspace="DeviceGray" ncolour="0" size="24.024">S</text>
+<text font="BCDEEE+Calibri" bbox="117.247,364.294,129.860,388.318" colourspace="DeviceGray" ncolour="0" size="24.024">u</text>
+<text font="BCDEEE+Calibri" bbox="129.860,364.294,142.472,388.318" colourspace="DeviceGray" ncolour="0" size="24.024">b</text>
+<text font="BCDEEE+Calibri" bbox="142.472,364.294,152.634,388.318" colourspace="DeviceGray" ncolour="0" size="24.024">c</text>
+<text font="BCDEEE+Calibri" bbox="152.634,364.294,164.142,388.318" colourspace="DeviceGray" ncolour="0" size="24.024">a</text>
+<text font="BCDEEE+Calibri" bbox="164.142,364.294,183.337,388.318" colourspace="DeviceGray" ncolour="0" size="24.024">m</text>
+<text font="BCDEEE+Calibri" bbox="183.337,364.294,195.950,388.318" colourspace="DeviceGray" ncolour="0" size="24.024">p</text>
+<text font="BCDEEE+Calibri" bbox="195.950,364.294,208.610,388.318" colourspace="DeviceGray" ncolour="0" size="24.024">o</text>
+<text font="BCDEEE+Calibri" bbox="208.610,364.294,218.004,388.318" colourspace="DeviceGray" ncolour="0" size="24.024">s</text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="115.220,191.450,651.461,359.470" size="24.004" unique_id="3">&#8211; $a   Tipo de entidad corporativa (R) 
+&#8211; $b   Tipo de jurisdicci&#243;n (R) 
+&#8211; $c    Otra designaci&#243;n (R) 
+&#8211; $d    T&#237;tulo de la persona (R) [no activados en NACO]  
+&#8211; $s    Inicio de periodo (NR) [no activados en NACO]  
+&#8211; $t    Terminaci&#243;n de periodo (NR) [no activados en  <textline bbox="115.220,335.470,480.740,359.470">&#8211; $a   Tipo de entidad corporativa (R) <text font="BCDFEE+Calibri" bbox="115.220,335.470,127.172,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="137.780,335.470,149.948,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="149.948,335.470,161.444,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="161.444,335.470,166.868,359.470" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="166.868,335.470,172.292,359.470" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="172.100,335.470,177.524,359.470" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="177.524,335.470,189.212,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+Calibri" bbox="189.140,335.470,194.660,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="194.660,335.470,207.260,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+Calibri" bbox="207.260,335.470,219.908,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="219.908,335.470,225.332,359.470" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="225.332,335.470,237.932,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="237.932,335.470,249.884,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="249.956,335.470,255.380,359.470" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="255.380,335.470,267.332,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="267.332,335.470,279.932,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="279.932,335.470,287.972,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="287.972,335.470,293.492,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="293.492,335.470,306.092,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="306.092,335.470,317.588,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="317.588,335.470,330.188,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="330.188,335.470,335.612,359.470" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="335.612,335.470,345.764,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="345.812,335.470,358.460,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="358.460,335.470,366.836,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="366.836,335.470,379.436,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+Calibri" bbox="379.436,335.470,392.084,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="392.012,335.470,400.388,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="400.388,335.470,411.884,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="411.884,335.470,419.924,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="419.924,335.470,425.444,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="425.444,335.470,436.292,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="BCDEEE+Calibri" bbox="436.292,335.470,447.788,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="447.788,335.470,453.212,359.470" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="453.092,335.470,460.364,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="460.364,335.470,473.396,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="BCDEEE+Calibri" bbox="473.468,335.470,480.740,359.470" colourspace="DeviceGray" ncolour="0" size="24.000">)</text>
+</textline>
+<textline bbox="115.220,306.670,400.220,330.670">&#8211; $b   Tipo de jurisdicci&#243;n (R) <text font="BCDFEE+Calibri" bbox="115.220,306.670,127.172,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="137.780,306.670,149.948,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="149.948,306.670,162.548,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="BCDEEE+Calibri" bbox="162.548,306.670,167.972,330.670" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="167.900,306.670,173.324,330.670" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="173.324,306.670,178.748,330.670" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="178.748,306.670,190.436,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+Calibri" bbox="190.340,306.670,195.860,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="195.860,306.670,208.460,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+Calibri" bbox="208.460,306.670,221.108,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="221.108,306.670,226.532,330.670" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="226.532,306.670,239.132,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="239.132,306.670,251.084,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="251.156,306.670,256.580,330.670" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="256.580,306.670,262.316,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">j</text>
+<text font="BCDEEE+Calibri" bbox="262.316,306.670,274.916,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Calibri" bbox="274.916,306.670,283.292,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="283.292,306.670,288.812,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="288.812,306.670,298.196,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="298.196,306.670,310.796,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="310.796,306.670,316.316,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="316.316,306.670,326.468,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="326.468,306.670,336.620,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="336.692,306.670,342.212,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="342.212,306.670,354.860,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">&#243;</text>
+<text font="BCDEEE+Calibri" bbox="354.860,306.670,367.460,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="367.460,306.670,372.884,330.670" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="372.572,306.670,379.844,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="379.844,306.670,392.876,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="BCDEEE+Calibri" bbox="392.948,306.670,400.220,330.670" colourspace="DeviceGray" ncolour="0" size="24.000">)</text>
+</textline>
+<textline bbox="115.220,277.870,379.388,301.870">&#8211; $c    Otra designaci&#243;n (R) <text font="BCDFEE+Calibri" bbox="115.220,277.870,127.172,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="137.780,277.870,149.948,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="149.948,277.870,160.100,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="160.100,277.870,165.524,301.870" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="165.380,277.870,170.804,301.870" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="170.804,277.870,176.228,301.870" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="176.228,277.870,181.652,301.870" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="181.652,277.870,197.540,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">O</text>
+<text font="BCDEEE+Calibri" bbox="197.420,277.870,205.460,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="205.460,277.870,213.836,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="213.836,277.870,225.332,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="225.332,277.870,230.756,301.870" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="230.660,277.870,243.260,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="243.260,277.870,255.212,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="255.212,277.870,264.596,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="264.596,277.870,270.116,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="270.116,277.870,281.420,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Calibri" bbox="281.420,277.870,294.020,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="294.020,277.870,305.516,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="305.516,277.870,315.668,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="315.668,277.870,321.188,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="321.188,277.870,333.836,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">&#243;</text>
+<text font="BCDEEE+Calibri" bbox="333.836,277.870,346.436,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="346.436,277.870,351.860,301.870" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="351.740,277.870,359.012,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="359.012,277.870,372.044,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="BCDEEE+Calibri" bbox="372.116,277.870,379.388,301.870" colourspace="DeviceGray" ncolour="0" size="24.000">)</text>
+</textline>
+<textline bbox="115.220,249.064,651.461,273.088">&#8211; $d    T&#237;tulo de la persona (R) [no activados en NACO]  <text font="BCDFEE+Calibri" bbox="115.220,249.064,127.184,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="137.780,249.064,149.960,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">$</text>
+<text font="BCDEEE+Calibri" bbox="149.960,249.064,162.573,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">d</text>
+<text font="BCDEEE+Calibri" bbox="162.501,249.064,167.930,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="167.930,249.064,173.360,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="173.360,249.064,178.789,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="178.693,249.064,184.122,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="183.978,249.064,195.678,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">T</text>
+<text font="BCDEEE+Calibri" bbox="195.678,249.064,201.203,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">&#237;</text>
+<text font="BCDEEE+Calibri" bbox="201.203,249.064,209.251,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">t</text>
+<text font="BCDEEE+Calibri" bbox="209.179,249.064,221.792,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">u</text>
+<text font="BCDEEE+Calibri" bbox="221.792,249.064,227.317,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">l</text>
+<text font="BCDEEE+Calibri" bbox="227.317,249.064,239.978,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">o</text>
+<text font="BCDEEE+Calibri" bbox="239.906,249.064,245.335,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="245.408,249.064,258.020,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">d</text>
+<text font="BCDEEE+Calibri" bbox="258.020,249.064,269.984,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">e</text>
+<text font="BCDEEE+Calibri" bbox="269.984,249.064,275.413,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="275.413,249.064,280.939,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">l</text>
+<text font="BCDEEE+Calibri" bbox="280.939,249.064,292.447,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">a</text>
+<text font="BCDEEE+Calibri" bbox="292.447,249.064,297.876,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="297.732,249.064,310.344,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">p</text>
+<text font="BCDEEE+Calibri" bbox="310.344,249.064,322.308,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">e</text>
+<text font="BCDEEE+Calibri" bbox="322.308,249.064,330.693,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">r</text>
+<text font="BCDEEE+Calibri" bbox="330.693,249.064,340.086,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">s</text>
+<text font="BCDEEE+Calibri" bbox="340.086,249.064,352.747,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">o</text>
+<text font="BCDEEE+Calibri" bbox="352.747,249.064,365.359,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">n</text>
+<text font="BCDEEE+Calibri" bbox="365.359,249.064,376.867,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">a</text>
+<text font="BCDEEE+Calibri" bbox="376.867,249.064,382.296,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="382.296,249.064,389.576,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">(</text>
+<text font="BCDEEE+Calibri" bbox="389.624,249.064,402.669,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">R</text>
+<text font="BCDEEE+Calibri" bbox="402.669,249.064,409.948,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">)</text>
+<text font="BCDEEE+Calibri" bbox="409.996,249.064,415.425,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="415.041,249.064,422.416,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">[</text>
+<text font="BCDEEE+Calibri" bbox="422.416,249.064,435.029,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">n</text>
+<text font="BCDEEE+Calibri" bbox="435.029,249.064,447.690,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">o</text>
+<text font="BCDEEE+Calibri" bbox="447.569,249.064,452.999,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="453.071,249.064,464.578,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">a</text>
+<text font="BCDEEE+Calibri" bbox="464.578,249.064,474.741,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">c</text>
+<text font="BCDEEE+Calibri" bbox="474.741,249.064,482.789,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">t</text>
+<text font="BCDEEE+Calibri" bbox="482.789,249.064,488.314,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">i</text>
+<text font="BCDEEE+Calibri" bbox="488.314,249.064,499.173,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">v</text>
+<text font="BCDEEE+Calibri" bbox="499.173,249.064,510.681,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">a</text>
+<text font="BCDEEE+Calibri" bbox="510.681,249.064,523.293,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">d</text>
+<text font="BCDEEE+Calibri" bbox="523.293,249.064,535.954,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">o</text>
+<text font="BCDEEE+Calibri" bbox="535.882,249.064,545.275,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">s</text>
+<text font="BCDEEE+Calibri" bbox="545.275,249.064,550.705,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="550.705,249.064,562.668,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">e</text>
+<text font="BCDEEE+Calibri" bbox="562.668,249.064,575.281,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">n</text>
+<text font="BCDEEE+Calibri" bbox="575.281,249.064,580.710,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+<text font="BCDEEE+Calibri" bbox="580.710,249.064,596.230,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">N</text>
+<text font="BCDEEE+Calibri" bbox="596.110,249.064,610.020,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">A</text>
+<text font="BCDEEE+Calibri" bbox="610.020,249.064,622.825,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">C</text>
+<text font="BCDEEE+Calibri" bbox="622.825,249.064,638.728,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">O</text>
+<text font="BCDEEE+Calibri" bbox="638.728,249.064,646.104,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024">]</text>
+<text font="BCDEEE+Calibri" bbox="646.032,249.064,651.461,273.088" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.024"> </text>
+</textline>
+<textline bbox="115.220,220.250,634.892,244.250">&#8211; $s    Inicio de periodo (NR) [no activados en NACO]  <text font="BCDFEE+Calibri" bbox="115.220,220.250,127.172,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="137.780,220.250,149.948,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="149.948,220.250,159.332,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="159.260,220.250,164.684,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="164.684,220.250,170.108,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="170.108,220.250,175.532,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="175.532,220.250,180.956,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="180.740,220.250,186.788,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">I</text>
+<text font="BCDEEE+Calibri" bbox="186.788,220.250,199.388,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="199.388,220.250,204.908,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="204.908,220.250,215.060,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="215.060,220.250,220.580,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="220.580,220.250,233.228,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="233.228,220.250,238.652,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="238.580,220.250,251.180,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="251.180,220.250,263.132,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="263.132,220.250,268.556,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="268.556,220.250,281.156,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">p</text>
+<text font="BCDEEE+Calibri" bbox="281.156,220.250,293.108,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="293.156,220.250,301.532,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="301.532,220.250,307.052,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="307.052,220.250,319.700,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="319.700,220.250,332.300,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="332.300,220.250,344.948,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="344.876,220.250,350.300,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="350.300,220.250,357.572,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="357.572,220.250,373.076,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">N</text>
+<text font="BCDEEE+Calibri" bbox="373.076,220.250,386.108,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">R</text>
+<text font="BCDEEE+Calibri" bbox="386.108,220.250,393.380,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">)</text>
+<text font="BCDEEE+Calibri" bbox="393.452,220.250,398.876,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="398.612,220.250,405.980,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">[</text>
+<text font="BCDEEE+Calibri" bbox="405.980,220.250,418.580,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="418.580,220.250,431.228,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="431.132,220.250,436.556,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="436.628,220.250,448.124,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="448.124,220.250,458.276,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="458.276,220.250,466.316,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="466.364,220.250,471.884,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="471.884,220.250,482.732,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">v</text>
+<text font="BCDEEE+Calibri" bbox="482.732,220.250,494.228,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="494.228,220.250,506.828,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="506.828,220.250,519.476,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="519.404,220.250,528.788,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="528.788,220.250,534.212,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="534.044,220.250,545.996,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="545.996,220.250,558.596,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="558.596,220.250,564.020,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="564.020,220.250,579.524,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">N</text>
+<text font="BCDEEE+Calibri" bbox="579.524,220.250,593.420,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">A</text>
+<text font="BCDEEE+Calibri" bbox="593.420,220.250,606.212,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">C</text>
+<text font="BCDEEE+Calibri" bbox="606.212,220.250,622.100,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">O</text>
+<text font="BCDEEE+Calibri" bbox="622.100,220.250,629.468,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">]</text>
+<text font="BCDEEE+Calibri" bbox="629.468,220.250,634.892,244.250" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+</textline>
+<textline bbox="115.220,191.450,632.108,215.450">&#8211; $t    Terminaci&#243;n de periodo (NR) [no activados en  <text font="BCDFEE+Calibri" bbox="115.220,191.450,127.172,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="137.780,191.450,149.948,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="149.948,191.450,157.988,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="157.988,191.450,163.412,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="163.220,191.450,168.644,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="168.644,191.450,174.068,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="174.068,191.450,179.492,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="179.492,191.450,191.180,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">T</text>
+<text font="BCDEEE+Calibri" bbox="191.060,191.450,203.012,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="203.012,191.450,211.388,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="211.436,191.450,230.612,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">m</text>
+<text font="BCDEEE+Calibri" bbox="230.612,191.450,236.132,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="236.132,191.450,248.732,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="248.732,191.450,260.228,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="260.228,191.450,270.380,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="270.452,191.450,275.972,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="275.972,191.450,288.620,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">&#243;</text>
+<text font="BCDEEE+Calibri" bbox="288.620,191.450,301.220,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="301.220,191.450,306.644,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="306.452,191.450,319.052,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="319.052,191.450,331.004,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="331.004,191.450,336.428,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="336.428,191.450,349.028,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">p</text>
+<text font="BCDEEE+Calibri" bbox="349.028,191.450,360.980,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="361.028,191.450,369.404,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="369.404,191.450,374.924,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="374.924,191.450,387.572,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="387.572,191.450,400.172,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="400.172,191.450,412.820,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="412.748,191.450,418.172,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="418.244,191.450,425.516,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="425.516,191.450,441.020,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">N</text>
+<text font="BCDEEE+Calibri" bbox="441.020,191.450,454.052,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">R</text>
+<text font="BCDEEE+Calibri" bbox="454.100,191.450,461.372,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">)</text>
+<text font="BCDEEE+Calibri" bbox="461.372,191.450,466.796,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="466.580,191.450,473.948,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">[</text>
+<text font="BCDEEE+Calibri" bbox="473.948,191.450,486.548,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="486.548,191.450,499.196,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="499.100,191.450,504.524,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="504.524,191.450,516.020,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="516.020,191.450,526.172,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="526.172,191.450,534.212,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="534.212,191.450,539.732,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="539.732,191.450,550.580,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">v</text>
+<text font="BCDEEE+Calibri" bbox="550.580,191.450,562.076,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="562.076,191.450,574.676,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="574.676,191.450,587.324,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="587.324,191.450,596.708,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="596.708,191.450,602.132,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="602.132,191.450,614.084,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="614.084,191.450,626.684,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="626.684,191.450,632.108,215.450" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+</textline>
+</normal_text>
+<normal_text id="5" bbox="115.220,81.984,678.404,163.610" size="24.0" unique_id="5">&#8211; $u    URI (R) [no activados en NACO]  
+&#8211; $v    Fuente de informaci&#243;n (R) [no activados en NACO]  
+&#8211; $2    Fuente (NR)  <textline bbox="115.220,139.610,492.980,163.610">&#8211; $u    URI (R) [no activados en NACO]  <text font="BCDFEE+Calibri" bbox="115.220,139.610,127.172,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="137.780,139.610,149.948,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="149.948,139.610,162.548,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">u</text>
+<text font="BCDEEE+Calibri" bbox="162.548,139.610,167.972,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="167.900,139.610,173.324,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="173.324,139.610,178.748,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="178.748,139.610,184.172,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="183.980,139.610,199.388,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">U</text>
+<text font="BCDEEE+Calibri" bbox="199.388,139.610,212.420,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">R</text>
+<text font="BCDEEE+Calibri" bbox="212.420,139.610,218.468,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">I</text>
+<text font="BCDEEE+Calibri" bbox="218.468,139.610,223.892,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="223.892,139.610,231.164,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="231.164,139.610,244.196,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">R</text>
+<text font="BCDEEE+Calibri" bbox="244.196,139.610,251.468,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">)</text>
+<text font="BCDEEE+Calibri" bbox="251.516,139.610,256.940,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="256.676,139.610,264.044,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">[</text>
+<text font="BCDEEE+Calibri" bbox="264.044,139.610,276.644,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="276.644,139.610,289.292,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="289.196,139.610,294.620,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="294.620,139.610,306.116,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="306.116,139.610,316.268,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="316.268,139.610,324.308,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="324.308,139.610,329.828,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="329.828,139.610,340.676,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">v</text>
+<text font="BCDEEE+Calibri" bbox="340.676,139.610,352.172,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="352.172,139.610,364.772,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="364.772,139.610,377.420,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="377.420,139.610,386.804,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="386.804,139.610,392.228,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="392.228,139.610,404.180,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="404.180,139.610,416.780,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="416.780,139.610,422.204,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="422.204,139.610,437.708,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">N</text>
+<text font="BCDEEE+Calibri" bbox="437.708,139.610,451.604,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">A</text>
+<text font="BCDEEE+Calibri" bbox="451.604,139.610,464.396,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">C</text>
+<text font="BCDEEE+Calibri" bbox="464.396,139.610,480.284,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">O</text>
+<text font="BCDEEE+Calibri" bbox="480.284,139.610,487.652,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">]</text>
+<text font="BCDEEE+Calibri" bbox="487.556,139.610,492.980,163.610" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+</textline>
+<textline bbox="115.220,110.780,678.404,134.780">&#8211; $v    Fuente de informaci&#243;n (R) [no activados en NACO]  <text font="BCDFEE+Calibri" bbox="115.220,110.780,127.172,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="137.780,110.780,149.948,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="149.948,110.780,160.796,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">v</text>
+<text font="BCDEEE+Calibri" bbox="160.700,110.780,166.124,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="166.124,110.780,171.548,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="171.548,110.780,176.972,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="176.972,110.780,182.396,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="182.300,110.780,193.316,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">F</text>
+<text font="BCDEEE+Calibri" bbox="193.316,110.780,205.916,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">u</text>
+<text font="BCDEEE+Calibri" bbox="205.916,110.780,217.868,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="217.916,110.780,230.516,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="230.516,110.780,238.556,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="238.556,110.780,250.508,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="250.508,110.780,255.932,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="255.836,110.780,268.436,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="268.436,110.780,280.388,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="280.388,110.780,285.812,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="285.812,110.780,291.332,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="291.332,110.780,303.932,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="303.932,110.780,311.252,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">f</text>
+<text font="BCDEEE+Calibri" bbox="311.252,110.780,323.900,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="323.900,110.780,332.276,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="332.276,110.780,351.452,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">m</text>
+<text font="BCDEEE+Calibri" bbox="351.452,110.780,362.948,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="362.948,110.780,373.100,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="373.172,110.780,378.692,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="378.692,110.780,391.340,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">&#243;</text>
+<text font="BCDEEE+Calibri" bbox="391.340,110.780,403.940,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="403.940,110.780,409.364,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="409.292,110.780,416.564,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="416.564,110.780,429.596,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">R</text>
+<text font="BCDEEE+Calibri" bbox="429.668,110.780,436.940,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">)</text>
+<text font="BCDEEE+Calibri" bbox="436.940,110.780,442.364,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="442.028,110.780,449.396,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">[</text>
+<text font="BCDEEE+Calibri" bbox="449.396,110.780,461.996,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="461.996,110.780,474.644,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="474.548,110.780,479.972,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="480.044,110.780,491.540,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="491.540,110.780,501.692,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="501.692,110.780,509.732,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="509.780,110.780,515.300,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="515.300,110.780,526.148,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">v</text>
+<text font="BCDEEE+Calibri" bbox="526.148,110.780,537.644,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="537.644,110.780,550.244,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="550.244,110.780,562.892,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="562.820,110.780,572.204,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="572.204,110.780,577.628,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="577.628,110.780,589.580,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="589.580,110.780,602.180,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="602.180,110.780,607.604,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="607.604,110.780,623.108,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">N</text>
+<text font="BCDEEE+Calibri" bbox="623.108,110.780,637.004,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">A</text>
+<text font="BCDEEE+Calibri" bbox="637.004,110.780,649.796,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">C</text>
+<text font="BCDEEE+Calibri" bbox="649.796,110.780,665.684,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">O</text>
+<text font="BCDEEE+Calibri" bbox="665.684,110.780,673.052,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000">]</text>
+<text font="BCDEEE+Calibri" bbox="672.980,110.780,678.404,134.780" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="24.000"> </text>
+</textline>
+<textline bbox="115.220,81.984,305.756,105.984">&#8211; $2    Fuente (NR)  <text font="BCDFEE+Calibri" bbox="115.220,81.984,127.172,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="137.780,81.984,149.948,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="149.948,81.984,162.116,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">2</text>
+<text font="BCDEEE+Calibri" bbox="162.020,81.984,167.444,105.984" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="167.444,81.984,172.868,105.984" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="172.868,81.984,178.292,105.984" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="178.100,81.984,183.524,105.984" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="183.524,81.984,194.540,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">F</text>
+<text font="BCDEEE+Calibri" bbox="194.540,81.984,207.140,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Calibri" bbox="207.140,81.984,219.092,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="219.092,81.984,231.692,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="231.692,81.984,239.732,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="239.732,81.984,251.684,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="251.756,81.984,257.180,105.984" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="257.180,81.984,264.452,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="264.452,81.984,279.956,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">N</text>
+<text font="BCDEEE+Calibri" bbox="279.956,81.984,292.988,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="BCDEEE+Calibri" bbox="292.988,81.984,300.260,105.984" colourspace="DeviceGray" ncolour="0" size="24.000">)</text>
+<text font="BCDEEE+Calibri" bbox="300.332,81.984,305.756,105.984" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="481.300,374.427,585.914,394.491" size="20.064" unique_id="2">RDA 11.7 <textline bbox="481.300,374.427,585.914,394.491" font="BCDGEE+Verdana-Bold" ncolour="(0, 0, 0.8)" size="20.064" colourspace="DeviceGray">RDA 11.7 </textline>
+</normal_text>
+<normal_text id="4" bbox="137.780,168.410,208.652,192.410" size="24.0" unique_id="4">NACO]  <textline bbox="137.780,168.410,208.652,192.410" font="BCDEEE+Calibri" ncolour="(1, 0, 0)" size="24.000" colourspace="DeviceGray">NACO]  </textline>
+</normal_text>
+</enlisting></page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[129.39000000000001, 433.75, 650.8766666666667, 506.36266666666666]">
+<title id="0" bbox="134.710,430.540,655.586,503.140" size="32.04" unique_id="0">Nuevo campo: 368 &#8211; Otros atributos de  
+Personas o Entidades Corporativas (R) <textline bbox="134.710,471.100,655.586,503.140">Nuevo campo: 368 &#8211; Otros atributos de  <text font="BCDEEE+Calibri" bbox="134.710,471.100,155.408,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">N</text>
+<text font="BCDEEE+Calibri" bbox="155.408,471.100,172.229,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">u</text>
+<text font="BCDEEE+Calibri" bbox="172.229,471.100,188.185,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Calibri" bbox="188.185,471.100,202.667,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">v</text>
+<text font="BCDEEE+Calibri" bbox="202.667,471.100,219.552,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="219.552,471.100,226.793,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="226.793,471.100,240.346,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">c</text>
+<text font="BCDEEE+Calibri" bbox="240.346,471.100,255.693,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="255.693,471.100,281.293,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">m</text>
+<text font="BCDEEE+Calibri" bbox="281.293,471.100,298.114,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">p</text>
+<text font="BCDEEE+Calibri" bbox="298.114,471.100,314.999,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="314.999,471.100,323.586,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">:</text>
+<text font="BCDEEE+Calibri" bbox="323.458,471.100,330.699,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="330.699,471.100,346.943,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">3</text>
+<text font="BCDEEE+Calibri" bbox="346.943,471.100,363.187,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">6</text>
+<text font="BCDEEE+Calibri" bbox="363.187,471.100,379.432,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">8</text>
+<text font="BCDEEE+Calibri" bbox="379.432,471.100,386.673,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDFEE+Calibri" bbox="386.880,471.100,402.836,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="410.160,471.100,431.370,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">O</text>
+<text font="BCDEEE+Calibri" bbox="431.370,471.100,442.104,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Calibri" bbox="442.104,471.100,453.286,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Calibri" bbox="453.286,471.100,470.171,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="470.171,471.100,482.699,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">s</text>
+<text font="BCDEEE+Calibri" bbox="482.699,471.100,489.940,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="489.940,471.100,505.287,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="505.287,471.100,516.020,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Calibri" bbox="515.892,471.100,527.074,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Calibri" bbox="527.074,471.100,534.443,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Calibri" bbox="534.443,471.100,551.264,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">b</text>
+<text font="BCDEEE+Calibri" bbox="551.264,471.100,568.085,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">u</text>
+<text font="BCDEEE+Calibri" bbox="567.957,471.100,578.690,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Calibri" bbox="578.690,471.100,595.575,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="595.575,471.100,608.103,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">s</text>
+<text font="BCDEEE+Calibri" bbox="608.103,471.100,615.344,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="615.568,471.100,632.389,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Calibri" bbox="632.389,471.100,648.345,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Calibri" bbox="648.345,471.100,655.586,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+</textline>
+<textline bbox="139.750,430.540,634.596,462.580">Personas o Entidades Corporativas (R) <text font="BCDEEE+Calibri" bbox="139.750,430.540,156.315,462.580" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">P</text>
+<text font="BCDEEE+Calibri" bbox="156.315,430.540,172.271,462.580" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">e</text>
+<text font="BCDEEE+Calibri" bbox="172.271,430.540,183.453,462.580" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">r</text>
+<text font="BCDEEE+Calibri" bbox="183.453,430.540,195.980,462.580" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">s</text>
+<text font="BCDEEE+Calibri" bbox="195.980,430.540,212.865,462.580" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="212.865,430.540,229.686,462.580" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">n</text>
+<text font="BCDEEE+Calibri" bbox="229.686,430.540,245.033,462.580" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="245.033,430.540,257.561,462.580" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">s</text>
+<text font="BCDEEE+Calibri" bbox="257.561,430.540,264.802,462.580" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="264.674,430.540,281.559,462.580" colourspace="DeviceGray" ncolour="(1, 0, 0)" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="288.820,430.540,304.456,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">E</text>
+<text font="BCDEEE+Calibri" bbox="304.456,430.540,321.277,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Calibri" bbox="321.277,430.540,332.010,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Calibri" bbox="332.010,430.540,339.379,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Calibri" bbox="339.379,430.540,356.200,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Calibri" bbox="356.200,430.540,371.547,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="371.547,430.540,388.368,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Calibri" bbox="388.368,430.540,404.324,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Calibri" bbox="404.324,430.540,416.852,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">s</text>
+<text font="BCDEEE+Calibri" bbox="416.852,430.540,424.093,462.580" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="424.381,430.540,441.459,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">C</text>
+<text font="BCDEEE+Calibri" bbox="441.459,430.540,458.344,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="458.344,430.540,469.526,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Calibri" bbox="469.526,430.540,486.347,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">p</text>
+<text font="BCDEEE+Calibri" bbox="486.347,430.540,503.232,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="503.296,430.540,514.478,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Calibri" bbox="514.478,430.540,529.825,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="529.825,430.540,540.558,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">t</text>
+<text font="BCDEEE+Calibri" bbox="540.558,430.540,547.927,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Calibri" bbox="547.927,430.540,562.410,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">v</text>
+<text font="BCDEEE+Calibri" bbox="562.410,430.540,577.757,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="577.757,430.540,590.284,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">s</text>
+<text font="BCDEEE+Calibri" bbox="590.284,430.540,597.525,462.580" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="597.782,430.540,607.490,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">(</text>
+<text font="BCDEEE+Calibri" bbox="607.490,430.540,624.888,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">R</text>
+<text font="BCDEEE+Calibri" bbox="624.888,430.540,634.596,462.580" colourspace="DeviceGray" ncolour="0" size="32.040">)</text>
+</textline>
+</title>
+<slide_number id="7" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="7">3 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">3 </textline>
+</slide_number>
+<picture name="Image13" bbox="282.000,13.680,456.000,54.000" src="Image13.0.532x123.bmp" width="174" height="40" unique_id="8">
+</picture>
+<enlisting bbox="85.224,121.244,679.124,369.91" unique_id="['1', '  2', '  4', '  5', ' 3', '6']">&#8226; Los calificadores de entidades corporativas son usados en  tres circunstancias: 
+&#8211; ($a) Nombres que no dan idea de ser entidad  &#8211; ($b) Tipo de jurisdicci&#243;n 
+&#8211; ($c) Otra designaci&#243;n &#8226; &#191;Resultado? El texto a registrar es altamente variable  <normal_text id="1" bbox="85.224,345.910,679.124,369.910" size="24.0" unique_id="1">&#8226; Los calificadores de entidades corporativas son usados en  <textline bbox="85.224,345.910,679.124,369.910">&#8226; Los calificadores de entidades corporativas son usados en  <text font="BCDFEE+Calibri" bbox="85.224,345.910,97.176,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="112.220,345.910,122.300,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">L</text>
+<text font="BCDEEE+Calibri" bbox="122.300,345.910,134.948,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="134.948,345.910,144.332,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="144.260,345.910,149.684,369.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="149.684,345.910,159.836,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="159.836,345.910,171.332,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="171.332,345.910,176.852,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Calibri" bbox="176.852,345.910,182.372,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="182.372,345.910,189.692,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">f</text>
+<text font="BCDEEE+Calibri" bbox="189.692,345.910,195.212,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="195.212,345.910,205.364,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="205.436,345.910,216.932,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="216.932,345.910,229.532,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="229.532,345.910,242.180,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="242.180,345.910,250.556,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="250.556,345.910,262.508,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="262.508,345.910,271.892,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="271.892,345.910,277.316,369.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="277.196,345.910,289.796,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="289.796,345.910,301.748,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="301.748,345.910,307.172,369.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="307.172,345.910,319.124,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="319.172,345.910,331.772,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="331.772,345.910,339.812,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="339.812,345.910,345.332,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="345.332,345.910,357.932,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="357.932,345.910,369.428,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="369.428,345.910,382.028,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="382.028,345.910,393.980,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="394.028,345.910,403.412,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="403.412,345.910,408.836,369.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="408.836,345.910,418.988,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="418.988,345.910,431.636,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="431.636,345.910,440.012,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="440.012,345.910,452.612,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+Calibri" bbox="452.612,345.910,465.260,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="465.260,345.910,473.636,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="473.636,345.910,485.132,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="485.132,345.910,493.172,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="493.172,345.910,498.692,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="498.692,345.910,509.540,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="BCDEEE+Calibri" bbox="509.468,345.910,520.964,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="520.964,345.910,530.348,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="530.348,345.910,535.772,369.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="535.628,345.910,545.012,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="545.012,345.910,557.660,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="557.588,345.910,570.188,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="570.188,345.910,575.612,369.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="575.684,345.910,588.284,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Calibri" bbox="588.284,345.910,597.668,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="597.668,345.910,609.164,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="609.164,345.910,621.764,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="621.764,345.910,634.412,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="634.412,345.910,643.796,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="643.724,345.910,649.148,369.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="649.148,345.910,661.100,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="661.100,345.910,673.700,369.910" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="673.700,345.910,679.124,369.910" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="112.220,282.550,589.964,341.110" size="24.0" unique_id="2">tres circunstancias: 
+&#8211; ($a) Nombres que no dan idea de ser entidad  <textline bbox="112.220,317.110,299.324,341.110" font="BCDEEE+Calibri" ncolour="0" size="24.000" colourspace="DeviceGray">tres circunstancias: </textline>
+<textline bbox="121.220,282.550,589.964,306.550">&#8211; ($a) Nombres que no dan idea de ser entidad  <text font="BCDFEE+Calibri" bbox="121.220,282.550,133.172,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="143.780,282.550,151.052,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="151.052,282.550,163.220,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="163.220,282.550,174.716,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="174.716,282.550,181.988,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">)</text>
+<text font="BCDEEE+Calibri" bbox="182.036,282.550,187.460,306.550" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="187.196,282.550,202.700,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">N</text>
+<text font="BCDEEE+Calibri" bbox="202.700,282.550,215.348,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="215.276,282.550,234.452,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Calibri" bbox="234.452,282.550,247.052,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="BCDEEE+Calibri" bbox="247.052,282.550,255.428,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="255.428,282.550,267.380,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="267.452,282.550,276.836,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="276.836,282.550,282.260,306.550" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="282.260,282.550,294.860,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">q</text>
+<text font="BCDEEE+Calibri" bbox="294.860,282.550,307.460,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Calibri" bbox="307.460,282.550,319.412,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="319.412,282.550,324.836,306.550" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="324.836,282.550,337.436,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="337.436,282.550,350.084,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="350.084,282.550,355.508,306.550" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="355.508,282.550,368.108,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="368.108,282.550,379.604,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="379.604,282.550,392.204,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="392.204,282.550,397.628,306.550" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="397.628,282.550,403.148,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="403.148,282.550,415.748,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="415.748,282.550,427.700,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="427.748,282.550,439.244,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="439.244,282.550,444.668,306.550" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="444.548,282.550,457.148,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="457.148,282.550,469.100,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="469.100,282.550,474.524,306.550" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="474.524,282.550,483.908,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="483.908,282.550,495.860,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="495.860,282.550,504.236,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="504.236,282.550,509.660,306.550" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="509.660,282.550,521.612,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="521.684,282.550,534.284,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="534.284,282.550,542.324,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="542.324,282.550,547.844,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="547.844,282.550,560.444,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="560.444,282.550,571.940,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="571.940,282.550,584.540,306.550" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="584.540,282.550,589.964,306.550" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+</normal_text>
+<normal_text id="4" bbox="121.220,184.610,377.132,243.170" size="24.0" unique_id="4">&#8211; ($b) Tipo de jurisdicci&#243;n 
+&#8211; ($c) Otra designaci&#243;n <textline bbox="121.220,219.170,377.132,243.170">&#8211; ($b) Tipo de jurisdicci&#243;n <text font="BCDFEE+Calibri" bbox="121.220,219.170,133.172,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="143.780,219.170,151.052,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="151.052,219.170,163.220,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="163.220,219.170,175.820,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="BCDEEE+Calibri" bbox="175.820,219.170,183.092,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">)</text>
+<text font="BCDEEE+Calibri" bbox="183.092,219.170,188.516,243.170" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="188.420,219.170,200.108,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">T</text>
+<text font="BCDEEE+Calibri" bbox="200.108,219.170,205.628,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="205.628,219.170,218.228,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="BCDEEE+Calibri" bbox="218.228,219.170,230.876,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="230.780,219.170,236.204,243.170" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="236.276,219.170,248.876,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="248.876,219.170,260.828,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="260.828,219.170,266.252,243.170" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="266.252,219.170,271.988,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">j</text>
+<text font="BCDEEE+Calibri" bbox="271.988,219.170,284.588,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Calibri" bbox="284.588,219.170,292.964,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="292.964,219.170,298.484,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="298.484,219.170,307.868,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="307.868,219.170,320.468,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="320.468,219.170,325.988,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="325.988,219.170,336.140,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="336.212,219.170,346.364,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="346.364,219.170,351.884,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="351.884,219.170,364.532,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">&#243;</text>
+<text font="BCDEEE+Calibri" bbox="364.532,219.170,377.132,243.170" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+</textline>
+<textline bbox="121.220,184.610,350.732,208.610">&#8211; ($c) Otra designaci&#243;n <text font="BCDFEE+Calibri" bbox="121.220,184.610,133.172,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="143.780,184.610,151.052,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">(</text>
+<text font="BCDEEE+Calibri" bbox="151.052,184.610,163.220,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">$</text>
+<text font="BCDEEE+Calibri" bbox="163.220,184.610,173.372,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="173.372,184.610,180.644,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">)</text>
+<text font="BCDEEE+Calibri" bbox="180.716,184.610,186.140,208.610" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="185.876,184.610,201.764,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">O</text>
+<text font="BCDEEE+Calibri" bbox="201.764,184.610,209.804,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="209.804,184.610,218.180,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="218.180,184.610,229.676,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="229.676,184.610,235.100,208.610" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="234.956,184.610,247.556,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="247.556,184.610,259.508,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="259.508,184.610,268.892,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="268.892,184.610,274.412,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="274.412,184.610,285.716,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Calibri" bbox="285.716,184.610,298.316,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="298.316,184.610,309.812,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="309.812,184.610,319.964,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="BCDEEE+Calibri" bbox="319.964,184.610,325.484,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="325.484,184.610,338.132,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">&#243;</text>
+<text font="BCDEEE+Calibri" bbox="338.132,184.610,350.732,208.610" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+</textline>
+</normal_text>
+<normal_text id="5" bbox="85.224,150.050,636.620,174.050" size="24.0" unique_id="5">&#8226; &#191;Resultado? El texto a registrar es altamente variable  <textline bbox="85.224,150.050,636.620,174.050">&#8226; &#191;Resultado? El texto a registrar es altamente variable  <text font="BCDFEE+Calibri" bbox="85.224,150.050,97.176,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="112.220,150.050,123.332,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">&#191;</text>
+<text font="BCDEEE+Calibri" bbox="123.332,150.050,136.364,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="BCDEEE+Calibri" bbox="136.436,150.050,148.388,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="148.388,150.050,157.772,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="157.772,150.050,170.372,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="BCDEEE+Calibri" bbox="170.372,150.050,175.892,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Calibri" bbox="175.892,150.050,183.932,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="183.932,150.050,195.428,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="195.428,150.050,208.028,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">d</text>
+<text font="BCDEEE+Calibri" bbox="208.028,150.050,220.676,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="220.676,150.050,231.788,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">?</text>
+<text font="BCDEEE+Calibri" bbox="231.788,150.050,237.212,174.050" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="237.116,150.050,248.828,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">E</text>
+<text font="BCDEEE+Calibri" bbox="248.828,150.050,254.348,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Calibri" bbox="254.348,150.050,259.772,174.050" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="259.676,150.050,267.716,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="267.716,150.050,279.668,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="279.668,150.050,290.060,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">x</text>
+<text font="BCDEEE+Calibri" bbox="290.132,150.050,298.172,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="298.172,150.050,310.820,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="BCDEEE+Calibri" bbox="310.820,150.050,316.244,174.050" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="316.052,150.050,327.548,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="327.548,150.050,332.972,174.050" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="332.972,150.050,341.348,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="341.348,150.050,353.300,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="353.300,150.050,364.604,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">g</text>
+<text font="BCDEEE+Calibri" bbox="364.604,150.050,370.124,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="370.124,150.050,379.508,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="379.508,150.050,387.548,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="387.548,150.050,395.924,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="395.924,150.050,407.420,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="407.420,150.050,415.796,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="415.868,150.050,421.292,174.050" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="421.028,150.050,432.980,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="432.980,150.050,442.364,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="BCDEEE+Calibri" bbox="442.364,150.050,447.788,174.050" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="447.788,150.050,459.284,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="459.284,150.050,464.804,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Calibri" bbox="464.804,150.050,472.844,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="472.844,150.050,484.340,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="484.340,150.050,503.516,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="BCDEEE+Calibri" bbox="503.564,150.050,515.516,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="515.516,150.050,528.116,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="BCDEEE+Calibri" bbox="528.116,150.050,536.156,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="BCDEEE+Calibri" bbox="536.156,150.050,548.108,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="548.180,150.050,553.604,174.050" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="BCDEEE+Calibri" bbox="553.340,150.050,564.188,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="BCDEEE+Calibri" bbox="564.188,150.050,575.684,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="575.684,150.050,584.060,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="BCDEEE+Calibri" bbox="584.060,150.050,589.580,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="BCDEEE+Calibri" bbox="589.580,150.050,601.076,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="BCDEEE+Calibri" bbox="601.076,150.050,613.676,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">b</text>
+<text font="BCDEEE+Calibri" bbox="613.676,150.050,619.196,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="BCDEEE+Calibri" bbox="619.196,150.050,631.148,174.050" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="BCDEEE+Calibri" bbox="631.196,150.050,636.620,174.050" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="143.780,253.744,256.020,277.768" size="24.024" unique_id="3">corporativa <textline bbox="143.780,253.744,256.020,277.768" font="BCDEEE+Calibri" ncolour="0" size="24.024" colourspace="DeviceGray">corporativa </textline>
+</normal_text>
+<normal_text id="6" bbox="112.220,121.244,498.430,145.268" size="24.024" unique_id="6">(con base en el criterio del catalogador) <textline bbox="112.220,121.244,498.430,145.268" font="BCDEEE+Calibri" ncolour="0" size="24.024" colourspace="DeviceGray">(con base en el criterio del catalogador) </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[92.295, 403.68700000000007, 665.7533333333333, 515.5853333333333]">
+<title id="0" bbox="55.200,373.624,680.630,524.808" size="30.012" unique_id="0">Nuevo campo: 376 &#8211; Informaci&#243;n de la Familia  
+(R) 
+&#8226; Indicadores: No definidos 
+&#8226; Subcampos <textline bbox="67.632,492.744,680.630,524.808">Nuevo campo: 376 &#8211; Informaci&#243;n de la Familia  <text font="BCDEEE+Calibri" bbox="67.632,492.744,88.345,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">N</text>
+<text font="BCDEEE+Calibri" bbox="88.345,492.744,105.179,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">u</text>
+<text font="BCDEEE+Calibri" bbox="105.083,492.744,121.051,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">e</text>
+<text font="BCDEEE+Calibri" bbox="121.051,492.744,135.544,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">v</text>
+<text font="BCDEEE+Calibri" bbox="135.544,492.744,152.441,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">o</text>
+<text font="BCDEEE+Calibri" bbox="152.441,492.744,159.688,524.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+Calibri" bbox="159.688,492.744,173.251,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">c</text>
+<text font="BCDEEE+Calibri" bbox="173.251,492.744,188.609,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+Calibri" bbox="188.609,492.744,214.229,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">m</text>
+<text font="BCDEEE+Calibri" bbox="214.229,492.744,231.062,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">p</text>
+<text font="BCDEEE+Calibri" bbox="230.966,492.744,247.864,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">o</text>
+<text font="BCDEEE+Calibri" bbox="247.864,492.744,256.457,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">:</text>
+<text font="BCDEEE+Calibri" bbox="265.540,492.744,281.796,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">3</text>
+<text font="BCDEEE+Calibri" bbox="281.740,492.744,297.996,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">7</text>
+<text font="BCDEEE+Calibri" bbox="297.940,492.744,314.197,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">6</text>
+<text font="BCDEEE+Calibri" bbox="314.140,492.744,321.387,524.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDFEE+Calibri" bbox="321.600,492.744,337.568,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="344.760,492.744,352.840,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">I</text>
+<text font="BCDEEE+Calibri" bbox="352.840,492.744,369.674,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">n</text>
+<text font="BCDEEE+Calibri" bbox="369.674,492.744,379.453,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">f</text>
+<text font="BCDEEE+Calibri" bbox="379.325,492.744,396.223,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">o</text>
+<text font="BCDEEE+Calibri" bbox="396.223,492.744,407.413,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">r</text>
+<text font="BCDEEE+Calibri" bbox="407.413,492.744,433.032,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">m</text>
+<text font="BCDEEE+Calibri" bbox="433.032,492.744,448.391,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+Calibri" bbox="448.391,492.744,461.954,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">c</text>
+<text font="BCDEEE+Calibri" bbox="461.954,492.744,469.329,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">i</text>
+<text font="BCDEEE+Calibri" bbox="469.200,492.744,486.098,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">&#243;</text>
+<text font="BCDEEE+Calibri" bbox="486.098,492.744,502.932,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">n</text>
+<text font="BCDEEE+Calibri" bbox="502.932,492.744,510.178,524.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+Calibri" bbox="510.435,492.744,527.268,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">d</text>
+<text font="BCDEEE+Calibri" bbox="527.268,492.744,543.236,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">e</text>
+<text font="BCDEEE+Calibri" bbox="543.236,492.744,550.483,524.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+Calibri" bbox="550.483,492.744,557.857,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">l</text>
+<text font="BCDEEE+Calibri" bbox="557.729,492.744,573.088,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+Calibri" bbox="573.088,492.744,580.334,524.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+<text font="BCDEEE+Calibri" bbox="580.334,492.744,595.052,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">F</text>
+<text font="BCDEEE+Calibri" bbox="595.148,492.744,610.506,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+Calibri" bbox="610.506,492.744,636.126,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">m</text>
+<text font="BCDEEE+Calibri" bbox="636.126,492.744,643.500,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">i</text>
+<text font="BCDEEE+Calibri" bbox="643.372,492.744,650.747,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">l</text>
+<text font="BCDEEE+Calibri" bbox="650.747,492.744,658.121,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">i</text>
+<text font="BCDEEE+Calibri" bbox="658.025,492.744,673.384,524.808" colourspace="DeviceGray" ncolour="0" size="32.064">a</text>
+<text font="BCDEEE+Calibri" bbox="673.384,492.744,680.630,524.808" colourspace="DeviceGray" ncolour="0" size="32.064"> </text>
+</textline>
+<textline bbox="347.640,452.170,384.478,484.210" font="BCDEEE+Calibri" ncolour="0" size="32.040" colourspace="DeviceGray">(R) </textline>
+<textline bbox="55.200,410.590,372.337,438.550">&#8226; Indicadores: No definidos <text font="BCDFEE+Calibri" bbox="55.200,410.590,69.124,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="82.224,410.590,89.270,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">I</text>
+<text font="BCDEEE+Calibri" bbox="89.270,410.590,103.949,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="103.949,410.590,118.628,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="118.628,410.590,125.059,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="124.947,410.590,136.774,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Calibri" bbox="136.774,410.590,150.167,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="150.251,410.590,164.930,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="164.930,410.590,179.665,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="179.665,410.590,189.423,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="189.423,410.590,203.347,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="203.347,410.590,214.279,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Calibri" bbox="214.279,410.590,221.772,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">:</text>
+<text font="BCDEEE+Calibri" bbox="221.661,410.590,227.979,438.550" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="228.343,410.590,246.405,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">N</text>
+<text font="BCDEEE+Calibri" bbox="246.405,410.590,261.140,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="261.140,410.590,267.459,438.550" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="267.543,410.590,282.222,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="282.222,410.590,296.146,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="296.146,410.590,304.674,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Calibri" bbox="304.674,410.590,311.105,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="310.993,410.590,325.672,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="325.672,410.590,332.103,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="331.991,410.590,346.670,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="346.670,410.590,361.405,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="361.405,410.590,372.337,438.550" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+</textline>
+<textline bbox="55.200,373.624,212.322,401.608">&#8226; Subcampos <text font="BCDFEE+Calibri" bbox="55.200,373.624,69.136,401.608" colourspace="DeviceGray" ncolour="0" size="27.984">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="82.224,373.624,95.069,401.608" colourspace="DeviceGray" ncolour="0" size="27.984">S</text>
+<text font="BCDEEE+Calibri" bbox="95.069,373.624,109.760,401.608" colourspace="DeviceGray" ncolour="0" size="27.984">u</text>
+<text font="BCDEEE+Calibri" bbox="109.760,373.624,124.452,401.608" colourspace="DeviceGray" ncolour="0" size="27.984">b</text>
+<text font="BCDEEE+Calibri" bbox="124.340,373.624,136.177,401.608" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="BCDEEE+Calibri" bbox="136.177,373.624,149.581,401.608" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="149.581,373.624,171.941,401.608" colourspace="DeviceGray" ncolour="0" size="27.984">m</text>
+<text font="BCDEEE+Calibri" bbox="171.941,373.624,186.632,401.608" colourspace="DeviceGray" ncolour="0" size="27.984">p</text>
+<text font="BCDEEE+Calibri" bbox="186.632,373.624,201.380,401.608" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+Calibri" bbox="201.380,373.624,212.322,401.608" colourspace="DeviceGray" ncolour="0" size="27.984">s</text>
+</textline>
+</title>
+<normal_text id="1" bbox="493.300,398.432,676.145,442.472" size="20.04" unique_id="1">RDA 10.3, 10.6,  
+10.7 <textline bbox="493.300,422.432,676.145,442.472" font="BCDGEE+Verdana-Bold" ncolour="(0, 0, 0.8)" size="20.040" colourspace="DeviceGray">RDA 10.3, 10.6,  </textline>
+<textline bbox="493.300,398.432,543.320,418.472" font="BCDGEE+Verdana-Bold" ncolour="(0, 0, 0.8)" size="20.040" colourspace="DeviceGray">10.7 </textline>
+</normal_text>
+<enlisting id="2" bbox="91.224,77.874,599.697,364.600" size="27.966000000000005" unique_id="2">&#8211; $a     Tipo de familia (R) 
+&#8211; $b     Nombre del miembro prominente (R) 
+&#8211; $c     T&#237;tulo hereditario (R) 
+&#8211; $s     Inicio de periodo (NR) 
+&#8211; $t     Terminaci&#243;n de periodo (NR) 
+&#8211; $u    URI 
+&#8211; $v    Fuente de informaci&#243;n (R) 
+&#8211; $2    Fuente del t&#233;rmino (R) <textline bbox="91.224,336.640,379.400,364.600">&#8211; $a     Tipo de familia (R) <text font="BCDFEE+Calibri" bbox="91.224,336.640,105.148,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="113.780,336.640,127.956,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">$</text>
+<text font="BCDEEE+Calibri" bbox="127.956,336.640,141.349,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="141.349,336.640,147.668,364.600" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="147.668,336.640,153.986,364.600" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="154.070,336.640,160.389,364.600" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="160.529,336.640,166.848,364.600" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="166.848,336.640,173.167,364.600" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="173.167,336.640,186.784,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">T</text>
+<text font="BCDEEE+Calibri" bbox="186.895,336.640,193.326,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="193.326,336.640,208.005,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+Calibri" bbox="207.893,336.640,222.628,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="222.628,336.640,228.947,364.600" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="228.947,336.640,243.626,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="243.626,336.640,257.550,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="257.550,336.640,263.869,364.600" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="264.037,336.640,272.565,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Calibri" bbox="272.565,336.640,285.958,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="285.958,336.640,308.298,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="308.298,336.640,314.729,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="314.729,336.640,321.159,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Calibri" bbox="321.047,336.640,327.478,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="327.478,336.640,340.871,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="340.871,336.640,347.190,364.600" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="347.190,336.640,355.662,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">(</text>
+<text font="BCDEEE+Calibri" bbox="355.662,336.640,370.844,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">R</text>
+<text font="BCDEEE+Calibri" bbox="370.928,336.640,379.400,364.600" colourspace="DeviceGray" ncolour="0" size="27.960">)</text>
+</textline>
+<textline bbox="91.224,299.680,599.697,327.640">&#8211; $b     Nombre del miembro prominente (R) <text font="BCDFEE+Calibri" bbox="91.224,299.680,105.148,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="113.780,299.680,127.956,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">$</text>
+<text font="BCDEEE+Calibri" bbox="127.956,299.680,142.635,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">b</text>
+<text font="BCDEEE+Calibri" bbox="142.635,299.680,148.954,327.640" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="149.149,299.680,155.468,327.640" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="155.468,299.680,161.787,327.640" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="161.787,299.680,168.106,327.640" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="168.190,299.680,174.509,327.640" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="174.509,299.680,192.571,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">N</text>
+<text font="BCDEEE+Calibri" bbox="192.571,299.680,207.306,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="207.306,299.680,229.646,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="229.646,299.680,244.325,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">b</text>
+<text font="BCDEEE+Calibri" bbox="244.325,299.680,254.083,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="253.999,299.680,267.923,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="267.923,299.680,274.242,327.640" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="274.606,299.680,289.285,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="289.285,299.680,303.209,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="303.209,299.680,309.640,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Calibri" bbox="309.528,299.680,315.847,327.640" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="315.847,299.680,338.187,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="338.187,299.680,344.618,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="344.618,299.680,358.542,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="358.542,299.680,380.882,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="380.882,299.680,395.561,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">b</text>
+<text font="BCDEEE+Calibri" bbox="395.449,299.680,405.207,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="405.207,299.680,419.942,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="419.942,299.680,426.261,327.640" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="426.513,299.680,441.192,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+Calibri" bbox="441.192,299.680,450.950,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="450.950,299.680,465.685,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="465.685,299.680,488.025,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="488.025,299.680,494.455,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="494.316,299.680,508.995,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="508.995,299.680,522.919,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="522.919,299.680,537.598,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="537.598,299.680,546.964,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="546.880,299.680,560.804,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="560.804,299.680,567.123,327.640" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="567.487,299.680,575.959,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">(</text>
+<text font="BCDEEE+Calibri" bbox="575.959,299.680,591.141,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">R</text>
+<text font="BCDEEE+Calibri" bbox="591.225,299.680,599.697,327.640" colourspace="DeviceGray" ncolour="0" size="27.960">)</text>
+</textline>
+<textline bbox="91.224,262.714,408.871,290.698">&#8211; $c     T&#237;tulo hereditario (R) <text font="BCDFEE+Calibri" bbox="91.224,262.714,105.160,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="113.780,262.714,127.968,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">$</text>
+<text font="BCDEEE+Calibri" bbox="127.968,262.714,139.805,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="BCDEEE+Calibri" bbox="139.805,262.714,146.130,290.698" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="146.269,262.714,152.594,290.698" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="152.594,262.714,158.918,290.698" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="158.918,262.714,165.243,290.698" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="165.327,262.714,171.651,290.698" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="171.651,262.714,185.279,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">T</text>
+<text font="BCDEEE+Calibri" bbox="185.335,262.714,191.771,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">&#237;</text>
+<text font="BCDEEE+Calibri" bbox="191.771,262.714,201.146,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="BCDEEE+Calibri" bbox="201.062,262.714,215.754,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">u</text>
+<text font="BCDEEE+Calibri" bbox="215.754,262.714,222.190,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">l</text>
+<text font="BCDEEE+Calibri" bbox="222.050,262.714,236.798,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+Calibri" bbox="236.798,262.714,243.122,290.698" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="243.262,262.714,257.954,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">h</text>
+<text font="BCDEEE+Calibri" bbox="257.954,262.714,271.890,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="271.890,262.714,281.656,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="BCDEEE+Calibri" bbox="281.544,262.714,295.480,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="295.480,262.714,310.172,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">d</text>
+<text font="BCDEEE+Calibri" bbox="310.172,262.714,316.608,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+Calibri" bbox="316.468,262.714,325.843,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="BCDEEE+Calibri" bbox="325.843,262.714,339.247,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="339.247,262.714,349.014,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="BCDEEE+Calibri" bbox="349.014,262.714,355.450,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+Calibri" bbox="355.338,262.714,370.085,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+Calibri" bbox="370.085,262.714,376.410,290.698" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="376.662,262.714,385.141,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">(</text>
+<text font="BCDEEE+Calibri" bbox="385.141,262.714,400.336,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">R</text>
+<text font="BCDEEE+Calibri" bbox="400.392,262.714,408.871,290.698" colourspace="DeviceGray" ncolour="0" size="27.984">)</text>
+</textline>
+<textline bbox="91.224,225.740,418.824,253.700">&#8211; $s     Inicio de periodo (NR) <text font="BCDFEE+Calibri" bbox="91.224,225.740,105.148,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="113.780,225.740,127.956,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">$</text>
+<text font="BCDEEE+Calibri" bbox="127.956,225.740,138.888,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Calibri" bbox="138.888,225.740,145.207,253.700" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="145.431,225.740,151.750,253.700" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="151.750,225.740,158.069,253.700" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="158.069,225.740,164.388,253.700" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="164.471,225.740,170.790,253.700" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="170.790,225.740,177.836,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">I</text>
+<text font="BCDEEE+Calibri" bbox="177.836,225.740,192.515,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="192.515,225.740,198.946,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="198.946,225.740,210.773,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Calibri" bbox="210.773,225.740,217.204,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="217.204,225.740,231.939,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="231.939,225.740,238.258,253.700" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="238.370,225.740,253.049,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="253.049,225.740,266.973,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="266.973,225.740,273.292,253.700" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="273.292,225.740,287.971,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+Calibri" bbox="287.971,225.740,301.895,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="301.895,225.740,311.653,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="311.653,225.740,318.084,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="317.916,225.740,332.651,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="332.651,225.740,347.330,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="347.330,225.740,362.065,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="362.065,225.740,368.384,253.700" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="368.635,225.740,377.107,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">(</text>
+<text font="BCDEEE+Calibri" bbox="377.107,225.740,395.169,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">N</text>
+<text font="BCDEEE+Calibri" bbox="395.169,225.740,410.352,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">R</text>
+<text font="BCDEEE+Calibri" bbox="410.352,225.740,418.824,253.700" colourspace="DeviceGray" ncolour="0" size="27.960">)</text>
+</textline>
+<textline bbox="91.224,188.780,497.867,216.740">&#8211; $t     Terminaci&#243;n de periodo (NR) <text font="BCDFEE+Calibri" bbox="91.224,188.780,105.148,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="113.780,188.780,127.956,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">$</text>
+<text font="BCDEEE+Calibri" bbox="127.956,188.780,137.322,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="137.322,188.780,143.641,216.740" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="143.753,188.780,150.072,216.740" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="150.072,188.780,156.391,216.740" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="156.391,188.780,162.710,216.740" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="162.794,188.780,169.113,216.740" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="169.113,188.780,182.729,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">T</text>
+<text font="BCDEEE+Calibri" bbox="182.813,188.780,196.737,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="196.737,188.780,206.495,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="206.495,188.780,228.835,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="228.835,188.780,235.266,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="235.126,188.780,249.805,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="249.805,188.780,263.198,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="263.198,188.780,275.025,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Calibri" bbox="275.025,188.780,281.456,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="281.456,188.780,296.191,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">&#243;</text>
+<text font="BCDEEE+Calibri" bbox="296.191,188.780,310.870,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="310.870,188.780,317.189,216.740" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="317.413,188.780,332.092,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="332.092,188.780,346.016,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="346.016,188.780,352.335,216.740" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="352.419,188.780,367.098,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+Calibri" bbox="367.098,188.780,381.022,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="381.022,188.780,390.780,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="390.780,188.780,397.211,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="397.071,188.780,411.806,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="411.806,188.780,426.485,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="426.485,188.780,441.220,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="441.220,188.780,447.539,216.740" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="447.678,188.780,456.150,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">(</text>
+<text font="BCDEEE+Calibri" bbox="456.150,188.780,474.212,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">N</text>
+<text font="BCDEEE+Calibri" bbox="474.212,188.780,489.395,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">R</text>
+<text font="BCDEEE+Calibri" bbox="489.395,188.780,497.867,216.740" colourspace="DeviceGray" ncolour="0" size="27.960">)</text>
+</textline>
+<textline bbox="91.224,151.820,208.453,179.780">&#8211; $u    URI <text font="BCDFEE+Calibri" bbox="91.224,151.820,105.148,179.780" colourspace="DeviceGray" ncolour="0" size="27.960">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="113.780,151.820,127.956,179.780" colourspace="DeviceGray" ncolour="0" size="27.960">$</text>
+<text font="BCDEEE+Calibri" bbox="127.956,151.820,142.635,179.780" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Calibri" bbox="142.635,151.820,148.954,179.780" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="149.149,151.820,155.468,179.780" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="155.468,151.820,161.787,179.780" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="161.787,151.820,168.106,179.780" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="168.190,151.820,186.140,179.780" colourspace="DeviceGray" ncolour="0" size="27.960">U</text>
+<text font="BCDEEE+Calibri" bbox="186.140,151.820,201.323,179.780" colourspace="DeviceGray" ncolour="0" size="27.960">R</text>
+<text font="BCDEEE+Calibri" bbox="201.407,151.820,208.453,179.780" colourspace="DeviceGray" ncolour="0" size="27.960">I</text>
+</textline>
+<textline bbox="91.224,114.854,463.160,142.838">&#8211; $v    Fuente de informaci&#243;n (R) <text font="BCDFEE+Calibri" bbox="91.224,114.854,105.160,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="113.780,114.854,127.968,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">$</text>
+<text font="BCDEEE+Calibri" bbox="127.968,114.854,140.617,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">v</text>
+<text font="BCDEEE+Calibri" bbox="140.617,114.854,146.941,142.838" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="146.941,114.854,153.265,142.838" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="153.349,114.854,159.674,142.838" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="159.674,114.854,165.998,142.838" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="165.998,114.854,178.843,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">F</text>
+<text font="BCDEEE+Calibri" bbox="178.843,114.854,193.534,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">u</text>
+<text font="BCDEEE+Calibri" bbox="193.534,114.854,207.470,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="207.470,114.854,222.162,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">n</text>
+<text font="BCDEEE+Calibri" bbox="222.162,114.854,231.537,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="BCDEEE+Calibri" bbox="231.537,114.854,245.473,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="245.473,114.854,251.797,142.838" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="251.965,114.854,266.657,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">d</text>
+<text font="BCDEEE+Calibri" bbox="266.657,114.854,280.593,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="280.593,114.854,286.917,142.838" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="286.973,114.854,293.409,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+Calibri" bbox="293.409,114.854,308.101,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">n</text>
+<text font="BCDEEE+Calibri" bbox="307.961,114.854,316.496,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">f</text>
+<text font="BCDEEE+Calibri" bbox="316.496,114.854,331.244,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+Calibri" bbox="331.244,114.854,341.010,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="BCDEEE+Calibri" bbox="341.010,114.854,363.369,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">m</text>
+<text font="BCDEEE+Calibri" bbox="363.285,114.854,376.690,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="376.690,114.854,388.527,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="BCDEEE+Calibri" bbox="388.527,114.854,394.963,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+Calibri" bbox="394.963,114.854,409.711,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">&#243;</text>
+<text font="BCDEEE+Calibri" bbox="409.711,114.854,424.402,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">n</text>
+<text font="BCDEEE+Calibri" bbox="424.402,114.854,430.727,142.838" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="430.951,114.854,439.430,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">(</text>
+<text font="BCDEEE+Calibri" bbox="439.430,114.854,454.625,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">R</text>
+<text font="BCDEEE+Calibri" bbox="454.681,114.854,463.160,142.838" colourspace="DeviceGray" ncolour="0" size="27.984">)</text>
+</textline>
+<textline bbox="91.224,77.874,424.751,105.834">&#8211; $2    Fuente del t&#233;rmino (R) <text font="BCDFEE+Calibri" bbox="91.224,77.874,105.148,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="113.780,77.874,127.956,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">$</text>
+<text font="BCDEEE+Calibri" bbox="127.956,77.874,142.131,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">2</text>
+<text font="BCDEEE+Calibri" bbox="142.131,77.874,148.450,105.834" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="148.674,77.874,154.993,105.834" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="154.993,77.874,161.312,105.834" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="161.312,77.874,167.631,105.834" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="167.715,77.874,180.548,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">F</text>
+<text font="BCDEEE+Calibri" bbox="180.548,77.874,195.227,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Calibri" bbox="195.227,77.874,209.152,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="209.152,77.874,223.831,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="223.831,77.874,233.197,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="233.197,77.874,247.121,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="247.037,77.874,253.356,105.834" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="253.608,77.874,268.287,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="268.287,77.874,282.211,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="282.211,77.874,288.642,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Calibri" bbox="288.530,77.874,294.849,105.834" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="294.849,77.874,304.216,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="304.216,77.874,318.140,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">&#233;</text>
+<text font="BCDEEE+Calibri" bbox="318.140,77.874,327.898,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="327.898,77.874,350.238,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="350.238,77.874,356.669,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="356.557,77.874,371.236,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="371.236,77.874,385.971,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="385.971,77.874,392.290,105.834" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="392.541,77.874,401.013,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">(</text>
+<text font="BCDEEE+Calibri" bbox="401.013,77.874,416.195,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">R</text>
+<text font="BCDEEE+Calibri" bbox="416.279,77.874,424.751,105.834" colourspace="DeviceGray" ncolour="0" size="27.960">)</text>
+</textline>
+</enlisting>
+<slide_number id="3" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="3">4 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4 </textline>
+</slide_number>
+<picture name="Image13" bbox="282.000,13.680,456.000,54.000" src="Image13.1.532x123.bmp" width="174" height="40" unique_id="4">
+</picture>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[79.6458, 414.4282, 668.9444, 510.60720000000003]">
+<title id="0" bbox="60.672,430.540,673.731,503.140" size="32.04" unique_id="0">Nuevo campo: 376 &#8211; Informaci&#243;n de la Familia  
+(R) <textline bbox="60.672,471.100,673.731,503.140">Nuevo campo: 376 &#8211; Informaci&#243;n de la Familia  <text font="BCDEEE+Calibri" bbox="60.672,471.100,81.370,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">N</text>
+<text font="BCDEEE+Calibri" bbox="81.370,471.100,98.191,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">u</text>
+<text font="BCDEEE+Calibri" bbox="98.191,471.100,114.147,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Calibri" bbox="114.147,471.100,128.629,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">v</text>
+<text font="BCDEEE+Calibri" bbox="128.629,471.100,145.514,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="145.514,471.100,152.755,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="152.755,471.100,166.308,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">c</text>
+<text font="BCDEEE+Calibri" bbox="166.308,471.100,181.655,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="181.655,471.100,207.255,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">m</text>
+<text font="BCDEEE+Calibri" bbox="207.255,471.100,224.076,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">p</text>
+<text font="BCDEEE+Calibri" bbox="224.076,471.100,240.961,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="240.961,471.100,249.548,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">:</text>
+<text font="BCDEEE+Calibri" bbox="258.580,471.100,274.824,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">3</text>
+<text font="BCDEEE+Calibri" bbox="274.780,471.100,291.024,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">7</text>
+<text font="BCDEEE+Calibri" bbox="290.980,471.100,307.224,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">6</text>
+<text font="BCDEEE+Calibri" bbox="307.180,471.100,314.421,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDFEE+Calibri" bbox="314.640,471.100,330.596,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">&#8211;</text>
+<text font="BCDEEE+Calibri" bbox="337.920,471.100,345.994,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">I</text>
+<text font="BCDEEE+Calibri" bbox="345.994,471.100,362.815,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Calibri" bbox="362.815,471.100,372.587,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">f</text>
+<text font="BCDEEE+Calibri" bbox="372.491,471.100,389.376,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">o</text>
+<text font="BCDEEE+Calibri" bbox="389.376,471.100,400.558,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">r</text>
+<text font="BCDEEE+Calibri" bbox="400.558,471.100,426.158,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">m</text>
+<text font="BCDEEE+Calibri" bbox="426.158,471.100,441.505,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="441.505,471.100,455.058,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">c</text>
+<text font="BCDEEE+Calibri" bbox="455.058,471.100,462.427,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Calibri" bbox="462.427,471.100,479.313,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">&#243;</text>
+<text font="BCDEEE+Calibri" bbox="479.313,471.100,496.134,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">n</text>
+<text font="BCDEEE+Calibri" bbox="496.134,471.100,503.375,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="503.503,471.100,520.324,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">d</text>
+<text font="BCDEEE+Calibri" bbox="520.324,471.100,536.280,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">e</text>
+<text font="BCDEEE+Calibri" bbox="536.280,471.100,543.521,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="543.521,471.100,550.890,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">l</text>
+<text font="BCDEEE+Calibri" bbox="550.794,471.100,566.141,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="566.141,471.100,573.382,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+<text font="BCDEEE+Calibri" bbox="573.382,471.100,588.088,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">F</text>
+<text font="BCDEEE+Calibri" bbox="588.216,471.100,603.564,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="603.564,471.100,629.164,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">m</text>
+<text font="BCDEEE+Calibri" bbox="629.164,471.100,636.533,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Calibri" bbox="636.533,471.100,643.902,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">l</text>
+<text font="BCDEEE+Calibri" bbox="643.774,471.100,651.143,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">i</text>
+<text font="BCDEEE+Calibri" bbox="651.143,471.100,666.490,503.140" colourspace="DeviceGray" ncolour="0" size="32.040">a</text>
+<text font="BCDEEE+Calibri" bbox="666.490,471.100,673.731,503.140" colourspace="DeviceGray" ncolour="0" size="32.040"> </text>
+</textline>
+<textline bbox="341.640,430.540,378.478,462.580" font="BCDEEE+Calibri" ncolour="0" size="32.040" colourspace="DeviceGray">(R) </textline>
+</title>
+<slide_number id="7" bbox="669.000,28.036,676.806,42.076" size="14.04" unique_id="7">5 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">5 </textline>
+</slide_number>
+<picture name="Image13" bbox="282.000,13.680,456.000,54.000" src="Image13.2.532x123.bmp" width="174" height="40" unique_id="8">
+</picture>
+<enlisting bbox="97.224,87.474,659.526,411.208" unique_id="['1', '   3', '   5', '  2', ' 4', '6']">&#8226; Espec&#237;fico para RANs de Nombres de Familia 
+&#8226; No hay una lista autorizada de t&#233;rminos de  &#8226; El termino gen&#233;rico, por defecto es:  Familia 
+&#8226; Este es un campo que no se puede utilizar en  &#8226; Se establecen &#250;nicamente cuando la familia es  <normal_text id="1" bbox="97.224,342.880,630.199,411.208" size="27.972" unique_id="1">&#8226; Espec&#237;fico para RANs de Nombres de Familia 
+&#8226; No hay una lista autorizada de t&#233;rminos de  <textline bbox="97.224,383.224,630.199,411.208">&#8226; Espec&#237;fico para RANs de Nombres de Familia <text font="BCDFEE+Calibri" bbox="97.224,383.224,111.160,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="124.220,383.224,137.876,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">E</text>
+<text font="BCDEEE+Calibri" bbox="137.876,383.224,148.818,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">s</text>
+<text font="BCDEEE+Calibri" bbox="148.818,383.224,163.510,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">p</text>
+<text font="BCDEEE+Calibri" bbox="163.510,383.224,177.446,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="177.446,383.224,189.283,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="BCDEEE+Calibri" bbox="189.283,383.224,195.719,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">&#237;</text>
+<text font="BCDEEE+Calibri" bbox="195.607,383.224,204.142,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">f</text>
+<text font="BCDEEE+Calibri" bbox="204.142,383.224,210.579,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+Calibri" bbox="210.495,383.224,222.332,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="BCDEEE+Calibri" bbox="222.332,383.224,237.079,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+Calibri" bbox="237.079,383.224,243.404,411.208" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="243.600,383.224,258.291,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">p</text>
+<text font="BCDEEE+Calibri" bbox="258.291,383.224,271.696,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="271.696,383.224,281.462,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="BCDEEE+Calibri" bbox="281.462,383.224,294.866,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="294.866,383.224,301.191,411.208" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="301.191,383.224,316.386,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">R</text>
+<text font="BCDEEE+Calibri" bbox="316.386,383.224,332.589,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">A</text>
+<text font="BCDEEE+Calibri" bbox="332.589,383.224,350.667,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">N</text>
+<text font="BCDEEE+Calibri" bbox="350.667,383.224,361.608,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">s</text>
+<text font="BCDEEE+Calibri" bbox="361.608,383.224,367.933,411.208" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="368.129,383.224,382.820,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">d</text>
+<text font="BCDEEE+Calibri" bbox="382.820,383.224,396.756,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="396.756,383.224,403.081,411.208" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="403.137,383.224,421.214,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">N</text>
+<text font="BCDEEE+Calibri" bbox="421.214,383.224,435.962,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+Calibri" bbox="435.962,383.224,458.321,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">m</text>
+<text font="BCDEEE+Calibri" bbox="458.209,383.224,472.901,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">b</text>
+<text font="BCDEEE+Calibri" bbox="472.901,383.224,482.667,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">r</text>
+<text font="BCDEEE+Calibri" bbox="482.555,383.224,496.491,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="496.491,383.224,507.433,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">s</text>
+<text font="BCDEEE+Calibri" bbox="507.433,383.224,513.757,411.208" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="514.093,383.224,528.785,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">d</text>
+<text font="BCDEEE+Calibri" bbox="528.785,383.224,542.721,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="542.721,383.224,549.045,411.208" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="549.101,383.224,561.946,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">F</text>
+<text font="BCDEEE+Calibri" bbox="561.946,383.224,575.350,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="575.350,383.224,597.709,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">m</text>
+<text font="BCDEEE+Calibri" bbox="597.709,383.224,604.146,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+Calibri" bbox="604.062,383.224,610.498,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">l</text>
+<text font="BCDEEE+Calibri" bbox="610.498,383.224,616.934,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+Calibri" bbox="616.794,383.224,630.199,411.208" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+</textline>
+<textline bbox="97.224,342.880,618.301,370.840">&#8226; No hay una lista autorizada de t&#233;rminos de  <text font="BCDFEE+Calibri" bbox="97.224,342.880,111.148,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="124.220,342.880,142.282,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">N</text>
+<text font="BCDEEE+Calibri" bbox="142.282,342.880,157.017,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="157.017,342.880,163.336,370.840" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="163.420,342.880,178.099,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">h</text>
+<text font="BCDEEE+Calibri" bbox="178.099,342.880,191.492,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="191.492,342.880,204.158,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">y</text>
+<text font="BCDEEE+Calibri" bbox="204.158,342.880,210.477,370.840" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="210.560,342.880,225.239,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Calibri" bbox="225.239,342.880,239.918,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="239.918,342.880,253.311,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="253.311,342.880,259.630,370.840" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="259.742,342.880,266.173,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Calibri" bbox="266.173,342.880,272.604,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="272.464,342.880,283.396,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Calibri" bbox="283.396,342.880,292.763,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="292.763,342.880,306.156,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="306.156,342.880,312.475,370.840" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="312.642,342.880,326.035,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="326.035,342.880,340.714,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Calibri" bbox="340.714,342.880,350.081,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="350.081,342.880,364.816,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="364.816,342.880,374.574,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="374.574,342.880,381.005,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="381.005,342.880,392.049,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">z</text>
+<text font="BCDEEE+Calibri" bbox="391.965,342.880,405.358,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="405.358,342.880,420.037,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="420.037,342.880,433.430,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="433.430,342.880,439.749,370.840" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="439.805,342.880,454.484,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="454.484,342.880,468.408,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="468.408,342.880,474.727,370.840" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="474.810,342.880,484.177,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="484.177,342.880,498.101,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">&#233;</text>
+<text font="BCDEEE+Calibri" bbox="498.101,342.880,507.859,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="507.859,342.880,530.199,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="530.199,342.880,536.630,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="536.490,342.880,551.169,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="551.169,342.880,565.904,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="565.904,342.880,576.836,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Calibri" bbox="576.836,342.880,583.155,370.840" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="583.379,342.880,598.058,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="598.058,342.880,611.982,370.840" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="611.982,342.880,618.301,370.840" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="97.224,228.620,642.822,296.920" size="27.96" unique_id="3">&#8226; El termino gen&#233;rico, por defecto es:  Familia 
+&#8226; Este es un campo que no se puede utilizar en  <textline bbox="97.224,268.960,625.012,296.920">&#8226; El termino gen&#233;rico, por defecto es:  Familia <text font="BCDFEE+Calibri" bbox="97.224,268.960,111.148,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="124.220,268.960,137.864,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">E</text>
+<text font="BCDEEE+Calibri" bbox="137.864,268.960,144.295,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Calibri" bbox="144.295,268.960,150.614,296.920" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="150.614,268.960,159.981,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="159.981,268.960,173.905,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="173.905,268.960,183.663,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="183.663,268.960,206.003,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="206.003,268.960,212.434,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="212.294,268.960,226.973,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="226.973,268.960,241.708,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="241.708,268.960,248.027,296.920" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="248.139,268.960,261.308,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">g</text>
+<text font="BCDEEE+Calibri" bbox="261.308,268.960,275.232,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="275.232,268.960,289.911,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="289.911,268.960,303.835,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">&#233;</text>
+<text font="BCDEEE+Calibri" bbox="303.835,268.960,313.593,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="313.593,268.960,320.024,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="319.912,268.960,331.739,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Calibri" bbox="331.739,268.960,346.474,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="346.474,268.960,353.464,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">,</text>
+<text font="BCDEEE+Calibri" bbox="353.464,268.960,359.783,296.920" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="359.951,268.960,374.630,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+Calibri" bbox="374.630,268.960,389.365,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="389.365,268.960,399.123,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="399.123,268.960,405.442,296.920" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="405.526,268.960,420.205,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="420.205,268.960,434.129,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="434.129,268.960,442.656,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">f</text>
+<text font="BCDEEE+Calibri" bbox="442.656,268.960,456.581,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="456.581,268.960,468.408,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Calibri" bbox="468.408,268.960,477.774,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="477.774,268.960,492.509,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="492.509,268.960,498.828,296.920" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="498.828,268.960,512.752,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="512.752,268.960,523.685,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Calibri" bbox="523.685,268.960,531.178,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">:</text>
+<text font="BCDEEE+Calibri" bbox="531.178,268.960,537.497,296.920" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="537.609,268.960,543.928,296.920" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="543.928,268.960,556.761,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">F</text>
+<text font="BCDEEE+Calibri" bbox="556.761,268.960,570.154,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="570.210,268.960,592.550,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="592.550,268.960,598.981,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="598.897,268.960,605.328,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Calibri" bbox="605.328,268.960,611.759,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="611.619,268.960,625.012,296.920" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+</textline>
+<textline bbox="97.224,228.620,642.822,256.580">&#8226; Este es un campo que no se puede utilizar en  <text font="BCDFEE+Calibri" bbox="97.224,228.620,111.148,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="124.220,228.620,137.864,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">E</text>
+<text font="BCDEEE+Calibri" bbox="137.864,228.620,148.797,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Calibri" bbox="148.797,228.620,158.163,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="158.163,228.620,172.088,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="172.088,228.620,178.406,256.580" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="178.406,228.620,192.331,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="192.331,228.620,203.263,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Calibri" bbox="203.263,228.620,209.582,256.580" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="209.582,228.620,224.261,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Calibri" bbox="224.261,228.620,238.940,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="238.940,228.620,245.259,256.580" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="245.510,228.620,257.338,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">c</text>
+<text font="BCDEEE+Calibri" bbox="257.338,228.620,270.730,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="270.814,228.620,293.154,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Calibri" bbox="293.154,228.620,307.833,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+Calibri" bbox="307.833,228.620,322.568,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="322.568,228.620,328.887,256.580" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="328.999,228.620,343.678,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">q</text>
+<text font="BCDEEE+Calibri" bbox="343.678,228.620,358.357,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Calibri" bbox="358.357,228.620,372.281,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="372.281,228.620,378.600,256.580" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="378.768,228.620,393.447,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="393.447,228.620,408.182,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Calibri" bbox="408.182,228.620,414.501,256.580" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="414.613,228.620,425.545,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">s</text>
+<text font="BCDEEE+Calibri" bbox="425.545,228.620,439.469,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="439.469,228.620,445.788,256.580" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="445.788,228.620,460.467,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+Calibri" bbox="460.467,228.620,475.146,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Calibri" bbox="475.146,228.620,489.070,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="489.070,228.620,503.749,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">d</text>
+<text font="BCDEEE+Calibri" bbox="503.665,228.620,517.589,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="517.589,228.620,523.908,256.580" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="524.160,228.620,538.839,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">u</text>
+<text font="BCDEEE+Calibri" bbox="538.839,228.620,548.205,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Calibri" bbox="548.205,228.620,554.636,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="554.524,228.620,560.955,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Calibri" bbox="560.955,228.620,567.386,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Calibri" bbox="567.246,228.620,578.290,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">z</text>
+<text font="BCDEEE+Calibri" bbox="578.290,228.620,591.683,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">a</text>
+<text font="BCDEEE+Calibri" bbox="591.683,228.620,601.441,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">r</text>
+<text font="BCDEEE+Calibri" bbox="601.441,228.620,607.760,256.580" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text font="BCDEEE+Calibri" bbox="607.900,228.620,621.824,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Calibri" bbox="621.824,228.620,636.503,256.580" colourspace="DeviceGray" ncolour="0" size="27.960">n</text>
+<text font="BCDEEE+Calibri" bbox="636.503,228.620,642.822,256.580" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+</textline>
+</normal_text>
+<normal_text id="5" bbox="97.224,121.094,659.526,149.078" size="27.984" unique_id="5">&#8226; Se establecen &#250;nicamente cuando la familia es  <textline bbox="97.224,121.094,659.526,149.078">&#8226; Se establecen &#250;nicamente cuando la familia es  <text font="BCDFEE+Calibri" bbox="97.224,121.094,111.160,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">&#8226;</text>
+<text font="BCDEEE+Calibri" bbox="124.220,121.094,137.065,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">S</text>
+<text font="BCDEEE+Calibri" bbox="137.065,121.094,151.001,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="151.001,121.094,157.325,149.078" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="157.325,121.094,171.261,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="171.261,121.094,182.203,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">s</text>
+<text font="BCDEEE+Calibri" bbox="182.203,121.094,191.577,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="BCDEEE+Calibri" bbox="191.577,121.094,204.982,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="204.982,121.094,219.673,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">b</text>
+<text font="BCDEEE+Calibri" bbox="219.673,121.094,226.110,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">l</text>
+<text font="BCDEEE+Calibri" bbox="225.970,121.094,239.906,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="239.906,121.094,251.743,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="BCDEEE+Calibri" bbox="251.743,121.094,265.679,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="265.679,121.094,280.371,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">n</text>
+<text font="BCDEEE+Calibri" bbox="280.371,121.094,286.695,149.078" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="286.779,121.094,301.471,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">&#250;</text>
+<text font="BCDEEE+Calibri" bbox="301.471,121.094,316.162,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">n</text>
+<text font="BCDEEE+Calibri" bbox="316.050,121.094,322.487,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+Calibri" bbox="322.487,121.094,334.324,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="BCDEEE+Calibri" bbox="334.324,121.094,347.728,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="347.728,121.094,370.087,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">m</text>
+<text font="BCDEEE+Calibri" bbox="370.087,121.094,384.023,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="384.023,121.094,398.715,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">n</text>
+<text font="BCDEEE+Calibri" bbox="398.603,121.094,407.978,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">t</text>
+<text font="BCDEEE+Calibri" bbox="407.978,121.094,421.914,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="421.914,121.094,428.238,149.078" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="428.462,121.094,440.299,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">c</text>
+<text font="BCDEEE+Calibri" bbox="440.299,121.094,454.991,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">u</text>
+<text font="BCDEEE+Calibri" bbox="454.991,121.094,468.395,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="468.395,121.094,483.087,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">n</text>
+<text font="BCDEEE+Calibri" bbox="483.087,121.094,497.778,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">d</text>
+<text font="BCDEEE+Calibri" bbox="497.778,121.094,512.526,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">o</text>
+<text font="BCDEEE+Calibri" bbox="512.526,121.094,518.850,149.078" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="519.158,121.094,525.595,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">l</text>
+<text font="BCDEEE+Calibri" bbox="525.595,121.094,538.999,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="538.999,121.094,545.323,149.078" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="545.211,121.094,553.746,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">f</text>
+<text font="BCDEEE+Calibri" bbox="553.746,121.094,567.151,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="567.151,121.094,589.510,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">m</text>
+<text font="BCDEEE+Calibri" bbox="589.510,121.094,595.946,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+Calibri" bbox="595.862,121.094,602.299,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">l</text>
+<text font="BCDEEE+Calibri" bbox="602.299,121.094,608.735,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">i</text>
+<text font="BCDEEE+Calibri" bbox="608.595,121.094,621.999,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">a</text>
+<text font="BCDEEE+Calibri" bbox="621.999,121.094,628.324,149.078" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text font="BCDEEE+Calibri" bbox="628.324,121.094,642.260,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">e</text>
+<text font="BCDEEE+Calibri" bbox="642.260,121.094,653.202,149.078" colourspace="DeviceGray" ncolour="0" size="27.984">s</text>
+<text font="BCDEEE+Calibri" bbox="653.202,121.094,659.526,149.078" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="124.220,309.280,307.190,337.240" size="27.96" unique_id="2">Tipos de Familia <textline bbox="124.220,309.280,307.190,337.240" font="BCDEEE+Calibri" ncolour="0" size="27.960" colourspace="DeviceGray">Tipos de Familia </textline>
+</normal_text>
+<normal_text id="4" bbox="124.220,161.420,584.917,222.980" size="27.96" unique_id="4">RANs con RCA2, ya que bajo RCA2 no se  
+establecen nombres de familias <textline bbox="124.220,195.020,584.917,222.980" font="BCDEEE+Calibri" ncolour="0" size="27.960" colourspace="DeviceGray">RANs con RCA2, ya que bajo RCA2 no se  </textline>
+<textline bbox="124.220,161.420,484.065,189.380" font="BCDEEE+Calibri" ncolour="0" size="27.960" colourspace="DeviceGray">establecen nombres de familias </textline>
+</normal_text>
+<normal_text id="6" bbox="124.220,87.474,588.636,115.434" size="27.96" unique_id="6">un creador, colaborador, etc. del recurso <textline bbox="124.220,87.474,588.636,115.434" font="BCDEEE+Calibri" ncolour="0" size="27.960" colourspace="DeviceGray">un creador, colaborador, etc. del recurso </textline>
+</normal_text>
+</enlisting></page>
+</pages>

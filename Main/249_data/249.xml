@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824">
+<textline bbox="86.712,464.824,643.800,506.824">
+<text font="BCDEEE+Garamond" bbox="86.712,464.824,110.358,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="110.358,464.824,119.976,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="119.976,464.824,137.490,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="137.490,464.824,156.726,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">x</text>
+<text font="BCDEEE+Garamond" bbox="156.726,464.824,166.344,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="166.344,464.824,187.764,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">b</text>
+<text font="BCDEEE+Garamond" bbox="187.764,464.824,197.382,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="197.382,464.824,214.896,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="214.896,464.824,225.396,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="225.396,464.824,245.514,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="245.514,464.824,266.934,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">p</text>
+<text font="BCDEEE+Garamond" bbox="266.934,464.824,284.448,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="284.448,464.824,305.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="305.868,464.824,326.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">d</text>
+<text font="BCDEEE+Garamond" bbox="326.868,464.824,336.486,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="336.486,464.824,357.906,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="357.906,464.824,376.722,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">g</text>
+<text font="BCDEEE+Garamond" bbox="376.848,464.824,387.348,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="386.928,464.824,415.362,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="415.362,464.824,432.876,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="432.876,464.824,450.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="450.390,464.824,471.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">o</text>
+<text font="BCDEEE+Garamond" bbox="471.810,464.824,492.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">u</text>
+<text font="BCDEEE+Garamond" bbox="492.390,464.824,513.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="513.810,464.824,526.074,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">t</text>
+<text font="BCDEEE+Garamond" bbox="526.074,464.824,536.574,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="536.574,464.824,548.838,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">(</text>
+<text font="BCDEEE+Garamond" bbox="548.838,464.824,572.484,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="572.484,464.824,592.602,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="592.602,464.824,621.036,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="621.036,464.824,633.300,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">)</text>
+<text font="BCDEEE+Garamond" bbox="633.300,464.824,643.800,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="288.700,414.418,431.245,456.442">
+<text font="BCDEEE+Garamond" bbox="288.700,414.418,312.360,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">P</text>
+<text font="BCDEEE+Garamond" bbox="312.360,414.418,326.354,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="326.354,414.418,347.786,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">o</text>
+<text font="BCDEEE+Garamond" bbox="347.870,414.418,366.697,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">g</text>
+<text font="BCDEEE+Garamond" bbox="367.789,414.418,381.783,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="381.783,414.418,398.845,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">a</text>
+<text font="BCDEEE+Garamond" bbox="398.845,414.418,431.245,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">m</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="217.850,151.730,513.914,244.889">
+<textline bbox="252.650,220.865,479.340,244.889">
+<text font="ArialMT" bbox="252.650,220.865,267.329,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">T</text>
+<text font="ArialMT" bbox="267.329,220.865,283.353,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">S</text>
+<text font="ArialMT" bbox="283.257,220.865,296.614,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">g</text>
+<text font="ArialMT" bbox="296.614,220.865,303.293,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">t</text>
+<text font="ArialMT" bbox="303.293,220.865,309.971,244.889" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="ArialMT" bbox="309.899,220.865,327.245,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">H</text>
+<text font="ArialMT" bbox="327.245,220.865,340.602,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">o</text>
+<text font="ArialMT" bbox="340.506,220.865,357.851,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">w</text>
+<text font="ArialMT" bbox="357.851,220.865,371.208,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">a</text>
+<text font="ArialMT" bbox="371.112,220.865,379.112,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">r</text>
+<text font="ArialMT" bbox="379.112,220.865,392.470,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">d</text>
+<text font="ArialMT" bbox="392.470,220.865,399.148,244.889" colourspace="DeviceGray" ncolour="0" size="24.024"> </text>
+<text font="ArialMT" bbox="399.413,220.865,415.437,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">B</text>
+<text font="ArialMT" bbox="415.437,220.865,428.794,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="ArialMT" bbox="428.698,220.865,442.055,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">n</text>
+<text font="ArialMT" bbox="442.055,220.865,448.734,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">t</text>
+<text font="ArialMT" bbox="448.734,220.865,454.067,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">l</text>
+<text font="ArialMT" bbox="454.067,220.865,467.425,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">e</text>
+<text font="ArialMT" bbox="467.328,220.865,479.340,244.889" colourspace="DeviceGray" ncolour="0" size="24.024">y</text>
+<text>
+</text>
+</textline>
+<textline bbox="217.850,186.290,513.914,210.290">
+<text font="ArialMT" bbox="217.850,186.290,235.178,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">H</text>
+<text font="ArialMT" bbox="235.178,186.290,248.522,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="ArialMT" bbox="248.450,186.290,268.442,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="268.442,186.290,281.786,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="281.786,186.290,295.130,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text font="ArialMT" bbox="295.130,186.290,301.802,210.290" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="301.946,186.290,319.274,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">R</text>
+<text font="ArialMT" bbox="319.274,186.290,332.618,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="332.546,186.290,344.546,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="344.546,186.290,357.890,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="357.890,186.290,371.234,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="ArialMT" bbox="371.234,186.290,379.226,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="379.226,186.290,391.226,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="391.226,186.290,404.570,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="404.570,186.290,411.242,210.290" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="411.482,186.290,427.490,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="ArialMT" bbox="427.490,186.290,440.834,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">p</text>
+<text font="ArialMT" bbox="440.762,186.290,454.106,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="454.106,186.290,466.106,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="466.106,186.290,471.434,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="471.434,186.290,484.778,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">a</text>
+<text font="ArialMT" bbox="484.682,186.290,490.010,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">l</text>
+<text font="ArialMT" bbox="490.010,186.290,495.338,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="495.242,186.290,507.242,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="507.242,186.290,513.914,210.290" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text>
+</text>
+</textline>
+<textline bbox="227.210,151.730,504.650,175.730">
+<text font="ArialMT" bbox="227.210,151.730,244.538,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">C</text>
+<text font="ArialMT" bbox="244.538,151.730,257.882,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">u</text>
+<text font="ArialMT" bbox="257.810,151.730,269.810,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">s</text>
+<text font="ArialMT" bbox="269.810,151.730,276.482,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="276.482,151.730,289.826,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="289.826,151.730,309.818,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">m</text>
+<text font="ArialMT" bbox="309.866,151.730,323.210,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="323.210,151.730,331.202,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="331.202,151.730,337.874,175.730" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="337.874,151.730,353.882,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="ArialMT" bbox="353.882,151.730,367.226,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="367.226,151.730,375.218,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">r</text>
+<text font="ArialMT" bbox="375.218,151.730,387.218,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">v</text>
+<text font="ArialMT" bbox="387.218,151.730,392.546,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="392.546,151.730,404.546,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="404.546,151.730,417.890,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="417.890,151.730,424.562,175.730" colourspace="DeviceGray" ncolour="0" size="24.000"> </text>
+<text font="ArialMT" bbox="424.682,151.730,440.690,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">S</text>
+<text font="ArialMT" bbox="440.690,151.730,454.034,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">e</text>
+<text font="ArialMT" bbox="453.962,151.730,465.962,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">c</text>
+<text font="ArialMT" bbox="465.962,151.730,472.634,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">t</text>
+<text font="ArialMT" bbox="472.634,151.730,477.962,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">i</text>
+<text font="ArialMT" bbox="477.962,151.730,491.306,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">o</text>
+<text font="ArialMT" bbox="491.306,151.730,504.650,175.730" colourspace="DeviceGray" ncolour="0" size="24.000">n</text>
+<text>
+</text>
+</textline>
+</textbox>
+<rect linewidth="0" bbox="0.000,0.000,720.000,540.000" />
+<curve linewidth="1" bbox="30.060,473.940,678.060,521.940" pts="30.060,473.940,30.060,521.940,678.060,521.940"/>
+<line linewidth="1" bbox="36.060,53.940,684.060,53.940" />
+<layout>
+<textgroup bbox="86.712,151.730,643.800,506.824">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824" />
+<textbox id="1" bbox="217.850,151.730,513.914,244.889" />
+</textgroup>
+</layout>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824">
+<textline bbox="86.712,464.824,643.800,506.824">
+<text font="BCDEEE+Garamond" bbox="86.712,464.824,110.358,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="110.358,464.824,119.976,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="119.976,464.824,137.490,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="137.490,464.824,156.726,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">x</text>
+<text font="BCDEEE+Garamond" bbox="156.726,464.824,166.344,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="166.344,464.824,187.764,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">b</text>
+<text font="BCDEEE+Garamond" bbox="187.764,464.824,197.382,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="197.382,464.824,214.896,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="214.896,464.824,225.396,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="225.396,464.824,245.514,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="245.514,464.824,266.934,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">p</text>
+<text font="BCDEEE+Garamond" bbox="266.934,464.824,284.448,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="284.448,464.824,305.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="305.868,464.824,326.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">d</text>
+<text font="BCDEEE+Garamond" bbox="326.868,464.824,336.486,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="336.486,464.824,357.906,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="357.906,464.824,376.722,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">g</text>
+<text font="BCDEEE+Garamond" bbox="376.848,464.824,387.348,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="386.928,464.824,415.362,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="415.362,464.824,432.876,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="432.876,464.824,450.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="450.390,464.824,471.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">o</text>
+<text font="BCDEEE+Garamond" bbox="471.810,464.824,492.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">u</text>
+<text font="BCDEEE+Garamond" bbox="492.390,464.824,513.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="513.810,464.824,526.074,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">t</text>
+<text font="BCDEEE+Garamond" bbox="526.074,464.824,536.574,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="536.574,464.824,548.838,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">(</text>
+<text font="BCDEEE+Garamond" bbox="548.838,464.824,572.484,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="572.484,464.824,592.602,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="592.602,464.824,621.036,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="621.036,464.824,633.300,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">)</text>
+<text font="BCDEEE+Garamond" bbox="633.300,464.824,643.800,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="221.500,414.418,498.652,456.442">
+<text font="BCDEEE+Garamond" bbox="221.500,414.418,245.160,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">P</text>
+<text font="BCDEEE+Garamond" bbox="245.160,414.418,259.154,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="259.154,414.418,280.586,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">o</text>
+<text font="BCDEEE+Garamond" bbox="280.586,414.418,299.412,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">g</text>
+<text font="BCDEEE+Garamond" bbox="300.547,414.418,314.541,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="314.541,414.418,331.603,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">a</text>
+<text font="BCDEEE+Garamond" bbox="331.603,414.418,364.003,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">m</text>
+<text font="BCDEEE+Garamond" bbox="364.003,414.418,374.509,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024"> </text>
+<text font="BCDEEE+Garamond" bbox="374.280,414.418,387.434,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">-</text>
+<text> </text>
+<text font="BCDEEE+Garamond" bbox="397.920,414.418,423.765,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">B</text>
+<text font="BCDEEE+Garamond" bbox="423.765,414.418,440.827,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">a</text>
+<text font="BCDEEE+Garamond" bbox="440.827,414.418,456.165,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">s</text>
+<text font="BCDEEE+Garamond" bbox="456.165,414.418,465.789,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">i</text>
+<text font="BCDEEE+Garamond" bbox="465.789,414.418,483.313,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">c</text>
+<text font="BCDEEE+Garamond" bbox="483.313,414.418,498.652,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">s</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="31.200,298.810,331.610,328.810">
+<textline bbox="31.200,298.810,331.610,328.810">
+<text font="BCDFEE+Wingdings-Regular" bbox="31.200,301.100,45.811,320.660" colourspace="DeviceGray" ncolour="(0.8, 0.6, 0)" size="19.560">◼</text>
+<text> </text>
+<text font="ArialMT" bbox="58.200,298.810,78.210,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">P</text>
+<text font="ArialMT" bbox="78.210,298.810,88.200,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">r</text>
+<text font="ArialMT" bbox="88.200,298.810,104.880,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="104.900,298.810,114.890,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">-</text>
+<text font="ArialMT" bbox="114.860,298.810,133.190,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">T</text>
+<text font="ArialMT" bbox="129.860,298.810,146.540,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">a</text>
+<text font="ArialMT" bbox="146.540,298.810,161.540,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">x</text>
+<text font="ArialMT" bbox="161.540,298.810,169.880,328.810" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="169.880,298.810,191.540,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">C</text>
+<text font="ArialMT" bbox="191.630,298.810,208.310,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="208.310,298.810,224.990,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="224.990,298.810,233.330,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="233.330,298.810,243.320,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">r</text>
+<text font="ArialMT" bbox="243.230,298.810,249.890,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="249.890,298.810,266.570,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">b</text>
+<text font="ArialMT" bbox="266.570,298.810,283.250,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">u</text>
+<text font="ArialMT" bbox="283.250,298.810,291.590,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="291.590,298.810,298.250,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="298.250,298.810,314.930,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="314.930,298.810,331.610,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="31.200,212.405,610.341,242.429">
+<textline bbox="31.200,212.405,610.341,242.429">
+<text font="BCDFEE+Wingdings-Regular" bbox="31.200,214.695,45.829,234.279" colourspace="DeviceGray" ncolour="(0.8, 0.6, 0)" size="19.584">◼</text>
+<text> </text>
+<text font="ArialMT" bbox="58.200,212.405,79.877,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">U</text>
+<text font="ArialMT" bbox="79.877,212.405,94.889,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">s</text>
+<text font="ArialMT" bbox="94.889,212.405,111.583,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="111.583,212.405,119.929,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="119.929,212.405,144.939,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">m</text>
+<text font="ArialMT" bbox="144.939,212.405,161.633,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="161.633,212.405,178.326,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">n</text>
+<text font="ArialMT" bbox="178.326,212.405,195.019,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="195.019,212.405,210.031,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">y</text>
+<text font="ArialMT" bbox="210.031,212.405,218.378,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="218.288,212.405,226.635,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">t</text>
+<text font="ArialMT" bbox="226.635,212.405,243.328,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="243.328,212.405,251.675,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="251.675,212.405,268.368,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">p</text>
+<text font="ArialMT" bbox="268.368,212.405,285.061,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">a</text>
+<text font="ArialMT" bbox="285.061,212.405,300.073,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">y</text>
+<text font="ArialMT" bbox="300.073,212.405,308.420,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="308.420,212.405,316.767,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">f</text>
+<text font="ArialMT" bbox="316.767,212.405,333.460,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="333.460,212.405,343.458,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="343.458,212.405,351.805,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="351.955,212.405,368.648,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="368.648,212.405,375.313,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">l</text>
+<text font="ArialMT" bbox="375.313,212.405,381.979,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">i</text>
+<text font="ArialMT" bbox="382.129,212.405,398.822,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">g</text>
+<text font="ArialMT" bbox="398.822,212.405,405.488,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">i</text>
+<text font="ArialMT" bbox="405.488,212.405,422.181,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">b</text>
+<text font="ArialMT" bbox="422.181,212.405,428.846,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">l</text>
+<text font="ArialMT" bbox="428.846,212.405,445.540,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="445.540,212.405,453.886,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="453.556,212.405,470.249,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">h</text>
+<text font="ArialMT" bbox="470.249,212.405,486.943,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="486.943,212.405,503.636,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">a</text>
+<text font="ArialMT" bbox="503.636,212.405,510.301,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">l</text>
+<text font="ArialMT" bbox="510.391,212.405,518.738,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">t</text>
+<text font="ArialMT" bbox="518.738,212.405,535.431,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">h</text>
+<text font="ArialMT" bbox="535.431,212.405,543.778,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="543.598,212.405,558.610,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">c</text>
+<text font="ArialMT" bbox="558.610,212.405,575.303,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">a</text>
+<text font="ArialMT" bbox="575.303,212.405,585.301,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="585.301,212.405,601.995,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="601.995,212.405,610.341,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="58.200,176.390,186.768,206.390">
+<textline bbox="58.200,176.390,186.768,206.390">
+<text font="ArialMT" bbox="58.200,176.390,74.880,206.390" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="74.904,176.390,89.904,206.390" colourspace="DeviceGray" ncolour="0" size="30.000">x</text>
+<text font="ArialMT" bbox="89.928,176.390,106.608,206.390" colourspace="DeviceGray" ncolour="0" size="30.000">p</text>
+<text font="ArialMT" bbox="106.632,176.390,123.312,206.390" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="123.336,176.390,140.016,206.390" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="140.040,176.390,155.040,206.390" colourspace="DeviceGray" ncolour="0" size="30.000">s</text>
+<text font="ArialMT" bbox="155.064,176.390,171.744,206.390" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="171.768,176.390,186.768,206.390" colourspace="DeviceGray" ncolour="0" size="30.000">s</text>
+<text>
+</text>
+</textline>
+</textbox>
+<rect linewidth="0" bbox="0.000,0.000,720.000,540.000" />
+<curve linewidth="1" bbox="30.060,473.940,678.060,521.940" pts="30.060,473.940,30.060,521.940,678.060,521.940"/>
+<line linewidth="1" bbox="36.060,53.940,684.060,53.940" />
+<layout>
+<textgroup bbox="31.200,176.390,643.800,506.824">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824" />
+<textgroup bbox="31.200,176.390,610.341,328.810">
+<textbox id="1" bbox="31.200,298.810,331.610,328.810" />
+<textgroup bbox="31.200,176.390,610.341,242.429">
+<textbox id="2" bbox="31.200,212.405,610.341,242.429" />
+<textbox id="3" bbox="58.200,176.390,186.768,206.390" />
+</textgroup>
+</textgroup>
+</textgroup>
+</layout>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824">
+<textline bbox="86.712,464.824,643.800,506.824">
+<text font="BCDEEE+Garamond" bbox="86.712,464.824,110.358,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="110.358,464.824,119.976,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="119.976,464.824,137.490,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="137.490,464.824,156.726,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">x</text>
+<text font="BCDEEE+Garamond" bbox="156.726,464.824,166.344,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="166.344,464.824,187.764,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">b</text>
+<text font="BCDEEE+Garamond" bbox="187.764,464.824,197.382,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="197.382,464.824,214.896,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="214.896,464.824,225.396,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="225.396,464.824,245.514,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="245.514,464.824,266.934,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">p</text>
+<text font="BCDEEE+Garamond" bbox="266.934,464.824,284.448,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="284.448,464.824,305.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="305.868,464.824,326.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">d</text>
+<text font="BCDEEE+Garamond" bbox="326.868,464.824,336.486,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="336.486,464.824,357.906,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="357.906,464.824,376.722,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">g</text>
+<text font="BCDEEE+Garamond" bbox="376.848,464.824,387.348,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="386.928,464.824,415.362,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="415.362,464.824,432.876,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="432.876,464.824,450.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="450.390,464.824,471.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">o</text>
+<text font="BCDEEE+Garamond" bbox="471.810,464.824,492.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">u</text>
+<text font="BCDEEE+Garamond" bbox="492.390,464.824,513.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="513.810,464.824,526.074,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">t</text>
+<text font="BCDEEE+Garamond" bbox="526.074,464.824,536.574,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="536.574,464.824,548.838,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">(</text>
+<text font="BCDEEE+Garamond" bbox="548.838,464.824,572.484,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="572.484,464.824,592.602,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="592.602,464.824,621.036,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="621.036,464.824,633.300,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">)</text>
+<text font="BCDEEE+Garamond" bbox="633.300,464.824,643.800,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="158.710,414.418,561.291,456.442">
+<text font="BCDEEE+Garamond" bbox="158.710,414.418,182.370,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">P</text>
+<text font="BCDEEE+Garamond" bbox="182.370,414.418,196.364,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="196.364,414.418,217.796,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">o</text>
+<text font="BCDEEE+Garamond" bbox="217.880,414.418,236.707,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">g</text>
+<text font="BCDEEE+Garamond" bbox="237.799,414.418,251.793,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="251.793,414.418,268.855,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">a</text>
+<text font="BCDEEE+Garamond" bbox="268.855,414.418,301.255,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">m</text>
+<text font="BCDEEE+Garamond" bbox="301.255,414.418,311.761,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024"> </text>
+<text font="BCDEEE+Garamond" bbox="311.520,414.418,324.674,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">-</text>
+<text> </text>
+<text font="BCDEEE+Garamond" bbox="335.160,414.418,358.820,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">F</text>
+<text font="BCDEEE+Garamond" bbox="358.820,414.418,368.443,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">i</text>
+<text font="BCDEEE+Garamond" bbox="368.443,414.418,378.067,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">l</text>
+<text font="BCDEEE+Garamond" bbox="378.067,414.418,387.690,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">i</text>
+<text font="BCDEEE+Garamond" bbox="387.690,414.418,409.122,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">n</text>
+<text font="BCDEEE+Garamond" bbox="409.122,414.418,427.949,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">g</text>
+<text font="BCDEEE+Garamond" bbox="427.949,414.418,438.455,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024"> </text>
+<text font="BCDEEE+Garamond" bbox="438.455,414.418,455.517,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">a</text>
+<text font="BCDEEE+Garamond" bbox="455.517,414.418,466.023,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024"> </text>
+<text font="BCDEEE+Garamond" bbox="466.023,414.418,492.708,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">C</text>
+<text font="BCDEEE+Garamond" bbox="492.708,414.418,502.331,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">l</text>
+<text font="BCDEEE+Garamond" bbox="502.205,414.418,519.267,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">a</text>
+<text font="BCDEEE+Garamond" bbox="519.267,414.418,528.891,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">i</text>
+<text font="BCDEEE+Garamond" bbox="528.891,414.418,561.291,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">m</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="31.200,298.810,363.690,328.810">
+<textline bbox="31.200,298.810,363.690,328.810">
+<text font="BCDFEE+Wingdings-Regular" bbox="31.200,301.100,45.811,320.660" colourspace="DeviceGray" ncolour="(0.8, 0.6, 0)" size="19.560">◼</text>
+<text> </text>
+<text font="ArialMT" bbox="58.200,298.810,76.530,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">F</text>
+<text font="ArialMT" bbox="76.530,298.810,83.190,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="83.310,298.810,89.970,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="89.970,298.810,96.630,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="96.780,298.810,105.120,328.810" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="104.970,298.810,121.650,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="121.650,298.810,138.330,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">u</text>
+<text font="ArialMT" bbox="138.330,298.810,146.670,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="146.670,298.810,155.010,328.810" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="155.010,298.810,163.350,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="163.350,298.810,180.030,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">h</text>
+<text font="ArialMT" bbox="180.030,298.810,196.710,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="196.710,298.810,205.050,328.810" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="205.050,298.810,220.050,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">c</text>
+<text font="ArialMT" bbox="220.110,298.810,226.770,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="226.770,298.810,243.450,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">a</text>
+<text font="ArialMT" bbox="243.540,298.810,250.200,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="250.200,298.810,275.190,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">m</text>
+<text font="ArialMT" bbox="275.190,298.810,283.530,328.810" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="283.530,298.810,300.210,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="300.210,298.810,316.890,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="316.890,298.810,323.550,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="323.550,298.810,330.210,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="330.330,298.810,347.010,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="347.010,298.810,363.690,328.810" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="31.200,212.405,433.860,242.429">
+<textline bbox="31.200,212.405,433.860,242.429">
+<text font="BCDFEE+Wingdings-Regular" bbox="31.200,214.695,45.829,234.279" colourspace="DeviceGray" ncolour="(0.8, 0.6, 0)" size="19.584">◼</text>
+<text> </text>
+<text font="ArialMT" bbox="58.200,212.405,76.545,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">F</text>
+<text font="ArialMT" bbox="76.545,212.405,93.238,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">a</text>
+<text font="ArialMT" bbox="93.238,212.405,108.250,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">x</text>
+<text font="ArialMT" bbox="108.250,212.405,116.597,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="116.597,212.405,124.943,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">t</text>
+<text font="ArialMT" bbox="124.943,212.405,141.637,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">h</text>
+<text font="ArialMT" bbox="141.637,212.405,158.330,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="158.330,212.405,166.677,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="166.677,212.405,175.023,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">f</text>
+<text font="ArialMT" bbox="175.023,212.405,191.717,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="191.717,212.405,201.715,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="201.715,212.405,226.725,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">m</text>
+<text font="ArialMT" bbox="226.725,212.405,235.071,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="235.252,212.405,251.945,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">a</text>
+<text font="ArialMT" bbox="251.945,212.405,268.638,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">n</text>
+<text font="ArialMT" bbox="268.638,212.405,285.332,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">d</text>
+<text font="ArialMT" bbox="285.332,212.405,293.678,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="293.558,212.405,301.905,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">t</text>
+<text font="ArialMT" bbox="301.905,212.405,318.598,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">h</text>
+<text font="ArialMT" bbox="318.598,212.405,335.291,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="335.291,212.405,343.638,242.429" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="343.638,212.405,353.636,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="353.636,212.405,370.330,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="370.330,212.405,385.342,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">c</text>
+<text font="ArialMT" bbox="385.342,212.405,402.035,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="402.035,212.405,408.700,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">i</text>
+<text font="ArialMT" bbox="408.820,212.405,425.514,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">p</text>
+<text font="ArialMT" bbox="425.514,212.405,433.860,242.429" colourspace="DeviceGray" ncolour="0" size="30.024">t</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="31.200,125.990,463.590,155.990">
+<textline bbox="31.200,125.990,463.590,155.990">
+<text font="BCDFEE+Wingdings-Regular" bbox="31.200,128.280,45.811,147.840" colourspace="DeviceGray" ncolour="(0.8, 0.6, 0)" size="19.560">◼</text>
+<text> </text>
+<text font="ArialMT" bbox="58.200,125.990,79.860,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">C</text>
+<text font="ArialMT" bbox="79.860,125.990,86.520,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="86.670,125.990,103.350,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">a</text>
+<text font="ArialMT" bbox="103.350,125.990,110.010,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="110.100,125.990,135.090,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">m</text>
+<text font="ArialMT" bbox="135.090,125.990,143.430,155.990" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="143.160,125.990,149.820,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="149.820,125.990,164.820,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">s</text>
+<text font="ArialMT" bbox="164.910,125.990,173.250,155.990" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="173.250,125.990,189.930,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">p</text>
+<text font="ArialMT" bbox="189.930,125.990,206.610,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">a</text>
+<text font="ArialMT" bbox="206.610,125.990,213.270,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="213.330,125.990,230.010,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">d</text>
+<text font="ArialMT" bbox="230.010,125.990,238.350,155.990" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="238.230,125.990,253.230,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">v</text>
+<text font="ArialMT" bbox="253.230,125.990,259.890,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="259.980,125.990,276.660,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">a</text>
+<text font="ArialMT" bbox="276.660,125.990,285.000,155.990" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="284.880,125.990,301.560,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">d</text>
+<text font="ArialMT" bbox="301.560,125.990,308.220,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="308.310,125.990,318.300,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">r</text>
+<text font="ArialMT" bbox="318.300,125.990,334.980,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="334.980,125.990,349.980,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">c</text>
+<text font="ArialMT" bbox="349.980,125.990,358.320,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="358.320,125.990,366.660,155.990" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="366.720,125.990,383.400,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">d</text>
+<text font="ArialMT" bbox="383.400,125.990,400.080,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="400.080,125.990,416.760,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">p</text>
+<text font="ArialMT" bbox="416.760,125.990,433.440,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="433.500,125.990,448.500,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">s</text>
+<text font="ArialMT" bbox="448.500,125.990,455.160,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="455.250,125.990,463.590,155.990" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text>
+</text>
+</textline>
+</textbox>
+<rect linewidth="0" bbox="0.000,0.000,720.000,540.000" />
+<curve linewidth="1" bbox="30.060,473.940,678.060,521.940" pts="30.060,473.940,30.060,521.940,678.060,521.940"/>
+<line linewidth="1" bbox="36.060,53.940,684.060,53.940" />
+<layout>
+<textgroup bbox="31.200,125.990,643.800,506.824">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824" />
+<textgroup bbox="31.200,125.990,463.590,328.810">
+<textgroup bbox="31.200,212.405,433.860,328.810">
+<textbox id="1" bbox="31.200,298.810,363.690,328.810" />
+<textbox id="2" bbox="31.200,212.405,433.860,242.429" />
+</textgroup>
+<textbox id="3" bbox="31.200,125.990,463.590,155.990" />
+</textgroup>
+</textgroup>
+</layout>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824">
+<textline bbox="86.712,464.824,643.800,506.824">
+<text font="BCDEEE+Garamond" bbox="86.712,464.824,110.358,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="110.358,464.824,119.976,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="119.976,464.824,137.490,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="137.490,464.824,156.726,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">x</text>
+<text font="BCDEEE+Garamond" bbox="156.726,464.824,166.344,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="166.344,464.824,187.764,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">b</text>
+<text font="BCDEEE+Garamond" bbox="187.764,464.824,197.382,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="197.382,464.824,214.896,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="214.896,464.824,225.396,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="225.396,464.824,245.514,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="245.514,464.824,266.934,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">p</text>
+<text font="BCDEEE+Garamond" bbox="266.934,464.824,284.448,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="284.448,464.824,305.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="305.868,464.824,326.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">d</text>
+<text font="BCDEEE+Garamond" bbox="326.868,464.824,336.486,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="336.486,464.824,357.906,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="357.906,464.824,376.722,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">g</text>
+<text font="BCDEEE+Garamond" bbox="376.848,464.824,387.348,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="386.928,464.824,415.362,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="415.362,464.824,432.876,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="432.876,464.824,450.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="450.390,464.824,471.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">o</text>
+<text font="BCDEEE+Garamond" bbox="471.810,464.824,492.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">u</text>
+<text font="BCDEEE+Garamond" bbox="492.390,464.824,513.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="513.810,464.824,526.074,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">t</text>
+<text font="BCDEEE+Garamond" bbox="526.074,464.824,536.574,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="536.574,464.824,548.838,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">(</text>
+<text font="BCDEEE+Garamond" bbox="548.838,464.824,572.484,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="572.484,464.824,592.602,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="592.602,464.824,621.036,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="621.036,464.824,633.300,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">)</text>
+<text font="BCDEEE+Garamond" bbox="633.300,464.824,643.800,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="126.910,414.418,593.219,456.442">
+<text font="BCDEEE+Garamond" bbox="126.910,414.418,150.570,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">P</text>
+<text font="BCDEEE+Garamond" bbox="150.570,414.418,164.564,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="164.564,414.418,185.996,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">o</text>
+<text font="BCDEEE+Garamond" bbox="185.996,414.418,204.822,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">g</text>
+<text font="BCDEEE+Garamond" bbox="205.957,414.418,219.951,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="219.951,414.418,237.013,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">a</text>
+<text font="BCDEEE+Garamond" bbox="237.013,414.418,269.413,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">m</text>
+<text font="BCDEEE+Garamond" bbox="269.413,414.418,279.919,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024"> </text>
+<text font="BCDGEE+Garamond" bbox="279.700,414.418,300.712,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">–</text>
+<text> </text>
+<text font="BCDEEE+Garamond" bbox="311.280,414.418,348.471,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">W</text>
+<text font="BCDEEE+Garamond" bbox="344.983,414.418,362.507,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">e</text>
+<text font="BCDEEE+Garamond" bbox="362.507,414.418,383.939,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">b</text>
+<text font="BCDEEE+Garamond" bbox="383.939,414.418,399.278,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">s</text>
+<text font="BCDEEE+Garamond" bbox="399.278,414.418,408.902,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">i</text>
+<text font="BCDEEE+Garamond" bbox="408.902,414.418,421.173,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">t</text>
+<text font="BCDEEE+Garamond" bbox="421.173,414.418,438.697,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">e</text>
+<text font="BCDEEE+Garamond" bbox="438.697,414.418,459.709,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">/</text>
+<text font="BCDEEE+Garamond" bbox="459.709,414.418,483.368,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">P</text>
+<text font="BCDEEE+Garamond" bbox="483.368,414.418,504.801,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">h</text>
+<text font="BCDEEE+Garamond" bbox="504.801,414.418,526.233,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">o</text>
+<text font="BCDEEE+Garamond" bbox="526.233,414.418,547.665,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">n</text>
+<text font="BCDEEE+Garamond" bbox="547.665,414.418,565.189,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">e</text>
+<text font="BCDEEE+Garamond" bbox="565.189,414.418,593.219,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">#</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="61.224,319.690,551.126,392.939">
+<textline bbox="61.224,362.915,551.126,392.939">
+<text font="ArialMT" bbox="61.224,362.915,79.569,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">F</text>
+<text font="ArialMT" bbox="79.569,362.915,96.262,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="96.262,362.915,106.260,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="106.260,362.915,114.607,392.939" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="114.607,362.915,121.272,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">i</text>
+<text font="ArialMT" bbox="121.272,362.915,137.965,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">n</text>
+<text font="ArialMT" bbox="137.965,362.915,146.312,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">f</text>
+<text font="ArialMT" bbox="146.312,362.915,163.005,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="163.005,362.915,173.003,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="173.003,362.915,198.013,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">m</text>
+<text font="ArialMT" bbox="197.893,362.915,214.587,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">a</text>
+<text font="ArialMT" bbox="214.587,362.915,222.933,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">t</text>
+<text font="ArialMT" bbox="222.933,362.915,229.599,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">i</text>
+<text font="ArialMT" bbox="229.599,362.915,246.292,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="246.292,362.915,262.985,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">n</text>
+<text font="ArialMT" bbox="262.985,362.915,271.332,392.939" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="271.092,362.915,287.785,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="287.785,362.915,304.478,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">n</text>
+<text font="ArialMT" bbox="304.478,362.915,312.825,392.939" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="312.735,362.915,321.082,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">t</text>
+<text font="ArialMT" bbox="321.082,362.915,337.775,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">h</text>
+<text font="ArialMT" bbox="337.775,362.915,354.468,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="354.378,362.915,362.725,392.939" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="362.725,362.915,381.070,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">F</text>
+<text font="ArialMT" bbox="381.070,362.915,401.096,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">S</text>
+<text font="ArialMT" bbox="401.096,362.915,421.122,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">A</text>
+<text font="ArialMT" bbox="419.530,362.915,427.877,392.939" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="427.877,362.915,447.903,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">P</text>
+<text font="ArialMT" bbox="447.903,362.915,457.901,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="457.811,362.915,474.504,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="474.504,362.915,491.198,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">g</text>
+<text font="ArialMT" bbox="491.198,362.915,501.196,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="501.196,362.915,517.889,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">a</text>
+<text font="ArialMT" bbox="517.889,362.915,542.899,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">m</text>
+<text font="ArialMT" bbox="542.779,362.915,551.126,392.939" colourspace="DeviceGray" ncolour="0" size="30.024">:</text>
+<text>
+</text>
+</textline>
+<textline bbox="61.224,319.690,280.404,349.690">
+<text font="ArialMT" bbox="61.224,319.690,81.234,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">V</text>
+<text font="ArialMT" bbox="80.784,319.690,87.444,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="87.444,319.690,104.124,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">a</text>
+<text font="ArialMT" bbox="104.124,319.690,112.464,349.690" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="112.344,319.690,120.684,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="120.684,319.690,137.364,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">h</text>
+<text font="ArialMT" bbox="137.364,319.690,154.044,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="154.044,319.690,162.384,349.690" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="162.264,319.690,170.604,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">I</text>
+<text font="ArialMT" bbox="170.604,319.690,187.284,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="187.284,319.690,195.624,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="195.504,319.690,212.184,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="212.184,319.690,222.174,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">r</text>
+<text font="ArialMT" bbox="222.174,319.690,238.854,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="238.854,319.690,255.534,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="255.534,319.690,263.874,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="263.874,319.690,272.214,349.690" colourspace="DeviceGray" ncolour="0" size="30.000">:</text>
+<text font="ArialMT" bbox="272.064,319.690,280.404,349.690" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="88.224,286.038,616.109,313.998">
+<textline bbox="88.224,286.038,616.109,313.998">
+<text font="ArialMT" bbox="88.224,286.038,103.770,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">h</text>
+<text font="ArialMT" bbox="103.770,286.038,111.543,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">t</text>
+<text font="ArialMT" bbox="111.543,286.038,119.316,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">t</text>
+<text font="ArialMT" bbox="119.399,286.038,134.945,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">p</text>
+<text font="ArialMT" bbox="134.945,286.038,148.925,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">s</text>
+<text font="ArialMT" bbox="149.009,286.038,156.782,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">:</text>
+<text font="ArialMT" bbox="156.782,286.038,164.555,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">/</text>
+<text font="ArialMT" bbox="164.555,286.038,172.328,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">/</text>
+<text font="ArialMT" bbox="172.328,286.038,192.515,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">w</text>
+<text font="ArialMT" bbox="192.515,286.038,212.702,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">w</text>
+<text font="ArialMT" bbox="212.702,286.038,232.889,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">w</text>
+<text font="ArialMT" bbox="231.323,286.038,239.096,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">.</text>
+<text font="ArialMT" bbox="239.096,286.038,246.869,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">f</text>
+<text font="ArialMT" bbox="246.869,286.038,260.849,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">s</text>
+<text font="ArialMT" bbox="260.933,286.038,276.479,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">a</text>
+<text font="ArialMT" bbox="276.479,286.038,284.252,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">f</text>
+<text font="ArialMT" bbox="284.252,286.038,299.797,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">e</text>
+<text font="ArialMT" bbox="299.909,286.038,315.455,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">d</text>
+<text font="ArialMT" bbox="315.455,286.038,329.435,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">s</text>
+<text font="ArialMT" bbox="329.519,286.038,337.292,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">.</text>
+<text font="ArialMT" bbox="337.292,286.038,351.272,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">c</text>
+<text font="ArialMT" bbox="351.328,286.038,366.873,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">o</text>
+<text font="ArialMT" bbox="366.873,286.038,390.164,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">m</text>
+<text font="ArialMT" bbox="390.164,286.038,397.937,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">/</text>
+<text font="ArialMT" bbox="397.937,286.038,405.710,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">f</text>
+<text font="ArialMT" bbox="405.766,286.038,419.746,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">s</text>
+<text font="ArialMT" bbox="419.746,286.038,435.291,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">a</text>
+<text font="ArialMT" bbox="435.375,286.038,443.148,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">f</text>
+<text font="ArialMT" bbox="443.148,286.038,458.694,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">e</text>
+<text font="ArialMT" bbox="458.694,286.038,474.240,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">d</text>
+<text font="ArialMT" bbox="474.352,286.038,488.332,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">s</text>
+<text font="ArialMT" bbox="488.332,286.038,496.104,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">/</text>
+<text font="ArialMT" bbox="496.160,286.038,502.368,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">i</text>
+<text font="ArialMT" bbox="502.368,286.038,517.913,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">n</text>
+<text font="ArialMT" bbox="517.969,286.038,533.515,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">d</text>
+<text font="ArialMT" bbox="533.515,286.038,549.061,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">e</text>
+<text font="ArialMT" bbox="549.145,286.038,563.125,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">x</text>
+<text font="ArialMT" bbox="563.125,286.038,570.897,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">.</text>
+<text font="ArialMT" bbox="570.953,286.038,586.499,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">a</text>
+<text font="ArialMT" bbox="586.499,286.038,600.479,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">s</text>
+<text font="ArialMT" bbox="600.563,286.038,616.109,313.998" colourspace="DeviceGray" ncolour="(0.6, 0.4, 0)" size="27.960">p</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="61.224,199.670,137.814,229.670">
+<textline bbox="61.224,199.670,137.814,229.670">
+<text font="ArialMT" bbox="61.224,199.670,82.884,229.670" colourspace="DeviceGray" ncolour="0" size="30.000">C</text>
+<text font="ArialMT" bbox="82.884,199.670,99.564,229.670" colourspace="DeviceGray" ncolour="0" size="30.000">a</text>
+<text font="ArialMT" bbox="99.564,199.670,106.224,229.670" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="106.314,199.670,112.974,229.670" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="112.974,199.670,121.314,229.670" colourspace="DeviceGray" ncolour="0" size="30.000">:</text>
+<text font="ArialMT" bbox="121.314,199.670,129.654,229.670" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="129.474,199.670,137.814,229.670" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="258.050,118.973,475.635,187.258">
+<textline bbox="258.050,159.298,475.635,187.258">
+<text font="ArialMT" bbox="258.050,159.298,273.596,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">1</text>
+<text font="ArialMT" bbox="273.650,159.298,282.961,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">-</text>
+<text font="ArialMT" bbox="283.010,159.298,298.556,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">8</text>
+<text font="ArialMT" bbox="298.610,159.298,314.156,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">7</text>
+<text font="ArialMT" bbox="314.210,159.298,329.756,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">7</text>
+<text font="ArialMT" bbox="329.830,159.298,339.141,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">-</text>
+<text font="ArialMT" bbox="339.190,159.298,356.274,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">F</text>
+<text font="ArialMT" bbox="356.274,159.298,374.923,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">S</text>
+<text font="ArialMT" bbox="374.839,159.298,393.488,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">A</text>
+<text font="ArialMT" bbox="393.488,159.298,410.572,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">F</text>
+<text font="ArialMT" bbox="410.488,159.298,429.137,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">E</text>
+<text font="ArialMT" bbox="429.137,159.298,449.324,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">D</text>
+<text font="ArialMT" bbox="449.324,159.298,467.974,187.258" colourspace="DeviceGray" ncolour="0" size="27.960">S</text>
+<text font="ArialMT" bbox="467.862,159.298,475.635,187.258" colourspace="DeviceGray" ncolour="0" size="27.960"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="267.050,118.973,474.530,146.957">
+<text font="ArialMT" bbox="267.050,118.973,282.609,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">1</text>
+<text font="ArialMT" bbox="282.650,118.973,291.969,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">-</text>
+<text font="ArialMT" bbox="292.010,118.973,307.569,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">8</text>
+<text font="ArialMT" bbox="307.610,118.973,323.169,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">7</text>
+<text font="ArialMT" bbox="323.210,118.973,338.769,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">7</text>
+<text font="ArialMT" bbox="338.830,118.973,348.149,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">-</text>
+<text font="ArialMT" bbox="348.190,118.973,363.749,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">3</text>
+<text font="ArialMT" bbox="363.790,118.973,379.349,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">7</text>
+<text font="ArialMT" bbox="379.390,118.973,394.949,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">2</text>
+<text font="ArialMT" bbox="394.990,118.973,404.309,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">-</text>
+<text font="ArialMT" bbox="404.350,118.973,419.909,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">3</text>
+<text font="ArialMT" bbox="419.950,118.973,435.509,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">3</text>
+<text font="ArialMT" bbox="435.550,118.973,451.109,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">3</text>
+<text font="ArialMT" bbox="451.150,118.973,466.709,146.957" colourspace="DeviceGray" ncolour="0" size="27.984">7</text>
+<text font="ArialMT" bbox="466.750,118.973,474.530,146.957" colourspace="DeviceGray" ncolour="0" size="27.984"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<rect linewidth="0" bbox="0.000,0.000,720.000,540.000" />
+<curve linewidth="1" bbox="30.060,473.940,678.060,521.940" pts="30.060,473.940,30.060,521.940,678.060,521.940"/>
+<line linewidth="1" bbox="36.060,53.940,684.060,53.940" />
+<curve linewidth="1" bbox="88.200,286.920,616.560,288.960" pts="88.200,288.960,220.290,288.960,352.380,288.960,484.470,288.960,616.560,288.960,616.560,286.920,484.470,286.920,352.380,286.920,220.290,286.920,88.200,286.920"/>
+<layout>
+<textgroup bbox="61.224,118.973,643.800,506.824">
+<textgroup bbox="61.224,286.038,643.800,506.824">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824" />
+<textgroup bbox="61.224,286.038,616.109,392.939">
+<textbox id="1" bbox="61.224,319.690,551.126,392.939" />
+<textbox id="2" bbox="88.224,286.038,616.109,313.998" />
+</textgroup>
+</textgroup>
+<textgroup bbox="61.224,118.973,475.635,229.670">
+<textbox id="3" bbox="61.224,199.670,137.814,229.670" />
+<textbox id="4" bbox="258.050,118.973,475.635,187.258" />
+</textgroup>
+</textgroup>
+</layout>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824">
+<textline bbox="86.712,464.824,643.800,506.824">
+<text font="BCDEEE+Garamond" bbox="86.712,464.824,110.358,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="110.358,464.824,119.976,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="119.976,464.824,137.490,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="137.490,464.824,156.726,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">x</text>
+<text font="BCDEEE+Garamond" bbox="156.726,464.824,166.344,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="166.344,464.824,187.764,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">b</text>
+<text font="BCDEEE+Garamond" bbox="187.764,464.824,197.382,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="197.382,464.824,214.896,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="214.896,464.824,225.396,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="225.396,464.824,245.514,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="245.514,464.824,266.934,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">p</text>
+<text font="BCDEEE+Garamond" bbox="266.934,464.824,284.448,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="284.448,464.824,305.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="305.868,464.824,326.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">d</text>
+<text font="BCDEEE+Garamond" bbox="326.868,464.824,336.486,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="336.486,464.824,357.906,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="357.906,464.824,376.722,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">g</text>
+<text font="BCDEEE+Garamond" bbox="376.848,464.824,387.348,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="386.928,464.824,415.362,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="415.362,464.824,432.876,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="432.876,464.824,450.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="450.390,464.824,471.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">o</text>
+<text font="BCDEEE+Garamond" bbox="471.810,464.824,492.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">u</text>
+<text font="BCDEEE+Garamond" bbox="492.390,464.824,513.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="513.810,464.824,526.074,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">t</text>
+<text font="BCDEEE+Garamond" bbox="526.074,464.824,536.574,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="536.574,464.824,548.838,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">(</text>
+<text font="BCDEEE+Garamond" bbox="548.838,464.824,572.484,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="572.484,464.824,592.602,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="592.602,464.824,621.036,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="621.036,464.824,633.300,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">)</text>
+<text font="BCDEEE+Garamond" bbox="633.300,464.824,643.800,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="107.110,414.418,613.028,456.442">
+<text font="BCDEEE+Garamond" bbox="107.110,414.418,130.770,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">P</text>
+<text font="BCDEEE+Garamond" bbox="130.770,414.418,144.764,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="144.764,414.418,166.196,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">o</text>
+<text font="BCDEEE+Garamond" bbox="166.196,414.418,185.022,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">g</text>
+<text font="BCDEEE+Garamond" bbox="186.157,414.418,200.151,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="200.151,414.418,217.213,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">a</text>
+<text font="BCDEEE+Garamond" bbox="217.213,414.418,249.613,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">m</text>
+<text font="BCDEEE+Garamond" bbox="249.613,414.418,260.119,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024"> </text>
+<text font="BCDGEE+Garamond" bbox="259.900,414.418,280.912,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">–</text>
+<text> </text>
+<text font="BCDEEE+Garamond" bbox="291.460,414.418,318.145,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">C</text>
+<text font="BCDEEE+Garamond" bbox="318.145,414.418,339.577,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">o</text>
+<text font="BCDEEE+Garamond" bbox="339.577,414.418,371.978,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">m</text>
+<text font="BCDEEE+Garamond" bbox="371.978,414.418,404.378,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">m</text>
+<text font="BCDEEE+Garamond" bbox="404.378,414.418,425.811,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">o</text>
+<text font="BCDEEE+Garamond" bbox="425.937,414.418,447.369,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">n</text>
+<text font="BCDEEE+Garamond" bbox="447.369,414.418,457.875,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024"> </text>
+<text font="BCDEEE+Garamond" bbox="457.539,414.418,481.198,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">P</text>
+<text font="BCDEEE+Garamond" bbox="481.198,414.418,495.192,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="495.192,414.418,516.625,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">o</text>
+<text font="BCDEEE+Garamond" bbox="516.709,414.418,538.141,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">b</text>
+<text font="BCDEEE+Garamond" bbox="538.141,414.418,547.764,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">l</text>
+<text font="BCDEEE+Garamond" bbox="547.764,414.418,565.288,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">e</text>
+<text font="BCDEEE+Garamond" bbox="565.288,414.418,597.689,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">m</text>
+<text font="BCDEEE+Garamond" bbox="597.689,414.418,613.028,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">s</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="43.200,331.690,597.234,361.690">
+<textline bbox="43.200,331.690,597.234,361.690">
+<text font="BCDFEE+Wingdings-Regular" bbox="43.200,333.980,57.811,353.540" colourspace="DeviceGray" ncolour="(0.8, 0.6, 0)" size="19.560">◼</text>
+<text> </text>
+<text font="ArialMT" bbox="70.224,331.690,88.554,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">T</text>
+<text font="ArialMT" bbox="87.504,331.690,97.494,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">r</text>
+<text font="ArialMT" bbox="97.494,331.690,112.494,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">y</text>
+<text font="ArialMT" bbox="112.494,331.690,119.154,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="119.154,331.690,135.834,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="135.834,331.690,152.514,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">g</text>
+<text font="ArialMT" bbox="152.514,331.690,160.854,361.690" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="160.704,331.690,169.044,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="169.044,331.690,185.724,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="185.724,331.690,194.064,361.690" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="194.064,331.690,210.744,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="210.744,331.690,227.424,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="227.424,331.690,237.414,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">r</text>
+<text font="ArialMT" bbox="237.414,331.690,254.094,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="254.094,331.690,260.754,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="260.754,331.690,267.414,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="267.414,331.690,275.754,361.690" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="275.664,331.690,292.344,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="292.344,331.690,309.024,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">u</text>
+<text font="ArialMT" bbox="309.024,331.690,317.364,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="317.364,331.690,332.364,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">s</text>
+<text font="ArialMT" bbox="332.364,331.690,339.024,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="339.024,331.690,355.704,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">d</text>
+<text font="ArialMT" bbox="355.704,331.690,372.384,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="372.384,331.690,380.724,361.690" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="380.544,331.690,397.224,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="397.224,331.690,405.564,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">f</text>
+<text font="ArialMT" bbox="405.564,331.690,413.904,361.690" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="413.904,331.690,437.244,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">O</text>
+<text font="ArialMT" bbox="437.244,331.690,453.924,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">p</text>
+<text font="ArialMT" bbox="453.924,331.690,470.604,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="470.604,331.690,487.284,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="487.284,331.690,495.624,361.690" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="495.504,331.690,515.514,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">S</text>
+<text font="ArialMT" bbox="515.514,331.690,532.194,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="532.194,331.690,548.874,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">a</text>
+<text font="ArialMT" bbox="548.874,331.690,563.874,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">s</text>
+<text font="ArialMT" bbox="563.874,331.690,580.554,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="580.554,331.690,597.234,361.690" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="43.200,245.285,452.159,275.309">
+<textline bbox="43.200,245.285,452.159,275.309">
+<text font="BCDFEE+Wingdings-Regular" bbox="43.200,247.575,57.829,267.159" colourspace="DeviceGray" ncolour="(0.8, 0.6, 0)" size="19.584">◼</text>
+<text> </text>
+<text font="ArialMT" bbox="70.224,245.285,88.569,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">T</text>
+<text font="ArialMT" bbox="87.518,245.285,97.516,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="97.516,245.285,112.528,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">y</text>
+<text font="ArialMT" bbox="112.528,245.285,119.193,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">i</text>
+<text font="ArialMT" bbox="119.193,245.285,135.886,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">n</text>
+<text font="ArialMT" bbox="135.886,245.285,152.580,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">g</text>
+<text font="ArialMT" bbox="152.580,245.285,160.927,275.309" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="160.716,245.285,169.063,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">t</text>
+<text font="ArialMT" bbox="169.063,245.285,185.756,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="185.756,245.285,194.103,275.309" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="194.103,245.285,210.796,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">e</text>
+<text font="ArialMT" bbox="210.796,245.285,227.490,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">n</text>
+<text font="ArialMT" bbox="227.490,245.285,237.488,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="237.398,245.285,254.091,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="254.091,245.285,260.756,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">l</text>
+<text font="ArialMT" bbox="260.756,245.285,267.422,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">l</text>
+<text font="ArialMT" bbox="267.482,245.285,275.828,275.309" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="275.648,245.285,283.995,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">t</text>
+<text font="ArialMT" bbox="283.995,245.285,300.688,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">h</text>
+<text font="ArialMT" bbox="300.688,245.285,310.686,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">r</text>
+<text font="ArialMT" bbox="310.566,245.285,327.259,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">o</text>
+<text font="ArialMT" bbox="327.259,245.285,343.953,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">u</text>
+<text font="ArialMT" bbox="343.953,245.285,360.646,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">g</text>
+<text font="ArialMT" bbox="360.646,245.285,377.339,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">h</text>
+<text font="ArialMT" bbox="377.339,245.285,385.686,275.309" colourspace="DeviceGray" ncolour="0" size="30.024"> </text>
+<text font="ArialMT" bbox="385.446,245.285,407.123,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">H</text>
+<text font="ArialMT" bbox="407.123,245.285,428.801,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">R</text>
+<text font="ArialMT" bbox="428.801,245.285,452.159,275.309" colourspace="DeviceGray" ncolour="0" size="30.024">O</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="43.200,158.870,564.834,188.870">
+<textline bbox="43.200,158.870,564.834,188.870">
+<text font="BCDFEE+Wingdings-Regular" bbox="43.200,161.160,57.811,180.720" colourspace="DeviceGray" ncolour="(0.8, 0.6, 0)" size="19.560">◼</text>
+<text> </text>
+<text font="ArialMT" bbox="70.224,158.870,91.884,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">N</text>
+<text font="ArialMT" bbox="91.884,158.870,108.564,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="108.564,158.870,116.904,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="116.904,158.870,125.244,188.870" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="125.244,158.870,141.924,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">u</text>
+<text font="ArialMT" bbox="141.924,158.870,156.924,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">s</text>
+<text font="ArialMT" bbox="156.924,158.870,163.584,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">i</text>
+<text font="ArialMT" bbox="163.584,158.870,180.264,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="180.264,158.870,196.944,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">g</text>
+<text font="ArialMT" bbox="196.944,158.870,205.284,188.870" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="205.104,158.870,221.784,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">a</text>
+<text font="ArialMT" bbox="221.784,158.870,228.444,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="228.444,158.870,235.104,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">l</text>
+<text font="ArialMT" bbox="235.194,158.870,243.534,188.870" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="243.354,158.870,251.694,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">t</text>
+<text font="ArialMT" bbox="251.694,158.870,268.374,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">h</text>
+<text font="ArialMT" bbox="268.374,158.870,285.054,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="285.054,158.870,293.394,188.870" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="293.274,158.870,318.264,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">m</text>
+<text font="ArialMT" bbox="318.264,158.870,334.944,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">o</text>
+<text font="ArialMT" bbox="334.944,158.870,351.624,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">n</text>
+<text font="ArialMT" bbox="351.624,158.870,368.304,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">e</text>
+<text font="ArialMT" bbox="368.304,158.870,383.304,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">y</text>
+<text font="ArialMT" bbox="383.304,158.870,391.644,188.870" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="391.644,158.870,408.324,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">b</text>
+<text font="ArialMT" bbox="408.324,158.870,423.324,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">y</text>
+<text font="ArialMT" bbox="423.234,158.870,431.574,188.870" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="431.574,158.870,448.254,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">1</text>
+<text font="ArialMT" bbox="448.254,158.870,464.934,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">5</text>
+<text font="ArialMT" bbox="464.934,158.870,473.274,188.870" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text font="ArialMT" bbox="473.154,158.870,498.144,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">M</text>
+<text font="ArialMT" bbox="498.144,158.870,514.824,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">a</text>
+<text font="ArialMT" bbox="514.824,158.870,524.814,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">r</text>
+<text font="ArialMT" bbox="524.814,158.870,539.814,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">c</text>
+<text font="ArialMT" bbox="539.814,158.870,556.494,188.870" colourspace="DeviceGray" ncolour="0" size="30.000">h</text>
+<text font="ArialMT" bbox="556.494,158.870,564.834,188.870" colourspace="DeviceGray" ncolour="0" size="30.000"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<rect linewidth="0" bbox="0.000,0.000,720.000,540.000" />
+<curve linewidth="1" bbox="30.060,473.940,678.060,521.940" pts="30.060,473.940,30.060,521.940,678.060,521.940"/>
+<line linewidth="1" bbox="36.060,53.940,684.060,53.940" />
+<layout>
+<textgroup bbox="43.200,158.870,643.800,506.824">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824" />
+<textgroup bbox="43.200,158.870,597.234,361.690">
+<textbox id="1" bbox="43.200,331.690,597.234,361.690" />
+<textgroup bbox="43.200,158.870,564.834,275.309">
+<textbox id="2" bbox="43.200,245.285,452.159,275.309" />
+<textbox id="3" bbox="43.200,158.870,564.834,188.870" />
+</textgroup>
+</textgroup>
+</textgroup>
+</layout>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824">
+<textline bbox="86.712,464.824,643.800,506.824">
+<text font="BCDEEE+Garamond" bbox="86.712,464.824,110.358,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="110.358,464.824,119.976,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="119.976,464.824,137.490,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="137.490,464.824,156.726,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">x</text>
+<text font="BCDEEE+Garamond" bbox="156.726,464.824,166.344,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="166.344,464.824,187.764,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">b</text>
+<text font="BCDEEE+Garamond" bbox="187.764,464.824,197.382,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">l</text>
+<text font="BCDEEE+Garamond" bbox="197.382,464.824,214.896,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="214.896,464.824,225.396,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="225.396,464.824,245.514,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="245.514,464.824,266.934,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">p</text>
+<text font="BCDEEE+Garamond" bbox="266.934,464.824,284.448,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">e</text>
+<text font="BCDEEE+Garamond" bbox="284.448,464.824,305.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="305.868,464.824,326.868,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">d</text>
+<text font="BCDEEE+Garamond" bbox="326.868,464.824,336.486,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">i</text>
+<text font="BCDEEE+Garamond" bbox="336.486,464.824,357.906,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="357.906,464.824,376.722,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">g</text>
+<text font="BCDEEE+Garamond" bbox="376.848,464.824,387.348,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="386.928,464.824,415.362,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="415.362,464.824,432.876,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="432.876,464.824,450.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">c</text>
+<text font="BCDEEE+Garamond" bbox="450.390,464.824,471.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">o</text>
+<text font="BCDEEE+Garamond" bbox="471.810,464.824,492.390,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">u</text>
+<text font="BCDEEE+Garamond" bbox="492.390,464.824,513.810,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">n</text>
+<text font="BCDEEE+Garamond" bbox="513.810,464.824,526.074,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">t</text>
+<text font="BCDEEE+Garamond" bbox="526.074,464.824,536.574,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text font="BCDEEE+Garamond" bbox="536.574,464.824,548.838,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">(</text>
+<text font="BCDEEE+Garamond" bbox="548.838,464.824,572.484,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">F</text>
+<text font="BCDEEE+Garamond" bbox="572.484,464.824,592.602,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">S</text>
+<text font="BCDEEE+Garamond" bbox="592.602,464.824,621.036,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">A</text>
+<text font="BCDEEE+Garamond" bbox="621.036,464.824,633.300,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000">)</text>
+<text font="BCDEEE+Garamond" bbox="633.300,464.824,643.800,506.824" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.000"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="288.700,414.418,431.245,456.442">
+<text font="BCDEEE+Garamond" bbox="288.700,414.418,312.360,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">P</text>
+<text font="BCDEEE+Garamond" bbox="312.360,414.418,326.354,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="326.354,414.418,347.786,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">o</text>
+<text font="BCDEEE+Garamond" bbox="347.870,414.418,366.697,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">g</text>
+<text font="BCDEEE+Garamond" bbox="367.789,414.418,381.783,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">r</text>
+<text font="BCDEEE+Garamond" bbox="381.783,414.418,398.845,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">a</text>
+<text font="BCDEEE+Garamond" bbox="398.845,414.418,431.245,456.442" colourspace="DeviceGray" ncolour="(0, 0.4, 0.2)" size="42.024">m</text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="274.850,252.310,456.938,288.310">
+<textline bbox="274.850,252.310,456.938,288.310">
+<text font="ArialMT" bbox="274.850,252.310,302.858,288.310" colourspace="DeviceGray" ncolour="0" size="36.000">Q</text>
+<text font="ArialMT" bbox="302.858,252.310,322.874,288.310" colourspace="DeviceGray" ncolour="0" size="36.000">u</text>
+<text font="ArialMT" bbox="322.874,252.310,342.890,288.310" colourspace="DeviceGray" ncolour="0" size="36.000">e</text>
+<text font="ArialMT" bbox="342.890,252.310,360.890,288.310" colourspace="DeviceGray" ncolour="0" size="36.000">s</text>
+<text font="ArialMT" bbox="360.890,252.310,370.898,288.310" colourspace="DeviceGray" ncolour="0" size="36.000">t</text>
+<text font="ArialMT" bbox="370.898,252.310,378.890,288.310" colourspace="DeviceGray" ncolour="0" size="36.000">i</text>
+<text font="ArialMT" bbox="378.890,252.310,398.906,288.310" colourspace="DeviceGray" ncolour="0" size="36.000">o</text>
+<text font="ArialMT" bbox="398.906,252.310,418.922,288.310" colourspace="DeviceGray" ncolour="0" size="36.000">n</text>
+<text font="ArialMT" bbox="418.922,252.310,436.922,288.310" colourspace="DeviceGray" ncolour="0" size="36.000">s</text>
+<text font="ArialMT" bbox="436.922,252.310,456.938,288.310" colourspace="DeviceGray" ncolour="0" size="36.000">?</text>
+<text>
+</text>
+</textline>
+</textbox>
+<rect linewidth="0" bbox="0.000,0.000,720.000,540.000" />
+<curve linewidth="1" bbox="30.060,473.940,678.060,521.940" pts="30.060,473.940,30.060,521.940,678.060,521.940"/>
+<line linewidth="1" bbox="36.060,53.940,684.060,53.940" />
+<layout>
+<textgroup bbox="86.712,252.310,643.800,506.824">
+<textbox id="0" bbox="86.712,414.418,643.800,506.824" />
+<textbox id="1" bbox="274.850,252.310,456.938,288.310" />
+</textgroup>
+</layout>
+</page>
+</pages>
