@@ -1,0 +1,431 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="126.190,360.282,572.764,430.722" size="32.04" unique_id="0">Ion Source Test Stand Vacuum  
+Control System <textline bbox="126.190,398.682,572.764,430.722" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Ion Source Test Stand Vacuum  </textline>
+<textline bbox="235.660,360.282,454.397,392.322" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Control System </textline>
+</title>
+<normal_text id="1" bbox="280.180,249.905,415.820,273.929" size="24.024" unique_id="1">Johnny Tang <textline bbox="280.180,249.905,415.820,273.929" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Johnny Tang </textline>
+</normal_text>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[76.032, 465.572, 643.941, 497.612]">
+<title id="0" bbox="76.032,465.572,643.941,497.612" size="32.04" unique_id="0">Hot Spare Stand Vacuum Requirements <textline bbox="76.032,465.572,643.941,497.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Hot Spare Stand Vacuum Requirements </textline>
+</title>
+<picture name="Image11" bbox="408.000,42.240,684.240,222.000" src="Image11.jpg" width="276" height="179" unique_id="7">
+</picture>
+<enlisting bbox="43.2,126.413,673.246,431.08" unique_id="['1', ' 2', ' 3', ' 5', ' 6', '4']">&#8226; &#8226; 
+&#8226; &#8226; &#8226; Estimated pump down time : &lt; 20 Minutes 
+&#8226; (Control System Requirements) 
+&#8211; Keep the Same Functionality as in Front End 
+&#8211; Upgrade PLC5 to ControlLogix 
+&#8211; Upgrade RIO to EtherNet/IP 
+&#8211; Use R3.14 EPICS Base Release <normal_text id="1" bbox="43.200,413.080,49.500,431.080" size="18.0" unique_id="1">&#8226; <textline bbox="43.200,413.080,49.500,431.080" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,339.610,49.508,383.579" size="18.012" unique_id="2">&#8226; 
+&#8226; <textline bbox="43.200,365.555,49.508,383.579" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,339.610,49.500,357.610" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,292.090,49.500,310.090" size="18.0" unique_id="3">&#8226; <textline bbox="43.200,292.090,49.500,310.090" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="5" bbox="43.200,218.630,405.651,262.589" size="18.012" unique_id="5">&#8226; Estimated pump down time : &lt; 20 Minutes 
+&#8226; <textline bbox="43.200,244.565,405.651,262.589" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8226; Estimated pump down time : &lt; 20 Minutes </textline>
+<textline bbox="43.200,218.630,49.500,236.630" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="6" bbox="70.224,126.413,418.969,236.630" size="16.372799999999998" unique_id="6">(Control System Requirements) 
+&#8211; Keep the Same Functionality as in Front End 
+&#8211; Upgrade PLC5 to ControlLogix 
+&#8211; Upgrade RIO to EtherNet/IP 
+&#8211; Use R3.14 EPICS Base Release <textline bbox="70.224,218.630,321.918,236.630" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">(Control System Requirements) </textline>
+<textline bbox="79.224,195.538,418.969,211.498" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8211; Keep the Same Functionality as in Front End </textline>
+<textline bbox="79.224,172.498,319.427,188.458" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8211; Upgrade PLC5 to ControlLogix </textline>
+<textline bbox="79.224,149.458,300.881,165.418" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8211; Upgrade RIO to EtherNet/IP </textline>
+<textline bbox="79.224,126.413,333.676,142.397" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">&#8211; Use R3.14 EPICS Base Release </textline>
+</normal_text>
+<normal_text id="4" bbox="70.224,270.490,673.246,431.080" size="18.00342857142857" unique_id="4">(Purpose) To maintain a suitable pressure in the LEBT for conditioning and  
+measuring the performance of the hot-spare ion source 
+(Vacuum Requirements) Hydrogen gas load is 0.1-0.4 Torr l/s 
+(Vacuum Requirements) To limit the charge-exchange to 10%, required 3  
+pump speed 1500 l/s in LEBT (not least) 
+(Vacuum Requirements) LEBT vacuum pressure 10-6 Torr with no Gas and  
+10-4 Torr with H2 Gas <textline bbox="70.224,413.080,668.490,431.080" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">(Purpose) To maintain a suitable pressure in the LEBT for conditioning and  </textline>
+<textline bbox="70.224,391.480,509.182,409.480" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">measuring the performance of the hot-spare ion source </textline>
+<textline bbox="70.224,365.555,557.665,383.579" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">(Vacuum Requirements) Hydrogen gas load is 0.1-0.4 Torr l/s </textline>
+<textline bbox="70.224,339.610,655.618,357.610" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">(Vacuum Requirements) To limit the charge-exchange to 10%, required 3  </textline>
+<textline bbox="70.224,318.010,390.804,336.010" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">pump speed 1500 l/s in LEBT (not least) </textline>
+<textline bbox="70.224,292.090,673.246,310.090" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">(Vacuum Requirements) LEBT vacuum pressure 10-6 Torr with no Gas and  </textline>
+<textline bbox="70.224,270.490,244.914,288.490" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">10-4 Torr with H2 Gas </textline>
+</normal_text>
+</enlisting></page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[87.072, 458.35200000000003, 632.959, 490.392]">
+<title id="0" bbox="92.592,454.742,627.468,486.782" size="32.04" unique_id="0">Controlled and Controlling Device List <textline bbox="92.592,454.742,627.468,486.782" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Controlled and Controlling Device List </textline>
+</title>
+<picture name="Image19" bbox="504.000,307.680,645.720,414.000" src="Image19.jpg" width="141" height="106" unique_id="8">
+</picture>
+<picture name="Image20" bbox="360.000,270.000,481.800,414.000" src="Image20.jpg" width="121" height="144" unique_id="9">
+</picture>
+<picture name="Image21" bbox="462.000,107.760,648.000,228.000" src="Image21.jpg" width="186" height="120" unique_id="10">
+</picture>
+<enlisting bbox="43.2,95.956,383.288,425.912" unique_id="['1', ' 2', ' 3', ' 4', ' 5', '  6', '7']">&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; &#8226; 
+&#8226; 
+&#8226; 
+&#8226; &#8226; &#8226; 5 Convectron Gauges (CG) 
+4 Ion Gauges (IG) 
+3 Turbo Pumps (TMP) 
+4 Rough Pumps (RP) 
+3 Gate Valves (GV) 
+4 Rough Valves (RV) 
+1 Vent Valve (VV) 2 AB-Flex IO Boxes (FEE20 &amp; FER08-26) 
+1 ControlLogix PLC 
+1 EtherNet/IP Module 
+1 VME IOC <normal_text id="1" bbox="43.200,290.882,48.122,425.912" size="14.043428571428567" unique_id="1">&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; <textline bbox="43.200,411.872,48.114,425.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,391.712,48.114,405.752" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,371.547,48.122,385.611" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,351.362,48.114,365.402" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,331.202,48.114,345.242" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,311.042,48.114,325.082" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,290.882,48.114,304.922" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,190.062,48.122,264.621" size="14.046" unique_id="2">&#8226; 
+&#8226; 
+&#8226; 
+&#8226; <textline bbox="43.200,250.557,48.122,264.621" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,230.382,48.114,244.422" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,210.222,48.114,224.262" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="43.200,190.062,48.114,204.102" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="3" bbox="43.200,149.742,48.114,163.782" size="14.04" unique_id="3">&#8226; <textline bbox="43.200,149.742,48.114,163.782" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="4" bbox="43.200,112.752,48.114,126.792" size="14.04" unique_id="4">&#8226; <textline bbox="43.200,112.752,48.114,126.792" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text bbox="70.224,190.062,329.093,425.912" unique_id="['5', '6']">5 Convectron Gauges (CG) 
+4 Ion Gauges (IG) 
+3 Turbo Pumps (TMP) 
+4 Rough Pumps (RP) 
+3 Gate Valves (GV) 
+4 Rough Valves (RV) 
+1 Vent Valve (VV) 2 AB-Flex IO Boxes (FEE20 &amp; FER08-26) 
+1 ControlLogix PLC 
+1 EtherNet/IP Module 
+1 VME IOC <normal_text id="5" bbox="70.224,290.882,240.234,425.912" size="14.043428571428567" unique_id="5">5 Convectron Gauges (CG) 
+4 Ion Gauges (IG) 
+3 Turbo Pumps (TMP) 
+4 Rough Pumps (RP) 
+3 Gate Valves (GV) 
+4 Rough Valves (RV) 
+1 Vent Valve (VV) <textline bbox="70.224,411.872,240.234,425.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">5 Convectron Gauges (CG) </textline>
+<textline bbox="70.224,391.712,182.025,405.752" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4 Ion Gauges (IG) </textline>
+<textline bbox="70.224,371.547,207.686,385.611" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">3 Turbo Pumps (TMP) </textline>
+<textline bbox="70.224,351.362,203.042,365.402" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4 Rough Pumps (RP) </textline>
+<textline bbox="70.224,331.202,190.420,345.242" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">3 Gate Valves (GV) </textline>
+<textline bbox="70.224,311.042,200.178,325.082" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4 Rough Valves (RV) </textline>
+<textline bbox="70.224,290.882,179.624,304.922" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">1 Vent Valve (VV) </textline>
+</normal_text>
+<normal_text id="6" bbox="70.224,190.062,329.093,264.621" size="14.046" unique_id="6">2 AB-Flex IO Boxes (FEE20 &amp; FER08-26) 
+1 ControlLogix PLC 
+1 EtherNet/IP Module 
+1 VME IOC <textline bbox="70.224,250.557,329.093,264.621" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">2 AB-Flex IO Boxes (FEE20 &amp; FER08-26) </textline>
+<textline bbox="70.224,230.382,191.347,244.422" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">1 ControlLogix PLC </textline>
+<textline bbox="70.224,210.222,203.660,224.262" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">1 EtherNet/IP Module </textline>
+<textline bbox="70.224,190.062,141.070,204.102" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">1 VME IOC </textline>
+</normal_text>
+</normal_text><normal_text id="7" bbox="70.224,95.956,383.288,163.782" size="14.046" unique_id="7">FEE20: 2 IE8, 2 IB16, 1 IV16, 1 OB16 and 2 OW8  
+modules (76 IOs) 
+FER08-26: 1 IE8, 1 IB16, 1 OE4 and 3 OW8  
+modules (36 IOs) <textline bbox="70.224,149.742,383.288,163.782" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">FEE20: 2 IE8, 2 IB16, 1 IV16, 1 OB16 and 2 OW8  </textline>
+<textline bbox="70.224,132.937,177.490,147.001" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">modules (76 IOs) </textline>
+<textline bbox="70.224,112.752,348.365,126.792" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">FER08-26: 1 IE8, 1 IB16, 1 OE4 and 3 OW8  </textline>
+<textline bbox="70.224,95.956,177.462,109.996" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">modules (36 IOs) </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[149.786, 456.547, 570.2575, 488.587]">
+<title id="0" bbox="212.500,454.742,507.556,486.782" size="32.04" unique_id="0">Control Signal Name <textline bbox="212.500,454.742,507.556,486.782" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Control Signal Name </textline>
+</title>
+<normal_text id="1" bbox="103.220,411.872,183.136,425.912" size="14.04" unique_id="1">Device Type <textline bbox="103.220,411.872,183.136,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Device Type </textline>
+</normal_text>
+<normal_text id="2" bbox="233.740,411.872,283.652,425.912" size="14.04" unique_id="2">Signals <textline bbox="233.740,411.872,283.652,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Signals </textline>
+</normal_text>
+<normal_text id="3" bbox="494.780,411.872,571.565,425.912" size="14.04" unique_id="3">Signal Type <textline bbox="494.780,411.872,571.565,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Signal Type </textline>
+</normal_text>
+<normal_text id="4" bbox="103.220,387.872,133.589,401.912" size="14.04" unique_id="4">CVG <textline bbox="103.220,387.872,133.589,401.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">CVG </textline>
+</normal_text>
+<normal_text id="5" bbox="103.220,291.842,118.103,305.882" size="14.04" unique_id="5">IG <textline bbox="103.220,291.842,118.103,305.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">IG </textline>
+</normal_text>
+<normal_text id="6" bbox="233.740,387.872,267.211,401.912" size="14.04" unique_id="6">:Cmd <textline bbox="233.740,387.872,267.211,401.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Cmd </textline>
+</normal_text>
+<normal_text id="7" bbox="233.740,363.867,258.014,377.931" size="14.064" unique_id="7">:Sts <textline bbox="233.740,363.867,258.014,377.931" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">:Sts </textline>
+</normal_text>
+<normal_text id="8" bbox="233.740,339.842,247.065,353.882" size="14.04" unique_id="8">:P <textline bbox="233.740,339.842,247.065,353.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:P </textline>
+</normal_text>
+<normal_text id="9" bbox="233.740,315.842,265.709,329.882" size="14.04" unique_id="9">:Raw <textline bbox="233.740,315.842,265.709,329.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Raw </textline>
+</normal_text>
+<normal_text id="10" bbox="233.740,291.842,267.211,305.882" size="14.04" unique_id="10">:Cmd <textline bbox="233.740,291.842,267.211,305.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Cmd </textline>
+</normal_text>
+<normal_text id="11" bbox="233.740,267.842,258.015,281.882" size="14.04" unique_id="11">:Sts <textline bbox="233.740,267.842,258.015,281.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Sts </textline>
+</normal_text>
+<normal_text id="12" bbox="233.740,243.837,247.081,257.901" size="14.064" unique_id="12">:P <textline bbox="233.740,243.837,247.081,257.901" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">:P </textline>
+</normal_text>
+<normal_text id="13" bbox="233.740,219.822,265.709,233.862" size="14.04" unique_id="13">:Raw <textline bbox="233.740,219.822,265.709,233.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Raw </textline>
+</normal_text>
+<normal_text id="14" bbox="233.740,195.822,296.007,209.862" size="14.04" unique_id="14">:DG_Cmd <textline bbox="233.740,195.822,296.007,209.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:DG_Cmd </textline>
+</normal_text>
+<normal_text id="15" bbox="233.740,171.822,286.811,185.862" size="14.04" unique_id="15">:DG_Sts <textline bbox="233.740,171.822,286.811,185.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:DG_Sts </textline>
+</normal_text>
+<normal_text id="16" bbox="233.740,147.822,296.021,161.862" size="14.04" unique_id="16">:EM_Cmd <textline bbox="233.740,147.822,296.021,161.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:EM_Cmd </textline>
+</normal_text>
+<normal_text id="17" bbox="233.740,123.817,286.832,137.881" size="14.064" unique_id="17">:EM_Sts <textline bbox="233.740,123.817,286.832,137.881" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">:EM_Sts </textline>
+</normal_text>
+<normal_text id="18" bbox="364.270,411.872,410.321,425.912" size="14.04" unique_id="18">Details <textline bbox="364.270,411.872,410.321,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Details </textline>
+</normal_text>
+<normal_text id="19" bbox="364.270,387.872,405.477,401.912" size="14.04" unique_id="19">On/Off <textline bbox="364.270,387.872,405.477,401.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">On/Off </textline>
+</normal_text>
+<normal_text id="20" bbox="364.270,363.867,405.506,377.931" size="14.064" unique_id="20">On/Off <textline bbox="364.270,363.867,405.506,377.931" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">On/Off </textline>
+</normal_text>
+<normal_text id="21" bbox="364.270,339.842,372.848,353.882" size="14.04" unique_id="21">T <textline bbox="364.270,339.842,372.848,353.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">T </textline>
+</normal_text>
+<normal_text id="22" bbox="364.270,315.842,385.275,329.882" size="14.04" unique_id="22">mV <textline bbox="364.270,315.842,385.275,329.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">mV </textline>
+</normal_text>
+<normal_text id="23" bbox="364.270,291.842,405.477,305.882" size="14.04" unique_id="23">On/Off <textline bbox="364.270,291.842,405.477,305.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">On/Off </textline>
+</normal_text>
+<normal_text id="24" bbox="364.270,267.842,405.477,281.882" size="14.04" unique_id="24">On/Off <textline bbox="364.270,267.842,405.477,281.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">On/Off </textline>
+</normal_text>
+<normal_text id="25" bbox="364.270,243.837,372.863,257.901" size="14.064" unique_id="25">T <textline bbox="364.270,243.837,372.863,257.901" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">T </textline>
+</normal_text>
+<normal_text id="26" bbox="364.270,219.822,373.635,233.862" size="14.04" unique_id="26">V <textline bbox="364.270,219.822,373.635,233.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">V </textline>
+</normal_text>
+<normal_text id="27" bbox="364.270,195.822,422.634,209.862" size="14.04" unique_id="27">DGas/Off <textline bbox="364.270,195.822,422.634,209.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">DGas/Off </textline>
+</normal_text>
+<normal_text id="28" bbox="364.270,171.822,422.634,185.862" size="14.04" unique_id="28">DGas/Off <textline bbox="364.270,171.822,422.634,185.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">DGas/Off </textline>
+</normal_text>
+<normal_text id="29" bbox="364.270,147.822,400.971,161.862" size="14.04" unique_id="29">HI/LO <textline bbox="364.270,147.822,400.971,161.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">HI/LO </textline>
+</normal_text>
+<normal_text id="30" bbox="364.270,123.817,401.019,137.881" size="14.064" unique_id="30">HI/LO <textline bbox="364.270,123.817,401.019,137.881" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">HI/LO </textline>
+</normal_text>
+<normal_text id="31" bbox="494.780,387.872,510.386,401.912" size="14.04" unique_id="31">bo <textline bbox="494.780,387.872,510.386,401.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="32" bbox="494.780,363.867,505.702,377.931" size="14.064" unique_id="32">bi <textline bbox="494.780,363.867,505.702,377.931" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">bi </textline>
+</normal_text>
+<normal_text id="33" bbox="494.780,339.842,505.697,353.882" size="14.04" unique_id="33">ai <textline bbox="494.780,339.842,505.697,353.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ai </textline>
+</normal_text>
+<normal_text id="34" bbox="494.780,315.842,505.697,329.882" size="14.04" unique_id="34">ai <textline bbox="494.780,315.842,505.697,329.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ai </textline>
+</normal_text>
+<normal_text id="35" bbox="494.780,267.842,505.697,281.882" size="14.04" unique_id="35">bi <textline bbox="494.780,267.842,505.697,281.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bi </textline>
+</normal_text>
+<normal_text id="36" bbox="494.780,243.837,505.702,257.901" size="14.064" unique_id="36">ai <textline bbox="494.780,243.837,505.702,257.901" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">ai </textline>
+</normal_text>
+<normal_text id="37" bbox="494.780,219.822,505.697,233.862" size="14.04" unique_id="37">ai <textline bbox="494.780,219.822,505.697,233.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ai </textline>
+</normal_text>
+<normal_text id="38" bbox="494.780,291.842,510.386,305.882" size="14.04" unique_id="38">bo <textline bbox="494.780,291.842,510.386,305.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="39" bbox="494.780,195.822,510.386,209.862" size="14.04" unique_id="39">bo <textline bbox="494.780,195.822,510.386,209.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="40" bbox="494.780,171.822,505.697,185.862" size="14.04" unique_id="40">bi <textline bbox="494.780,171.822,505.697,185.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bi </textline>
+</normal_text>
+<normal_text id="41" bbox="494.780,147.822,510.386,161.862" size="14.04" unique_id="41">bo <textline bbox="494.780,147.822,510.386,161.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="42" bbox="494.780,123.817,505.702,137.881" size="14.064" unique_id="42">bi <textline bbox="494.780,123.817,505.702,137.881" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">bi </textline>
+</normal_text>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[174.8716, 455.825, 545.1769, 487.86499999999995]">
+<title id="0" bbox="212.500,454.742,507.556,486.782" size="32.04" unique_id="0">Control Signal Name <textline bbox="212.500,454.742,507.556,486.782" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Control Signal Name </textline>
+</title>
+<normal_text id="1" bbox="103.220,411.872,183.136,425.912" size="14.04" unique_id="1">Device Type <textline bbox="103.220,411.872,183.136,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Device Type </textline>
+</normal_text>
+<normal_text id="2" bbox="233.740,411.872,283.652,425.912" size="14.04" unique_id="2">Signals <textline bbox="233.740,411.872,283.652,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Signals </textline>
+</normal_text>
+<normal_text id="3" bbox="494.780,411.872,571.565,425.912" size="14.04" unique_id="3">Signal Type <textline bbox="494.780,411.872,571.565,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Signal Type </textline>
+</normal_text>
+<normal_text id="4" bbox="103.220,387.872,132.742,401.912" size="14.04" unique_id="4">TMP <textline bbox="103.220,387.872,132.742,401.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">TMP </textline>
+</normal_text>
+<normal_text id="5" bbox="233.740,339.842,303.112,353.882" size="14.04" unique_id="5">:Cmd_Stby <textline bbox="233.740,339.842,303.112,353.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Cmd_Stby </textline>
+</normal_text>
+<normal_text id="6" bbox="233.740,387.872,267.211,401.912" size="14.04" unique_id="6">:Cmd <textline bbox="233.740,387.872,267.211,401.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Cmd </textline>
+</normal_text>
+<normal_text id="7" bbox="233.740,363.867,258.014,377.931" size="14.064" unique_id="7">:Sts <textline bbox="233.740,363.867,258.014,377.931" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">:Sts </textline>
+</normal_text>
+<normal_text id="8" bbox="233.740,315.842,262.662,329.882" size="14.04" unique_id="8">:Spd <textline bbox="233.740,315.842,262.662,329.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Spd </textline>
+</normal_text>
+<normal_text id="9" bbox="233.740,291.842,268.840,305.882" size="14.04" unique_id="9">:Fault <textline bbox="233.740,291.842,268.840,305.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Fault </textline>
+</normal_text>
+<normal_text id="10" bbox="233.740,267.842,255.670,281.882" size="14.04" unique_id="10">:Lcl <textline bbox="233.740,267.842,255.670,281.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Lcl </textline>
+</normal_text>
+<normal_text id="11" bbox="233.740,243.837,294.539,257.901" size="14.064" unique_id="11">:Cmd_AC <textline bbox="233.740,243.837,294.539,257.901" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">:Cmd_AC </textline>
+</normal_text>
+<normal_text id="12" bbox="233.740,219.822,281.392,233.862" size="14.04" unique_id="12">:Enable <textline bbox="233.740,219.822,281.392,233.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Enable </textline>
+</normal_text>
+<normal_text id="13" bbox="233.740,195.822,291.543,209.862" size="14.04" unique_id="13">:Spd_Set <textline bbox="233.740,195.822,291.543,209.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Spd_Set </textline>
+</normal_text>
+<normal_text id="14" bbox="233.740,171.822,274.344,185.862" size="14.04" unique_id="14">:Reset <textline bbox="233.740,171.822,274.344,185.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Reset </textline>
+</normal_text>
+<normal_text id="15" bbox="233.740,147.822,293.887,161.862" size="14.04" unique_id="15">:Vent_Rls <textline bbox="233.740,147.822,293.887,161.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Vent_Rls </textline>
+</normal_text>
+<normal_text id="16" bbox="233.740,123.817,291.529,137.881" size="14.064" unique_id="16">:H2O_flw <textline bbox="233.740,123.817,291.529,137.881" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">:H2O_flw </textline>
+</normal_text>
+<normal_text id="17" bbox="233.740,99.792,272.841,113.832" size="14.04" unique_id="17">:Other <textline bbox="233.740,99.792,272.841,113.832" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Other </textline>
+</normal_text>
+<normal_text id="18" bbox="364.270,411.872,410.321,425.912" size="14.04" unique_id="18">Details <textline bbox="364.270,411.872,410.321,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Details </textline>
+</normal_text>
+<normal_text id="19" bbox="364.270,387.872,422.817,401.912" size="14.04" unique_id="19">Run/Stop <textline bbox="364.270,387.872,422.817,401.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Run/Stop </textline>
+</normal_text>
+<normal_text id="20" bbox="364.270,363.867,405.506,377.931" size="14.064" unique_id="20">On/Off <textline bbox="364.270,363.867,405.506,377.931" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">On/Off </textline>
+</normal_text>
+<normal_text id="21" bbox="364.270,339.842,422.031,353.882" size="14.04" unique_id="21">Run/Stby <textline bbox="364.270,339.842,422.031,353.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Run/Stby </textline>
+</normal_text>
+<normal_text id="22" bbox="364.270,315.842,381.370,329.882" size="14.04" unique_id="22">Hz <textline bbox="364.270,315.842,381.370,329.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Hz </textline>
+</normal_text>
+<normal_text id="23" bbox="364.270,291.842,417.355,305.882" size="14.04" unique_id="23">Ok/Fault <textline bbox="364.270,291.842,417.355,305.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Ok/Fault </textline>
+</normal_text>
+<normal_text id="24" bbox="364.270,267.842,425.049,281.882" size="14.04" unique_id="24">LCL/REM <textline bbox="364.270,267.842,425.049,281.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">LCL/REM </textline>
+</normal_text>
+<normal_text id="25" bbox="364.270,243.837,405.506,257.901" size="14.064" unique_id="25">On/Off <textline bbox="364.270,243.837,405.506,257.901" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">On/Off </textline>
+</normal_text>
+<normal_text id="26" bbox="364.270,219.822,420.416,233.862" size="14.04" unique_id="26">ENA/DIS <textline bbox="364.270,219.822,420.416,233.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ENA/DIS </textline>
+</normal_text>
+<normal_text id="27" bbox="364.270,195.822,381.370,209.862" size="14.04" unique_id="27">Hz <textline bbox="364.270,195.822,381.370,209.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Hz </textline>
+</normal_text>
+<normal_text id="28" bbox="364.270,171.822,438.963,185.862" size="14.04" unique_id="28">NORM/RST <textline bbox="364.270,171.822,438.963,185.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">NORM/RST </textline>
+</normal_text>
+<normal_text id="29" bbox="364.270,147.822,422.704,161.862" size="14.04" unique_id="29">CLS/RLS <textline bbox="364.270,147.822,422.704,161.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">CLS/RLS </textline>
+</normal_text>
+<normal_text id="30" bbox="364.270,123.817,412.003,137.881" size="14.064" unique_id="30">Ok/Low <textline bbox="364.270,123.817,412.003,137.881" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">Ok/Low </textline>
+</normal_text>
+<normal_text id="31" bbox="364.270,99.792,417.355,113.832" size="14.04" unique_id="31">Ok/Fault <textline bbox="364.270,99.792,417.355,113.832" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Ok/Fault </textline>
+</normal_text>
+<normal_text id="32" bbox="494.780,387.872,510.386,401.912" size="14.04" unique_id="32">bo <textline bbox="494.780,387.872,510.386,401.912" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="33" bbox="494.780,363.867,505.702,377.931" size="14.064" unique_id="33">bi <textline bbox="494.780,363.867,505.702,377.931" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">bi </textline>
+</normal_text>
+<normal_text id="34" bbox="494.780,339.842,510.386,353.882" size="14.04" unique_id="34">bo <textline bbox="494.780,339.842,510.386,353.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="35" bbox="494.780,315.842,505.697,329.882" size="14.04" unique_id="35">ai <textline bbox="494.780,315.842,505.697,329.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ai </textline>
+</normal_text>
+<normal_text id="36" bbox="494.780,291.842,505.697,305.882" size="14.04" unique_id="36">bi <textline bbox="494.780,291.842,505.697,305.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bi </textline>
+</normal_text>
+<normal_text id="37" bbox="494.780,267.842,510.386,281.882" size="14.04" unique_id="37">bo <textline bbox="494.780,267.842,510.386,281.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="38" bbox="494.780,243.837,510.400,257.901" size="14.064" unique_id="38">bo <textline bbox="494.780,243.837,510.400,257.901" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="39" bbox="494.780,219.822,510.386,233.862" size="14.04" unique_id="39">bo <textline bbox="494.780,219.822,510.386,233.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="40" bbox="494.780,195.822,510.386,209.862" size="14.04" unique_id="40">ao <textline bbox="494.780,195.822,510.386,209.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ao </textline>
+</normal_text>
+<normal_text id="41" bbox="494.780,171.822,510.386,185.862" size="14.04" unique_id="41">bo <textline bbox="494.780,171.822,510.386,185.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="42" bbox="494.780,147.822,510.386,161.862" size="14.04" unique_id="42">bo <textline bbox="494.780,147.822,510.386,161.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="43" bbox="494.780,123.817,505.702,137.881" size="14.064" unique_id="43">bi <textline bbox="494.780,123.817,505.702,137.881" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">bi </textline>
+</normal_text>
+<normal_text id="44" bbox="494.780,99.792,505.697,113.832" size="14.04" unique_id="44">bi <textline bbox="494.780,99.792,505.697,113.832" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bi </textline>
+</normal_text>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[187.4144, 455.464, 532.6366, 487.50399999999996]">
+<title id="0" bbox="212.500,454.742,507.556,486.782" size="32.04" unique_id="0">Control Signal Name <textline bbox="212.500,454.742,507.556,486.782" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Control Signal Name </textline>
+</title>
+<normal_text id="1" bbox="115.220,411.872,195.136,425.912" size="14.04" unique_id="1">Device Type <textline bbox="115.220,411.872,195.136,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Device Type </textline>
+</normal_text>
+<normal_text id="2" bbox="253.250,411.872,303.162,425.912" size="14.04" unique_id="2">Signals <textline bbox="253.250,411.872,303.162,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Signals </textline>
+</normal_text>
+<normal_text id="3" bbox="529.300,411.872,606.085,425.912" size="14.04" unique_id="3">Signal Type <textline bbox="529.300,411.872,606.085,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Signal Type </textline>
+</normal_text>
+<normal_text id="4" bbox="115.220,384.482,178.681,398.522" size="14.04" unique_id="4">VV,RV,GV <textline bbox="115.220,384.482,178.681,398.522" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">VV,RV,GV </textline>
+</normal_text>
+<normal_text id="5" bbox="115.220,274.712,134.665,288.752" size="14.04" unique_id="5">RP <textline bbox="115.220,274.712,134.665,288.752" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">RP </textline>
+</normal_text>
+<normal_text id="6" bbox="253.250,384.482,286.721,398.522" size="14.04" unique_id="6">:Cmd <textline bbox="253.250,384.482,286.721,398.522" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Cmd </textline>
+</normal_text>
+<normal_text id="7" bbox="253.250,356.982,283.731,371.022" size="14.04" unique_id="7">:Opn <textline bbox="253.250,356.982,283.731,371.022" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Opn </textline>
+</normal_text>
+<normal_text id="8" bbox="253.250,329.592,277.413,343.632" size="14.04" unique_id="8">:Cls <textline bbox="253.250,329.592,277.413,343.632" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Cls </textline>
+</normal_text>
+<normal_text id="9" bbox="253.250,302.092,282.102,316.132" size="14.04" unique_id="9">:Rdy <textline bbox="253.250,302.092,282.102,316.132" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Rdy </textline>
+</normal_text>
+<normal_text id="10" bbox="253.250,274.712,286.721,288.752" size="14.04" unique_id="10">:Cmd <textline bbox="253.250,274.712,286.721,288.752" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Cmd </textline>
+</normal_text>
+<normal_text id="11" bbox="253.250,247.202,277.525,261.242" size="14.04" unique_id="11">:Sts <textline bbox="253.250,247.202,277.525,261.242" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">:Sts </textline>
+</normal_text>
+<normal_text id="12" bbox="391.270,411.872,437.321,425.912" size="14.04" unique_id="12">Details <textline bbox="391.270,411.872,437.321,425.912" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Details </textline>
+</normal_text>
+<normal_text id="13" bbox="391.270,384.482,452.821,398.522" size="14.04" unique_id="13">OPN/CLS <textline bbox="391.270,384.482,452.821,398.522" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">OPN/CLS </textline>
+</normal_text>
+<normal_text id="14" bbox="391.270,356.982,431.050,371.022" size="14.04" unique_id="14">OPEN <textline bbox="391.270,356.982,431.050,371.022" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">OPEN </textline>
+</normal_text>
+<normal_text id="15" bbox="391.270,329.592,434.948,343.632" size="14.04" unique_id="15">Closed <textline bbox="391.270,329.592,434.948,343.632" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Closed </textline>
+</normal_text>
+<normal_text id="16" bbox="391.270,302.092,445.731,316.132" size="14.04" unique_id="16">RDY/ILK <textline bbox="391.270,302.092,445.731,316.132" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">RDY/ILK </textline>
+</normal_text>
+<normal_text id="17" bbox="391.270,274.712,449.817,288.752" size="14.04" unique_id="17">Run/Stop <textline bbox="391.270,274.712,449.817,288.752" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Run/Stop </textline>
+</normal_text>
+<normal_text id="18" bbox="391.270,247.202,449.817,261.242" size="14.04" unique_id="18">Run/Stop <textline bbox="391.270,247.202,449.817,261.242" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Run/Stop </textline>
+</normal_text>
+<normal_text id="19" bbox="529.300,384.482,544.906,398.522" size="14.04" unique_id="19">bo <textline bbox="529.300,384.482,544.906,398.522" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="20" bbox="529.300,356.982,540.217,371.022" size="14.04" unique_id="20">bi <textline bbox="529.300,356.982,540.217,371.022" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bi </textline>
+</normal_text>
+<normal_text id="21" bbox="529.300,329.592,540.217,343.632" size="14.04" unique_id="21">bi <textline bbox="529.300,329.592,540.217,343.632" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bi </textline>
+</normal_text>
+<normal_text id="22" bbox="529.300,302.092,540.217,316.132" size="14.04" unique_id="22">bi <textline bbox="529.300,302.092,540.217,316.132" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bi </textline>
+</normal_text>
+<normal_text id="23" bbox="529.300,274.712,544.906,288.752" size="14.04" unique_id="23">bo <textline bbox="529.300,274.712,544.906,288.752" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bo </textline>
+</normal_text>
+<normal_text id="24" bbox="529.300,247.202,540.217,261.242" size="14.04" unique_id="24">bi <textline bbox="529.300,247.202,540.217,261.242" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">bi </textline>
+</normal_text>
+<enlisting bbox="205.25,70.924,458.872,209.862" unique_id="['29', '      30', '      31', '      32', '      34', '      36', '     35', '    25', '   26', '  27', ' 28', '33']">5*4 = 20  4*8 = 32 3*13 = 39 4*2 = 8 8*4 = 32 131 + VxStat and PLCStat <normal_text id="29" bbox="295.250,195.822,351.607,209.862" size="14.04" unique_id="29">5*4 = 20  <textline bbox="295.250,195.822,351.607,209.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">5*4 = 20  </textline>
+</normal_text>
+<normal_text id="30" bbox="295.250,170.812,347.703,184.852" size="14.04" unique_id="30">4*8 = 32 <textline bbox="295.250,170.812,347.703,184.852" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4*8 = 32 </textline>
+</normal_text>
+<normal_text id="31" bbox="295.250,145.947,355.528,160.011" size="14.064" unique_id="31">3*13 = 39 <textline bbox="295.250,145.947,355.528,160.011" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">3*13 = 39 </textline>
+</normal_text>
+<normal_text id="32" bbox="295.250,120.942,339.897,134.982" size="14.04" unique_id="32">4*2 = 8 <textline bbox="295.250,120.942,339.897,134.982" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">4*2 = 8 </textline>
+</normal_text>
+<normal_text id="34" bbox="295.250,95.932,347.703,109.972" size="14.04" unique_id="34">8*4 = 32 <textline bbox="295.250,95.932,347.703,109.972" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">8*4 = 32 </textline>
+</normal_text>
+<normal_text id="36" bbox="295.250,70.924,458.872,84.964" size="14.04" unique_id="36">131 + VxStat and PLCStat <textline bbox="295.250,70.924,458.872,84.964" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">131 + VxStat and PLCStat </textline>
+</normal_text>
+<normal_text id="35" bbox="205.250,70.924,267.896,84.964" size="14.04" unique_id="35">Total PVs <textline bbox="205.250,70.924,267.896,84.964" font="Arial-BoldMT" ncolour="0" size="14.040" colourspace="DeviceGray">Total PVs </textline>
+</normal_text>
+<normal_text id="25" bbox="205.250,195.822,235.619,209.862" size="14.04" unique_id="25">CVG <textline bbox="205.250,195.822,235.619,209.862" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">CVG </textline>
+</normal_text>
+<normal_text id="26" bbox="205.250,170.812,220.133,184.852" size="14.04" unique_id="26">IG <textline bbox="205.250,170.812,220.133,184.852" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">IG </textline>
+</normal_text>
+<normal_text id="27" bbox="205.250,145.947,234.793,160.011" size="14.064" unique_id="27">TMP <textline bbox="205.250,145.947,234.793,160.011" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">TMP </textline>
+</normal_text>
+<normal_text id="28" bbox="205.250,120.942,224.695,134.982" size="14.04" unique_id="28">RP <textline bbox="205.250,120.942,224.695,134.982" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">RP </textline>
+</normal_text>
+<normal_text id="33" bbox="205.250,95.932,268.711,109.972" size="14.04" unique_id="33">VV,RV,GV <textline bbox="205.250,95.932,268.711,109.972" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">VV,RV,GV </textline>
+</normal_text>
+</enlisting></page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[197.63314285714287, 455.2577142857143, 522.4072857142858, 487.2977142857143]">
+<title id="0" bbox="223.180,454.742,496.834,486.782" size="32.04" unique_id="0">Documentation List <textline bbox="223.180,454.742,496.834,486.782" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Documentation List </textline>
+</title>
+<normal_text id="1" bbox="61.224,420.220,119.940,432.220" size="12.0" unique_id="1">Doc Name <textline bbox="61.224,420.220,119.940,432.220" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Doc Name </textline>
+</normal_text>
+<normal_text id="2" bbox="199.250,420.220,265.358,432.220" size="12.0" unique_id="2">Description <textline bbox="199.250,420.220,265.358,432.220" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Description </textline>
+</normal_text>
+<normal_text id="3" bbox="61.224,392.830,158.280,404.830" size="12.0" unique_id="3">Pfeiffer TCM 1601 <textline bbox="61.224,392.830,158.280,404.830" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Pfeiffer TCM 1601 </textline>
+</normal_text>
+<normal_text id="4" bbox="199.250,364.030,484.586,404.830" size="12.0" unique_id="4">The instruction manual for the Magnetic Bearing  
+Controller TCM 1601 that serves to drive and monitor  
+Pfeiffer turbomolecular pumps <textline bbox="199.250,392.830,457.334,404.830" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">The instruction manual for the Magnetic Bearing  </textline>
+<textline bbox="199.250,378.430,484.586,390.430" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Controller TCM 1601 that serves to drive and monitor  </textline>
+<textline bbox="199.250,364.030,358.814,376.030" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Pfeiffer turbomolecular pumps </textline>
+</normal_text>
+<normal_text id="5" bbox="517.300,420.220,561.952,432.220" size="12.0" unique_id="5">Contact <textline bbox="517.300,420.220,561.952,432.220" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Contact </textline>
+</normal_text>
+<normal_text id="6" bbox="517.300,361.150,598.600,404.830" size="12.0" unique_id="6">www.pfeiffer- 
+vacuum.de 
+1800-248-8254 <textline bbox="517.300,392.830,586.596,404.830" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="12.000" colourspace="DeviceGray">www.pfeiffer- </textline>
+<textline bbox="517.300,378.430,576.112,390.430" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="12.000" colourspace="DeviceGray">vacuum.de </textline>
+<textline bbox="517.300,361.150,598.600,373.150" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">1800-248-8254 </textline>
+</normal_text>
+</page>
+</pages>

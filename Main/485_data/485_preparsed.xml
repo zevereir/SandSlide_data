@@ -1,0 +1,889 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="87.912,363.935,642.060,523.327" size="33.012">Forward Vertex Detector 
+Cost, Schedule, and Management  
+Plan 
+&#8226; Participating Institutions <textline bbox="164.950,487.303,555.306,523.327" font="Helvetica" ncolour="0" size="36.024" colourspace="DeviceGray">Forward Vertex Detector </textline>
+<textline bbox="87.912,444.088,642.060,480.088" font="Helvetica" ncolour="0" size="36.000" colourspace="DeviceGray">Cost, Schedule, and Management  </textline>
+<textline bbox="324.000,400.888,396.036,436.888" font="Helvetica" ncolour="0" size="36.000" colourspace="DeviceGray">Plan </textline>
+<textline bbox="127.220,363.935,395.865,388.031" font="Helvetica" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Participating Institutions </textline>
+</textbox>
+<textbox id="1" bbox="127.220,320.710,349.100,344.782" size="24.0">&#8226; Organizational plan <textline bbox="127.220,320.710,349.100,344.782" font="Helvetica" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Organizational plan </textline>
+</textbox>
+<textbox id="2" bbox="127.220,277.510,256.844,301.582" size="24.0">&#8226; Cost Basis <textline bbox="127.220,277.510,256.844,301.582" font="Helvetica" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Cost Basis </textline>
+</textbox>
+<textbox id="3" bbox="127.220,234.290,267.500,258.362" size="24.0">&#8226; R&amp;D Costs  <textline bbox="127.220,234.290,267.500,258.362" font="Helvetica" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; R&amp;D Costs  </textline>
+</textbox>
+<textbox id="4" bbox="127.220,191.090,198.164,215.162" size="24.0">&#8226; Cost  <textline bbox="127.220,191.090,198.164,215.162" font="Helvetica" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Cost  </textline>
+</textbox>
+<textbox id="5" bbox="127.220,147.890,242.132,171.962" size="24.0">&#8226; Schedule <textline bbox="127.220,147.890,242.132,171.962" font="Helvetica" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Schedule </textline>
+</textbox>
+<figure name="Image14" bbox="399.240,114.720,642.360,297.000" src="Image14.jpg" width="243" height="182">
+</figure>
+<figure name="Image15" bbox="648.000,451.080,690.360,528.000" src="Image15.jpg" width="42" height="76">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="163.440,471.487,540.101,491.551" size="20.064">Participating and Interested Institutions <textline bbox="163.440,471.487,540.101,491.551" font="Helvetica,Bold" ncolour="(0, 0.29, 0.647)" size="20.064" colourspace="DeviceGray">Participating and Interested Institutions </textline>
+</textbox>
+<textbox id="1" bbox="93.456,107.978,632.690,433.686" size="12.145090909090912">Los Alamos National Laboratory 
+LANL coordinate work to procure the silicon sensors, work with FNAL on the development of the PHX chip, with Columbia  
+on development of the interface to PHENIX DAQ, and on the simulation effort with NMSU.   Los Alamos is currently  
+leading the mechanical engineering and the integration effort for the barrel detector, VTX, and will continue those efforts  
+for the FVTX.  
+Columbia University 
+Columbia University is an acknowledged expert on the PHENIX DAQ system  They will work on the interface between the  
+PHX chip and the PHENIX DAQ. 
+Iowa State University 
+Iowa State University is currently working on management details with the barrel detector and working on an (funded)  
+SBIR effort for the level one trigger capabilities of the FVTX. 
+Charles University, Czech Technical University, Institute of Physics,  
+Academy of Sciences,  Prague 
+The Czech groups have been active in the development, testing, assembly, and commissioning of the ATLAS pixel  
+sensors.   They will do the same for the FVTX effort and additionally participate in software development. 
+New Mexico State University 
+NMSU will work on comprehensive simulations for the FVTX effort and work on the sensor testing. 
+University of New Mexico 
+UNM has experience in testing, Q/A and a laboratory for characterization of sensors.  They are currently working on the  
+barrel strip sensors and will do the same for the FVTX effort.  They may also work on the flex cables. 
+Saclay 
+Saclay will work on software. <textline bbox="93.456,417.726,320.248,433.686" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Los Alamos National Laboratory </textline>
+<textline bbox="93.456,405.648,632.690,415.608" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">LANL coordinate work to procure the silicon sensors, work with FNAL on the development of the PHX chip, with Columbia  </textline>
+<textline bbox="93.456,393.643,603.439,403.627" font="Helvetica" ncolour="0" size="9.984" colourspace="DeviceGray">on development of the interface to PHENIX DAQ, and on the simulation effort with NMSU.   Los Alamos is currently  </textline>
+<textline bbox="93.456,381.628,623.408,391.588" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">leading the mechanical engineering and the integration effort for the barrel detector, VTX, and will continue those efforts  </textline>
+<textline bbox="93.456,367.286,156.696,379.286">for the FVTX.  <text font="Helvetica" bbox="93.456,367.708,96.225,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="96.324,367.708,101.862,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="101.862,367.708,105.179,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="105.219,367.708,107.988,377.668" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="107.858,367.708,110.627,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="110.627,367.708,116.165,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="116.165,367.708,121.703,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="121.703,367.708,124.471,377.668" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="124.342,367.708,130.428,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">F</text>
+<text font="Helvetica" bbox="130.477,367.708,137.121,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">V</text>
+<text font="Helvetica" bbox="137.121,367.708,143.206,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">T</text>
+<text font="Helvetica" bbox="143.356,367.708,149.999,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">X</text>
+<text font="Helvetica" bbox="150.000,367.286,153.336,379.286" colourspace="DeviceGray" ncolour="0" size="12.000">.</text>
+<text font="Helvetica" bbox="153.360,367.286,156.696,379.286" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+</textline>
+<textline bbox="93.456,348.106,235.755,364.066" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Columbia University </textline>
+<textline bbox="93.456,336.028,631.744,345.988" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">Columbia University is an acknowledged expert on the PHENIX DAQ system  They will work on the interface between the  </textline>
+<textline bbox="93.456,324.028,238.115,333.988" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">PHX chip and the PHENIX DAQ. </textline>
+<textline bbox="93.456,304.906,244.134,320.866" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Iowa State University </textline>
+<textline bbox="93.456,292.828,612.760,302.788" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">Iowa State University is currently working on management details with the barrel detector and working on an (funded)  </textline>
+<textline bbox="93.456,278.481,357.753,290.505">SBIR effort for the level one trigger capabilities of the FVTX. <text font="Helvetica" bbox="93.456,278.908,100.099,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">S</text>
+<text font="Helvetica" bbox="100.099,278.908,106.743,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">B</text>
+<text font="Helvetica" bbox="106.703,278.908,109.472,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">I</text>
+<text font="Helvetica" bbox="109.472,278.908,116.663,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">R</text>
+<text font="Helvetica" bbox="116.663,278.908,119.432,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="119.561,278.908,125.099,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="125.099,278.908,127.868,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="127.977,278.908,130.746,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="130.846,278.908,136.384,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="136.384,278.908,139.700,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="139.740,278.908,142.509,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="142.509,278.908,145.278,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="144.899,278.908,147.668,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="147.768,278.908,153.306,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="153.306,278.908,156.622,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="156.662,278.908,159.431,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="159.302,278.908,162.070,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="162.070,278.908,167.608,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="167.608,278.908,173.146,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="173.146,278.908,175.915,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="175.785,278.908,177.996,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="177.947,278.908,183.484,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="183.484,278.908,188.464,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">v</text>
+<text font="Helvetica" bbox="188.464,278.908,194.002,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="194.002,278.908,196.213,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="196.144,278.908,198.912,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="199.132,278.908,204.669,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="204.669,278.908,210.207,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="210.207,278.908,215.745,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="215.745,278.908,218.514,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="218.514,278.908,221.283,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="221.283,278.908,224.599,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="224.629,278.908,226.840,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="226.791,278.908,232.328,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">g</text>
+<text font="Helvetica" bbox="232.328,278.908,237.866,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">g</text>
+<text font="Helvetica" bbox="237.866,278.908,243.404,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="243.404,278.908,246.720,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="246.770,278.908,249.539,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="249.539,278.908,254.519,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="Helvetica" bbox="254.589,278.908,260.127,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Helvetica" bbox="260.127,278.908,265.664,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">p</text>
+<text font="Helvetica" bbox="265.664,278.908,271.202,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Helvetica" bbox="271.202,278.908,276.740,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">b</text>
+<text font="Helvetica" bbox="276.740,278.908,278.951,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="278.951,278.908,281.162,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="281.082,278.908,283.294,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="283.244,278.908,286.013,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="286.013,278.908,288.224,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="288.164,278.908,293.702,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="293.702,278.908,298.682,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="298.761,278.908,301.530,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="301.630,278.908,307.168,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="307.168,278.908,309.937,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="310.046,278.908,312.815,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="312.686,278.908,315.454,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="315.454,278.908,320.992,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="320.992,278.908,326.530,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="326.530,278.908,329.299,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="329.169,278.908,335.255,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">F</text>
+<text font="Helvetica" bbox="335.305,278.908,341.948,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">V</text>
+<text font="Helvetica" bbox="341.948,278.908,348.034,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">T</text>
+<text font="Helvetica" bbox="348.183,278.908,354.826,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">X</text>
+<text font="Helvetica" bbox="354.410,278.481,357.753,290.505" colourspace="DeviceGray" ncolour="0" size="12.024">.</text>
+</textline>
+<textline bbox="93.456,259.276,572.639,275.236" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Charles University, Czech Technical University, Institute of Physics,  </textline>
+<textline bbox="93.456,240.076,312.555,256.036" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Academy of Sciences,  Prague </textline>
+<textline bbox="93.456,227.998,601.306,237.958" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">The Czech groups have been active in the development, testing, assembly, and commissioning of the ATLAS pixel  </textline>
+<textline bbox="93.456,215.998,555.052,225.958" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">sensors.   They will do the same for the FVTX effort and additionally participate in software development. </textline>
+<textline bbox="93.456,196.876,297.329,212.836" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">New Mexico State University </textline>
+<textline bbox="93.456,182.456,526.126,194.456">NMSU will work on comprehensive simulations for the FVTX effort and work on the sensor testing. <text font="Helvetica" bbox="93.456,182.878,100.647,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">N</text>
+<text font="Helvetica" bbox="100.667,182.878,108.964,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">M</text>
+<text font="Helvetica" bbox="108.964,182.878,115.607,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">S</text>
+<text font="Helvetica" bbox="115.607,182.878,122.798,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">U</text>
+<text font="Helvetica" bbox="122.798,182.878,125.567,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="125.806,182.878,132.997,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">w</text>
+<text font="Helvetica" bbox="132.908,182.878,135.119,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="135.069,182.878,137.280,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="137.230,182.878,139.441,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="139.392,182.878,142.160,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="142.499,182.878,149.690,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">w</text>
+<text font="Helvetica" bbox="149.601,182.878,155.138,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="155.138,182.878,158.455,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="158.495,182.878,163.475,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">k</text>
+<text font="Helvetica" bbox="163.664,182.878,166.433,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="166.433,182.878,171.971,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="171.971,182.878,177.508,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="177.508,182.878,180.277,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="180.277,182.878,185.257,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="Helvetica" bbox="185.327,182.878,190.865,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="190.865,182.878,199.161,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="Helvetica" bbox="199.401,182.878,204.938,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">p</text>
+<text font="Helvetica" bbox="204.938,182.878,208.255,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="208.295,182.878,213.833,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="213.833,182.878,219.370,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="219.370,182.878,224.908,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="224.908,182.878,230.446,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="230.446,182.878,235.426,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="235.525,182.878,237.737,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="237.687,182.878,242.667,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">v</text>
+<text font="Helvetica" bbox="242.627,182.878,248.165,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="248.165,182.878,250.934,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="250.695,182.878,255.675,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="255.744,182.878,257.955,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="257.906,182.878,266.202,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="Helvetica" bbox="266.441,182.878,271.979,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">u</text>
+<text font="Helvetica" bbox="271.979,182.878,274.190,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="274.140,182.878,279.678,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Helvetica" bbox="279.678,182.878,282.447,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="282.447,182.878,284.658,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="284.608,182.878,290.146,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="290.146,182.878,295.684,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="295.684,182.878,300.664,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="300.753,182.878,303.522,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="303.522,182.878,306.291,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="306.381,182.878,311.919,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="311.919,182.878,315.235,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="315.275,182.878,318.044,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="317.915,182.878,320.683,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="320.683,182.878,326.221,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="326.221,182.878,331.759,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="331.759,182.878,334.528,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="334.398,182.878,340.484,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">F</text>
+<text font="Helvetica" bbox="340.534,182.878,347.177,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">V</text>
+<text font="Helvetica" bbox="347.177,182.878,353.263,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">T</text>
+<text font="Helvetica" bbox="353.412,182.878,360.055,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">X</text>
+<text font="Helvetica" bbox="360.145,182.878,362.914,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="362.784,182.878,368.322,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="368.322,182.878,371.091,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="371.201,182.878,373.969,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="374.069,182.878,379.607,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="379.607,182.878,382.923,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="382.963,182.878,385.732,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="385.732,182.878,388.501,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="388.123,182.878,393.660,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Helvetica" bbox="393.660,182.878,399.198,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="399.198,182.878,404.736,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">d</text>
+<text font="Helvetica" bbox="404.736,182.878,407.505,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="407.395,182.878,414.586,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">w</text>
+<text font="Helvetica" bbox="414.497,182.878,420.034,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="420.034,182.878,423.351,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="423.391,182.878,428.371,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">k</text>
+<text font="Helvetica" bbox="428.560,182.878,431.329,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="431.329,182.878,436.867,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="436.867,182.878,442.405,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="442.405,182.878,445.173,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="445.173,182.878,447.942,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="447.942,182.878,453.480,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="453.480,182.878,459.018,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="459.018,182.878,461.787,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="461.657,182.878,466.637,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="466.707,182.878,472.245,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="472.245,182.878,477.783,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="477.783,182.878,482.763,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="482.852,182.878,488.390,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="488.390,182.878,491.707,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="491.746,182.878,494.515,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="494.386,182.878,497.155,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="497.155,182.878,502.692,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="502.692,182.878,507.672,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="507.742,182.878,510.511,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="510.511,182.878,512.722,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="512.662,182.878,518.200,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="518.200,182.878,523.738,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">g</text>
+<text font="Helvetica" bbox="522.790,182.456,526.126,194.456" colourspace="DeviceGray" ncolour="0" size="12.000">.</text>
+</textline>
+<textline bbox="93.456,163.271,273.340,179.255" font="Helvetica" ncolour="0" size="15.984" colourspace="DeviceGray">University of New Mexico </textline>
+<textline bbox="93.456,151.193,622.179,161.177" font="Helvetica" ncolour="0" size="9.984" colourspace="DeviceGray">UNM has experience in testing, Q/A and a laboratory for characterization of sensors.  They are currently working on the  </textline>
+<textline bbox="93.456,139.178,536.786,149.138" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">barrel strip sensors and will do the same for the FVTX effort.  They may also work on the flex cables. </textline>
+<textline bbox="93.456,120.056,141.543,136.016" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Saclay </textline>
+<textline bbox="93.456,107.978,221.193,117.938" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">Saclay will work on software. </textline>
+</textbox>
+<textbox id="2" bbox="669.000,28.036,676.806,42.076" size="14.04">2 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">2 </textline>
+</textbox>
+<figure name="Image15" bbox="622.680,451.920,665.040,528.720" src="Image15.0.jpg" width="42" height="76">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="136.970,461.156,549.194,485.156" size="24.0">Participating and Interested Institutions <textline bbox="136.970,461.156,549.194,485.156" font="BCDEEE+Times,Bold" ncolour="(0, 0.29, 0.647)" size="24.000" colourspace="DeviceGray">Participating and Interested Institutions </textline>
+</textbox>
+<textbox id="1" bbox="115.220,365.331,575.336,410.116" size="13.328000000000001">Brookhaven National Laboratory 
+Brookhaven manages the integration and ancillary systems for the VTX and will do the  
+same for the FVTX.  They might also participate in software. <textline bbox="115.220,394.156,344.230,410.116" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Brookhaven National Laboratory </textline>
+<textline bbox="115.220,379.736,575.336,391.736" font="Helvetica" ncolour="0" size="12.000" colourspace="DeviceGray">Brookhaven manages the integration and ancillary systems for the VTX and will do the  </textline>
+<textline bbox="115.220,365.331,433.471,377.355" font="Helvetica" ncolour="0" size="12.024" colourspace="DeviceGray">same for the FVTX.  They might also participate in software. </textline>
+</textbox>
+<textbox id="2" bbox="115.220,317.316,347.933,347.696" size="13.98">Bhabha Atomic Research Centre 
+Involvment still under discussion <textline bbox="115.220,331.736,347.933,347.696" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Bhabha Atomic Research Centre </textline>
+<textline bbox="115.220,317.316,287.000,329.316" font="Helvetica" ncolour="0" size="12.000" colourspace="DeviceGray">Involvment still under discussion </textline>
+</textbox>
+<textbox id="3" bbox="115.220,286.136,276.735,302.096" size="15.96">University of Jyvaskyla <textline bbox="115.220,286.136,276.735,302.096" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">University of Jyvaskyla </textline>
+</textbox>
+<textbox id="4" bbox="115.220,228.496,337.302,276.036" size="13.328000000000001">Involvment still under discussion 
+Yonsei University, Seoul, Korea 
+Involvment still under discussion <textline bbox="115.220,264.036,287.000,276.036" font="Helvetica" ncolour="0" size="12.000" colourspace="DeviceGray">Involvment still under discussion </textline>
+<textline bbox="115.220,242.931,337.302,258.915" font="Helvetica" ncolour="0" size="15.984" colourspace="DeviceGray">Yonsei University, Seoul, Korea </textline>
+<textline bbox="115.220,228.496,287.000,240.496" font="Helvetica" ncolour="0" size="12.000" colourspace="DeviceGray">Involvment still under discussion </textline>
+</textbox>
+<figure name="Image15" bbox="622.680,451.920,665.040,528.720" src="Image15.1.jpg" width="42" height="76">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="246.620,461.792,430.186,481.832" size="20.04">Organizational Chart <textline bbox="246.620,461.792,430.186,481.832" font="Helvetica" ncolour="(0, 0.29, 0.647)" size="20.040" colourspace="DeviceGray">Organizational Chart </textline>
+</textbox>
+<textbox id="1" bbox="307.390,405.308,417.682,429.360" size="10.98">Subsystem Manager 
+M.Brooks <textline bbox="307.390,417.360,417.682,429.360" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Subsystem Manager </textline>
+<textline bbox="341.260,405.308,383.411,415.268" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">M.Brooks </textline>
+</textbox>
+<textbox id="2" bbox="307.390,332.703,417.710,371.160" size="11.336">Deputy  
+Subsystem Manager 
+D. Lee <textline bbox="341.740,359.160,383.092,371.160" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Deputy  </textline>
+<textline bbox="307.390,344.755,417.710,356.779" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Subsystem Manager </textline>
+<textline bbox="347.740,332.703,377.053,342.687" font="ArialMT" ncolour="0" size="9.984" colourspace="DeviceGray">D. Lee </textline>
+</textbox>
+<textbox id="3" bbox="145.490,348.308,255.374,372.360" size="10.98">Electronics Engineer 
+Eric Mannel <textline bbox="145.490,360.360,255.374,372.360" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Electronics Engineer </textline>
+<textline bbox="174.050,348.308,226.649,358.268" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Eric Mannel </textline>
+</textbox>
+<textbox id="4" bbox="468.600,348.308,580.380,372.360" size="10.98">Mechanical Engineer 
+Walt Sondheim <textline bbox="468.600,360.360,580.380,372.360" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Mechanical Engineer </textline>
+<textline bbox="490.560,348.308,557.999,358.268" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Walt Sondheim </textline>
+</textbox>
+<textbox id="5" bbox="22.824,284.688,125.900,308.740" size="10.98">Sensors 
+Charles U.,UNM, LANL <textline bbox="52.224,296.740,96.372,308.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Sensors </textline>
+<textline bbox="22.824,284.688,125.900,294.648" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Charles U.,UNM, LANL </textline>
+</textbox>
+<textbox id="6" bbox="160.490,284.688,216.286,308.740" size="10.98">PHX 
+FNAL. LANL <textline bbox="176.110,296.740,200.806,308.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">PHX </textline>
+<textline bbox="160.490,284.688,216.286,294.648" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">FNAL. LANL </textline>
+</textbox>
+<textbox id="7" bbox="270.550,284.688,334.155,308.740" size="10.98">Interface 
+Col. U. , LANL <textline bbox="278.830,296.740,325.774,308.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Interface </textline>
+<textline bbox="270.550,284.688,334.155,294.648" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Col. U. , LANL </textline>
+</textbox>
+<textbox id="8" bbox="384.700,284.688,448.120,308.740" size="10.98">Flex Cables 
+UNM <textline bbox="384.700,296.740,448.120,308.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Flex Cables </textline>
+<textline bbox="405.100,284.688,427.797,294.648" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">UNM </textline>
+</textbox>
+<textbox id="9" bbox="56.808,239.688,103.849,263.740" size="10.98">Design 
+Charles U. <textline bbox="61.728,251.740,99.000,263.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Design </textline>
+<textline bbox="56.808,239.688,103.849,249.648" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Charles U. </textline>
+</textbox>
+<textbox id="10" bbox="175.750,239.688,213.022,263.740" size="10.98">Design 
+FNAL <textline bbox="175.750,251.740,213.022,263.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Design </textline>
+<textline bbox="181.630,239.688,207.078,249.648" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">FNAL </textline>
+</textbox>
+<textbox id="11" bbox="270.790,239.688,346.028,263.740" size="10.98">Prototyping 
+Columbia , LANL <textline bbox="277.990,251.740,338.722,263.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Prototyping </textline>
+<textline bbox="270.790,239.688,346.028,249.648" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Columbia , LANL </textline>
+</textbox>
+<textbox id="12" bbox="387.340,239.688,457.324,263.740" size="10.98">Sensor cable 
+UNM <textline bbox="387.340,251.740,457.324,263.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Sensor cable </textline>
+<textline bbox="411.100,239.688,433.797,249.648" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">UNM </textline>
+</textbox>
+<textbox id="13" bbox="49.944,197.658,110.809,221.759" size="10.992">Prototyping 
+Charles U. <textline bbox="49.944,209.735,110.809,221.759" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Prototyping </textline>
+<textline bbox="56.808,197.658,103.849,207.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Charles U. </textline>
+</textbox>
+<textbox id="14" bbox="163.970,197.658,224.739,221.759" size="10.992">Prototyping 
+FNAL <textline bbox="163.970,209.735,224.739,221.759" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Prototyping </textline>
+<textline bbox="181.610,197.658,207.137,207.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">FNAL </textline>
+</textbox>
+<textbox id="15" bbox="272.110,197.658,344.589,221.759" size="10.992">FPGA 
+Columbia, LANL <textline bbox="292.030,209.735,324.771,221.759" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">FPGA </textline>
+<textline bbox="272.110,197.658,344.589,207.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Columbia, LANL </textline>
+</textbox>
+<textbox id="16" bbox="411.100,197.658,433.797,221.759" size="10.992">Bus 
+UNM <textline bbox="412.060,209.735,432.825,221.759" font="ArialMT" ncolour="0" size="12.024" colourspace="DeviceGray">Bus </textline>
+<textline bbox="411.100,197.658,433.797,207.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">UNM </textline>
+</textbox>
+<textbox id="17" bbox="36.504,155.658,124.202,179.710" size="10.98">SensorTesting 
+Prague, UNM,Col.U <textline bbox="42.264,167.710,118.368,179.710" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">SensorTesting </textline>
+<textline bbox="36.504,155.658,124.202,165.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Prague, UNM,Col.U </textline>
+</textbox>
+<textbox id="18" bbox="155.930,155.658,232.874,179.710" size="10.98">Prod + Testing 
+FNAL&lt; LANL <textline bbox="155.930,167.710,232.874,179.710" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Prod + Testing </textline>
+<textline bbox="164.930,155.658,224.003,165.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">FNAL&lt; LANL </textline>
+</textbox>
+<textbox id="19" bbox="273.070,155.658,346.029,179.710" size="10.98">Board design 
+Columbia, LANL <textline bbox="273.070,167.710,343.642,179.710" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Board design </textline>
+<textline bbox="273.550,155.658,346.029,165.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Columbia, LANL </textline>
+</textbox>
+<textbox id="20" bbox="51.648,113.658,109.152,137.710" size="10.98">Production 
+Prague <textline bbox="51.648,125.710,109.152,137.710" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Production </textline>
+<textline bbox="64.368,113.658,96.429,123.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Prague </textline>
+</textbox>
+<textbox id="21" bbox="158.330,113.658,230.438,137.710" size="10.98">Wire Bonding 
+LANL <textline bbox="158.330,125.710,230.438,137.710" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Wire Bonding </textline>
+<textline bbox="181.970,113.658,206.880,123.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">LANL </textline>
+</textbox>
+<textbox id="22" bbox="260.470,112.938,352.988,138.910" size="10.98">Racks, LV, HV 
+UNM, BNL,Columbia <textline bbox="270.310,126.910,346.366,138.910" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Racks, LV, HV </textline>
+<textline bbox="260.470,112.938,352.988,122.898" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">UNM, BNL,Columbia </textline>
+</textbox>
+<textbox id="23" bbox="34.464,71.636,126.432,95.688" size="10.98">Ladder Assembly 
+Multiple Institutions <textline bbox="34.464,83.688,126.432,95.688" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Ladder Assembly </textline>
+<textline bbox="38.064,71.636,122.575,81.596" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Multiple Institutions </textline>
+</textbox>
+<textbox id="24" bbox="483.240,265.488,577.740,303.940" size="11.32">Integration and 
+Ancillary Systems 
+BNL <textline bbox="490.440,291.940,570.360,303.940" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Integration and </textline>
+<textline bbox="483.240,277.540,577.740,289.540" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Ancillary Systems </textline>
+<textline bbox="520.800,265.488,540.132,275.448" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">BNL </textline>
+</textbox>
+<textbox id="25" bbox="516.240,227.688,557.004,251.740" size="10.98">Ladder  
+LANL <textline bbox="516.240,239.740,557.004,251.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Ladder  </textline>
+<textline bbox="524.040,227.688,548.890,237.648" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">LANL </textline>
+</textbox>
+<textbox id="26" bbox="489.480,185.658,583.464,209.710" size="10.98">Support Structure 
+LANL <textline bbox="489.480,197.710,583.464,209.710" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Support Structure </textline>
+<textline bbox="524.040,185.658,548.890,195.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">LANL </textline>
+</textbox>
+<textbox id="27" bbox="486.480,143.658,586.620,167.710" size="10.98">Detector Assembly 
+Multiple Institutions <textline bbox="486.480,155.710,586.620,167.710" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Detector Assembly </textline>
+<textline bbox="494.160,143.658,578.671,153.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Multiple Institutions </textline>
+</textbox>
+<textbox id="28" bbox="507.720,101.658,565.224,125.710" size="10.98">Installation 
+BNL <textline bbox="507.720,113.710,565.224,125.710" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Installation </textline>
+<textline bbox="526.800,101.658,546.132,111.618" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">BNL </textline>
+</textbox>
+<textbox id="29" bbox="489.240,59.636,583.740,83.688" size="10.98">Ancillary Systems 
+BNL <textline bbox="489.240,71.688,583.740,83.688" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Ancillary Systems </textline>
+<textline bbox="526.800,59.636,546.132,69.596" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">BNL </textline>
+</textbox>
+<textbox id="30" bbox="616.340,284.688,672.404,308.740" size="10.98">Simulation 
+NMSU <textline bbox="616.340,296.740,672.404,308.740" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Simulation </textline>
+<textline bbox="629.780,284.688,659.052,294.648" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">NMSU </textline>
+</textbox>
+<textbox id="31" bbox="603.260,246.250,697.787,269.140" size="10.5">Track finding 
+NMSU, LANL, SACLAY <textline bbox="616.220,257.140,684.644,269.140" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Track finding </textline>
+<textline bbox="603.260,246.250,697.787,255.250" font="ArialMT" ncolour="0" size="9.000" colourspace="DeviceGray">NMSU, LANL, SACLAY </textline>
+</textbox>
+<figure name="Image15" bbox="622.680,451.920,665.040,528.720" src="Image15.2.jpg" width="42" height="76">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="257.760,464.042,438.882,484.082" size="20.04">FVTX Cost Estimate <textline bbox="257.760,464.042,438.882,484.082" font="Helvetica" ncolour="(0, 0.29, 0.647)" size="20.040" colourspace="DeviceGray">FVTX Cost Estimate </textline>
+</textbox>
+<figure name="Image15" bbox="622.680,451.920,665.040,528.720" src="Image15.3.jpg" width="42" height="76">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="163.560,471.487,540.221,491.551" size="20.064">Participating and Interested Institutions <textline bbox="163.560,471.487,540.221,491.551" font="Helvetica,Bold" ncolour="(0, 0.29, 0.647)" size="20.064" colourspace="DeviceGray">Participating and Interested Institutions </textline>
+</textbox>
+<textbox id="1" bbox="93.600,107.978,631.251,433.686" size="12.145090909090912">Los Alamos National Laboratory 
+LANL coordinate work to procure the silicon sensors, work with FNAL on the development of the PHX chip, with Columbia  
+on development of the interface to PHENIX DAQ, and on the simulation effort with NMSU.   Los Alamos is currently  
+leading the mechanical engineering and the integration effort for the barrel detector, VTX, and will continue those efforts  
+for the FVTX.  
+Columbia University 
+Columbia University is an acknowledged expert on the PHENIX DAQ system  They will work on the interface between the  
+PHX chip and the PHENIX DAQ. 
+Iowa State University 
+Iowa State University is currently working on management details with the barrel detector and working on an (funded)  
+SBIR effort for the level one trigger capabilities of the FVTX. 
+Charles University, Czech Technical University, Institute of Physics,  
+Academy of Sciences,  Prague 
+The Czech groups have been active in the development, testing, assembly, and commissioning of the ATLAS pixel  
+sensors.   They will do the same for the FVTX effort and additionally participate in software development. 
+New Mexico State University 
+NMSU will work on comprehensive simulations for the FVTX effort and work on the sensor testing. 
+University of New Mexico 
+UNM has experience in testing, Q/A and a laboratory for characterization of sensors.  They are currently working on the  
+barrel strip sensors and will do the same for the FVTX effort.  They may also work on the flex cables. 
+Saclay 
+Saclay will work on software. <textline bbox="93.600,417.726,319.961,433.686" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Los Alamos National Laboratory </textline>
+<textline bbox="93.600,405.648,631.251,415.608" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">LANL coordinate work to procure the silicon sensors, work with FNAL on the development of the PHX chip, with Columbia  </textline>
+<textline bbox="93.600,393.643,602.065,403.627" font="Helvetica" ncolour="0" size="9.984" colourspace="DeviceGray">on development of the interface to PHENIX DAQ, and on the simulation effort with NMSU.   Los Alamos is currently  </textline>
+<textline bbox="93.600,381.628,621.998,391.588" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">leading the mechanical engineering and the integration effort for the barrel detector, VTX, and will continue those efforts  </textline>
+<textline bbox="93.600,367.286,156.816,379.286">for the FVTX.  <text font="Helvetica" bbox="93.600,367.708,96.369,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="96.468,367.708,102.006,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="102.006,367.708,105.323,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="105.323,367.708,108.092,377.668" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="107.992,367.708,110.761,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="110.761,367.708,116.299,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="116.299,367.708,121.837,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="121.797,367.708,124.566,377.668" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="124.436,367.708,130.522,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">F</text>
+<text font="Helvetica" bbox="130.542,367.708,137.185,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">V</text>
+<text font="Helvetica" bbox="137.145,367.708,143.231,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">T</text>
+<text font="Helvetica" bbox="143.380,367.708,150.023,377.668" colourspace="DeviceGray" ncolour="0" size="9.960">X</text>
+<text font="Helvetica" bbox="150.120,367.286,153.456,379.286" colourspace="DeviceGray" ncolour="0" size="12.000">.</text>
+<text font="Helvetica" bbox="153.480,367.286,156.816,379.286" colourspace="DeviceGray" ncolour="0" size="12.000"> </text>
+</textline>
+<textline bbox="93.600,348.106,235.676,364.066" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Columbia University </textline>
+<textline bbox="93.600,336.028,630.245,345.988" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">Columbia University is an acknowledged expert on the PHENIX DAQ system  They will work on the interface between the  </textline>
+<textline bbox="93.600,324.028,237.831,333.988" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">PHX chip and the PHENIX DAQ. </textline>
+<textline bbox="93.600,304.906,243.943,320.866" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Iowa State University </textline>
+<textline bbox="93.600,292.828,611.391,302.788" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">Iowa State University is currently working on management details with the barrel detector and working on an (funded)  </textline>
+<textline bbox="93.600,278.481,357.873,290.505">SBIR effort for the level one trigger capabilities of the FVTX. <text font="Helvetica" bbox="93.600,278.908,100.243,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">S</text>
+<text font="Helvetica" bbox="100.203,278.908,106.847,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">B</text>
+<text font="Helvetica" bbox="106.807,278.908,109.576,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">I</text>
+<text font="Helvetica" bbox="109.576,278.908,116.767,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">R</text>
+<text font="Helvetica" bbox="116.767,278.908,119.536,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="119.635,278.908,125.173,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="125.173,278.908,127.942,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="128.022,278.908,130.791,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="130.890,278.908,136.428,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="136.428,278.908,139.745,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="139.745,278.908,142.514,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="142.514,278.908,145.282,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="144.934,278.908,147.703,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="147.802,278.908,153.340,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="153.340,278.908,156.657,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="156.657,278.908,159.426,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="159.326,278.908,162.095,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="162.095,278.908,167.633,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="167.633,278.908,173.170,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="173.131,278.908,175.899,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="175.770,278.908,177.981,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="177.931,278.908,183.469,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="183.469,278.908,188.449,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">v</text>
+<text font="Helvetica" bbox="188.369,278.908,193.907,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="193.907,278.908,196.118,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="196.049,278.908,198.817,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="199.037,278.908,204.574,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="204.574,278.908,210.112,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="210.072,278.908,215.610,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="215.610,278.908,218.379,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="218.379,278.908,221.148,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="221.108,278.908,224.425,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="224.454,278.908,226.666,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="226.616,278.908,232.154,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">g</text>
+<text font="Helvetica" bbox="232.154,278.908,237.691,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">g</text>
+<text font="Helvetica" bbox="237.651,278.908,243.189,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="243.189,278.908,246.506,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="246.506,278.908,249.275,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="249.275,278.908,254.255,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="Helvetica" bbox="254.325,278.908,259.862,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Helvetica" bbox="259.862,278.908,265.400,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">p</text>
+<text font="Helvetica" bbox="265.360,278.908,270.898,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Helvetica" bbox="270.898,278.908,276.436,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">b</text>
+<text font="Helvetica" bbox="276.396,278.908,278.607,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="278.557,278.908,280.768,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="280.719,278.908,282.930,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="282.880,278.908,285.649,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="285.649,278.908,287.860,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="287.800,278.908,293.338,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="293.338,278.908,298.318,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="298.348,278.908,301.117,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="301.216,278.908,306.754,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="306.754,278.908,309.523,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="309.603,278.908,312.371,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="312.242,278.908,315.011,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="315.011,278.908,320.549,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="320.549,278.908,326.086,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="326.046,278.908,328.815,288.868" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="328.686,278.908,334.771,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">F</text>
+<text font="Helvetica" bbox="334.791,278.908,341.435,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">V</text>
+<text font="Helvetica" bbox="341.395,278.908,347.480,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">T</text>
+<text font="Helvetica" bbox="347.630,278.908,354.273,288.868" colourspace="DeviceGray" ncolour="0" size="9.960">X</text>
+<text font="Helvetica" bbox="354.530,278.481,357.873,290.505" colourspace="DeviceGray" ncolour="0" size="12.024">.</text>
+</textline>
+<textline bbox="93.600,259.276,571.586,275.236" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Charles University, Czech Technical University, Institute of Physics,  </textline>
+<textline bbox="93.600,240.076,312.204,256.036" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Academy of Sciences,  Prague </textline>
+<textline bbox="93.600,227.998,599.757,237.958" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">The Czech groups have been active in the development, testing, assembly, and commissioning of the ATLAS pixel  </textline>
+<textline bbox="93.600,215.998,553.812,225.958" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">sensors.   They will do the same for the FVTX effort and additionally participate in software development. </textline>
+<textline bbox="93.600,196.876,297.074,212.836" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">New Mexico State University </textline>
+<textline bbox="93.600,182.456,526.246,194.456">NMSU will work on comprehensive simulations for the FVTX effort and work on the sensor testing. <text font="Helvetica" bbox="93.600,182.878,100.791,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">N</text>
+<text font="Helvetica" bbox="100.791,182.878,109.088,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">M</text>
+<text font="Helvetica" bbox="109.088,182.878,115.731,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">S</text>
+<text font="Helvetica" bbox="115.681,182.878,122.872,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">U</text>
+<text font="Helvetica" bbox="122.872,182.878,125.641,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="125.870,182.878,133.062,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">w</text>
+<text font="Helvetica" bbox="132.952,182.878,135.163,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="135.113,182.878,137.324,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="137.275,182.878,139.486,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="139.436,182.878,142.205,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="142.543,182.878,149.735,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">w</text>
+<text font="Helvetica" bbox="149.625,182.878,155.163,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="155.163,182.878,158.479,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="158.479,182.878,163.459,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">k</text>
+<text font="Helvetica" bbox="163.659,182.878,166.428,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="166.428,182.878,171.965,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="171.965,182.878,177.503,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="177.463,182.878,180.232,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="180.232,182.878,185.212,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">c</text>
+<text font="Helvetica" bbox="185.252,182.878,190.790,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="190.790,182.878,199.086,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="Helvetica" bbox="199.286,182.878,204.823,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">p</text>
+<text font="Helvetica" bbox="204.823,182.878,208.140,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="208.140,182.878,213.678,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="213.678,182.878,219.216,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="219.216,182.878,224.753,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="224.753,182.878,230.291,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="230.241,182.878,235.221,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="235.271,182.878,237.482,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="237.432,182.878,242.412,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">v</text>
+<text font="Helvetica" bbox="242.353,182.878,247.890,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="247.890,182.878,250.659,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="250.390,182.878,255.370,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="255.420,182.878,257.631,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="257.581,182.878,265.878,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">m</text>
+<text font="Helvetica" bbox="266.087,182.878,271.625,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">u</text>
+<text font="Helvetica" bbox="271.625,182.878,273.836,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">l</text>
+<text font="Helvetica" bbox="273.766,182.878,279.304,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Helvetica" bbox="279.304,182.878,282.073,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="282.073,182.878,284.284,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="284.205,182.878,289.742,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="289.742,182.878,295.280,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="295.240,182.878,300.220,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="300.270,182.878,303.039,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="303.039,182.878,305.808,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="305.897,182.878,311.435,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="311.435,182.878,314.752,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="314.752,182.878,317.521,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="317.421,182.878,320.190,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="320.190,182.878,325.728,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="325.728,182.878,331.266,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="331.226,182.878,333.995,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="333.865,182.878,339.951,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">F</text>
+<text font="Helvetica" bbox="339.971,182.878,346.614,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">V</text>
+<text font="Helvetica" bbox="346.574,182.878,352.660,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">T</text>
+<text font="Helvetica" bbox="352.809,182.878,359.452,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">X</text>
+<text font="Helvetica" bbox="359.522,182.878,362.291,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="362.161,182.878,367.699,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="367.699,182.878,370.468,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="370.548,182.878,373.317,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">f</text>
+<text font="Helvetica" bbox="373.416,182.878,378.954,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="378.954,182.878,382.271,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="382.271,182.878,385.040,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="385.040,182.878,387.808,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="387.460,182.878,392.998,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">a</text>
+<text font="Helvetica" bbox="392.998,182.878,398.535,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="398.496,182.878,404.033,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">d</text>
+<text font="Helvetica" bbox="404.033,182.878,406.802,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="406.653,182.878,413.844,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">w</text>
+<text font="Helvetica" bbox="413.734,182.878,419.272,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="419.272,182.878,422.589,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="422.589,182.878,427.569,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">k</text>
+<text font="Helvetica" bbox="427.768,182.878,430.537,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="430.537,182.878,436.075,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="436.075,182.878,441.612,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="441.573,182.878,444.341,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="444.341,182.878,447.110,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="447.110,182.878,452.648,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">h</text>
+<text font="Helvetica" bbox="452.608,182.878,458.146,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="458.146,182.878,460.915,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="460.765,182.878,465.745,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="465.795,182.878,471.333,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="471.333,182.878,476.871,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="476.831,182.878,481.811,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="481.861,182.878,487.398,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">o</text>
+<text font="Helvetica" bbox="487.398,182.878,490.715,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">r</text>
+<text font="Helvetica" bbox="490.715,182.878,493.484,192.838" colourspace="DeviceGray" ncolour="0" size="9.960"> </text>
+<text font="Helvetica" bbox="493.384,182.878,496.153,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="496.153,182.878,501.691,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">e</text>
+<text font="Helvetica" bbox="501.691,182.878,506.671,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">s</text>
+<text font="Helvetica" bbox="506.691,182.878,509.460,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">t</text>
+<text font="Helvetica" bbox="509.460,182.878,511.671,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">i</text>
+<text font="Helvetica" bbox="511.611,182.878,517.149,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">n</text>
+<text font="Helvetica" bbox="517.149,182.878,522.687,192.838" colourspace="DeviceGray" ncolour="0" size="9.960">g</text>
+<text font="Helvetica" bbox="522.910,182.456,526.246,194.456" colourspace="DeviceGray" ncolour="0" size="12.000">.</text>
+</textline>
+<textline bbox="93.600,163.271,272.988,179.255" font="Helvetica" ncolour="0" size="15.984" colourspace="DeviceGray">University of New Mexico </textline>
+<textline bbox="93.600,151.193,620.625,161.177" font="Helvetica" ncolour="0" size="9.984" colourspace="DeviceGray">UNM has experience in testing, Q/A and a laboratory for characterization of sensors.  They are currently working on the  </textline>
+<textline bbox="93.600,139.178,535.635,149.138" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">barrel strip sensors and will do the same for the FVTX effort.  They may also work on the flex cables. </textline>
+<textline bbox="93.600,120.056,141.624,136.016" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Saclay </textline>
+<textline bbox="93.600,107.978,220.988,117.938" font="Helvetica" ncolour="0" size="9.960" colourspace="DeviceGray">Saclay will work on software. </textline>
+</textbox>
+<textbox id="2" bbox="669.000,28.036,676.806,42.076" size="14.04">6 <textline bbox="669.000,28.036,676.806,42.076" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">6 </textline>
+</textbox>
+<figure name="Image15" bbox="622.680,451.920,665.040,528.720" src="Image15.4.jpg" width="42" height="76">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="137.110,461.156,549.334,485.156" size="24.0">Participating and Interested Institutions <textline bbox="137.110,461.156,549.334,485.156" font="BCDEEE+Times,Bold" ncolour="(0, 0.29, 0.647)" size="24.000" colourspace="DeviceGray">Participating and Interested Institutions </textline>
+</textbox>
+<textbox id="1" bbox="115.220,365.331,575.336,410.116" size="13.328000000000001">Brookhaven National Laboratory 
+Brookhaven manages the integration and ancillary systems for the VTX and will do the  
+same for the FVTX.  They might also participate in software. <textline bbox="115.220,394.156,344.230,410.116" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Brookhaven National Laboratory </textline>
+<textline bbox="115.220,379.736,575.336,391.736" font="Helvetica" ncolour="0" size="12.000" colourspace="DeviceGray">Brookhaven manages the integration and ancillary systems for the VTX and will do the  </textline>
+<textline bbox="115.220,365.331,433.471,377.355" font="Helvetica" ncolour="0" size="12.024" colourspace="DeviceGray">same for the FVTX.  They might also participate in software. </textline>
+</textbox>
+<textbox id="2" bbox="115.220,317.316,347.933,347.696" size="13.98">Bhabha Atomic Research Centre 
+Involvment still under discussion <textline bbox="115.220,331.736,347.933,347.696" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">Bhabha Atomic Research Centre </textline>
+<textline bbox="115.220,317.316,287.000,329.316" font="Helvetica" ncolour="0" size="12.000" colourspace="DeviceGray">Involvment still under discussion </textline>
+</textbox>
+<textbox id="3" bbox="115.220,286.136,276.735,302.096" size="15.96">University of Jyvaskyla <textline bbox="115.220,286.136,276.735,302.096" font="Helvetica" ncolour="0" size="15.960" colourspace="DeviceGray">University of Jyvaskyla </textline>
+</textbox>
+<textbox id="4" bbox="115.220,228.496,337.302,276.036" size="13.328000000000001">Involvment still under discussion 
+Yonsei University, Seoul, Korea 
+Involvment still under discussion <textline bbox="115.220,264.036,287.000,276.036" font="Helvetica" ncolour="0" size="12.000" colourspace="DeviceGray">Involvment still under discussion </textline>
+<textline bbox="115.220,242.931,337.302,258.915" font="Helvetica" ncolour="0" size="15.984" colourspace="DeviceGray">Yonsei University, Seoul, Korea </textline>
+<textline bbox="115.220,228.496,287.000,240.496" font="Helvetica" ncolour="0" size="12.000" colourspace="DeviceGray">Involvment still under discussion </textline>
+</textbox>
+<figure name="Image15" bbox="622.680,451.920,665.040,528.720" src="Image15.5.jpg" width="42" height="76">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="295.560,438.600,449.640,474.600" size="36.0">Summary <textline bbox="295.560,438.600,449.640,474.600" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Summary </textline>
+</textbox>
+<textbox id="1" bbox="139.220,399.940,547.556,423.940" size="24.0">&#8226; No exotic or state-of-the-art R&amp;D necessary  <textline bbox="139.220,399.940,547.556,423.940">&#8226; No exotic or state-of-the-art R&amp;D necessary  <text font="Helvetica" bbox="139.220,399.940,147.620,423.940" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="Helvetica" bbox="154.220,400.832,168.689,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">N</text>
+<text font="Helvetica" bbox="168.689,400.832,179.831,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Helvetica" bbox="179.871,400.832,185.442,420.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Helvetica" bbox="185.442,400.832,196.585,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="Helvetica" bbox="196.585,400.832,206.605,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">x</text>
+<text font="Helvetica" bbox="206.504,400.832,217.647,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Helvetica" bbox="217.647,400.832,223.218,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Helvetica" bbox="223.218,400.832,227.667,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="Helvetica" bbox="227.667,400.832,237.687,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="Helvetica" bbox="237.687,400.832,243.258,420.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Helvetica" bbox="243.097,400.832,254.240,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Helvetica" bbox="254.240,400.832,260.913,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="Helvetica" bbox="260.953,400.832,266.524,420.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Helvetica" bbox="266.344,400.832,276.364,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="Helvetica" bbox="276.364,400.832,281.935,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Helvetica" bbox="281.935,400.832,293.077,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Helvetica" bbox="293.077,400.832,298.648,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Helvetica" bbox="298.648,400.832,309.791,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="Helvetica" bbox="309.890,400.832,316.563,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">-</text>
+<text font="Helvetica" bbox="316.610,400.832,327.752,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Helvetica" bbox="327.794,400.832,333.365,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="Helvetica" bbox="333.310,400.832,339.983,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">-</text>
+<text font="Helvetica" bbox="339.910,400.832,345.481,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Helvetica" bbox="345.481,400.832,356.623,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="Helvetica" bbox="356.623,400.832,367.766,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="Helvetica" bbox="367.630,400.832,374.303,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">-</text>
+<text font="Helvetica" bbox="374.230,400.832,385.372,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Helvetica" bbox="385.372,400.832,392.046,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="Helvetica" bbox="392.046,400.832,397.617,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Helvetica" bbox="397.516,400.832,403.088,420.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Helvetica" bbox="402.667,400.832,417.136,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">R</text>
+<text font="Helvetica" bbox="417.136,400.832,430.502,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">&amp;</text>
+<text font="Helvetica" bbox="430.502,400.832,444.971,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">D</text>
+<text font="Helvetica" bbox="444.971,400.832,450.542,420.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Helvetica" bbox="450.542,400.832,461.685,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="Helvetica" bbox="461.685,400.832,472.827,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="Helvetica" bbox="472.827,400.832,482.847,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="Helvetica" bbox="482.927,400.832,494.069,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="Helvetica" bbox="494.069,400.832,504.089,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="Helvetica" bbox="504.149,400.832,514.169,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="Helvetica" bbox="514.169,400.832,525.312,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Helvetica" bbox="525.372,400.832,532.045,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="Helvetica" bbox="531.965,400.832,541.985,420.872" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="Helvetica" bbox="541.985,400.832,547.556,420.872" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</textbox>
+<textbox id="2" bbox="139.220,363.926,634.381,384.171" size="20.064">&#8226; LANL LDRD funds very important with BNL R&amp;D funds <textline bbox="139.220,363.926,634.381,384.171">&#8226; LANL LDRD funds very important with BNL R&amp;D funds <text font="BCDFEE+Times" bbox="139.220,363.926,146.242,383.990" colourspace="DeviceGray" ncolour="0" size="20.064">&#8226;</text>
+<text font="Helvetica" bbox="151.220,364.107,162.376,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">L</text>
+<text font="Helvetica" bbox="162.376,364.107,175.758,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">A</text>
+<text font="Helvetica" bbox="175.758,364.107,190.244,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">N</text>
+<text font="Helvetica" bbox="190.244,364.107,201.400,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">L</text>
+<text font="Helvetica" bbox="200.658,364.107,206.235,384.171" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="Helvetica" bbox="206.055,364.107,217.210,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">L</text>
+<text font="Helvetica" bbox="217.210,364.107,231.697,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">D</text>
+<text font="Helvetica" bbox="231.697,364.107,246.183,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">R</text>
+<text font="Helvetica" bbox="246.243,364.107,260.729,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">D</text>
+<text font="Helvetica" bbox="260.729,364.107,266.307,384.171" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="Helvetica" bbox="266.167,364.107,271.744,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">f</text>
+<text font="Helvetica" bbox="271.744,364.107,282.900,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">u</text>
+<text font="Helvetica" bbox="282.900,364.107,294.056,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="Helvetica" bbox="294.056,364.107,305.211,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">d</text>
+<text font="Helvetica" bbox="305.211,364.107,315.243,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">s</text>
+<text font="Helvetica" bbox="315.243,364.107,320.821,384.171" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="Helvetica" bbox="320.520,364.107,330.552,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">v</text>
+<text font="Helvetica" bbox="330.472,364.107,341.627,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="Helvetica" bbox="341.627,364.107,348.309,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">r</text>
+<text font="Helvetica" bbox="348.309,364.107,358.341,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">y</text>
+<text font="Helvetica" bbox="358.341,364.107,363.918,384.171" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="Helvetica" bbox="363.838,364.107,368.292,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="Helvetica" bbox="368.292,364.107,385.006,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">m</text>
+<text font="Helvetica" bbox="385.006,364.107,396.161,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">p</text>
+<text font="Helvetica" bbox="396.161,364.107,407.317,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">o</text>
+<text font="Helvetica" bbox="407.317,364.107,413.998,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">r</text>
+<text font="Helvetica" bbox="413.998,364.107,419.576,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="Helvetica" bbox="419.576,364.107,430.732,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="Helvetica" bbox="430.732,364.107,441.887,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="Helvetica" bbox="441.887,364.107,447.465,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="Helvetica" bbox="447.365,364.107,452.942,384.171" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="Helvetica" bbox="452.521,364.107,467.007,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">w</text>
+<text font="Helvetica" bbox="467.007,364.107,471.462,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="Helvetica" bbox="471.462,364.107,477.039,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="Helvetica" bbox="477.039,364.107,488.195,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">h</text>
+<text font="Helvetica" bbox="488.195,364.107,493.773,384.171" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="Helvetica" bbox="493.672,364.107,507.055,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">B</text>
+<text font="Helvetica" bbox="506.995,364.107,521.481,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">N</text>
+<text font="Helvetica" bbox="521.481,364.107,532.637,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">L</text>
+<text font="Helvetica" bbox="531.954,364.107,537.532,384.171" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="Helvetica" bbox="537.532,364.107,552.018,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">R</text>
+<text font="Helvetica" bbox="552.018,364.107,565.401,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">&amp;</text>
+<text font="Helvetica" bbox="565.321,364.107,579.807,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">D</text>
+<text font="Helvetica" bbox="579.807,364.107,585.385,384.171" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="Helvetica" bbox="585.385,364.107,590.963,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">f</text>
+<text font="Helvetica" bbox="590.882,364.107,602.038,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">u</text>
+<text font="Helvetica" bbox="602.038,364.107,613.194,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="Helvetica" bbox="613.194,364.107,624.349,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">d</text>
+<text font="Helvetica" bbox="624.349,364.107,634.381,384.171" colourspace="DeviceGray" ncolour="0" size="20.064">s</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="139.220,327.902,460.697,348.002" size="20.04">&#8226; Mechanical design concept mature <textline bbox="139.220,327.902,460.697,348.002" font="Helvetica" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Mechanical design concept mature </textline>
+</textbox>
+<textbox id="4" bbox="139.220,291.902,394.064,312.002" size="20.04">&#8226; FPHX ready for prototyping <textline bbox="139.220,291.902,394.064,312.002" font="Helvetica" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; FPHX ready for prototyping </textline>
+</textbox>
+<textbox id="5" bbox="139.220,231.942,626.494,276.021" size="20.052">&#8226; Will design bus and flex cables with conventional line  
+width  <textline bbox="139.220,255.897,626.494,276.021" font="Helvetica" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; Will design bus and flex cables with conventional line  </textline>
+<textline bbox="139.220,231.942,191.564,251.982" font="Helvetica" ncolour="0" size="20.040" colourspace="DeviceGray">width  </textline>
+</textbox>
+<textbox id="6" bbox="139.220,195.882,452.921,215.982" size="20.04">&#8226; Management Plan is taking shape <textline bbox="139.220,195.882,452.921,215.982" font="Helvetica" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Management Plan is taking shape </textline>
+</textbox>
+<textbox id="7" bbox="139.220,159.882,398.533,179.982" size="20.04">&#8226; Cost Basis is in good shape <textline bbox="139.220,159.882,398.533,179.982" font="Helvetica" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Cost Basis is in good shape </textline>
+</textbox>
+<textbox id="8" bbox="139.220,123.877,618.670,144.001" size="20.064">&#8226; Construction Schedule points to FY 2011 as data run <textline bbox="139.220,123.877,618.670,144.001" font="Helvetica" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; Construction Schedule points to FY 2011 as data run </textline>
+</textbox>
+<figure name="Image15" bbox="622.680,451.920,665.040,528.720" src="Image15.6.jpg" width="42" height="76">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="268.180,459.310,451.804,483.310" size="24.0">Major Task Areas <textline bbox="268.180,459.310,451.804,483.310" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Major Task Areas </textline>
+</textbox>
+<textbox id="1" bbox="529.300,391.428,592.310,407.388" size="15.96">Manager <textline bbox="529.300,391.428,592.310,407.388" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Manager </textline>
+</textbox>
+<textbox id="2" bbox="367.270,372.223,443.737,407.388" size="15.972000000000001">Interested  
+Institutions <textline bbox="367.270,391.428,442.713,407.388" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Interested  </textline>
+<textline bbox="367.270,372.223,443.737,388.207" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">Institutions </textline>
+</textbox>
+<textbox id="3" bbox="367.270,326.598,479.900,361.758" size="15.96">LANL,Czech,  
+Columbia, UNM <textline bbox="367.270,345.798,465.871,361.758" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL,Czech,  </textline>
+<textline bbox="367.270,326.598,479.900,342.558" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Columbia, UNM </textline>
+</textbox>
+<textbox id="4" bbox="49.200,391.428,97.702,407.388" size="15.96">TOPIC <textline bbox="49.200,391.428,97.702,407.388" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">TOPIC </textline>
+</textbox>
+<textbox id="5" bbox="49.200,345.798,99.857,361.758" size="15.96">Sensor <textline bbox="49.200,345.798,99.857,361.758" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Sensor </textline>
+</textbox>
+<textbox id="6" bbox="49.200,300.198,76.677,316.158" size="15.96">HDI <textline bbox="49.200,300.198,76.677,316.158" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">HDI </textline>
+</textbox>
+<textbox id="7" bbox="49.200,268.188,91.765,284.148" size="15.96">FPHX <textline bbox="49.200,268.188,91.765,284.148" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">FPHX </textline>
+</textbox>
+<textbox id="8" bbox="49.200,236.188,83.785,252.148" size="15.96">DAQ <textline bbox="49.200,236.188,83.785,252.148" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">DAQ </textline>
+</textbox>
+<textbox id="9" bbox="205.250,391.428,299.398,407.388" size="15.96">Effort to Date <textline bbox="205.250,391.428,299.398,407.388" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Effort to Date </textline>
+</textbox>
+<textbox id="10" bbox="205.250,345.798,299.398,361.758" size="15.96">LANL, Czech <textline bbox="205.250,345.798,299.398,361.758" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL, Czech </textline>
+</textbox>
+<textbox id="11" bbox="205.250,300.198,290.508,316.158" size="15.96">UNM, LANL <textline bbox="205.250,300.198,290.508,316.158" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">UNM, LANL </textline>
+</textbox>
+<textbox id="12" bbox="205.250,268.188,245.166,284.148" size="15.96">LANL <textline bbox="205.250,268.188,245.166,284.148" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL </textline>
+</textbox>
+<textbox id="13" bbox="205.250,236.188,317.162,252.148" size="15.96">LANL,Columbia <textline bbox="205.250,236.188,317.162,252.148" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL,Columbia </textline>
+</textbox>
+<textbox id="14" bbox="367.270,236.188,483.618,252.148" size="15.96">LANL, Columbia <textline bbox="367.270,236.188,483.618,252.148" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL, Columbia </textline>
+</textbox>
+<textbox id="15" bbox="49.200,204.178,125.664,220.138" size="15.96">Mechanics <textline bbox="49.200,204.178,125.664,220.138" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Mechanics </textline>
+</textbox>
+<textbox id="16" bbox="205.250,204.178,303.532,220.138" size="15.96">LANL,HYTEC <textline bbox="205.250,204.178,303.532,220.138" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL,HYTEC </textline>
+</textbox>
+<textbox id="17" bbox="367.270,204.178,469.973,220.138" size="15.96">LANL, HYTEC <textline bbox="367.270,204.178,469.973,220.138" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL, HYTEC </textline>
+</textbox>
+<textbox id="18" bbox="529.300,204.178,556.799,220.138" size="15.96">Pak <textline bbox="529.300,204.178,556.799,220.138" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Pak </textline>
+</textbox>
+<textbox id="19" bbox="49.200,172.183,133.596,188.167" size="15.984">Flex Cables <textline bbox="49.200,172.183,133.596,188.167" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">Flex Cables </textline>
+</textbox>
+<textbox id="20" bbox="205.250,172.183,290.573,188.167" size="15.984">UNM, LANL <textline bbox="205.250,172.183,290.573,188.167" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">UNM, LANL </textline>
+</textbox>
+<textbox id="21" bbox="367.270,172.183,403.625,188.167" size="15.984">UNM <textline bbox="367.270,172.183,403.625,188.167" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">UNM </textline>
+</textbox>
+<textbox id="22" bbox="49.200,140.168,172.603,156.128" size="15.96">Wedge Assembly <textline bbox="49.200,140.168,172.603,156.128" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Wedge Assembly </textline>
+</textbox>
+<textbox id="23" bbox="205.250,140.168,308.144,156.128" size="15.96">HYTEC, LANL <textline bbox="205.250,140.168,308.144,156.128" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">HYTEC, LANL </textline>
+</textbox>
+<textbox id="24" bbox="367.270,140.168,434.797,156.128" size="15.96">Columbia <textline bbox="367.270,140.168,434.797,156.128" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Columbia </textline>
+</textbox>
+<textbox id="25" bbox="49.200,108.148,109.720,124.108" size="15.96">Ancillary <textline bbox="49.200,108.148,109.720,124.108" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Ancillary </textline>
+</textbox>
+<textbox id="26" bbox="205.250,108.148,346.448,124.108" size="15.96">LANL, UNM, NMSU <textline bbox="205.250,108.148,346.448,124.108" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL, UNM, NMSU </textline>
+</textbox>
+<textbox id="27" bbox="49.200,76.160,125.569,92.120" size="15.96">Calibration <textline bbox="49.200,76.160,125.569,92.120" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Calibration </textline>
+</textbox>
+<textbox id="28" bbox="205.250,76.160,245.166,92.120" size="15.96">LANL <textline bbox="205.250,76.160,245.166,92.120" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL </textline>
+</textbox>
+<textbox id="29" bbox="367.270,76.160,407.186,92.120" size="15.96">LANL <textline bbox="367.270,76.160,407.186,92.120" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL </textline>
+</textbox>
+<textbox id="30" bbox="529.300,76.160,564.814,92.120" size="15.96">done <textline bbox="529.300,76.160,564.814,92.120" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">done </textline>
+</textbox>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="268.180,459.310,451.804,483.310" size="24.0">Major Task Areas <textline bbox="268.180,459.310,451.804,483.310" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Major Task Areas </textline>
+</textbox>
+<textbox id="1" bbox="49.200,391.428,97.702,407.388" size="15.96">TOPIC <textline bbox="49.200,391.428,97.702,407.388" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">TOPIC </textline>
+</textbox>
+<textbox id="2" bbox="205.250,391.428,299.398,407.388" size="15.96">Effort to Date <textline bbox="205.250,391.428,299.398,407.388" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Effort to Date </textline>
+</textbox>
+<textbox id="3" bbox="529.300,391.428,592.310,407.388" size="15.96">Manager <textline bbox="529.300,391.428,592.310,407.388" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Manager </textline>
+</textbox>
+<textbox id="4" bbox="367.270,372.223,443.737,407.388" size="15.972000000000001">Interested  
+Institutions <textline bbox="367.270,391.428,442.713,407.388" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Interested  </textline>
+<textline bbox="367.270,372.223,443.737,388.207" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">Institutions </textline>
+</textbox>
+<textbox id="5" bbox="205.250,345.798,307.953,361.758" size="15.96">LANL, HYTEC <textline bbox="205.250,345.798,307.953,361.758" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL, HYTEC </textline>
+</textbox>
+<textbox id="6" bbox="49.200,326.598,158.319,361.758" size="15.96">Disk and Cage  
+Assembly <textline bbox="49.200,345.798,158.319,361.758" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Disk and Cage  </textline>
+<textline bbox="49.200,326.598,118.578,342.558" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Assembly </textline>
+</textbox>
+<textbox id="7" bbox="49.200,300.198,127.292,316.158" size="15.96">Sensor QA <textline bbox="49.200,300.198,127.292,316.158" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Sensor QA </textline>
+</textbox>
+<textbox id="8" bbox="49.200,268.188,119.264,284.148" size="15.96">FPHX QA <textline bbox="49.200,268.188,119.264,284.148" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">FPHX QA </textline>
+</textbox>
+<textbox id="9" bbox="49.200,236.188,136.054,252.148" size="15.96">System Test <textline bbox="49.200,236.188,136.054,252.148" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">System Test </textline>
+</textbox>
+<textbox id="10" bbox="49.200,88.952,134.586,124.108" size="15.96">Mechanical  
+Engineer <textline bbox="49.200,108.148,134.586,124.108" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Mechanical  </textline>
+<textline bbox="49.200,88.952,113.168,104.912" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Engineer </textline>
+</textbox>
+<textbox id="11" bbox="205.250,108.148,285.497,124.108" size="15.96">LANL, Walt <textline bbox="205.250,108.148,285.497,124.108" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">LANL, Walt </textline>
+</textbox>
+<textbox id="12" bbox="49.200,61.400,309.070,77.360" size="15.96">Electrical Engineer Columbia, Eric <textline bbox="49.200,61.400,309.070,77.360" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Electrical Engineer Columbia, Eric </textline>
+</textbox>
+<textbox id="13" bbox="529.300,108.148,560.725,124.108" size="15.96">Walt <textline bbox="529.300,108.148,560.725,124.108" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Walt </textline>
+</textbox>
+<textbox id="14" bbox="529.300,61.400,556.831,77.360" size="15.96">Eric <textline bbox="529.300,61.400,556.831,77.360" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Eric </textline>
+</textbox>
+</page>
+</pages>

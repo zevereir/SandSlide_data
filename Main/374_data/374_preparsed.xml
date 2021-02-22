@@ -1,0 +1,659 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="124.270,496.819,595.482,528.859" size="32.04">Cost and Schedule Review Agenda <textline bbox="124.270,496.819,595.482,528.859" font="TimesNewRomanPS-BoldMT" ncolour="1" size="32.040" colourspace="DeviceGray">Cost and Schedule Review Agenda </textline>
+</textbox>
+<textbox id="1" bbox="115.220,381.547,305.476,451.027" size="14.04">Executive Session 
+Welcome 
+Project Overview, Cost, Schedule 
+Detector Design and Performance <textline bbox="115.220,436.987,217.740,451.027" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Executive Session </textline>
+<textline bbox="115.220,418.507,167.631,432.547" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Welcome </textline>
+<textline bbox="115.220,400.027,303.932,414.067" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Project Overview, Cost, Schedule </textline>
+<textline bbox="115.220,381.547,305.476,395.587" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Detector Design and Performance </textline>
+</textbox>
+<textbox id="2" bbox="43.200,215.177,375.746,469.507" size="14.043428571428565">Monday, November 9, 2015 
+8:00 am 
+8:45 am 
+8:55 am 
+9:40 am  
+10:10 am SC-Magnet and Infrastructure 
+10:35 am Break 
+10:50 am Integration, Installation and Decommissioning 
+11:15 am EMCal and Cal Electronics 
+11:40 am HCal 
+12:05 pm Tracker 
+12:30 pm sPHENIX Collaboration 
+12:45 pm Lunch 
+1:45 pm Subcommittee breakout session <textline bbox="43.200,455.467,200.799,469.507" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Monday, November 9, 2015 </textline>
+<textline bbox="43.200,436.987,88.605,451.027" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">8:00 am </textline>
+<textline bbox="43.200,418.507,88.605,432.547" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">8:45 am </textline>
+<textline bbox="43.200,400.027,88.605,414.067" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">8:55 am </textline>
+<textline bbox="43.200,381.547,91.877,395.587" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">9:40 am  </textline>
+<textline bbox="43.200,363.062,283.466,377.126" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">10:10 am SC-Magnet and Infrastructure </textline>
+<textline bbox="43.200,344.557,148.748,358.597" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">10:35 am Break </textline>
+<textline bbox="43.200,326.077,375.746,340.117" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">10:50 am Integration, Installation and Decommissioning </textline>
+<textline bbox="43.200,307.597,269.137,321.637" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">11:15 am EMCal and Cal Electronics </textline>
+<textline bbox="43.200,289.117,144.802,303.157" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">11:40 am HCal </textline>
+<textline bbox="43.200,270.637,158.393,284.677" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">12:05 pm Tracker </textline>
+<textline bbox="43.200,252.152,252.742,266.216" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">12:30 pm sPHENIX Collaboration </textline>
+<textline bbox="43.200,233.657,151.120,247.697" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">12:45 pm Lunch </textline>
+<textline bbox="50.160,215.177,292.938,229.217" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">1:45 pm Subcommittee breakout session </textline>
+</textbox>
+<textbox id="3" bbox="403.270,363.062,455.611,451.027" size="14.044799999999999">Kotcher 
+Mueller 
+O&#8217;Brien 
+Haggerty 
+Mills <textline bbox="403.270,436.987,448.577,451.027" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Kotcher </textline>
+<textline bbox="403.270,418.507,447.847,432.547" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Mueller </textline>
+<textline bbox="403.270,400.027,449.153,414.067" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">O&#8217;Brien </textline>
+<textline bbox="403.270,381.547,455.611,395.587" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Haggerty </textline>
+<textline bbox="403.270,363.062,433.086,377.126" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Mills </textline>
+</textbox>
+<textbox id="4" bbox="403.270,252.152,458.152,340.117" size="14.044799999999999">Lynch 
+Sickles 
+Lajoie 
+Hemmick 
+Harris <textline bbox="403.270,326.077,438.230,340.117" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Lynch </textline>
+<textline bbox="403.270,307.597,443.972,321.637" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Sickles </textline>
+<textline bbox="403.270,289.117,439.114,303.157" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Lajoie </textline>
+<textline bbox="403.270,270.637,458.152,284.677" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Hemmick </textline>
+<textline bbox="403.270,252.152,438.346,266.216" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">Harris </textline>
+</textbox>
+<textbox id="5" bbox="115.220,141.257,399.783,210.737" size="14.04">Project Management, Cost and Schedule 
+Calorimetry 
+Tracker, DAQ and Trigger 
+Infrastructure, Installation, Integration and Magnet <textline bbox="115.220,196.697,343.131,210.737" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Project Management, Cost and Schedule </textline>
+<textline bbox="115.220,178.217,183.005,192.257" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Calorimetry </textline>
+<textline bbox="115.220,159.737,263.651,173.777" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Tracker, DAQ and Trigger </textline>
+<textline bbox="115.220,141.257,399.783,155.297" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Infrastructure, Installation, Integration and Magnet </textline>
+</textbox>
+<textbox id="6" bbox="53.640,85.791,308.352,136.836" size="14.048">3:45 pm     Break 
+4:00 pm     Subcommittee executive session 
+5:00 pm Full Committee executive session <textline bbox="53.640,122.772,151.118,136.836" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">3:45 pm     Break </textline>
+<textline bbox="53.640,104.267,300.168,118.307" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">4:00 pm     Subcommittee executive session </textline>
+<textline bbox="53.640,85.791,308.352,99.831" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">5:00 pm Full Committee executive session </textline>
+</textbox>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="124.270,496.819,595.482,528.859" size="32.04">Cost and Schedule Review Agenda <textline bbox="124.270,496.819,595.482,528.859" font="TimesNewRomanPS-BoldMT" ncolour="1" size="32.040" colourspace="DeviceGray">Cost and Schedule Review Agenda </textline>
+</textbox>
+<textbox id="1" bbox="43.200,433.627,207.973,467.827" size="14.04">Tuesday, November 10, 2015 
+8:00 am <textline bbox="43.200,453.787,207.973,467.827" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Tuesday, November 10, 2015 </textline>
+<textline bbox="43.200,433.627,88.605,447.667" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">8:00 am </textline>
+</textbox>
+<textbox id="2" bbox="115.220,413.467,309.786,447.667" size="14.04">Subcommittee Breakout session 
+Drill downs and project interviews <textline bbox="115.220,433.627,295.058,447.667" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Subcommittee Breakout session </textline>
+<textline bbox="115.220,413.467,309.786,427.507" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">Drill downs and project interviews </textline>
+</textbox>
+<textbox id="3" bbox="43.200,292.477,304.411,407.347" size="14.043999999999997">11:00 am      Q and A full committee 
+11:30 am      Executive session/Report Writing 
+12:30 am      Working lunch 
+2:00 pm Dry Run Close Out 
+3:00 pm Close Out 
+4:00 pm End <textline bbox="43.200,393.307,247.356,407.347" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">11:00 am      Q and A full committee </textline>
+<textline bbox="43.200,373.142,304.411,387.206" font="TimesNewRomanPSMT" ncolour="0" size="14.064" colourspace="DeviceGray">11:30 am      Executive session/Report Writing </textline>
+<textline bbox="43.200,352.957,199.760,366.997" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">12:30 am      Working lunch </textline>
+<textline bbox="50.160,332.797,223.777,346.837" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">2:00 pm Dry Run Close Out </textline>
+<textline bbox="50.160,312.637,171.745,326.677" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">3:00 pm Close Out </textline>
+<textline bbox="50.160,292.477,137.824,306.517" font="TimesNewRomanPSMT" ncolour="0" size="14.040" colourspace="DeviceGray">4:00 pm End </textline>
+</textbox>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="78.552,453.362,641.347,530.916" size="21.695999999999998">November Cost and Schedule Review Agenda 
+All Breakout session talks need to be prepared and posted ahead of time. 
+The committee will decide what slides they want to see. <textline bbox="78.552,501.852,641.347,530.916" font="TimesNewRomanPS-BoldMT" ncolour="1" size="29.064" colourspace="DeviceGray">November Cost and Schedule Review Agenda </textline>
+<textline bbox="80.592,474.977,637.137,493.001" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="18.024" colourspace="DeviceGray">All Breakout session talks need to be prepared and posted ahead of time. </textline>
+<textline bbox="80.592,453.362,501.450,471.362" font="TimesNewRomanPS-BoldMT" ncolour="(1, 0, 0)" size="18.000" colourspace="DeviceGray">The committee will decide what slides they want to see. </textline>
+</textbox>
+<textbox id="1" bbox="40.584,307.621,385.172,447.691" size="20.043999999999997">Project Management Break Out session: 
+Project Organization, Resources and Cost 
+Schedule and Documentation 
+Project Controls and Risk Registry 
+ES&amp;H 
+QA <textline bbox="40.584,427.651,385.172,447.691" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Project Management Break Out session: </textline>
+<textline bbox="40.584,403.411,373.629,423.451" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Project Organization, Resources and Cost </textline>
+<textline bbox="40.584,379.651,276.034,399.691" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Schedule and Documentation </textline>
+<textline bbox="40.584,355.646,319.052,375.710" font="TimesNewRomanPSMT" ncolour="0" size="20.064" colourspace="DeviceGray">Project Controls and Risk Registry </textline>
+<textline bbox="40.584,331.621,94.031,351.661" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">ES&amp;H </textline>
+<textline bbox="40.584,307.621,69.573,327.661" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">QA </textline>
+</textbox>
+<textbox id="2" bbox="40.584,43.575,389.681,279.661" size="20.042399999999994">Calorimeter Breakout session: 
+Calorimeter Overview 
+Calorimeter Simulations 
+R&amp;D and prototyping plan EMCal 
+R&amp;D and Prototyping plan HCal 
+R&amp;D and Prototyping plan: Cal Electronics 
+EMCal Production and assembly 
+HCal production and assembly 
+Cal electronics Digitizer Production 
+Cal on-detector electronics production <textline bbox="40.584,259.621,299.801,279.661" font="TimesNewRomanPS-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Calorimeter Breakout session: </textline>
+<textline bbox="40.584,235.616,219.956,255.680" font="TimesNewRomanPSMT" ncolour="0" size="20.064" colourspace="DeviceGray">Calorimeter Overview </textline>
+<textline bbox="40.584,211.601,236.295,231.641" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Calorimeter Simulations </textline>
+<textline bbox="40.584,187.601,318.018,207.641" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">R&amp;D and prototyping plan EMCal </textline>
+<textline bbox="40.584,163.601,303.709,183.641" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">R&amp;D and Prototyping plan HCal </textline>
+<textline bbox="40.584,139.601,389.681,159.641" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">R&amp;D and Prototyping plan: Cal Electronics </textline>
+<textline bbox="40.584,115.601,304.130,135.641" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">EMCal Production and assembly </textline>
+<textline bbox="40.584,91.575,287.537,111.615" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">HCal production and assembly </textline>
+<textline bbox="40.584,67.575,328.579,87.615" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Cal electronics Digitizer Production </textline>
+<textline bbox="40.584,43.575,347.413,63.615" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Cal on-detector electronics production </textline>
+</textbox>
+<textbox id="3" bbox="472.660,307.621,537.887,424.954" size="20.0448">Ed O&#8217;B 
+Jim M 
+Irina S 
+Paul G 
+Jack E <textline bbox="472.660,403.411,537.887,424.954">Ed O&#8217;B <text font="TimesNewRomanPSMT" bbox="472.660,403.411,484.904,423.451" colourspace="DeviceGray" ncolour="0" size="20.040">E</text>
+<text font="TimesNewRomanPSMT" bbox="484.904,403.411,494.924,423.451" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="TimesNewRomanPSMT" bbox="494.924,403.411,499.934,423.451" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="TimesNewRomanPSMT" bbox="499.934,403.411,514.403,423.451" colourspace="DeviceGray" ncolour="0" size="20.040">O</text>
+<text font="BCDEEE+MS-PGothic" bbox="514.440,404.914,524.460,424.954" colourspace="DeviceGray" ncolour="0" size="20.040">&#8217;</text>
+<text font="TimesNewRomanPSMT" bbox="524.520,403.411,537.887,423.451" colourspace="DeviceGray" ncolour="0" size="20.040">B</text>
+</textline>
+<textline bbox="472.660,379.651,524.163,399.691" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Jim M </textline>
+<textline bbox="472.660,355.646,526.391,375.710" font="TimesNewRomanPSMT" ncolour="0" size="20.064" colourspace="DeviceGray">Irina S </textline>
+<textline bbox="472.660,331.621,527.570,351.661" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Paul G </textline>
+<textline bbox="472.660,307.621,525.345,327.661" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Jack E </textline>
+</textbox>
+<textbox id="4" bbox="472.660,43.575,622.259,255.680" size="20.042666666666662">John H 
+Jin H 
+Sean S or Craig W 
+Edward K 
+Eric M 
+Chris C 
+Anatoli G 
+Chi 
+Steve B <textline bbox="472.660,235.616,529.862,255.680" font="TimesNewRomanPSMT" ncolour="0" size="20.064" colourspace="DeviceGray">John H </textline>
+<textline bbox="472.660,211.601,515.325,231.641" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Jin H </textline>
+<textline bbox="472.660,187.601,622.259,207.641" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Sean S or Craig W </textline>
+<textline bbox="472.660,163.601,554.283,183.641" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Edward K </textline>
+<textline bbox="472.660,139.601,528.752,159.641" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Eric M </textline>
+<textline bbox="472.660,115.601,534.263,135.641" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Chris C </textline>
+<textline bbox="472.660,91.575,552.038,111.615" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Anatoli G </textline>
+<textline bbox="472.660,67.575,501.618,87.615" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Chi </textline>
+<textline bbox="472.660,43.575,535.345,63.615" font="TimesNewRomanPSMT" ncolour="0" size="20.040" colourspace="DeviceGray">Steve B </textline>
+</textbox>
+<textbox id="5" bbox="43.200,17.946,101.408,29.970" size="12.024">10/13/2015 <textline bbox="43.200,17.946,101.408,29.970" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">10/13/2015 </textline>
+</textbox>
+<textbox id="6" bbox="326.040,17.946,393.928,29.970" size="12.024">PMG Meeting <textline bbox="326.040,17.946,393.928,29.970" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">PMG Meeting </textline>
+</textbox>
+<textbox id="7" bbox="670.680,17.946,676.776,29.970" size="12.024">3 <textline bbox="670.680,17.946,676.776,29.970" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">3 </textline>
+</textbox>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="49.488,494.129,671.128,526.169" size="32.04">November Cost and Schedule Review Agenda <textline bbox="49.488,494.129,671.128,526.169" font="TimesNewRomanPS-BoldMT" ncolour="1" size="32.040" colourspace="DeviceGray">November Cost and Schedule Review Agenda </textline>
+</textbox>
+<textbox id="1" bbox="20.568,329.405,608.499,473.795" size="18.964000000000002">Decommissioning, Magnet, Installation and Facilities Break Out session: 
+Decommissioning plans 
+SC-magnet testing, installation 
+sPHENIX infrastructure 
+Installation 
+Integration <textline bbox="20.568,454.835,608.499,473.795" font="TimesNewRomanPS-BoldMT" ncolour="0" size="18.960" colourspace="DeviceGray">Decommissioning, Magnet, Installation and Facilities Break Out session: </textline>
+<textline bbox="20.568,429.755,203.778,448.715" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Decommissioning plans </textline>
+<textline bbox="20.568,404.669,254.949,423.653" font="TimesNewRomanPSMT" ncolour="0" size="18.984" colourspace="DeviceGray">SC-magnet testing, installation </textline>
+<textline bbox="20.568,379.565,204.763,398.525" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">sPHENIX infrastructure </textline>
+<textline bbox="20.568,354.485,106.078,373.445" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Installation </textline>
+<textline bbox="20.568,329.405,103.992,348.365" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Integration </textline>
+</textbox>
+<textbox id="2" bbox="452.660,329.405,519.615,448.715" size="18.964800000000004">Dave P 
+Achim F 
+Paul G 
+Don L   
+Rich R <textline bbox="452.660,429.755,507.947,448.715" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Dave P </textline>
+<textline bbox="452.660,404.669,519.615,423.653" font="TimesNewRomanPSMT" ncolour="0" size="18.984" colourspace="DeviceGray">Achim F </textline>
+<textline bbox="452.660,379.565,504.857,398.525" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Paul G </textline>
+<textline bbox="452.660,354.485,510.545,373.445" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Don L   </textline>
+<textline bbox="452.660,329.405,505.748,348.365" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Rich R </textline>
+</textbox>
+<textbox id="3" bbox="20.568,53.475,389.940,298.223" size="18.967200000000005">Tracking and DAQ/Trigger Breakout session: 
+Tracking Overview 
+Tracking Simulations 
+R&amp;D and prototyping plan  Silicon strip 
+R&amp;D and prototyping plan  Strip electronics 
+R&amp;D and Prototyping plan TPC(det+elec) 
+R&amp;D and Prototyping plan:  DAQ/Trig 
+Si strip Production and assembly 
+TPC production and assembly 
+DAQ/Trig Production and assembly <textline bbox="20.568,279.239,389.940,298.223" font="TimesNewRomanPS-BoldMT" ncolour="0" size="18.984" colourspace="DeviceGray">Tracking and DAQ/Trigger Breakout session: </textline>
+<textline bbox="20.568,254.145,168.228,273.105" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Tracking Overview </textline>
+<textline bbox="20.568,229.065,183.889,248.025" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Tracking Simulations </textline>
+<textline bbox="20.568,203.985,326.981,222.945" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">R&amp;D and prototyping plan  Silicon strip </textline>
+<textline bbox="20.568,178.905,357.966,197.865" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">R&amp;D and prototyping plan  Strip electronics </textline>
+<textline bbox="20.568,153.819,341.962,172.803" font="TimesNewRomanPSMT" ncolour="0" size="18.984" colourspace="DeviceGray">R&amp;D and Prototyping plan TPC(det+elec) </textline>
+<textline bbox="20.568,128.725,319.416,147.685" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">R&amp;D and Prototyping plan:  DAQ/Trig </textline>
+<textline bbox="20.568,103.645,270.688,122.605" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Si strip Production and assembly </textline>
+<textline bbox="20.568,78.561,249.984,97.521" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">TPC production and assembly </textline>
+<textline bbox="20.568,53.475,294.982,72.459" font="TimesNewRomanPSMT" ncolour="0" size="18.984" colourspace="DeviceGray">DAQ/Trig Production and assembly </textline>
+</textbox>
+<textbox id="4" bbox="452.660,53.475,540.869,273.105" size="18.965333333333337">Itaru N 
+Tony F 
+Yasuyuki A 
+Mike Mc 
+Takao S 
+Martin P 
+Rachid N 
+Tom H 
+Martin P <textline bbox="452.660,254.145,507.029,273.105" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Itaru N </textline>
+<textline bbox="452.660,229.065,506.734,248.025" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Tony F </textline>
+<textline bbox="452.660,203.985,540.869,222.945" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Yasuyuki A </textline>
+<textline bbox="452.660,178.905,522.679,197.865" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Mike Mc </textline>
+<textline bbox="452.660,153.819,513.978,172.803" font="TimesNewRomanPSMT" ncolour="0" size="18.984" colourspace="DeviceGray">Takao S </textline>
+<textline bbox="452.660,128.725,519.551,147.685" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Martin P </textline>
+<textline bbox="452.660,103.645,524.669,122.605" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Rachid N </textline>
+<textline bbox="452.660,78.561,505.558,97.521" font="TimesNewRomanPSMT" ncolour="0" size="18.960" colourspace="DeviceGray">Tom H </textline>
+<textline bbox="452.660,53.475,519.560,72.459" font="TimesNewRomanPSMT" ncolour="0" size="18.984" colourspace="DeviceGray">Martin P </textline>
+</textbox>
+<textbox id="5" bbox="43.200,17.946,101.408,29.970" size="12.024">10/13/2015 <textline bbox="43.200,17.946,101.408,29.970" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">10/13/2015 </textline>
+</textbox>
+<textbox id="6" bbox="326.040,17.946,393.928,29.970" size="12.024">PMG Meeting <textline bbox="326.040,17.946,393.928,29.970" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">PMG Meeting </textline>
+</textbox>
+<textbox id="7" bbox="670.680,17.946,676.776,29.970" size="12.024">4 <textline bbox="670.680,17.946,676.776,29.970" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">4 </textline>
+</textbox>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="167.110,492.222,553.487,521.286" size="29.064">Slides for the Plenary Speakers <textline bbox="167.110,492.222,553.487,521.286" font="TimesNewRomanPS-BoldMT" ncolour="1" size="29.064" colourspace="DeviceGray">Slides for the Plenary Speakers </textline>
+</textbox>
+<textbox id="1" bbox="25.200,369.220,276.054,463.416" size="19.236">15 slides for 25 minutes 
+&#8226; Performance specifications 
+&#8226; Description of subsystem(s) 
+&#9472; Options considered if relevant <textline bbox="25.200,439.416,264.744,463.416" font="TimesNewRomanPS-BoldMT" ncolour="(0, 0.4, 1)" size="24.000" colourspace="DeviceGray">15 slides for 25 minutes </textline>
+<textline bbox="25.200,414.225,270.866,433.298">&#8226; Performance specifications <text font="ArialMT" bbox="25.200,414.338,31.836,433.298" colourspace="DeviceGray" ncolour="0" size="18.960">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,414.225,63.785,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">P</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="63.785,414.225,72.203,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="72.203,414.225,80.621,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="80.621,414.225,86.935,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">f</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="86.973,414.225,96.453,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="96.453,414.225,104.871,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="104.871,414.225,120.665,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">m</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="120.665,414.225,130.145,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="130.145,414.225,140.686,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="140.743,414.225,149.161,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="149.161,414.225,157.580,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="157.580,414.225,162.320,433.185" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="162.320,414.225,169.695,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="169.695,414.225,180.237,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="180.237,414.225,188.655,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="188.655,414.225,197.073,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="197.073,414.225,202.344,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="202.344,414.225,208.658,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">f</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="208.658,414.225,213.929,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="213.929,414.225,222.347,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="222.347,414.225,231.827,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="231.827,414.225,238.141,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="238.141,414.225,243.412,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="243.412,414.225,252.892,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="252.892,414.225,263.433,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="263.490,414.225,270.866,433.185" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+</textline>
+<textline bbox="25.200,389.139,274.655,408.237">&#8226; Description of subsystem(s) <text font="ArialMT" bbox="25.200,389.253,31.844,408.237" colourspace="DeviceGray" ncolour="0" size="18.984">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,389.139,65.906,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="65.906,389.139,74.335,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="74.335,389.139,81.720,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="81.625,389.139,90.054,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="90.054,389.139,98.483,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="98.426,389.139,103.704,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="103.704,389.139,114.259,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="114.259,389.139,120.580,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="120.580,389.139,125.858,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="125.858,389.139,135.350,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="135.350,389.139,145.905,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="145.905,389.139,150.651,408.123" colourspace="DeviceGray" ncolour="0" size="18.984"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="150.841,389.139,160.333,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="160.333,389.139,166.655,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">f</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="166.655,389.139,171.401,408.123" colourspace="DeviceGray" ncolour="0" size="18.984"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="171.457,389.139,178.842,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="178.785,389.139,189.340,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="189.340,389.139,199.896,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">b</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="199.896,389.139,207.280,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="207.280,389.139,216.772,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="216.696,389.139,224.081,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="224.024,389.139,230.346,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="230.346,389.139,238.775,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="238.775,389.139,254.588,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">m</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="254.626,389.139,260.948,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">(</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="260.948,389.139,268.333,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="268.333,389.139,274.655,408.123" colourspace="DeviceGray" ncolour="0" size="18.984">)</text>
+</textline>
+<textline bbox="61.224,369.220,276.054,384.220">&#9472; Options considered if relevant <text font="TimesNewRomanPSMT" bbox="61.224,369.220,71.844,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">&#9472;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="83.784,369.220,95.454,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">O</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="95.454,369.220,103.794,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="103.794,369.220,108.789,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="108.849,369.220,113.019,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="113.019,369.220,120.519,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="120.594,369.220,128.934,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="128.979,369.220,134.814,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="134.814,369.220,138.564,384.220" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="138.339,369.220,144.999,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="144.939,369.220,152.439,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="152.484,369.220,160.824,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="160.869,369.220,166.704,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="166.704,369.220,170.874,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="170.934,369.220,179.274,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="179.319,369.220,185.979,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="185.919,369.220,192.579,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="192.279,369.220,198.939,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="198.879,369.220,207.219,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="207.264,369.220,211.014,384.220" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="210.864,369.220,215.034,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="215.034,369.220,220.029,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">f</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="220.089,369.220,223.839,384.220" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="223.839,369.220,230.499,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="230.169,369.220,236.829,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="236.769,369.220,240.939,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="240.939,369.220,247.599,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="247.599,369.220,255.099,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="255.099,369.220,262.599,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="262.674,369.220,271.014,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="271.059,369.220,276.054,384.220" colourspace="DeviceGray" ncolour="0" size="15.000">t</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="25.200,319.165,189.850,363.318" size="18.96">&#8226; L2 Project Scope 
+&#8226; Design Drivers <textline bbox="25.200,344.245,189.850,363.318">&#8226; L2 Project Scope <text font="ArialMT" bbox="25.200,344.358,31.836,363.318" colourspace="DeviceGray" ncolour="0" size="18.960">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,344.245,64.846,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">L</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="64.846,344.245,74.326,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">2</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="74.326,344.245,79.066,363.205" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="79.066,344.245,90.651,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">P</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="90.727,344.245,99.145,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="98.766,344.245,108.246,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="108.246,344.245,114.559,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">j</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="114.559,344.245,122.978,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="122.978,344.245,131.396,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="131.396,344.245,137.710,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="137.710,344.245,142.450,363.205" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="142.450,344.245,152.991,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="152.991,344.245,161.410,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="161.410,344.245,170.890,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="170.890,344.245,181.431,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="181.431,344.245,189.850,363.205" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+</textline>
+<textline bbox="25.200,319.165,172.918,338.238">&#8226; Design Drivers <text font="ArialMT" bbox="25.200,319.278,31.836,338.238" colourspace="DeviceGray" ncolour="0" size="18.960">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,319.165,65.889,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="65.889,319.165,74.307,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="74.307,319.165,81.683,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="81.626,319.165,86.897,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="86.897,319.165,96.377,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="96.377,319.165,106.919,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="106.919,319.165,111.659,338.125" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="111.848,319.165,125.537,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="125.537,319.165,133.956,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="133.956,319.165,139.226,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="139.226,319.165,148.706,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="148.706,319.165,157.125,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="157.125,319.165,165.543,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="165.543,319.165,172.918,338.125" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="61.224,299.260,467.154,314.350" size="15.0">&#8211; What drove the technology choices for the reference design? <textline bbox="61.224,299.260,467.154,314.350">&#8211; What drove the technology choices for the reference design? <text font="ArialMT" bbox="61.224,299.350,69.564,314.350" colourspace="DeviceGray" ncolour="0" size="15.000">&#8211;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="83.784,299.260,98.784,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">W</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="98.784,299.260,107.124,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="107.169,299.260,114.669,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="114.714,299.260,119.709,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="119.709,299.260,123.459,314.260" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="123.354,299.260,131.694,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="131.739,299.260,138.399,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="138.099,299.260,145.599,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="145.644,299.260,153.144,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="153.189,299.260,159.849,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="159.789,299.260,163.539,314.260" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="163.389,299.260,168.384,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="168.384,299.260,176.724,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="176.814,299.260,183.474,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="183.414,299.260,187.164,314.260" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="187.164,299.260,192.159,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="192.159,299.260,198.819,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="198.819,299.260,205.479,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="205.374,299.260,213.714,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="213.759,299.260,222.099,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="222.144,299.260,229.644,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="229.689,299.260,233.859,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="233.859,299.260,241.359,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="241.434,299.260,248.934,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="248.979,299.260,256.479,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="256.524,299.260,260.274,314.260" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="260.004,299.260,266.664,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="266.604,299.260,274.944,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="274.989,299.260,282.489,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="282.534,299.260,286.704,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="286.704,299.260,293.364,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="293.364,299.260,300.024,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="299.934,299.260,305.769,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="305.769,299.260,309.519,314.260" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="309.414,299.260,314.409,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">f</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="314.409,299.260,321.909,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="321.999,299.260,328.659,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="328.359,299.260,332.109,314.260" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="332.109,299.260,337.104,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="337.104,299.260,345.444,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="345.504,299.260,352.164,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="352.104,299.260,355.854,314.260" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="355.704,299.260,362.364,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="362.064,299.260,368.724,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="368.664,299.260,373.659,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">f</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="373.659,299.260,380.319,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="380.319,299.260,386.979,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="386.664,299.260,393.324,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="393.264,299.260,401.604,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="401.649,299.260,408.309,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="408.249,299.260,414.909,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="414.849,299.260,418.599,314.260" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="418.674,299.260,427.014,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="427.059,299.260,433.719,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="433.659,299.260,439.494,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="439.494,299.260,443.664,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="443.724,299.260,451.224,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="451.269,299.260,459.609,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="459.654,299.260,467.154,314.260" colourspace="DeviceGray" ncolour="0" size="15.000">?</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="25.200,199.015,359.011,293.377" size="18.966">&#8226; Schedule Drivers 
+&#8226; Resources/Cost Drivers 
+&#8226; Organization 
+&#8226; Description or timeline of major tasks <textline bbox="25.200,274.279,190.897,293.377">&#8226; Schedule Drivers <text font="ArialMT" bbox="25.200,274.393,31.844,293.377" colourspace="DeviceGray" ncolour="0" size="18.984">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,274.279,62.755,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">S</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="62.755,274.279,71.184,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="71.184,274.279,81.739,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="81.739,274.279,90.168,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="90.168,274.279,100.723,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="100.723,274.279,111.278,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="111.278,274.279,116.556,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="116.556,274.279,124.985,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="124.928,274.279,129.674,293.263" colourspace="DeviceGray" ncolour="0" size="18.984"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="129.826,274.279,143.532,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="143.532,274.279,151.961,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="151.961,274.279,157.238,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="157.238,274.279,166.730,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="166.730,274.279,175.159,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="175.083,274.279,183.512,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="183.512,274.279,190.897,293.263" colourspace="DeviceGray" ncolour="0" size="18.984">s</text>
+</textline>
+<textline bbox="25.200,249.175,242.065,268.248">&#8226; Resources/Cost Drivers <text font="ArialMT" bbox="25.200,249.288,31.836,268.248" colourspace="DeviceGray" ncolour="0" size="18.960">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,249.175,65.889,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">R</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="65.889,249.175,74.307,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="74.307,249.175,81.683,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="81.626,249.175,91.106,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="91.106,249.175,101.648,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="101.648,249.175,110.066,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="109.706,249.175,118.124,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="118.124,249.175,126.542,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="126.542,249.175,133.918,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="133.823,249.175,139.094,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">/</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="139.094,249.175,152.783,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">C</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="152.783,249.175,162.263,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="162.263,249.175,169.638,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="169.638,249.175,175.952,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="175.952,249.175,180.692,268.135" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="180.995,249.175,194.684,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="194.684,249.175,203.103,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="203.103,249.175,208.374,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="208.374,249.175,217.854,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">v</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="217.854,249.175,226.272,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="226.272,249.175,234.690,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="234.690,249.175,242.065,268.135" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+</textline>
+<textline bbox="25.200,224.095,159.552,243.168">&#8226; Organization <text font="ArialMT" bbox="25.200,224.208,31.836,243.168" colourspace="DeviceGray" ncolour="0" size="18.960">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,224.095,66.951,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">O</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="66.951,224.095,75.369,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="75.369,224.095,84.849,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="84.849,224.095,94.329,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="94.329,224.095,104.871,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="104.871,224.095,110.142,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="110.142,224.095,118.560,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">z</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="118.465,224.095,127.945,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="127.945,224.095,134.259,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="134.259,224.095,139.530,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="139.530,224.095,149.010,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="149.010,224.095,159.552,243.055" colourspace="DeviceGray" ncolour="0" size="18.960">n</text>
+</textline>
+<textline bbox="25.200,199.015,359.011,218.088">&#8226; Description or timeline of major tasks <text font="ArialMT" bbox="25.200,199.128,31.836,218.088" colourspace="DeviceGray" ncolour="0" size="18.960">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,199.015,65.889,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="65.889,199.015,74.307,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="74.307,199.015,81.683,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="81.626,199.015,90.044,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="90.044,199.015,98.462,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="98.462,199.015,103.733,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="103.733,199.015,114.275,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="114.275,199.015,120.589,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="120.589,199.015,125.860,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="125.860,199.015,135.340,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="135.340,199.015,145.881,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="145.919,199.015,150.659,217.975" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="150.811,199.015,160.291,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="160.291,199.015,168.709,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="168.330,199.015,173.070,217.975" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="173.108,199.015,179.422,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="179.422,199.015,184.692,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="184.692,199.015,200.486,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">m</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="200.600,199.015,209.018,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="209.018,199.015,214.289,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="214.289,199.015,219.560,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="219.560,199.015,230.102,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="230.102,199.015,238.520,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="238.520,199.015,243.260,217.975" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="243.203,199.015,252.683,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="252.683,199.015,258.997,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">f</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="258.997,199.015,263.737,217.975" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="263.832,199.015,279.625,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">m</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="279.682,199.015,289.162,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="289.162,199.015,295.476,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">j</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="295.476,199.015,304.956,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="304.956,199.015,313.374,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="313.033,199.015,317.773,217.975" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="317.811,199.015,324.124,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="324.124,199.015,333.604,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="333.604,199.015,340.980,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="340.980,199.015,351.522,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">k</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="351.635,199.015,359.011,217.975" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="61.224,139.505,196.569,194.200" size="15.008000000000001">&#8226; Prototyping tasks 
+&#8226; Design tasks 
+&#8226; Production tasks <textline bbox="61.224,179.110,196.569,194.200">&#8226; Prototyping tasks <text font="ArialMT" bbox="61.224,179.200,66.474,194.200" colourspace="DeviceGray" ncolour="0" size="15.000">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="83.784,179.110,92.949,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">P</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="92.904,179.110,99.564,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="99.264,179.110,106.764,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="106.809,179.110,111.804,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="111.804,179.110,119.304,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="119.394,179.110,124.389,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="124.389,179.110,131.889,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="131.979,179.110,140.319,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="140.364,179.110,144.534,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="144.534,179.110,152.874,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="152.949,179.110,160.449,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="160.389,179.110,164.139,194.110" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="164.139,179.110,169.134,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="169.134,179.110,176.634,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="176.694,179.110,182.529,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="182.529,179.110,190.869,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">k</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="190.734,179.110,196.569,194.110" colourspace="DeviceGray" ncolour="0" size="15.000">s</text>
+</textline>
+<textline bbox="61.224,159.310,163.359,174.400">&#8226; Design tasks <text font="ArialMT" bbox="61.224,159.400,66.474,174.400" colourspace="DeviceGray" ncolour="0" size="15.000">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="83.784,159.310,94.614,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">D</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="94.614,159.310,101.274,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="101.184,159.310,107.019,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="107.019,159.310,111.189,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="111.249,159.310,118.749,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">g</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="118.794,159.310,127.134,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="127.179,159.310,130.929,174.310" colourspace="DeviceGray" ncolour="0" size="15.000"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="130.929,159.310,135.924,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="135.924,159.310,143.424,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="143.484,159.310,149.319,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="149.319,159.310,157.659,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">k</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="157.524,159.310,163.359,174.310" colourspace="DeviceGray" ncolour="0" size="15.000">s</text>
+</textline>
+<textline bbox="61.224,139.505,191.281,154.619">&#8226; Production tasks <text font="ArialMT" bbox="61.224,139.595,66.482,154.619" colourspace="DeviceGray" ncolour="0" size="15.024">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="83.784,139.505,92.964,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">P</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="92.904,139.505,99.574,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="99.259,139.505,106.771,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="106.801,139.505,115.154,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">d</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="115.184,139.505,123.538,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="123.568,139.505,130.238,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="130.163,139.505,135.166,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="135.166,139.505,139.343,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="139.388,139.505,146.900,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="146.930,139.505,155.283,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="155.313,139.505,159.069,154.529" colourspace="DeviceGray" ncolour="0" size="15.024"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="158.799,139.505,163.802,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="163.802,139.505,171.314,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="171.389,139.505,177.233,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="177.233,139.505,185.587,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">k</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="185.436,139.505,191.281,154.529" colourspace="DeviceGray" ncolour="0" size="15.024">s</text>
+</textline>
+</textbox>
+<textbox id="6" bbox="25.200,64.466,181.545,133.588" size="18.96">&#8226; Technical status 
+&#8226; Project status  
+&#8226; <textline bbox="25.200,114.515,181.545,133.588">&#8226; Technical status <text font="ArialMT" bbox="25.200,114.628,31.836,133.588" colourspace="DeviceGray" ncolour="0" size="18.960">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,114.515,64.846,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">T</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="63.007,114.515,71.425,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="71.425,114.515,79.844,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="79.844,114.515,90.385,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="90.385,114.515,100.927,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="100.927,114.515,106.198,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">i</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="106.198,114.515,114.616,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="114.616,114.515,124.096,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="124.096,114.515,129.367,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="129.367,114.515,134.107,133.475" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="134.145,114.515,141.521,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="141.521,114.515,147.834,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="147.834,114.515,157.314,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="157.314,114.515,163.628,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="163.628,114.515,174.170,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="174.170,114.515,181.545,133.475" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+</textline>
+<textline bbox="25.200,89.433,167.723,108.506">&#8226; Project status  <text font="ArialMT" bbox="25.200,89.546,31.836,108.506" colourspace="DeviceGray" ncolour="0" size="18.960">&#8226;</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="52.200,89.433,63.785,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">P</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="63.785,89.433,72.203,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="71.880,89.433,81.360,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="81.360,89.433,87.674,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">j</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="87.674,89.433,96.092,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="96.092,89.433,104.511,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="104.511,89.433,110.824,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="110.824,89.433,115.564,108.393" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="115.564,89.433,122.940,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="122.883,89.433,129.197,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="129.197,89.433,138.677,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="138.677,89.433,144.990,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="145.066,89.433,155.608,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">u</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="155.608,89.433,162.983,108.393" colourspace="DeviceGray" ncolour="0" size="18.960">s</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="162.983,89.433,167.723,108.393" colourspace="DeviceGray" ncolour="0" size="18.960"> </text>
+</textline>
+<textline bbox="25.200,64.466,31.836,83.426" font="ArialMT" ncolour="0" size="18.960" colourspace="DeviceGray">&#8226; </textline>
+</textbox>
+<textbox id="7" bbox="52.200,64.353,217.835,83.313" size="18.96">Issues and Concerns <textline bbox="52.200,64.353,217.835,83.313" font="TimesNewRomanPS-BoldMT" ncolour="0" size="18.960" colourspace="DeviceGray">Issues and Concerns </textline>
+</textbox>
+<textbox id="8" bbox="43.200,17.946,128.065,29.970" size="12.024">October 23, 2015 <textline bbox="43.200,17.946,128.065,29.970" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">October 23, 2015 </textline>
+</textbox>
+<textbox id="9" bbox="272.500,17.946,447.329,29.970" size="12.024">sPHENIX Cost and Schedule Practice <textline bbox="272.500,17.946,447.329,29.970" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">sPHENIX Cost and Schedule Practice </textline>
+</textbox>
+<textbox id="10" bbox="670.680,17.946,676.776,29.970" size="12.024">5 <textline bbox="670.680,17.946,676.776,29.970" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">5 </textline>
+</textbox>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="31.800,475.914,315.526,523.938" size="48.024">Slide Template <textline bbox="31.800,475.914,315.526,523.938" font="BCDFEE+Calibri" ncolour="0" size="48.024" colourspace="DeviceGray">Slide Template </textline>
+</textbox>
+<textbox id="1" bbox="43.200,7.194,117.600,19.218" size="12.024">Nov 9-10, 2015 <textline bbox="43.200,7.194,117.600,19.218" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">Nov 9-10, 2015 </textline>
+</textbox>
+<textbox id="2" bbox="274.540,7.194,445.654,19.218" size="12.024">sPHENIX Cost and Schedule Review <textline bbox="274.540,7.194,445.654,19.218" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">sPHENIX Cost and Schedule Review </textline>
+</textbox>
+<textbox id="3" bbox="706.680,7.194,712.776,19.218" size="12.024">6 <textline bbox="706.680,7.194,712.776,19.218" font="BCDFEE+Calibri" ncolour="0.537" size="12.024" colourspace="DeviceGray">6 </textline>
+</textbox>
+<figure name="Image40" bbox="633.960,513.000,719.640,537.360" src="Image40.jpg" width="85" height="24">
+</figure>
+</page>
+</pages>

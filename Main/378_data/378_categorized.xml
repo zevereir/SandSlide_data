@@ -1,0 +1,618 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<normal_text id="0" bbox="100.390,317.702,624.977,361.742" size="20.04" unique_id="0">Solano County Department of Environmental Management  
+Environmental Health Services Division <textline bbox="100.390,341.702,624.977,361.742" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">Solano County Department of Environmental Management  </textline>
+<textline bbox="185.380,317.702,534.437,337.742" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">Environmental Health Services Division </textline>
+</normal_text>
+<title id="1" bbox="249.940,264.910,470.092,288.910" size="24.0" unique_id="1">Hazardous Materials <textline bbox="249.940,264.910,470.092,288.910" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">Hazardous Materials </textline>
+</title>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[61.224, 364.407, 228.438, 396.471]">
+<normal_text id="0" bbox="48.768,437.462,672.373,501.798" size="30.0" unique_id="0">Hazardous Materials  
+Presented by Mr. Brad Nicolet, Senior Environmental Health Specialist <textline bbox="176.590,461.838,554.692,501.798" font="ArialMT" ncolour="1" size="39.960" colourspace="Pattern">Hazardous Materials  </textline>
+<textline bbox="48.768,437.462,672.373,457.502" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">Presented by Mr. Brad Nicolet, Senior Environmental Health Specialist </textline>
+</normal_text>
+<title id="1" bbox="61.224,364.407,228.438,396.471" size="32.064" unique_id="1">Introduction <textline bbox="61.224,364.407,228.438,396.471" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">Introduction </textline>
+</title>
+<normal_text id="2" bbox="61.224,285.078,347.674,313.038" size="27.96" unique_id="2">Regulatory Authority: <textline bbox="61.224,285.078,347.674,313.038" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">Regulatory Authority: </textline>
+</normal_text>
+<normal_text id="3" bbox="88.224,216.290,524.472,240.290" size="24.0" unique_id="3">California Health and Safety Code (HSC) <textline bbox="88.224,216.290,524.472,240.290" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">California Health and Safety Code (HSC) </textline>
+</normal_text>
+<normal_text id="4" bbox="88.224,152.930,692.904,176.930" size="24.0" unique_id="4">California Code of Regulations (CCR) Title 19, 22, 23, 27 <textline bbox="88.224,152.930,692.904,176.930" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">California Code of Regulations (CCR) Title 19, 22, 23, 27 </textline>
+</normal_text>
+<normal_text id="5" bbox="88.224,89.544,711.098,113.544" size="24.0" unique_id="5">Uniform Fire Code Article 80 (Business Plans &amp; Inventories only) <textline bbox="88.224,89.544,711.098,113.544">Uniform Fire Code Article 80 (Business Plans &amp; Inventories only) <text font="ArialMT" bbox="88.224,89.544,105.552,113.544" colourspace="Pattern" ncolour="1" size="24.000">U</text>
+<text font="ArialMT" bbox="105.552,89.544,118.896,113.544" colourspace="Pattern" ncolour="1" size="24.000">n</text>
+<text font="ArialMT" bbox="118.824,89.544,124.152,113.544" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="124.152,89.544,130.824,113.544" colourspace="Pattern" ncolour="1" size="24.000">f</text>
+<text font="ArialMT" bbox="130.824,89.544,144.168,113.544" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="144.168,89.544,152.160,113.544" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="152.160,89.544,172.152,113.544" colourspace="Pattern" ncolour="1" size="24.000">m</text>
+<text font="ArialMT" bbox="172.200,89.544,178.872,113.544" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="178.872,89.544,193.536,113.544" colourspace="Pattern" ncolour="1" size="24.000">F</text>
+<text font="ArialMT" bbox="193.536,89.544,198.864,113.544" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="198.864,89.544,206.856,113.544" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="206.856,89.544,220.200,113.544" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="220.200,89.544,226.872,113.544" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="226.872,89.544,244.200,113.544" colourspace="Pattern" ncolour="1" size="24.000">C</text>
+<text font="ArialMT" bbox="244.200,89.544,257.544,113.544" colourspace="Pattern" ncolour="1" size="24.000">o</text>
+<text font="ArialMT" bbox="257.544,89.544,270.888,113.544" colourspace="Pattern" ncolour="1" size="24.000">d</text>
+<text font="ArialMT" bbox="270.888,89.544,284.232,113.544" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="284.160,89.544,290.832,113.544" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="289.800,89.544,305.808,113.544" colourspace="Pattern" ncolour="1" size="24.000">A</text>
+<text font="ArialMT" bbox="305.808,89.544,313.800,113.544" colourspace="Pattern" ncolour="1" size="24.000">r</text>
+<text font="ArialMT" bbox="313.800,89.544,320.472,113.544" colourspace="Pattern" ncolour="1" size="24.000">t</text>
+<text font="ArialMT" bbox="320.472,89.544,325.800,113.544" colourspace="Pattern" ncolour="1" size="24.000">i</text>
+<text font="ArialMT" bbox="325.800,89.544,337.800,113.544" colourspace="Pattern" ncolour="1" size="24.000">c</text>
+<text font="ArialMT" bbox="337.800,89.544,343.128,113.544" colourspace="Pattern" ncolour="1" size="24.000">l</text>
+<text font="ArialMT" bbox="343.128,89.544,356.472,113.544" colourspace="Pattern" ncolour="1" size="24.000">e</text>
+<text font="ArialMT" bbox="356.400,89.544,363.072,113.544" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="363.072,89.544,376.416,113.544" colourspace="Pattern" ncolour="1" size="24.000">8</text>
+<text font="ArialMT" bbox="376.416,89.544,389.760,113.544" colourspace="Pattern" ncolour="1" size="24.000">0</text>
+<text font="ArialMT" bbox="389.760,89.544,396.432,113.544" colourspace="Pattern" ncolour="1" size="24.000"> </text>
+<text font="ArialMT" bbox="396.550,90.376,403.223,110.416" colourspace="Pattern" ncolour="1" size="20.040">(</text>
+<text font="ArialMT" bbox="403.223,90.376,416.590,110.416" colourspace="Pattern" ncolour="1" size="20.040">B</text>
+<text font="ArialMT" bbox="416.590,90.376,427.732,110.416" colourspace="Pattern" ncolour="1" size="20.040">u</text>
+<text font="ArialMT" bbox="427.732,90.376,437.752,110.416" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="ArialMT" bbox="437.812,90.376,442.261,110.416" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="ArialMT" bbox="442.261,90.376,453.403,110.416" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="ArialMT" bbox="453.403,90.376,464.546,110.416" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="ArialMT" bbox="464.546,90.376,474.566,110.416" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="ArialMT" bbox="474.626,90.376,484.646,110.416" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="ArialMT" bbox="484.646,90.376,490.217,110.416" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="ArialMT" bbox="489.856,90.376,503.223,110.416" colourspace="Pattern" ncolour="1" size="20.040">P</text>
+<text font="ArialMT" bbox="503.223,90.376,507.672,110.416" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="ArialMT" bbox="507.672,90.376,518.814,110.416" colourspace="Pattern" ncolour="1" size="20.040">a</text>
+<text font="ArialMT" bbox="518.814,90.376,529.956,110.416" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="ArialMT" bbox="529.956,90.376,539.976,110.416" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="ArialMT" bbox="539.976,90.376,545.547,110.416" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="ArialMT" bbox="545.547,90.376,558.914,110.416" colourspace="Pattern" ncolour="1" size="20.040">&amp;</text>
+<text font="ArialMT" bbox="558.914,90.376,564.485,110.416" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="ArialMT" bbox="564.385,90.376,569.956,110.416" colourspace="Pattern" ncolour="1" size="20.040">I</text>
+<text font="ArialMT" bbox="569.956,90.376,581.098,110.416" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="ArialMT" bbox="581.098,90.376,591.118,110.416" colourspace="Pattern" ncolour="1" size="20.040">v</text>
+<text font="ArialMT" bbox="591.018,90.376,602.160,110.416" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="ArialMT" bbox="602.160,90.376,613.303,110.416" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="ArialMT" bbox="613.303,90.376,618.874,110.416" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="ArialMT" bbox="618.874,90.376,630.016,110.416" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="ArialMT" bbox="630.016,90.376,636.689,110.416" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="ArialMT" bbox="636.689,90.376,641.138,110.416" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="ArialMT" bbox="641.138,90.376,652.280,110.416" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="ArialMT" bbox="652.280,90.376,662.300,110.416" colourspace="Pattern" ncolour="1" size="20.040">s</text>
+<text font="ArialMT" bbox="662.401,90.376,667.972,110.416" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="ArialMT" bbox="667.671,90.376,678.813,110.416" colourspace="Pattern" ncolour="1" size="20.040">o</text>
+<text font="ArialMT" bbox="678.813,90.376,689.956,110.416" colourspace="Pattern" ncolour="1" size="20.040">n</text>
+<text font="ArialMT" bbox="689.956,90.376,694.405,110.416" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="ArialMT" bbox="694.405,90.376,704.425,110.416" colourspace="Pattern" ncolour="1" size="20.040">y</text>
+<text font="ArialMT" bbox="704.425,90.376,711.098,110.416" colourspace="Pattern" ncolour="1" size="20.040">)</text>
+</textline>
+</normal_text>
+<enlisting_image name="Image149" bbox="61.200,221.280,76.200,236.400" src="Image149.12x12.bmp" width="15" height="15" unique_id="6">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="61.200,157.920,76.200,173.040" src="Image149.0.12x12.bmp" width="15" height="15" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="61.200,94.560,76.200,109.680" src="Image149.1.12x12.bmp" width="15" height="15" unique_id="8">
+</enlisting_image>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[49.208, 414.641, 264.81266666666664, 483.98900000000003]">
+<title id="0" bbox="43.200,439.758,283.000,527.748" size="39.96" unique_id="0">What We Do: 
+Six Programs <textline bbox="43.200,487.788,280.363,527.748" font="ArialMT" ncolour="1" size="39.960" colourspace="Pattern">What We Do: </textline>
+<textline bbox="43.200,439.758,283.000,479.718" font="ArialMT" ncolour="1" size="39.960" colourspace="Pattern">Six Programs </textline>
+</title>
+<normal_text id="1" bbox="97.224,303.078,431.997,399.247" size="25.328000000000003" unique_id="1">Hazardous Materials Mgmt 
+Article 1 
+Plan and Disclosure <textline bbox="97.224,371.263,431.997,399.247" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">Hazardous Materials Mgmt </textline>
+<textline bbox="97.224,344.230,172.844,368.230">Article 1 <text font="ArialMT" bbox="97.224,345.062,110.591,365.102" colourspace="Pattern" ncolour="1" size="20.040">A</text>
+<text font="ArialMT" bbox="110.591,345.062,117.264,365.102" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="ArialMT" bbox="117.264,345.062,122.835,365.102" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="ArialMT" bbox="122.835,345.062,127.284,365.102" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="ArialMT" bbox="127.284,345.062,137.304,365.102" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="ArialMT" bbox="137.304,345.062,141.753,365.102" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="ArialMT" bbox="141.753,345.062,152.895,365.102" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="ArialMT" bbox="159.500,344.230,172.844,368.230" colourspace="Pattern" ncolour="1" size="24.000">1</text>
+</textline>
+<textline bbox="97.224,303.078,346.292,331.038" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Plan and Disclosure </textline>
+</normal_text>
+<normal_text id="2" bbox="559.300,372.927,688.372,392.991" size="20.064" unique_id="2">CHS Ch. 6.95  <textline bbox="559.300,372.927,688.372,392.991" font="ArialMT" ncolour="1" size="20.064" colourspace="Pattern">CHS Ch. 6.95  </textline>
+</normal_text>
+<normal_text id="3" bbox="97.224,260.833,447.360,288.817" size="27.984" unique_id="3">Underground Storage Tanks <textline bbox="97.224,260.833,447.360,288.817" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">Underground Storage Tanks </textline>
+</normal_text>
+<normal_text id="4" bbox="559.300,262.502,671.584,282.542" size="20.04" unique_id="4">CHS Ch. 6.7 <textline bbox="559.300,262.502,671.584,282.542" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">CHS Ch. 6.7 </textline>
+</normal_text>
+<normal_text id="5" bbox="97.224,218.578,318.863,246.538" size="27.96" unique_id="5">Hazardous Waste <textline bbox="97.224,218.578,318.863,246.538" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Hazardous Waste </textline>
+</normal_text>
+<normal_text id="6" bbox="487.300,220.242,599.584,240.282" size="20.04" unique_id="6">CHS Ch. 6.5 <textline bbox="487.300,220.242,599.584,240.282" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">CHS Ch. 6.5 </textline>
+</normal_text>
+<normal_text id="7" bbox="97.224,112.468,438.280,204.298" size="25.320000000000004" unique_id="7">Risk Management Program 
+Article 2 
+(Plan) <textline bbox="97.224,176.338,438.280,204.298" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Risk Management Program </textline>
+<textline bbox="97.224,153.642,169.448,173.682" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">Article 2 </textline>
+<textline bbox="97.224,112.468,171.849,140.428" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">(Plan) </textline>
+</normal_text>
+<normal_text id="8" bbox="559.300,178.002,686.093,198.042" size="20.04" unique_id="8">CHS CH. 6.95 <textline bbox="559.300,178.002,686.093,198.042" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">CHS CH. 6.95 </textline>
+</normal_text>
+<normal_text id="9" bbox="97.224,70.232,450.303,98.192" size="27.96" unique_id="9">Aboveground Storage Tanks <textline bbox="97.224,70.232,450.303,98.192" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Aboveground Storage Tanks </textline>
+</normal_text>
+<normal_text id="10" bbox="487.300,71.896,610.726,91.936" size="20.04" unique_id="10">CHS Ch. 6.67 <textline bbox="487.300,71.896,610.726,91.936" font="ArialMT" ncolour="1" size="20.040" colourspace="Pattern">CHS Ch. 6.67 </textline>
+</normal_text>
+<normal_text id="11" bbox="97.224,27.992,445.969,55.952" size="27.96" unique_id="11">Business Plan &amp; Inventories <textline bbox="97.224,27.992,445.969,55.952" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Business Plan &amp; Inventories </textline>
+</normal_text>
+<footer id="12" bbox="559.300,28.824,693.864,52.824" size="20.04" unique_id="12">UFC Article 80 <textline bbox="559.300,28.824,693.864,52.824">UFC Article 80 <text font="ArialMT" bbox="559.300,29.656,573.769,49.696" colourspace="Pattern" ncolour="1" size="20.040">U</text>
+<text font="ArialMT" bbox="573.769,29.656,586.013,49.696" colourspace="Pattern" ncolour="1" size="20.040">F</text>
+<text font="ArialMT" bbox="586.013,29.656,600.482,49.696" colourspace="Pattern" ncolour="1" size="20.040">C</text>
+<text font="ArialMT" bbox="600.562,29.656,606.133,49.696" colourspace="Pattern" ncolour="1" size="20.040"> </text>
+<text font="ArialMT" bbox="604.891,29.656,618.258,49.696" colourspace="Pattern" ncolour="1" size="20.040">A</text>
+<text font="ArialMT" bbox="618.258,29.656,624.931,49.696" colourspace="Pattern" ncolour="1" size="20.040">r</text>
+<text font="ArialMT" bbox="624.931,29.656,630.502,49.696" colourspace="Pattern" ncolour="1" size="20.040">t</text>
+<text font="ArialMT" bbox="630.502,29.656,634.951,49.696" colourspace="Pattern" ncolour="1" size="20.040">i</text>
+<text font="ArialMT" bbox="634.951,29.656,644.971,49.696" colourspace="Pattern" ncolour="1" size="20.040">c</text>
+<text font="ArialMT" bbox="644.971,29.656,649.420,49.696" colourspace="Pattern" ncolour="1" size="20.040">l</text>
+<text font="ArialMT" bbox="649.420,29.656,660.562,49.696" colourspace="Pattern" ncolour="1" size="20.040">e</text>
+<text font="ArialMT" bbox="667.200,28.824,680.544,52.824" colourspace="Pattern" ncolour="1" size="24.000">8</text>
+<text font="ArialMT" bbox="680.520,28.824,693.864,52.824" colourspace="Pattern" ncolour="1" size="24.000">0</text>
+</textline>
+</footer>
+<enlisting_image name="Image149" bbox="55.200,377.040,72.240,394.680" src="Image149.2.12x12.bmp" width="17" height="17" unique_id="13">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="55.200,266.640,72.240,284.280" src="Image149.3.12x12.bmp" width="17" height="17" unique_id="14">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="55.200,224.400,72.240,242.040" src="Image149.4.12x12.bmp" width="17" height="17" unique_id="15">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="55.200,182.160,72.240,199.800" src="Image149.5.12x12.bmp" width="17" height="17" unique_id="16">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="55.200,76.080,72.240,93.720" src="Image149.6.12x12.bmp" width="17" height="17" unique_id="17">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="55.200,33.840,72.240,51.480" src="Image149.7.12x12.bmp" width="17" height="17" unique_id="18">
+</enlisting_image>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[150.114, 431.029, 366.93083333333334, 487.73499999999996]">
+<title id="0" bbox="251.020,447.417,469.049,491.481" size="44.064" unique_id="0">In Addition: <textline bbox="251.020,447.417,469.049,491.481" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">In Addition: </textline>
+</title>
+<normal_text id="1" bbox="73.224,397.428,374.996,425.388" size="27.96" unique_id="1">Emergency Response: <textline bbox="73.224,397.428,374.996,425.388" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">Emergency Response: </textline>
+</normal_text>
+<normal_text id="2" bbox="145.220,359.023,651.171,387.007" size="27.984" unique_id="2">Unk. Substance, derail, spills, NIHIT, etc. <textline bbox="145.220,359.023,651.171,387.007" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">Unk. Substance, derail, spills, NIHIT, etc. </textline>
+</normal_text>
+<normal_text id="3" bbox="82.224,317.718,243.777,345.678" size="27.96" unique_id="3">Complaints: <textline bbox="82.224,317.718,243.777,345.678" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">Complaints: </textline>
+</normal_text>
+<normal_text id="4" bbox="82.224,203.458,617.741,305.358" size="27.968" unique_id="4">Residential business/hobbyist, sick  
+Bldg 
+Prop 65 Reports: <textline bbox="176.420,277.398,617.741,305.358" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Residential business/hobbyist, sick  </textline>
+<textline bbox="176.420,243.793,232.416,271.777" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">Bldg </textline>
+<textline bbox="82.224,203.458,307.693,231.418" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">Prop 65 Reports: </textline>
+</normal_text>
+<normal_text id="5" bbox="176.420,163.138,506.823,191.098" size="27.96" unique_id="5">Spills, releases, tank leaks <textline bbox="176.420,163.138,506.823,191.098" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Spills, releases, tank leaks </textline>
+</normal_text>
+<normal_text id="6" bbox="82.224,122.813,222.202,150.797" size="27.984" unique_id="6">Catch-All:  <textline bbox="82.224,122.813,222.202,150.797" font="Arial-BoldMT" ncolour="1" size="27.984" colourspace="Pattern">Catch-All:  </textline>
+</normal_text>
+<normal_text id="7" bbox="176.420,15.267,626.632,110.432" size="27.968" unique_id="7">Shell tanker spill, SP derail, Elmira  
+Pipeline Leak.  Contract with FF/SS  
+Sewer District. <textline bbox="176.420,82.472,612.009,110.432" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Shell tanker spill, SP derail, Elmira  </textline>
+<textline bbox="176.420,48.872,626.632,76.832" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Pipeline Leak.  Contract with FF/SS  </textline>
+<textline bbox="176.420,15.267,357.169,43.251" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">Sewer District. </textline>
+</normal_text>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[150.114, 431.029, 366.93083333333334, 487.73499999999996]">
+<title id="0" bbox="7.200,495.723,598.563,535.707" size="39.984" unique_id="0">Certified Unified Program Agency <textline bbox="7.200,495.723,598.563,535.707" font="ArialMT" ncolour="1" size="39.984" colourspace="Pattern">Certified Unified Program Agency </textline>
+</title>
+<enlisting id="1" bbox="151.220,447.708,285.725,487.668" size="39.96" unique_id="1">&#8220;CUPA&#8221; <textline bbox="151.220,447.708,285.725,487.668" font="ArialMT" ncolour="1" size="39.960" colourspace="Pattern">&#8220;CUPA&#8221; </textline>
+</enlisting>
+<normal_text id="2" bbox="70.224,377.263,339.906,405.247" size="27.984" unique_id="2">Implemented in 1996. <textline bbox="70.224,377.263,339.906,405.247" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">Implemented in 1996. </textline>
+</normal_text>
+<normal_text id="3" bbox="70.224,262.993,604.623,324.558" size="27.972" unique_id="3">Intent:  Reduce the burden on business by  
+eliminating multiple inspections and fees. <textline bbox="70.224,296.598,604.623,324.558" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Intent:  Reduce the burden on business by  </textline>
+<textline bbox="70.224,262.993,579.925,290.977" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">eliminating multiple inspections and fees. </textline>
+</normal_text>
+<normal_text id="4" bbox="70.224,148.738,645.221,210.298" size="27.96" unique_id="4">Consolidate six separate programs into single  
+inspection, permit and fee. <textline bbox="70.224,182.338,645.221,210.298" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Consolidate six separate programs into single  </textline>
+<textline bbox="70.224,148.738,398.950,176.698" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">inspection, permit and fee. </textline>
+</normal_text>
+<normal_text id="5" bbox="70.224,34.472,614.018,96.032" size="27.96" unique_id="5">Applies to incorporated and unincorporated  
+areas. <textline bbox="70.224,68.072,614.018,96.032" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Applies to incorporated and unincorporated  </textline>
+<textline bbox="70.224,34.472,148.196,62.432" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">areas. </textline>
+</normal_text>
+<enlisting_image name="Image149" bbox="43.200,383.040,60.240,400.680" src="Image149.8.12x12.bmp" width="17" height="17" unique_id="6">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,302.400,60.240,320.040" src="Image149.9.12x12.bmp" width="17" height="17" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,188.160,60.240,205.800" src="Image149.10.12x12.bmp" width="17" height="17" unique_id="8">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,73.920,60.240,91.560" src="Image149.11.12x12.bmp" width="17" height="17" unique_id="9">
+</enlisting_image>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[118.51320000000001, 427.0242, 484.5825, 499.7858]">
+<title id="0" bbox="71.112,421.017,661.060,517.862" size="44.052" unique_id="0">Hazardous Materials Release  
+Response Plan and Inventory <textline bbox="71.232,473.822,661.060,517.862" font="ArialMT" ncolour="1" size="44.040" colourspace="Pattern">Hazardous Materials Release  </textline>
+<textline bbox="71.112,421.017,648.879,465.081" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">Response Plan and Inventory </textline>
+</title>
+<enlisting id="1" bbox="70.224,372.815,363.581,396.839" size="24.024" unique_id="1">&#8220;Community Right to Know&#8221; <textline bbox="70.224,372.815,363.581,396.839" font="ArialMT" ncolour="1" size="24.024" colourspace="Pattern">&#8220;Community Right to Know&#8221; </textline>
+</enlisting>
+<normal_text id="2" bbox="70.224,309.430,422.016,333.430" size="24.0" unique_id="2">HMMP Applies to &#8220;business&#8221; only <textline bbox="70.224,309.430,422.016,333.430" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">HMMP Applies to &#8220;business&#8221; only </textline>
+</normal_text>
+<normal_text id="3" bbox="70.224,214.370,439.680,270.089" size="24.012" unique_id="3">Threshold limits: 
+55 gallons, 500, pounds, 200 cu/ft <textline bbox="70.224,246.065,245.023,270.089" font="ArialMT" ncolour="1" size="24.024" colourspace="Pattern">Threshold limits: </textline>
+<textline bbox="79.224,214.370,439.680,238.370" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">55 gallons, 500, pounds, 200 cu/ft </textline>
+</normal_text>
+<normal_text id="4" bbox="70.224,125.085,676.968,175.010" size="24.012" unique_id="4">Chemical Inventory, Spill/Fire Response and notification,  
+Site Map <textline bbox="70.224,151.010,676.968,175.010" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">Chemical Inventory, Spill/Fire Response and notification,  </textline>
+<textline bbox="70.224,125.085,164.951,149.109" font="ArialMT" ncolour="1" size="24.024" colourspace="Pattern">Site Map </textline>
+</normal_text>
+<normal_text id="5" bbox="70.224,35.784,657.504,85.704" size="24.0" unique_id="5">Hazardous Materials Communication Labeling, MSDS,  
+Training <textline bbox="70.224,61.704,657.504,85.704" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">Hazardous Materials Communication Labeling, MSDS,  </textline>
+<textline bbox="70.224,35.784,155.952,59.784" font="ArialMT" ncolour="1" size="24.000" colourspace="Pattern">Training </textline>
+</normal_text>
+<enlisting_image name="Image149" bbox="43.200,377.760,58.200,392.880" src="Image149.12.12x12.bmp" width="15" height="15" unique_id="6">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,314.400,58.200,329.520" src="Image149.13.12x12.bmp" width="15" height="15" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,251.040,58.200,266.160" src="Image149.14.12x12.bmp" width="15" height="15" unique_id="8">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,156.000,58.200,171.120" src="Image149.15.12x12.bmp" width="15" height="15" unique_id="9">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,66.720,58.200,81.840" src="Image149.16.12x12.bmp" width="15" height="15" unique_id="10">
+</enlisting_image>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[118.51320000000001, 427.0242, 484.5825, 499.7858]">
+<picture name="Image584" bbox="36.000,50.880,648.000,510.000" src="Image584.jpg" width="612" height="459" unique_id="0">
+</picture>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[118.51320000000001, 427.0242, 484.5825, 499.7858]">
+<picture name="Image647" bbox="30.000,41.880,654.000,510.000" src="Image647.jpg" width="624" height="468" unique_id="0">
+</picture>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[101.11280000000001, 437.91880000000003, 550.913, 499.74653333333333]">
+<title id="0" bbox="66.312,459.708,683.574,499.668" size="39.96" unique_id="0">Underground Storage Tanks (UST) <textline bbox="66.312,459.708,683.574,499.668" font="ArialMT" ncolour="1" size="39.960" colourspace="Pattern">Underground Storage Tanks (UST) </textline>
+</title>
+<normal_text id="1" bbox="158.660,230.922,647.251,416.631" size="32.044799999999995" unique_id="1">Purpose is to protect groundwater  
+from contamination through  
+prevention using secondary  
+containment and continuous  
+monitoring systems / equipment. <textline bbox="158.660,384.567,647.251,416.631" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">Purpose is to protect groundwater  </textline>
+<textline bbox="158.660,346.142,556.501,378.182" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">from contamination through  </textline>
+<textline bbox="158.660,307.742,558.519,339.782" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">prevention using secondary  </textline>
+<textline bbox="158.660,269.342,567.330,301.382" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">containment and continuous  </textline>
+<textline bbox="158.660,230.922,618.690,262.962" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">monitoring systems / equipment. </textline>
+</normal_text>
+<picture name="Image149" bbox="115.080,391.080,135.120,411.240" src="Image149.17.12x12.bmp" width="20" height="20" unique_id="4">
+</picture>
+<enlisting bbox="151.1,30.152,637.194,172.397" unique_id="['2', '3']">1. Installation of UST&#8217;s including plan  
+checks and construction inspections 2. Annual inspections 
+3. Tank Removal inspections <normal_text id="2" bbox="151.100,110.788,637.194,172.397" size="27.972" unique_id="2">1. Installation of UST&#8217;s including plan  
+checks and construction inspections <textline bbox="151.100,144.413,624.259,172.397" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">1. Installation of UST&#8217;s including plan  </textline>
+<textline bbox="188.660,110.788,637.194,138.748" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">checks and construction inspections </textline>
+</normal_text>
+<normal_text id="3" bbox="151.100,30.152,514.226,98.432" size="27.96" unique_id="3">2. Annual inspections 
+3. Tank Removal inspections <textline bbox="151.100,70.472,423.887,98.432" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">2. Annual inspections </textline>
+<textline bbox="151.100,30.152,514.226,58.112" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">3. Tank Removal inspections </textline>
+</normal_text>
+</enlisting></page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[111.15771428571428, 448.1814285714286, 560.2584285714286, 503.7612380952381]">
+<title id="0" bbox="136.270,473.838,583.622,513.798" size="39.96" unique_id="0">UST Common Violations: <textline bbox="136.270,473.838,583.622,513.798" font="ArialMT" ncolour="1" size="39.960" colourspace="Pattern">UST Common Violations: </textline>
+</title>
+<enlisting id="1" bbox="70.224,111.372,632.814,404.631" size="32.04685714285714" unique_id="1">No leak monitoring / broken equipment  
+No annual certification of monitoring  
+equipment  
+Failure to follow permit conditions 
+No approved UST monitoring/response  
+plan 
+No proof of financial responsibility <textline bbox="70.224,372.567,627.881,404.631" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">No leak monitoring / broken equipment  </textline>
+<textline bbox="70.224,326.462,588.888,358.502" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">No annual certification of monitoring  </textline>
+<textline bbox="70.224,288.062,228.405,320.102" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">equipment  </textline>
+<textline bbox="70.224,241.977,544.483,274.041" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">Failure to follow permit conditions </textline>
+<textline bbox="70.224,195.882,632.814,227.922" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">No approved UST monitoring/response  </textline>
+<textline bbox="70.224,157.482,130.651,189.522" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">plan </textline>
+<textline bbox="70.224,111.372,548.197,143.412" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">No proof of financial responsibility </textline>
+</enlisting>
+<enlisting_image name="Image149" bbox="43.200,379.080,63.240,399.240" src="Image149.18.12x12.bmp" width="20" height="20" unique_id="2">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,333.000,63.240,353.160" src="Image149.19.12x12.bmp" width="20" height="20" unique_id="3">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,248.520,63.240,268.680" src="Image149.20.12x12.bmp" width="20" height="20" unique_id="4">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,202.440,63.240,222.600" src="Image149.21.12x12.bmp" width="20" height="20" unique_id="5">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,117.960,63.240,138.120" src="Image149.22.12x12.bmp" width="20" height="20" unique_id="6">
+</enlisting_image>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[133.9732857142857, 447.99032142857146, 549.5743214285715, 500.6911785714286]">
+<title id="0" bbox="202.420,447.417,517.522,491.481" size="44.064" unique_id="0">UST Excavation <textline bbox="202.420,447.417,517.522,491.481" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">UST Excavation </textline>
+</title>
+<picture name="Image882" bbox="36.000,14.640,684.000,428.040" src="Image882.jpg" width="648" height="413" unique_id="1">
+</picture>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[153.82366666666667, 447.8629166666667, 540.5309166666667, 498.64447222222225]">
+<title id="0" bbox="223.300,447.417,508.879,491.481" size="44.064" unique_id="0">UST Removal  <textline bbox="223.300,447.417,508.879,491.481" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">UST Removal  </textline>
+</title>
+<picture name="Image947" bbox="36.000,24.000,684.000,426.000" src="Image947.jpg" width="648" height="402" unique_id="1">
+</picture>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[161.83893333333333, 447.7737333333333, 537.6355333333333, 497.21177777777774]">
+<title id="0" bbox="193.900,447.417,526.054,491.481" size="44.064" unique_id="0">UST Installations <textline bbox="193.900,447.417,526.054,491.481" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">UST Installations </textline>
+</title>
+<picture name="Image1012" bbox="42.000,4.080,678.000,423.480" src="Image1012.jpg" width="636" height="419" unique_id="1">
+</picture>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[161.83893333333333, 447.7737333333333, 537.6355333333333, 497.21177777777774]">
+<background name="Image1075" bbox="18.000,24.000,696.000,516.000" src="Image1075.jpg" width="678" height="492" unique_id="0">
+</background>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[175.23912727272727, 447.7088727272727, 530.1779818181819, 496.16981818181813]">
+<title id="0" bbox="235.540,447.417,496.619,491.481" size="44.064" unique_id="0">Integrity Test  <textline bbox="235.540,447.417,496.619,491.481" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">Integrity Test  </textline>
+</title>
+<picture name="Image1140" bbox="36.000,7.680,684.000,425.640" src="Image1140.jpg" width="648" height="417" unique_id="1">
+</picture>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[175.22427272727273, 447.66022727272724, 532.6594848484849, 495.38834848484845]">
+<title id="0" bbox="175.150,447.417,545.067,491.481" size="44.064" unique_id="0">Equipment Checks <textline bbox="175.150,447.417,545.067,491.481" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">Equipment Checks </textline>
+</title>
+<picture name="Image1205" bbox="36.000,5.160,684.000,428.520" src="Image1205.jpg" width="648" height="423" unique_id="1">
+</picture>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[158.0993076923077, 447.6228076923077, 551.6620256410257, 494.7872179487179]">
+<title id="0" bbox="63.912,447.417,656.176,491.481" size="44.064" unique_id="0">Under Dispenser Containment <textline bbox="63.912,447.417,656.176,491.481" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">Under Dispenser Containment </textline>
+</title>
+<picture name="Image1270" bbox="36.000,7.080,684.000,420.000" src="Image1270.jpg" width="648" height="412" unique_id="1">
+</picture>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[141.6851208791209, 451.64569230769234, 538.7721648351649, 497.7843296703296]">
+<title id="0" bbox="43.200,475.783,461.433,515.767" size="39.984" unique_id="0">Construction Inspection <textline bbox="43.200,475.783,461.433,515.767" font="ArialMT" ncolour="1" size="39.984" colourspace="Pattern">Construction Inspection </textline>
+</title>
+<picture name="Image1335" bbox="36.000,8.880,684.000,468.000" src="Image1335.jpg" width="648" height="459" unique_id="1">
+</picture>
+</page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[141.6851208791209, 451.64569230769234, 538.7721648351649, 497.7843296703296]">
+<picture name="Image1398" bbox="30.000,15.000,654.000,483.120" src="Image1398.jpg" width="624" height="468" unique_id="0">
+</picture>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[141.6851208791209, 451.64569230769234, 538.7721648351649, 497.7843296703296]">
+<picture name="Image1461" bbox="36.000,38.880,648.000,498.000" src="Image1461.jpg" width="612" height="459" unique_id="0">
+</picture>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[133.9873714285714, 451.0818666666667, 551.7457428571429, 496.94388571428567]">
+<title id="0" bbox="83.952,447.417,636.074,491.481" size="44.064" unique_id="0">Waste vs. Hazardous Waste <textline bbox="83.952,447.417,636.074,491.481" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">Waste vs. Hazardous Waste </textline>
+</title>
+<enlisting id="1" bbox="70.224,80.656,663.105,408.471" size="32.049" unique_id="1">These rules apply to everyone! 
+Hazardous Waste determination 
+EPA ID Numbers 
+Labeling 
+Chemical Incompatibility Issues 
+Facility Design Specifications 
+Management: manifests, receipts, training 
+Risk Communication: alarms, spill kit <textline bbox="70.224,376.407,507.417,408.471" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">These rules apply to everyone! </textline>
+<textline bbox="70.224,334.142,525.544,366.182" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">Hazardous Waste determination </textline>
+<textline bbox="70.224,291.902,309.659,323.942" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">EPA ID Numbers </textline>
+<textline bbox="70.224,249.657,191.041,281.721" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">Labeling </textline>
+<textline bbox="70.224,207.402,516.317,239.442" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">Chemical Incompatibility Issues </textline>
+<textline bbox="70.224,165.162,484.341,197.202" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">Facility Design Specifications </textline>
+<textline bbox="70.224,122.917,663.105,154.981" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">Management: manifests, receipts, training </textline>
+<textline bbox="70.224,80.656,590.778,112.696" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">Risk Communication: alarms, spill kit </textline>
+</enlisting>
+<enlisting_image name="Image149" bbox="43.200,382.920,63.240,403.080" src="Image149.23.12x12.bmp" width="20" height="20" unique_id="2">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,340.680,63.240,360.840" src="Image149.24.12x12.bmp" width="20" height="20" unique_id="3">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,298.440,63.240,318.600" src="Image149.25.12x12.bmp" width="20" height="20" unique_id="4">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,256.200,63.240,276.360" src="Image149.26.12x12.bmp" width="20" height="20" unique_id="5">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,213.960,63.240,234.120" src="Image149.27.12x12.bmp" width="20" height="20" unique_id="6">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,171.720,63.240,191.880" src="Image149.28.12x12.bmp" width="20" height="20" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,129.480,63.240,149.640" src="Image149.29.12x12.bmp" width="20" height="20" unique_id="8">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,87.240,63.240,107.400" src="Image149.30.12x12.bmp" width="20" height="20" unique_id="9">
+</enlisting_image>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[138.41269999999997, 450.62375833333334, 551.606525, 496.2610249999999]">
+<title id="0" bbox="169.390,447.417,550.632,491.481" size="44.064" unique_id="0">Common Violations <textline bbox="169.390,447.417,550.632,491.481" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">Common Violations </textline>
+</title>
+<enlisting id="1" bbox="70.224,130.597,668.955,408.471" size="32.050285714285714" unique_id="1">Labeling, labeling, labeling 
+Containers not closed or secured 
+Waste manifests not available 
+No waste determination / illegal disposal 
+No weekly or daily inspections 
+Contingency/Emergency Response Plans  
+and employee training inadequate <textline bbox="70.224,376.407,446.816,408.471" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">Labeling, labeling, labeling </textline>
+<textline bbox="70.224,334.142,539.290,366.182" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">Containers not closed or secured </textline>
+<textline bbox="70.224,291.902,493.729,323.942" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">Waste manifests not available </textline>
+<textline bbox="70.224,249.657,640.578,281.721" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">No waste determination / illegal disposal </textline>
+<textline bbox="70.224,207.402,498.439,239.442" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">No weekly or daily inspections </textline>
+<textline bbox="70.224,165.162,668.955,197.202" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">Contingency/Emergency Response Plans  </textline>
+<textline bbox="70.224,130.597,551.601,162.661" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">and employee training inadequate </textline>
+</enlisting>
+<enlisting_image name="Image149" bbox="43.200,382.920,63.240,403.080" src="Image149.31.12x12.bmp" width="20" height="20" unique_id="2">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,340.680,63.240,360.840" src="Image149.32.12x12.bmp" width="20" height="20" unique_id="3">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,298.440,63.240,318.600" src="Image149.33.12x12.bmp" width="20" height="20" unique_id="4">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,256.200,63.240,276.360" src="Image149.34.12x12.bmp" width="20" height="20" unique_id="5">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,213.960,63.240,234.120" src="Image149.35.12x12.bmp" width="20" height="20" unique_id="6">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,171.720,63.240,191.880" src="Image149.36.12x12.bmp" width="20" height="20" unique_id="7">
+</enlisting_image>
+</page>
+<page id="23" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[125.33920588235293, 450.30096323529415, 565.9561102941178, 497.77372794117633]">
+<title id="0" bbox="27.288,447.880,673.578,509.119" size="18.008" unique_id="0">Upper left shows proper label of back flush and boiler blow down drum.   
+Remaining photos show inadequate labeling of heat transfer oil tank, wastewater  
+tank (WW1) and alkyd/resin product drums. <textline bbox="65.472,491.095,640.347,509.119" font="ArialMT" ncolour="1" size="18.024" colourspace="Pattern">Upper left shows proper label of back flush and boiler blow down drum.   </textline>
+<textline bbox="27.288,469.480,673.578,487.480" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">Remaining photos show inadequate labeling of heat transfer oil tank, wastewater  </textline>
+<textline bbox="175.030,447.880,521.674,465.880" font="ArialMT" ncolour="1" size="18.000" colourspace="Pattern">tank (WW1) and alkyd/resin product drums. </textline>
+</title>
+<picture name="Image1688" bbox="64.800,227.760,343.080,405.000" src="Image1688.jpg" width="278" height="177" unique_id="1">
+</picture>
+<picture name="Image1689" bbox="366.000,227.760,660.000,405.000" src="Image1689.jpg" width="294" height="177" unique_id="2">
+</picture>
+<picture name="Image1690" bbox="92.760,41.160,342.000,216.480" src="Image1690.jpg" width="249" height="175" unique_id="3">
+</picture>
+<picture name="Image1691" bbox="372.000,36.840,660.000,216.480" src="Image1691.jpg" width="288" height="179" unique_id="4">
+</picture>
+</page>
+<page id="24" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[119.32729411764704, 447.0471895424837, 576.5134313725491, 500.0057581699345]">
+<title id="0" bbox="71.232,421.017,660.972,517.862" size="44.052" unique_id="0">Risk Management Prevention  
+Program (RMP) <textline bbox="71.232,473.822,660.972,517.862" font="ArialMT" ncolour="1" size="44.040" colourspace="Pattern">Risk Management Prevention  </textline>
+<textline bbox="205.900,421.017,514.128,465.081" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">Program (RMP) </textline>
+</title>
+<normal_text id="1" bbox="76.224,338.431,697.693,396.679" size="27.972" unique_id="1">Acutely hazardous materials that exceed thresholds  
+listed on three tables. <textline bbox="76.224,368.695,697.693,396.679" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.984" colourspace="Pattern">Acutely hazardous materials that exceed thresholds  </textline>
+<textline bbox="76.224,338.431,329.150,366.391" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">listed on three tables. </textline>
+</normal_text>
+<normal_text id="2" bbox="76.224,264.505,498.027,292.489" size="27.984" unique_id="2">Ex. Chlorine, Anhydrous Ammonia <textline bbox="76.224,264.505,498.027,292.489" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.984" colourspace="Pattern">Ex. Chlorine, Anhydrous Ammonia </textline>
+</normal_text>
+<normal_text id="3" bbox="76.224,160.331,602.683,218.531" size="27.96" unique_id="3">Review potential for offsite consequences of  
+airborne release <textline bbox="76.224,190.571,602.683,218.531" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">Review potential for offsite consequences of  </textline>
+<textline bbox="76.224,160.331,269.064,188.291" font="TimesNewRomanPS-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">airborne release </textline>
+</normal_text>
+<normal_text id="4" bbox="76.224,86.265,585.443,114.392" size="27.96" unique_id="4">Up to one year to three years  to complete <textline bbox="76.224,86.265,585.443,114.392">Up to one year to three years  to complete <text font="TimesNewRomanPS-BoldMT" bbox="76.224,86.265,96.411,114.225" colourspace="Pattern" ncolour="1" size="27.960">U</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="96.411,86.265,111.957,114.225" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="111.957,86.265,118.947,114.225" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="119.031,86.265,128.341,114.225" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="128.341,86.265,142.321,114.225" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="142.405,86.265,149.395,114.225" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="149.395,86.265,163.375,114.225" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="163.375,86.265,178.921,114.225" colourspace="Pattern" ncolour="1" size="27.960">n</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="178.977,86.265,191.391,114.225" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="191.391,86.265,198.381,114.225" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="198.381,86.265,212.361,114.225" colourspace="Pattern" ncolour="1" size="27.960">y</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="212.417,86.265,224.831,114.225" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="224.831,86.265,238.811,114.225" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="238.811,86.265,251.226,114.225" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="250.694,86.265,257.684,114.225" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="257.545,86.265,266.855,114.225" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="266.855,86.265,280.835,114.225" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="280.919,86.265,287.909,114.225" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="287.965,86.265,297.276,114.225" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="297.276,86.265,312.822,114.225" colourspace="Pattern" ncolour="1" size="27.960">h</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="312.905,86.265,325.320,114.225" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="324.788,86.265,337.203,114.225" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="337.203,86.265,349.617,114.225" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="349.505,86.265,356.495,114.225" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="356.495,86.265,370.475,114.225" colourspace="Pattern" ncolour="1" size="27.960">y</text>
+<text font="Arial-BoldMT" bbox="370.750,86.432,386.296,114.392" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="Arial-BoldMT" bbox="386.296,86.432,401.842,114.392" colourspace="Pattern" ncolour="1" size="27.960">a</text>
+<text font="Arial-BoldMT" bbox="401.925,86.432,412.802,114.392" colourspace="Pattern" ncolour="1" size="27.960">r</text>
+<text font="Arial-BoldMT" bbox="412.802,86.432,428.348,114.392" colourspace="Pattern" ncolour="1" size="27.960">s</text>
+<text font="Arial-BoldMT" bbox="428.404,86.432,436.176,114.392" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="436.176,86.432,443.949,114.392" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="Arial-BoldMT" bbox="443.949,86.432,453.260,114.392" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="Arial-BoldMT" bbox="453.344,86.432,470.427,114.392" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="Arial-BoldMT" bbox="470.427,86.432,478.200,114.392" colourspace="Pattern" ncolour="1" size="27.960"> </text>
+<text font="TimesNewRomanPS-BoldMT" bbox="478.300,86.265,490.714,114.225" colourspace="Pattern" ncolour="1" size="27.960">c</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="490.714,86.265,504.694,114.225" colourspace="Pattern" ncolour="1" size="27.960">o</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="504.694,86.265,527.985,114.225" colourspace="Pattern" ncolour="1" size="27.960">m</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="527.985,86.265,543.531,114.225" colourspace="Pattern" ncolour="1" size="27.960">p</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="543.531,86.265,551.304,114.225" colourspace="Pattern" ncolour="1" size="27.960">l</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="551.304,86.265,563.718,114.225" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="563.718,86.265,573.028,114.225" colourspace="Pattern" ncolour="1" size="27.960">t</text>
+<text font="TimesNewRomanPS-BoldMT" bbox="573.028,86.265,585.443,114.225" colourspace="Pattern" ncolour="1" size="27.960">e</text>
+</textline>
+</normal_text>
+<enlisting_image name="Image149" bbox="49.200,374.640,66.240,392.280" src="Image149.37.12x12.bmp" width="17" height="17" unique_id="5">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="49.200,270.480,66.240,288.120" src="Image149.38.12x12.bmp" width="17" height="17" unique_id="6">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="49.200,196.560,66.240,214.200" src="Image149.39.12x12.bmp" width="17" height="17" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="49.200,92.280,66.240,109.920" src="Image149.40.12x12.bmp" width="17" height="17" unique_id="8">
+</enlisting_image>
+</page>
+<page id="25" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[114.26463157894734, 444.30716959064324, 585.403807017544, 501.8853625730993]">
+<title id="0" bbox="71.232,421.017,660.972,517.862" size="44.052" unique_id="0">Risk Management Prevention  
+Program (RMP) cont&#8217;n <textline bbox="71.232,473.822,660.972,517.862" font="ArialMT" ncolour="1" size="44.040" colourspace="Pattern">Risk Management Prevention  </textline>
+<textline bbox="141.070,421.017,578.934,465.081" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">Program (RMP) cont&#8217;n </textline>
+</title>
+<normal_text id="1" bbox="70.224,327.078,644.774,381.918" size="27.96" unique_id="1">Uses a professional team of experts to review  
+processes, equipment, and training <textline bbox="70.224,353.958,644.774,381.918" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Uses a professional team of experts to review  </textline>
+<textline bbox="70.224,327.078,506.902,355.038" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">processes, equipment, and training </textline>
+</normal_text>
+<normal_text id="2" bbox="70.224,206.098,660.683,287.857" size="27.968" unique_id="2">Assess worst case and reasonable loss  
+condition from accident, earthquake, sabotage,  
+etc. <textline bbox="70.224,259.873,568.675,287.857" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">Assess worst case and reasonable loss  </textline>
+<textline bbox="70.224,232.978,660.683,260.938" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">condition from accident, earthquake, sabotage,  </textline>
+<textline bbox="70.224,206.098,115.407,234.058" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">etc. </textline>
+</normal_text>
+<normal_text id="3" bbox="70.224,138.893,447.168,166.877" size="27.984" unique_id="3">Subjected to third party review <textline bbox="70.224,138.893,447.168,166.877" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">Subjected to third party review </textline>
+</normal_text>
+<normal_text id="4" bbox="70.224,71.672,521.890,99.632" size="27.96" unique_id="4">Public Participation Period (45 days) <textline bbox="70.224,71.672,521.890,99.632" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Public Participation Period (45 days) </textline>
+</normal_text>
+<enlisting_image name="Image149" bbox="43.200,359.760,60.240,377.400" src="Image149.41.12x12.bmp" width="17" height="17" unique_id="5">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,265.680,60.240,283.320" src="Image149.42.12x12.bmp" width="17" height="17" unique_id="6">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,144.720,60.240,162.360" src="Image149.43.12x12.bmp" width="17" height="17" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,77.520,60.240,95.160" src="Image149.44.12x12.bmp" width="17" height="17" unique_id="8">
+</enlisting_image>
+</page>
+<page id="26" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[117.17316842105262, 444.61815263157894, 584.5486263157895, 500.84492631578934]">
+<title id="0" bbox="143.350,447.417,576.852,491.481" size="44.064" unique_id="0">Emergency Response <textline bbox="143.350,447.417,576.852,491.481" font="ArialMT" ncolour="1" size="44.064" colourspace="Pattern">Emergency Response </textline>
+</title>
+<normal_text id="1" bbox="70.224,357.103,669.529,411.967" size="27.984" unique_id="1">Technical assistance to other agencies such  
+as, fire, police, and public works <textline bbox="70.224,383.983,669.529,411.967" font="Arial-BoldMT" ncolour="1" size="27.984" colourspace="Pattern">Technical assistance to other agencies such  </textline>
+<textline bbox="70.224,357.103,501.122,385.087" font="Arial-BoldMT" ncolour="1" size="27.984" colourspace="Pattern">as, fire, police, and public works </textline>
+</normal_text>
+<normal_text id="2" bbox="70.224,262.993,607.447,317.838" size="27.972" unique_id="2">Activate &#8220;toxics&#8221; superfund cleanup for  
+hazardous waste and illegal drug labs. <textline bbox="70.224,289.878,607.447,317.838" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">Activate &#8220;toxics&#8221; superfund cleanup for  </textline>
+<textline bbox="70.224,262.993,582.359,290.977" font="Arial-BoldMT" ncolour="1" size="27.984" colourspace="Pattern">hazardous waste and illegal drug labs. </textline>
+</normal_text>
+<normal_text id="3" bbox="70.224,168.898,638.399,223.738" size="27.96" unique_id="3">Hazcat contract for emergency Hazardous  
+Materials Identification <textline bbox="70.224,195.778,638.399,223.738" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">Hazcat contract for emergency Hazardous  </textline>
+<textline bbox="70.224,168.898,373.646,196.858" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">Materials Identification </textline>
+</normal_text>
+<normal_text id="4" bbox="70.224,101.668,331.482,129.628" size="27.96" unique_id="4">Prop 65 notification <textline bbox="70.224,101.668,331.482,129.628" font="Arial-BoldMT" ncolour="1" size="27.960" colourspace="Pattern">Prop 65 notification </textline>
+</normal_text>
+<enlisting_image name="Image149" bbox="43.200,389.760,60.240,407.400" src="Image149.45.12x12.bmp" width="17" height="17" unique_id="5">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,295.680,60.240,313.320" src="Image149.46.12x12.bmp" width="17" height="17" unique_id="6">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,201.600,60.240,219.240" src="Image149.47.12x12.bmp" width="17" height="17" unique_id="7">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="43.200,107.520,60.240,125.160" src="Image149.48.12x12.bmp" width="17" height="17" unique_id="8">
+</enlisting_image>
+</page>
+<page id="27" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[126.01191428571427, 442.82909047619046, 577.4525666666667, 502.0785523809523]">
+<title id="0" bbox="209.980,425.833,510.040,513.798" size="39.972" unique_id="0">Additional Areas: 
+Complaints <textline bbox="209.980,473.838,510.040,513.798" font="ArialMT" ncolour="1" size="39.960" colourspace="Pattern">Additional Areas: </textline>
+<textline bbox="260.140,425.833,459.940,465.817" font="ArialMT" ncolour="1" size="39.984" colourspace="Pattern">Complaints </textline>
+</title>
+<normal_text id="1" bbox="91.224,295.742,630.457,404.631" size="32.048" unique_id="1">Complaints of possible HAZMAT  
+violations are reviewed ASAP. Typical  
+examples and response: <textline bbox="91.224,372.567,559.134,404.631" font="ArialMT" ncolour="1" size="32.064" colourspace="Pattern">Complaints of possible HAZMAT  </textline>
+<textline bbox="91.224,334.142,630.457,366.182" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">violations are reviewed ASAP. Typical  </textline>
+<textline bbox="91.224,295.742,439.499,327.782" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">examples and response: </textline>
+</normal_text>
+<picture name="Image149" bbox="43.200,379.080,63.240,399.240" src="Image149.49.12x12.bmp" width="20" height="20" unique_id="5">
+</picture>
+<enlisting bbox="79.224,100.708,676.828,242.938" unique_id="['2', ' 4', '3']">1. Disposal of Household Hazardous Wastes 
+2. Neighbor violations: illegal disposal of waste  3. Odors and Sick Building <normal_text id="2" bbox="79.224,174.658,676.828,242.938" size="27.96" unique_id="2">1. Disposal of Household Hazardous Wastes 
+2. Neighbor violations: illegal disposal of waste  <textline bbox="79.224,214.978,644.451,242.938" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">1. Disposal of Household Hazardous Wastes </textline>
+<textline bbox="79.224,174.658,676.828,202.618" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">2. Neighbor violations: illegal disposal of waste  </textline>
+</normal_text>
+<normal_text id="4" bbox="79.224,100.708,419.401,128.668" size="27.96" unique_id="4">3. Odors and Sick Building <textline bbox="79.224,100.708,419.401,128.668" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">3. Odors and Sick Building </textline>
+</normal_text>
+<normal_text id="3" bbox="120.620,141.053,312.338,169.037" size="27.984" unique_id="3">oil or antifreeze <textline bbox="120.620,141.053,312.338,169.037" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">oil or antifreeze </textline>
+</normal_text>
+</enlisting></page>
+<page id="28" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[120.93374025974025, 443.89026406926405, 584.8353333333334, 504.1570476190476]">
+<title id="0" bbox="70.152,454.502,658.663,524.942" size="32.04" unique_id="0">Aboveground Storage Tanks (AST&#8217;s) and  
+Article 80, Uniform Fire Code <textline bbox="70.152,492.902,658.663,524.942" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">Aboveground Storage Tanks (AST&#8217;s) and  </textline>
+<textline bbox="153.910,454.502,566.425,486.542" font="ArialMT" ncolour="1" size="32.040" colourspace="Pattern">Article 80, Uniform Fire Code </textline>
+</title>
+<normal_text id="1" bbox="82.224,359.383,619.601,387.367" size="27.984" unique_id="1">Petroleum threat to navigable waters (AST) <textline bbox="82.224,359.383,619.601,387.367" font="ArialMT" ncolour="1" size="27.984" colourspace="Pattern">Petroleum threat to navigable waters (AST) </textline>
+</normal_text>
+<normal_text id="2" bbox="82.224,245.118,696.226,306.678" size="27.96" unique_id="2">Spill Prevention and countermeasure and control  
+plans (SPCC) (AST) <textline bbox="82.224,278.718,696.226,306.678" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Spill Prevention and countermeasure and control  </textline>
+<textline bbox="82.224,245.118,334.172,273.078" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">plans (SPCC) (AST) </textline>
+</normal_text>
+<normal_text id="3" bbox="82.224,130.858,699.888,192.418" size="27.96" unique_id="3">Article 80 Section 8001.3 duplicates HMBP in the  
+Fire Code and calls the document HMMP <textline bbox="82.224,164.458,699.888,192.418" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Article 80 Section 8001.3 duplicates HMBP in the  </textline>
+<textline bbox="82.224,130.858,594.423,158.818" font="ArialMT" ncolour="1" size="27.960" colourspace="Pattern">Fire Code and calls the document HMMP </textline>
+</normal_text>
+<enlisting_image name="Image149" bbox="55.200,365.160,72.240,382.800" src="Image149.50.12x12.bmp" width="17" height="17" unique_id="4">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="55.200,284.520,72.240,302.160" src="Image149.51.12x12.bmp" width="17" height="17" unique_id="5">
+</enlisting_image>
+<enlisting_image name="Image149" bbox="55.200,170.280,72.240,187.920" src="Image149.52.12x12.bmp" width="17" height="17" unique_id="6">
+</enlisting_image>
+</page>
+</pages>

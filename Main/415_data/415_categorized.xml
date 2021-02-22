@@ -1,0 +1,1524 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="75.528,315.997,664.959,412.842" size="44.052" unique_id="0">Uses of Information Theory in  
+Medical Imaging <textline bbox="75.528,368.802,664.959,412.842" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Uses of Information Theory in  </textline>
+<textline bbox="203.590,315.997,524.508,360.061" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">Medical Imaging </textline>
+</title>
+<normal_text id="1" bbox="135.240,157.740,592.137,227.400" size="20.68" unique_id="1">Wang Zhan, Ph.D. 
+Center for Imaging of Neurodegenerative Diseases  
+Tel: 415-221-4810x2454, Email: Wang.Zhan@ucsf.edu <textline bbox="262.700,203.400,459.116,227.400" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Wang Zhan, Ph.D. </textline>
+<textline bbox="135.240,179.392,592.137,199.432">Center for Imaging of Neurodegenerative Diseases  <text font="ArialMT" bbox="135.240,179.392,149.709,199.432" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">C</text>
+<text font="ArialMT" bbox="149.760,179.392,160.902,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="160.902,179.392,172.044,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="172.044,179.392,177.616,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="177.616,179.392,188.758,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="188.758,179.392,195.431,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="195.431,179.392,201.002,199.432" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="200.762,179.392,206.333,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="206.333,179.392,217.475,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="217.475,179.392,224.148,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="224.148,179.392,229.720,199.432" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="229.440,179.392,235.011,199.432" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">I</text>
+<text font="ArialMT" bbox="234.960,179.392,251.653,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="251.653,179.392,262.796,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="262.796,179.392,273.938,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="ArialMT" bbox="273.938,179.392,278.387,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="278.387,179.392,289.529,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="289.529,179.392,300.671,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="ArialMT" bbox="300.731,179.392,306.302,199.432" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="306.122,179.392,317.264,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="317.264,179.392,322.835,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="322.835,179.392,328.407,199.432" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="328.220,179.392,342.689,199.432" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">N</text>
+<text font="ArialMT" bbox="342.740,179.392,353.882,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="353.882,179.392,365.024,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="365.024,179.392,371.698,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="371.758,179.392,382.900,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="382.900,179.392,394.042,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="394.042,179.392,405.185,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="405.185,179.392,416.327,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="ArialMT" bbox="416.387,179.392,427.529,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="427.529,179.392,438.671,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="438.671,179.392,449.814,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="449.814,179.392,456.487,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="456.487,179.392,467.629,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="467.629,179.392,473.200,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="473.200,179.392,477.649,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="477.589,179.392,487.609,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">v</text>
+<text font="ArialMT" bbox="487.609,179.392,498.751,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="498.751,179.392,504.323,199.432" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="503.930,179.392,518.399,199.432" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">D</text>
+<text font="ArialMT" bbox="518.470,179.392,522.919,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="522.919,179.392,532.939,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="532.939,179.392,544.081,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="544.121,179.392,555.263,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="555.263,179.392,565.283,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="565.344,179.392,576.486,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="576.486,179.392,586.506,199.432" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="586.566,179.392,592.137,199.432" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+<textline bbox="142.200,157.740,579.590,175.740">Tel: 415-221-4810x2454, Email: Wang.Zhan@ucsf.edu <text font="ArialMT" bbox="142.200,157.740,153.198,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">T</text>
+<text font="ArialMT" bbox="151.326,157.740,161.334,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="ArialMT" bbox="161.334,157.740,165.330,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">l</text>
+<text font="ArialMT" bbox="165.240,157.740,170.244,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">:</text>
+<text font="ArialMT" bbox="170.244,157.740,175.248,175.740" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="175.248,157.740,185.256,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">4</text>
+<text font="ArialMT" bbox="185.166,157.740,195.174,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">1</text>
+<text font="ArialMT" bbox="195.174,157.740,205.182,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">5</text>
+<text font="ArialMT" bbox="205.080,157.740,211.074,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">-</text>
+<text font="ArialMT" bbox="211.080,157.740,221.088,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">2</text>
+<text font="ArialMT" bbox="221.040,157.740,231.048,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">2</text>
+<text font="ArialMT" bbox="231.000,157.740,241.008,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">1</text>
+<text font="ArialMT" bbox="240.960,157.740,246.954,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">-</text>
+<text font="ArialMT" bbox="246.960,157.740,256.968,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">4</text>
+<text font="ArialMT" bbox="256.968,157.740,266.976,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">8</text>
+<text font="ArialMT" bbox="266.976,157.740,276.984,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">1</text>
+<text font="ArialMT" bbox="276.912,157.740,286.920,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">0</text>
+<text font="ArialMT" bbox="286.920,157.740,295.920,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">x</text>
+<text font="ArialMT" bbox="295.794,157.740,305.802,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">2</text>
+<text font="ArialMT" bbox="305.802,157.740,315.810,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">4</text>
+<text font="ArialMT" bbox="315.810,157.740,325.818,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">5</text>
+<text font="ArialMT" bbox="325.818,157.740,335.826,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">4</text>
+<text font="ArialMT" bbox="335.826,157.740,340.830,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">,</text>
+<text font="ArialMT" bbox="340.902,157.740,345.906,175.740" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="346.428,157.740,358.434,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">E</text>
+<text font="ArialMT" bbox="358.434,157.740,373.428,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="ArialMT" bbox="373.428,157.740,383.436,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="383.436,157.740,387.432,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="387.432,157.740,391.428,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">l</text>
+<text font="ArialMT" bbox="391.428,157.740,396.432,175.740" colourspace="DeviceGray" ncolour="0" size="18.000">:</text>
+<text font="ArialMT" bbox="396.432,157.740,401.436,175.740" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="401.210,157.740,418.202,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">W</text>
+<text font="ArialMT" bbox="417.536,157.740,427.544,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="427.544,157.740,437.552,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">n</text>
+<text font="ArialMT" bbox="437.462,157.740,447.470,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">g</text>
+<text font="ArialMT" bbox="447.470,157.740,452.474,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">.</text>
+<text font="ArialMT" bbox="452.474,157.740,463.472,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">Z</text>
+<text font="ArialMT" bbox="463.472,157.740,473.480,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">h</text>
+<text font="ArialMT" bbox="473.480,157.740,483.488,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">a</text>
+<text font="ArialMT" bbox="483.416,157.740,493.424,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">n</text>
+<text font="ArialMT" bbox="493.424,157.740,511.694,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">@</text>
+<text font="ArialMT" bbox="511.622,157.740,521.630,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">u</text>
+<text font="ArialMT" bbox="521.630,157.740,530.630,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">c</text>
+<text font="ArialMT" bbox="530.630,157.740,539.630,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">s</text>
+<text font="ArialMT" bbox="539.630,157.740,544.634,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">f</text>
+<text font="ArialMT" bbox="544.634,157.740,549.638,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">.</text>
+<text font="ArialMT" bbox="549.638,157.740,559.646,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">e</text>
+<text font="ArialMT" bbox="559.646,157.740,569.654,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">d</text>
+<text font="ArialMT" bbox="569.582,157.740,579.590,175.740" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="18.000">u</text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="175.920,112.172,545.738,132.212" size="20.04" unique_id="2">Karl Young (UCSF) and M. Farmar (MSU) <textline bbox="175.920,112.172,545.738,132.212" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Karl Young (UCSF) and M. Farmar (MSU) </textline>
+</normal_text>
+<footer id="3" bbox="451.030,17.256,700.368,29.256" size="12.0" unique_id="3">Medical Imaging Informatics, 2009  --- W. Zhan <textline bbox="451.030,17.256,700.368,29.256" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Medical Imaging Informatics, 2009  --- W. Zhan </textline>
+</footer>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[283.54, 441.85, 436.576, 495.85]">
+<title id="0" bbox="283.540,441.850,436.576,495.850" size="54.0" unique_id="0">Topics <textline bbox="283.540,441.850,436.576,495.850" font="ArialMT" ncolour="0" size="54.000" colourspace="DeviceGray">Topics </textline>
+</title>
+<enlisting bbox="31.2,107.105,651.36,405.968" unique_id="['1', '  2', '  4', '  5', '  6', '  7', ' 3', '8']">&#8226; Image Registration  &#8211; Information theory based image registration (JPW  &#8226; Feature Selection &#8211; Information theory based feature selection for image  
+classification optimization (M. Farmer, MSU, 2003) &#8226; Image Classification &#8211; Complexity Based Image Classification (Karl Young,  <normal_text id="1" bbox="31.200,378.008,301.536,405.968" size="27.96" unique_id="1">&#8226; Image Registration  <textline bbox="31.200,378.008,301.536,405.968" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Image Registration  </textline>
+</normal_text>
+<normal_text id="2" bbox="67.224,343.315,624.943,367.339" size="24.024" unique_id="2">&#8211; Information theory based image registration (JPW  <textline bbox="67.224,343.315,624.943,367.339" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Information theory based image registration (JPW  </textline>
+</normal_text>
+<normal_text id="4" bbox="31.200,274.308,278.105,302.268" size="27.96" unique_id="4">&#8226; Feature Selection <textline bbox="31.200,274.308,278.105,302.268" font="ArialMT" ncolour="0.502" size="27.960" colourspace="DeviceGray">&#8226; Feature Selection </textline>
+</normal_text>
+<normal_text id="5" bbox="67.224,210.815,651.360,263.620" size="24.012" unique_id="5">&#8211; Information theory based feature selection for image  
+classification optimization (M. Farmer, MSU, 2003) <textline bbox="67.224,239.620,651.360,263.620" font="ArialMT" ncolour="0.502" size="24.000" colourspace="DeviceGray">&#8211; Information theory based feature selection for image  </textline>
+<textline bbox="89.784,210.815,626.000,234.839" font="ArialMT" ncolour="0.502" size="24.024" colourspace="DeviceGray">classification optimization (M. Farmer, MSU, 2003) </textline>
+</normal_text>
+<normal_text id="6" bbox="31.200,170.598,309.393,198.558" size="27.96" unique_id="6">&#8226; Image Classification <textline bbox="31.200,170.598,309.393,198.558" font="ArialMT" ncolour="0.502" size="27.960" colourspace="DeviceGray">&#8226; Image Classification </textline>
+</normal_text>
+<normal_text id="7" bbox="67.224,135.910,648.936,159.910" size="24.0" unique_id="7">&#8211; Complexity Based Image Classification (Karl Young,  <textline bbox="67.224,135.910,648.936,159.910" font="ArialMT" ncolour="0.502" size="24.000" colourspace="DeviceGray">&#8211; Complexity Based Image Classification (Karl Young,  </textline>
+</normal_text>
+<normal_text id="3" bbox="89.784,314.500,391.704,338.500" size="24.0" unique_id="3">Pluim, et al, IEEE TMI 2003) <textline bbox="89.784,314.500,391.704,338.500" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Pluim, et al, IEEE TMI 2003) </textline>
+</normal_text>
+<normal_text id="8" bbox="89.784,107.105,209.688,131.129" size="24.024" unique_id="8">USF, 2007) <textline bbox="89.784,107.105,209.688,131.129" font="ArialMT" ncolour="0.502" size="24.024" colourspace="DeviceGray">USF, 2007) </textline>
+</normal_text>
+</enlisting></page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[200.24, 444.21000000000004, 520.052, 494.21000000000004]">
+<title id="0" bbox="158.590,445.390,561.790,493.390" size="48.0" unique_id="0">Image Registration <textline bbox="158.590,445.390,561.790,493.390" font="ArialMT" ncolour="0" size="48.000" colourspace="DeviceGray">Image Registration </textline>
+</title>
+<normal_text id="3" bbox="436.932,142.658,452.892,147.095" size="4.437" unique_id="3">I <textline bbox="436.932,142.658,452.892,147.095" font="ArialMT" ncolour="0" size="4.437" colourspace="DeviceGray">I </textline>
+</normal_text>
+<normal_text id="4" bbox="436.932,117.840,452.892,142.658" size="12.408999999999999" unique_id="4">R 
+M <textline bbox="436.932,131.135,452.892,142.658" font="ArialMT" ncolour="0" size="11.523" colourspace="DeviceGray">R </textline>
+<textline bbox="436.932,117.840,452.892,131.135" font="ArialMT" ncolour="0" size="13.295" colourspace="DeviceGray">M </textline>
+</normal_text>
+<picture name="Image19" bbox="106.200,63.240,394.200,205.800" src="Image19.285x141.bmp" width="288" height="142" unique_id="8" caption="CT &#10;MRI " caption_ids="['5', '6']">
+</picture>
+<picture name="Image20" bbox="461.520,74.040,587.520,200.160" src="Image20.128x128.bmp" width="126" height="126" unique_id="9" caption="CT " caption_ids="['7']">
+</picture>
+<enlisting bbox="31.2,247.3,653.273,405.968" unique_id="['1', '2']">&#8226; Define a transform T that maps one image onto  another image such that some measure of  
+overlap is maximized (Colin&#8217;s lecture). 
+&#8211; Discuss information theory as means for generating  
+measures to be maximized over sets of transforms <normal_text id="1" bbox="31.200,378.008,653.273,405.968" size="27.96" unique_id="1">&#8226; Define a transform T that maps one image onto  <textline bbox="31.200,378.008,653.273,405.968" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Define a transform T that maps one image onto  </textline>
+</normal_text>
+<normal_text id="2" bbox="58.200,247.300,644.616,372.387" size="25.986" unique_id="2">another image such that some measure of  
+overlap is maximized (Colin&#8217;s lecture). 
+&#8211; Discuss information theory as means for generating  
+measures to be maximized over sets of transforms <textline bbox="58.200,344.403,591.967,372.387" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">another image such that some measure of  </textline>
+<textline bbox="58.200,310.788,530.584,338.748" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">overlap is maximized (Colin&#8217;s lecture). </textline>
+<textline bbox="67.224,276.100,644.616,300.100" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Discuss information theory as means for generating  </textline>
+<textline bbox="89.784,247.300,627.384,271.300" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">measures to be maximized over sets of transforms </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[156.07500000000002, 447.095, 569.997, 490.095]">
+<title id="0" bbox="111.910,449.980,619.942,485.980" size="36.0" unique_id="0">Three Interpretations of Entropy <textline bbox="111.910,449.980,619.942,485.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Three Interpretations of Entropy </textline>
+</title>
+<enlisting bbox="61.224,110.96,637.513,411.58" unique_id="['1', '   2', '   4', '   5', '   7', '   8', '   10', '  3', ' 6', '9']">&#8226; The amount of information an event provides &#8211; An infrequently occurring event provides more information  &#8226; The uncertainty in the outcome of an event &#8211; Systems with one very common event have less entropy  &#8226; The dispersion in the probability distribution &#8211; An image of a single amplitude has a less disperse  &#8226; the lower dispersion implies lower entropy <normal_text id="1" bbox="61.224,387.580,564.384,411.580" size="24.0" unique_id="1">&#8226; The amount of information an event provides <textline bbox="61.224,387.580,564.384,411.580" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; The amount of information an event provides </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,355.862,637.513,375.902" size="20.04" unique_id="2">&#8211; An infrequently occurring event provides more information  <textline bbox="97.224,355.862,637.513,375.902" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; An infrequently occurring event provides more information  </textline>
+</normal_text>
+<normal_text id="4" bbox="61.224,292.510,543.048,316.510" size="24.0" unique_id="4">&#8226; The uncertainty in the outcome of an event <textline bbox="61.224,292.510,543.048,316.510" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; The uncertainty in the outcome of an event </textline>
+</normal_text>
+<normal_text id="5" bbox="97.224,260.822,624.047,280.862" size="20.04" unique_id="5">&#8211; Systems with one very common event have less entropy  <textline bbox="97.224,260.822,624.047,280.862" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Systems with one very common event have less entropy  </textline>
+</normal_text>
+<normal_text id="7" bbox="61.224,197.450,549.960,221.450" size="24.0" unique_id="7">&#8226; The dispersion in the probability distribution <textline bbox="61.224,197.450,549.960,221.450" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; The dispersion in the probability distribution </textline>
+</normal_text>
+<normal_text id="8" bbox="97.224,165.762,575.550,185.802" size="20.04" unique_id="8">&#8211; An image of a single amplitude has a less disperse  <textline bbox="97.224,165.762,575.550,185.802" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; An image of a single amplitude has a less disperse  </textline>
+</normal_text>
+<normal_text id="10" bbox="133.220,110.960,484.994,128.960" size="18.0" unique_id="10">&#8226; the lower dispersion implies lower entropy <textline bbox="133.220,110.960,484.994,128.960" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; the lower dispersion implies lower entropy </textline>
+</normal_text>
+<normal_text id="3" bbox="119.780,329.462,410.761,349.502" size="20.04" unique_id="3">than a frequently occurring event <textline bbox="119.780,329.462,410.761,349.502" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">than a frequently occurring event </textline>
+</normal_text>
+<normal_text id="6" bbox="119.780,234.402,549.798,254.442" size="20.04" unique_id="6">than systems with many equally probable events <textline bbox="119.780,234.402,549.798,254.442" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">than systems with many equally probable events </textline>
+</normal_text>
+<normal_text id="9" bbox="119.780,139.357,517.629,159.421" size="20.064" unique_id="9">histogram than an image of many greyscales <textline bbox="119.780,139.357,517.629,159.421" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">histogram than an image of many greyscales </textline>
+</normal_text>
+</enlisting></page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[160.00900000000001, 448.24899999999997, 563.6518, 488.44899999999996]">
+<title id="0" bbox="165.910,449.980,554.134,485.980" size="36.0" unique_id="0">Measures of Information <textline bbox="165.910,449.980,554.134,485.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Measures of Information </textline>
+</title>
+<enlisting bbox="61.224,85.936,645.727,423.94" unique_id="['1', '  2', '  4', '  5', '  6', '  8', ' 3', '7']">&#8226; Hartley defined the first information measure: &#8211; H = n log s 
+&#8211; n is the length of the message and s is the number of  &#8211; Assumes all symbols equally likely to occur &#8226; Shannon proposed variant (Shannon&#8217;s Entropy) &#8226; weighs the information based on the probability that an  &#8226; second term shows the amount of information an event  
+provides is inversely proportional to its prob of occurring <normal_text id="1" bbox="61.224,399.940,567.120,423.940" size="24.0" unique_id="1">&#8226; Hartley defined the first information measure: <textline bbox="61.224,399.940,567.120,423.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Hartley defined the first information measure: </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,342.302,594.748,391.191" size="20.052" unique_id="2">&#8211; H = n log s 
+&#8211; n is the length of the message and s is the number of  <textline bbox="97.224,371.127,215.907,391.191" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; H = n log s </textline>
+<textline bbox="97.224,342.302,594.748,362.342" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; n is the length of the message and s is the number of  </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,289.502,502.243,309.542" size="20.04" unique_id="4">&#8211; Assumes all symbols equally likely to occur <textline bbox="97.224,289.502,502.243,309.542" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Assumes all symbols equally likely to occur </textline>
+</normal_text>
+<normal_text id="5" bbox="61.224,254.945,595.082,278.969" size="24.024" unique_id="5">&#8226; Shannon proposed variant (Shannon&#8217;s Entropy) <textline bbox="61.224,254.945,595.082,278.969" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Shannon proposed variant (Shannon&#8217;s Entropy) </textline>
+</normal_text>
+<normal_text id="6" bbox="133.220,162.762,640.958,182.802" size="20.04" unique_id="6">&#8226; weighs the information based on the probability that an  <textline bbox="133.220,162.762,640.958,182.802" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; weighs the information based on the probability that an  </textline>
+</normal_text>
+<normal_text id="8" bbox="133.220,85.936,645.727,129.972" size="20.04" unique_id="8">&#8226; second term shows the amount of information an event  
+provides is inversely proportional to its prob of occurring <textline bbox="133.220,109.932,643.002,129.972" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; second term shows the amount of information an event  </textline>
+<textline bbox="151.220,85.936,645.727,105.976" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">provides is inversely proportional to its prob of occurring </textline>
+</normal_text>
+<normal_text id="3" bbox="119.780,318.302,544.307,338.342" size="20.04" unique_id="3">possible values for each symbol in the message <textline bbox="119.780,318.302,544.307,338.342" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">possible values for each symbol in the message </textline>
+</normal_text>
+<normal_text id="7" bbox="151.220,138.757,316.026,158.821" size="20.064" unique_id="7">outcome will occur <textline bbox="151.220,138.757,316.026,158.821" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">outcome will occur </textline>
+</normal_text>
+</enlisting></page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[141.656, 448.82599999999996, 584.7512, 487.626]">
+<title id="0" bbox="104.950,449.980,626.950,485.980" size="36.0" unique_id="0">Alternative Definitions of Entropy <textline bbox="104.950,449.980,626.950,485.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Alternative Definitions of Entropy </textline>
+</title>
+<enlisting bbox="67.224,67.704,605.492,399.247" unique_id="['1', '2']">&#8226; The following generating function can be  
+used as an abstract definition of entropy: &#8226; Various definitions of these parameters  
+provide different definitions of entropy. 
+&#8211; Actually found over 20 definitions of entropy <normal_text id="1" bbox="67.224,337.638,605.492,399.247" size="27.972" unique_id="1">&#8226; The following generating function can be  
+used as an abstract definition of entropy: <textline bbox="67.224,371.263,605.492,399.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; The following generating function can be  </textline>
+<textline bbox="94.224,337.638,598.986,365.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">used as an abstract definition of entropy: </textline>
+</normal_text>
+<normal_text id="2" bbox="67.224,67.704,591.572,163.997" size="26.648" unique_id="2">&#8226; Various definitions of these parameters  
+provide different definitions of entropy. 
+&#8211; Actually found over 20 definitions of entropy <textline bbox="67.224,136.013,585.987,163.997" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Various definitions of these parameters  </textline>
+<textline bbox="94.224,102.388,567.028,130.348" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">provide different definitions of entropy. </textline>
+<textline bbox="103.220,67.704,591.572,91.704" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Actually found over 20 definitions of entropy </textline>
+</normal_text>
+</enlisting></page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[141.656, 448.82599999999996, 584.7512, 487.626]">
+<picture name="Image40" bbox="0.000,96.720,707.400,460.440" src="Image40.943x410.bmp" width="707" height="363" unique_id="0">
+</picture>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[141.656, 448.82599999999996, 584.7512, 487.626]">
+<picture name="Image43" bbox="0.000,74.280,704.400,479.280" src="Image43.939x472.bmp" width="704" height="405" unique_id="0">
+</picture>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[141.656, 448.82599999999996, 584.7512, 487.626]">
+<normal_text id="0" bbox="68.520,35.472,663.378,117.115" size="24.008" unique_id="0">Note that only 1 and 2 satisfy simple uniqueness criteria 
+(i.e. unique additive functionals of probability  
+density functions) <textline bbox="68.520,93.091,663.378,117.115" font="BCDEEE+Tahoma" ncolour="0" size="24.024" colourspace="DeviceGray">Note that only 1 and 2 satisfy simple uniqueness criteria </textline>
+<textline bbox="123.000,64.272,608.856,88.272" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="DeviceGray">(i.e. unique additive functionals of probability  </textline>
+<textline bbox="271.820,35.472,459.860,59.472" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="DeviceGray">density functions) </textline>
+</normal_text>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[118.68914285714287, 448.4934285714285, 605.8471428571429, 488.79057142857135]">
+<title id="0" bbox="61.272,447.662,658.587,491.702" size="44.04" unique_id="0">Entropy for Image Registration <textline bbox="61.272,447.662,658.587,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Entropy for Image Registration </textline>
+</title>
+<enlisting bbox="43.2,118.837,672.621,411.7" unique_id="['1', '   2', '   4', '   6', '   7', '  3', ' 5', '8']">&#8226; Define estimate of joint probability distribution of images: &#8211; 2-D histogram where each axis designates the number of  &#8211; each histogram cell is incremented each time a pair  (I_1(x,y),  &#8211; if images are perfectly aligned then the histogram is highly  
+focused; as the images mis-align the dispersion grows &#8211; recall one interpretation of entropy is as a measure of histogram  <normal_text id="1" bbox="43.200,387.700,670.680,411.700" size="24.0" unique_id="1">&#8226; Define estimate of joint probability distribution of images: <textline bbox="43.200,387.700,670.680,411.700" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Define estimate of joint probability distribution of images: </textline>
+</normal_text>
+<normal_text id="2" bbox="79.224,339.662,613.586,359.702" size="20.04" unique_id="2">&#8211; 2-D histogram where each axis designates the number of  <textline bbox="79.224,339.662,613.586,359.702" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; 2-D histogram where each axis designates the number of  </textline>
+</normal_text>
+<normal_text id="4" bbox="79.224,272.462,652.599,292.502" size="20.04" unique_id="4">&#8211; each histogram cell is incremented each time a pair  (I_1(x,y),  <textline bbox="79.224,272.462,652.599,292.502" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; each histogram cell is incremented each time a pair  (I_1(x,y),  </textline>
+</normal_text>
+<normal_text id="6" bbox="79.224,186.042,621.437,225.282" size="20.04" unique_id="6">&#8211; if images are perfectly aligned then the histogram is highly  
+focused; as the images mis-align the dispersion grows <textline bbox="79.224,205.242,621.437,225.282" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; if images are perfectly aligned then the histogram is highly  </textline>
+<textline bbox="101.780,186.042,581.751,206.082" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">focused; as the images mis-align the dispersion grows </textline>
+</normal_text>
+<normal_text id="7" bbox="79.224,138.037,672.621,158.101" size="20.064" unique_id="7">&#8211; recall one interpretation of entropy is as a measure of histogram  <textline bbox="79.224,138.037,672.621,158.101" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8211; recall one interpretation of entropy is as a measure of histogram  </textline>
+</normal_text>
+<normal_text id="3" bbox="101.780,320.462,530.876,340.502" size="20.04" unique_id="3">possible intensity values in corresponding image <textline bbox="101.780,320.462,530.876,340.502" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">possible intensity values in corresponding image </textline>
+</normal_text>
+<normal_text id="5" bbox="101.780,253.257,583.758,273.321" size="20.064" unique_id="5">I_2(x,y)) occurs in the pair of images (&#8220;co-occurrence&#8221;) <textline bbox="101.780,253.257,583.758,273.321" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">I_2(x,y)) occurs in the pair of images (&#8220;co-occurrence&#8221;) </textline>
+</normal_text>
+<normal_text id="8" bbox="101.780,118.837,193.272,138.901" size="20.064" unique_id="8">dispersion <textline bbox="101.780,118.837,193.272,138.901" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">dispersion </textline>
+</normal_text>
+</enlisting></page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[104.33485714285715, 448.2855714285714, 619.0321071428572, 489.51842857142856]">
+<title id="0" bbox="61.272,447.662,658.587,491.702" size="44.04" unique_id="0">Entropy for Image Registration <textline bbox="61.272,447.662,658.587,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Entropy for Image Registration </textline>
+</title>
+<enlisting bbox="43.2,108.388,680.415,405.247" unique_id="['1', '2']">&#8226; Joint entropy (entropy of 2-D histogram): &#8226; Consider images &#8220;registered&#8221; for transformation  
+that minimizes joint entropy, i.e. dispersion in the  
+joint histogram for images is minimized <normal_text id="1" bbox="43.200,377.263,573.642,405.247" size="27.984" unique_id="1">&#8226; Joint entropy (entropy of 2-D histogram): <textline bbox="43.200,377.263,573.642,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Joint entropy (entropy of 2-D histogram): </textline>
+</normal_text>
+<normal_text id="2" bbox="43.200,108.388,680.415,203.578" size="27.968" unique_id="2">&#8226; Consider images &#8220;registered&#8221; for transformation  
+that minimizes joint entropy, i.e. dispersion in the  
+joint histogram for images is minimized <textline bbox="43.200,175.618,667.058,203.578" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Consider images &#8220;registered&#8221; for transformation  </textline>
+<textline bbox="70.224,142.013,680.415,169.997" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">that minimizes joint entropy, i.e. dispersion in the  </textline>
+<textline bbox="70.224,108.388,552.870,136.348" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">joint histogram for images is minimized </textline>
+</normal_text>
+</enlisting></page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[142.1048888888889, 448.147, 580.51475, 490.0036666666666]">
+<title id="0" bbox="274.300,447.662,445.704,491.702" size="44.04" unique_id="0">Example <textline bbox="274.300,447.662,445.704,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Example </textline>
+</title>
+<normal_text id="1" bbox="16.992,317.832,707.284,370.632" size="24.0" unique_id="1">Joint Entropy of 2-D Histogram for rotation of image with respect 
+to itself of 0, 2, 5, and 10 degrees  <textline bbox="16.992,346.632,707.284,370.632" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="DeviceGray">Joint Entropy of 2-D Histogram for rotation of image with respect </textline>
+<textline bbox="177.460,317.832,546.772,341.832" font="BCDEEE+Tahoma" ncolour="0" size="24.000" colourspace="DeviceGray">to itself of 0, 2, 5, and 10 degrees  </textline>
+</normal_text>
+<picture name="Image63" bbox="0.000,95.520,720.000,261.000" src="Image63.631x145.bmp" width="720" height="165" unique_id="2">
+</picture>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[134.5299111111111, 443.73319999999995, 589.7692000000001, 494.8105333333333]">
+<title id="0" bbox="104.230,426.078,626.787,514.038" size="39.96" unique_id="0">Mutual Information for Image  
+Registration <textline bbox="104.230,474.078,626.787,514.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">Mutual Information for Image  </textline>
+<textline bbox="253.420,426.078,466.607,466.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">Registration </textline>
+</title>
+<enlisting bbox="43.2,69.856,668.739,411.572" unique_id="['1', '   2', '   4', '   6', '   8', '   10', '  7', ' 9', '3', ' 5']">&#8226; Recall definition(s): &#8211; I(A,B) = H(B) - H(B|A) = H(A) - H(A|B) &#8211; I(A,B) = H(A) + H(B) - H(A,B) &#8226; Advantage in using mutual info over joint entropy is it includes the  &#8226; Works better than simply joint entropy in regions of image  &#8226; Mutual information is maximized for registered images   &#8226; amount that uncertainty in B (or A) is reduced when A (or B) is known. &#8226; maximizing is equivalent to minimizing joint entropy (last term) <normal_text bbox="43.2,69.856,668.739,411.572" unique_id="['1', '  2', '  4', '  6', '  8', '  10', ' 7', '9']">&#8226; Recall definition(s): &#8211; I(A,B) = H(B) - H(B|A) = H(A) - H(A|B) &#8211; I(A,B) = H(A) + H(B) - H(A,B) &#8226; Advantage in using mutual info over joint entropy is it includes the  &#8226; Works better than simply joint entropy in regions of image  &#8226; Mutual information is maximized for registered images   <normal_text id="1" bbox="43.200,391.532,240.604,411.572" size="20.04" unique_id="1">&#8226; Recall definition(s): <textline bbox="43.200,391.532,240.604,411.572" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Recall definition(s): </textline>
+</normal_text>
+<normal_text id="2" bbox="79.224,369.875,401.853,387.899" size="18.024" unique_id="2">&#8211; I(A,B) = H(B) - H(B|A) = H(A) - H(A|B) <textline bbox="79.224,369.875,401.853,387.899" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8211; I(A,B) = H(B) - H(B|A) = H(A) - H(A|B) </textline>
+</normal_text>
+<normal_text id="4" bbox="79.224,309.850,332.810,327.850" size="18.0" unique_id="4">&#8211; I(A,B) = H(A) + H(B) - H(A,B) <textline bbox="79.224,309.850,332.810,327.850" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; I(A,B) = H(A) + H(B) - H(A,B) </textline>
+</normal_text>
+<normal_text id="6" bbox="43.200,242.697,655.792,262.761" size="20.064" unique_id="6">&#8226; Advantage in using mutual info over joint entropy is it includes the  <textline bbox="43.200,242.697,655.792,262.761" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; Advantage in using mutual info over joint entropy is it includes the  </textline>
+</normal_text>
+<normal_text id="8" bbox="43.200,175.482,583.829,195.522" size="20.04" unique_id="8">&#8226; Works better than simply joint entropy in regions of image  <textline bbox="43.200,175.482,583.829,195.522" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Works better than simply joint entropy in regions of image  </textline>
+</normal_text>
+<normal_text id="10" bbox="43.200,69.856,559.761,89.896" size="20.04" unique_id="10">&#8226; Mutual information is maximized for registered images   <textline bbox="43.200,69.856,559.761,89.896" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Mutual information is maximized for registered images   </textline>
+</normal_text>
+<normal_text id="7" bbox="70.224,223.482,289.221,243.522" size="20.04" unique_id="7">individual input&#8217;s entropy <textline bbox="70.224,223.482,289.221,243.522" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">individual input&#8217;s entropy </textline>
+</normal_text>
+<normal_text id="9" bbox="70.224,117.877,668.739,176.322" size="20.056" unique_id="9">background (low contrast) where there will be high joint entropy but  
+this is offset by high individual entropies as well - so the overall  
+mutual information will be low <textline bbox="70.224,156.282,668.739,176.322" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">background (low contrast) where there will be high joint entropy but  </textline>
+<textline bbox="70.224,137.077,631.117,157.141" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">this is offset by high individual entropies as well - so the overall  </textline>
+<textline bbox="70.224,117.877,331.437,137.941" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">mutual information will be low </textline>
+</normal_text>
+</normal_text><normal_text bbox="115.22,290.598,625.969,366.558" unique_id="['3', '5']">&#8226; amount that uncertainty in B (or A) is reduced when A (or B) is known. &#8226; maximizing is equivalent to minimizing joint entropy (last term) <normal_text id="3" bbox="115.220,350.598,625.969,366.558" size="15.96" unique_id="3">&#8226; amount that uncertainty in B (or A) is reduced when A (or B) is known. <textline bbox="115.220,350.598,625.969,366.558" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; amount that uncertainty in B (or A) is reduced when A (or B) is known. </textline>
+</normal_text>
+<normal_text id="5" bbox="115.220,290.598,571.944,306.558" size="15.96" unique_id="5">&#8226; maximizing is equivalent to minimizing joint entropy (last term) <textline bbox="115.220,290.598,571.944,306.558" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; maximizing is equivalent to minimizing joint entropy (last term) </textline>
+</normal_text>
+</normal_text></enlisting></page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[133.68992727272726, 450.32625454545456, 589.8128, 498.66661818181814]">
+<title id="0" bbox="129.910,479.995,590.009,516.019" size="36.024" unique_id="0">Derivation of M. I. Definitions <textline bbox="129.910,479.995,590.009,516.019" font="ArialMT" ncolour="0" size="36.024" colourspace="DeviceGray">Derivation of M. I. Definitions </textline>
+</title>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[126.92027272727272, 450.26854545454546, 598.0066666666667, 496.55218181818174]">
+<title id="0" bbox="93.072,449.980,638.976,485.980" size="36.0" unique_id="0">Definitions of Mutual Information II <textline bbox="93.072,449.980,638.976,485.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Definitions of Mutual Information II </textline>
+</title>
+<enlisting bbox="79.224,101.532,632.645,381.959" unique_id="['1', '   2', '   4', '   6', '  3', ' 5', '7']">&#8211; 3) &#8226; This definition is related to the Kullback-Leibler distance  &#8226; Measures the dependence of the two distributions 
+&#8226; In image registration I(A,B)  will be maximized when the  &#8226; In feature selection choose the features that minimize  <normal_text id="1" bbox="79.224,357.935,123.100,381.959" size="24.024" unique_id="1">&#8211; 3) <textline bbox="79.224,357.935,123.100,381.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; 3) </textline>
+</normal_text>
+<normal_text id="2" bbox="115.220,259.977,632.645,280.041" size="20.064" unique_id="2">&#8226; This definition is related to the Kullback-Leibler distance  <textline bbox="115.220,259.977,632.645,280.041" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; This definition is related to the Kullback-Leibler distance  </textline>
+</normal_text>
+<normal_text id="4" bbox="115.220,178.362,630.793,227.202" size="20.04" unique_id="4">&#8226; Measures the dependence of the two distributions 
+&#8226; In image registration I(A,B)  will be maximized when the  <textline bbox="115.220,207.162,574.160,227.202" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Measures the dependence of the two distributions </textline>
+<textline bbox="115.220,178.362,630.793,198.402" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; In image registration I(A,B)  will be maximized when the  </textline>
+</normal_text>
+<normal_text id="6" bbox="115.220,125.557,611.646,145.621" size="20.064" unique_id="6">&#8226; In feature selection choose the features that minimize  <textline bbox="115.220,125.557,611.646,145.621" font="ArialMT" ncolour="(0, 0.4, 1)" size="20.064" colourspace="DeviceGray">&#8226; In feature selection choose the features that minimize  </textline>
+</normal_text>
+<normal_text id="3" bbox="133.220,235.962,357.868,256.002" size="20.04" unique_id="3">between two distributions <textline bbox="133.220,235.962,357.868,256.002" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">between two distributions </textline>
+</normal_text>
+<normal_text id="5" bbox="133.220,154.362,302.177,174.402" size="20.04" unique_id="5">images are aligned <textline bbox="133.220,154.362,302.177,174.402" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">images are aligned </textline>
+</normal_text>
+<normal_text id="7" bbox="133.220,101.532,456.125,121.572" size="20.04" unique_id="7">I(A,B) to ensure they are not related. <textline bbox="133.220,101.532,456.125,121.572" font="ArialMT" ncolour="(0, 0.4, 1)" size="20.040" colourspace="DeviceGray">I(A,B) to ensure they are not related. </textline>
+</normal_text>
+</enlisting></page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[120.54976923076923, 446.5469230769231, 605.3150256410256, 499.24230769230763]">
+<title id="0" bbox="85.512,426.078,645.511,514.038" size="39.96" unique_id="0">Additional Definitions of Mutual  
+Information <textline bbox="85.512,474.078,645.511,514.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">Additional Definitions of Mutual  </textline>
+<textline bbox="260.020,426.078,459.900,466.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">Information </textline>
+</title>
+<enlisting bbox="43.2,141.89,675.912,405.247" unique_id="['1', ' 2', ' 4', '3']">&#8226; Two definitions exist for normalizing Mutual  information:  
+&#8211; Normalized Mutual Information (Colin &#8211; improved MR- &#8211; Entropy Correlation Coefficient: <normal_text id="1" bbox="43.200,377.263,612.274,405.247" size="27.984" unique_id="1">&#8226; Two definitions exist for normalizing Mutual  <textline bbox="43.200,377.263,612.274,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Two definitions exist for normalizing Mutual  </textline>
+</normal_text>
+<normal_text id="2" bbox="70.224,308.950,675.912,371.598" size="25.98" unique_id="2">information:  
+&#8211; Normalized Mutual Information (Colin &#8211; improved MR- <textline bbox="70.224,343.638,224.395,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">information:  </textline>
+<textline bbox="79.224,308.950,675.912,332.950" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Normalized Mutual Information (Colin &#8211; improved MR- </textline>
+</normal_text>
+<normal_text id="4" bbox="79.224,141.890,434.732,165.890" size="24.0" unique_id="4">&#8211; Entropy Correlation Coefficient: <textline bbox="79.224,141.890,434.732,165.890" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Entropy Correlation Coefficient: </textline>
+</normal_text>
+<normal_text id="3" bbox="101.780,280.150,251.084,304.150" size="24.0" unique_id="3">CT, MR-PET): <textline bbox="101.780,280.150,251.084,304.150" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">CT, MR-PET): </textline>
+</normal_text>
+</enlisting></page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[119.02408791208791, 447.8945054945055, 607.6891648351649, 498.20483516483506]">
+<title id="0" bbox="109.870,455.980,621.934,491.980" size="36.0" unique_id="0">Properties of Mutual Information <textline bbox="109.870,455.980,621.934,491.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Properties of Mutual Information </textline>
+</title>
+<enlisting bbox="61.224,101.668,638.78,429.228" unique_id="['1', '2', '3', '4', '5']">&#8226; MI is symmetric: I(A,B) = I(B,A) 
+&#8226; I(A,A) = H(A) 
+&#8226; I(A,B) &lt;= H(A), I(A,B) &lt;= H(B) &#8211; info each image contains about the other cannot  
+be greater than the info they themselves contain &#8226; I(A,B) &gt;= 0 &#8211; Cannot increase uncertainty in A by knowing B &#8226; If A, B are independent then I(A,B) = 0 
+&#8226; If A, B are Gaussian then: <normal_text id="1" bbox="61.224,320.598,473.093,429.228" size="27.968" unique_id="1">&#8226; MI is symmetric: I(A,B) = I(B,A) 
+&#8226; I(A,A) = H(A) 
+&#8226; I(A,B) &lt;= H(A), I(A,B) &lt;= H(B) <textline bbox="61.224,401.268,473.093,429.228" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; MI is symmetric: I(A,B) = I(B,A) </textline>
+<textline bbox="61.224,360.943,249.048,388.927" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; I(A,A) = H(A) </textline>
+<textline bbox="61.224,320.598,458.219,348.558" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; I(A,B) &lt;= H(A), I(A,B) &lt;= H(B) </textline>
+</normal_text>
+<normal_text id="2" bbox="97.224,257.105,638.780,309.910" size="24.012" unique_id="2">&#8211; info each image contains about the other cannot  
+be greater than the info they themselves contain <textline bbox="97.224,285.910,638.780,309.910" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; info each image contains about the other cannot  </textline>
+<textline bbox="119.780,257.105,632.092,281.129" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">be greater than the info they themselves contain </textline>
+</normal_text>
+<normal_text id="3" bbox="61.224,216.898,223.494,244.858" size="27.96" unique_id="3">&#8226; I(A,B) &gt;= 0 <textline bbox="61.224,216.898,223.494,244.858" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; I(A,B) &gt;= 0 </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,182.210,613.604,206.210" size="24.0" unique_id="4">&#8211; Cannot increase uncertainty in A by knowing B <textline bbox="97.224,182.210,613.604,206.210" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Cannot increase uncertainty in A by knowing B </textline>
+</normal_text>
+<normal_text id="5" bbox="61.224,101.668,562.273,169.997" size="27.972" unique_id="5">&#8226; If A, B are independent then I(A,B) = 0 
+&#8226; If A, B are Gaussian then: <textline bbox="61.224,142.013,562.273,169.997" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; If A, B are independent then I(A,B) = 0 </textline>
+<textline bbox="61.224,101.668,407.192,129.628" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; If A, B are Gaussian then: </textline>
+</normal_text>
+</enlisting></page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[110.87580952380952, 445.60857142857145, 616.2591428571428, 499.7708571428571]">
+<title id="0" bbox="57.912,430.750,671.964,509.950" size="36.0" unique_id="0">Schema for Mutual Information Based  
+Registration <textline bbox="57.912,473.950,671.964,509.950" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Schema for Mutual Information Based  </textline>
+<textline bbox="263.860,430.750,456.028,466.750" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Registration </textline>
+</title>
+</page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[111.75508333333332, 444.205, 617.232625, 501.501875]">
+<title id="0" bbox="117.910,434.380,624.047,513.619" size="36.012" unique_id="0">M.I. Processing Flow for Image  
+Registration <textline bbox="117.910,477.595,624.047,513.619" font="ArialMT" ncolour="0" size="36.024" colourspace="DeviceGray">M.I. Processing Flow for Image  </textline>
+<textline bbox="269.860,434.380,462.028,470.380" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Registration </textline>
+</title>
+<normal_text id="1" bbox="57.000,317.206,126.312,370.006" size="24.0" unique_id="1">Input  
+Images <textline bbox="63.264,346.006,120.000,370.006" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Input  </textline>
+<textline bbox="57.000,317.206,126.312,341.206" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Images </textline>
+</normal_text>
+<normal_text id="2" bbox="193.250,346.006,336.122,370.006" size="24.0" unique_id="2">Pre-processing <textline bbox="193.250,346.006,336.122,370.006" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Pre-processing </textline>
+</normal_text>
+<normal_text id="3" bbox="205.540,186.386,312.327,268.025" size="24.008" unique_id="3">Probability 
+Density 
+Estimation <textline bbox="205.540,244.001,312.327,268.025" font="TimesNewRomanPSMT" ncolour="0" size="24.024" colourspace="DeviceGray">Probability </textline>
+<textline bbox="221.620,215.186,296.356,239.186" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Density </textline>
+<textline bbox="206.980,186.386,310.972,210.386" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Estimation </textline>
+</normal_text>
+<normal_text id="4" bbox="411.000,197.186,515.040,249.986" size="24.0" unique_id="4">M.I.  
+Estimation <textline bbox="442.340,225.986,489.716,249.986" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">M.I.  </textline>
+<textline bbox="411.000,197.186,515.040,221.186" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Estimation </textline>
+</normal_text>
+<normal_text id="5" bbox="183.820,71.160,332.212,123.956" size="24.0" unique_id="5">Image  
+Transformation <textline bbox="228.100,99.956,293.932,123.956" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Image  </textline>
+<textline bbox="183.820,71.160,332.212,95.160" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Transformation </textline>
+</normal_text>
+<normal_text id="6" bbox="399.600,71.160,526.272,123.956" size="24.0" unique_id="6">Optimization 
+Scheme <textline bbox="399.600,99.956,526.272,123.956" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Optimization </textline>
+<textline bbox="425.040,71.160,500.904,95.160" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Scheme </textline>
+</normal_text>
+<normal_text id="7" bbox="607.370,71.160,680.042,123.956" size="24.0" unique_id="7">Output  
+Image <textline bbox="607.370,99.956,680.042,123.956" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Output  </textline>
+<textline bbox="613.730,71.160,673.562,95.160" font="TimesNewRomanPSMT" ncolour="0" size="24.000" colourspace="DeviceGray">Image </textline>
+</normal_text>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[112.94507352941176, 445.59029411764703, 614.9537279411765, 500.3816544117647]">
+<title id="0" bbox="121.870,455.980,597.862,491.980" size="36.0" unique_id="0">Probability Density Estimation <textline bbox="121.870,455.980,597.862,491.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Probability Density Estimation </textline>
+</title>
+<enlisting id="6" bbox="127.220,108.012,468.826,128.052" size="20.04" unique_id="6">&#8226; The weighting is a Gaussian window <textline bbox="127.220,108.012,468.826,128.052" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; The weighting is a Gaussian window </textline>
+</enlisting>
+<enlisting bbox="55.2,142.25,651.236,402.247" unique_id="['1', ' 2', ' 3', ' 4', '5']">&#8226; Compute the joint histogram h(a,b) of images &#8211; Each entry is the number of times an intensity a in  
+one image corresponds to an intensity b in the  
+other &#8226; Other method is to use Parzen Windows &#8211; The distribution is approximated by a weighted  <normal_text id="1" bbox="55.200,374.263,643.051,402.247" size="27.984" unique_id="1">&#8226; Compute the joint histogram h(a,b) of images <textline bbox="55.200,374.263,643.051,402.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Compute the joint histogram h(a,b) of images </textline>
+</normal_text>
+<normal_text id="2" bbox="91.224,264.190,651.236,357.310" size="24.0" unique_id="2">&#8211; Each entry is the number of times an intensity a in  
+one image corresponds to an intensity b in the  
+other <textline bbox="91.224,333.310,651.236,357.310" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Each entry is the number of times an intensity a in  </textline>
+<textline bbox="113.780,298.750,611.588,322.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">one image corresponds to an intensity b in the  </textline>
+<textline bbox="113.780,264.190,168.476,288.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">other </textline>
+</normal_text>
+<normal_text id="3" bbox="55.200,217.738,583.491,245.698" size="27.96" unique_id="3">&#8226; Other method is to use Parzen Windows <textline bbox="55.200,217.738,583.491,245.698" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Other method is to use Parzen Windows </textline>
+</normal_text>
+<normal_text id="4" bbox="91.224,176.810,615.428,200.810" size="24.0" unique_id="4">&#8211; The distribution is approximated by a weighted  <textline bbox="91.224,176.810,615.428,200.810" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; The distribution is approximated by a weighted  </textline>
+</normal_text>
+<normal_text id="5" bbox="113.780,142.250,456.596,166.250" size="24.0" unique_id="5">sum of sample points Sx and Sy <textline bbox="113.780,142.250,456.596,166.250" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">sum of sample points Sx and Sy </textline>
+</normal_text>
+</enlisting></page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[127.16673202614378, 446.74470588235295, 599.8406470588235, 499.44813725490195]">
+<title id="0" bbox="240.940,455.980,478.936,491.980" size="36.0" unique_id="0">M.I. Estimation <textline bbox="240.940,455.980,478.936,491.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">M.I. Estimation </textline>
+</title>
+<enlisting bbox="55.2,258.425,639.116,402.247" unique_id="['1', '  3', ' 2', '4']">&#8226; Simply use one of the previously mentioned  &#8211; compute M.I. based on the computed distribution  <normal_text id="1" bbox="55.200,374.263,632.082,402.247" size="27.984" unique_id="1">&#8226; Simply use one of the previously mentioned  <textline bbox="55.200,374.263,632.082,402.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Simply use one of the previously mentioned  </textline>
+</normal_text>
+<normal_text id="3" bbox="91.224,292.990,639.116,316.990" size="24.0" unique_id="3">&#8211; compute M.I. based on the computed distribution  <textline bbox="91.224,292.990,639.116,316.990" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; compute M.I. based on the computed distribution  </textline>
+</normal_text>
+<normal_text id="2" bbox="82.224,333.918,350.109,361.878" size="27.96" unique_id="2">definitions for entropy <textline bbox="82.224,333.918,350.109,361.878" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">definitions for entropy </textline>
+</normal_text>
+<normal_text id="4" bbox="113.780,258.425,197.816,282.449" size="24.024" unique_id="4">function <textline bbox="113.780,258.425,197.816,282.449" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">function </textline>
+</normal_text>
+</enlisting></page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[132.72286549707601, 447.71684210526314, 593.5742631578947, 498.66201754385963]">
+<title id="0" bbox="179.950,455.980,540.310,491.980" size="36.0" unique_id="0">Optimization Schemes <textline bbox="179.950,455.980,540.310,491.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Optimization Schemes </textline>
+</title>
+<enlisting bbox="55.2,274.75,607.061,378.198" unique_id="['1', ' 2', '3']">&#8226; Any classic optimization algorithm suitable &#8211; computes the step sizes to be fed into the  <normal_text id="1" bbox="55.200,350.238,607.061,378.198" size="27.96" unique_id="1">&#8226; Any classic optimization algorithm suitable <textline bbox="55.200,350.238,607.061,378.198" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Any classic optimization algorithm suitable </textline>
+</normal_text>
+<normal_text id="2" bbox="91.224,309.310,563.300,333.310" size="24.0" unique_id="2">&#8211; computes the step sizes to be fed into the  <textline bbox="91.224,309.310,563.300,333.310" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; computes the step sizes to be fed into the  </textline>
+</normal_text>
+<normal_text id="3" bbox="113.780,274.750,469.244,298.750" size="24.0" unique_id="3">Transformation processing stage. <textline bbox="113.780,274.750,469.244,298.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Transformation processing stage. </textline>
+</normal_text>
+</enlisting></page>
+<page id="23" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[137.0405789473684, 447.9431578947368, 588.6204368421052, 497.39381578947365]">
+<title id="0" bbox="175.900,449.980,544.036,485.980" size="36.0" unique_id="0">Image Transformations <textline bbox="175.900,449.980,544.036,485.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Image Transformations </textline>
+</title>
+<picture name="Image93" bbox="120.000,247.800,499.920,366.000" src="Image93.421x131.bmp" width="379" height="118" unique_id="4">
+</picture>
+<enlisting bbox="55.2,94.576,599.116,399.247" unique_id="['1', '2', '3']">&#8226; General Affine Transformation defined by: &#8226; Special Cases: &#8211; S = I (identity matrix) then translation only 
+&#8211; S = orthonormal then translation plus rotation 
+&#8226; rotation-only when D = 0 and S orthonormal. <normal_text id="1" bbox="55.200,371.263,599.116,399.247" size="27.984" unique_id="1">&#8226; General Affine Transformation defined by: <textline bbox="55.200,371.263,599.116,399.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; General Affine Transformation defined by: </textline>
+</normal_text>
+<normal_text id="2" bbox="55.200,192.658,268.969,220.618" size="27.96" unique_id="2">&#8226; Special Cases: <textline bbox="55.200,192.658,268.969,220.618" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Special Cases: </textline>
+</normal_text>
+<normal_text id="3" bbox="91.224,94.576,593.539,181.970" size="22.688" unique_id="3">&#8211; S = I (identity matrix) then translation only 
+&#8211; S = orthonormal then translation plus rotation 
+&#8226; rotation-only when D = 0 and S orthonormal. <textline bbox="91.224,157.970,555.740,181.970" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; S = I (identity matrix) then translation only </textline>
+<textline bbox="91.224,123.405,593.539,147.429" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; S = orthonormal then translation plus rotation </textline>
+<textline bbox="127.220,94.576,538.087,114.616" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; rotation-only when D = 0 and S orthonormal. </textline>
+</normal_text>
+</enlisting></page>
+<page id="24" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[137.0405789473684, 447.9431578947368, 588.6204368421052, 497.39381578947365]">
+<picture name="Image96" bbox="221.280,34.440,517.920,496.440" src="Image96.364x567.bmp" width="296" height="462" unique_id="0">
+</picture>
+</page>
+<page id="25" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[137.0405789473684, 447.9431578947368, 588.6204368421052, 497.39381578947365]">
+<picture name="Image99" bbox="53.280,37.440,671.280,489.720" src="Image99.jpg" width="618" height="452" unique_id="0">
+</picture>
+</page>
+<page id="26" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[137.0405789473684, 447.9431578947368, 588.6204368421052, 497.39381578947365]">
+<picture name="Image102" bbox="45.000,54.600,669.000,502.440" src="Image102.jpg" width="624" height="447" unique_id="0">
+</picture>
+</page>
+<page id="27" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[133.12738095238095, 445.50857142857143, 594.0847761904761, 497.7925]">
+<title id="0" bbox="95.952,422.380,645.996,501.580" size="36.0" unique_id="0">Mutual Information based Feature  
+Selection <textline bbox="95.952,465.580,645.996,501.580" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Mutual Information based Feature  </textline>
+<textline bbox="291.940,422.380,440.080,458.380" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Selection </textline>
+</title>
+<footer id="8" bbox="133.220,21.136,532.822,41.176" size="20.04" unique_id="8">&#8226; Tested both single M.I., and Joint M.I. (JMI) <textline bbox="133.220,21.136,532.822,41.176" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Tested both single M.I., and Joint M.I. (JMI) </textline>
+</footer>
+<enlisting bbox="61.224,49.944,634.748,411.247" unique_id="['1', ' 2', ' 4', ' 5', ' 6', ' 7', '3']">&#8226; Tested using 2-class Occupant sensing  problem 
+&#8211; Classes are RFIS and everything else (children,  &#8211; Use edge map of imagery and compute features &#8226; Legendre Moments to order 36 
+&#8226; Generates 703 features, we select best 51 features. &#8226; Tested 3 filter-based methods: &#8211; Mann-Whitney statistic 
+&#8211; Kullback-Leibler statistic 
+&#8211; Mutual Information criterion <normal_text id="1" bbox="61.224,383.263,582.160,411.247" size="27.984" unique_id="1">&#8226; Tested using 2-class Occupant sensing  <textline bbox="61.224,383.263,582.160,411.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Tested using 2-class Occupant sensing  </textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,314.950,634.748,377.598" size="25.98" unique_id="2">problem 
+&#8211; Classes are RFIS and everything else (children,  <textline bbox="88.224,349.638,189.439,377.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">problem </textline>
+<textline bbox="97.224,314.950,634.748,338.950" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Classes are RFIS and everything else (children,  </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,251.585,633.581,275.609" size="24.024" unique_id="4">&#8211; Use edge map of imagery and compute features <textline bbox="97.224,251.585,633.581,275.609" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Use edge map of imagery and compute features </textline>
+</normal_text>
+<normal_text id="5" bbox="133.220,193.962,609.675,242.802" size="20.04" unique_id="5">&#8226; Legendre Moments to order 36 
+&#8226; Generates 703 features, we select best 51 features. <textline bbox="133.220,222.762,425.287,242.802" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Legendre Moments to order 36 </textline>
+<textline bbox="133.220,193.962,609.675,214.002" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Generates 703 features, we select best 51 features. </textline>
+</normal_text>
+<normal_text id="6" bbox="61.224,153.778,463.793,181.738" size="27.96" unique_id="6">&#8226; Tested 3 filter-based methods: <textline bbox="61.224,153.778,463.793,181.738" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Tested 3 filter-based methods: </textline>
+</normal_text>
+<normal_text id="7" bbox="97.224,49.944,410.636,143.109" size="24.008" unique_id="7">&#8211; Mann-Whitney statistic 
+&#8211; Kullback-Leibler statistic 
+&#8211; Mutual Information criterion <textline bbox="97.224,119.085,361.682,143.109" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Mann-Whitney statistic </textline>
+<textline bbox="97.224,84.504,377.546,108.504" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Kullback-Leibler statistic </textline>
+<textline bbox="97.224,49.944,410.636,73.944" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Mutual Information criterion </textline>
+</normal_text>
+<normal_text id="3" bbox="119.780,286.150,243.884,310.150" size="24.0" unique_id="3">adults, etc). <textline bbox="119.780,286.150,243.884,310.150" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">adults, etc). </textline>
+</normal_text>
+</enlisting></page>
+<page id="28" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[129.74780086580085, 443.40597402597405, 598.8039783549783, 498.1368181818182]">
+<title id="0" bbox="95.952,422.380,645.996,501.580" size="36.0" unique_id="0">Mutual Information based Feature  
+Selection Method <textline bbox="95.952,465.580,645.996,501.580" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Mutual Information based Feature  </textline>
+<textline bbox="226.900,422.380,504.964,458.380" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Selection Method </textline>
+</title>
+<footer id="7" bbox="133.220,15.371,612.110,35.435" size="20.064" unique_id="7">&#8226; Note this method only tests each feature individually <textline bbox="133.220,15.371,612.110,35.435" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; Note this method only tests each feature individually </textline>
+</footer>
+<enlisting bbox="61.224,44.184,626.412,411.247" unique_id="['1', '  2', '  3', '  5', ' 4', '6']">&#8226; M.I. tests a feature&#8217;s ability to separate two  classes. 
+&#8211; Based on definition 3) for M.I. &#8211; Here A is the feature vector and B is the  &#8226; Note that A is continuous but B is discrete 
+&#8211; By maximizing the M.I. We maximize the  <normal_text id="1" bbox="61.224,383.263,626.412,411.247" size="27.984" unique_id="1">&#8226; M.I. tests a feature&#8217;s ability to separate two  <textline bbox="61.224,383.263,626.412,411.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; M.I. tests a feature&#8217;s ability to separate two  </textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,314.950,433.388,377.598" size="25.98" unique_id="2">classes. 
+&#8211; Based on definition 3) for M.I. <textline bbox="88.224,349.638,189.439,377.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">classes. </textline>
+<textline bbox="97.224,314.950,433.388,338.950" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Based on definition 3) for M.I. </textline>
+</normal_text>
+<normal_text id="3" bbox="97.224,165.170,549.260,189.170" size="24.0" unique_id="3">&#8211; Here A is the feature vector and B is the  <textline bbox="97.224,165.170,549.260,189.170" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Here A is the feature vector and B is the  </textline>
+</normal_text>
+<normal_text id="5" bbox="97.224,72.984,558.020,127.572" size="22.02" unique_id="5">&#8226; Note that A is continuous but B is discrete 
+&#8211; By maximizing the M.I. We maximize the  <textline bbox="133.220,107.532,519.034,127.572" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Note that A is continuous but B is discrete </textline>
+<textline bbox="97.224,72.984,558.020,96.984" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; By maximizing the M.I. We maximize the  </textline>
+</normal_text>
+<normal_text id="4" bbox="119.780,136.365,255.708,160.389" size="24.024" unique_id="4">classification <textline bbox="119.780,136.365,255.708,160.389" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">classification </textline>
+</normal_text>
+<normal_text id="6" bbox="119.780,44.184,389.396,68.184" size="24.0" unique_id="6">separability of the feature <textline bbox="119.780,44.184,389.396,68.184" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">separability of the feature </textline>
+</normal_text>
+</enlisting></page>
+<page id="29" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[128.89581818181816, 441.577628458498, 600.824675889328, 498.43622529644273]">
+<title id="0" bbox="119.950,422.380,622.042,501.580" size="36.0" unique_id="0">Joint Mutual Information based  
+Feature Selection Method <textline bbox="119.950,465.580,622.042,501.580" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Joint Mutual Information based  </textline>
+<textline bbox="159.910,422.380,571.930,458.380" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Feature Selection Method </textline>
+</title>
+<enlisting bbox="61.224,145.19,640.802,393.959" unique_id="['1', ' 3', ' 4', ' 5', '2']">&#8226; Joint M.I. tests a feature&#8217;s independence from all  &#8226; Two implementations proposed: &#8211; 1) Compute all individual M.I.s and sort from high to low 
+&#8211; Test the joint M.I of current feature with others kept &#8226; Keep the features with the lowest JMI (implies independence) 
+&#8226; Implement by selecting features that maximize: <normal_text id="1" bbox="61.224,369.935,610.458,393.959" size="24.024" unique_id="1">&#8226; Joint M.I. tests a feature&#8217;s independence from all  <textline bbox="61.224,369.935,610.458,393.959" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Joint M.I. tests a feature&#8217;s independence from all  </textline>
+</normal_text>
+<normal_text id="3" bbox="61.224,254.705,427.155,278.729" size="24.024" unique_id="3">&#8226; Two implementations proposed: <textline bbox="61.224,254.705,427.155,278.729" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Two implementations proposed: </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,197.082,611.461,245.922" size="20.04" unique_id="4">&#8211; 1) Compute all individual M.I.s and sort from high to low 
+&#8211; Test the joint M.I of current feature with others kept <textline bbox="97.224,225.882,611.461,245.922" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; 1) Compute all individual M.I.s and sort from high to low </textline>
+<textline bbox="97.224,197.082,567.914,217.122" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8211; Test the joint M.I of current feature with others kept </textline>
+</normal_text>
+<normal_text id="5" bbox="133.220,145.190,640.802,189.110" size="18.0" unique_id="5">&#8226; Keep the features with the lowest JMI (implies independence) 
+&#8226; Implement by selecting features that maximize: <textline bbox="133.220,171.110,640.802,189.110" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; Keep the features with the lowest JMI (implies independence) </textline>
+<textline bbox="133.220,145.190,525.908,163.190" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226; Implement by selecting features that maximize: </textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,341.110,242.976,365.110" size="24.0" unique_id="2">other features: <textline bbox="88.224,341.110,242.976,365.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">other features: </textline>
+</normal_text>
+</enlisting></page>
+<page id="30" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[128.15033333333332, 439.97782608695655, 602.592786231884, 498.69820652173917]">
+<title id="0" bbox="119.950,422.380,622.042,501.580" size="36.0" unique_id="0">Joint Mutual Information based  
+Feature Selection Method <textline bbox="119.950,465.580,622.042,501.580" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Joint Mutual Information based  </textline>
+<textline bbox="159.910,422.380,571.930,458.380" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Feature Selection Method </textline>
+</title>
+<enlisting bbox="43.2,313.75,592.316,405.247" unique_id="['1', ' 2', '3']">&#8226; Two methods proposed (continued): &#8211; 2) Select features with the smallest Euclidean  <normal_text id="1" bbox="43.200,377.263,517.492,405.247" size="27.984" unique_id="1">&#8226; Two methods proposed (continued): <textline bbox="43.200,377.263,517.492,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Two methods proposed (continued): </textline>
+</normal_text>
+<normal_text id="2" bbox="79.224,342.550,592.316,366.550" size="24.0" unique_id="2">&#8211; 2) Select features with the smallest Euclidean  <textline bbox="79.224,342.550,592.316,366.550" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; 2) Select features with the smallest Euclidean  </textline>
+</normal_text>
+<normal_text id="3" bbox="101.780,313.750,252.620,337.750" size="24.0" unique_id="3">distance from: <textline bbox="101.780,313.750,252.620,337.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">distance from: </textline>
+</normal_text>
+</enlisting><enlisting bbox="115.22,227.322,407.568,304.982" unique_id="['4', '5']">&#8226; The feature with the maximum: &#8226; And the minimum:   <normal_text id="4" bbox="115.220,284.942,407.568,304.982" size="20.04" unique_id="4">&#8226; The feature with the maximum: <textline bbox="115.220,284.942,407.568,304.982" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; The feature with the maximum: </textline>
+</normal_text>
+<normal_text id="5" bbox="115.220,227.322,305.344,247.362" size="20.04" unique_id="5">&#8226; And the minimum:   <textline bbox="115.220,227.322,305.344,247.362" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; And the minimum:   </textline>
+</normal_text>
+</enlisting></page>
+<page id="31" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[123.56806666666667, 438.57, 608.0647233333333, 498.9287500000001]">
+<title id="0" bbox="70.872,422.380,670.992,501.580" size="36.0" unique_id="0">Mutual Information Feature Selection  
+Implementation Issue <textline bbox="70.872,465.580,670.992,501.580" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Mutual Information Feature Selection  </textline>
+<textline bbox="194.980,422.380,536.944,458.380" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Implementation Issue </textline>
+</title>
+<enlisting bbox="61.224,89.544,650.564,393.247" unique_id="['1', '  3', '  4', '  5', ' 2', '6']">&#8226; M.I tests are very sensitive to the number of  &#8226; Two methods used: &#8211; Fixed Bin Number (100) 
+&#8211; Variable bin number based on Gaussianity of data &#8211; where N is the number of points and k is the  <normal_text id="1" bbox="61.224,365.263,639.285,393.247" size="27.984" unique_id="1">&#8226; M.I tests are very sensitive to the number of  <textline bbox="61.224,365.263,639.285,393.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; M.I tests are very sensitive to the number of  </textline>
+</normal_text>
+<normal_text id="3" bbox="61.224,291.318,331.252,319.278" size="27.96" unique_id="3">&#8226; Two methods used: <textline bbox="61.224,291.318,331.252,319.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Two methods used: </textline>
+</normal_text>
+<normal_text id="4" bbox="97.224,222.050,650.564,280.649" size="24.012" unique_id="4">&#8211; Fixed Bin Number (100) 
+&#8211; Variable bin number based on Gaussianity of data <textline bbox="97.224,256.625,374.603,280.649" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Fixed Bin Number (100) </textline>
+<textline bbox="97.224,222.050,650.564,246.050" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Variable bin number based on Gaussianity of data </textline>
+</normal_text>
+<normal_text id="5" bbox="97.224,118.365,594.807,142.389" size="24.024" unique_id="5">&#8211; where N is the number of points and k is the  <textline bbox="97.224,118.365,594.807,142.389" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; where N is the number of points and k is the  </textline>
+</normal_text>
+<normal_text id="2" bbox="88.224,331.638,440.212,359.598" size="27.96" unique_id="2">bins used for the histograms <textline bbox="88.224,331.638,440.212,359.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">bins used for the histograms </textline>
+</normal_text>
+<normal_text id="6" bbox="119.780,89.544,206.468,113.544" size="24.0" unique_id="6">Kurtosis <textline bbox="119.780,89.544,206.468,113.544" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Kurtosis </textline>
+</normal_text>
+</enlisting></page>
+<page id="32" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[126.59436923076923, 439.2693846153846, 604.1655907692307, 498.3728461538462]">
+<title id="0" bbox="162.910,447.662,557.376,491.702" size="44.04" unique_id="0">Image Classification <textline bbox="162.910,447.662,557.376,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Image Classification </textline>
+</title>
+<enlisting id="1" bbox="43.200,165.162,629.709,312.422" size="32.046" unique_id="1">&#8226; Specifically: Application of Information  
+Theory Based Complexity Measures to  
+Classification of Neurodegenerative  
+Disease <textline bbox="43.200,280.382,615.673,312.422" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Specifically: Application of Information  </textline>
+<textline bbox="70.224,241.977,629.709,274.041" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">Theory Based Complexity Measures to  </textline>
+<textline bbox="70.224,203.562,583.921,235.602" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Classification of Neurodegenerative  </textline>
+<textline bbox="70.224,165.162,185.952,197.202" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">Disease </textline>
+</enlisting>
+</page>
+<page id="33" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[121.88900854700854, 440.0700227920227, 608.0583618233618, 497.75545014245023]">
+<title id="0" bbox="63.072,450.078,656.718,490.038" size="39.96" unique_id="0">What Are Complexity Measures ? <textline bbox="63.072,450.078,656.718,490.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">What Are Complexity Measures ? </textline>
+</title>
+<enlisting id="1" bbox="295.700,367.362,449.526,395.322" size="24.0" unique_id="1">&#8226; Complexity <textline bbox="295.700,367.362,449.526,395.322">&#8226; Complexity <text font="BCDFEE+Tahoma" bbox="295.700,368.182,306.620,392.182" colourspace="DeviceGray" ncolour="0" size="24.000">&#8226;</text>
+<text font="BCDEEE+Tahoma" bbox="314.060,367.362,330.864,395.322" colourspace="DeviceGray" ncolour="0" size="27.960">C</text>
+<text font="BCDEEE+Tahoma" bbox="330.864,367.362,346.046,395.322" colourspace="DeviceGray" ncolour="0" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="346.130,367.362,369.617,395.322" colourspace="DeviceGray" ncolour="0" size="27.960">m</text>
+<text font="BCDEEE+Tahoma" bbox="369.617,367.362,385.078,395.322" colourspace="DeviceGray" ncolour="0" size="27.960">p</text>
+<text font="BCDEEE+Tahoma" bbox="385.162,367.362,391.565,395.322" colourspace="DeviceGray" ncolour="0" size="27.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="391.565,367.362,406.272,395.322" colourspace="DeviceGray" ncolour="0" size="27.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="406.272,367.362,420.112,395.322" colourspace="DeviceGray" ncolour="0" size="27.960">x</text>
+<text font="BCDEEE+Tahoma" bbox="420.112,367.362,426.515,395.322" colourspace="DeviceGray" ncolour="0" size="27.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="426.515,367.362,435.854,395.322" colourspace="DeviceGray" ncolour="0" size="27.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="435.602,367.362,449.526,395.322" colourspace="DeviceGray" ncolour="0" size="27.960">y</text>
+</textline>
+</enlisting>
+<normal_text id="2" bbox="78.600,199.337,639.953,328.102" size="27.966" unique_id="2">Many strongly interacting components  
+introduce an inherent element of uncertainty  
+into observation of a complex (nonlinear)  
+system <textline bbox="78.600,300.142,558.399,328.102" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="DeviceGray">Many strongly interacting components  </textline>
+<textline bbox="78.600,266.542,639.953,294.502" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="DeviceGray">introduce an inherent element of uncertainty  </textline>
+<textline bbox="78.600,232.942,597.258,260.902" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="DeviceGray">into observation of a complex (nonlinear)  </textline>
+<textline bbox="78.600,199.337,165.071,227.321" font="BCDEEE+Tahoma" ncolour="0" size="27.984" colourspace="DeviceGray">system </textline>
+</normal_text>
+<normal_text id="3" bbox="78.600,132.112,284.973,160.072" size="27.96" unique_id="3">Good Reference: <textline bbox="78.600,132.112,284.973,160.072" font="BCDEEE+Tahoma" ncolour="0" size="27.960" colourspace="DeviceGray">Good Reference: </textline>
+</normal_text>
+<normal_text id="4" bbox="78.600,50.452,581.023,94.535" size="20.052" unique_id="4">W.W. Burggren, M. G. Monticino. Assessing physiological  
+complexity. J Exp Biol. 208(17),3221-32 (2005). <textline bbox="78.600,74.471,581.023,94.535" font="BCDEEE+Tahoma" ncolour="0" size="20.064" colourspace="DeviceGray">W.W. Burggren, M. G. Monticino. Assessing physiological  </textline>
+<textline bbox="78.600,50.452,499.935,70.492" font="BCDEEE+Tahoma" ncolour="0" size="20.040" colourspace="DeviceGray">complexity. J Exp Biol. 208(17),3221-32 (2005). </textline>
+</normal_text>
+</page>
+<page id="34" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[118.65636507936507, 440.7848783068782, 610.5731216931216, 497.2042037037038]">
+<title id="0" bbox="76.632,450.078,643.265,490.038" size="39.96" unique_id="0">Proposed Complexity Measures <textline bbox="76.632,450.078,643.265,490.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">Proposed Complexity Measures </textline>
+</title>
+<normal_text id="1" bbox="247.340,362.735,465.070,386.759" size="24.024" unique_id="1">(Time Series Based) <textline bbox="247.340,362.735,465.070,386.759" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">(Time Series Based) </textline>
+</normal_text>
+<normal_text id="9" bbox="66.456,45.196,664.131,74.596" size="14.04" unique_id="9">D. P. Feldman and J. P. Crutchfield, Structural Information in Two-Dimensional Patterns: Entropy  
+Convergence and Excess Entropy , Santa Fe Institute Working Paper 02-12-065 <textline bbox="66.456,60.556,664.131,74.596">D. P. Feldman and J. P. Crutchfield, Structural Information in Two-Dimensional Patterns: Entropy  <text font="ArialMT" bbox="66.456,60.556,76.593,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">D</text>
+<text font="ArialMT" bbox="76.537,60.556,80.440,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="80.482,60.556,84.385,74.596" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="84.329,60.556,93.694,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">P</text>
+<text font="ArialMT" bbox="91.882,60.556,95.786,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="95.828,60.556,99.731,74.596" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="99.675,60.556,108.253,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">F</text>
+<text font="ArialMT" bbox="108.197,60.556,116.003,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="116.003,60.556,119.120,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">l</text>
+<text font="ArialMT" bbox="119.120,60.556,126.926,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="126.926,60.556,138.622,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">m</text>
+<text font="ArialMT" bbox="138.551,60.556,146.358,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="146.358,60.556,154.164,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="154.164,60.556,158.067,74.596" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="157.758,60.556,165.564,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="165.564,60.556,173.371,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="173.371,60.556,181.177,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="181.177,60.556,185.080,74.596" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="184.883,60.556,191.903,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">J</text>
+<text font="ArialMT" bbox="191.946,60.556,195.849,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="195.891,60.556,199.794,74.596" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="199.611,60.556,208.976,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">P</text>
+<text font="ArialMT" bbox="207.165,60.556,211.068,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="211.110,60.556,215.013,74.596" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="214.957,60.556,225.094,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">C</text>
+<text font="ArialMT" bbox="225.038,60.556,229.713,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="229.713,60.556,237.519,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">u</text>
+<text font="ArialMT" bbox="237.519,60.556,241.422,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="241.465,60.556,248.485,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="ArialMT" bbox="248.527,60.556,256.333,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">h</text>
+<text font="ArialMT" bbox="256.333,60.556,260.236,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">f</text>
+<text font="ArialMT" bbox="260.278,60.556,263.395,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="263.395,60.556,271.201,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="271.075,60.556,274.192,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">l</text>
+<text font="ArialMT" bbox="274.192,60.556,281.998,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="281.998,60.556,285.901,74.596" colourspace="DeviceGray" ncolour="0" size="14.040">,</text>
+<text font="ArialMT" bbox="285.831,60.556,289.734,74.596" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="289.460,60.556,298.825,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">S</text>
+<text font="ArialMT" bbox="298.825,60.556,302.728,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="302.770,60.556,307.445,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">r</text>
+<text font="ArialMT" bbox="307.445,60.556,315.251,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">u</text>
+<text font="ArialMT" bbox="315.251,60.556,322.271,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">c</text>
+<text font="ArialMT" bbox="322.314,60.556,326.217,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="326.259,60.556,334.065,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">u</text>
+<text font="ArialMT" bbox="334.065,60.556,338.740,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">r</text>
+<text font="ArialMT" bbox="338.740,60.556,346.547,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">a</text>
+<text font="ArialMT" bbox="346.420,60.556,349.537,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">l</text>
+<text font="ArialMT" bbox="349.537,60.556,353.440,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="353.145,60.556,357.049,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">I</text>
+<text font="ArialMT" bbox="357.091,60.556,364.897,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="364.897,60.556,368.800,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">f</text>
+<text font="ArialMT" bbox="368.842,60.556,376.648,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="376.648,60.556,381.324,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">r</text>
+<text font="ArialMT" bbox="381.324,60.556,393.019,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">m</text>
+<text font="ArialMT" bbox="392.963,60.556,400.769,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">a</text>
+<text font="ArialMT" bbox="400.643,60.556,404.546,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="404.588,60.556,407.705,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="407.705,60.556,415.511,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="415.385,60.556,423.191,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="423.191,60.556,427.094,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="426.659,60.556,429.776,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="429.776,60.556,437.582,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="437.582,60.556,441.485,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="441.176,60.556,449.755,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">T</text>
+<text font="ArialMT" bbox="448.982,60.556,459.119,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">w</text>
+<text font="ArialMT" bbox="458.937,60.556,466.743,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="466.850,60.556,471.525,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">-</text>
+<text font="ArialMT" bbox="471.530,60.556,481.667,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">D</text>
+<text font="ArialMT" bbox="481.611,60.556,484.728,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="484.728,60.556,496.423,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">m</text>
+<text font="ArialMT" bbox="496.367,60.556,504.173,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">e</text>
+<text font="ArialMT" bbox="504.173,60.556,511.979,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="511.979,60.556,518.999,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">s</text>
+<text font="ArialMT" bbox="519.027,60.556,522.144,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="522.144,60.556,529.950,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="529.950,60.556,537.757,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="537.757,60.556,545.563,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">a</text>
+<text font="ArialMT" bbox="545.563,60.556,548.680,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">l</text>
+<text font="ArialMT" bbox="548.680,60.556,552.583,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="552.274,60.556,561.639,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">P</text>
+<text font="ArialMT" bbox="561.639,60.556,569.445,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">a</text>
+<text font="ArialMT" bbox="569.445,60.556,573.348,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="573.376,60.556,577.279,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="577.321,60.556,585.128,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">e</text>
+<text font="ArialMT" bbox="585.128,60.556,589.803,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">r</text>
+<text font="ArialMT" bbox="589.803,60.556,597.609,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="597.609,60.556,604.629,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">s</text>
+<text font="ArialMT" bbox="604.559,60.556,608.462,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">:</text>
+<text font="ArialMT" bbox="608.406,60.556,612.309,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="612.000,60.556,621.365,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">E</text>
+<text font="ArialMT" bbox="621.365,60.556,629.171,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="629.171,60.556,633.074,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="633.102,60.556,637.778,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">r</text>
+<text font="ArialMT" bbox="637.778,60.556,645.584,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="645.584,60.556,653.390,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">p</text>
+<text font="ArialMT" bbox="653.390,60.556,660.410,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">y</text>
+<text font="ArialMT" bbox="660.228,60.556,664.131,74.596" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+</textline>
+<textline bbox="66.456,45.196,562.516,59.236">Convergence and Excess Entropy , Santa Fe Institute Working Paper 02-12-065 <text font="ArialMT" bbox="66.456,45.196,76.593,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">C</text>
+<text font="ArialMT" bbox="76.537,45.196,84.343,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="84.343,45.196,92.149,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="92.149,45.196,99.169,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">v</text>
+<text font="ArialMT" bbox="98.973,45.196,106.779,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">e</text>
+<text font="ArialMT" bbox="106.779,45.196,111.454,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">r</text>
+<text font="ArialMT" bbox="111.454,45.196,119.260,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">g</text>
+<text font="ArialMT" bbox="119.260,45.196,127.067,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">e</text>
+<text font="ArialMT" bbox="127.067,45.196,134.873,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="134.873,45.196,141.893,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">c</text>
+<text font="ArialMT" bbox="141.893,45.196,149.699,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">e</text>
+<text font="ArialMT" bbox="149.699,45.196,153.602,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="153.336,45.196,161.142,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">a</text>
+<text font="ArialMT" bbox="161.142,45.196,168.948,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="168.948,45.196,176.754,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">d</text>
+<text font="ArialMT" bbox="176.754,45.196,180.657,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="180.461,45.196,189.825,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">E</text>
+<text font="ArialMT" bbox="189.825,45.196,196.845,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">x</text>
+<text font="ArialMT" bbox="196.663,45.196,203.683,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">c</text>
+<text font="ArialMT" bbox="203.725,45.196,211.531,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">e</text>
+<text font="ArialMT" bbox="211.531,45.196,218.551,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">s</text>
+<text font="ArialMT" bbox="218.593,45.196,225.613,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">s</text>
+<text font="ArialMT" bbox="225.656,45.196,229.559,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="229.376,45.196,238.741,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">E</text>
+<text font="ArialMT" bbox="238.741,45.196,246.547,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="246.547,45.196,250.450,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="250.478,45.196,255.154,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">r</text>
+<text font="ArialMT" bbox="255.154,45.196,262.960,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="262.960,45.196,270.766,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">p</text>
+<text font="ArialMT" bbox="270.766,45.196,277.786,59.236" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">y</text>
+<text font="ArialMT" bbox="281.540,45.196,285.443,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">,</text>
+<text font="ArialMT" bbox="285.485,45.196,289.388,59.236" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="289.206,45.196,298.571,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">S</text>
+<text font="ArialMT" bbox="298.571,45.196,306.377,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="306.377,45.196,314.183,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="314.183,45.196,318.086,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="318.086,45.196,325.892,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="325.892,45.196,329.795,59.236" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="329.641,45.196,338.219,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">F</text>
+<text font="ArialMT" bbox="338.163,45.196,345.970,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="345.970,45.196,349.873,59.236" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="349.690,45.196,353.593,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">I</text>
+<text font="ArialMT" bbox="353.635,45.196,361.442,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="361.442,45.196,368.462,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="ArialMT" bbox="368.504,45.196,372.407,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="372.449,45.196,375.566,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="375.566,45.196,379.469,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="379.511,45.196,387.317,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">u</text>
+<text font="ArialMT" bbox="387.317,45.196,391.220,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="391.150,45.196,398.957,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="398.957,45.196,402.860,59.236" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="402.424,45.196,415.678,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">W</text>
+<text font="ArialMT" bbox="415.622,45.196,423.428,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">o</text>
+<text font="ArialMT" bbox="423.428,45.196,428.104,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="428.104,45.196,435.124,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">k</text>
+<text font="ArialMT" bbox="435.166,45.196,438.283,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="438.283,45.196,446.089,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="445.962,45.196,453.769,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">g</text>
+<text font="ArialMT" bbox="453.769,45.196,457.672,59.236" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="457.237,45.196,466.601,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">P</text>
+<text font="ArialMT" bbox="466.601,45.196,474.407,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="474.407,45.196,482.214,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">p</text>
+<text font="ArialMT" bbox="482.214,45.196,490.020,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="490.020,45.196,494.695,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="494.695,45.196,498.598,59.236" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="498.402,45.196,506.208,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">0</text>
+<text font="ArialMT" bbox="506.208,45.196,514.014,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">2</text>
+<text font="ArialMT" bbox="514.150,45.196,518.825,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">-</text>
+<text font="ArialMT" bbox="518.830,45.196,526.636,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">1</text>
+<text font="ArialMT" bbox="526.630,45.196,534.436,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">2</text>
+<text font="ArialMT" bbox="534.430,45.196,539.105,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">-</text>
+<text font="ArialMT" bbox="539.110,45.196,546.916,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">0</text>
+<text font="ArialMT" bbox="546.910,45.196,554.716,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">6</text>
+<text font="ArialMT" bbox="554.710,45.196,562.516,59.236" colourspace="DeviceGray" ncolour="0" size="14.040">5</text>
+</textline>
+</normal_text>
+<enlisting bbox="39.456,98.652,663.515,310.742" unique_id="['2', '    5', '    8', '   3', '  4', ' 6', '7']">&#8226; Metric Entropy &#8211; measures number, and uniformity of distribution  &#8226; Statistical Complexity &#8211; measures number and uniformity of  &#8226; Excess Entropy &#8211; measures convergence rate of metric entropy <normal_text id="2" bbox="39.456,290.702,644.713,310.742" size="20.04" unique_id="2">&#8226; Metric Entropy &#8211; measures number, and uniformity of distribution  <textline bbox="39.456,290.702,644.713,310.742">&#8226; Metric Entropy &#8211; measures number, and uniformity of distribution  <text font="ArialMT" bbox="39.456,290.702,46.470,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">&#8226;</text>
+<text font="ArialMT" bbox="66.456,290.702,83.149,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">M</text>
+<text font="ArialMT" bbox="83.149,290.702,94.292,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">e</text>
+<text font="ArialMT" bbox="94.292,290.702,99.863,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">t</text>
+<text font="ArialMT" bbox="99.863,290.702,106.536,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">r</text>
+<text font="ArialMT" bbox="106.536,290.702,110.985,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">i</text>
+<text font="ArialMT" bbox="110.985,290.702,121.005,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">c</text>
+<text font="ArialMT" bbox="121.005,290.702,126.576,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040"> </text>
+<text font="ArialMT" bbox="126.336,290.702,139.702,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">E</text>
+<text font="ArialMT" bbox="139.702,290.702,150.844,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">n</text>
+<text font="ArialMT" bbox="150.844,290.702,156.416,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">t</text>
+<text font="ArialMT" bbox="156.335,290.702,163.009,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">r</text>
+<text font="ArialMT" bbox="163.009,290.702,174.151,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">o</text>
+<text font="ArialMT" bbox="174.191,290.702,185.333,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">p</text>
+<text font="ArialMT" bbox="185.333,290.702,195.353,310.742" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">y</text>
+<text font="ArialMT" bbox="200.760,290.702,211.902,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">&#8211;</text>
+<text font="ArialMT" bbox="217.320,290.702,234.013,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="234.013,290.702,245.156,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="245.156,290.702,256.298,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="256.378,290.702,266.398,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="266.458,290.702,277.600,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="277.600,290.702,284.274,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="284.374,290.702,295.516,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="295.516,290.702,305.536,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="305.636,290.702,311.207,310.742" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="310.706,290.702,321.849,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="321.849,290.702,332.991,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="333.051,290.702,349.744,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="349.744,290.702,360.887,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="ArialMT" bbox="360.887,290.702,372.029,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="372.109,290.702,378.782,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="377.780,290.702,383.351,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">,</text>
+<text font="ArialMT" bbox="383.351,290.702,388.923,310.742" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="388.502,290.702,399.644,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="399.644,290.702,410.786,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="410.846,290.702,421.989,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="421.989,290.702,427.560,310.742" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="427.459,290.702,438.602,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="438.602,290.702,449.744,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="449.804,290.702,454.253,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="454.253,290.702,459.824,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="459.824,290.702,470.966,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="470.966,290.702,477.640,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="477.720,290.702,494.413,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="494.413,290.702,498.862,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="498.862,290.702,504.433,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="504.433,290.702,514.453,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="514.453,290.702,520.024,310.742" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="519.844,290.702,530.986,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="530.986,290.702,536.557,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="536.557,290.702,542.128,310.742" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="541.988,290.702,553.130,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="553.130,290.702,557.579,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="557.579,290.702,567.599,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="567.719,290.702,573.291,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="573.291,290.702,579.964,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="579.964,290.702,584.413,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="584.413,290.702,595.555,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="ArialMT" bbox="595.635,290.702,606.777,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="606.777,290.702,612.348,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="612.348,290.702,616.797,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="616.797,290.702,627.940,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="628.000,290.702,639.142,310.742" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="639.142,290.702,644.713,310.742" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="5" bbox="39.456,197.082,598.438,217.122" size="20.04" unique_id="5">&#8226; Statistical Complexity &#8211; measures number and uniformity of  <textline bbox="39.456,197.082,598.438,217.122">&#8226; Statistical Complexity &#8211; measures number and uniformity of  <text font="ArialMT" bbox="39.456,197.082,46.470,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">&#8226;</text>
+<text font="ArialMT" bbox="66.456,197.082,79.823,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">S</text>
+<text font="ArialMT" bbox="79.823,197.082,85.394,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">t</text>
+<text font="ArialMT" bbox="85.294,197.082,96.436,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">a</text>
+<text font="ArialMT" bbox="96.436,197.082,102.007,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">t</text>
+<text font="ArialMT" bbox="102.007,197.082,106.456,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">i</text>
+<text font="ArialMT" bbox="106.456,197.082,116.476,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">s</text>
+<text font="ArialMT" bbox="116.476,197.082,122.047,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">t</text>
+<text font="ArialMT" bbox="122.047,197.082,126.496,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">i</text>
+<text font="ArialMT" bbox="126.496,197.082,136.516,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">c</text>
+<text font="ArialMT" bbox="136.516,197.082,147.658,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">a</text>
+<text font="ArialMT" bbox="147.658,197.082,152.107,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">l</text>
+<text font="ArialMT" bbox="152.107,197.082,157.678,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040"> </text>
+<text font="ArialMT" bbox="157.538,197.082,172.007,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">C</text>
+<text font="ArialMT" bbox="172.007,197.082,183.149,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">o</text>
+<text font="ArialMT" bbox="183.189,197.082,199.882,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">m</text>
+<text font="ArialMT" bbox="199.882,197.082,211.025,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">p</text>
+<text font="ArialMT" bbox="211.025,197.082,215.473,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">l</text>
+<text font="ArialMT" bbox="215.473,197.082,226.616,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">e</text>
+<text font="ArialMT" bbox="226.616,197.082,236.636,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">x</text>
+<text font="ArialMT" bbox="236.636,197.082,241.085,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">i</text>
+<text font="ArialMT" bbox="241.085,197.082,246.656,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">t</text>
+<text font="ArialMT" bbox="246.555,197.082,256.575,217.122" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">y</text>
+<text font="ArialMT" bbox="262.100,197.082,273.242,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">&#8211;</text>
+<text font="ArialMT" bbox="278.780,197.082,295.473,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="295.473,197.082,306.616,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="306.616,197.082,317.758,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="317.758,197.082,327.778,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="327.838,197.082,338.980,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="338.980,197.082,345.653,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="345.694,197.082,356.836,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="356.836,197.082,366.856,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="366.856,197.082,372.427,217.122" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="371.966,197.082,383.108,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="383.108,197.082,394.250,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="394.250,197.082,410.944,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="410.944,197.082,422.086,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="ArialMT" bbox="422.086,197.082,433.228,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="433.228,197.082,439.902,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="439.982,197.082,445.553,217.122" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="445.132,197.082,456.274,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="456.274,197.082,467.417,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="467.417,197.082,478.559,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="478.559,197.082,484.130,217.122" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="484.010,197.082,495.152,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="495.152,197.082,506.294,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="506.294,197.082,510.743,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="510.743,197.082,516.314,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="516.314,197.082,527.456,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="527.456,197.082,534.130,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="534.130,197.082,550.823,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="550.823,197.082,555.272,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="555.272,197.082,560.843,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="560.843,197.082,570.863,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="570.763,197.082,576.334,217.122" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="576.154,197.082,587.296,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="587.296,197.082,592.867,217.122" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="592.867,197.082,598.438,217.122" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="8" bbox="39.456,98.652,629.342,118.692" size="20.04" unique_id="8">&#8226; Excess Entropy &#8211; measures convergence rate of metric entropy <textline bbox="39.456,98.652,629.342,118.692">&#8226; Excess Entropy &#8211; measures convergence rate of metric entropy <text font="ArialMT" bbox="39.456,98.652,46.470,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">&#8226;</text>
+<text font="ArialMT" bbox="66.456,98.652,79.823,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">E</text>
+<text font="ArialMT" bbox="79.823,98.652,89.843,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">x</text>
+<text font="ArialMT" bbox="89.742,98.652,99.762,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">c</text>
+<text font="ArialMT" bbox="99.762,98.652,110.905,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">e</text>
+<text font="ArialMT" bbox="110.965,98.652,120.985,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">s</text>
+<text font="ArialMT" bbox="120.985,98.652,131.005,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">s</text>
+<text font="ArialMT" bbox="131.105,98.652,136.676,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040"> </text>
+<text font="ArialMT" bbox="136.376,98.652,149.742,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">E</text>
+<text font="ArialMT" bbox="149.742,98.652,160.884,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">n</text>
+<text font="ArialMT" bbox="160.884,98.652,166.456,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">t</text>
+<text font="ArialMT" bbox="166.375,98.652,173.049,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">r</text>
+<text font="ArialMT" bbox="173.049,98.652,184.191,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">o</text>
+<text font="ArialMT" bbox="184.231,98.652,195.373,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">p</text>
+<text font="ArialMT" bbox="195.373,98.652,205.393,118.692" colourspace="DeviceGray" ncolour="(0, 0.4, 1)" size="20.040">y</text>
+<text font="ArialMT" bbox="210.840,98.652,221.982,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">&#8211;</text>
+<text font="ArialMT" bbox="227.540,98.652,244.233,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="244.233,98.652,255.376,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="255.376,98.652,266.518,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="266.518,98.652,276.538,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="276.598,98.652,287.740,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="287.740,98.652,294.413,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="294.454,98.652,305.596,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="305.596,98.652,315.616,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="315.616,98.652,321.187,118.692" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="320.726,98.652,330.746,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="330.746,98.652,341.888,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="341.948,98.652,353.091,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="353.091,98.652,363.111,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">v</text>
+<text font="ArialMT" bbox="363.111,98.652,374.253,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="374.253,98.652,380.926,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="380.926,98.652,392.068,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="ArialMT" bbox="392.068,98.652,403.211,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="403.211,98.652,414.353,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="414.413,98.652,424.433,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="424.433,98.652,435.575,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="435.575,98.652,441.146,118.692" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="440.685,98.652,447.359,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="447.359,98.652,458.501,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="458.541,98.652,464.112,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="464.112,98.652,475.254,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="475.254,98.652,480.826,118.692" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="480.505,98.652,491.647,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="491.647,98.652,497.218,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="497.218,98.652,502.789,118.692" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="502.589,98.652,519.282,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="519.282,98.652,530.425,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="530.425,98.652,535.996,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="535.996,98.652,542.669,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="542.669,98.652,547.118,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="547.118,98.652,557.138,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="557.138,98.652,562.709,118.692" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="562.469,98.652,573.611,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="573.611,98.652,584.753,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="584.753,98.652,590.324,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="590.324,98.652,596.997,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="596.997,98.652,608.140,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="608.140,98.652,619.282,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="ArialMT" bbox="619.322,98.652,629.342,118.692" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="66.456,271.502,270.924,291.542" size="20.04" unique_id="3">over observed patterns <textline bbox="66.456,271.502,270.924,291.542" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">over observed patterns </textline>
+</normal_text>
+<normal_text id="4" bbox="66.456,237.822,663.515,251.890" size="14.04" unique_id="4">J. P. Crutchfield and N. H. Packard, Symbolic Dynamics of Noisy Chaos ,Physica 7D (1983) 201. <textline bbox="66.456,237.822,663.515,251.890">J. P. Crutchfield and N. H. Packard, Symbolic Dynamics of Noisy Chaos ,Physica 7D (1983) 201. <text font="ArialMT" bbox="66.456,237.822,73.476,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">J</text>
+<text font="ArialMT" bbox="73.518,237.822,77.421,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="77.463,237.822,81.366,251.862" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="81.184,237.822,90.549,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">P</text>
+<text font="ArialMT" bbox="88.737,237.822,92.641,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="92.683,237.822,96.586,251.862" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="96.530,237.822,106.667,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">C</text>
+<text font="ArialMT" bbox="106.610,237.822,111.286,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="111.286,237.822,119.092,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">u</text>
+<text font="ArialMT" bbox="119.092,237.822,122.995,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="123.037,237.822,130.057,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="ArialMT" bbox="130.099,237.822,137.906,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">h</text>
+<text font="ArialMT" bbox="137.906,237.822,141.809,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">f</text>
+<text font="ArialMT" bbox="141.851,237.822,144.968,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="144.968,237.822,152.774,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="152.648,237.822,155.764,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">l</text>
+<text font="ArialMT" bbox="155.764,237.822,163.571,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="163.571,237.822,167.474,251.862" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="167.053,237.822,174.859,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="174.859,237.822,182.665,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="182.665,237.822,190.471,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="190.471,237.822,194.374,251.862" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="194.178,237.822,204.315,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">N</text>
+<text font="ArialMT" bbox="204.259,237.822,208.162,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="208.204,237.822,212.107,251.862" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="212.051,237.822,222.188,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">H</text>
+<text font="ArialMT" bbox="222.132,237.822,226.035,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="226.077,237.822,229.980,251.862" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="229.924,237.822,239.288,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">P</text>
+<text font="ArialMT" bbox="239.288,237.822,247.095,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="247.095,237.822,254.115,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="ArialMT" bbox="254.143,237.822,261.163,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">k</text>
+<text font="ArialMT" bbox="261.205,237.822,269.011,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="269.011,237.822,273.686,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="273.686,237.822,281.493,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="281.493,237.822,285.396,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">,</text>
+<text font="ArialMT" bbox="285.326,237.822,289.229,251.862" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="289.100,237.822,298.465,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">S</text>
+<text font="ArialMT" bbox="298.465,237.822,305.485,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">y</text>
+<text font="ArialMT" bbox="305.302,237.822,316.997,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">m</text>
+<text font="ArialMT" bbox="316.941,237.822,324.748,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">b</text>
+<text font="ArialMT" bbox="324.748,237.822,332.554,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="332.554,237.822,335.671,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">l</text>
+<text font="ArialMT" bbox="335.671,237.822,338.788,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="338.788,237.822,345.808,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">c</text>
+<text font="ArialMT" bbox="345.850,237.822,349.753,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="349.697,237.822,359.834,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">D</text>
+<text font="ArialMT" bbox="359.777,237.822,366.797,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">y</text>
+<text font="ArialMT" bbox="366.615,237.822,374.421,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="374.421,237.822,382.227,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">a</text>
+<text font="ArialMT" bbox="382.227,237.822,393.923,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">m</text>
+<text font="ArialMT" bbox="393.852,237.822,396.969,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="396.969,237.822,403.989,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">c</text>
+<text font="ArialMT" bbox="404.031,237.822,411.051,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">s</text>
+<text font="ArialMT" bbox="411.094,237.822,414.997,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="414.941,237.822,422.747,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="422.747,237.822,426.650,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">f</text>
+<text font="ArialMT" bbox="426.692,237.822,430.595,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="430.413,237.822,440.549,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">N</text>
+<text font="ArialMT" bbox="440.493,237.822,448.300,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="448.300,237.822,451.416,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="451.416,237.822,458.436,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">s</text>
+<text font="ArialMT" bbox="458.479,237.822,465.499,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">y</text>
+<text font="ArialMT" bbox="465.316,237.822,469.219,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="469.261,237.822,479.398,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">C</text>
+<text font="ArialMT" bbox="479.342,237.822,487.148,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">h</text>
+<text font="ArialMT" bbox="487.148,237.822,494.954,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">a</text>
+<text font="ArialMT" bbox="494.954,237.822,502.761,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="502.761,237.822,509.781,251.862" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">s</text>
+<text font="ArialMT" bbox="513.670,237.822,517.573,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">,</text>
+<text font="Arial-ItalicMT" bbox="517.630,237.850,526.995,251.890" colourspace="DeviceGray" ncolour="0" size="14.040">P</text>
+<text font="Arial-ItalicMT" bbox="526.995,237.850,534.801,251.890" colourspace="DeviceGray" ncolour="0" size="14.040">h</text>
+<text font="Arial-ItalicMT" bbox="534.801,237.850,541.821,251.890" colourspace="DeviceGray" ncolour="0" size="14.040">y</text>
+<text font="Arial-ItalicMT" bbox="541.849,237.850,548.869,251.890" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="Arial-ItalicMT" bbox="548.911,237.850,552.028,251.890" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="Arial-ItalicMT" bbox="552.028,237.850,559.048,251.890" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="Arial-ItalicMT" bbox="559.090,237.850,566.896,251.890" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="Arial-ItalicMT" bbox="566.770,237.850,570.673,251.890" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="Arial-BoldItalicMT" bbox="570.430,237.822,578.236,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">7</text>
+<text font="Arial-BoldItalicMT" bbox="578.230,237.822,588.367,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">D</text>
+<text font="ArialMT" bbox="592.150,237.822,596.825,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">(</text>
+<text font="ArialMT" bbox="596.825,237.822,604.632,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">1</text>
+<text font="ArialMT" bbox="604.632,237.822,612.438,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">9</text>
+<text font="ArialMT" bbox="612.438,237.822,620.244,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">8</text>
+<text font="ArialMT" bbox="620.244,237.822,628.050,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">3</text>
+<text font="ArialMT" bbox="628.050,237.822,632.726,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">)</text>
+<text font="ArialMT" bbox="632.726,237.822,636.629,251.862" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="636.193,237.822,644.000,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">2</text>
+<text font="ArialMT" bbox="644.000,237.822,651.806,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">0</text>
+<text font="ArialMT" bbox="651.806,237.822,659.612,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">1</text>
+<text font="ArialMT" bbox="659.612,237.822,663.515,251.862" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+</textline>
+</normal_text>
+<normal_text id="6" bbox="66.456,177.882,470.743,197.922" size="20.04" unique_id="6">restrictions in correlation of observed patterns <textline bbox="66.456,177.882,470.743,197.922" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">restrictions in correlation of observed patterns </textline>
+</normal_text>
+<normal_text id="7" bbox="66.456,139.782,634.348,153.850" size="14.04" unique_id="7">J. P. Crutchfield and K. Young, Inferring Statistical Complexity, Phys Rev Lett 63 (1989) 105. <textline bbox="66.456,139.782,634.348,153.850">J. P. Crutchfield and K. Young, Inferring Statistical Complexity, Phys Rev Lett 63 (1989) 105. <text font="ArialMT" bbox="66.456,139.782,73.476,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">J</text>
+<text font="ArialMT" bbox="73.518,139.782,77.421,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="77.463,139.782,81.366,153.822" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="81.184,139.782,90.549,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">P</text>
+<text font="ArialMT" bbox="88.737,139.782,92.641,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="92.683,139.782,96.586,153.822" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="96.530,139.782,106.667,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">C</text>
+<text font="ArialMT" bbox="106.610,139.782,111.286,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">r</text>
+<text font="ArialMT" bbox="111.286,139.782,119.092,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">u</text>
+<text font="ArialMT" bbox="119.092,139.782,122.995,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="ArialMT" bbox="123.037,139.782,130.057,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">c</text>
+<text font="ArialMT" bbox="130.099,139.782,137.906,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">h</text>
+<text font="ArialMT" bbox="137.906,139.782,141.809,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">f</text>
+<text font="ArialMT" bbox="141.851,139.782,144.968,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">i</text>
+<text font="ArialMT" bbox="144.968,139.782,152.774,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="ArialMT" bbox="152.648,139.782,155.764,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">l</text>
+<text font="ArialMT" bbox="155.764,139.782,163.571,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="163.571,139.782,167.474,153.822" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="167.053,139.782,174.859,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">a</text>
+<text font="ArialMT" bbox="174.859,139.782,182.665,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="182.665,139.782,190.471,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">d</text>
+<text font="ArialMT" bbox="190.471,139.782,194.374,153.822" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="194.178,139.782,203.543,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">K</text>
+<text font="ArialMT" bbox="203.543,139.782,207.446,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+<text font="ArialMT" bbox="207.488,139.782,211.391,153.822" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="211.082,139.782,220.447,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">Y</text>
+<text font="ArialMT" bbox="219.001,139.782,226.807,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">o</text>
+<text font="ArialMT" bbox="226.807,139.782,234.613,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">u</text>
+<text font="ArialMT" bbox="234.613,139.782,242.419,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">n</text>
+<text font="ArialMT" bbox="242.419,139.782,250.226,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">g</text>
+<text font="ArialMT" bbox="250.226,139.782,254.129,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">,</text>
+<text font="ArialMT" bbox="254.129,139.782,258.032,153.822" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="258.020,139.782,261.923,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">I</text>
+<text font="ArialMT" bbox="261.965,139.782,269.771,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="269.771,139.782,273.675,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">f</text>
+<text font="ArialMT" bbox="273.717,139.782,281.523,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">e</text>
+<text font="ArialMT" bbox="281.523,139.782,286.198,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">r</text>
+<text font="ArialMT" bbox="286.198,139.782,290.874,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">r</text>
+<text font="ArialMT" bbox="290.874,139.782,293.990,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="293.990,139.782,301.797,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">n</text>
+<text font="ArialMT" bbox="301.797,139.782,309.603,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">g</text>
+<text font="ArialMT" bbox="309.477,139.782,313.380,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="312.959,139.782,322.323,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">S</text>
+<text font="ArialMT" bbox="322.323,139.782,326.226,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="326.268,139.782,334.075,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">a</text>
+<text font="ArialMT" bbox="334.075,139.782,337.978,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="338.020,139.782,341.137,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="341.137,139.782,348.157,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">s</text>
+<text font="ArialMT" bbox="348.199,139.782,352.102,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="352.144,139.782,355.261,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="355.261,139.782,362.281,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">c</text>
+<text font="ArialMT" bbox="362.323,139.782,370.129,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">a</text>
+<text font="ArialMT" bbox="370.003,139.782,373.120,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">l</text>
+<text font="ArialMT" bbox="373.120,139.782,377.023,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040"> </text>
+<text font="ArialMT" bbox="376.728,139.782,386.865,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">C</text>
+<text font="ArialMT" bbox="386.809,139.782,394.615,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">o</text>
+<text font="ArialMT" bbox="394.615,139.782,406.310,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">m</text>
+<text font="ArialMT" bbox="406.254,139.782,414.061,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">p</text>
+<text font="ArialMT" bbox="414.061,139.782,417.177,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">l</text>
+<text font="ArialMT" bbox="417.177,139.782,424.984,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">e</text>
+<text font="ArialMT" bbox="424.984,139.782,432.004,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">x</text>
+<text font="ArialMT" bbox="431.821,139.782,434.938,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">i</text>
+<text font="ArialMT" bbox="434.938,139.782,438.841,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">t</text>
+<text font="ArialMT" bbox="438.883,139.782,445.903,153.822" colourspace="DeviceGray" ncolour="(0, 0.6, 0.6)" size="14.040">y</text>
+<text font="ArialMT" bbox="444.770,139.782,448.673,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">,</text>
+<text font="ArialMT" bbox="448.730,139.782,452.633,153.822" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="Arial-ItalicMT" bbox="452.690,139.810,462.055,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">P</text>
+<text font="Arial-ItalicMT" bbox="462.055,139.810,469.861,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">h</text>
+<text font="Arial-ItalicMT" bbox="469.861,139.810,476.881,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">y</text>
+<text font="Arial-ItalicMT" bbox="476.909,139.810,483.929,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">s</text>
+<text font="Arial-ItalicMT" bbox="483.971,139.810,487.874,153.850" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="Arial-ItalicMT" bbox="487.565,139.810,497.702,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">R</text>
+<text font="Arial-ItalicMT" bbox="497.646,139.810,505.452,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="Arial-ItalicMT" bbox="505.452,139.810,512.472,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">v</text>
+<text font="Arial-ItalicMT" bbox="512.514,139.810,516.418,153.850" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="Arial-ItalicMT" bbox="516.361,139.810,524.168,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">L</text>
+<text font="Arial-ItalicMT" bbox="524.168,139.810,531.974,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">e</text>
+<text font="Arial-ItalicMT" bbox="531.974,139.810,535.877,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="Arial-ItalicMT" bbox="535.905,139.810,539.808,153.850" colourspace="DeviceGray" ncolour="0" size="14.040">t</text>
+<text font="Arial-BoldMT" bbox="543.550,139.782,551.356,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">6</text>
+<text font="Arial-BoldMT" bbox="551.350,139.782,559.156,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">3</text>
+<text font="ArialMT" bbox="562.870,139.782,567.545,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">(</text>
+<text font="ArialMT" bbox="567.545,139.782,575.352,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">1</text>
+<text font="ArialMT" bbox="575.352,139.782,583.158,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">9</text>
+<text font="ArialMT" bbox="583.158,139.782,590.964,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">8</text>
+<text font="ArialMT" bbox="590.964,139.782,598.770,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">9</text>
+<text font="ArialMT" bbox="598.770,139.782,603.446,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">)</text>
+<text font="ArialMT" bbox="603.446,139.782,607.349,153.822" colourspace="DeviceGray" ncolour="0" size="14.040"> </text>
+<text font="ArialMT" bbox="607.026,139.782,614.832,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">1</text>
+<text font="ArialMT" bbox="614.832,139.782,622.638,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">0</text>
+<text font="ArialMT" bbox="622.638,139.782,630.445,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">5</text>
+<text font="ArialMT" bbox="630.445,139.782,634.348,153.822" colourspace="DeviceGray" ncolour="0" size="14.040">.</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page id="35" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[115.7581330049261, 441.4257832512315, 612.8277339901477, 496.7099827586208]">
+<title id="0" bbox="76.632,450.078,643.265,490.038" size="39.96" unique_id="0">Proposed Complexity Measures <textline bbox="76.632,450.078,643.265,490.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">Proposed Complexity Measures </textline>
+</title>
+<enlisting bbox="39.456,103.452,674.678,411.572" unique_id="['1', '    3', '    5', '    6', '    7', '    9', '   2', '  4', ' 8', '10']">&#8226; Statistical Complexity is COMPLIMENTARY to Kolmogorov  &#8226; Kolmogorov complexity estimates complexity of algorithms &#8211; the  &#8226; &#8220;random&#8221; string &#8220;typically&#8221; can be generated by no short program so  
+is &#8220;complex&#8221; in the Kolmogorov sense = entropy &#8226; But randomness as complexity doesn&#8217;t jibe with visual assessment  &#8226; Yet another complimentary definition is standard Computational  <normal_text id="1" bbox="39.456,391.532,622.916,411.572" size="20.04" unique_id="1">&#8226; Statistical Complexity is COMPLIMENTARY to Kolmogorov  <textline bbox="39.456,391.532,622.916,411.572">&#8226; Statistical Complexity is COMPLIMENTARY to Kolmogorov  <text font="ArialMT" bbox="39.456,391.532,46.470,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="66.456,391.532,79.823,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">S</text>
+<text font="Arial-BoldMT" bbox="79.823,391.532,86.496,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="86.496,391.532,97.638,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="97.638,391.532,104.312,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="104.352,391.532,109.923,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="109.923,391.532,121.065,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="Arial-BoldMT" bbox="121.065,391.532,127.738,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="127.738,391.532,133.309,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="133.309,391.532,144.452,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="Arial-BoldMT" bbox="144.452,391.532,155.594,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="155.594,391.532,161.165,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="160.985,391.532,166.556,411.572" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="166.135,391.532,180.604,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">C</text>
+<text font="Arial-BoldMT" bbox="180.604,391.532,192.848,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="192.848,391.532,210.664,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="Arial-BoldMT" bbox="210.664,391.532,222.908,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="Arial-BoldMT" bbox="222.908,391.532,228.479,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="228.419,391.532,239.562,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="239.562,391.532,250.704,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">x</text>
+<text font="Arial-BoldMT" bbox="250.704,391.532,256.275,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="256.275,391.532,262.948,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="262.948,391.532,274.090,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="279.500,391.532,283.949,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="283.949,391.532,293.969,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="293.969,391.532,299.540,411.572" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="299.540,391.532,314.009,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">C</text>
+<text font="ArialMT" bbox="314.009,391.532,329.600,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">O</text>
+<text font="ArialMT" bbox="329.600,391.532,346.293,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">M</text>
+<text font="ArialMT" bbox="346.293,391.532,359.660,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">P</text>
+<text font="ArialMT" bbox="359.660,391.532,370.802,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">L</text>
+<text font="ArialMT" bbox="370.802,391.532,376.373,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">I</text>
+<text font="ArialMT" bbox="376.373,391.532,393.067,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">M</text>
+<text font="ArialMT" bbox="393.067,391.532,406.433,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">E</text>
+<text font="ArialMT" bbox="406.333,391.532,420.802,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">N</text>
+<text font="ArialMT" bbox="420.802,391.532,433.046,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">T</text>
+<text font="ArialMT" bbox="431.644,391.532,445.010,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">A</text>
+<text font="ArialMT" bbox="445.010,391.532,459.479,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">R</text>
+<text font="ArialMT" bbox="459.119,391.532,472.485,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">Y</text>
+<text font="ArialMT" bbox="472.084,391.532,477.656,411.572" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="477.355,391.532,482.926,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="482.926,391.532,494.068,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="494.068,391.532,499.639,411.572" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="499.630,391.532,514.099,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">K</text>
+<text font="Arial-BoldMT" bbox="514.099,391.532,526.343,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="526.343,391.532,531.914,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="531.914,391.532,549.730,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="Arial-BoldMT" bbox="549.730,391.532,561.974,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="561.914,391.532,574.159,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="Arial-BoldMT" bbox="574.159,391.532,586.403,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="586.403,391.532,594.199,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="Arial-BoldMT" bbox="594.199,391.532,606.443,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="606.443,391.532,617.585,411.572" colourspace="DeviceGray" ncolour="0" size="20.040">v</text>
+<text font="Arial-BoldMT" bbox="617.345,391.532,622.916,411.572" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="3" bbox="39.456,324.302,660.767,344.342" size="20.04" unique_id="3">&#8226; Kolmogorov complexity estimates complexity of algorithms &#8211; the  <textline bbox="39.456,324.302,660.767,344.342">&#8226; Kolmogorov complexity estimates complexity of algorithms &#8211; the  <text font="ArialMT" bbox="39.456,324.302,46.470,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="66.456,324.302,80.925,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">K</text>
+<text font="Arial-BoldMT" bbox="80.925,324.302,93.169,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="93.169,324.302,98.740,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="98.740,324.302,116.556,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="Arial-BoldMT" bbox="116.556,324.302,128.800,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="128.740,324.302,140.985,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="Arial-BoldMT" bbox="140.985,324.302,153.229,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="153.229,324.302,161.025,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="Arial-BoldMT" bbox="161.025,324.302,173.269,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="173.269,324.302,184.411,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">v</text>
+<text font="Arial-BoldMT" bbox="184.171,324.302,189.742,344.342" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="189.782,324.302,200.924,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="Arial-BoldMT" bbox="200.924,324.302,213.169,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="213.169,324.302,230.984,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="Arial-BoldMT" bbox="230.984,324.302,243.229,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="Arial-BoldMT" bbox="243.229,324.302,248.800,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="248.700,324.302,259.842,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="259.842,324.302,270.984,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">x</text>
+<text font="Arial-BoldMT" bbox="270.984,324.302,276.555,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="276.555,324.302,283.229,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="283.229,324.302,294.371,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="299.780,324.302,310.922,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="310.922,324.302,320.942,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="321.002,324.302,326.573,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="326.573,324.302,331.022,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="331.022,324.302,347.716,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="347.636,324.302,358.778,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="358.778,324.302,364.349,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="364.349,324.302,375.491,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="375.491,324.302,385.511,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="385.511,324.302,391.082,344.342" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="390.722,324.302,400.742,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="400.742,324.302,411.884,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="411.944,324.302,428.637,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="428.637,324.302,439.779,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="ArialMT" bbox="439.779,324.302,444.228,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="444.228,324.302,455.371,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="455.371,324.302,465.391,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">x</text>
+<text font="ArialMT" bbox="465.391,324.302,469.839,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="469.839,324.302,475.411,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="475.310,324.302,485.330,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="485.330,324.302,490.901,344.342" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="490.661,324.302,501.803,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="501.803,324.302,507.374,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="507.374,324.302,512.945,344.342" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="512.865,324.302,524.008,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="524.008,324.302,528.456,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="528.456,324.302,539.599,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="ArialMT" bbox="539.599,324.302,550.741,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="550.741,324.302,557.414,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="557.494,324.302,561.943,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="561.943,324.302,567.514,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="567.514,324.302,578.657,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="578.657,324.302,595.350,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="595.350,324.302,605.370,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="605.370,324.302,610.941,344.342" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="610.630,324.302,621.772,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">&#8211;</text>
+<text font="ArialMT" bbox="627.340,324.302,632.911,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="632.911,324.302,644.053,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="644.053,324.302,655.196,344.342" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="655.196,324.302,660.767,344.342" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="5" bbox="39.456,257.097,46.478,277.161" size="20.064" unique_id="5">&#8226; <textline bbox="39.456,257.097,46.478,277.161" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="6" bbox="66.456,237.882,674.678,277.161" size="20.052" unique_id="6">&#8220;random&#8221; string &#8220;typically&#8221; can be generated by no short program so  
+is &#8220;complex&#8221; in the Kolmogorov sense = entropy <textline bbox="71.976,257.097,674.678,277.161" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">&#8220;random&#8221; string &#8220;typically&#8221; can be generated by no short program so  </textline>
+<textline bbox="66.456,237.882,489.120,257.922" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">is &#8220;complex&#8221; in the Kolmogorov sense = entropy </textline>
+</normal_text>
+<normal_text id="7" bbox="39.456,189.882,661.143,209.922" size="20.04" unique_id="7">&#8226; But randomness as complexity doesn&#8217;t jibe with visual assessment  <textline bbox="39.456,189.882,661.143,209.922" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; But randomness as complexity doesn&#8217;t jibe with visual assessment  </textline>
+</normal_text>
+<normal_text id="9" bbox="39.456,122.677,643.695,142.741" size="20.064" unique_id="9">&#8226; Yet another complimentary definition is standard Computational  <textline bbox="39.456,122.677,643.695,142.741">&#8226; Yet another complimentary definition is standard Computational  <text font="ArialMT" bbox="39.456,122.677,46.478,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">&#8226;</text>
+<text font="ArialMT" bbox="66.456,122.677,79.839,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">Y</text>
+<text font="ArialMT" bbox="77.973,122.677,89.128,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="ArialMT" bbox="89.128,122.677,94.706,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="ArialMT" bbox="94.706,122.677,100.284,142.741" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="ArialMT" bbox="100.164,122.677,111.319,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="ArialMT" bbox="111.319,122.677,122.475,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="ArialMT" bbox="122.475,122.677,133.630,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">o</text>
+<text font="ArialMT" bbox="133.630,122.677,139.208,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="ArialMT" bbox="139.208,122.677,150.364,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">h</text>
+<text font="ArialMT" bbox="150.364,122.677,161.519,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="ArialMT" bbox="161.519,122.677,168.201,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">r</text>
+<text font="ArialMT" bbox="168.201,122.677,173.778,142.741" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="ArialMT" bbox="173.357,122.677,183.389,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">c</text>
+<text font="ArialMT" bbox="183.389,122.677,194.545,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">o</text>
+<text font="ArialMT" bbox="194.545,122.677,211.258,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">m</text>
+<text font="ArialMT" bbox="211.258,122.677,222.413,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">p</text>
+<text font="ArialMT" bbox="222.413,122.677,226.868,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">l</text>
+<text font="ArialMT" bbox="226.868,122.677,231.322,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="ArialMT" bbox="231.322,122.677,248.035,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">m</text>
+<text font="ArialMT" bbox="248.035,122.677,259.191,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="ArialMT" bbox="259.191,122.677,270.346,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="ArialMT" bbox="270.346,122.677,275.924,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="ArialMT" bbox="275.844,122.677,286.999,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="ArialMT" bbox="286.999,122.677,293.681,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">r</text>
+<text font="ArialMT" bbox="293.681,122.677,303.713,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">y</text>
+<text font="ArialMT" bbox="303.713,122.677,309.291,142.741" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="ArialMT" bbox="308.849,122.677,320.005,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">d</text>
+<text font="ArialMT" bbox="320.005,122.677,331.160,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">e</text>
+<text font="ArialMT" bbox="331.160,122.677,336.738,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">f</text>
+<text font="ArialMT" bbox="336.738,122.677,341.192,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="ArialMT" bbox="341.132,122.677,352.288,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="ArialMT" bbox="352.288,122.677,356.742,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="ArialMT" bbox="356.742,122.677,362.320,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="ArialMT" bbox="362.260,122.677,366.714,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="ArialMT" bbox="366.714,122.677,377.869,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">o</text>
+<text font="ArialMT" bbox="377.869,122.677,389.025,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="ArialMT" bbox="389.025,122.677,394.603,142.741" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="ArialMT" bbox="394.543,122.677,398.997,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="ArialMT" bbox="398.997,122.677,409.029,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">s</text>
+<text font="ArialMT" bbox="409.029,122.677,414.607,142.741" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="ArialMT" bbox="414.466,122.677,424.498,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">s</text>
+<text font="ArialMT" bbox="424.498,122.677,430.076,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="ArialMT" bbox="430.076,122.677,441.231,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="ArialMT" bbox="441.231,122.677,452.387,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="ArialMT" bbox="452.387,122.677,463.543,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">d</text>
+<text font="ArialMT" bbox="463.543,122.677,474.698,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="ArialMT" bbox="474.698,122.677,481.380,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">r</text>
+<text font="ArialMT" bbox="481.380,122.677,492.535,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">d</text>
+<text font="ArialMT" bbox="492.535,122.677,498.113,142.741" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+<text font="Arial-BoldMT" bbox="497.830,122.677,512.316,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">C</text>
+<text font="Arial-BoldMT" bbox="512.316,122.677,524.575,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">o</text>
+<text font="Arial-BoldMT" bbox="524.575,122.677,542.412,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">m</text>
+<text font="Arial-BoldMT" bbox="542.352,122.677,554.611,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">p</text>
+<text font="Arial-BoldMT" bbox="554.611,122.677,566.870,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">u</text>
+<text font="Arial-BoldMT" bbox="566.870,122.677,573.552,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="Arial-BoldMT" bbox="573.552,122.677,584.707,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="Arial-BoldMT" bbox="584.707,122.677,591.388,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">t</text>
+<text font="Arial-BoldMT" bbox="591.388,122.677,596.966,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">i</text>
+<text font="Arial-BoldMT" bbox="596.966,122.677,609.225,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">o</text>
+<text font="Arial-BoldMT" bbox="609.225,122.677,621.484,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">n</text>
+<text font="Arial-BoldMT" bbox="621.484,122.677,632.640,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">a</text>
+<text font="Arial-BoldMT" bbox="632.640,122.677,638.218,142.741" colourspace="DeviceGray" ncolour="0" size="20.064">l</text>
+<text font="Arial-BoldMT" bbox="638.117,122.677,643.695,142.741" colourspace="DeviceGray" ncolour="0" size="20.064"> </text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="66.456,372.327,174.461,392.391" size="20.064" unique_id="2">Complexity <textline bbox="66.456,372.327,174.461,392.391" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">Complexity </textline>
+</normal_text>
+<normal_text id="4" bbox="66.456,305.102,517.196,325.142" size="20.04" unique_id="4">shorter the program the less complex the algorithm <textline bbox="66.456,305.102,517.196,325.142" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">shorter the program the less complex the algorithm </textline>
+</normal_text>
+<normal_text id="8" bbox="66.456,170.682,390.054,190.722" size="20.04" unique_id="8">of images -&gt; Statistical Complexity <textline bbox="66.456,170.682,390.054,190.722">of images -&gt; Statistical Complexity <text font="ArialMT" bbox="66.456,170.682,77.598,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="77.598,170.682,83.169,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">f</text>
+<text font="ArialMT" bbox="83.169,170.682,88.740,190.722" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="88.540,170.682,92.989,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="92.989,170.682,109.682,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="109.682,170.682,120.825,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="120.825,170.682,131.967,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">g</text>
+<text font="ArialMT" bbox="131.967,170.682,143.109,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="143.109,170.682,153.129,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="153.209,170.682,158.780,190.722" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="158.640,170.682,165.313,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">-</text>
+<text font="ArialMT" bbox="165.360,170.682,177.063,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">&gt;</text>
+<text font="ArialMT" bbox="177.120,170.682,182.691,190.722" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="182.400,170.682,195.767,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">S</text>
+<text font="Arial-BoldMT" bbox="195.767,170.682,202.440,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="202.440,170.682,213.582,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="213.582,170.682,220.256,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="220.296,170.682,225.867,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="225.867,170.682,237.009,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="Arial-BoldMT" bbox="237.009,170.682,243.682,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="243.682,170.682,249.253,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="249.253,170.682,260.396,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="Arial-BoldMT" bbox="260.396,170.682,271.538,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="Arial-BoldMT" bbox="271.418,170.682,276.989,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="276.989,170.682,282.560,190.722" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="Arial-BoldMT" bbox="282.099,170.682,296.568,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">C</text>
+<text font="Arial-BoldMT" bbox="296.568,170.682,308.812,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="308.812,170.682,326.628,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="Arial-BoldMT" bbox="326.628,170.682,338.872,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="Arial-BoldMT" bbox="338.872,170.682,344.443,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="344.383,170.682,355.526,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="355.526,170.682,366.668,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">x</text>
+<text font="Arial-BoldMT" bbox="366.668,170.682,372.239,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="372.239,170.682,378.912,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="378.912,170.682,390.054,190.722" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+</textline>
+</normal_text>
+<normal_text id="10" bbox="66.456,103.452,268.978,123.492" size="20.04" unique_id="10">Complexity = run time <textline bbox="66.456,103.452,268.978,123.492">Complexity = run time <text font="Arial-BoldMT" bbox="66.456,103.452,80.925,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">C</text>
+<text font="Arial-BoldMT" bbox="80.925,103.452,93.169,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="Arial-BoldMT" bbox="93.169,103.452,110.985,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="Arial-BoldMT" bbox="110.985,103.452,123.229,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="Arial-BoldMT" bbox="123.229,103.452,128.800,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="Arial-BoldMT" bbox="128.740,103.452,139.883,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="Arial-BoldMT" bbox="139.883,103.452,151.025,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">x</text>
+<text font="Arial-BoldMT" bbox="151.025,103.452,156.596,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="Arial-BoldMT" bbox="156.596,103.452,163.269,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="Arial-BoldMT" bbox="163.269,103.452,174.411,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+<text font="ArialMT" bbox="179.760,103.452,191.463,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">=</text>
+<text font="ArialMT" bbox="191.463,103.452,197.034,123.492" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="196.794,103.452,203.467,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="203.467,103.452,214.610,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="214.650,103.452,225.792,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="225.792,103.452,231.363,123.492" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="231.203,103.452,236.774,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="236.774,103.452,241.223,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="241.223,103.452,257.916,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="257.836,103.452,268.978,123.492" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+</textline>
+</normal_text>
+</enlisting></page>
+<page id="36" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[125.9035908045977, 441.5960643678161, 602.1136183908046, 495.5946505747128]">
+<title id="0" bbox="267.940,443.980,452.116,479.980" size="36.0" unique_id="0">References <textline bbox="267.940,443.980,452.116,479.980" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">References </textline>
+</title>
+<enlisting bbox="61.224,88.344,661.797,411.94" unique_id="['1', ' 2', '3']">&#8226; J.P.W. Pluim, J.B.A. Maintz, M.A. Viergever, &#8220;Mutual  
+Information Based Registration of Medical Images: A  
+Survey&#8221;, IEEE Trans on Medical Imaging, Vol X No Y,  
+2003 &#8226; G.A. Tourassi, E.D. Frederick, M.K. Markey, and C.E.  
+Floyd, &#8220;Application of the Mutual Information Criterion  
+for Feature Selection in Computer-aided Diagnosis&#8221;,  
+Medical Physics, Vol 28, No 12, Dec. 2001 
+&#8226; M.D. Esteban and D. Morales, &#8220;A Summary of  <normal_text id="1" bbox="61.224,301.510,659.472,411.940" size="24.006" unique_id="1">&#8226; J.P.W. Pluim, J.B.A. Maintz, M.A. Viergever, &#8220;Mutual  
+Information Based Registration of Medical Images: A  
+Survey&#8221;, IEEE Trans on Medical Imaging, Vol X No Y,  
+2003 <textline bbox="61.224,387.940,645.768,411.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; J.P.W. Pluim, J.B.A. Maintz, M.A. Viergever, &#8220;Mutual  </textline>
+<textline bbox="88.224,359.135,652.524,383.159" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Information Based Registration of Medical Images: A  </textline>
+<textline bbox="88.224,330.310,659.472,354.310" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Survey&#8221;, IEEE Trans on Medical Imaging, Vol X No Y,  </textline>
+<textline bbox="88.224,301.510,141.528,325.510" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">2003 </textline>
+</normal_text>
+<normal_text id="2" bbox="61.224,145.970,661.797,290.950" size="24.0048" unique_id="2">&#8226; G.A. Tourassi, E.D. Frederick, M.K. Markey, and C.E.  
+Floyd, &#8220;Application of the Mutual Information Criterion  
+for Feature Selection in Computer-aided Diagnosis&#8221;,  
+Medical Physics, Vol 28, No 12, Dec. 2001 
+&#8226; M.D. Esteban and D. Morales, &#8220;A Summary of  <textline bbox="61.224,266.950,657.696,290.950" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; G.A. Tourassi, E.D. Frederick, M.K. Markey, and C.E.  </textline>
+<textline bbox="88.224,238.145,661.797,262.169" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Floyd, &#8220;Application of the Mutual Information Criterion  </textline>
+<textline bbox="88.224,209.330,648.724,233.330" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">for Feature Selection in Computer-aided Diagnosis&#8221;,  </textline>
+<textline bbox="88.224,180.530,540.360,204.530" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Medical Physics, Vol 28, No 12, Dec. 2001 </textline>
+<textline bbox="61.224,145.970,581.592,169.970" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; M.D. Esteban and D. Morales, &#8220;A Summary of  </textline>
+</normal_text>
+<normal_text id="3" bbox="88.224,88.344,612.235,141.189" size="24.012" unique_id="3">Entropy Statistics&#8221;, Kybernetika. Vol. 31, N.4, pp.  
+337-346. (1995) <textline bbox="88.224,117.165,612.235,141.189" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Entropy Statistics&#8221;, Kybernetika. Vol. 31, N.4, pp.  </textline>
+<textline bbox="88.224,88.344,259.076,112.344" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">337-346. (1995) </textline>
+</normal_text>
+</enlisting></page>
+</pages>

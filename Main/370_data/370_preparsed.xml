@@ -1,0 +1,744 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="105.670,397.708,638.337,437.668" size="39.96">Microcomb Fabrication Update <textline bbox="105.670,397.708,638.337,437.668" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="39.960" colourspace="Pattern">Microcomb Fabrication Update </textline>
+</textbox>
+<textbox id="1" bbox="161.110,353.827,595.493,373.891" size="20.064">For Constellation-X Facility Science Team Meeting <textline bbox="161.110,353.827,595.493,373.891" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="20.064" colourspace="Pattern">For Constellation-X Facility Science Team Meeting </textline>
+</textbox>
+<textbox id="2" bbox="166.560,237.905,537.082,261.929" size="24.024">Space Nanotechnology Laboratory <textline bbox="166.560,237.905,537.082,261.929" font="ArialMT" ncolour="0" size="24.024" colourspace="Pattern">Space Nanotechnology Laboratory </textline>
+</textbox>
+<textbox id="3" bbox="141.360,151.490,561.216,204.290" size="24.0">Yanxia Sun, Ralf Heilmann, Carl Chen,  
+Craig Forest, Mark Schattenburg <textline bbox="141.360,180.290,561.216,204.290" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Yanxia Sun, Ralf Heilmann, Carl Chen,  </textline>
+<textline bbox="177.500,151.490,525.404,175.490" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Craig Forest, Mark Schattenburg </textline>
+</textbox>
+<textbox id="4" bbox="249.500,93.864,466.820,117.864" size="24.0">September 18, 2002 <textline bbox="249.500,93.864,466.820,117.864" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">September 18, 2002 </textline>
+</textbox>
+<figure name="Image19" bbox="0.000,504.600,49.680,540.000" src="Image19.63x45.bmp" width="49" height="35">
+</figure>
+<figure name="Image20" bbox="664.920,518.040,720.000,540.000" src="Image20.70x28.bmp" width="55" height="21">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="79.224,428.422,633.119,456.382" size="27.96">Microcomb for Precision X-ray Foils Assembly <textline bbox="79.224,428.422,633.119,456.382" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="27.960" colourspace="Pattern">Microcomb for Precision X-ray Foils Assembly </textline>
+</textbox>
+<textbox id="1" bbox="21.600,311.612,257.337,355.652" size="20.04">&#8226;Accuracy requirement for  
+reference comb; <textline bbox="21.600,335.612,257.337,355.652" font="ArialMT" ncolour="0" size="20.040" colourspace="Pattern">&#8226;Accuracy requirement for  </textline>
+<textline bbox="21.600,311.612,166.088,331.652" font="ArialMT" ncolour="0" size="20.040" colourspace="Pattern">reference comb; </textline>
+</textbox>
+<textbox id="2" bbox="21.600,239.582,285.620,283.671" size="20.052">&#8226;Previous fabrication process  
+and problem; <textline bbox="21.600,263.607,285.620,283.671" font="ArialMT" ncolour="0" size="20.064" colourspace="Pattern">&#8226;Previous fabrication process  </textline>
+<textline bbox="21.600,239.582,138.473,259.622" font="ArialMT" ncolour="0" size="20.040" colourspace="Pattern">and problem; </textline>
+</textbox>
+<textbox id="3" bbox="21.600,167.582,243.266,211.622" size="20.04">&#8226;New 2-mask fabrication  
+process. <textline bbox="21.600,191.582,243.266,211.622" font="ArialMT" ncolour="0" size="20.040" colourspace="Pattern">&#8226;New 2-mask fabrication  </textline>
+<textline bbox="21.600,167.582,97.491,187.622" font="ArialMT" ncolour="0" size="20.040" colourspace="Pattern">process. </textline>
+</textbox>
+<textbox id="4" bbox="21.600,95.560,245.594,139.602" size="20.04">&#8226;Future work: &#8220;Tall-teeth&#8221;  
+microcomb for SXT <textline bbox="21.600,119.562,245.594,139.602" font="ArialMT" ncolour="0" size="20.040" colourspace="Pattern">&#8226;Future work: &#8220;Tall-teeth&#8221;  </textline>
+<textline bbox="21.600,95.560,192.441,115.600" font="ArialMT" ncolour="0" size="20.040" colourspace="Pattern">microcomb for SXT </textline>
+</textbox>
+<textbox id="5" bbox="313.250,115.400,422.960,155.030" size="18.0">Reference  
+Comb&#8217;s Tooth <textline bbox="313.250,137.030,401.288,155.030" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">Reference  </textline>
+<textline bbox="313.250,115.400,422.960,133.400" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">Comb&#8217;s Tooth </textline>
+</textbox>
+<textbox id="6" bbox="577.300,265.450,700.006,305.050" size="18.0">Spring Comb&#8217;s  
+Tooth <textline bbox="577.300,287.050,700.006,305.050" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">Spring Comb&#8217;s  </textline>
+<textline bbox="577.300,265.450,621.472,283.450" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">Tooth </textline>
+</textbox>
+<figure name="Image31" bbox="312.000,28.080,720.000,396.000" src="Image31.jpg" width="408" height="367">
+</figure>
+<figure name="Image19" bbox="0.000,504.600,49.680,540.000" src="Image19.0.63x45.bmp" width="49" height="35">
+</figure>
+<figure name="Image20" bbox="664.920,518.040,720.000,540.000" src="Image20.0.70x28.bmp" width="55" height="21">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="121.220,453.552,643.569,481.512" size="27.96">Accuracy requirement for Reference Comb <textline bbox="121.220,453.552,643.569,481.512" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="27.960" colourspace="Pattern">Accuracy requirement for Reference Comb </textline>
+</textbox>
+<textbox id="1" bbox="15.720,354.455,211.972,378.479" size="24.024">Position Accuracy: <textline bbox="15.720,354.455,211.972,378.479" font="ArialMT" ncolour="0" size="24.024" colourspace="Pattern">Position Accuracy: </textline>
+</textbox>
+<textbox id="2" bbox="95.304,325.630,305.928,349.630" size="24.0">Better than 100 nm; <textline bbox="95.304,325.630,305.928,349.630" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Better than 100 nm; </textline>
+</textbox>
+<textbox id="3" bbox="15.720,268.030,160.872,292.030" size="24.0">Repeatability: <textline bbox="15.720,268.030,160.872,292.030" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Repeatability: </textline>
+</textbox>
+<textbox id="4" bbox="95.304,239.230,305.928,263.230" size="24.0">Better than 100 nm; <textline bbox="95.304,239.230,305.928,263.230" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Better than 100 nm; </textline>
+</textbox>
+<textbox id="5" bbox="15.720,152.810,215.688,205.610" size="24.0">Critical Dimension: 
+Not specified; <textline bbox="15.720,181.610,215.688,205.610" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Critical Dimension: </textline>
+<textline bbox="48.864,152.810,194.160,176.810" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Not specified; </textline>
+</textbox>
+<textbox id="6" bbox="330.290,187.430,472.292,205.430" size="18.0">Position Accuracy <textline bbox="330.290,187.430,472.292,205.430" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">Position Accuracy </textline>
+</textbox>
+<textbox id="7" bbox="539.860,187.430,684.598,205.430" size="18.0">Critical Dimension <textline bbox="539.860,187.430,684.598,205.430" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">Critical Dimension </textline>
+</textbox>
+<figure name="Image47" bbox="254.040,19.680,686.040,432.000" src="Image47.876x836.bmp" width="432" height="412">
+</figure>
+<figure name="Image19" bbox="0.000,504.600,49.680,540.000" src="Image19.1.63x45.bmp" width="49" height="35">
+</figure>
+<figure name="Image20" bbox="664.920,518.040,720.000,540.000" src="Image20.1.70x28.bmp" width="55" height="21">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="139.220,428.418,538.022,460.458" size="32.04">Previous Fabrication Process <textline bbox="139.220,428.418,538.022,460.458" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="32.040" colourspace="Pattern">Previous Fabrication Process </textline>
+</textbox>
+<textbox id="1" bbox="72.264,351.467,276.527,389.407" size="15.972000000000001">(a) DSP silicon wafer,  
+Thermal diffusion 2 mm SiO2; <textline bbox="94.464,373.423,253.967,389.407" font="ArialMT" ncolour="0" size="15.984" colourspace="Pattern">(a) DSP silicon wafer,  </textline>
+<textline bbox="72.264,351.467,276.527,370.158">Thermal diffusion 2 mm SiO2; <text font="ArialMT" bbox="72.264,354.198,82.016,370.158" colourspace="Pattern" ncolour="0" size="15.960">T</text>
+<text font="ArialMT" bbox="82.016,354.198,90.889,370.158" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="ArialMT" bbox="90.889,354.198,99.763,370.158" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="ArialMT" bbox="99.763,354.198,105.078,370.158" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="ArialMT" bbox="105.030,354.198,118.325,370.158" colourspace="Pattern" ncolour="0" size="15.960">m</text>
+<text font="ArialMT" bbox="118.325,354.198,127.198,370.158" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="127.198,354.198,130.741,370.158" colourspace="Pattern" ncolour="0" size="15.960">l</text>
+<text font="ArialMT" bbox="130.821,354.198,135.258,370.158" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="135.370,354.198,144.244,370.158" colourspace="Pattern" ncolour="0" size="15.960">d</text>
+<text font="ArialMT" bbox="144.244,354.198,147.787,370.158" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="147.835,354.198,152.271,370.158" colourspace="Pattern" ncolour="0" size="15.960">f</text>
+<text font="ArialMT" bbox="152.032,354.198,156.469,370.158" colourspace="Pattern" ncolour="0" size="15.960">f</text>
+<text font="ArialMT" bbox="156.469,354.198,165.343,370.158" colourspace="Pattern" ncolour="0" size="15.960">u</text>
+<text font="ArialMT" bbox="165.343,354.198,173.323,370.158" colourspace="Pattern" ncolour="0" size="15.960">s</text>
+<text font="ArialMT" bbox="173.371,354.198,176.914,370.158" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="176.962,354.198,185.835,370.158" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="ArialMT" bbox="185.835,354.198,194.709,370.158" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="194.709,354.198,199.146,370.158" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="199.034,354.198,207.908,370.158" colourspace="Pattern" ncolour="0" size="15.960">2</text>
+<text font="ArialMT" bbox="207.908,354.198,212.345,370.158" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="SymbolMT" bbox="212.450,354.103,221.643,370.063" colourspace="Pattern" ncolour="0" size="15.960">m</text>
+<text font="ArialMT" bbox="221.570,354.198,234.865,370.158" colourspace="Pattern" ncolour="0" size="15.960">m</text>
+<text font="ArialMT" bbox="234.865,354.198,239.302,370.158" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="239.557,354.198,250.202,370.158" colourspace="Pattern" ncolour="0" size="15.960">S</text>
+<text font="ArialMT" bbox="250.202,354.198,253.745,370.158" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="253.825,354.198,266.242,370.158" colourspace="Pattern" ncolour="0" size="15.960">O</text>
+<text font="ArialMT" bbox="266.210,351.467,272.148,362.147" colourspace="Pattern" ncolour="0" size="10.680">2</text>
+<text font="ArialMT" bbox="272.090,354.198,276.527,370.158" colourspace="Pattern" ncolour="0" size="15.960">;</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="343.300,371.288,685.748,387.248" size="15.96">(d) DIRE with quartz handle-wafer, etch through; <textline bbox="343.300,371.288,685.748,387.248" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">(d) DIRE with quartz handle-wafer, etch through; </textline>
+</textbox>
+<textbox id="3" bbox="86.136,281.403,269.409,297.387" size="15.984">(b) Contact print thick PR; <textline bbox="86.136,281.403,269.409,297.387" font="ArialMT" ncolour="0" size="15.984" colourspace="Pattern">(b) Contact print thick PR; </textline>
+</textbox>
+<textbox id="4" bbox="458.760,279.200,512.724,297.200" size="18.0">Quartz <textline bbox="458.760,279.200,512.724,297.200" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">Quartz </textline>
+</textbox>
+<textbox id="5" bbox="322.940,239.388,654.653,255.348" size="15.96">(e) Strip PR, BOE, Extract finished microcomb; <textline bbox="322.940,239.388,654.653,255.348" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">(e) Strip PR, BOE, Extract finished microcomb; </textline>
+</textbox>
+<textbox id="6" bbox="123.770,164.652,220.514,183.367" size="15.984">(c) Etch SiO2; <textline bbox="123.770,164.652,220.514,183.367">(c) Etch SiO2; <text font="ArialMT" bbox="123.770,167.383,129.093,183.367" colourspace="Pattern" ncolour="0" size="15.984">(</text>
+<text font="ArialMT" bbox="129.093,167.383,137.085,183.367" colourspace="Pattern" ncolour="0" size="15.984">c</text>
+<text font="ArialMT" bbox="137.085,167.383,142.407,183.367" colourspace="Pattern" ncolour="0" size="15.984">)</text>
+<text font="ArialMT" bbox="142.407,167.383,146.851,183.367" colourspace="Pattern" ncolour="0" size="15.984"> </text>
+<text font="ArialMT" bbox="147.027,167.383,157.688,183.367" colourspace="Pattern" ncolour="0" size="15.984">E</text>
+<text font="ArialMT" bbox="157.688,167.383,162.132,183.367" colourspace="Pattern" ncolour="0" size="15.984">t</text>
+<text font="ArialMT" bbox="162.132,167.383,170.124,183.367" colourspace="Pattern" ncolour="0" size="15.984">c</text>
+<text font="ArialMT" bbox="170.172,167.383,179.059,183.367" colourspace="Pattern" ncolour="0" size="15.984">h</text>
+<text font="ArialMT" bbox="179.059,167.383,183.502,183.367" colourspace="Pattern" ncolour="0" size="15.984"> </text>
+<text font="ArialMT" bbox="183.502,167.383,194.164,183.367" colourspace="Pattern" ncolour="0" size="15.984">S</text>
+<text font="ArialMT" bbox="194.164,167.383,197.712,183.367" colourspace="Pattern" ncolour="0" size="15.984">i</text>
+<text font="ArialMT" bbox="197.760,167.383,210.195,183.367" colourspace="Pattern" ncolour="0" size="15.984">O</text>
+<text font="ArialMT" bbox="210.190,164.652,216.141,175.356" colourspace="Pattern" ncolour="0" size="10.704">2</text>
+<text font="ArialMT" bbox="216.070,167.383,220.514,183.367" colourspace="Pattern" ncolour="0" size="15.984">;</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="46.080,68.748,599.232,86.748" size="18.0">&#8226;200 nm accuracy has been achieved based on 4 inch wafer process. <textline bbox="46.080,68.748,599.232,86.748" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">&#8226;200 nm accuracy has been achieved based on 4 inch wafer process. </textline>
+</textbox>
+<textbox id="8" bbox="380.950,116.627,590.576,135.318" size="15.96">SiO2    Si          PR  Quartz       <textline bbox="380.950,116.627,590.576,135.318">SiO2    Si          PR  Quartz       <text font="ArialMT" bbox="380.950,119.358,391.595,135.318" colourspace="Pattern" ncolour="0" size="15.960">S</text>
+<text font="ArialMT" bbox="391.595,119.358,395.138,135.318" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="395.218,119.358,407.635,135.318" colourspace="Pattern" ncolour="0" size="15.960">O</text>
+<text font="ArialMT" bbox="407.590,116.627,413.528,127.307" colourspace="Pattern" ncolour="0" size="10.680">2</text>
+<text font="ArialMT" bbox="413.475,116.627,416.444,127.307" colourspace="Pattern" ncolour="0" size="10.680"> </text>
+<text font="ArialMT" bbox="416.444,116.627,419.413,127.307" colourspace="Pattern" ncolour="0" size="10.680"> </text>
+<text font="ArialMT" bbox="419.466,116.627,422.435,127.307" colourspace="Pattern" ncolour="0" size="10.680"> </text>
+<text font="ArialMT" bbox="422.435,116.627,425.404,127.307" colourspace="Pattern" ncolour="0" size="10.680"> </text>
+<text font="ArialMT" bbox="425.470,119.358,436.115,135.318" colourspace="Pattern" ncolour="0" size="15.960">S</text>
+<text font="ArialMT" bbox="436.115,119.358,439.658,135.318" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="439.738,119.358,444.175,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="444.063,119.358,448.500,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="448.612,119.358,453.049,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="453.049,119.358,457.486,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="457.597,119.358,462.034,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="462.034,119.358,466.471,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="466.583,119.358,471.020,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="471.020,119.358,475.457,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="475.568,119.358,480.005,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="480.005,119.358,484.442,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="484.554,119.358,495.199,135.318" colourspace="Pattern" ncolour="0" size="15.960">P</text>
+<text font="ArialMT" bbox="495.199,119.358,506.722,135.318" colourspace="Pattern" ncolour="0" size="15.960">R</text>
+<text font="ArialMT" bbox="506.722,119.358,511.159,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="511.079,119.358,515.516,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="515.628,119.358,528.045,135.318" colourspace="Pattern" ncolour="0" size="15.960">Q</text>
+<text font="ArialMT" bbox="527.981,119.358,536.855,135.318" colourspace="Pattern" ncolour="0" size="15.960">u</text>
+<text font="ArialMT" bbox="536.855,119.358,545.729,135.318" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="545.729,119.358,551.043,135.318" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="ArialMT" bbox="551.043,119.358,555.480,135.318" colourspace="Pattern" ncolour="0" size="15.960">t</text>
+<text font="ArialMT" bbox="555.480,119.358,563.460,135.318" colourspace="Pattern" ncolour="0" size="15.960">z</text>
+<text font="ArialMT" bbox="563.460,119.358,567.897,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="568.168,119.358,572.605,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="572.717,119.358,577.154,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="577.154,119.358,581.591,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="581.702,119.358,586.139,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="586.139,119.358,590.576,135.318" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+</textline>
+</textbox>
+<figure name="Image19" bbox="0.000,504.600,49.680,540.000" src="Image19.2.63x45.bmp" width="49" height="35">
+</figure>
+<figure name="Image20" bbox="664.920,518.040,720.000,540.000" src="Image20.2.70x28.bmp" width="55" height="21">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="133.510,471.548,612.059,503.588" size="32.04">Deep Reactive Ion Etch for Silicon <textline bbox="133.510,471.548,612.059,503.588" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="32.040" colourspace="Pattern">Deep Reactive Ion Etch for Silicon </textline>
+</textbox>
+<textbox id="1" bbox="81.624,403.480,326.550,421.480" size="18.0">1. Substrate with etching mask <textline bbox="81.624,403.480,326.550,421.480" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">1. Substrate with etching mask </textline>
+</textbox>
+<textbox id="2" bbox="435.670,409.480,562.570,427.480" size="18.0">2. Etching circle <textline bbox="435.670,409.480,562.570,427.480" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">2. Etching circle </textline>
+</textbox>
+<textbox id="3" bbox="595.320,375.497,688.532,413.388" size="15.96">Fluorine-rich  
+ions (SF6) <textline bbox="595.320,397.428,688.532,413.388" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">Fluorine-rich  </textline>
+<textline bbox="595.320,375.497,665.915,394.188">ions (SF6) <text font="ArialMT" bbox="595.320,378.228,598.863,394.188" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="598.911,378.228,607.785,394.188" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="ArialMT" bbox="607.785,378.228,616.659,394.188" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="616.659,378.228,624.639,394.188" colourspace="Pattern" ncolour="0" size="15.960">s</text>
+<text font="ArialMT" bbox="624.702,378.228,629.139,394.188" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="629.028,378.228,634.342,394.188" colourspace="Pattern" ncolour="0" size="15.960">(</text>
+<text font="ArialMT" bbox="634.342,378.228,644.988,394.188" colourspace="Pattern" ncolour="0" size="15.960">S</text>
+<text font="ArialMT" bbox="644.988,378.228,654.739,394.188" colourspace="Pattern" ncolour="0" size="15.960">F</text>
+<text font="ArialMT" bbox="654.720,375.497,660.658,386.177" colourspace="Pattern" ncolour="0" size="10.680">6</text>
+<text font="ArialMT" bbox="660.600,378.228,665.915,394.188" colourspace="Pattern" ncolour="0" size="15.960">)</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="135.620,319.450,188.468,337.450" size="18.0">Silicon <textline bbox="135.620,319.450,188.468,337.450" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">Silicon </textline>
+</textbox>
+<textbox id="5" bbox="69.624,231.315,297.592,249.339" size="18.024">3. Polymer passivation circle <textline bbox="69.624,231.315,297.592,249.339" font="ArialMT" ncolour="0" size="18.024" colourspace="Pattern">3. Polymer passivation circle </textline>
+</textbox>
+<textbox id="6" bbox="453.700,235.570,580.600,253.570" size="18.0">4. Etching circle <textline bbox="453.700,235.570,580.600,253.570" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">4. Etching circle </textline>
+</textbox>
+<textbox id="7" bbox="266.500,168.178,369.378,203.338" size="15.96">C4F8  
+polymerization <textline bbox="301.540,184.647,337.529,203.338">C4F8  <text font="ArialMT" bbox="301.540,187.378,313.063,203.338" colourspace="Pattern" ncolour="0" size="15.960">C</text>
+<text font="ArialMT" bbox="313.080,184.647,319.018,195.327" colourspace="Pattern" ncolour="0" size="10.680">4</text>
+<text font="ArialMT" bbox="318.960,187.378,328.712,203.338" colourspace="Pattern" ncolour="0" size="15.960">F</text>
+<text font="ArialMT" bbox="328.680,184.647,334.618,195.327" colourspace="Pattern" ncolour="0" size="10.680">8</text>
+<text font="ArialMT" bbox="334.560,184.647,337.529,195.327" colourspace="Pattern" ncolour="0" size="10.680"> </text>
+</textline>
+<textline bbox="266.500,168.178,369.378,184.138" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">polymerization </textline>
+</textbox>
+<textbox id="8" bbox="619.320,165.447,712.532,203.338" size="15.96">Fluorine-rich  
+plasma (SF6) <textline bbox="619.320,187.378,712.532,203.338" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">Fluorine-rich  </textline>
+<textline bbox="619.320,165.447,712.235,184.138">plasma (SF6) <text font="ArialMT" bbox="619.320,168.178,628.194,184.138" colourspace="Pattern" ncolour="0" size="15.960">p</text>
+<text font="ArialMT" bbox="628.194,168.178,631.737,184.138" colourspace="Pattern" ncolour="0" size="15.960">l</text>
+<text font="ArialMT" bbox="631.785,168.178,640.659,184.138" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="640.659,168.178,648.639,184.138" colourspace="Pattern" ncolour="0" size="15.960">s</text>
+<text font="ArialMT" bbox="648.686,168.178,661.981,184.138" colourspace="Pattern" ncolour="0" size="15.960">m</text>
+<text font="ArialMT" bbox="661.981,168.178,670.855,184.138" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="670.855,168.178,675.292,184.138" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="675.292,168.178,680.606,184.138" colourspace="Pattern" ncolour="0" size="15.960">(</text>
+<text font="ArialMT" bbox="680.606,168.178,691.252,184.138" colourspace="Pattern" ncolour="0" size="15.960">S</text>
+<text font="ArialMT" bbox="691.252,168.178,701.003,184.138" colourspace="Pattern" ncolour="0" size="15.960">F</text>
+<text font="ArialMT" bbox="701.040,165.447,706.978,176.127" colourspace="Pattern" ncolour="0" size="10.680">6</text>
+<text font="ArialMT" bbox="706.920,168.178,712.235,184.138" colourspace="Pattern" ncolour="0" size="15.960">)</text>
+</textline>
+</textbox>
+<textbox id="9" bbox="135.740,31.056,448.396,49.218" size="18.0">Etch rate is about 1~5 mm per minute.  <textline bbox="135.740,31.056,448.396,49.218">Etch rate is about 1~5 mm per minute.  <text font="BCDEEE+Tahoma" bbox="135.740,31.218,145.838,49.218" colourspace="Pattern" ncolour="0" size="18.000">E</text>
+<text font="BCDEEE+Tahoma" bbox="145.838,31.218,151.850,49.218" colourspace="Pattern" ncolour="0" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="151.850,31.218,160.148,49.218" colourspace="Pattern" ncolour="0" size="18.000">c</text>
+<text font="BCDEEE+Tahoma" bbox="160.148,31.218,170.192,49.218" colourspace="Pattern" ncolour="0" size="18.000">h</text>
+<text font="BCDEEE+Tahoma" bbox="170.192,31.218,175.826,49.218" colourspace="Pattern" ncolour="0" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="175.700,31.218,182.180,49.218" colourspace="Pattern" ncolour="0" size="18.000">r</text>
+<text font="BCDEEE+Tahoma" bbox="181.820,31.218,191.270,49.218" colourspace="Pattern" ncolour="0" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="191.270,31.218,197.282,49.218" colourspace="Pattern" ncolour="0" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="197.282,31.218,206.750,49.218" colourspace="Pattern" ncolour="0" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="206.750,31.218,212.384,49.218" colourspace="Pattern" ncolour="0" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="212.528,31.218,216.650,49.218" colourspace="Pattern" ncolour="0" size="18.000">i</text>
+<text font="BCDEEE+Tahoma" bbox="216.650,31.218,224.678,49.218" colourspace="Pattern" ncolour="0" size="18.000">s</text>
+<text font="BCDEEE+Tahoma" bbox="224.678,31.218,230.312,49.218" colourspace="Pattern" ncolour="0" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="230.312,31.218,239.762,49.218" colourspace="Pattern" ncolour="0" size="18.000">a</text>
+<text font="BCDEEE+Tahoma" bbox="239.762,31.218,249.716,49.218" colourspace="Pattern" ncolour="0" size="18.000">b</text>
+<text font="BCDEEE+Tahoma" bbox="249.716,31.218,259.490,49.218" colourspace="Pattern" ncolour="0" size="18.000">o</text>
+<text font="BCDEEE+Tahoma" bbox="259.490,31.218,269.534,49.218" colourspace="Pattern" ncolour="0" size="18.000">u</text>
+<text font="BCDEEE+Tahoma" bbox="269.534,31.218,275.546,49.218" colourspace="Pattern" ncolour="0" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="275.546,31.218,281.180,49.218" colourspace="Pattern" ncolour="0" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="281.180,31.218,291.008,49.218" colourspace="Pattern" ncolour="0" size="18.000">1</text>
+<text font="BCDEEE+Tahoma" bbox="291.008,31.218,304.112,49.218" colourspace="Pattern" ncolour="0" size="18.000">~</text>
+<text font="BCDEEE+Tahoma" bbox="304.112,31.218,313.940,49.218" colourspace="Pattern" ncolour="0" size="18.000">5</text>
+<text font="BCDEEE+Tahoma" bbox="313.940,31.218,319.574,49.218" colourspace="Pattern" ncolour="0" size="18.000"> </text>
+<text font="SymbolMT" bbox="319.750,31.056,330.118,49.056" colourspace="Pattern" ncolour="0" size="18.000">m</text>
+<text font="BCDEEE+Tahoma" bbox="330.190,31.218,345.310,49.218" colourspace="Pattern" ncolour="0" size="18.000">m</text>
+<text font="BCDEEE+Tahoma" bbox="345.310,31.218,350.944,49.218" colourspace="Pattern" ncolour="0" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="350.836,31.218,360.790,49.218" colourspace="Pattern" ncolour="0" size="18.000">p</text>
+<text font="BCDEEE+Tahoma" bbox="360.790,31.218,370.258,49.218" colourspace="Pattern" ncolour="0" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="370.258,31.218,376.738,49.218" colourspace="Pattern" ncolour="0" size="18.000">r</text>
+<text font="BCDEEE+Tahoma" bbox="376.738,31.218,382.372,49.218" colourspace="Pattern" ncolour="0" size="18.000"> </text>
+<text font="BCDEEE+Tahoma" bbox="382.498,31.218,397.618,49.218" colourspace="Pattern" ncolour="0" size="18.000">m</text>
+<text font="BCDEEE+Tahoma" bbox="397.618,31.218,401.740,49.218" colourspace="Pattern" ncolour="0" size="18.000">i</text>
+<text font="BCDEEE+Tahoma" bbox="401.740,31.218,411.784,49.218" colourspace="Pattern" ncolour="0" size="18.000">n</text>
+<text font="BCDEEE+Tahoma" bbox="411.784,31.218,421.828,49.218" colourspace="Pattern" ncolour="0" size="18.000">u</text>
+<text font="BCDEEE+Tahoma" bbox="421.828,31.218,427.840,49.218" colourspace="Pattern" ncolour="0" size="18.000">t</text>
+<text font="BCDEEE+Tahoma" bbox="427.840,31.218,437.308,49.218" colourspace="Pattern" ncolour="0" size="18.000">e</text>
+<text font="BCDEEE+Tahoma" bbox="437.308,31.218,442.762,49.218" colourspace="Pattern" ncolour="0" size="18.000">.</text>
+<text font="BCDEEE+Tahoma" bbox="442.762,31.218,448.396,49.218" colourspace="Pattern" ncolour="0" size="18.000"> </text>
+</textline>
+</textbox>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="95.232,476.437,650.745,504.421" size="27.984">Long-term Deep Reactive Ion Etch for Silicon <textline bbox="95.232,476.437,650.745,504.421" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="27.984" colourspace="Pattern">Long-term Deep Reactive Ion Etch for Silicon </textline>
+</textbox>
+<textbox id="1" bbox="111.620,411.574,649.496,451.174" size="18.0">Thick Photoresist and oxide layer are required, which will introduce  
+big CD loss and low repeatability. <textline bbox="111.620,433.174,649.496,451.174" font="BCDEEE+Tahoma" ncolour="0" size="18.000" colourspace="Pattern">Thick Photoresist and oxide layer are required, which will introduce  </textline>
+<textline bbox="111.620,411.574,374.618,429.574" font="BCDEEE+Tahoma" ncolour="0" size="18.000" colourspace="Pattern">big CD loss and low repeatability. </textline>
+</textbox>
+<textbox id="2" bbox="403.270,281.062,425.236,299.062" size="18.0">PR <textline bbox="403.270,281.062,425.236,299.062" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="Pattern">PR </textline>
+</textbox>
+<textbox id="3" bbox="403.270,234.698,437.230,255.842" size="18.0">SiO2 <textline bbox="403.270,234.698,437.230,255.842">SiO2 <text font="TimesNewRomanPSMT" bbox="403.270,237.842,413.278,255.842" colourspace="Pattern" ncolour="0" size="18.000">S</text>
+<text font="TimesNewRomanPSMT" bbox="413.278,237.842,418.282,255.842" colourspace="Pattern" ncolour="0" size="18.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="418.282,237.842,431.278,255.842" colourspace="Pattern" ncolour="0" size="18.000">O</text>
+<text font="TimesNewRomanPSMT" bbox="431.230,234.698,437.230,246.698" colourspace="Pattern" ncolour="0" size="12.000">2</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="273.670,211.322,339.094,229.430" size="18.0">20.1 mm <textline bbox="273.670,211.322,339.094,229.430">20.1 mm <text font="ArialMT" bbox="273.670,211.430,283.678,229.430" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">2</text>
+<text font="ArialMT" bbox="283.678,211.430,293.686,229.430" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">0</text>
+<text font="ArialMT" bbox="293.596,211.430,298.600,229.430" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">.</text>
+<text font="ArialMT" bbox="298.600,211.430,308.608,229.430" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">1</text>
+<text font="ArialMT" bbox="308.608,211.430,313.612,229.430" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000"> </text>
+<text font="SymbolMT" bbox="313.630,211.322,323.998,229.322" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">m</text>
+<text font="ArialMT" bbox="324.100,211.430,339.094,229.430" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">m</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="43.200,245.057,65.182,263.081" size="18.024">PR <textline bbox="43.200,245.057,65.182,263.081" font="TimesNewRomanPSMT" ncolour="0" size="18.024" colourspace="Pattern">PR </textline>
+</textbox>
+<textbox id="6" bbox="43.200,133.893,77.196,155.042" size="18.0">SiO2 <textline bbox="43.200,133.893,77.196,155.042">SiO2 <text font="TimesNewRomanPSMT" bbox="43.200,137.042,53.208,155.042" colourspace="Pattern" ncolour="0" size="18.000">S</text>
+<text font="TimesNewRomanPSMT" bbox="53.208,137.042,58.212,155.042" colourspace="Pattern" ncolour="0" size="18.000">i</text>
+<text font="TimesNewRomanPSMT" bbox="58.212,137.042,71.208,155.042" colourspace="Pattern" ncolour="0" size="18.000">O</text>
+<text font="TimesNewRomanPSMT" bbox="71.184,133.893,77.196,145.917" colourspace="Pattern" ncolour="0" size="12.024">2</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="43.200,93.816,94.248,111.816" size="18.0">Silicon <textline bbox="43.200,93.816,94.248,111.816" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="Pattern">Silicon </textline>
+</textbox>
+<textbox id="8" bbox="136.750,110.012,201.610,128.012" size="18.0">6.07 mm  <textline bbox="136.750,110.012,201.610,128.012">6.07 mm  <text font="TimesNewRomanPSMT" bbox="136.750,110.012,145.750,128.012" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">6</text>
+<text font="TimesNewRomanPSMT" bbox="145.750,110.012,150.250,128.012" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">.</text>
+<text font="TimesNewRomanPSMT" bbox="150.286,110.012,159.286,128.012" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">0</text>
+<text font="TimesNewRomanPSMT" bbox="159.286,110.012,168.286,128.012" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">7</text>
+<text font="TimesNewRomanPSMT" bbox="168.286,110.012,172.786,128.012" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000"> </text>
+<text font="SymbolMT" bbox="172.750,110.012,183.118,128.012" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="183.190,110.012,197.194,128.012" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">m</text>
+<text font="TimesNewRomanPSMT" bbox="197.110,110.012,201.610,128.012" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000"> </text>
+</textline>
+</textbox>
+<textbox id="9" bbox="489.840,169.442,555.234,187.550" size="18.0">15.4 mm <textline bbox="489.840,169.442,555.234,187.550">15.4 mm <text font="ArialMT" bbox="489.840,169.550,499.848,187.550" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">1</text>
+<text font="ArialMT" bbox="499.848,169.550,509.856,187.550" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">5</text>
+<text font="ArialMT" bbox="509.766,169.550,514.770,187.550" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">.</text>
+<text font="ArialMT" bbox="514.770,169.550,524.778,187.550" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">4</text>
+<text font="ArialMT" bbox="524.778,169.550,529.782,187.550" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000"> </text>
+<text font="SymbolMT" bbox="529.800,169.442,540.168,187.442" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">m</text>
+<text font="ArialMT" bbox="540.240,169.550,555.234,187.550" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">m</text>
+</textline>
+</textbox>
+<textbox id="10" bbox="619.320,134.642,670.368,152.642" size="18.0">Silicon <textline bbox="619.320,134.642,670.368,152.642" font="TimesNewRomanPSMT" ncolour="0" size="18.000" colourspace="Pattern">Silicon </textline>
+</textbox>
+<textbox id="11" bbox="61.224,53.004,255.156,71.004" size="18.0">Thick Photoresist Profile <textline bbox="61.224,53.004,255.156,71.004" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">Thick Photoresist Profile </textline>
+</textbox>
+<textbox id="12" bbox="385.270,33.900,693.268,73.500" size="18.0">After 4.5 hour Deep Reactive Ion Etch  
+for Silicon <textline bbox="385.270,55.500,693.268,73.500" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">After 4.5 hour Deep Reactive Ion Etch  </textline>
+<textline bbox="385.270,33.900,464.200,51.900" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">for Silicon </textline>
+</textbox>
+<figure name="Image84" bbox="360.000,84.000,708.000,378.000" src="Image84.jpg" width="348" height="294">
+</figure>
+<figure name="Image87" bbox="30.000,84.000,348.000,378.000" src="Image87.jpg" width="318" height="294">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="77.232,470.437,632.353,498.421" size="27.984">Long-term Deep Reactive Ion Etch for Silicon <textline bbox="77.232,470.437,632.353,498.421" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="27.984" colourspace="Pattern">Long-term Deep Reactive Ion Etch for Silicon </textline>
+</textbox>
+<textbox id="1" bbox="87.480,433.876,611.840,449.836" size="15.96">&#8226;The effect from angular ion distribution is amplified when etching deeper. <textline bbox="87.480,433.876,611.840,449.836">&#8226;The effect from angular ion distribution is amplified when etching deeper. <text font="BCDFEE+Tahoma" bbox="87.480,433.876,94.742,449.836" colourspace="Pattern" ncolour="0" size="15.960">&#8226;</text>
+<text font="BCDEEE+Tahoma" bbox="94.704,433.876,104.025,449.836" colourspace="Pattern" ncolour="0" size="15.960">T</text>
+<text font="BCDEEE+Tahoma" bbox="104.025,433.876,112.930,449.836" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="112.930,433.876,121.325,449.836" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="121.325,433.876,126.321,449.836" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="126.369,433.876,134.764,449.836" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="134.764,433.876,139.839,449.836" colourspace="Pattern" ncolour="0" size="15.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="139.695,433.876,144.771,449.836" colourspace="Pattern" ncolour="0" size="15.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="144.611,433.876,153.006,449.836" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="153.006,433.876,160.363,449.836" colourspace="Pattern" ncolour="0" size="15.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="160.363,433.876,165.694,449.836" colourspace="Pattern" ncolour="0" size="15.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="165.614,433.876,170.610,449.836" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="170.753,433.876,175.829,449.836" colourspace="Pattern" ncolour="0" size="15.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="175.669,433.876,181.415,449.836" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="181.303,433.876,189.969,449.836" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="189.969,433.876,203.376,449.836" colourspace="Pattern" ncolour="0" size="15.960">m</text>
+<text font="BCDEEE+Tahoma" bbox="203.376,433.876,208.371,449.836" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="208.770,433.876,217.149,449.836" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="217.149,433.876,226.055,449.836" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="226.055,433.876,234.881,449.836" colourspace="Pattern" ncolour="0" size="15.960">g</text>
+<text font="BCDEEE+Tahoma" bbox="234.913,433.876,243.818,449.836" colourspace="Pattern" ncolour="0" size="15.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="243.818,433.876,247.473,449.836" colourspace="Pattern" ncolour="0" size="15.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="247.393,433.876,255.772,449.836" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="255.772,433.876,261.518,449.836" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="261.518,433.876,266.513,449.836" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="266.513,433.876,270.168,449.836" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="270.072,433.876,278.739,449.836" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="278.739,433.876,287.644,449.836" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="287.597,433.876,292.592,449.836" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="292.736,433.876,301.562,449.836" colourspace="Pattern" ncolour="0" size="15.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="301.593,433.876,305.248,449.836" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="305.200,433.876,312.319,449.836" colourspace="Pattern" ncolour="0" size="15.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="312.319,433.876,317.649,449.836" colourspace="Pattern" ncolour="0" size="15.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="317.553,433.876,323.299,449.836" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="323.299,433.876,326.954,449.836" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="326.954,433.876,335.780,449.836" colourspace="Pattern" ncolour="0" size="15.960">b</text>
+<text font="BCDEEE+Tahoma" bbox="335.780,433.876,344.685,449.836" colourspace="Pattern" ncolour="0" size="15.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="344.685,433.876,350.016,449.836" colourspace="Pattern" ncolour="0" size="15.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="349.952,433.876,353.607,449.836" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="353.559,433.876,362.226,449.836" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="362.226,433.876,371.131,449.836" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="371.083,433.876,376.079,449.836" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="376.462,433.876,380.117,449.836" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="380.069,433.876,387.187,449.836" colourspace="Pattern" ncolour="0" size="15.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="387.187,433.876,392.182,449.836" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="392.182,433.876,400.561,449.836" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="400.561,433.876,413.968,449.836" colourspace="Pattern" ncolour="0" size="15.960">m</text>
+<text font="BCDEEE+Tahoma" bbox="414.016,433.876,422.842,449.836" colourspace="Pattern" ncolour="0" size="15.960">p</text>
+<text font="BCDEEE+Tahoma" bbox="422.874,433.876,426.528,449.836" colourspace="Pattern" ncolour="0" size="15.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="426.480,433.876,430.135,449.836" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="430.087,433.876,435.163,449.836" colourspace="Pattern" ncolour="0" size="15.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="435.163,433.876,438.818,449.836" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="438.722,433.876,447.117,449.836" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="447.117,433.876,455.943,449.836" colourspace="Pattern" ncolour="0" size="15.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="455.991,433.876,460.986,449.836" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="461.130,433.876,472.972,449.836" colourspace="Pattern" ncolour="0" size="15.960">w</text>
+<text font="BCDEEE+Tahoma" bbox="472.972,433.876,481.878,449.836" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="481.878,433.876,490.273,449.836" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="490.273,433.876,499.178,449.836" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="499.178,433.876,504.174,449.836" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="504.174,433.876,512.569,449.836" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="512.569,433.876,517.899,449.836" colourspace="Pattern" ncolour="0" size="15.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="517.899,433.876,525.257,449.836" colourspace="Pattern" ncolour="0" size="15.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="525.257,433.876,534.163,449.836" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="534.083,433.876,537.738,449.836" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="537.690,433.876,546.595,449.836" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="546.595,433.876,555.421,449.836" colourspace="Pattern" ncolour="0" size="15.960">g</text>
+<text font="BCDEEE+Tahoma" bbox="555.421,433.876,560.417,449.836" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="560.481,433.876,569.307,449.836" colourspace="Pattern" ncolour="0" size="15.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="569.338,433.876,577.733,449.836" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="577.733,433.876,586.128,449.836" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="586.128,433.876,594.954,449.836" colourspace="Pattern" ncolour="0" size="15.960">p</text>
+<text font="BCDEEE+Tahoma" bbox="595.002,433.876,603.397,449.836" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="603.397,433.876,609.143,449.836" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="607.004,433.876,611.840,449.836" colourspace="Pattern" ncolour="0" size="15.960">.</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="109.220,371.075,148.206,389.099" size="18.024">Ions: <textline bbox="109.220,371.075,148.206,389.099" font="ArialMT" ncolour="0" size="18.024" colourspace="Pattern">Ions: </textline>
+</textbox>
+<textbox id="3" bbox="118.630,269.854,213.625,283.894" size="14.04">Protective layer <textline bbox="118.630,269.854,213.625,283.894" font="BCDEEE+Tahoma" ncolour="0" size="14.040" colourspace="Pattern">Protective layer </textline>
+</textbox>
+<textbox id="4" bbox="144.790,219.434,187.514,233.474" size="14.04">Siilicon <textline bbox="144.790,219.434,187.514,233.474" font="BCDEEE+Tahoma" ncolour="0" size="14.040" colourspace="Pattern">Siilicon </textline>
+</textbox>
+<figure name="Image103" bbox="384.000,87.960,680.520,384.000" src="Image103.jpg" width="296" height="296">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="127.220,458.402,603.596,482.402" size="24.0">Long-term Deep Reactive Ion Etch for Silicon <textline bbox="127.220,458.402,603.596,482.402" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="24.000" colourspace="Pattern">Long-term Deep Reactive Ion Etch for Silicon </textline>
+</textbox>
+<textbox id="1" bbox="93.744,399.636,368.094,415.596" size="15.96">&#8226;Rough sidewall surface if overetching; <textline bbox="93.744,399.636,368.094,415.596">&#8226;Rough sidewall surface if overetching; <text font="BCDFEE+Tahoma" bbox="93.744,399.636,101.006,415.596" colourspace="Pattern" ncolour="0" size="15.960">&#8226;</text>
+<text font="BCDEEE+Tahoma" bbox="100.940,399.636,110.851,415.596" colourspace="Pattern" ncolour="0" size="15.960">R</text>
+<text font="BCDEEE+Tahoma" bbox="110.660,399.636,119.326,415.596" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="119.326,399.636,128.232,415.596" colourspace="Pattern" ncolour="0" size="15.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="128.184,399.636,137.010,415.596" colourspace="Pattern" ncolour="0" size="15.960">g</text>
+<text font="BCDEEE+Tahoma" bbox="137.042,399.636,145.947,415.596" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="145.947,399.636,150.943,415.596" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="150.847,399.636,157.965,415.596" colourspace="Pattern" ncolour="0" size="15.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="157.965,399.636,161.620,415.596" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="161.524,399.636,170.350,415.596" colourspace="Pattern" ncolour="0" size="15.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="170.382,399.636,178.777,415.596" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="178.777,399.636,190.619,415.596" colourspace="Pattern" ncolour="0" size="15.960">w</text>
+<text font="BCDEEE+Tahoma" bbox="190.539,399.636,198.918,415.596" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="198.918,399.636,202.573,415.596" colourspace="Pattern" ncolour="0" size="15.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="202.573,399.636,206.228,415.596" colourspace="Pattern" ncolour="0" size="15.960">l</text>
+<text font="BCDEEE+Tahoma" bbox="206.132,399.636,211.128,415.596" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="211.271,399.636,218.390,415.596" colourspace="Pattern" ncolour="0" size="15.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="218.390,399.636,227.295,415.596" colourspace="Pattern" ncolour="0" size="15.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="227.231,399.636,232.977,415.596" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="232.977,399.636,238.052,415.596" colourspace="Pattern" ncolour="0" size="15.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="237.797,399.636,246.176,415.596" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="246.176,399.636,253.534,415.596" colourspace="Pattern" ncolour="0" size="15.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="253.534,399.636,261.929,415.596" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="261.929,399.636,266.924,415.596" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="267.068,399.636,270.722,415.596" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="270.675,399.636,275.750,415.596" colourspace="Pattern" ncolour="0" size="15.960">f</text>
+<text font="BCDEEE+Tahoma" bbox="275.750,399.636,280.745,415.596" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="280.857,399.636,289.523,415.596" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="289.380,399.636,297.328,415.596" colourspace="Pattern" ncolour="0" size="15.960">v</text>
+<text font="BCDEEE+Tahoma" bbox="297.184,399.636,305.579,415.596" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="305.579,399.636,311.325,415.596" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="311.229,399.636,319.624,415.596" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="319.624,399.636,324.955,415.596" colourspace="Pattern" ncolour="0" size="15.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="324.955,399.636,332.312,415.596" colourspace="Pattern" ncolour="0" size="15.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="332.232,399.636,341.138,415.596" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="341.138,399.636,344.793,415.596" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="344.713,399.636,353.619,415.596" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="353.619,399.636,362.445,415.596" colourspace="Pattern" ncolour="0" size="15.960">g</text>
+<text font="BCDEEE+Tahoma" bbox="362.445,399.636,368.094,415.596" colourspace="Pattern" ncolour="0" size="15.960">;</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="411.670,399.516,701.330,415.476" size="15.96">&#8226;Backside erosion when etching through; <textline bbox="411.670,399.516,701.330,415.476">&#8226;Backside erosion when etching through; <text font="BCDFEE+Tahoma" bbox="411.670,399.516,418.932,415.476" colourspace="Pattern" ncolour="0" size="15.960">&#8226;</text>
+<text font="BCDEEE+Tahoma" bbox="418.870,399.516,428.270,415.476" colourspace="Pattern" ncolour="0" size="15.960">B</text>
+<text font="BCDEEE+Tahoma" bbox="428.334,399.516,436.713,415.476" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="BCDEEE+Tahoma" bbox="436.713,399.516,444.071,415.476" colourspace="Pattern" ncolour="0" size="15.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="444.071,399.516,452.019,415.476" colourspace="Pattern" ncolour="0" size="15.960">k</text>
+<text font="BCDEEE+Tahoma" bbox="452.019,399.516,459.137,415.476" colourspace="Pattern" ncolour="0" size="15.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="459.057,399.516,462.712,415.476" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="462.664,399.516,471.490,415.476" colourspace="Pattern" ncolour="0" size="15.960">d</text>
+<text font="BCDEEE+Tahoma" bbox="471.522,399.516,479.917,415.476" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="479.917,399.516,484.912,415.476" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="485.072,399.516,493.467,415.476" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="493.467,399.516,499.213,415.476" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="499.117,399.516,507.783,415.476" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="507.783,399.516,514.901,415.476" colourspace="Pattern" ncolour="0" size="15.960">s</text>
+<text font="BCDEEE+Tahoma" bbox="514.837,399.516,518.492,415.476" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="518.444,399.516,527.111,415.476" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="527.111,399.516,536.016,415.476" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="535.969,399.516,540.964,415.476" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="541.235,399.516,553.078,415.476" colourspace="Pattern" ncolour="0" size="15.960">w</text>
+<text font="BCDEEE+Tahoma" bbox="553.078,399.516,561.983,415.476" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="561.983,399.516,570.378,415.476" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="570.378,399.516,579.284,415.476" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="579.284,399.516,584.279,415.476" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="584.200,399.516,592.595,415.476" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="BCDEEE+Tahoma" bbox="592.595,399.516,597.925,415.476" colourspace="Pattern" ncolour="0" size="15.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="597.925,399.516,605.283,415.476" colourspace="Pattern" ncolour="0" size="15.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="605.203,399.516,614.109,415.476" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="614.109,399.516,617.764,415.476" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="BCDEEE+Tahoma" bbox="617.684,399.516,626.589,415.476" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="BCDEEE+Tahoma" bbox="626.589,399.516,635.415,415.476" colourspace="Pattern" ncolour="0" size="15.960">g</text>
+<text font="BCDEEE+Tahoma" bbox="635.415,399.516,640.411,415.476" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="BCDEEE+Tahoma" bbox="640.586,399.516,645.917,415.476" colourspace="Pattern" ncolour="0" size="15.960">t</text>
+<text font="BCDEEE+Tahoma" bbox="645.869,399.516,654.775,415.476" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="654.775,399.516,660.520,415.476" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="BCDEEE+Tahoma" bbox="660.393,399.516,669.059,415.476" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="669.059,399.516,677.965,415.476" colourspace="Pattern" ncolour="0" size="15.960">u</text>
+<text font="BCDEEE+Tahoma" bbox="677.917,399.516,686.743,415.476" colourspace="Pattern" ncolour="0" size="15.960">g</text>
+<text font="BCDEEE+Tahoma" bbox="686.775,399.516,695.680,415.476" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="BCDEEE+Tahoma" bbox="695.680,399.516,701.330,415.476" colourspace="Pattern" ncolour="0" size="15.960">;</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="441.820,37.332,578.962,55.332" size="18.0">Backside erosion <textline bbox="441.820,37.332,578.962,55.332" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">Backside erosion </textline>
+</textbox>
+<figure name="Image114" bbox="369.960,81.000,705.960,375.000" src="Image114.jpg" width="336" height="294">
+</figure>
+<figure name="Image19" bbox="0.000,504.600,49.680,540.000" src="Image19.3.63x45.bmp" width="49" height="35">
+</figure>
+<figure name="Image20" bbox="664.920,518.040,720.000,540.000" src="Image20.3.70x28.bmp" width="55" height="21">
+</figure>
+<figure name="Image115" bbox="36.000,84.000,360.000,378.000" src="Image115.jpg" width="324" height="294">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="97.224,428.402,580.512,452.402" size="24.0">20 minutes Deep Reactive Ion Etch for Silicon <textline bbox="97.224,428.402,580.512,452.402" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="24.000" colourspace="Pattern">20 minutes Deep Reactive Ion Etch for Silicon </textline>
+</textbox>
+<textbox id="1" bbox="570.840,265.570,650.742,283.570" size="18.0">scalloping <textline bbox="570.840,265.570,650.742,283.570" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">scalloping </textline>
+</textbox>
+<textbox id="2" bbox="283.430,208.988,301.430,213.992" size="5.004">  <textline bbox="283.430,208.988,301.430,213.992" font="ArialMT" ncolour="(1, 0, 0)" size="5.004" colourspace="Pattern">  </textline>
+</textbox>
+<textbox id="3" bbox="283.430,174.050,301.538,239.464" size="11.0772">m 
+m 
+2 
+7 
+5 <textline bbox="283.430,224.470,301.430,239.464" font="ArialMT" ncolour="(1, 0, 0)" size="14.994" colourspace="Pattern">m </textline>
+<textline bbox="283.538,214.010,301.538,224.378" font="SymbolMT" ncolour="(1, 0, 0)" size="10.368" colourspace="Pattern">m </textline>
+<textline bbox="283.430,198.980,301.430,208.988" font="ArialMT" ncolour="(1, 0, 0)" size="10.008" colourspace="Pattern">2 </textline>
+<textline bbox="283.430,184.058,301.430,194.066" font="ArialMT" ncolour="(1, 0, 0)" size="10.008" colourspace="Pattern">7 </textline>
+<textline bbox="283.430,174.050,301.430,184.058" font="ArialMT" ncolour="(1, 0, 0)" size="10.008" colourspace="Pattern">5 </textline>
+</textbox>
+<textbox id="4" bbox="283.430,193.976,301.430,198.980" size="5.004">. <textline bbox="283.430,193.976,301.430,198.980" font="ArialMT" ncolour="(1, 0, 0)" size="5.004" colourspace="Pattern">. </textline>
+</textbox>
+<textbox id="5" bbox="279.790,139.430,329.632,157.430" size="18.0">silicon <textline bbox="279.790,139.430,329.632,157.430" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">silicon </textline>
+</textbox>
+<textbox id="6" bbox="429.820,193.202,470.860,211.364" size="18.0">2 mm <textline bbox="429.820,193.202,470.860,211.364">2 mm <text font="BCDEEE+Tahoma" bbox="429.820,193.364,439.648,211.364" colourspace="Pattern" ncolour="0" size="18.000">2</text>
+<text font="BCDEEE+Tahoma" bbox="439.660,193.364,445.294,211.364" colourspace="Pattern" ncolour="0" size="18.000"> </text>
+<text font="SymbolMT" bbox="445.300,193.202,455.668,211.202" colourspace="Pattern" ncolour="0" size="18.000">m</text>
+<text font="BCDEEE+Tahoma" bbox="455.740,193.364,470.860,211.364" colourspace="Pattern" ncolour="0" size="18.000">m</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="425.950,128.800,475.792,146.800" size="18.0">silicon <textline bbox="425.950,128.800,475.792,146.800" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">silicon </textline>
+</textbox>
+<figure name="Image126" bbox="0.000,61.200,348.000,360.000" src="Image126.jpg" width="348" height="298">
+</figure>
+<figure name="Image19" bbox="0.000,504.600,49.680,540.000" src="Image19.4.63x45.bmp" width="49" height="35">
+</figure>
+<figure name="Image20" bbox="664.920,518.040,720.000,540.000" src="Image20.4.70x28.bmp" width="55" height="21">
+</figure>
+<figure name="Image127" bbox="372.000,60.000,746.640,360.000" src="Image127.jpg" width="374" height="300">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="247.250,471.568,446.798,507.568" size="36.0">Mask Design <textline bbox="247.250,471.568,446.798,507.568" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="36.000" colourspace="Pattern">Mask Design </textline>
+</textbox>
+<textbox id="1" bbox="501.700,300.250,688.612,361.450" size="18.0">Connected bar to keep  
+the combs on wafer  
+after process <textline bbox="501.700,343.450,688.612,361.450" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">Connected bar to keep  </textline>
+<textline bbox="501.700,321.850,663.304,339.850" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">the combs on wafer  </textline>
+<textline bbox="501.700,300.250,605.668,318.250" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">after process </textline>
+</textbox>
+<textbox id="2" bbox="501.480,159.830,656.118,199.430" size="18.0">Reference lines to  
+study the accuracy  <textline bbox="504.000,181.430,653.958,199.430" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">Reference lines to  </textline>
+<textline bbox="501.480,159.830,656.118,177.830" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">study the accuracy  </textline>
+</textbox>
+<textbox id="3" bbox="517.060,125.042,567.454,143.150" size="18.0">10 mm <textline bbox="517.060,125.042,567.454,143.150">10 mm <text font="ArialMT" bbox="517.060,125.150,527.068,143.150" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">1</text>
+<text font="ArialMT" bbox="527.020,125.150,537.028,143.150" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">0</text>
+<text font="ArialMT" bbox="536.980,125.150,541.984,143.150" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000"> </text>
+<text font="SymbolMT" bbox="542.020,125.042,552.388,143.042" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">m</text>
+<text font="ArialMT" bbox="552.460,125.150,567.454,143.150" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">m</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="549.480,31.416,599.874,49.524" size="18.0">40 mm <textline bbox="549.480,31.416,599.874,49.524">40 mm <text font="ArialMT" bbox="549.480,31.524,559.488,49.524" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">4</text>
+<text font="ArialMT" bbox="559.440,31.524,569.448,49.524" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">0</text>
+<text font="ArialMT" bbox="569.400,31.524,574.404,49.524" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000"> </text>
+<text font="SymbolMT" bbox="574.440,31.416,584.808,49.416" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">m</text>
+<text font="ArialMT" bbox="584.880,31.524,599.874,49.524" colourspace="Pattern" ncolour="(1, 0, 0)" size="18.000">m</text>
+</textline>
+</textbox>
+<figure name="Image138" bbox="12.000,30.000,474.000,432.000" src="Image138.926x768.bmp" width="462" height="402">
+</figure>
+<figure name="Image19" bbox="0.000,504.600,49.680,540.000" src="Image19.5.63x45.bmp" width="49" height="35">
+</figure>
+<figure name="Image20" bbox="664.920,518.040,720.000,540.000" src="Image20.5.70x28.bmp" width="55" height="21">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="235.250,465.552,461.828,493.512" size="27.96">Two-mask Process <textline bbox="235.250,465.552,461.828,493.512" font="BCDEEE+Tahoma" ncolour="(0.2, 0.2, 0.6)" size="27.960" colourspace="Pattern">Two-mask Process </textline>
+</textbox>
+<textbox id="1" bbox="265.420,400.697,480.153,419.388" size="15.96">SiO2    Si          PR   Quartz       <textline bbox="265.420,400.697,480.153,419.388">SiO2    Si          PR   Quartz       <text font="ArialMT" bbox="265.420,403.428,276.065,419.388" colourspace="Pattern" ncolour="0" size="15.960">S</text>
+<text font="ArialMT" bbox="276.065,403.428,279.608,419.388" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="279.688,403.428,292.105,419.388" colourspace="Pattern" ncolour="0" size="15.960">O</text>
+<text font="ArialMT" bbox="292.060,400.697,297.998,411.377" colourspace="Pattern" ncolour="0" size="10.680">2</text>
+<text font="ArialMT" bbox="297.945,400.697,300.914,411.377" colourspace="Pattern" ncolour="0" size="10.680"> </text>
+<text font="ArialMT" bbox="300.914,400.697,303.883,411.377" colourspace="Pattern" ncolour="0" size="10.680"> </text>
+<text font="ArialMT" bbox="303.936,400.697,306.905,411.377" colourspace="Pattern" ncolour="0" size="10.680"> </text>
+<text font="ArialMT" bbox="306.905,400.697,309.874,411.377" colourspace="Pattern" ncolour="0" size="10.680"> </text>
+<text font="ArialMT" bbox="309.940,403.428,320.585,419.388" colourspace="Pattern" ncolour="0" size="15.960">S</text>
+<text font="ArialMT" bbox="320.633,403.428,324.176,419.388" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="324.224,403.428,328.661,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="328.565,403.428,333.002,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="333.130,403.428,337.567,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="337.567,403.428,342.004,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="342.163,403.428,346.600,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="346.600,403.428,351.037,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="351.197,403.428,355.633,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="355.633,403.428,360.070,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="360.230,403.428,364.667,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="364.667,403.428,369.104,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="369.263,403.428,379.909,419.388" colourspace="Pattern" ncolour="0" size="15.960">P</text>
+<text font="ArialMT" bbox="379.957,403.428,391.480,419.388" colourspace="Pattern" ncolour="0" size="15.960">R</text>
+<text font="ArialMT" bbox="391.480,403.428,395.917,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="395.837,403.428,400.274,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="400.401,403.428,404.838,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="404.838,403.428,417.255,419.388" colourspace="Pattern" ncolour="0" size="15.960">Q</text>
+<text font="ArialMT" bbox="417.255,403.428,426.129,419.388" colourspace="Pattern" ncolour="0" size="15.960">u</text>
+<text font="ArialMT" bbox="426.129,403.428,435.003,419.388" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="435.034,403.428,440.349,419.388" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="ArialMT" bbox="440.349,403.428,444.786,419.388" colourspace="Pattern" ncolour="0" size="15.960">t</text>
+<text font="ArialMT" bbox="444.786,403.428,452.766,419.388" colourspace="Pattern" ncolour="0" size="15.960">z</text>
+<text font="ArialMT" bbox="452.846,403.428,457.283,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="457.650,403.428,462.087,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="462.087,403.428,466.524,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="466.683,403.428,471.120,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="471.120,403.428,475.557,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="475.717,403.428,480.153,419.388" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+</textline>
+</textbox>
+<textbox id="2" bbox="79.512,351.467,315.477,389.407" size="15.972000000000001">(a) DSP silicon wafer,  
+Thermal diffusion 0.5~1 mm SiO2; <textline bbox="117.550,373.423,277.057,389.407" font="ArialMT" ncolour="0" size="15.984" colourspace="Pattern">(a) DSP silicon wafer,  </textline>
+<textline bbox="79.512,351.467,315.477,370.158">Thermal diffusion 0.5~1 mm SiO2; <text font="ArialMT" bbox="79.512,354.198,89.264,370.158" colourspace="Pattern" ncolour="0" size="15.960">T</text>
+<text font="ArialMT" bbox="89.264,354.198,98.137,370.158" colourspace="Pattern" ncolour="0" size="15.960">h</text>
+<text font="ArialMT" bbox="98.137,354.198,107.011,370.158" colourspace="Pattern" ncolour="0" size="15.960">e</text>
+<text font="ArialMT" bbox="107.011,354.198,112.326,370.158" colourspace="Pattern" ncolour="0" size="15.960">r</text>
+<text font="ArialMT" bbox="112.278,354.198,125.573,370.158" colourspace="Pattern" ncolour="0" size="15.960">m</text>
+<text font="ArialMT" bbox="125.573,354.198,134.446,370.158" colourspace="Pattern" ncolour="0" size="15.960">a</text>
+<text font="ArialMT" bbox="134.446,354.198,137.989,370.158" colourspace="Pattern" ncolour="0" size="15.960">l</text>
+<text font="ArialMT" bbox="138.069,354.198,142.506,370.158" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="142.618,354.198,151.492,370.158" colourspace="Pattern" ncolour="0" size="15.960">d</text>
+<text font="ArialMT" bbox="151.492,354.198,155.035,370.158" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="155.083,354.198,159.519,370.158" colourspace="Pattern" ncolour="0" size="15.960">f</text>
+<text font="ArialMT" bbox="159.280,354.198,163.717,370.158" colourspace="Pattern" ncolour="0" size="15.960">f</text>
+<text font="ArialMT" bbox="163.717,354.198,172.591,370.158" colourspace="Pattern" ncolour="0" size="15.960">u</text>
+<text font="ArialMT" bbox="172.591,354.198,180.571,370.158" colourspace="Pattern" ncolour="0" size="15.960">s</text>
+<text font="ArialMT" bbox="180.619,354.198,184.162,370.158" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="184.210,354.198,193.083,370.158" colourspace="Pattern" ncolour="0" size="15.960">o</text>
+<text font="ArialMT" bbox="193.083,354.198,201.957,370.158" colourspace="Pattern" ncolour="0" size="15.960">n</text>
+<text font="ArialMT" bbox="201.957,354.198,206.394,370.158" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="206.282,354.198,215.156,370.158" colourspace="Pattern" ncolour="0" size="15.960">0</text>
+<text font="ArialMT" bbox="215.156,354.198,219.593,370.158" colourspace="Pattern" ncolour="0" size="15.960">.</text>
+<text font="ArialMT" bbox="219.593,354.198,228.467,370.158" colourspace="Pattern" ncolour="0" size="15.960">5</text>
+<text font="ArialMT" bbox="228.467,354.198,237.787,370.158" colourspace="Pattern" ncolour="0" size="15.960">~</text>
+<text font="ArialMT" bbox="237.819,354.198,246.693,370.158" colourspace="Pattern" ncolour="0" size="15.960">1</text>
+<text font="ArialMT" bbox="246.693,354.198,251.130,370.158" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="SymbolMT" bbox="251.380,354.103,260.573,370.063" colourspace="Pattern" ncolour="0" size="15.960">m</text>
+<text font="ArialMT" bbox="260.500,354.198,273.795,370.158" colourspace="Pattern" ncolour="0" size="15.960">m</text>
+<text font="ArialMT" bbox="273.795,354.198,278.232,370.158" colourspace="Pattern" ncolour="0" size="15.960"> </text>
+<text font="ArialMT" bbox="278.487,354.198,289.132,370.158" colourspace="Pattern" ncolour="0" size="15.960">S</text>
+<text font="ArialMT" bbox="289.132,354.198,292.675,370.158" colourspace="Pattern" ncolour="0" size="15.960">i</text>
+<text font="ArialMT" bbox="292.755,354.198,305.172,370.158" colourspace="Pattern" ncolour="0" size="15.960">O</text>
+<text font="ArialMT" bbox="305.140,351.467,311.078,362.147" colourspace="Pattern" ncolour="0" size="10.680">2</text>
+<text font="ArialMT" bbox="311.040,354.198,315.477,370.158" colourspace="Pattern" ncolour="0" size="15.960">;</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="415.320,367.423,655.703,383.407" size="15.984">(e) Lithography for front side etch; <textline bbox="415.320,367.423,655.703,383.407" font="ArialMT" ncolour="0" size="15.984" colourspace="Pattern">(e) Lithography for front side etch; </textline>
+</textbox>
+<textbox id="4" bbox="89.640,271.398,327.093,287.358" size="15.96">(b) Lithography for backside etch; <textline bbox="89.640,271.398,327.093,287.358" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">(b) Lithography for backside etch; </textline>
+</textbox>
+<textbox id="5" bbox="412.320,277.398,645.911,293.358" size="15.96">(f) Front side silicon dioxide etch; <textline bbox="412.320,277.398,645.911,293.358" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">(f) Front side silicon dioxide etch; </textline>
+</textbox>
+<textbox id="6" bbox="82.272,189.248,312.974,205.208" size="15.96">(c) Backside silicon dioxide etch; <textline bbox="82.272,189.248,312.974,205.208" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">(c) Backside silicon dioxide etch; </textline>
+</textbox>
+<textbox id="7" bbox="402.480,162.178,688.483,197.338" size="15.96">(g) Front side silicon etch, DRIE  
+with backside protection with photoresist <textline bbox="432.600,181.378,663.429,197.338" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">(g) Front side silicon etch, DRIE  </textline>
+<textline bbox="402.480,162.178,688.483,178.138" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">with backside protection with photoresist </textline>
+</textbox>
+<textbox id="8" bbox="79.272,93.224,302.983,109.184" size="15.96">(d) Backside silicon etch, DRIE; <textline bbox="79.272,93.224,302.983,109.184" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">(d) Backside silicon etch, DRIE; </textline>
+</textbox>
+<textbox id="9" bbox="162.020,64.212,215.984,82.212" size="18.0">Quartz <textline bbox="162.020,64.212,215.984,82.212" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">Quartz </textline>
+</textbox>
+<textbox id="10" bbox="513.020,81.852,566.984,99.852" size="18.0">Quartz <textline bbox="513.020,81.852,566.984,99.852" font="ArialMT" ncolour="(1, 0, 0)" size="18.000" colourspace="Pattern">Quartz </textline>
+</textbox>
+<textbox id="11" bbox="433.820,56.840,648.259,72.800" size="15.96">(h) Clean wafer, get comb out; <textline bbox="433.820,56.840,648.259,72.800" font="ArialMT" ncolour="0" size="15.960" colourspace="Pattern">(h) Clean wafer, get comb out; </textline>
+</textbox>
+<figure name="Image19" bbox="0.000,504.600,49.680,540.000" src="Image19.6.63x45.bmp" width="49" height="35">
+</figure>
+<figure name="Image20" bbox="664.920,518.040,720.000,540.000" src="Image20.6.70x28.bmp" width="55" height="21">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="97.848,414.792,390.272,442.752" size="27.96">&#8220;Tall Teeth&#8221; Micro-comb <textline bbox="97.848,414.792,390.272,442.752">&#8220;Tall Teeth&#8221; Micro-comb <text font="BCDFEE+Tahoma" bbox="97.848,414.792,109.060,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">&#8220;</text>
+<text font="BCDFEE+Tahoma" bbox="109.060,414.792,125.389,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">T</text>
+<text font="BCDFEE+Tahoma" bbox="122.341,414.792,137.020,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">a</text>
+<text font="BCDFEE+Tahoma" bbox="137.020,414.792,143.423,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">l</text>
+<text font="BCDFEE+Tahoma" bbox="143.423,414.792,149.826,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">l</text>
+<text font="BCDFEE+Tahoma" bbox="149.826,414.792,158.577,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960"> </text>
+<text font="BCDFEE+Tahoma" bbox="158.661,414.792,174.990,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">T</text>
+<text font="BCDFEE+Tahoma" bbox="172.110,414.792,186.817,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">e</text>
+<text font="BCDFEE+Tahoma" bbox="186.817,414.792,201.524,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">e</text>
+<text font="BCDFEE+Tahoma" bbox="201.608,414.792,210.946,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">t</text>
+<text font="BCDFEE+Tahoma" bbox="210.946,414.792,226.548,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">h</text>
+<text font="BCDFEE+Tahoma" bbox="226.548,414.792,237.760,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">&#8221;</text>
+<text font="BCDFEE+Tahoma" bbox="237.816,414.792,246.567,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960"> </text>
+<text font="BCDFEE+Tahoma" bbox="246.679,414.792,268.236,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">M</text>
+<text font="BCDFEE+Tahoma" bbox="268.236,414.792,274.639,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">i</text>
+<text font="BCDFEE+Tahoma" bbox="274.639,414.792,287.529,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">c</text>
+<text font="BCDFEE+Tahoma" bbox="287.529,414.792,297.594,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">r</text>
+<text font="BCDFEE+Tahoma" bbox="297.594,414.792,312.777,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="312.910,414.792,323.059,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">-</text>
+<text font="BCDEEE+Tahoma" bbox="323.140,414.792,336.030,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">c</text>
+<text font="BCDEEE+Tahoma" bbox="336.030,414.792,351.212,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">o</text>
+<text font="BCDEEE+Tahoma" bbox="351.324,414.792,374.810,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">m</text>
+<text font="BCDEEE+Tahoma" bbox="374.810,414.792,390.272,442.752" colourspace="Pattern" ncolour="(0.2, 0.2, 0.6)" size="27.960">b</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="15.864,337.720,381.642,355.720" size="18.0">1. 10mm long reference tooth to avoid rough  <textline bbox="15.864,337.720,381.642,355.720" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">1. 10mm long reference tooth to avoid rough  </textline>
+</textbox>
+<textbox id="2" bbox="42.864,316.115,189.832,334.139" size="18.024">edge of the mirror; <textline bbox="42.864,316.115,189.832,334.139" font="ArialMT" ncolour="0" size="18.024" colourspace="Pattern">edge of the mirror; </textline>
+</textbox>
+<textbox id="3" bbox="15.864,229.690,370.490,290.890" size="18.0">2.   EDM-cut metal strong-back bonded with  
+silicon microcomb to stiffen reference  
+tooth; <textline bbox="15.864,272.890,370.490,290.890" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">2.   EDM-cut metal strong-back bonded with  </textline>
+<textline bbox="42.864,251.290,344.346,269.290" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">silicon microcomb to stiffen reference  </textline>
+<textline bbox="42.864,229.690,87.846,247.690" font="ArialMT" ncolour="0" size="18.000" colourspace="Pattern">tooth; </textline>
+</textbox>
+<figure name="Image159" bbox="402.000,24.840,702.000,252.000" src="Image159.1100x850.bmp" width="300" height="227">
+</figure>
+<figure name="Image161" bbox="402.000,266.160,702.000,498.000" src="Image161.jpg" width="300" height="231">
+</figure>
+</page>
+</pages>

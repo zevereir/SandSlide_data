@@ -1,0 +1,648 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="265.250,280.352,667.459,496.622" size="47.046" unique_id="0">Implementing  
+Policy Evaluation  
+Measures Using  
+the BRFSS: <textline bbox="265.250,449.582,583.946,496.622" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="47.040" colourspace="DeviceGray">Implementing  </textline>
+<textline bbox="265.250,393.177,667.459,440.241" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="47.064" colourspace="DeviceGray">Policy Evaluation  </textline>
+<textline bbox="265.250,336.752,638.795,383.792" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="47.040" colourspace="DeviceGray">Measures Using  </textline>
+<textline bbox="265.250,280.352,523.782,327.392" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="47.040" colourspace="DeviceGray">the BRFSS: </textline>
+</title>
+<normal_text id="1" bbox="265.250,219.958,659.125,268.357" size="21.972" unique_id="1">The Example of Food Stamps, Food  
+Insecurity and Federal Guideline Criteria <textline bbox="265.250,246.373,624.952,268.357" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="21.984" colourspace="DeviceGray">The Example of Food Stamps, Food  </textline>
+<textline bbox="265.250,219.958,659.125,241.918" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="21.960" colourspace="DeviceGray">Insecurity and Federal Guideline Criteria </textline>
+</normal_text>
+<normal_text id="2" bbox="265.250,69.728,363.723,85.688" size="15.96" unique_id="2">Presented by: <textline bbox="265.250,69.728,363.723,85.688" font="ArialMT" ncolour="(0.894, 0.49, 0.165)" size="15.960" colourspace="DeviceGray">Presented by: </textline>
+</normal_text>
+<normal_text id="3" bbox="265.250,43.472,444.736,59.432" size="15.96" unique_id="3">Patrick R. Mitchell, Dr.PH <textline bbox="265.250,43.472,444.736,59.432" font="ArialMT" ncolour="(0.894, 0.49, 0.165)" size="15.960" colourspace="DeviceGray">Patrick R. Mitchell, Dr.PH </textline>
+</normal_text>
+<picture name="Image6" bbox="102.000,290.040,240.000,426.000" src="Image6.383x377.bmp" width="138" height="135" unique_id="4">
+</picture>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.224, 430.832, 442.458, 468.872]">
+<title id="0" bbox="85.224,430.832,442.458,468.872" size="38.04" unique_id="0">Acknowledgements <textline bbox="85.224,430.832,442.458,468.872" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="38.040" colourspace="DeviceGray">Acknowledgements </textline>
+</title>
+<enlisting id="1" bbox="85.224,192.582,562.217,399.651" size="26.0448" unique_id="['1', '2']">&#8226; CDPH CPNS - Sharon Sugerman 
+&#8226; Ca Survey Research Group 
+&#8226; Marta Induni, Joan Epstein 
+&#8226; USDA 
+&#8226; Telephone number for Food Stamps in  <textline bbox="85.224,373.587,500.013,399.651" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">&#8226; CDPH CPNS - Sharon Sugerman </textline>
+<textline bbox="85.224,336.122,431.757,362.162" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Ca Survey Research Group </textline>
+<textline bbox="85.224,298.682,422.044,324.722" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Marta Induni, Joan Epstein </textline>
+<textline bbox="85.224,261.242,184.676,287.282" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; USDA </textline>
+<textline bbox="85.224,223.782,562.217,249.822" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Telephone number for Food Stamps in  </textline>
+<normal_text id="2" bbox="112.220,192.582,441.028,218.622" size="26.04" unique_id="2">California is 1-888-328-3483 <textline bbox="112.220,192.582,441.028,218.622" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">California is 1-888-328-3483 </textline>
+</normal_text>
+</enlisting>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.jpg" width="192" height="112" unique_id="3">
+</picture>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.224, 430.83200000000005, 433.93533333333335, 468.872]">
+<title id="0" bbox="85.224,430.832,429.674,468.872" size="38.04" unique_id="0">CPNS, the Network <textline bbox="85.224,430.832,429.674,468.872">CPNS, the Network <text font="Arial-BoldMT" bbox="85.224,430.832,112.689,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">C</text>
+<text font="Arial-BoldMT" bbox="112.689,430.832,138.062,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">P</text>
+<text font="Arial-BoldMT" bbox="138.062,430.832,165.526,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">N</text>
+<text font="Arial-BoldMT" bbox="165.526,430.832,190.899,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">S</text>
+<text font="Arial-BoldMT" bbox="190.899,430.832,201.474,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">,</text>
+<text font="Arial-BoldMT" bbox="201.474,430.832,212.049,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040"> </text>
+<text font="Arial-BoldMT" bbox="212.049,430.832,224.717,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">t</text>
+<text font="Arial-BoldMT" bbox="224.717,430.832,247.959,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">h</text>
+<text font="Arial-BoldMT" bbox="247.959,430.832,269.109,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">e</text>
+<text font="Arial-BoldMT" bbox="269.109,430.832,279.684,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040"> </text>
+<text font="Arial-BoldItalicMT" bbox="279.530,430.832,306.995,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">N</text>
+<text font="Arial-BoldItalicMT" bbox="306.995,430.832,328.145,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">e</text>
+<text font="Arial-BoldItalicMT" bbox="328.145,430.832,340.812,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">t</text>
+<text font="Arial-BoldItalicMT" bbox="340.812,430.832,370.408,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">w</text>
+<text font="Arial-BoldItalicMT" bbox="370.408,430.832,393.650,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">o</text>
+<text font="Arial-BoldItalicMT" bbox="393.726,430.832,408.524,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">r</text>
+<text font="Arial-BoldItalicMT" bbox="408.524,430.832,429.674,468.872" colourspace="DeviceGray" ncolour="(0.894, 0.49, 0.165)" size="38.040">k</text>
+</textline>
+</title>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.0.jpg" width="192" height="112" unique_id="5">
+</picture>
+<enlisting bbox="85.224,173.862,650.48,399.651" unique_id="['1', '  3', ' 2', '4']">&#8226; Promote food stamps, fruit and vegetable  
+consumption, physical activity and the  
+prevention of diet related chronic diseases. 
+&#8226; Restricted to target population of low income  &#8226; BRFSS provides statewide estimates that are  <normal_text id="1" bbox="85.224,273.722,633.306,399.651" size="26.046" unique_id="1">&#8226; Promote food stamps, fruit and vegetable  
+consumption, physical activity and the  
+prevention of diet related chronic diseases. 
+&#8226; Restricted to target population of low income  <textline bbox="85.224,373.587,595.811,399.651" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">&#8226; Promote food stamps, fruit and vegetable  </textline>
+<textline bbox="112.220,342.362,556.358,368.402" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">consumption, physical activity and the  </textline>
+<textline bbox="112.220,311.162,607.345,337.202" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">prevention of diet related chronic diseases. </textline>
+<textline bbox="85.224,273.722,633.306,299.762" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Restricted to target population of low income  </textline>
+</normal_text>
+<normal_text id="3" bbox="85.224,205.062,650.480,231.102" size="26.04" unique_id="3">&#8226; BRFSS provides statewide estimates that are  <textline bbox="85.224,205.062,650.480,231.102" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; BRFSS provides statewide estimates that are  </textline>
+</normal_text>
+<normal_text id="2" bbox="112.220,242.517,433.328,268.581" size="26.064" unique_id="2">Californians (&lt;= 130% FPL) <textline bbox="112.220,242.517,433.328,268.581" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">Californians (&lt;= 130% FPL) </textline>
+</normal_text>
+<normal_text id="4" bbox="112.220,173.862,365.589,199.902" size="26.04" unique_id="4">nationally comparable <textline bbox="112.220,173.862,365.589,199.902" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">nationally comparable </textline>
+</normal_text>
+</enlisting></page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.224, 430.83200000000005, 328.2416666666667, 468.872]">
+<title id="0" bbox="85.224,430.832,222.548,468.872" size="38.04" unique_id="0">Desires <textline bbox="85.224,430.832,222.548,468.872" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="38.040" colourspace="DeviceGray">Desires </textline>
+</title>
+<normal_text id="1" bbox="85.224,248.757,640.493,399.651" size="26.049599999999998" unique_id="1">&#8226; Measure statewide prevalence of fruit and  
+vegetable consumption, physical activity,  
+Food Insecurity and Food Stamp use in the  
+130% and 185% Federal poverty Level (FPL)  
+adult population <textline bbox="85.224,373.587,602.953,399.651" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">&#8226; Measure statewide prevalence of fruit and  </textline>
+<textline bbox="112.220,342.362,587.841,368.402" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">vegetable consumption, physical activity,  </textline>
+<textline bbox="112.220,311.162,617.318,337.202" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">Food Insecurity and Food Stamp use in the  </textline>
+<textline bbox="112.220,279.962,640.493,306.002" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">130% and 185% Federal poverty Level (FPL)  </textline>
+<textline bbox="112.220,248.757,296.206,274.821" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">adult population </textline>
+</normal_text>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.1.jpg" width="192" height="112" unique_id="2">
+</picture>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.224, 430.832, 312.2118, 468.872]">
+<title id="0" bbox="85.224,430.832,288.167,468.872" size="38.04" unique_id="0">Challenges <textline bbox="85.224,430.832,288.167,468.872" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="38.040" colourspace="DeviceGray">Challenges </textline>
+</title>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.2.jpg" width="192" height="112" unique_id="4">
+</picture>
+<enlisting bbox="85.224,230.022,594.064,399.651" unique_id="['1', ' 3', '2']">&#8226; Questions not asked 
+&#8226; Questions periodically and systematically  &#8226; Small sample size for &#8220;rare&#8221; events 
+&#8226; No 130% and 185% FPL Indicator <normal_text id="1" bbox="85.224,336.122,594.064,399.651" size="26.052" unique_id="1">&#8226; Questions not asked 
+&#8226; Questions periodically and systematically  <textline bbox="85.224,373.587,349.819,399.651" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">&#8226; Questions not asked </textline>
+<textline bbox="85.224,336.122,594.064,362.162" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Questions periodically and systematically  </textline>
+</normal_text>
+<normal_text id="3" bbox="85.224,230.022,514.147,293.522" size="26.04" unique_id="3">&#8226; Small sample size for &#8220;rare&#8221; events 
+&#8226; No 130% and 185% FPL Indicator <textline bbox="85.224,267.482,514.147,293.522" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Small sample size for &#8220;rare&#8221; events </textline>
+<textline bbox="85.224,230.022,505.059,256.062" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; No 130% and 185% FPL Indicator </textline>
+</normal_text>
+<normal_text id="2" bbox="112.220,304.922,200.574,330.962" size="26.04" unique_id="2">missing <textline bbox="112.220,304.922,200.574,330.962" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">missing </textline>
+</normal_text>
+</enlisting></page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.224, 431.59733333333327, 410.27719999999994, 468.27733333333333]">
+<title id="0" bbox="85.224,433.128,606.408,467.088" size="33.96" unique_id="0">Federal Poverty Level Estimates <textline bbox="85.224,433.128,606.408,467.088" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="33.960" colourspace="DeviceGray">Federal Poverty Level Estimates </textline>
+</title>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.3.jpg" width="192" height="112" unique_id="6">
+</picture>
+<enlisting bbox="85.224,142.662,650.572,399.651" unique_id="['1', '  3', '  5', ' 2', '4']">&#8226; Existing BRFSS variable only for 100%, 200%  &#8226; Based on household income and household  &#8226; Needed imputation to the 130% and 185%  
+FPL criteria using the Federal Register&#8217;s  
+Federal Guidelines <normal_text id="1" bbox="85.224,373.587,650.572,399.651" size="26.064" unique_id="1">&#8226; Existing BRFSS variable only for 100%, 200%  <textline bbox="85.224,373.587,650.572,399.651" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">&#8226; Existing BRFSS variable only for 100%, 200%  </textline>
+</normal_text>
+<normal_text id="3" bbox="85.224,273.722,626.276,299.762" size="26.04" unique_id="3">&#8226; Based on household income and household  <textline bbox="85.224,273.722,626.276,299.762" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Based on household income and household  </textline>
+</normal_text>
+<normal_text id="5" bbox="85.224,142.662,608.907,231.102" size="26.040000000000003" unique_id="5">&#8226; Needed imputation to the 130% and 185%  
+FPL criteria using the Federal Register&#8217;s  
+Federal Guidelines <textline bbox="85.224,205.062,608.907,231.102" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Needed imputation to the 130% and 185%  </textline>
+<textline bbox="112.220,173.862,583.362,199.902" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">FPL criteria using the Federal Register&#8217;s  </textline>
+<textline bbox="112.220,142.662,330.800,168.702" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">Federal Guidelines </textline>
+</normal_text>
+<normal_text id="2" bbox="112.220,311.162,564.066,368.402" size="26.04" unique_id="2">and 300% based on Federal Guideline  
+Criteria <textline bbox="112.220,342.362,564.066,368.402" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">and 300% based on Federal Guideline  </textline>
+<textline bbox="112.220,311.162,196.121,337.202" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">Criteria </textline>
+</normal_text>
+<normal_text id="4" bbox="112.220,242.517,158.562,268.581" size="26.064" unique_id="4">size <textline bbox="112.220,242.517,158.562,268.581" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">size </textline>
+</normal_text>
+</enlisting></page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.224, 431.3786666666666, 440.5565714285714, 468.4472380952381]">
+<title id="0" bbox="85.224,430.832,516.255,468.872" size="38.04" unique_id="0">HHS Federal Guidelines <textline bbox="85.224,430.832,516.255,468.872" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="38.040" colourspace="DeviceGray">HHS Federal Guidelines </textline>
+</title>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.4.jpg" width="192" height="112" unique_id="1">
+</picture>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.224, 431.242, 471.5969285714285, 468.5534285714285]">
+<title id="0" bbox="85.224,430.832,564.718,468.872" size="38.04" unique_id="0">BRFSS Income Categories <textline bbox="85.224,430.832,564.718,468.872" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="38.040" colourspace="DeviceGray">BRFSS Income Categories </textline>
+</title>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.5.jpg" width="192" height="112" unique_id="4">
+</picture>
+<enlisting bbox="85.224,82.246,646.731,405.362" unique_id="['1', '2', '3']">&#8226; Which of the following categories best describes your annual  household income from all sources?  Less than $10,000; $10,000  
+to less than $15,000; $15,000 to less than $20,000; $20,000 to less  
+than $25,000; $25,000 to less than $35,000; $35,000 to less than  
+$50,000; $50,000 to less than $75,000; $75,000 to  $100,000 or  
+over $100,000? 
+Less than $10,000 
+1. 
+$10,000 to less than $15,000 
+2. 
+$15,000 to less than $20,000 
+3. 
+$20,000 to less than $25,000 
+4. 
+$25,000 to less than $35,000 
+5. 
+$35,000 to less than $50,000 
+6. 
+$50,000 to less than $75,000 
+7. 
+$75,000 to $100,000 
+8. 
+9. 
+more than $100,000 
+77. Don&#8217;t know/Not sure 
+99. Refused &#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; <normal_text id="1" bbox="85.224,388.322,613.673,405.362" size="17.04" unique_id="1">&#8226; Which of the following categories best describes your annual  <textline bbox="85.224,388.322,613.673,405.362">&#8226; Which of the following categories best describes your annual  <text font="ArialMT" bbox="85.224,388.322,91.188,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="112.220,388.322,128.306,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">W</text>
+<text font="Arial-BoldMT" bbox="128.306,388.322,138.717,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">h</text>
+<text font="Arial-BoldMT" bbox="138.717,388.322,143.454,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">i</text>
+<text font="Arial-BoldMT" bbox="143.454,388.322,152.929,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">c</text>
+<text font="Arial-BoldMT" bbox="152.929,388.322,163.340,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">h</text>
+<text font="Arial-BoldMT" bbox="163.340,388.322,168.077,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="168.026,388.322,178.437,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="178.437,388.322,184.112,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">f</text>
+<text font="Arial-BoldMT" bbox="184.112,388.322,188.849,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="188.661,388.322,194.336,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">t</text>
+<text font="Arial-BoldMT" bbox="194.336,388.322,204.747,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">h</text>
+<text font="Arial-BoldMT" bbox="204.747,388.322,214.221,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="214.221,388.322,218.959,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="219.010,388.322,224.684,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">f</text>
+<text font="Arial-BoldMT" bbox="224.684,388.322,235.095,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="235.095,388.322,239.833,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">l</text>
+<text font="Arial-BoldMT" bbox="239.764,388.322,244.502,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">l</text>
+<text font="Arial-BoldMT" bbox="244.450,388.322,254.862,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="254.777,388.322,268.034,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">w</text>
+<text font="Arial-BoldMT" bbox="268.443,388.322,273.180,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">i</text>
+<text font="Arial-BoldMT" bbox="273.129,388.322,283.540,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">n</text>
+<text font="Arial-BoldMT" bbox="283.540,388.322,293.952,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">g</text>
+<text font="Arial-BoldMT" bbox="293.883,388.322,298.621,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="298.569,388.322,308.044,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">c</text>
+<text font="Arial-BoldMT" bbox="308.044,388.322,317.518,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">a</text>
+<text font="Arial-BoldMT" bbox="317.518,388.322,323.192,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">t</text>
+<text font="Arial-BoldMT" bbox="323.192,388.322,332.666,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="332.666,388.322,343.078,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">g</text>
+<text font="Arial-BoldMT" bbox="343.078,388.322,353.489,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="353.489,388.322,360.118,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">r</text>
+<text font="Arial-BoldMT" bbox="360.118,388.322,364.855,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">i</text>
+<text font="Arial-BoldMT" bbox="364.855,388.322,374.329,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="374.329,388.322,383.804,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">s</text>
+<text font="Arial-BoldMT" bbox="383.804,388.322,388.541,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="388.336,388.322,398.748,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">b</text>
+<text font="Arial-BoldMT" bbox="398.748,388.322,408.222,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="408.222,388.322,417.696,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">s</text>
+<text font="Arial-BoldMT" bbox="417.696,388.322,423.370,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">t</text>
+<text font="Arial-BoldMT" bbox="423.370,388.322,428.108,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="428.056,388.322,438.468,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">d</text>
+<text font="Arial-BoldMT" bbox="438.468,388.322,447.942,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="447.942,388.322,457.416,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">s</text>
+<text font="Arial-BoldMT" bbox="457.416,388.322,466.891,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">c</text>
+<text font="Arial-BoldMT" bbox="466.891,388.322,473.519,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">r</text>
+<text font="Arial-BoldMT" bbox="473.519,388.322,478.256,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">i</text>
+<text font="Arial-BoldMT" bbox="478.256,388.322,488.668,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">b</text>
+<text font="Arial-BoldMT" bbox="488.668,388.322,498.142,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="498.142,388.322,507.616,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">s</text>
+<text font="Arial-BoldMT" bbox="507.616,388.322,512.353,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="512.404,388.322,521.879,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">y</text>
+<text font="Arial-BoldMT" bbox="521.759,388.322,532.171,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="532.171,388.322,542.582,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">u</text>
+<text font="Arial-BoldMT" bbox="542.616,388.322,549.245,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">r</text>
+<text font="Arial-BoldMT" bbox="549.245,388.322,553.982,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="553.982,388.322,563.456,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">a</text>
+<text font="Arial-BoldMT" bbox="563.456,388.322,573.868,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">n</text>
+<text font="Arial-BoldMT" bbox="573.919,388.322,584.330,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">n</text>
+<text font="Arial-BoldMT" bbox="584.330,388.322,594.742,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">u</text>
+<text font="Arial-BoldMT" bbox="594.776,388.322,604.250,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">a</text>
+<text font="Arial-BoldMT" bbox="604.250,388.322,608.987,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">l</text>
+<text font="Arial-BoldMT" bbox="608.936,388.322,613.673,405.362" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="2" bbox="112.220,82.246,646.731,389.061" size="17.044800000000006" unique_id="2">household income from all sources?  Less than $10,000; $10,000  
+to less than $15,000; $15,000 to less than $20,000; $20,000 to less  
+than $25,000; $25,000 to less than $35,000; $35,000 to less than  
+$50,000; $50,000 to less than $75,000; $75,000 to  $100,000 or  
+over $100,000? 
+Less than $10,000 
+1. 
+$10,000 to less than $15,000 
+2. 
+$15,000 to less than $20,000 
+3. 
+$20,000 to less than $25,000 
+4. 
+$25,000 to less than $35,000 
+5. 
+$35,000 to less than $50,000 
+6. 
+$50,000 to less than $75,000 
+7. 
+$75,000 to $100,000 
+8. 
+9. 
+more than $100,000 
+77. Don&#8217;t know/Not sure 
+99. Refused <textline bbox="112.220,371.997,641.409,389.061" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.064" colourspace="DeviceGray">household income from all sources?  Less than $10,000; $10,000  </textline>
+<textline bbox="112.220,355.652,646.731,372.692" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">to less than $15,000; $15,000 to less than $20,000; $20,000 to less  </textline>
+<textline bbox="112.220,339.332,628.839,356.372" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">than $25,000; $25,000 to less than $35,000; $35,000 to less than  </textline>
+<textline bbox="112.220,323.012,611.935,340.052" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">$50,000; $50,000 to less than $75,000; $75,000 to  $100,000 or  </textline>
+<textline bbox="112.220,306.692,234.465,323.732" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">over $100,000? </textline>
+<textline bbox="157.220,286.292,297.493,303.332" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">Less than $10,000 </textline>
+<textline bbox="112.220,286.292,126.437,303.332" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">1. </textline>
+<textline bbox="157.220,265.892,377.258,282.932" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">$10,000 to less than $15,000 </textline>
+<textline bbox="112.220,265.892,126.437,282.932" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">2. </textline>
+<textline bbox="157.220,245.487,377.260,262.551" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.064" colourspace="DeviceGray">$15,000 to less than $20,000 </textline>
+<textline bbox="112.220,245.487,126.444,262.551" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.064" colourspace="DeviceGray">3. </textline>
+<textline bbox="157.220,225.072,377.258,242.112" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">$20,000 to less than $25,000 </textline>
+<textline bbox="112.220,225.072,126.437,242.112" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">4. </textline>
+<textline bbox="157.220,204.672,377.258,221.712" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">$25,000 to less than $35,000 </textline>
+<textline bbox="112.220,204.672,126.437,221.712" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">5. </textline>
+<textline bbox="157.220,184.272,377.258,201.312" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">$35,000 to less than $50,000 </textline>
+<textline bbox="112.220,184.272,126.437,201.312" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">6. </textline>
+<textline bbox="157.220,163.872,377.258,180.912" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">$50,000 to less than $75,000 </textline>
+<textline bbox="112.220,163.872,126.437,180.912" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">7. </textline>
+<textline bbox="157.220,143.472,313.681,160.512" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">$75,000 to $100,000 </textline>
+<textline bbox="112.220,143.472,126.437,160.512" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">8. </textline>
+<textline bbox="112.220,123.067,126.444,140.131" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.064" colourspace="DeviceGray">9. </textline>
+<textline bbox="157.220,123.067,309.738,140.131" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.064" colourspace="DeviceGray">more than $100,000 </textline>
+<textline bbox="112.220,102.642,310.546,119.682" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">77. Don&#8217;t know/Not sure </textline>
+<textline bbox="112.220,82.246,220.660,99.286" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">99. Refused </textline>
+</normal_text>
+<normal_text id="3" bbox="85.224,82.246,91.196,303.332" size="17.04436363636363" unique_id="3">&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; 
+&#8226; <textline bbox="85.224,286.292,91.188,303.332" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="85.224,265.892,91.188,282.932" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="85.224,245.487,91.196,262.551" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.064" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="85.224,225.072,91.188,242.112" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="85.224,204.672,91.188,221.712" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="85.224,184.272,91.188,201.312" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="85.224,163.872,91.188,180.912" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="85.224,143.472,91.188,160.512" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="85.224,123.067,91.196,140.131" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.064" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="85.224,102.642,91.188,119.682" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+<textline bbox="85.224,82.246,91.188,99.286" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+</enlisting></page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.22399999999999, 431.1508888888889, 492.29049999999995, 468.62422222222216]">
+<title id="0" bbox="85.224,430.832,564.718,468.872" size="38.04" unique_id="0">Food Insecurity Questions <textline bbox="85.224,430.832,564.718,468.872" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="38.040" colourspace="DeviceGray">Food Insecurity Questions </textline>
+</title>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.6.jpg" width="192" height="112" unique_id="13">
+</picture>
+<enlisting bbox="85.224,70.006,640.613,405.362" unique_id="['1', '      2', '      3', '      4', '      5', '      9', '     6', '    7', '   8', '  10', ' 11', '12']">&#8226; &#8226; &#8226; &#8226; &#8226; &#8226; How often did this happen--almost every month, some months  <normal_text id="1" bbox="85.224,388.322,91.188,405.362" size="17.04" unique_id="1">&#8226; <textline bbox="85.224,388.322,91.188,405.362" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="2" bbox="85.224,314.852,91.188,331.892" size="17.04" unique_id="2">&#8226; <textline bbox="85.224,314.852,91.188,331.892" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="3" bbox="85.224,257.732,91.188,274.772" size="17.04" unique_id="3">&#8226; <textline bbox="85.224,257.732,91.188,274.772" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="4" bbox="85.224,143.472,91.188,160.512" size="17.04" unique_id="4">&#8226; <textline bbox="85.224,143.472,91.188,160.512" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="5" bbox="85.224,86.326,91.188,103.366" size="17.04" unique_id="5">&#8226; <textline bbox="85.224,86.326,91.188,103.366" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">&#8226; </textline>
+</normal_text>
+<normal_text id="9" bbox="85.224,200.592,622.037,217.632" size="17.04" unique_id="9">&#8226; How often did this happen--almost every month, some months  <textline bbox="85.224,200.592,622.037,217.632">&#8226; How often did this happen--almost every month, some months  <text font="ArialMT" bbox="85.224,200.592,91.188,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">&#8226;</text>
+<text font="Arial-BoldMT" bbox="112.220,200.592,124.523,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">H</text>
+<text font="Arial-BoldMT" bbox="124.557,200.592,134.968,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="134.883,200.592,148.140,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">w</text>
+<text font="Arial-BoldMT" bbox="148.430,200.592,153.167,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="153.116,200.592,163.527,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="163.527,200.592,169.202,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">f</text>
+<text font="Arial-BoldMT" bbox="169.202,200.592,174.876,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">t</text>
+<text font="Arial-BoldMT" bbox="174.876,200.592,184.350,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="184.350,200.592,194.762,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">n</text>
+<text font="Arial-BoldMT" bbox="194.642,200.592,199.380,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="199.328,200.592,209.740,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">d</text>
+<text font="Arial-BoldMT" bbox="209.740,200.592,214.477,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">i</text>
+<text font="Arial-BoldMT" bbox="214.477,200.592,224.888,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">d</text>
+<text font="Arial-BoldMT" bbox="224.888,200.592,229.626,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="229.336,200.592,235.010,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">t</text>
+<text font="Arial-BoldMT" bbox="235.010,200.592,245.422,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">h</text>
+<text font="Arial-BoldMT" bbox="245.422,200.592,250.159,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">i</text>
+<text font="Arial-BoldMT" bbox="250.091,200.592,259.565,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">s</text>
+<text font="Arial-BoldMT" bbox="259.565,200.592,264.302,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="264.353,200.592,274.765,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">h</text>
+<text font="Arial-BoldMT" bbox="274.765,200.592,284.239,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">a</text>
+<text font="Arial-BoldMT" bbox="284.239,200.592,294.650,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">p</text>
+<text font="Arial-BoldMT" bbox="294.701,200.592,305.113,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">p</text>
+<text font="Arial-BoldMT" bbox="305.113,200.592,314.587,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="314.587,200.592,324.998,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">n</text>
+<text font="Arial-BoldMT" bbox="325.150,200.592,330.824,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">-</text>
+<text font="Arial-BoldMT" bbox="330.790,200.592,336.464,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">-</text>
+<text font="Arial-BoldMT" bbox="336.430,200.592,345.904,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">a</text>
+<text font="Arial-BoldMT" bbox="345.904,200.592,350.641,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">l</text>
+<text font="Arial-BoldMT" bbox="350.590,200.592,365.739,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">m</text>
+<text font="Arial-BoldMT" bbox="365.739,200.592,376.150,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="376.150,200.592,385.624,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">s</text>
+<text font="Arial-BoldMT" bbox="385.624,200.592,391.299,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">t</text>
+<text font="Arial-BoldMT" bbox="391.299,200.592,396.036,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="395.831,200.592,405.306,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="405.306,200.592,414.780,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">v</text>
+<text font="Arial-BoldMT" bbox="414.439,200.592,423.913,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="423.913,200.592,430.542,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">r</text>
+<text font="Arial-BoldMT" bbox="430.542,200.592,440.016,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">y</text>
+<text font="Arial-BoldMT" bbox="439.880,200.592,444.617,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="445.145,200.592,460.294,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">m</text>
+<text font="Arial-BoldMT" bbox="460.294,200.592,470.705,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="470.705,200.592,481.117,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">n</text>
+<text font="Arial-BoldMT" bbox="481.117,200.592,486.791,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">t</text>
+<text font="Arial-BoldMT" bbox="486.791,200.592,497.202,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">h</text>
+<text font="Arial-BoldMT" bbox="497.202,200.592,501.940,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">,</text>
+<text font="Arial-BoldMT" bbox="501.940,200.592,506.677,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="506.472,200.592,515.946,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">s</text>
+<text font="Arial-BoldMT" bbox="515.946,200.592,526.358,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="526.358,200.592,541.506,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">m</text>
+<text font="Arial-BoldMT" bbox="541.506,200.592,550.981,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">e</text>
+<text font="Arial-BoldMT" bbox="550.981,200.592,555.718,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+<text font="Arial-BoldMT" bbox="555.769,200.592,570.917,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">m</text>
+<text font="Arial-BoldMT" bbox="570.917,200.592,581.329,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">o</text>
+<text font="Arial-BoldMT" bbox="581.329,200.592,591.740,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">n</text>
+<text font="Arial-BoldMT" bbox="591.740,200.592,597.415,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">t</text>
+<text font="Arial-BoldMT" bbox="597.415,200.592,607.826,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">h</text>
+<text font="Arial-BoldMT" bbox="607.826,200.592,617.300,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040">s</text>
+<text font="Arial-BoldMT" bbox="617.300,200.592,622.037,217.632" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="17.040"> </text>
+</textline>
+</normal_text>
+<normal_text id="6" bbox="112.220,355.652,640.613,405.362" size="17.048" unique_id="6">The food that I bought just didn&#8217;t last, and I didn&#8217;t have money to  
+get more.  Was that OFTEN, SOMETIMES, or NEVER true for you  
+in the last 12 months? <textline bbox="112.220,388.322,640.613,405.362" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">The food that I bought just didn&#8217;t last, and I didn&#8217;t have money to  </textline>
+<textline bbox="112.220,371.997,636.324,389.061" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.064" colourspace="DeviceGray">get more.  Was that OFTEN, SOMETIMES, or NEVER true for you  </textline>
+<textline bbox="112.220,355.652,292.128,372.692" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">in the last 12 months? </textline>
+</normal_text>
+<normal_text id="7" bbox="112.220,298.532,588.062,331.892" size="17.04" unique_id="7">I couldn&#8217;t afford to eat balanced meals.  Was that OFTEN,  
+SOMETIMES, or NEVER true for you in the last 12 months? <textline bbox="112.220,314.852,578.963,331.892" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">I couldn&#8217;t afford to eat balanced meals.  Was that OFTEN,  </textline>
+<textline bbox="112.220,298.532,588.062,315.572" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">SOMETIMES, or NEVER true for you in the last 12 months? </textline>
+</normal_text>
+<normal_text id="8" bbox="112.220,241.407,630.935,274.772" size="17.052" unique_id="8">In the last 12 months, did you ever cut the size of your meals or  
+skip meals because there wasn&#8217;t enough money for food? <textline bbox="112.220,257.732,630.935,274.772" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">In the last 12 months, did you ever cut the size of your meals or  </textline>
+<textline bbox="112.220,241.407,581.821,258.471" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.064" colourspace="DeviceGray">skip meals because there wasn&#8217;t enough money for food? </textline>
+</normal_text>
+<normal_text id="10" bbox="112.220,184.272,529.308,201.312" size="17.04" unique_id="10">but not every month, or in only one or two months? <textline bbox="112.220,184.272,529.308,201.312" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">but not every month, or in only one or two months? </textline>
+</normal_text>
+<normal_text id="11" bbox="112.220,127.147,604.301,160.512" size="17.052" unique_id="11">In the last 12 months, did you ever eat less than you felt you  
+should because there wasn&#8217;t enough money to buy food? <textline bbox="112.220,143.472,604.301,160.512" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">In the last 12 months, did you ever eat less than you felt you  </textline>
+<textline bbox="112.220,127.147,578.699,144.211" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.064" colourspace="DeviceGray">should because there wasn&#8217;t enough money to buy food? </textline>
+</normal_text>
+<normal_text id="12" bbox="112.220,70.006,583.274,103.366" size="17.04" unique_id="12">In the last 12 months, were you ever hungry but didn&#8217;t eat  
+because you couldn&#8217;t afford enough food? <textline bbox="112.220,86.326,583.274,103.366" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">In the last 12 months, were you ever hungry but didn&#8217;t eat  </textline>
+<textline bbox="112.220,70.006,457.297,87.046" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="17.040" colourspace="DeviceGray">because you couldn&#8217;t afford enough food? </textline>
+</normal_text>
+</enlisting></page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.224, 431.08711111111114, 483.51839999999993, 468.6737777777778]">
+<title id="0" bbox="85.224,430.832,448.430,468.872" size="38.04" unique_id="0">Food Security Scale <textline bbox="85.224,430.832,448.430,468.872" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="38.040" colourspace="DeviceGray">Food Security Scale </textline>
+</title>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.7.jpg" width="192" height="112" unique_id="6">
+</picture>
+<enlisting bbox="85.224,66.812,639.132,400.387" unique_id="['1', '  2', '  3', ' 4', '5']">&#8226; 3 levels 
+&#8226; 0-1 = Food Secure 
+&#8226; 2-4 = Low Food Security 
+&#8226; 5-6 = Very Low Food Security &#8226; http://www.fns.usda.gov/fsec/FILES/FSGuide.pdf 
+(general discussion) &#8226; http://www.ers.usda.gov/Briefing/FoodSecurity/surveyt <normal_text id="1" bbox="85.224,283.338,401.559,400.387" size="21.966" unique_id="1">&#8226; 3 levels 
+&#8226; 0-1 = Food Secure 
+&#8226; 2-4 = Low Food Security 
+&#8226; 5-6 = Very Low Food Security <textline bbox="85.224,378.403,186.746,400.387" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="21.984" colourspace="DeviceGray">&#8226; 3 levels </textline>
+<textline bbox="85.224,346.698,295.206,368.658" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="21.960" colourspace="DeviceGray">&#8226; 0-1 = Food Secure </textline>
+<textline bbox="85.224,315.018,351.446,336.978" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="21.960" colourspace="DeviceGray">&#8226; 2-4 = Low Food Security </textline>
+<textline bbox="85.224,283.338,401.559,305.298" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="21.960" colourspace="DeviceGray">&#8226; 5-6 = Very Low Food Security </textline>
+</normal_text>
+<normal_text id="2" bbox="85.224,188.278,587.610,241.918" size="21.96" unique_id="2">&#8226; http://www.fns.usda.gov/fsec/FILES/FSGuide.pdf 
+(general discussion) <textline bbox="85.224,219.958,587.610,241.918">&#8226; http://www.fns.usda.gov/fsec/FILES/FSGuide.pdf <text font="ArialMT" bbox="85.224,219.958,92.910,241.918" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="21.960">&#8226;</text>
+<text font="ArialMT" bbox="112.220,219.958,124.430,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">h</text>
+<text font="ArialMT" bbox="124.430,219.958,130.535,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">t</text>
+<text font="ArialMT" bbox="130.535,219.958,136.640,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">t</text>
+<text font="ArialMT" bbox="136.640,219.958,148.849,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">p</text>
+<text font="ArialMT" bbox="148.915,219.958,155.020,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">:</text>
+<text font="ArialMT" bbox="155.020,219.958,161.125,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">/</text>
+<text font="ArialMT" bbox="161.125,219.958,167.230,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">/</text>
+<text font="ArialMT" bbox="167.230,219.958,183.085,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">w</text>
+<text font="ArialMT" bbox="183.085,219.958,198.940,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">w</text>
+<text font="ArialMT" bbox="198.940,219.958,214.795,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">w</text>
+<text font="ArialMT" bbox="213.587,219.958,219.692,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">.</text>
+<text font="ArialMT" bbox="219.692,219.958,225.797,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">f</text>
+<text font="ArialMT" bbox="225.797,219.958,238.007,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">n</text>
+<text font="ArialMT" bbox="238.007,219.958,248.987,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">s</text>
+<text font="ArialMT" bbox="249.075,219.958,255.180,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">.</text>
+<text font="ArialMT" bbox="255.180,219.958,267.389,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">u</text>
+<text font="ArialMT" bbox="267.389,219.958,278.369,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">s</text>
+<text font="ArialMT" bbox="278.457,219.958,290.667,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">d</text>
+<text font="ArialMT" bbox="290.667,219.958,302.877,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">a</text>
+<text font="ArialMT" bbox="302.877,219.958,308.982,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">.</text>
+<text font="ArialMT" bbox="309.026,219.958,321.235,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">g</text>
+<text font="ArialMT" bbox="321.235,219.958,333.445,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">o</text>
+<text font="ArialMT" bbox="333.445,219.958,344.425,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">v</text>
+<text font="ArialMT" bbox="344.425,219.958,350.530,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">/</text>
+<text font="ArialMT" bbox="350.530,219.958,356.635,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">f</text>
+<text font="ArialMT" bbox="356.635,219.958,367.615,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">s</text>
+<text font="ArialMT" bbox="367.681,219.958,379.890,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">e</text>
+<text font="ArialMT" bbox="379.890,219.958,390.870,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">c</text>
+<text font="ArialMT" bbox="390.936,219.958,397.041,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">/</text>
+<text font="ArialMT" bbox="397.041,219.958,410.459,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">F</text>
+<text font="ArialMT" bbox="410.459,219.958,416.564,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">I</text>
+<text font="ArialMT" bbox="416.564,219.958,428.773,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">L</text>
+<text font="ArialMT" bbox="428.839,219.958,443.487,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">E</text>
+<text font="ArialMT" bbox="443.487,219.958,458.134,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">S</text>
+<text font="ArialMT" bbox="458.134,219.958,464.239,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">/</text>
+<text font="ArialMT" bbox="464.239,219.958,477.656,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">F</text>
+<text font="ArialMT" bbox="477.656,219.958,492.304,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">S</text>
+<text font="ArialMT" bbox="492.304,219.958,509.389,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">G</text>
+<text font="ArialMT" bbox="509.389,219.958,521.598,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">u</text>
+<text font="ArialMT" bbox="521.598,219.958,526.473,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">i</text>
+<text font="ArialMT" bbox="526.473,219.958,538.683,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">d</text>
+<text font="ArialMT" bbox="538.727,219.958,550.937,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">e</text>
+<text font="ArialMT" bbox="550.937,219.958,557.042,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">.</text>
+<text font="ArialMT" bbox="557.042,219.958,569.252,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">p</text>
+<text font="ArialMT" bbox="569.295,219.958,581.505,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">d</text>
+<text font="ArialMT" bbox="581.505,219.958,587.610,241.918" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.960">f</text>
+</textline>
+<textline bbox="85.224,188.278,282.227,210.238" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="21.960" colourspace="DeviceGray">(general discussion) </textline>
+</normal_text>
+<normal_text id="3" bbox="85.224,124.913,639.132,146.897" size="21.984" unique_id="3">&#8226; http://www.ers.usda.gov/Briefing/FoodSecurity/surveyt <textline bbox="85.224,124.913,639.132,146.897">&#8226; http://www.ers.usda.gov/Briefing/FoodSecurity/surveyt <text font="ArialMT" bbox="85.224,124.913,92.918,146.897" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="21.984">&#8226;</text>
+<text font="ArialMT" bbox="112.220,124.913,124.443,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">h</text>
+<text font="ArialMT" bbox="124.460,124.913,130.572,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">t</text>
+<text font="ArialMT" bbox="130.588,124.913,136.700,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">t</text>
+<text font="ArialMT" bbox="136.717,124.913,148.940,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">p</text>
+<text font="ArialMT" bbox="148.957,124.913,155.068,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">:</text>
+<text font="ArialMT" bbox="155.085,124.913,161.197,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">/</text>
+<text font="ArialMT" bbox="161.214,124.913,167.325,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">/</text>
+<text font="ArialMT" bbox="167.342,124.913,183.215,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">w</text>
+<text font="ArialMT" bbox="183.144,124.913,199.016,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">w</text>
+<text font="ArialMT" bbox="199.033,124.913,214.905,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">w</text>
+<text font="ArialMT" bbox="213.625,124.913,219.737,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">.</text>
+<text font="ArialMT" bbox="219.754,124.913,231.977,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">e</text>
+<text font="ArialMT" bbox="231.994,124.913,239.314,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">r</text>
+<text font="ArialMT" bbox="239.331,124.913,250.323,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">s</text>
+<text font="ArialMT" bbox="250.340,124.913,256.452,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">.</text>
+<text font="ArialMT" bbox="256.469,124.913,268.692,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">u</text>
+<text font="ArialMT" bbox="268.709,124.913,279.701,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">s</text>
+<text font="ArialMT" bbox="279.718,124.913,291.941,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">d</text>
+<text font="ArialMT" bbox="291.958,124.913,304.181,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">a</text>
+<text font="ArialMT" bbox="304.198,124.913,310.309,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">.</text>
+<text font="ArialMT" bbox="310.326,124.913,322.549,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">g</text>
+<text font="ArialMT" bbox="322.566,124.913,334.789,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">o</text>
+<text font="ArialMT" bbox="334.806,124.913,345.798,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">v</text>
+<text font="ArialMT" bbox="345.749,124.913,351.861,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">/</text>
+<text font="ArialMT" bbox="351.877,124.913,366.541,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">B</text>
+<text font="ArialMT" bbox="366.558,124.913,373.878,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">r</text>
+<text font="ArialMT" bbox="373.829,124.913,378.710,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">i</text>
+<text font="ArialMT" bbox="378.727,124.913,390.950,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">e</text>
+<text font="ArialMT" bbox="390.967,124.913,397.078,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">f</text>
+<text font="ArialMT" bbox="397.095,124.913,401.976,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">i</text>
+<text font="ArialMT" bbox="401.992,124.913,414.216,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">n</text>
+<text font="ArialMT" bbox="414.232,124.913,426.456,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">g</text>
+<text font="ArialMT" bbox="426.472,124.913,432.584,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">/</text>
+<text font="ArialMT" bbox="432.601,124.913,446.033,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">F</text>
+<text font="ArialMT" bbox="446.050,124.913,458.273,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">o</text>
+<text font="ArialMT" bbox="458.290,124.913,470.513,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">o</text>
+<text font="ArialMT" bbox="470.530,124.913,482.753,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">d</text>
+<text font="ArialMT" bbox="482.770,124.913,497.433,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">S</text>
+<text font="ArialMT" bbox="497.450,124.913,509.673,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">e</text>
+<text font="ArialMT" bbox="509.690,124.913,520.682,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">c</text>
+<text font="ArialMT" bbox="520.699,124.913,532.922,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">u</text>
+<text font="ArialMT" bbox="532.939,124.913,540.260,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">r</text>
+<text font="ArialMT" bbox="540.277,124.913,545.157,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">i</text>
+<text font="ArialMT" bbox="545.174,124.913,551.286,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">t</text>
+<text font="ArialMT" bbox="551.303,124.913,562.295,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">y</text>
+<text font="ArialMT" bbox="562.224,124.913,568.335,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">/</text>
+<text font="ArialMT" bbox="568.352,124.913,579.344,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">s</text>
+<text font="ArialMT" bbox="579.361,124.913,591.584,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">u</text>
+<text font="ArialMT" bbox="591.601,124.913,598.922,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">r</text>
+<text font="ArialMT" bbox="598.938,124.913,609.930,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">v</text>
+<text font="ArialMT" bbox="609.859,124.913,622.083,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">e</text>
+<text font="ArialMT" bbox="622.099,124.913,633.091,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">y</text>
+<text font="ArialMT" bbox="633.020,124.913,639.132,146.897" colourspace="DeviceGray" ncolour="(0.0627, 0.22, 0.388)" size="21.984">t</text>
+</textline>
+</normal_text>
+<normal_text id="4" bbox="112.220,98.488,298.133,120.448" size="21.96" unique_id="4">ools/short2006.doc <textline bbox="112.220,98.488,298.133,120.448" font="ArialMT" ncolour="(0.0627, 0.22, 0.388)" size="21.960" colourspace="DeviceGray">ools/short2006.doc </textline>
+</normal_text>
+<normal_text id="5" bbox="85.224,66.812,571.880,88.772" size="21.96" unique_id="5">(Six Item Scale discussion, revised January 2008) <textline bbox="85.224,66.812,571.880,88.772" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="21.960" colourspace="DeviceGray">(Six Item Scale discussion, revised January 2008) </textline>
+</normal_text>
+</enlisting></page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.22399999999999, 431.0407272727273, 497.49359999999996, 468.7098181818182]">
+<title id="0" bbox="85.224,430.832,560.382,468.872" size="38.04" unique_id="0">Food Stamp Use Question <textline bbox="85.224,430.832,560.382,468.872" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="38.040" colourspace="DeviceGray">Food Stamp Use Question </textline>
+</title>
+<enlisting id="1" bbox="85.224,279.962,614.193,399.651" size="26.064" unique_id="['1', '2']">&#8226; In the last twelve months, have you or  <textline bbox="85.224,373.587,589.556,399.651">&#8226; In the last twelve months, have you or  <text font="ArialMT" bbox="85.224,373.587,94.346,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">&#8226;</text>
+<text font="Arial-BoldMT" bbox="112.220,373.587,119.466,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">I</text>
+<text font="Arial-BoldMT" bbox="119.466,373.587,135.391,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">n</text>
+<text font="Arial-BoldMT" bbox="135.391,373.587,142.637,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064"> </text>
+<text font="Arial-BoldMT" bbox="142.637,373.587,151.316,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">t</text>
+<text font="Arial-BoldMT" bbox="151.212,373.587,167.137,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">h</text>
+<text font="Arial-BoldMT" bbox="167.137,373.587,181.628,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">e</text>
+<text font="Arial-BoldMT" bbox="181.628,373.587,188.874,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064"> </text>
+<text font="Arial-BoldMT" bbox="188.874,373.587,196.120,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">l</text>
+<text font="Arial-BoldMT" bbox="196.120,373.587,210.612,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">a</text>
+<text font="Arial-BoldMT" bbox="210.612,373.587,225.103,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">s</text>
+<text font="Arial-BoldMT" bbox="225.103,373.587,233.782,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">t</text>
+<text font="Arial-BoldMT" bbox="233.782,373.587,241.028,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064"> </text>
+<text font="Arial-BoldMT" bbox="241.028,373.587,249.708,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">t</text>
+<text font="Arial-BoldMT" bbox="249.603,373.587,269.881,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">w</text>
+<text font="Arial-BoldMT" bbox="270.090,373.587,284.581,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">e</text>
+<text font="Arial-BoldMT" bbox="284.581,373.587,291.827,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">l</text>
+<text font="Arial-BoldMT" bbox="291.827,373.587,306.319,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">v</text>
+<text font="Arial-BoldMT" bbox="306.319,373.587,320.810,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">e</text>
+<text font="Arial-BoldMT" bbox="320.810,373.587,328.056,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064"> </text>
+<text font="Arial-BoldMT" bbox="327.821,373.587,350.992,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">m</text>
+<text font="Arial-BoldMT" bbox="350.992,373.587,366.917,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">o</text>
+<text font="Arial-BoldMT" bbox="366.917,373.587,382.843,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">n</text>
+<text font="Arial-BoldMT" bbox="382.843,373.587,391.522,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">t</text>
+<text font="Arial-BoldMT" bbox="391.522,373.587,407.447,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">h</text>
+<text font="Arial-BoldMT" bbox="407.447,373.587,421.939,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">s</text>
+<text font="Arial-BoldMT" bbox="421.991,373.587,429.236,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">,</text>
+<text font="Arial-BoldMT" bbox="429.236,373.587,436.482,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064"> </text>
+<text font="Arial-BoldMT" bbox="436.143,373.587,452.068,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">h</text>
+<text font="Arial-BoldMT" bbox="452.068,373.587,466.560,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">a</text>
+<text font="Arial-BoldMT" bbox="466.560,373.587,481.052,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">v</text>
+<text font="Arial-BoldMT" bbox="481.130,373.587,495.621,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">e</text>
+<text font="Arial-BoldMT" bbox="495.621,373.587,502.867,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064"> </text>
+<text font="Arial-BoldMT" bbox="502.737,373.587,517.228,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">y</text>
+<text font="Arial-BoldMT" bbox="517.020,373.587,532.945,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">o</text>
+<text font="Arial-BoldMT" bbox="532.945,373.587,548.870,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">u</text>
+<text font="Arial-BoldMT" bbox="548.870,373.587,556.116,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064"> </text>
+<text font="Arial-BoldMT" bbox="556.246,373.587,572.171,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">o</text>
+<text font="Arial-BoldMT" bbox="572.171,373.587,582.310,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064">r</text>
+<text font="Arial-BoldMT" bbox="582.310,373.587,589.556,399.651" colourspace="DeviceGray" ncolour="(0, 0.529, 0.769)" size="26.064"> </text>
+</textline>
+<normal_text id="2" bbox="112.220,279.962,614.193,368.402" size="26.040000000000003" unique_id="2">other adults in your household received  
+Food Stamps or Food Stamp benefits  
+through the EBT card? <textline bbox="112.220,342.362,614.193,368.402" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">other adults in your household received  </textline>
+<textline bbox="112.220,311.162,581.982,337.202" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">Food Stamps or Food Stamp benefits  </textline>
+<textline bbox="112.220,279.962,393.999,306.002" font="Arial-BoldMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">through the EBT card? </textline>
+</normal_text>
+</enlisting>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.8.jpg" width="192" height="112" unique_id="3">
+</picture>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.22399999999999, 424.58777272727275, 523.2191666666666, 475.23951515151515]">
+<title id="0" bbox="85.224,392.323,651.847,507.888" size="33.967999999999996" unique_id="0">Estimated Prevalence of Food  
+Stamp Use and Food Insecurity by  
+Federal Poverty Levels <textline bbox="85.224,473.928,580.055,507.888" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="33.960" colourspace="DeviceGray">Estimated Prevalence of Food  </textline>
+<textline bbox="85.224,433.128,651.847,467.088" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="33.960" colourspace="DeviceGray">Stamp Use and Food Insecurity by  </textline>
+<textline bbox="85.224,392.323,455.310,426.307" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="33.984" colourspace="DeviceGray">Federal Poverty Levels </textline>
+</title>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.9.jpg" width="192" height="112" unique_id="1">
+</picture>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[85.224, 425.5484230769231, 495.4729871794871, 474.2598974358974]">
+<title id="0" bbox="85.224,430.832,342.869,468.872" size="38.04" unique_id="0">Staying ahead <textline bbox="85.224,430.832,342.869,468.872" font="Arial-BoldMT" ncolour="(0.894, 0.49, 0.165)" size="38.040" colourspace="DeviceGray">Staying ahead </textline>
+</title>
+<picture name="Image14" bbox="528.000,0.000,720.000,112.440" src="Image14.10.jpg" width="192" height="112" unique_id="4">
+</picture>
+<enlisting bbox="85.224,92.716,643.097,402.771" unique_id="['1', ' 3', '2']">&#8226; Buying questions for inclusion and continuity 
+&#8226; Aggregating multiple years of data 
+&#8226; Constructing indicators from existing variables 
+&#8226; Institutionalizing 130% and 185% Federal  &#8226; Making available questions on food security 
+&#8226; Promoting the national use of 130% and  
+185% Federal Poverty Level indicators to  
+specifically target USDA funded low-income  
+populations.  <normal_text id="1" bbox="85.224,273.722,643.097,402.771" size="26.046" unique_id="1">&#8226; Buying questions for inclusion and continuity 
+&#8226; Aggregating multiple years of data 
+&#8226; Constructing indicators from existing variables 
+&#8226; Institutionalizing 130% and 185% Federal  <textline bbox="85.224,376.707,624.716,402.771" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">&#8226; Buying questions for inclusion and continuity </textline>
+<textline bbox="85.224,342.362,507.351,368.402" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Aggregating multiple years of data </textline>
+<textline bbox="85.224,308.042,643.097,334.082" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Constructing indicators from existing variables </textline>
+<textline bbox="85.224,273.722,598.699,299.762" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Institutionalizing 130% and 185% Federal  </textline>
+</normal_text>
+<normal_text id="3" bbox="85.224,92.716,623.284,237.342" size="26.0448" unique_id="3">&#8226; Making available questions on food security 
+&#8226; Promoting the national use of 130% and  
+185% Federal Poverty Level indicators to  
+specifically target USDA funded low-income  
+populations.  <textline bbox="85.224,211.302,615.886,237.342" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Making available questions on food security </textline>
+<textline bbox="85.224,176.982,582.893,203.022" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">&#8226; Promoting the national use of 130% and  </textline>
+<textline bbox="112.220,148.902,593.986,174.942" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">185% Federal Poverty Level indicators to  </textline>
+<textline bbox="112.220,120.817,623.284,146.881" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">specifically target USDA funded low-income  </textline>
+<textline bbox="112.220,92.716,260.049,118.756" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.040" colourspace="DeviceGray">populations.  </textline>
+</normal_text>
+<normal_text id="2" bbox="112.220,245.637,390.166,271.701" size="26.064" unique_id="2">Poverty Level Indicators <textline bbox="112.220,245.637,390.166,271.701" font="ArialMT" ncolour="(0, 0.529, 0.769)" size="26.064" colourspace="DeviceGray">Poverty Level Indicators </textline>
+</normal_text>
+</enlisting></page>
+</pages>

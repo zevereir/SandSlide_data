@@ -1,0 +1,306 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="24.648,352.002,707.796,448.842" size="44.04">ALIAS Instrument Capabilities and  
+Tracer Measurements <textline bbox="24.648,404.802,707.796,448.842" font="ArialMT" ncolour="0" size="44.040" colourspace="Pattern">ALIAS Instrument Capabilities and  </textline>
+<textline bbox="145.390,352.002,574.648,396.042" font="ArialMT" ncolour="0" size="44.040" colourspace="Pattern">Tracer Measurements </textline>
+</textbox>
+<textbox id="1" bbox="216.100,209.090,503.812,264.809" size="24.012">Dr. Lance E. Christensen 
+Dr. Christopher R. Webster <textline bbox="226.660,240.785,493.350,264.809" font="ArialMT" ncolour="0" size="24.024" colourspace="Pattern">Dr. Lance E. Christensen </textline>
+<textline bbox="216.100,209.090,503.812,233.090" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Dr. Christopher R. Webster </textline>
+</textbox>
+<textbox id="2" bbox="147.070,82.344,572.782,169.730" size="24.0">Atmospheric Laser Spectroscopy Group 
+Jet Propulsion Laboratory 
+September 19, 2005 <textline bbox="147.070,145.730,572.782,169.730" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Atmospheric Laser Spectroscopy Group </textline>
+<textline bbox="223.180,114.020,496.732,138.020" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Jet Propulsion Laboratory </textline>
+<textline bbox="251.260,82.344,468.724,106.344" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">September 19, 2005 </textline>
+</textbox>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="157.870,491.995,508.095,528.019" size="36.024">ALIAS Characteristics <textline bbox="157.870,491.995,508.095,528.019" font="ArialMT" ncolour="0" size="36.024" colourspace="Pattern">ALIAS Characteristics </textline>
+</textbox>
+<textbox id="1" bbox="7.200,443.988,619.053,471.948" size="27.96">&#8226; Laser absorbance/2f detection, 80-m or 160-m  <textline bbox="7.200,443.988,619.053,471.948" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">&#8226; Laser absorbance/2f detection, 80-m or 160-m  </textline>
+</textbox>
+<textbox id="2" bbox="34.200,417.108,172.910,445.068" size="27.96">pathlength. <textline bbox="34.200,417.108,172.910,445.068" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">pathlength. </textline>
+</textbox>
+<textbox id="3" bbox="7.200,349.878,535.886,377.838" size="27.96">&#8226; Four channels, broad spectral coverage: <textline bbox="7.200,349.878,535.886,377.838" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">&#8226; Four channels, broad spectral coverage: </textline>
+</textbox>
+<textbox id="4" bbox="43.200,234.530,231.600,344.950" size="24.0">1) Methane  
+2) Water Isotopes 
+3) Water Isotopes 
+4) Water <textline bbox="43.200,320.950,171.264,344.950" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">1) Methane  </textline>
+<textline bbox="43.200,292.150,231.600,316.150" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">2) Water Isotopes </textline>
+<textline bbox="43.200,263.350,231.600,287.350" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">3) Water Isotopes </textline>
+<textline bbox="43.200,234.530,134.376,258.530" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">4) Water </textline>
+</textbox>
+<textbox id="5" bbox="295.250,234.530,369.022,344.950" size="24.0">3.4 &#181;m 
+6.7 &#181;m 
+6.7 &#181;m 
+1.9 &#181;m <textline bbox="295.250,320.950,369.022,344.950" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">3.4 &#181;m </textline>
+<textline bbox="295.250,292.150,369.002,316.150" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">6.7 &#181;m </textline>
+<textline bbox="295.250,263.350,369.002,287.350" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">6.7 &#181;m </textline>
+<textline bbox="295.250,234.530,369.002,258.530" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">1.9 &#181;m </textline>
+</textbox>
+<textbox id="6" bbox="439.270,234.530,581.980,344.950" size="24.0">IC laser 
+QC laser 
+QC laser 
+Near-IR laser <textline bbox="439.270,320.950,521.854,344.950" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">IC laser </textline>
+<textline bbox="439.270,292.150,533.878,316.150" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">QC laser </textline>
+<textline bbox="439.270,263.350,533.878,287.350" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">QC laser </textline>
+<textline bbox="439.270,234.530,581.980,258.530" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Near-IR laser </textline>
+</textbox>
+<textbox id="7" bbox="7.200,167.458,427.034,195.418" size="27.96">&#8226; Regulated inlet flow - isokinetic. <textline bbox="7.200,167.458,427.034,195.418" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">&#8226; Regulated inlet flow - isokinetic. </textline>
+</textbox>
+<textbox id="8" bbox="7.200,100.228,460.273,129.289" size="27.96">&#8226; 16 L sec-1 flow through instrument. <textline bbox="7.200,100.228,460.273,129.289">&#8226; 16 L sec-1 flow through instrument. <text font="ArialMT" bbox="7.200,100.228,16.986,128.188" colourspace="Pattern" ncolour="0" size="27.960">&#8226;</text>
+<text font="ArialMT" bbox="34.200,100.228,49.746,128.188" colourspace="Pattern" ncolour="0" size="27.960">1</text>
+<text font="ArialMT" bbox="49.746,100.228,65.292,128.188" colourspace="Pattern" ncolour="0" size="27.960">6</text>
+<text font="ArialMT" bbox="65.375,100.228,73.148,128.188" colourspace="Pattern" ncolour="0" size="27.960"> </text>
+<text font="ArialMT" bbox="73.148,100.228,88.694,128.188" colourspace="Pattern" ncolour="0" size="27.960">L</text>
+<text font="ArialMT" bbox="87.687,100.228,95.460,128.188" colourspace="Pattern" ncolour="0" size="27.960"> </text>
+<text font="ArialMT" bbox="95.460,100.228,109.440,128.188" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="ArialMT" bbox="109.496,100.228,125.042,128.188" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="ArialMT" bbox="125.042,100.228,139.022,128.188" colourspace="Pattern" ncolour="0" size="27.960">c</text>
+<text font="ArialMT" bbox="139.220,110.569,145.454,129.289" colourspace="Pattern" ncolour="0" size="18.720">-</text>
+<text font="ArialMT" bbox="145.460,110.569,155.868,129.289" colourspace="Pattern" ncolour="0" size="18.720">1</text>
+<text font="ArialMT" bbox="155.900,110.569,161.104,129.289" colourspace="Pattern" ncolour="0" size="18.720"> </text>
+<text font="ArialMT" bbox="160.940,100.228,168.713,128.188" colourspace="Pattern" ncolour="0" size="27.960">f</text>
+<text font="ArialMT" bbox="168.713,100.228,174.920,128.188" colourspace="Pattern" ncolour="0" size="27.960">l</text>
+<text font="ArialMT" bbox="174.920,100.228,190.466,128.188" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="ArialMT" bbox="190.550,100.228,210.737,128.188" colourspace="Pattern" ncolour="0" size="27.960">w</text>
+<text font="ArialMT" bbox="210.737,100.228,218.510,128.188" colourspace="Pattern" ncolour="0" size="27.960"> </text>
+<text font="ArialMT" bbox="218.510,100.228,226.283,128.188" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="ArialMT" bbox="226.283,100.228,241.828,128.188" colourspace="Pattern" ncolour="0" size="27.960">h</text>
+<text font="ArialMT" bbox="241.828,100.228,251.139,128.188" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="ArialMT" bbox="251.251,100.228,266.797,128.188" colourspace="Pattern" ncolour="0" size="27.960">o</text>
+<text font="ArialMT" bbox="266.797,100.228,282.342,128.188" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="ArialMT" bbox="282.426,100.228,297.972,128.188" colourspace="Pattern" ncolour="0" size="27.960">g</text>
+<text font="ArialMT" bbox="297.972,100.228,313.518,128.188" colourspace="Pattern" ncolour="0" size="27.960">h</text>
+<text font="ArialMT" bbox="313.602,100.228,321.374,128.188" colourspace="Pattern" ncolour="0" size="27.960"> </text>
+<text font="ArialMT" bbox="321.374,100.228,327.582,128.188" colourspace="Pattern" ncolour="0" size="27.960">i</text>
+<text font="ArialMT" bbox="327.582,100.228,343.127,128.188" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="ArialMT" bbox="343.211,100.228,357.191,128.188" colourspace="Pattern" ncolour="0" size="27.960">s</text>
+<text font="ArialMT" bbox="357.191,100.228,364.964,128.188" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="ArialMT" bbox="365.020,100.228,374.331,128.188" colourspace="Pattern" ncolour="0" size="27.960">r</text>
+<text font="ArialMT" bbox="374.331,100.228,389.876,128.188" colourspace="Pattern" ncolour="0" size="27.960">u</text>
+<text font="ArialMT" bbox="389.960,100.228,413.251,128.188" colourspace="Pattern" ncolour="0" size="27.960">m</text>
+<text font="ArialMT" bbox="413.251,100.228,428.797,128.188" colourspace="Pattern" ncolour="0" size="27.960">e</text>
+<text font="ArialMT" bbox="428.797,100.228,444.343,128.188" colourspace="Pattern" ncolour="0" size="27.960">n</text>
+<text font="ArialMT" bbox="444.398,100.228,452.171,128.188" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="ArialMT" bbox="452.500,100.228,460.273,128.188" colourspace="Pattern" ncolour="0" size="27.960">.</text>
+</textline>
+</textbox>
+<textbox id="9" bbox="7.200,33.032,568.683,60.992" size="27.96">&#8226; Temperature of measured gas is regulated. <textline bbox="7.200,33.032,568.683,60.992" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">&#8226; Temperature of measured gas is regulated. </textline>
+</textbox>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,489.123,229.511,529.107" size="39.984">Inlet/airflow <textline bbox="7.200,489.123,229.511,529.107" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984" colourspace="Pattern">Inlet/airflow </textline>
+</textbox>
+<textbox id="1" bbox="13.200,340.038,396.161,435.228" size="27.968">Differential pressure  
+measurement at inlet.  Valve  
+regulation of impedance. <textline bbox="13.200,407.268,293.331,435.228" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="Pattern">Differential pressure  </textline>
+<textline bbox="13.200,373.663,396.161,401.647" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="Pattern">measurement at inlet.  Valve  </textline>
+<textline bbox="13.200,340.038,344.498,367.998" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="Pattern">regulation of impedance. </textline>
+</textbox>
+<textbox id="2" bbox="547.300,371.135,642.004,423.940" size="24.012">Butterfly  
+valve <textline bbox="547.300,399.940,642.004,423.940" font="ArialMT" ncolour="(1, 0, 0)" size="24.000" colourspace="Pattern">Butterfly  </textline>
+<textline bbox="547.300,371.135,603.276,395.159" font="ArialMT" ncolour="(1, 0, 0)" size="24.024" colourspace="Pattern">valve </textline>
+</textbox>
+<textbox id="3" bbox="19.200,155.090,132.576,207.890" size="24.0">Free- 
+stream tap <textline bbox="19.200,183.890,76.536,207.890" font="ArialMT" ncolour="(1, 0, 0)" size="24.000" colourspace="Pattern">Free- </textline>
+<textline bbox="19.200,155.090,132.576,179.090" font="ArialMT" ncolour="(1, 0, 0)" size="24.000" colourspace="Pattern">stream tap </textline>
+</textbox>
+<textbox id="4" bbox="223.250,3.859,308.631,27.883" size="24.024">Inlet tap <textline bbox="223.250,3.859,308.631,27.883" font="ArialMT" ncolour="(1, 0, 0)" size="24.024" colourspace="Pattern">Inlet tap </textline>
+</textbox>
+<figure name="Image22" bbox="12.000,0.000,702.000,441.480" src="Image22.1013x649.bmp" width="690" height="441">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,489.123,229.511,529.107" size="39.984">Inlet/airflow <textline bbox="7.200,489.123,229.511,529.107" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984" colourspace="Pattern">Inlet/airflow </textline>
+</textbox>
+<textbox id="1" bbox="248.020,475.780,471.940,511.780" size="36.0">Isokinetic flow <textline bbox="248.020,475.780,471.940,511.780" font="ArialMT" ncolour="0" size="36.000" colourspace="Pattern">Isokinetic flow </textline>
+</textbox>
+<figure name="Image29" bbox="60.000,0.000,654.000,461.160" src="Image29.jpg" width="594" height="461">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,489.123,229.511,529.107" size="39.984">Inlet/airflow <textline bbox="7.200,489.123,229.511,529.107" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984" colourspace="Pattern">Inlet/airflow </textline>
+</textbox>
+<textbox id="1" bbox="7.200,425.268,709.824,453.228" size="27.96">Orifice-plate Flowmeter confirms flow through instrument <textline bbox="7.200,425.268,709.824,453.228" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">Orifice-plate Flowmeter confirms flow through instrument </textline>
+</textbox>
+<figure name="Image33" bbox="102.000,0.120,654.000,408.000" src="Image33.jpg" width="552" height="407">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,489.123,396.284,529.107" size="39.984">Airflow/water signal. <textline bbox="7.200,489.123,396.284,529.107" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984" colourspace="Pattern">Airflow/water signal. </textline>
+</textbox>
+<textbox id="1" bbox="7.200,437.268,568.512,465.228" size="27.96">No significant contamination from fore-optics. <textline bbox="7.200,437.268,568.512,465.228" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">No significant contamination from fore-optics. </textline>
+</textbox>
+<textbox id="2" bbox="7.200,386.863,558.897,414.847" size="27.984">Herriott cell: 80-160m.  Near-IR laser: 0.14m <textline bbox="7.200,386.863,558.897,414.847" font="ArialMT" ncolour="0" size="27.984" colourspace="Pattern">Herriott cell: 80-160m.  Near-IR laser: 0.14m </textline>
+</textbox>
+<textbox id="3" bbox="631.320,228.040,695.196,246.040" size="18.0">Near-IR <textline bbox="631.320,228.040,695.196,246.040" font="Arial-BoldMT" ncolour="(0.4, 1, 0.2)" size="18.000" colourspace="Pattern">Near-IR </textline>
+</textbox>
+<textbox id="4" bbox="445.270,111.792,497.246,125.832" size="14.04">DEWAR <textline bbox="445.270,111.792,497.246,125.832" font="ArialMT" ncolour="0" size="14.040" colourspace="Pattern">DEWAR </textline>
+</textbox>
+<figure name="Image37" bbox="0.000,36.960,720.000,354.000" src="Image37.jpg" width="720" height="317">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,425.140,678.550,529.107" size="29.328000000000003">Airflow/water signal. 
+Wind-tunnel experiments, scale-model water experiments, and  
+numerical analysis indicate: <textline bbox="7.200,489.123,396.284,529.107" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984" colourspace="Pattern">Airflow/water signal. </textline>
+<textline bbox="7.200,453.940,678.550,477.940" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Wind-tunnel experiments, scale-model water experiments, and  </textline>
+<textline bbox="7.200,425.140,300.744,449.140" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">numerical analysis indicate: </textline>
+</textbox>
+<textbox id="1" bbox="7.200,381.940,481.850,405.940" size="24.0">&#8226; Virtually no end-to-end pressure difference. <textline bbox="7.200,381.940,481.850,405.940" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">&#8226; Virtually no end-to-end pressure difference. </textline>
+</textbox>
+<textbox id="2" bbox="7.200,338.710,513.192,362.710" size="24.0">&#8226; Gas is well mixed throughout the analysis cell. <textline bbox="7.200,338.710,513.192,362.710" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">&#8226; Gas is well mixed throughout the analysis cell. </textline>
+</textbox>
+<textbox id="3" bbox="7.200,295.510,333.024,319.510" size="24.0">&#8226; 1/e residence time is 1.7 sec. <textline bbox="7.200,295.510,333.024,319.510" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">&#8226; 1/e residence time is 1.7 sec. </textline>
+</textbox>
+<figure name="Image43" bbox="102.000,0.000,641.880,293.280" src="Image43.720x391.bmp" width="539" height="293">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,489.123,396.284,529.107" size="39.984">Airflow/water signal. <textline bbox="7.200,489.123,396.284,529.107" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984" colourspace="Pattern">Airflow/water signal. </textline>
+</textbox>
+<textbox id="1" bbox="49.200,455.268,674.302,483.228" size="27.96">Very little evidence of significant water outgassing. <textline bbox="49.200,455.268,674.302,483.228" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">Very little evidence of significant water outgassing. </textline>
+</textbox>
+<figure name="Image47" bbox="24.000,0.000,702.000,491.400" src="Image47.jpg" width="678" height="491">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,489.123,379.611,529.107" size="39.984">Temperaure control <textline bbox="7.200,489.123,379.611,529.107" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984" colourspace="Pattern">Temperaure control </textline>
+</textbox>
+<textbox id="1" bbox="19.200,419.268,424.201,447.228" size="27.96">All water particles are vaporized. <textline bbox="19.200,419.268,424.201,447.228" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">All water particles are vaporized. </textline>
+</textbox>
+<textbox id="2" bbox="7.200,335.238,282.606,363.198" size="27.96">Spear: 500W heating <textline bbox="7.200,335.238,282.606,363.198" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="27.960" colourspace="Pattern">Spear: 500W heating </textline>
+</textbox>
+<textbox id="3" bbox="181.220,11.187,436.630,39.171" size="27.984">Inlet: 150W heating <textline bbox="181.220,11.187,436.630,39.171" font="Arial-BoldMT" ncolour="(1, 0, 0)" size="27.984" colourspace="Pattern">Inlet: 150W heating </textline>
+</textbox>
+<figure name="Image22" bbox="0.000,0.000,720.000,460.800" src="Image22.0.1013x649.bmp" width="720" height="460">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,489.123,379.611,529.107" size="39.984">Temperaure control <textline bbox="7.200,489.123,379.611,529.107" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984" colourspace="Pattern">Temperaure control </textline>
+</textbox>
+<textbox id="1" bbox="79.224,4.059,606.107,32.043" size="27.984">Temperature is well regulated during flight. <textline bbox="79.224,4.059,606.107,32.043" font="ArialMT" ncolour="0" size="27.984" colourspace="Pattern">Temperature is well regulated during flight. </textline>
+</textbox>
+<figure name="Image55" bbox="54.000,34.200,636.000,486.000" src="Image55.jpg" width="582" height="451">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="19.200,482.081,93.892,529.107" size="39.984">N2O <textline bbox="19.200,482.081,93.892,529.107">N2O <text font="Arial-BoldMT" bbox="19.200,489.123,48.068,529.107" colourspace="Pattern" ncolour="(1, 0.2, 0.8)" size="39.984">N</text>
+<text font="Arial-BoldMT" bbox="48.000,482.081,62.825,508.745" colourspace="Pattern" ncolour="(1, 0.2, 0.8)" size="26.664">2</text>
+<text font="Arial-BoldMT" bbox="62.784,489.123,93.892,529.107" colourspace="Pattern" ncolour="(1, 0.2, 0.8)" size="39.984">O</text>
+</textline>
+</textbox>
+<figure name="Image59" bbox="0.000,-1.920,720.000,540.000" src="Image59.jpg" width="720" height="541">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,489.123,344.425,529.107" size="39.984">Carbon Monoxide <textline bbox="7.200,489.123,344.425,529.107" font="Arial-BoldMT" ncolour="(1, 0.2, 0.8)" size="39.984" colourspace="Pattern">Carbon Monoxide </textline>
+</textbox>
+<figure name="Image63" bbox="0.000,0.000,720.000,540.000" src="Image63.jpg" width="720" height="540">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,482.081,79.649,529.107" size="39.984">CH4 <textline bbox="7.200,482.081,79.649,529.107">CH4 <text font="Arial-BoldMT" bbox="7.200,489.123,36.068,529.107" colourspace="Pattern" ncolour="(1, 0.2, 0.8)" size="39.984">C</text>
+<text font="Arial-BoldMT" bbox="36.000,489.123,64.868,529.107" colourspace="Pattern" ncolour="(1, 0.2, 0.8)" size="39.984">H</text>
+<text font="Arial-BoldMT" bbox="64.824,482.081,79.649,508.745" colourspace="Pattern" ncolour="(1, 0.2, 0.8)" size="26.664">4</text>
+</textline>
+</textbox>
+<figure name="Image67" bbox="84.000,0.000,702.000,503.400" src="Image67.1371x1036.bmp" width="618" height="503">
+</figure>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,482.081,79.649,529.107" size="39.984">CH4 <textline bbox="7.200,482.081,79.649,529.107">CH4 <text font="Arial-BoldMT" bbox="7.200,489.123,36.068,529.107" colourspace="Pattern" ncolour="(1, 0.2, 0.8)" size="39.984">C</text>
+<text font="Arial-BoldMT" bbox="36.000,489.123,64.868,529.107" colourspace="Pattern" ncolour="(1, 0.2, 0.8)" size="39.984">H</text>
+<text font="Arial-BoldMT" bbox="64.824,482.081,79.649,508.745" colourspace="Pattern" ncolour="(1, 0.2, 0.8)" size="26.664">4</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="589.320,482.747,697.164,502.811" size="20.064">July 3, 2005 <textline bbox="589.320,482.747,697.164,502.811" font="ArialMT" ncolour="0" size="20.064" colourspace="Pattern">July 3, 2005 </textline>
+</textbox>
+<textbox id="2" bbox="589.320,446.732,659.640,466.772" size="20.04">descent <textline bbox="589.320,446.732,659.640,466.772" font="ArialMT" ncolour="0" size="20.040" colourspace="Pattern">descent </textline>
+</textbox>
+<textbox id="3" bbox="589.320,212.682,697.115,232.722" size="20.04">July 7, 2005 <textline bbox="589.320,212.682,697.115,232.722" font="ArialMT" ncolour="0" size="20.040" colourspace="Pattern">July 7, 2005 </textline>
+</textbox>
+<textbox id="4" bbox="589.320,176.682,659.640,196.722" size="20.04">descent <textline bbox="589.320,176.682,659.640,196.722" font="ArialMT" ncolour="0" size="20.040" colourspace="Pattern">descent </textline>
+</textbox>
+<figure name="Image71" bbox="90.000,250.680,588.000,540.000" src="Image71.jpg" width="498" height="289">
+</figure>
+<figure name="Image72" bbox="90.000,0.000,588.000,288.960" src="Image72.jpg" width="498" height="288">
+</figure>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="19.200,503.283,661.263,531.267" size="27.984">Better Signal-to-Noise for water has been achieved. <textline bbox="19.200,503.283,661.263,531.267" font="ArialMT" ncolour="0" size="27.984" colourspace="Pattern">Better Signal-to-Noise for water has been achieved. </textline>
+</textbox>
+<textbox id="1" bbox="19.200,452.868,556.759,480.828" size="27.96">Shielding and filtering have been improved. <textline bbox="19.200,452.868,556.759,480.828" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">Shielding and filtering have been improved. </textline>
+</textbox>
+<textbox id="2" bbox="475.300,365.075,517.426,383.099" size="18.024">WIIM <textline bbox="475.300,365.075,517.426,383.099" font="Arial-BoldMT" ncolour="0" size="18.024" colourspace="Pattern">WIIM </textline>
+</textbox>
+<figure name="Image76" bbox="342.000,0.000,662.520,414.000" src="Image76.jpg" width="320" height="414">
+</figure>
+<figure name="Image77" bbox="48.840,0.000,346.200,414.000" src="Image77.jpg" width="297" height="414">
+</figure>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="55.200,491.283,613.016,519.267" size="27.984">ALIAS employs a novel semi-conductor laser <textline bbox="55.200,491.283,613.016,519.267" font="ArialMT" ncolour="0" size="27.984" colourspace="Pattern">ALIAS employs a novel semi-conductor laser </textline>
+</textbox>
+<textbox id="1" bbox="313.250,262.660,518.186,286.660" size="24.0">Dr. Rui Yang, (JPL) <textline bbox="313.250,262.660,518.186,286.660" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">Dr. Rui Yang, (JPL) </textline>
+</textbox>
+<textbox id="2" bbox="313.250,219.455,662.295,243.479" size="24.024">Interband Cascade Lasers (ICL): <textline bbox="313.250,219.455,662.295,243.479" font="ArialMT" ncolour="0" size="24.024" colourspace="Pattern">Interband Cascade Lasers (ICL): </textline>
+</textbox>
+<textbox id="3" bbox="313.250,176.230,690.172,200.230" size="24.0">&#8226; Cover 2.5 to 5 &#181;m spectral region. <textline bbox="313.250,176.230,690.172,200.230" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">&#8226; Cover 2.5 to 5 &#181;m spectral region. </textline>
+</textbox>
+<textbox id="4" bbox="313.250,133.030,455.038,157.030" size="24.0">&#8226; High power. <textline bbox="313.250,133.030,455.038,157.030" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">&#8226; High power. </textline>
+</textbox>
+<textbox id="5" bbox="313.250,89.827,641.973,113.851" size="24.024">&#8226; Single-mode emission (DFB). <textline bbox="313.250,89.827,641.973,113.851" font="ArialMT" ncolour="0" size="24.024" colourspace="Pattern">&#8226; Single-mode emission (DFB). </textline>
+</textbox>
+<textbox id="6" bbox="313.250,46.608,701.524,70.608" size="24.0">&#8226; High efficiency (5-20mA threshold). <textline bbox="313.250,46.608,701.524,70.608" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">&#8226; High efficiency (5-20mA threshold). </textline>
+</textbox>
+<textbox id="7" bbox="313.250,3.408,691.414,27.408" size="24.0">&#8226; Progress towards room T devices. <textline bbox="313.250,3.408,691.414,27.408" font="ArialMT" ncolour="0" size="24.000" colourspace="Pattern">&#8226; Progress towards room T devices. </textline>
+</textbox>
+<figure name="Image86" bbox="0.000,0.000,306.000,253.680" src="Image86.jpg" width="306" height="253">
+</figure>
+<figure name="Image87" bbox="0.000,225.720,306.000,474.000" src="Image87.jpg" width="306" height="248">
+</figure>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="7.200,442.412,641.424,525.371" size="38.052">Conclusions 
+&#8226; AVE-WIIF mission confirmed that ALIAS is: <textline bbox="209.980,481.307,450.041,525.371" font="ArialMT" ncolour="0" size="44.064" colourspace="Pattern">Conclusions </textline>
+<textline bbox="7.200,442.412,641.424,474.452" font="ArialMT" ncolour="0" size="32.040" colourspace="Pattern">&#8226; AVE-WIIF mission confirmed that ALIAS is: </textline>
+</textbox>
+<textbox id="1" bbox="34.200,315.662,592.745,432.212" size="32.048">- Isokinetic 
+- Isothermal 
+- not contaminated by water outgassing <textline bbox="34.200,400.172,187.279,432.212" font="ArialMT" ncolour="0" size="32.040" colourspace="Pattern">- Isokinetic </textline>
+<textline bbox="34.200,357.927,203.219,389.991" font="ArialMT" ncolour="0" size="32.064" colourspace="Pattern">- Isothermal </textline>
+<textline bbox="34.200,315.662,592.745,347.702" font="ArialMT" ncolour="0" size="32.040" colourspace="Pattern">- not contaminated by water outgassing </textline>
+</textbox>
+<textbox id="2" bbox="7.200,231.162,422.108,263.202" size="32.04">&#8226; Tracer sensitivities  (3 sec): <textline bbox="7.200,231.162,422.108,263.202" font="ArialMT" ncolour="0" size="32.040" colourspace="Pattern">&#8226; Tracer sensitivities  (3 sec): </textline>
+</textbox>
+<textbox id="3" bbox="43.200,120.173,258.735,222.058" size="27.966">&#8211; CH4 
+50 pptv 
+&#8211; N2O 60 pptv 
+&#8211; CO 300 pptv <textline bbox="43.200,189.199,116.508,222.058">&#8211; CH4 <text font="ArialMT" bbox="43.200,194.098,58.746,222.058" colourspace="Pattern" ncolour="0" size="27.960">&#8211;</text>
+<text font="ArialMT" bbox="65.784,194.098,85.971,222.058" colourspace="Pattern" ncolour="0" size="27.960">C</text>
+<text font="ArialMT" bbox="85.944,194.098,106.131,222.058" colourspace="Pattern" ncolour="0" size="27.960">H</text>
+<text font="ArialMT" bbox="106.100,189.199,116.508,207.919" colourspace="Pattern" ncolour="0" size="18.720">4</text>
+</textline>
+<textline bbox="151.220,194.098,243.125,222.058" font="ArialMT" ncolour="0" size="27.960" colourspace="Pattern">50 pptv </textline>
+<textline bbox="43.200,152.239,243.125,185.098">&#8211; N2O 60 pptv <text font="ArialMT" bbox="43.200,157.138,58.746,185.098" colourspace="Pattern" ncolour="0" size="27.960">&#8211;</text>
+<text font="ArialMT" bbox="65.784,157.138,85.971,185.098" colourspace="Pattern" ncolour="0" size="27.960">N</text>
+<text font="ArialMT" bbox="85.944,152.239,96.352,170.959" colourspace="Pattern" ncolour="0" size="18.720">2</text>
+<text font="ArialMT" bbox="96.384,157.138,118.137,185.098" colourspace="Pattern" ncolour="0" size="27.960">O</text>
+<text font="ArialMT" bbox="151.220,157.138,166.766,185.098" colourspace="Pattern" ncolour="0" size="27.960">6</text>
+<text font="ArialMT" bbox="166.766,157.138,182.312,185.098" colourspace="Pattern" ncolour="0" size="27.960">0</text>
+<text font="ArialMT" bbox="182.395,157.138,190.168,185.098" colourspace="Pattern" ncolour="0" size="27.960"> </text>
+<text font="ArialMT" bbox="190.168,157.138,205.714,185.098" colourspace="Pattern" ncolour="0" size="27.960">p</text>
+<text font="ArialMT" bbox="205.714,157.138,221.260,185.098" colourspace="Pattern" ncolour="0" size="27.960">p</text>
+<text font="ArialMT" bbox="221.372,157.138,229.145,185.098" colourspace="Pattern" ncolour="0" size="27.960">t</text>
+<text font="ArialMT" bbox="229.145,157.138,243.125,185.098" colourspace="Pattern" ncolour="0" size="27.960">v</text>
+</textline>
+<textline bbox="43.200,120.173,258.735,148.157" font="ArialMT" ncolour="0" size="27.984" colourspace="Pattern">&#8211; CO 300 pptv </textline>
+</textbox>
+<textbox id="4" bbox="7.200,41.056,707.616,73.096" size="32.04">&#8226; ALIAS has integrated and employed IC Lasers. <textline bbox="7.200,41.056,707.616,73.096" font="ArialMT" ncolour="0" size="32.040" colourspace="Pattern">&#8226; ALIAS has integrated and employed IC Lasers. </textline>
+</textbox>
+</page>
+</pages>

@@ -1,0 +1,272 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<title id="0" bbox="260.980,454.128,458.967,488.088" size="33.96" unique_id="0">Certification <textline bbox="260.980,454.128,458.967,488.088" font="Arial-BoldMT" ncolour="(0.259, 0.255, 0.424)" size="33.960" colourspace="DeviceGray">Certification </textline>
+</title>
+<normal_text id="1" bbox="251.570,109.196,456.356,179.030" size="18.0" unique_id="1">Christina Linder 
+Director of Certification 
+CPLinder@sde.idaho.gov <textline bbox="284.930,161.030,423.062,179.030" font="Arial-BoldMT" ncolour="(0.259, 0.255, 0.424)" size="18.000" colourspace="DeviceGray">Christina Linder </textline>
+<textline bbox="262.610,135.110,445.400,153.110" font="ArialMT" ncolour="(0.259, 0.255, 0.424)" size="18.000" colourspace="DeviceGray">Director of Certification </textline>
+<textline bbox="251.570,109.196,456.356,127.196" font="Arial-ItalicMT" ncolour="(0, 0.6, 0.6)" size="18.000" colourspace="DeviceGray">CPLinder@sde.idaho.gov </textline>
+</normal_text>
+<background name="Image6" bbox="0.000,0.000,720.000,540.360" src="Image6.jpg" width="720" height="540" unique_id="2">
+</background>
+<background name="Image7" bbox="-23.280,-17.640,743.280,557.640" src="Image7.jpg" width="766" height="575" unique_id="3">
+</background>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[257.5, 473.34, 462.49, 503.34]">
+<title id="0" bbox="257.500,473.340,462.490,503.340" size="30.0" unique_id="0">HQT Statistics <textline bbox="257.500,473.340,462.490,503.340" font="Arial-BoldMT" ncolour="(0.259, 0.255, 0.424)" size="30.000" colourspace="DeviceGray">HQT Statistics </textline>
+</title>
+<enlisting id="4" bbox="132.430,301.276,216.256,366.760" size="18.0" unique_id="4">% of HQT  
+Teachers 
+Reported <textline bbox="132.430,348.760,216.256,366.760" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">% of HQT  </textline>
+<textline bbox="135.310,327.160,208.282,345.160" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Teachers </textline>
+<textline bbox="134.950,301.276,208.804,319.276" font="Arial-ItalicMT" ncolour="0" size="18.000" colourspace="DeviceGray">Reported </textline>
+</enlisting>
+<background name="Image6" bbox="0.000,0.000,720.000,540.360" src="Image6.0.jpg" width="720" height="540" unique_id="8">
+</background>
+<enlisting bbox="273.41,322.84,334.304,422.7" unique_id="['1', '5']">2005-6 99.33% <normal_text id="1" bbox="275.930,404.700,331.778,422.700" size="18.0" unique_id="1">2005-6 <textline bbox="275.930,404.700,331.778,422.700" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">2005-6 </textline>
+</normal_text>
+<normal_text id="5" bbox="273.410,322.840,334.304,340.840" size="18.0" unique_id="5">99.33% <textline bbox="273.410,322.840,334.304,340.840" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">99.33% </textline>
+</normal_text>
+</enlisting><enlisting bbox="401.64,322.84,462.534,422.7" unique_id="['2', '6']">2006-7 70.30% <normal_text id="2" bbox="404.160,404.700,460.028,422.700" size="18.0" unique_id="2">2006-7 <textline bbox="404.160,404.700,460.028,422.700" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">2006-7 </textline>
+</normal_text>
+<normal_text id="6" bbox="401.640,322.840,462.534,340.840" size="18.0" unique_id="6">70.30% <textline bbox="401.640,322.840,462.534,340.840" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">70.30% </textline>
+</normal_text>
+</enlisting><enlisting bbox="533.66,322.84,594.554,422.7" unique_id="['3', '7']">2007-8 93.06% <normal_text id="3" bbox="536.180,404.700,592.058,422.700" size="18.0" unique_id="3">2007-8 <textline bbox="536.180,404.700,592.058,422.700" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">2007-8 </textline>
+</normal_text>
+<normal_text id="7" bbox="533.660,322.840,594.554,340.840" size="18.0" unique_id="7">93.06% <textline bbox="533.660,322.840,594.554,340.840" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">93.06% </textline>
+</normal_text>
+</enlisting></page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[274.7, 473.34, 445.37000000000006, 503.34]">
+<title id="0" bbox="283.300,473.340,436.810,503.340" size="30.0" unique_id="0">HQT Paths <textline bbox="283.300,473.340,436.810,503.340" font="Arial-BoldMT" ncolour="(0.259, 0.255, 0.424)" size="30.000" colourspace="DeviceGray">HQT Paths </textline>
+</title>
+<enlisting id="1" bbox="343.27,118.305,676.852,443.08" size="18.002666666666666" unique_id="['1', '2']">HQT is established by: 
+&#8226;Verifiable major (minimum 30 credits) in  
+content area 
+&#8226;Masters in content area 
+&#8226;NBPTS Certification in content area 
+&#8226;Praxis II Content Test successfully  
+passed 
+&#8226;Verifiable HOUSSE rubric completed  
+prior to June 30, 2008 <textline bbox="343.270,425.080,523.684,443.080" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">HQT is established by: </textline>
+<textline bbox="343.270,399.160,670.414,417.160" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;Verifiable major (minimum 30 credits) in  </textline>
+<textline bbox="343.270,377.560,443.152,395.560" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">content area </textline>
+<textline bbox="343.270,351.610,537.484,369.610" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;Masters in content area </textline>
+<textline bbox="343.270,325.690,633.424,343.690" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;NBPTS Certification in content area </textline>
+<textline bbox="343.270,299.770,626.782,317.770" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;Praxis II Content Test successfully  </textline>
+<textline bbox="343.270,278.170,401.212,296.170" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">passed </textline>
+<textline bbox="343.270,252.245,647.303,270.269" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8226;Verifiable HOUSSE rubric completed  </textline>
+<textline bbox="343.270,230.630,518.176,248.630" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">prior to June 30, 2008 </textline>
+<normal_text id="2" bbox="379.270,118.305,676.852,222.710" size="18.0048" unique_id="2">&#8211;As of June 30, 2008, HOUSSE was  
+no longer available EXCEPT in  
+certain cases pertaining to Special  
+Ed or  
+Rural Districts <textline bbox="379.270,204.710,676.852,222.710" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211;As of June 30, 2008, HOUSSE was  </textline>
+<textline bbox="379.270,183.110,630.910,201.110" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">no longer available EXCEPT in  </textline>
+<textline bbox="379.270,161.510,658.126,179.510" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">certain cases pertaining to Special  </textline>
+<textline bbox="379.270,139.910,427.240,157.910" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Ed or  </textline>
+<textline bbox="379.270,118.305,491.235,136.329" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">Rural Districts </textline>
+</normal_text>
+</enlisting>
+<background name="Image6" bbox="0.000,0.000,720.000,540.360" src="Image6.1.jpg" width="720" height="540" unique_id="3">
+</background>
+<picture name="Image20" bbox="72.000,138.000,349.680,474.000" src="Image20.jpg" width="277" height="336" unique_id="4">
+</picture>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[259.86, 473.34, 460.14000000000004, 503.34]">
+<title id="0" bbox="245.020,473.340,474.910,503.340" size="30.0" unique_id="0">100% HQT, or &#8230; <textline bbox="245.020,473.340,474.910,503.340" font="Arial-BoldMT" ncolour="(0.259, 0.255, 0.424)" size="30.000" colourspace="DeviceGray">100% HQT, or &#8230; </textline>
+</title>
+<normal_text id="3" bbox="431.950,206.390,587.956,224.390" size="18.0" unique_id="3">(No HQT = No $$$) <textline bbox="431.950,206.390,587.956,224.390" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">(No HQT = No $$$) </textline>
+</normal_text>
+<background name="Image6" bbox="0.000,0.000,720.000,540.360" src="Image6.2.jpg" width="720" height="540" unique_id="4">
+</background>
+<picture name="Image20" bbox="72.000,138.000,349.680,474.000" src="Image20.0.jpg" width="277" height="336" unique_id="5">
+</picture>
+<enlisting bbox="343.27,253.93,665.326,397.24" unique_id="['1', '2']">&#8226;2008-2009 - Focus on using Title IIA  
+funds for assisting teachers to this end.  
+Possible loss of state funding. &#8226;2009-2010 - Loss of funding: Complete  
+alignment between state funding and  
+federal HQT guidelines established  <normal_text id="1" bbox="343.270,340.330,660.132,397.240" size="18.008" unique_id="1">&#8226;2008-2009 - Focus on using Title IIA  
+funds for assisting teachers to this end.  
+Possible loss of state funding. <textline bbox="343.270,379.240,642.646,397.240" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;2008-2009 - Focus on using Title IIA  </textline>
+<textline bbox="343.270,359.795,660.132,377.819" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">funds for assisting teachers to this end.  </textline>
+<textline bbox="343.270,340.330,581.086,358.330" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Possible loss of state funding. </textline>
+</normal_text>
+<normal_text id="2" bbox="343.270,253.930,665.326,310.810" size="18.0" unique_id="2">&#8226;2009-2010 - Loss of funding: Complete  
+alignment between state funding and  
+federal HQT guidelines established  <textline bbox="343.270,292.810,665.326,310.810" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;2009-2010 - Loss of funding: Complete  </textline>
+<textline bbox="343.270,273.370,642.160,291.370" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">alignment between state funding and  </textline>
+<textline bbox="343.270,253.930,627.598,271.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">federal HQT guidelines established  </textline>
+</normal_text>
+</enlisting></page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[245.57200000000003, 473.34, 474.46000000000004, 503.34]">
+<title id="0" bbox="224.140,473.340,495.940,503.340" size="30.0" unique_id="0">How we can help&#8230; <textline bbox="224.140,473.340,495.940,503.340" font="Arial-BoldMT" ncolour="(0.259, 0.255, 0.424)" size="30.000" colourspace="DeviceGray">How we can help&#8230; </textline>
+</title>
+<background name="Image6" bbox="0.000,0.000,720.000,540.360" src="Image6.3.jpg" width="720" height="540" unique_id="5">
+</background>
+<picture name="Image20" bbox="72.000,138.000,349.680,474.000" src="Image20.1.jpg" width="277" height="336" unique_id="6">
+</picture>
+<enlisting bbox="343.27,133.91,663.994,437.08" unique_id="['1', '2', '3', '4']">&#8226;Better tools to match teachers and  
+assignments &#8226;Early and ongoing assistance with  
+alternate routes  &#8226;Full-time Coordinator to provide  
+technical assistance in professional  
+development planning and identification  
+of resources &#8226;Proposed alternate route to  
+endorsement <normal_text id="1" bbox="343.270,397.480,628.330,437.080" size="18.0" unique_id="1">&#8226;Better tools to match teachers and  
+assignments <textline bbox="343.270,419.080,628.330,437.080" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;Better tools to match teachers and  </textline>
+<textline bbox="343.270,397.480,444.034,415.480" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">assignments </textline>
+</normal_text>
+<normal_text id="2" bbox="343.270,324.010,626.062,363.610" size="18.0" unique_id="2">&#8226;Early and ongoing assistance with  
+alternate routes  <textline bbox="343.270,345.610,626.062,363.610" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;Early and ongoing assistance with  </textline>
+<textline bbox="343.270,324.010,473.194,342.010" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">alternate routes  </textline>
+</normal_text>
+<normal_text id="3" bbox="343.270,207.350,663.994,290.170" size="18.006" unique_id="3">&#8226;Full-time Coordinator to provide  
+technical assistance in professional  
+development planning and identification  
+of resources <textline bbox="343.270,272.170,606.280,290.170" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;Full-time Coordinator to provide  </textline>
+<textline bbox="343.270,250.565,630.032,268.589" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">technical assistance in professional  </textline>
+<textline bbox="343.270,228.950,663.994,246.950" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">development planning and identification  </textline>
+<textline bbox="343.270,207.350,442.144,225.350" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">of resources </textline>
+</normal_text>
+<normal_text id="4" bbox="343.270,133.910,572.530,173.510" size="18.0" unique_id="4">&#8226;Proposed alternate route to  
+endorsement <textline bbox="343.270,155.510,572.530,173.510" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;Proposed alternate route to  </textline>
+<textline bbox="343.270,133.910,448.048,151.910" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">endorsement </textline>
+</normal_text>
+</enlisting></page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[182.7386666666667, 473.34, 537.2206666666667, 503.34]">
+<title id="0" bbox="57.072,473.340,662.742,503.340" size="30.0" unique_id="0">Proposed Alternate Route to Endorsement <textline bbox="57.072,473.340,662.742,503.340" font="Arial-BoldMT" ncolour="(0.259, 0.255, 0.424)" size="30.000" colourspace="DeviceGray">Proposed Alternate Route to Endorsement </textline>
+</title>
+<background name="Image6" bbox="0.000,0.000,720.000,540.360" src="Image6.4.jpg" width="720" height="540" unique_id="4">
+</background>
+<picture name="Image20" bbox="72.000,138.000,349.680,474.000" src="Image20.2.jpg" width="277" height="336" unique_id="5">
+</picture>
+<enlisting bbox="343.27,155.51,679.582,411.16" unique_id="['1', '2', '3']">&#8226;Teachers who will be/are teaching in a  
+content area for which they do not  
+currently hold an endorsement may be  
+eligible &#8226;Endorsements added via: &#8211;National Board Certification; or 
+&#8211;Praxis II + supervised teaching; or 
+&#8211;Praxis II + pedagogical  
+performance evaluation + supervised  
+teaching <normal_text id="1" bbox="343.270,328.330,658.444,411.160" size="18.006" unique_id="1">&#8226;Teachers who will be/are teaching in a  
+content area for which they do not  
+currently hold an endorsement may be  
+eligible <textline bbox="343.270,393.160,658.444,411.160" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;Teachers who will be/are teaching in a  </textline>
+<textline bbox="343.270,371.555,619.181,389.579" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">content area for which they do not  </textline>
+<textline bbox="343.270,349.930,655.174,367.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">currently hold an endorsement may be  </textline>
+<textline bbox="343.270,328.330,399.016,346.330" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">eligible </textline>
+</normal_text>
+<normal_text id="2" bbox="343.270,276.490,553.450,294.490" size="18.0" unique_id="2">&#8226;Endorsements added via: <textline bbox="343.270,276.490,553.450,294.490" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8226;Endorsements added via: </textline>
+</normal_text>
+<normal_text id="3" bbox="379.270,155.510,679.582,268.589" size="18.0048" unique_id="3">&#8211;National Board Certification; or 
+&#8211;Praxis II + supervised teaching; or 
+&#8211;Praxis II + pedagogical  
+performance evaluation + supervised  
+teaching <textline bbox="379.270,250.565,634.140,268.589" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">&#8211;National Board Certification; or </textline>
+<textline bbox="379.270,224.630,660.670,242.630" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211;Praxis II + supervised teaching; or </textline>
+<textline bbox="379.270,198.710,576.286,216.710" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211;Praxis II + pedagogical  </textline>
+<textline bbox="379.270,177.110,679.582,195.110" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">performance evaluation + supervised  </textline>
+<textline bbox="379.270,155.510,447.166,173.510" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">teaching </textline>
+</normal_text>
+</enlisting></page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[171.6561904761905, 473.34, 548.2861904761905, 503.34]">
+<title id="0" bbox="143.950,473.340,575.950,503.340" size="30.0" unique_id="0">Adopted Change in Code/Rule <textline bbox="143.950,473.340,575.950,503.340" font="Arial-BoldMT" ncolour="(0.259, 0.255, 0.424)" size="30.000" colourspace="DeviceGray">Adopted Change in Code/Rule </textline>
+</title>
+<background name="Image6" bbox="0.000,0.000,720.000,540.360" src="Image6.5.jpg" width="720" height="540" unique_id="3">
+</background>
+<picture name="Image20" bbox="72.000,138.000,349.680,474.000" src="Image20.3.jpg" width="277" height="336" unique_id="4">
+</picture>
+<enlisting bbox="343.27,233.27,679.039,411.16" unique_id="['1', '2']">&#8226;Professional Development &#8211; Final  
+language approved by Board for approval  
+in 2009 Legislative session &#8226;Fingerprinting/Background Check &#8211; 
+Final language from negotiated  
+rulemaking set for August Board approval  
+and approval in 2009 Legislative session <normal_text id="1" bbox="343.270,349.930,679.039,411.160" size="18.008" unique_id="1">&#8226;Professional Development &#8211; Final  
+language approved by Board for approval  
+in 2009 Legislative session <textline bbox="343.270,393.160,639.480,411.160">&#8226;Professional Development &#8211; Final  <text font="ArialMT" bbox="343.270,393.160,349.570,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">&#8226;</text>
+<text font="Arial-BoldMT" bbox="349.510,393.160,361.516,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">P</text>
+<text font="Arial-BoldMT" bbox="361.516,393.160,368.518,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="Arial-BoldMT" bbox="368.518,393.160,379.516,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="Arial-BoldMT" bbox="379.516,393.160,385.510,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">f</text>
+<text font="Arial-BoldMT" bbox="385.510,393.160,395.518,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="Arial-BoldMT" bbox="395.518,393.160,405.526,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="Arial-BoldMT" bbox="405.436,393.160,415.444,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">s</text>
+<text font="Arial-BoldMT" bbox="415.444,393.160,420.448,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="Arial-BoldMT" bbox="420.448,393.160,431.446,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="Arial-BoldMT" bbox="431.446,393.160,442.444,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="Arial-BoldMT" bbox="442.498,393.160,452.506,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="Arial-BoldMT" bbox="452.506,393.160,457.510,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">l</text>
+<text font="Arial-BoldMT" bbox="457.510,393.160,462.514,411.160" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="Arial-BoldMT" bbox="462.514,393.160,475.510,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">D</text>
+<text font="Arial-BoldMT" bbox="475.510,393.160,485.518,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="Arial-BoldMT" bbox="485.464,393.160,495.472,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">v</text>
+<text font="Arial-BoldMT" bbox="495.058,393.160,505.066,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="Arial-BoldMT" bbox="505.066,393.160,510.070,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">l</text>
+<text font="Arial-BoldMT" bbox="510.070,393.160,521.068,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="Arial-BoldMT" bbox="521.068,393.160,532.066,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">p</text>
+<text font="Arial-BoldMT" bbox="532.120,393.160,548.122,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">m</text>
+<text font="Arial-BoldMT" bbox="548.122,393.160,558.130,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="Arial-BoldMT" bbox="558.040,393.160,569.038,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="Arial-BoldMT" bbox="569.038,393.160,575.032,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="ArialMT" bbox="580.540,393.160,590.548,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">&#8211;</text>
+<text font="ArialMT" bbox="595.560,393.160,606.558,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">F</text>
+<text font="ArialMT" bbox="606.558,393.160,610.554,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="ArialMT" bbox="610.554,393.160,620.562,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="ArialMT" bbox="620.562,393.160,630.570,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="ArialMT" bbox="630.480,393.160,634.476,411.160" colourspace="DeviceGray" ncolour="0" size="18.000">l</text>
+<text font="ArialMT" bbox="634.476,393.160,639.480,411.160" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+</textline>
+<textline bbox="343.270,371.555,679.039,389.579" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">language approved by Board for approval  </textline>
+<textline bbox="343.270,349.930,558.136,367.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">in 2009 Legislative session </textline>
+</normal_text>
+<normal_text id="2" bbox="343.270,233.270,677.980,316.090" size="18.0" unique_id="2">&#8226;Fingerprinting/Background Check &#8211; 
+Final language from negotiated  
+rulemaking set for August Board approval  
+and approval in 2009 Legislative session <textline bbox="343.270,298.090,655.608,316.090">&#8226;Fingerprinting/Background Check &#8211; <text font="ArialMT" bbox="343.270,298.090,349.570,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">&#8226;</text>
+<text font="Arial-BoldMT" bbox="349.510,298.090,360.508,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">F</text>
+<text font="Arial-BoldMT" bbox="360.508,298.090,365.512,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="Arial-BoldMT" bbox="365.566,298.090,376.564,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="Arial-BoldMT" bbox="376.564,298.090,387.562,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">g</text>
+<text font="Arial-BoldMT" bbox="387.634,298.090,397.642,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="Arial-BoldMT" bbox="397.642,298.090,404.644,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="Arial-BoldMT" bbox="404.554,298.090,415.552,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">p</text>
+<text font="Arial-BoldMT" bbox="415.552,298.090,422.554,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="Arial-BoldMT" bbox="422.554,298.090,427.558,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="Arial-BoldMT" bbox="427.558,298.090,438.556,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="Arial-BoldMT" bbox="438.610,298.090,444.604,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">t</text>
+<text font="Arial-BoldMT" bbox="444.604,298.090,449.608,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">i</text>
+<text font="Arial-BoldMT" bbox="449.608,298.090,460.606,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="Arial-BoldMT" bbox="460.678,298.090,471.676,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">g</text>
+<text font="Arial-BoldMT" bbox="471.676,298.090,476.680,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">/</text>
+<text font="Arial-BoldMT" bbox="476.734,298.090,489.730,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">B</text>
+<text font="Arial-BoldMT" bbox="489.730,298.090,499.738,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">a</text>
+<text font="Arial-BoldMT" bbox="499.648,298.090,509.656,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">c</text>
+<text font="Arial-BoldMT" bbox="509.656,298.090,519.664,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">k</text>
+<text font="Arial-BoldMT" bbox="519.574,298.090,530.572,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">g</text>
+<text font="Arial-BoldMT" bbox="530.572,298.090,537.574,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">r</text>
+<text font="Arial-BoldMT" bbox="537.574,298.090,548.572,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">o</text>
+<text font="Arial-BoldMT" bbox="548.572,298.090,559.570,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">u</text>
+<text font="Arial-BoldMT" bbox="559.642,298.090,570.640,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">n</text>
+<text font="Arial-BoldMT" bbox="570.640,298.090,581.638,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">d</text>
+<text font="Arial-BoldMT" bbox="581.710,298.090,586.714,316.090" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="Arial-BoldMT" bbox="586.390,298.090,599.386,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">C</text>
+<text font="Arial-BoldMT" bbox="599.386,298.090,610.384,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">h</text>
+<text font="Arial-BoldMT" bbox="610.384,298.090,620.392,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">e</text>
+<text font="Arial-BoldMT" bbox="620.392,298.090,630.400,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">c</text>
+<text font="Arial-BoldMT" bbox="630.310,298.090,640.318,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">k</text>
+<text font="Arial-BoldMT" bbox="640.318,298.090,645.322,316.090" colourspace="DeviceGray" ncolour="0" size="18.000"> </text>
+<text font="ArialMT" bbox="645.600,298.090,655.608,316.090" colourspace="DeviceGray" ncolour="0" size="18.000">&#8211;</text>
+</textline>
+<textline bbox="343.270,276.490,596.116,294.490" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Final language from negotiated  </textline>
+<textline bbox="343.270,254.890,677.980,272.890" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">rulemaking set for August Board approval  </textline>
+<textline bbox="343.270,233.270,667.180,251.270" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">and approval in 2009 Legislative session </textline>
+</normal_text>
+</enlisting></page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0" mean_title="[159.14964285714288, 473.34, 560.7671428571429, 503.34]">
+<title id="0" bbox="121.630,473.340,598.210,503.340" size="30.0" unique_id="0">Updated Certification Information <textline bbox="121.630,473.340,598.210,503.340" font="Arial-BoldMT" ncolour="(0.259, 0.255, 0.424)" size="30.000" colourspace="DeviceGray">Updated Certification Information </textline>
+</title>
+<background name="Image6" bbox="0.000,0.000,720.000,540.360" src="Image6.6.jpg" width="720" height="540" unique_id="1">
+</background>
+<picture name="Image41" bbox="246.000,102.000,462.720,462.000" src="Image41.jpg" width="216" height="360" unique_id="2">
+</picture>
+</page>
+</pages>

@@ -1,0 +1,682 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="53.952,415.292,665.976,459.332" size="44.04">Hands on Using the OSG client <textline bbox="53.952,415.292,665.976,459.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Hands on Using the OSG client </textline>
+</textbox>
+<textbox id="1" bbox="148.270,151.237,584.195,300.921" size="44.056000000000004">Abhishek Singh Rana  
+and  
+David Meyers <textline bbox="148.270,256.857,584.195,300.921" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">Abhishek Singh Rana  </textline>
+<textline bbox="323.280,204.042,408.963,248.082" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">and  </textline>
+<textline bbox="225.340,151.237,494.659,195.301" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">David Meyers </textline>
+</textbox>
+<textbox id="2" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="120.070,490.117,599.927,534.181" size="44.064">OSG 0.6.0 Infrastructure <textline bbox="120.070,490.117,599.927,534.181" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">OSG 0.6.0 Infrastructure </textline>
+</textbox>
+<textbox id="1" bbox="7.200,397.780,666.572,433.780" size="36.0">&#8226; VORS &#8211; Virtual Organization Resource  <textline bbox="7.200,397.780,666.572,433.780" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">&#8226; VORS &#8211; Virtual Organization Resource  </textline>
+</textbox>
+<textbox id="2" bbox="34.200,354.550,176.256,390.550" size="36.0">Selector  <textline bbox="34.200,354.550,176.256,390.550" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Selector  </textline>
+</textbox>
+<textbox id="3" bbox="7.200,259.505,686.138,338.710" size="36.012">&#8226; MonALISA &#8211; MONitoring Agents using a  
+Large Integrated Service Architecture <textline bbox="7.200,302.710,686.138,338.710" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">&#8226; MonALISA &#8211; MONitoring Agents using a  </textline>
+<textline bbox="34.200,259.505,630.325,295.529" font="ArialMT" ncolour="0" size="36.024" colourspace="DeviceGray">Large Integrated Service Architecture </textline>
+</textbox>
+<textbox id="4" bbox="7.200,103.940,548.208,243.650" size="36.0">&#8226; Gratia &#8211; Grid accounting facility 
+&#8226; Virtual Organization (VO) issues 
+&#8226; GOC &#8211; Grid Operations Center <textline bbox="7.200,207.650,534.236,243.650" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">&#8226; Gratia &#8211; Grid accounting facility </textline>
+<textline bbox="7.200,155.810,548.208,191.810" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">&#8226; Virtual Organization (VO) issues </textline>
+<textline bbox="7.200,103.940,528.392,139.940" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">&#8226; GOC &#8211; Grid Operations Center </textline>
+</textbox>
+<textbox id="5" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.0.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="93.192,435.708,637.814,523.707" size="39.972">Virtual Organization Resource  
+Selector - VORS <textline bbox="93.192,483.723,637.814,523.707" font="ArialMT" ncolour="0" size="39.984" colourspace="DeviceGray">Virtual Organization Resource  </textline>
+<textline bbox="212.260,435.708,507.927,475.668" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">Selector - VORS </textline>
+</textbox>
+<textbox id="1" bbox="7.200,376.407,661.051,408.471" size="32.064">&#8226; Custom web interface to a grid scanner that  <textline bbox="7.200,376.407,661.051,408.471" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Custom web interface to a grid scanner that  </textline>
+</textbox>
+<textbox id="2" bbox="7.200,225.642,524.380,373.862" size="30.0">checks services and resources on: 
+&#8211; Each Compute Element  
+&#8211; Each Storage Element 
+&#8226; Very handy for checking: <textline bbox="34.200,341.822,524.380,373.862" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">checks services and resources on: </textline>
+<textline bbox="43.200,304.758,369.290,332.718" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Each Compute Element  </textline>
+<textline bbox="43.200,267.798,345.915,295.758" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Each Storage Element </textline>
+<textline bbox="7.200,225.642,386.159,257.682" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Very handy for checking: </textline>
+</textbox>
+<textbox id="3" bbox="43.200,151.618,656.159,216.538" size="27.96">&#8211; Paths of installed tools on Worker Nodes. 
+&#8211; Location &amp; amount of disk space for planning a  <textline bbox="43.200,188.578,579.577,216.538" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Paths of installed tools on Worker Nodes. </textline>
+<textline bbox="43.200,151.618,656.159,179.578" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Location &amp; amount of disk space for planning a  </textline>
+</textbox>
+<textbox id="4" bbox="65.784,121.373,182.505,149.357" size="27.984">workflow. <textline bbox="65.784,121.373,182.505,149.357" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">workflow. </textline>
+</textbox>
+<textbox id="5" bbox="43.200,84.392,545.913,112.352" size="27.96">&#8211; Troubleshooting when an error occurs. <textline bbox="43.200,84.392,545.913,112.352" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Troubleshooting when an error occurs. </textline>
+</textbox>
+<textbox id="6" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.1.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="157.220,455.268,584.645,483.228" size="27.96">VORS entry for OSG_LIGO_PSU <textline bbox="157.220,455.268,584.645,483.228" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">VORS entry for OSG_LIGO_PSU </textline>
+</textbox>
+<textbox id="1" bbox="157.220,404.868,574.411,432.828" size="27.96">Gatekeeper: grid3.aset.psu.edu <textline bbox="157.220,404.868,574.411,432.828" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Gatekeeper: grid3.aset.psu.edu </textline>
+</textbox>
+<textbox id="2" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image23" bbox="201.360,77.400,518.760,396.000" src="Image23.529x531.bmp" width="317" height="318">
+</figure>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.2.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="37.200,445.668,692.573,507.267" size="27.972">VORS is developing a grid-scanner for Storage     
+Elements (coming soon) for OSG 0.6.0 <textline bbox="37.200,479.283,692.573,507.267" font="Arial-BoldMT" ncolour="0" size="27.984" colourspace="DeviceGray">VORS is developing a grid-scanner for Storage     </textline>
+<textline bbox="37.200,445.668,547.666,473.628" font="Arial-BoldMT" ncolour="0" size="27.960" colourspace="DeviceGray">Elements (coming soon) for OSG 0.6.0 </textline>
+</textbox>
+<textbox id="1" bbox="43.200,309.280,714.438,413.700" size="18.0">Testing for SE SRM control protocol : YES control type = srm_v1 end  
+point = srm://fndca1.fnal.gov:8443/ full path =  
+/pnfs/fnal.gov/usr/fermigrid/volatile/mis executing srmls -retry_num=0  
+srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis 2&gt;&amp;1            
+&#8230;. <textline bbox="43.200,395.700,636.894,413.700" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Testing for SE SRM control protocol : YES control type = srm_v1 end  </textline>
+<textline bbox="43.200,374.100,435.114,392.100" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">point = srm://fndca1.fnal.gov:8443/ full path =  </textline>
+<textline bbox="43.200,352.480,645.556,370.480" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">/pnfs/fnal.gov/usr/fermigrid/volatile/mis executing srmls -retry_num=0  </textline>
+<textline bbox="43.200,330.880,714.438,348.880" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis 2&gt;&amp;1            </textline>
+<textline bbox="43.200,309.280,66.204,327.280" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8230;. </textline>
+</textbox>
+<textbox id="2" bbox="43.200,168.850,660.852,294.880" size="18.0">Testing srmls : PASS - read 12 lines 512  
+srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis 1715  
+srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis/file1  
+1715  
+srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis/file2  
+41767                                                                     <textline bbox="43.200,276.880,387.506,294.880" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Testing srmls : PASS - read 12 lines 512  </textline>
+<textline bbox="43.200,255.280,660.852,273.280" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis 1715  </textline>
+<textline bbox="43.200,233.650,656.514,251.650" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis/file1  </textline>
+<textline bbox="43.200,212.050,88.044,230.050" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">1715  </textline>
+<textline bbox="43.200,190.450,656.514,208.450" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">srm://fndca1.fnal.gov:8443//pnfs/fnal.gov/usr/fermigrid/volatile/mis/file2  </textline>
+<textline bbox="43.200,168.850,432.630,186.850" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">41767                                                                     </textline>
+</textbox>
+<textbox id="3" bbox="48.240,136.450,71.268,154.450" size="18.0">&#8230;. <textline bbox="48.240,136.450,71.268,154.450" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8230;. </textline>
+</textbox>
+<textbox id="4" bbox="43.200,104.030,517.510,122.030" size="18.0">Testing srmcp (from SE) : FAIL - returns error code 256  <textline bbox="43.200,104.030,517.510,122.030" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Testing srmcp (from SE) : FAIL - returns error code 256  </textline>
+</textbox>
+<textbox id="5" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.3.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="254.740,484.307,465.366,528.371" size="44.064">MonALISA <textline bbox="254.740,484.307,465.366,528.371" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">MonALISA </textline>
+</textbox>
+<textbox id="1" bbox="7.200,380.487,684.159,458.612" size="32.052">&#8226; Mature OSG-wide real-time monitoring of jobs 
+&#8226; Provides templates for charting job and  <textline bbox="7.200,426.572,684.159,458.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Mature OSG-wide real-time monitoring of jobs </textline>
+<textline bbox="7.200,380.487,597.276,412.551" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Provides templates for charting job and  </textline>
+</textbox>
+<textbox id="2" bbox="34.200,303.662,691.372,374.102" size="32.04">workflow progress on a site or per a collection  
+of sites used by a Virtual Organization. <textline bbox="34.200,342.062,691.372,374.102" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">workflow progress on a site or per a collection  </textline>
+<textline bbox="34.200,303.662,581.475,335.702" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">of sites used by a Virtual Organization. </textline>
+</textbox>
+<textbox id="3" bbox="7.200,257.577,671.825,289.641" size="32.064">&#8226; Provides historical database records on past  <textline bbox="7.200,257.577,671.825,289.641" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Provides historical database records on past  </textline>
+</textbox>
+<textbox id="4" bbox="34.200,219.162,130.288,251.202" size="32.04">usage. <textline bbox="34.200,219.162,130.288,251.202" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">usage. </textline>
+</textbox>
+<textbox id="5" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.4.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="19.200,497.100,679.190,515.100" size="18.0">MonALISA Graph capability &#8211; Run-time performance of a LIGO App at 6 OSG sites <textline bbox="19.200,497.100,679.190,515.100" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">MonALISA Graph capability &#8211; Run-time performance of a LIGO App at 6 OSG sites </textline>
+</textbox>
+<textbox id="1" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image35" bbox="59.640,64.080,660.360,475.920" src="Image35.801x549.bmp" width="600" height="411">
+</figure>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.5.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="91.224,429.950,635.174,447.950" size="18.0">MonALISA stats  &#8211; 7 day performance of a LIGO App at 6 OSG sites <textline bbox="91.224,429.950,635.174,447.950" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">MonALISA stats  &#8211; 7 day performance of a LIGO App at 6 OSG sites </textline>
+</textbox>
+<textbox id="1" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image38" bbox="55.920,194.640,664.080,345.360" src="Image38.811x201.bmp" width="608" height="150">
+</figure>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.6.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="27.048,414.572,692.887,507.332" size="38.04">Gratia &#8211; Grid Accounting Package 
+&#8226; Goal: Accurate set of views of Grid  <textline bbox="27.048,463.292,692.887,507.332" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">Gratia &#8211; Grid Accounting Package </textline>
+<textline bbox="43.200,414.572,571.266,446.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Goal: Accurate set of views of Grid  </textline>
+</textbox>
+<textbox id="1" bbox="70.224,376.167,299.385,408.231" size="32.064">resource usage. <textline bbox="70.224,376.167,299.385,408.231" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">resource usage. </textline>
+</textbox>
+<textbox id="2" bbox="43.200,245.577,661.741,362.102" size="32.048">&#8226; Uniform accounting records independent  
+of batch scheduler and operating system. 
+&#8226; Gratia Probe installed as part of the OSG  <textline bbox="43.200,330.062,654.537,362.102" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Uniform accounting records independent  </textline>
+<textline bbox="70.224,291.662,654.762,323.702" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">of batch scheduler and operating system. </textline>
+<textline bbox="43.200,245.577,661.741,277.641" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Gratia Probe installed as part of the OSG  </textline>
+</textbox>
+<textbox id="3" bbox="70.224,207.162,565.819,239.202" size="32.04">0.60 Compute Element installation. <textline bbox="70.224,207.162,565.819,239.202" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">0.60 Compute Element installation. </textline>
+</textbox>
+<textbox id="4" bbox="43.200,114.972,642.170,193.122" size="32.04">&#8226; Gratia Reporting Facility at FNAL. 
+&#8226; SQL retrieval of records from FNAL DB.  <textline bbox="43.200,161.082,548.165,193.122" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Gratia Reporting Facility at FNAL. </textline>
+<textline bbox="43.200,114.972,642.170,147.012" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; SQL retrieval of records from FNAL DB.  </textline>
+</textbox>
+<textbox id="5" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.7.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="246.190,51.654,515.401,60.654" size="9.0">Date range: 2007-02-26 00:00:00 GMT - 2007-03-05 23:59:59 GMT <textline bbox="246.190,51.654,515.401,60.654" font="ArialMT" ncolour="0" size="9.000" colourspace="DeviceGray">Date range: 2007-02-26 00:00:00 GMT - 2007-03-05 23:59:59 GMT </textline>
+</textbox>
+<textbox id="1" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image43" bbox="54.000,67.440,660.000,522.000" src="Image43.640x480.bmp" width="606" height="454">
+</figure>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.8.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="44.208,484.307,676.174,528.371" size="44.064">Virtual Organization(VO)  Issues <textline bbox="44.208,484.307,676.174,528.371" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">Virtual Organization(VO)  Issues </textline>
+</textbox>
+<textbox id="1" bbox="7.200,401.380,682.296,459.940" size="24.0">&#8226; Your Grid Certificate is tied to a specific VO. 
+&#8226; Each VO has a VO administrator. The VO admin manages a  <textline bbox="7.200,435.940,502.296,459.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Your Grid Certificate is tied to a specific VO. </textline>
+<textline bbox="7.200,401.380,682.296,425.380" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Each VO has a VO administrator. The VO admin manages a  </textline>
+</textbox>
+<textbox id="2" bbox="34.200,372.575,184.903,396.599" size="24.024">VOMS server. <textline bbox="34.200,372.575,184.903,396.599" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">VOMS server. </textline>
+</textbox>
+<textbox id="3" bbox="7.200,337.990,658.484,361.990" size="24.0">&#8226; VOMS &#8211; Virtual Organization Membership Service is a DB  <textline bbox="7.200,337.990,658.484,361.990" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; VOMS &#8211; Virtual Organization Membership Service is a DB  </textline>
+</textbox>
+<textbox id="4" bbox="34.200,280.390,598.752,333.190" size="24.0">which collects all the membership information for the  
+organization.   <textline bbox="34.200,309.190,598.752,333.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">which collects all the membership information for the  </textline>
+<textline bbox="34.200,280.390,185.088,304.390" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">organization.   </textline>
+</textbox>
+<textbox id="5" bbox="7.200,159.410,712.253,269.849" size="24.006">&#8226; The Globus gatekeeper authentication process references your  
+identity information from VOMS to determine if you are to be  
+authenticated when you attempt to run a Globus job or GSIFTP  
+a file. <textline bbox="7.200,245.825,712.253,269.849" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; The Globus gatekeeper authentication process references your  </textline>
+<textline bbox="34.200,217.010,679.584,241.010" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">identity information from VOMS to determine if you are to be  </textline>
+<textline bbox="34.200,188.210,711.888,212.210" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">authenticated when you attempt to run a Globus job or GSIFTP  </textline>
+<textline bbox="34.200,159.410,91.512,183.410" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">a file. </textline>
+</textbox>
+<textbox id="6" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.9.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="12" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="44.208,484.307,676.174,528.371" size="44.064">Virtual Organization(VO)  Issues <textline bbox="44.208,484.307,676.174,528.371" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">Virtual Organization(VO)  Issues </textline>
+</textbox>
+<textbox id="1" bbox="19.200,372.567,479.962,404.631" size="32.064">&#8226; Why can&#8217;t I run a job at site X? <textline bbox="19.200,372.567,479.962,404.631" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Why can&#8217;t I run a job at site X? </textline>
+</textbox>
+<textbox id="2" bbox="55.200,332.118,565.015,360.078" size="27.96">&#8211; The site X may not support your VO. A  <textline bbox="55.200,332.118,565.015,360.078" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; The site X may not support your VO. A  </textline>
+</textbox>
+<textbox id="3" bbox="55.200,224.578,663.602,326.478" size="27.968">Production site on the OSG is not required to  
+support all VOs. (check with your VO admin) 
+&#8211; The site X may require additional configuration  <textline bbox="77.784,298.518,642.995,326.478" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">Production site on the OSG is not required to  </textline>
+<textline bbox="77.784,264.913,628.733,292.897" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">support all VOs. (check with your VO admin) </textline>
+<textline bbox="55.200,224.578,663.602,252.538" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; The site X may require additional configuration  </textline>
+</textbox>
+<textbox id="4" bbox="77.784,123.773,681.916,218.938" size="27.968">to support your VO (missing VO home directory,  
+wrong permissions, no VO grid mapping) Your  
+VO admin may need the GOC to fix this. <textline bbox="77.784,190.978,681.916,218.938" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">to support your VO (missing VO home directory,  </textline>
+<textline bbox="77.784,157.378,660.442,185.338" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">wrong permissions, no VO grid mapping) Your  </textline>
+<textline bbox="77.784,123.773,577.522,151.757" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">VO admin may need the GOC to fix this. </textline>
+</textbox>
+<textbox id="5" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.10.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="13" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="132.430,484.307,587.743,528.371" size="44.064">Grid Operations Center <textline bbox="132.430,484.307,587.743,528.371" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">Grid Operations Center </textline>
+</textbox>
+<textbox id="1" bbox="7.200,188.338,679.414,458.612" size="29.708571428571435">&#8226; Based at Indiana University and provides a  
+central repository of staff and monitoring  
+systems for: 
+&#8211; Real time grid monitoring. 
+&#8211; Problem tracking via a trouble ticket system. 
+&#8211; Support for developers and sys admins. 
+&#8211; Maintains infrastructure &#8211; VORS, MonALISA and  <textline bbox="7.200,426.572,650.650,458.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Based at Indiana University and provides a  </textline>
+<textline bbox="34.200,388.172,613.067,420.212" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">central repository of staff and monitoring  </textline>
+<textline bbox="34.200,349.742,206.607,381.782" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">systems for: </textline>
+<textline bbox="43.200,309.318,385.031,337.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Real time grid monitoring. </textline>
+<textline bbox="43.200,268.998,613.912,296.958" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Problem tracking via a trouble ticket system. </textline>
+<textline bbox="43.200,228.658,559.558,256.618" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Support for developers and sys admins. </textline>
+<textline bbox="43.200,188.338,679.414,216.298" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Maintains infrastructure &#8211; VORS, MonALISA and  </textline>
+</textbox>
+<textbox id="2" bbox="65.784,154.738,258.820,182.698" size="27.96">registration DB. <textline bbox="65.784,154.738,258.820,182.698" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">registration DB. </textline>
+</textbox>
+<textbox id="3" bbox="43.200,114.388,529.780,142.348" size="27.96">&#8211; Maintains OSG software repositories. <textline bbox="43.200,114.388,529.780,142.348" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; Maintains OSG software repositories. </textline>
+</textbox>
+<textbox id="4" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.11.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="14" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="154.990,502.870,564.994,538.870" size="36.0">Running jobs on the OSG <textline bbox="154.990,502.870,564.994,538.870" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Running jobs on the OSG </textline>
+</textbox>
+<textbox id="1" bbox="43.200,465.940,477.170,489.940" size="24.0">&#8226; Command line tools &#8211;common idioms  <textline bbox="43.200,465.940,477.170,489.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Command line tools &#8211;common idioms  </textline>
+</textbox>
+<textbox id="2" bbox="79.224,431.380,351.068,455.380" size="24.0">&#8211; Check the VORS page  <textline bbox="79.224,431.380,351.068,455.380" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Check the VORS page  </textline>
+</textbox>
+<textbox id="3" bbox="37.200,203.508,525.353,219.468" size="15.96">We need to specify the gatekeeper (second column above) for a site: <textline bbox="37.200,203.508,525.353,219.468" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">We need to specify the gatekeeper (second column above) for a site: </textline>
+</textbox>
+<textbox id="4" bbox="37.200,145.903,341.160,181.068" size="15.972000000000001">globus-job-run grid3.aset.psu.edu /bin/date 
+Sun Mar  4 00:30:02 EST 2007 <textline bbox="37.200,165.108,341.160,181.068" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">globus-job-run grid3.aset.psu.edu /bin/date </textline>
+<textline bbox="37.200,145.903,257.491,161.887" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">Sun Mar  4 00:30:02 EST 2007 </textline>
+</textbox>
+<textbox id="5" bbox="37.200,69.080,356.065,123.438" size="15.96">Can we authenticate on OU_OCHEP_SW2 ? 
+globusrun  -a  -r   tier2-01.ochep.ou.edu 
+GRAM Authentication test successful <textline bbox="37.200,107.478,356.065,123.438" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Can we authenticate on OU_OCHEP_SW2 ? </textline>
+<textline bbox="37.200,88.280,319.208,104.240" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">globusrun  -a  -r   tier2-01.ochep.ou.edu </textline>
+<textline bbox="37.200,69.080,299.614,85.040" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">GRAM Authentication test successful </textline>
+</textbox>
+<textbox id="6" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image52" bbox="93.360,227.280,626.640,426.000" src="Image52.jpg" width="533" height="198">
+</figure>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.12.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="15" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="154.990,502.870,564.994,538.870" size="36.0">Running jobs on the OSG <textline bbox="154.990,502.870,564.994,538.870" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Running jobs on the OSG </textline>
+</textbox>
+<textbox id="1" bbox="7.200,437.268,608.357,465.228" size="27.96">&#8226; globusrun and globus-job-run can be used for  <textline bbox="7.200,437.268,608.357,465.228" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; globusrun and globus-job-run can be used for  </textline>
+</textbox>
+<textbox id="2" bbox="34.200,363.343,517.642,431.628" size="27.972">complex job specifications: 
+&#8211; Batch schedulers supported include: <textline bbox="34.200,403.668,367.679,431.628" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">complex job specifications: </textline>
+<textline bbox="43.200,363.343,517.642,391.327" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8211; Batch schedulers supported include: </textline>
+</textbox>
+<textbox id="3" bbox="79.224,322.998,448.933,350.958" size="27.96">&#8226; Condor, LSF, PBS and SGE <textline bbox="79.224,322.998,448.933,350.958" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; Condor, LSF, PBS and SGE </textline>
+</textbox>
+<textbox id="4" bbox="43.200,215.458,656.218,310.638" size="27.968">&#8211; To access many nodes on a remote resource  
+specify the proper batch scheduler used at that  
+site:  <textline bbox="43.200,282.678,643.688,310.638" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; To access many nodes on a remote resource  </textline>
+<textline bbox="65.784,249.073,656.218,277.057" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">specify the proper batch scheduler used at that  </textline>
+<textline bbox="65.784,215.458,124.975,243.418" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">site:  </textline>
+</textbox>
+<textbox id="5" bbox="43.200,151.962,680.380,204.770" size="22.02">globus-job-run grid3.aset.psu.edu/jobmanager-pbs /bin/date 
+Command is queued on the batch scheduler and will run when  <textline bbox="43.200,180.770,680.380,204.770" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">globus-job-run grid3.aset.psu.edu/jobmanager-pbs /bin/date </textline>
+<textline bbox="115.220,151.962,672.933,172.002" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">Command is queued on the batch scheduler and will run when  </textline>
+</textbox>
+<textbox id="6" bbox="133.220,79.936,692.644,148.021" size="20.048">the job reaches the front of the queue.  The job may wait in the  
+queue for  minutes to hours depending on your priority and  
+how busy the resource is. <textline bbox="133.220,127.957,692.644,148.021" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">the job reaches the front of the queue.  The job may wait in the  </textline>
+<textline bbox="133.220,103.932,657.266,123.972" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">queue for  minutes to hours depending on your priority and  </textline>
+<textline bbox="133.220,79.936,359.652,99.976" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">how busy the resource is. </textline>
+</textbox>
+<textbox id="7" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.13.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="16" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="116.350,484.307,603.610,528.371" size="44.064">Running jobs on the Grid <textline bbox="116.350,484.307,603.610,528.371" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">Running jobs on the Grid </textline>
+</textbox>
+<textbox id="1" bbox="7.200,377.263,707.131,405.247" size="27.984">&#8226; Globus is built on a Resource Specification Language  <textline bbox="7.200,377.263,707.131,405.247" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8226; Globus is built on a Resource Specification Language  </textline>
+</textbox>
+<textbox id="2" bbox="7.200,269.718,613.727,371.598" size="27.959999999999997">(RSL) which can control batch schedulers that  
+manage clusters. 
+&#8226; An RSL example: <textline bbox="34.200,343.638,613.727,371.598" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">(RSL) which can control batch schedulers that  </textline>
+<textline bbox="34.200,310.038,247.647,337.998" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">manage clusters. </textline>
+<textline bbox="7.200,269.718,252.092,297.678" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8226; An RSL example: </textline>
+</textbox>
+<textbox id="3" bbox="38.760,131.325,677.712,259.010" size="24.006">&#8226; &amp;(executable=&#8220;/bin/ls&#8221;) (directory=&#8220;/tmp&#8221;) (arguments=&#8220;-l&#8221;) 
+&#8226; Place the RSL string in a file: myjob.rsl 
+&#8226; Try:  globusrun -s -r osg-itb.ligo.caltech.edu -f myjob.rsl 
+&#8226; Try globusrun &#8211;s &#8211;r osg-itb.ligo.caltech.edu/jobmanager- <textline bbox="38.760,235.010,677.712,259.010" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; &amp;(executable=&#8220;/bin/ls&#8221;) (directory=&#8220;/tmp&#8221;) (arguments=&#8220;-l&#8221;) </textline>
+<textline bbox="38.760,200.450,476.664,224.450" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Place the RSL string in a file: myjob.rsl </textline>
+<textline bbox="38.760,165.890,651.556,189.890" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Try:  globusrun -s -r osg-itb.ligo.caltech.edu -f myjob.rsl </textline>
+<textline bbox="38.760,131.325,666.200,155.349" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Try globusrun &#8211;s &#8211;r osg-itb.ligo.caltech.edu/jobmanager- </textline>
+</textbox>
+<textbox id="4" bbox="65.784,102.500,268.676,126.500" size="24.0">condor &#8211;f myjob.rsl <textline bbox="65.784,102.500,268.676,126.500" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">condor &#8211;f myjob.rsl </textline>
+</textbox>
+<textbox id="5" bbox="7.200,62.312,682.773,90.272" size="27.96">&#8211; But for more robust job management use Condor-G! <textline bbox="7.200,62.312,682.773,90.272" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; But for more robust job management use Condor-G! </textline>
+</textbox>
+<textbox id="6" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.14.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="17" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="119.350,491.387,600.663,523.451" size="32.064">GridFTP: File transfer and staging <textline bbox="119.350,491.387,600.663,523.451" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">GridFTP: File transfer and staging </textline>
+</textbox>
+<textbox id="1" bbox="7.200,332.230,709.010,459.940" size="24.006">&#8226; GridFTP is the globus protocol for transferring files between: 
+&#8211; Grid clients (submit hosts) and grid Compute Elements. 
+&#8226; Support multiple simultaneously streams for high performance. 
+&#8226; Supports third-party copy: Host A requests Host B transfer files  <textline bbox="7.200,435.940,674.328,459.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; GridFTP is the globus protocol for transferring files between: </textline>
+<textline bbox="43.200,401.380,654.048,425.380" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Grid clients (submit hosts) and grid Compute Elements. </textline>
+<textline bbox="7.200,366.815,700.169,390.839" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Support multiple simultaneously streams for high performance. </textline>
+<textline bbox="7.200,332.230,709.010,356.230" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Supports third-party copy: Host A requests Host B transfer files  </textline>
+</textbox>
+<textbox id="2" bbox="7.200,268.870,665.276,292.870" size="24.0">&#8226; globus-url-copy is a wrapper on GridFTP with a convenient  <textline bbox="7.200,268.870,665.276,292.870" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; globus-url-copy is a wrapper on GridFTP with a convenient  </textline>
+</textbox>
+<textbox id="3" bbox="34.200,303.430,140.856,327.430" size="24.0">to Host C. <textline bbox="34.200,303.430,140.856,327.430" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">to Host C. </textline>
+</textbox>
+<textbox id="4" bbox="34.200,240.065,110.116,264.089" size="24.024">syntax. <textline bbox="34.200,240.065,110.116,264.089" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">syntax. </textline>
+</textbox>
+<textbox id="5" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.15.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="18" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="209.380,484.307,510.543,528.371" size="44.064">globus-url-copy <textline bbox="209.380,484.307,510.543,528.371" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">globus-url-copy </textline>
+</textbox>
+<textbox id="1" bbox="25.200,381.940,574.084,405.940" size="24.0">&#8226; Syntax: globus-url-copy source-url destination-url <textline bbox="25.200,381.940,574.084,405.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Syntax: globus-url-copy source-url destination-url </textline>
+</textbox>
+<textbox id="2" bbox="25.200,312.790,152.136,336.790" size="24.0">&#8226; Example: <textline bbox="25.200,312.790,152.136,336.790" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Example: </textline>
+</textbox>
+<textbox id="3" bbox="25.200,270.318,626.607,286.278" size="15.96">globus-url-copy gsiftp://osg-itb.ligo.caltech.edu/archive/frames/H-H1_RDS-1024.gwf  <textline bbox="25.200,270.318,626.607,286.278" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">globus-url-copy gsiftp://osg-itb.ligo.caltech.edu/archive/frames/H-H1_RDS-1024.gwf  </textline>
+</textbox>
+<textbox id="4" bbox="25.200,243.553,525.579,259.537" size="15.984">gsiftp://testwulf.hpcc.ttu.edu/mnt/hep/osg/workdir/H-H1_RDS-1024.gwf <textline bbox="25.200,243.553,525.579,259.537" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">gsiftp://testwulf.hpcc.ttu.edu/mnt/hep/osg/workdir/H-H1_RDS-1024.gwf </textline>
+</textbox>
+<textbox id="5" bbox="25.200,151.378,667.437,213.418" size="15.96">Many options exist. Please see the globus-url-copy of the GridIFTP User&#8217;s Guide: 
+http://www.globus.org/toolkit/docs/3.2/gridftp/user/globusurlcopy.html#commandlineoptions 
+for details. <textline bbox="25.200,197.458,601.374,213.418" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Many options exist. Please see the globus-url-copy of the GridIFTP User&#8217;s Guide: </textline>
+<textline bbox="25.200,174.418,667.437,190.378" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="15.960" colourspace="DeviceGray">http://www.globus.org/toolkit/docs/3.2/gridftp/user/globusurlcopy.html#commandlineoptions </textline>
+<textline bbox="25.200,151.378,99.191,167.338" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">for details. </textline>
+</textbox>
+<textbox id="6" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.16.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="19" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="201.940,502.870,518.100,538.870" size="36.0">Condor-G/DAGman <textline bbox="201.940,502.870,518.100,538.870" font="ArialMT" ncolour="0" size="36.000" colourspace="DeviceGray">Condor-G/DAGman </textline>
+</textbox>
+<textbox id="1" bbox="79.224,447.940,662.636,471.940" size="24.0">&#8226; Globus virtualized the interface to high performance  <textline bbox="79.224,447.940,662.636,471.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Globus virtualized the interface to high performance  </textline>
+</textbox>
+<textbox id="2" bbox="106.220,419.140,520.028,443.140" size="24.0">computing resources and file transfers. <textline bbox="106.220,419.140,520.028,443.140" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">computing resources and file transfers. </textline>
+</textbox>
+<textbox id="3" bbox="79.224,384.580,664.010,408.580" size="24.0">&#8226; However, run-time event management in distributed  <textline bbox="79.224,384.580,664.010,408.580" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; However, run-time event management in distributed  </textline>
+</textbox>
+<textbox id="4" bbox="106.220,182.930,706.108,379.750" size="24.004">systems is needed: 
+&#8211; Gatekeeper may be down. 
+&#8211; GridFTP server may be down. 
+&#8211; Operating system may become unresponsive. 
+&#8211; Batch scheduler may become unresponsive. 
+&#8211; Submit host may not be able to stage-out results of a  <textline bbox="106.220,355.750,311.516,379.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">systems is needed: </textline>
+<textline bbox="115.220,321.190,419.204,345.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Gatekeeper may be down. </textline>
+<textline bbox="115.220,286.630,457.676,310.630" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; GridFTP server may be down. </textline>
+<textline bbox="115.220,252.065,625.948,276.089" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8211; Operating system may become unresponsive. </textline>
+<textline bbox="115.220,217.490,610.052,241.490" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Batch scheduler may become unresponsive. </textline>
+<textline bbox="115.220,182.930,706.108,206.930" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; Submit host may not be able to stage-out results of a  </textline>
+</textbox>
+<textbox id="5" bbox="137.780,154.130,363.212,178.130" size="24.0">job due to a full disk.  <textline bbox="137.780,154.130,363.212,178.130" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">job due to a full disk.  </textline>
+</textbox>
+<textbox id="6" bbox="79.224,61.944,680.025,143.589" size="24.008">&#8226; Condor-G/DAGman provides a means to monitor and  
+manage end-to-end events during a Grid application  
+execution. <textline bbox="79.224,119.565,680.025,143.589" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Condor-G/DAGman provides a means to monitor and  </textline>
+<textline bbox="106.220,90.744,666.602,114.744" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">manage end-to-end events during a Grid application  </textline>
+<textline bbox="106.220,61.944,215.372,85.944" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">execution. </textline>
+</textbox>
+<textbox id="7" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.17.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="20" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="184.660,502.223,535.557,542.207" size="39.984">Condor-G/DAGman <textline bbox="184.660,502.223,535.557,542.207" font="ArialMT" ncolour="0" size="39.984" colourspace="DeviceGray">Condor-G/DAGman </textline>
+</textbox>
+<textbox id="1" bbox="37.200,417.940,675.432,441.940" size="24.0">&#8226; Condor folks created the globus universe. Condor scripts  <textline bbox="37.200,417.940,675.432,441.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Condor folks created the globus universe. Condor scripts  </textline>
+</textbox>
+<textbox id="2" bbox="64.224,331.510,697.944,413.140" size="24.008">submitted to the globus universe are submitted to a Globus  
+gatekeeper or GridFTP server and  use all of the resources  
+of  Globus jobs. <textline bbox="64.224,389.140,697.944,413.140" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">submitted to the globus universe are submitted to a Globus  </textline>
+<textline bbox="64.224,360.335,697.857,384.359" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">gatekeeper or GridFTP server and  use all of the resources  </textline>
+<textline bbox="64.224,331.510,230.976,355.510" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">of  Globus jobs. </textline>
+</textbox>
+<textbox id="3" bbox="37.200,296.950,695.256,320.950" size="24.0">&#8226; Condor scripts are submitted by the user running a Condor  <textline bbox="37.200,296.950,695.256,320.950" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Condor scripts are submitted by the user running a Condor  </textline>
+</textbox>
+<textbox id="4" bbox="64.224,106.820,628.548,292.150" size="24.004">client and having a local condor queue. So Grid job  
+management is simplified for the user due to Condor  
+toolset: 
+&#8211; condor_submit:  submit a condor script. 
+&#8211; condor_q:      check the status of a condor job. 
+&#8211; condor_rm:  remove a condor job from the queue. <textline bbox="64.224,268.150,614.136,292.150" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">client and having a local condor queue. So Grid job  </textline>
+<textline bbox="64.224,239.345,628.548,263.369" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">management is simplified for the user due to Condor  </textline>
+<textline bbox="64.224,210.530,141.600,234.530" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">toolset: </textline>
+<textline bbox="73.224,175.970,514.656,199.970" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; condor_submit:  submit a condor script. </textline>
+<textline bbox="73.224,141.410,587.808,165.410" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; condor_q:      check the status of a condor job. </textline>
+<textline bbox="73.224,106.820,624.024,130.820" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8211; condor_rm:  remove a condor job from the queue. </textline>
+</textbox>
+<textbox id="5" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.18.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="21" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="136.510,499.908,583.442,539.868" size="39.96">A simple Condor-G script <textline bbox="136.510,499.908,583.442,539.868" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">A simple Condor-G script </textline>
+</textbox>
+<textbox id="1" bbox="34.200,95.056,634.025,417.572" size="20.0445">universe = globus 
+executable = /bin/ls 
+notification = NEVER 
+globusrsl = (jobtype=single) 
+globusscheduler = osg-itb.ligo.caltech.edu/jobmanager-condor 
+copy_to_spool = false 
+error = /home/dmeyers/osg-itb.err 
+log = /home/dmeyers/osg-itb.log 
+output = /home/dmeyers/osg-itb.out 
+transfer_executable = false 
+transfer_error = true 
+transfer_output = true 
+periodic_release = (NumSystemHolds &lt;= 3) 
+periodic_remove = (NumSystemHolds &gt; 3) 
+remote_initialdir = /home/dmeyers 
+queue <textline bbox="34.680,397.532,205.160,417.572" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">universe = globus </textline>
+<textline bbox="34.680,373.527,218.386,393.591" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">executable = /bin/ls </textline>
+<textline bbox="34.680,349.502,233.918,369.542" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">notification = NEVER </textline>
+<textline bbox="34.680,325.502,301.232,345.542" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">globusrsl = (jobtype=single) </textline>
+<textline bbox="34.200,306.302,634.025,326.342" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">globusscheduler = osg-itb.ligo.caltech.edu/jobmanager-condor </textline>
+<textline bbox="34.200,287.102,243.778,307.142" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">copy_to_spool = false </textline>
+<textline bbox="34.200,267.902,354.683,287.942" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">error = /home/dmeyers/osg-itb.err </textline>
+<textline bbox="34.200,248.697,341.341,268.761" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">log = /home/dmeyers/osg-itb.log </textline>
+<textline bbox="34.200,229.482,374.752,249.522" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">output = /home/dmeyers/osg-itb.out </textline>
+<textline bbox="34.200,210.282,291.433,230.322" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">transfer_executable = false </textline>
+<textline bbox="34.200,191.082,226.784,211.122" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">transfer_error = true </textline>
+<textline bbox="34.200,171.882,242.396,191.922" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">transfer_output = true </textline>
+<textline bbox="34.200,152.682,444.439,172.722" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">periodic_release = (NumSystemHolds &lt;= 3) </textline>
+<textline bbox="34.200,133.477,435.139,153.541" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">periodic_remove = (NumSystemHolds &gt; 3) </textline>
+<textline bbox="34.200,114.252,358.527,134.292" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">remote_initialdir = /home/dmeyers </textline>
+<textline bbox="34.200,95.056,93.218,115.096" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">queue </textline>
+</textbox>
+<textbox id="2" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.19.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="22" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="294.220,502.002,426.065,534.042" size="32.04">DAGman <textline bbox="294.220,502.002,426.065,534.042" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">DAGman </textline>
+</textbox>
+<textbox id="1" bbox="7.200,435.940,717.288,459.940" size="24.0">&#8226; DAG manager (DAGman) is an extension to the Condor system  <textline bbox="7.200,435.940,717.288,459.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; DAG manager (DAGman) is an extension to the Condor system  </textline>
+</textbox>
+<textbox id="2" bbox="34.200,407.140,602.400,431.140" size="24.0">that adds a Directed Acyclic Graph(DAG) abstraction. <textline bbox="34.200,407.140,602.400,431.140" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">that adds a Directed Acyclic Graph(DAG) abstraction. </textline>
+</textbox>
+<textbox id="3" bbox="7.200,372.575,719.172,396.599" size="24.024">&#8226; Many scientific and engineering workflows can be modeled as a  <textline bbox="7.200,372.575,719.172,396.599" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">&#8226; Many scientific and engineering workflows can be modeled as a  </textline>
+</textbox>
+<textbox id="4" bbox="34.200,343.750,298.272,367.750" size="24.0">collection of DAG nodes. <textline bbox="34.200,343.750,298.272,367.750" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">collection of DAG nodes. </textline>
+</textbox>
+<textbox id="5" bbox="7.200,309.190,670.536,333.190" size="24.0">&#8226; Each DAG node is tracked and its status determined by the  <textline bbox="7.200,309.190,670.536,333.190" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; Each DAG node is tracked and its status determined by the  </textline>
+</textbox>
+<textbox id="6" bbox="34.200,193.970,715.824,304.390" size="24.006">DAG manager. Errors are handled by auto-restarting a failed  
+node to increase reliability. Condor has the notion of a rescue  
+DAG which represents the place in the Graph where a workflow  
+can be restarted from, to resume a workflow. <textline bbox="34.200,280.390,684.052,304.390" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">DAG manager. Errors are handled by auto-restarting a failed  </textline>
+<textline bbox="34.200,251.585,693.611,275.609" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">node to increase reliability. Condor has the notion of a rescue  </textline>
+<textline bbox="34.200,222.770,715.824,246.770" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">DAG which represents the place in the Graph where a workflow  </textline>
+<textline bbox="34.200,193.970,508.848,217.970" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">can be restarted from, to resume a workflow. </textline>
+</textbox>
+<textbox id="7" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.20.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="23" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="372.240,497.387,503.959,529.451" size="32.064">DAGman <textline bbox="372.240,497.387,503.959,529.451" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">DAGman </textline>
+</textbox>
+<textbox id="1" bbox="79.224,437.080,195.252,455.080" size="18.0">Diamond DAG <textline bbox="79.224,437.080,195.252,455.080" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Diamond DAG </textline>
+</textbox>
+<textbox id="2" bbox="43.200,74.792,377.243,413.388" size="15.963200000000006">An example input file for DAGMan is  
+# Filename: diamond.dag  
+Job A A.condor  
+Job B B.condor  
+Job C C.condor  
+Job D D.condor  
+Script PRE A top_pre.csh  
+Script PRE B mid_pre.perl $JOB  
+Script POST B mid_post.perl $JOB $RETURN  
+Script PRE C mid_pre.perl $JOB  
+Script POST C mid_post.perl $JOB $RETURN  
+Script PRE D bot_pre.csh  
+PARENT A CHILD B C  
+PARENT B C CHILD D  
+Retry C 3  <textline bbox="43.200,397.428,305.487,413.388" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">An example input file for DAGMan is  </textline>
+<textline bbox="43.200,374.383,227.991,390.367" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray"># Filename: diamond.dag  </textline>
+<textline bbox="43.200,351.318,156.915,367.278" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Job A A.condor  </textline>
+<textline bbox="43.200,328.278,156.915,344.238" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Job B B.condor  </textline>
+<textline bbox="43.200,305.238,158.623,321.198" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Job C C.condor  </textline>
+<textline bbox="43.200,282.198,158.623,298.158" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Job D D.condor  </textline>
+<textline bbox="43.200,259.158,228.863,275.118" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Script PRE A top_pre.csh  </textline>
+<textline bbox="43.200,236.098,278.594,252.058" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Script PRE B mid_pre.perl $JOB  </textline>
+<textline bbox="43.200,213.058,376.397,229.018" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Script POST B mid_post.perl $JOB $RETURN  </textline>
+<textline bbox="43.200,190.018,279.456,205.978" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Script PRE C mid_pre.perl $JOB  </textline>
+<textline bbox="43.200,166.978,377.243,182.938" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Script POST C mid_post.perl $JOB $RETURN  </textline>
+<textline bbox="43.200,143.938,229.725,159.898" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Script PRE D bot_pre.csh  </textline>
+<textline bbox="43.200,120.893,210.936,136.877" font="ArialMT" ncolour="0" size="15.984" colourspace="DeviceGray">PARENT A CHILD B C  </textline>
+<textline bbox="43.200,97.828,211.754,113.788" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">PARENT B C CHILD D  </textline>
+<textline bbox="43.200,74.792,115.291,90.752" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">Retry C 3  </textline>
+</textbox>
+<textbox id="3" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image72" bbox="108.000,462.000,180.000,534.000" src="Image72.96x96.bmp" width="72" height="72">
+</figure>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.21.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="24" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="294.220,491.387,426.067,523.451" size="32.064">DAGMan <textline bbox="294.220,491.387,426.067,523.451" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">DAGMan </textline>
+</textbox>
+<textbox id="1" bbox="7.200,381.940,675.504,405.940" size="24.0">For more information on DAGMan see the DAGMan section of  <textline bbox="7.200,381.940,675.504,405.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">For more information on DAGMan see the DAGMan section of  </textline>
+</textbox>
+<textbox id="2" bbox="34.200,332.882,643.215,377.110" size="19.02">the Condor manual: 
+http://www.cs.wisc.edu/condor/manual/v6.4/2_11DAGMan_Applications.html#fig:dagman-diamond <textline bbox="34.200,353.110,244.968,377.110" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">the Condor manual: </textline>
+<textline bbox="34.320,332.882,643.215,346.922" font="ArialMT" ncolour="(0, 0.6, 0.6)" size="14.040" colourspace="DeviceGray">http://www.cs.wisc.edu/condor/manual/v6.4/2_11DAGMan_Applications.html#fig:dagman-diamond </textline>
+</textbox>
+<textbox id="3" bbox="7.200,220.610,659.548,302.230" size="24.008">Automatic Tools exist to convert DAGs into Condor-G submit  
+scripts that can be run with the Condor command: condor- 
+submit-dag. <textline bbox="7.200,278.230,659.548,302.230" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Automatic Tools exist to convert DAGs into Condor-G submit  </textline>
+<textline bbox="34.200,249.425,652.040,273.449" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">scripts that can be run with the Condor command: condor- </textline>
+<textline bbox="34.200,220.610,159.572,244.610" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">submit-dag. </textline>
+</textbox>
+<textbox id="4" bbox="7.200,151.490,684.720,175.490" size="24.0">One of  these tools is the Pegasus Workflow Planner described  <textline bbox="7.200,151.490,684.720,175.490" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">One of  these tools is the Pegasus Workflow Planner described  </textline>
+</textbox>
+<textbox id="5" bbox="34.200,122.685,300.962,146.709" size="24.024">at: http://pegasus.isi.edu/ <textline bbox="34.200,122.685,300.962,146.709" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">at: http://pegasus.isi.edu/ </textline>
+</textbox>
+<textbox id="6" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.22.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="25" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="67.752,472.540,670.776,525.360" size="24.0">For More information on these topics see the references  
+and URLs on the next page. <textline bbox="67.752,501.360,670.776,525.360" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">For More information on these topics see the references  </textline>
+<textline bbox="216.580,472.540,515.404,496.540" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">and URLs on the next page. </textline>
+</textbox>
+<textbox id="1" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image79" bbox="228.000,66.000,480.720,462.000" src="Image79.jpg" width="252" height="396">
+</figure>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.23.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+<page id="26" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="149.470,484.307,570.766,528.371" size="44.064">Trouble Shooting Info <textline bbox="149.470,484.307,570.766,528.371" font="ArialMT" ncolour="0" size="44.064" colourspace="DeviceGray">Trouble Shooting Info </textline>
+</textbox>
+<textbox id="1" bbox="7.200,426.572,439.154,458.612" size="32.04">&#8226; OSG Troubleshooting guide: <textline bbox="7.200,426.572,439.154,458.612" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; OSG Troubleshooting guide: </textline>
+</textbox>
+<textbox id="2" bbox="7.200,310.998,692.219,373.038" size="15.96">http://grow.uiowa.edu/dokuwiki/doku.php/projects/troubleshooting/troubleshooting_guide 
+Includes Condor-G  and Globus Error Codes and  
+Email addresses for: <textline bbox="7.200,357.078,692.219,373.038" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="15.960" colourspace="DeviceGray">http://grow.uiowa.edu/dokuwiki/doku.php/projects/troubleshooting/troubleshooting_guide </textline>
+<textline bbox="7.200,334.038,382.241,349.998" font="Arial-BoldMT" ncolour="0" size="15.960" colourspace="DeviceGray">Includes Condor-G  and Globus Error Codes and  </textline>
+<textline bbox="7.200,310.998,164.454,326.958" font="Arial-BoldMT" ncolour="0" size="15.960" colourspace="DeviceGray">Email addresses for: </textline>
+</textbox>
+<textbox id="3" bbox="70.224,264.918,390.110,303.918" size="15.96">The OSG Grid Operations Center  
+The OSG Troubleshooting Working Group <textline bbox="70.224,287.958,324.626,303.918" font="Arial-BoldMT" ncolour="0" size="15.960" colourspace="DeviceGray">The OSG Grid Operations Center  </textline>
+<textline bbox="70.224,264.918,390.110,280.878" font="Arial-BoldMT" ncolour="0" size="15.960" colourspace="DeviceGray">The OSG Troubleshooting Working Group </textline>
+</textbox>
+<textbox id="4" bbox="7.200,172.738,648.361,234.778" size="15.96">If you have a problem that you can not resolve, contact your VO support center first. 
+Your VO support center contact can be found at: 
+http://www.grid.iu.edu/osg-includes/sc.php <textline bbox="7.200,218.818,648.361,234.778" font="Arial-BoldMT" ncolour="0" size="15.960" colourspace="DeviceGray">If you have a problem that you can not resolve, contact your VO support center first. </textline>
+<textline bbox="7.200,195.778,376.961,211.738" font="Arial-BoldMT" ncolour="0" size="15.960" colourspace="DeviceGray">Your VO support center contact can be found at: </textline>
+<textline bbox="7.200,172.738,334.260,188.698" font="Arial-BoldMT" ncolour="(0, 0.6, 0.6)" size="15.960" colourspace="DeviceGray">http://www.grid.iu.edu/osg-includes/sc.php </textline>
+</textbox>
+<textbox id="5" bbox="246.460,15.744,437.452,42.144" size="12.0">OSG Consortium Mtg March 2007 
+Quick Start Guide to the OSG <textline bbox="246.460,30.144,437.452,42.144" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">OSG Consortium Mtg March 2007 </textline>
+<textline bbox="258.100,15.744,425.704,27.744" font="Arial-BoldMT" ncolour="0" size="12.000" colourspace="DeviceGray">Quick Start Guide to the OSG </textline>
+</textbox>
+<figure name="Image11" bbox="87.000,10.800,153.000,48.240" src="Image11.24.183x103.bmp" width="66" height="37">
+</figure>
+</page>
+</pages>

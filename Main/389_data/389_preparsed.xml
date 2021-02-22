@@ -1,0 +1,367 @@
+<pages>
+<page id="1" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="93.432,426.078,626.458,514.038" size="39.96">HBD FEE test result summary 
++ production schedule <textline bbox="93.432,474.078,626.458,514.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">HBD FEE test result summary </textline>
+<textline bbox="163.750,426.078,556.397,466.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">+ production schedule </textline>
+</textbox>
+<textbox id="1" bbox="43.200,376.407,381.277,408.471" size="32.064">&#8226; 16mv test pulse result <textline bbox="43.200,376.407,381.277,408.471" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; 16mv test pulse result </textline>
+</textbox>
+<textbox id="2" bbox="43.200,181.002,646.133,367.278" size="29.620799999999996">&#8211; 5X attenuator + 20:1 resistor divider at input 
+&#8226; (to reduce the noise on the test pulse input) 
+&#8226; Result on the digitized baseline noise 
+&#8226; Large input pulse 
+&#8226; Digital filter <textline bbox="79.224,339.318,646.133,367.278" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">&#8211; 5X attenuator + 20:1 resistor divider at input </textline>
+<textline bbox="115.220,307.510,594.716,331.510" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">&#8226; (to reduce the noise on the test pulse input) </textline>
+<textline bbox="43.200,265.497,597.837,297.561" font="ArialMT" ncolour="0" size="32.064" colourspace="DeviceGray">&#8226; Result on the digitized baseline noise </textline>
+<textline bbox="43.200,223.242,315.330,255.282" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Large input pulse </textline>
+<textline bbox="43.200,181.002,228.405,213.042" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; Digital filter </textline>
+</textbox>
+<textbox id="3" bbox="79.224,143.933,658.746,171.917" size="27.984">&#8211; A nice, necessary, feature to remove the low  <textline bbox="79.224,143.933,658.746,171.917" font="ArialMT" ncolour="0" size="27.984" colourspace="DeviceGray">&#8211; A nice, necessary, feature to remove the low  </textline>
+</textbox>
+<textbox id="4" bbox="101.780,113.668,307.454,141.628" size="27.96">frequency noise. <textline bbox="101.780,113.668,307.454,141.628" font="ArialMT" ncolour="0" size="27.960" colourspace="DeviceGray">frequency noise. </textline>
+</textbox>
+<textbox id="5" bbox="43.200,71.536,583.601,103.576" size="32.04">&#8226; First look of the production schedule <textline bbox="43.200,71.536,583.601,103.576" font="ArialMT" ncolour="0" size="32.040" colourspace="DeviceGray">&#8226; First look of the production schedule </textline>
+</textbox>
+</page>
+<page id="2" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="103.030,447.662,616.889,491.702" size="44.04">FEE testing block diagram <textline bbox="103.030,447.662,616.889,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">FEE testing block diagram </textline>
+</textbox>
+<textbox id="1" bbox="236.500,405.100,317.200,417.100" size="12.0">20:1 attenuator <textline bbox="236.500,405.100,317.200,417.100" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">20:1 attenuator </textline>
+</textbox>
+<textbox id="2" bbox="463.300,389.080,501.298,407.080" size="18.0">FEM <textline bbox="463.300,389.080,501.298,407.080" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">FEM </textline>
+</textbox>
+<textbox id="3" bbox="95.880,320.530,176.772,360.130" size="18.0">Pulse 
+Generator <textline bbox="113.760,342.130,158.724,360.130" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Pulse </textline>
+<textline bbox="95.880,320.530,176.772,338.530" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Generator </textline>
+</textbox>
+<textbox id="4" bbox="182.420,325.922,245.502,356.762" size="14.04">5x  
+attenuator <textline bbox="204.620,342.722,223.167,356.762" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">5x  </textline>
+<textline bbox="182.420,325.922,245.502,339.962" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">attenuator </textline>
+</textbox>
+<textbox id="5" bbox="263.780,309.730,326.708,370.930" size="18.0">Preamp 
+Test 
+Jig <textline bbox="263.780,352.930,326.708,370.930" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Preamp </textline>
+<textline bbox="278.660,331.330,311.798,349.330" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Test </textline>
+<textline bbox="283.820,309.730,306.824,327.730" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Jig </textline>
+</textbox>
+<textbox id="6" bbox="422.520,336.722,472.306,350.762" size="14.04">receiver <textline bbox="422.520,336.722,472.306,350.762" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">receiver </textline>
+</textbox>
+<textbox id="7" bbox="499.300,341.862,575.158,355.902" size="14.04">ADC+FPGA <textline bbox="499.300,341.862,575.158,355.902" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">ADC+FPGA </textline>
+</textbox>
+<textbox id="8" bbox="355.270,275.050,403.204,293.050" size="18.0">scope <textline bbox="355.270,275.050,403.204,293.050" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">scope </textline>
+</textbox>
+<textbox id="9" bbox="254.500,198.702,313.651,212.742" size="14.04">L1 trigger <textline bbox="254.500,198.702,313.651,212.742" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">L1 trigger </textline>
+</textbox>
+<textbox id="10" bbox="553.300,215.832,580.650,229.872" size="14.04">data <textline bbox="553.300,215.832,580.650,229.872" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">data </textline>
+</textbox>
+<textbox id="11" bbox="139.220,236.232,202.330,283.872" size="14.04">Pulse  
+Generator 
+trigger <textline bbox="139.220,269.832,178.279,283.872" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Pulse  </textline>
+<textline bbox="139.220,253.032,202.330,267.072" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Generator </textline>
+<textline bbox="139.220,236.232,179.051,250.272" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">trigger </textline>
+</textbox>
+<textbox id="12" bbox="111.720,173.510,166.728,213.110" size="18.0">Clock  
+Master <textline bbox="114.240,195.110,164.172,213.110" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Clock  </textline>
+<textline bbox="111.720,173.510,166.728,191.510" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Master </textline>
+</textbox>
+<textbox id="13" bbox="107.760,67.284,182.640,85.284" size="18.0">computer <textline bbox="107.760,67.284,182.640,85.284" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">computer </textline>
+</textbox>
+<textbox id="14" bbox="343.270,77.004,381.268,95.004" size="18.0">ADC <textline bbox="343.270,77.004,381.268,95.004" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">ADC </textline>
+</textbox>
+<textbox id="15" bbox="259.250,54.144,410.642,66.144" size="12.0">Test point for receiver output <textline bbox="259.250,54.144,410.642,66.144" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Test point for receiver output </textline>
+</textbox>
+<textbox id="16" bbox="289.250,14.651,368.382,34.715" size="20.064">Receiver <textline bbox="289.250,14.651,368.382,34.715" font="ArialMT" ncolour="0" size="20.064" colourspace="DeviceGray">Receiver </textline>
+</textbox>
+<figure name="Image16" bbox="459.960,0.000,720.000,195.000" src="Image16.jpg" width="260" height="195">
+</figure>
+</page>
+<page id="3" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="43.200,489.955,226.503,513.979" size="24.024">HBD ADC board <textline bbox="43.200,489.955,226.503,513.979" font="Arial-BoldMT" ncolour="0" size="24.024" colourspace="DeviceGray">HBD ADC board </textline>
+</textbox>
+<textbox id="1" bbox="41.952,301.837,97.610,321.901" size="20.064">FPGA <textline bbox="41.952,301.837,97.610,321.901" font="Arial-BoldMT" ncolour="0" size="20.064" colourspace="DeviceGray">FPGA </textline>
+</textbox>
+<textbox id="2" bbox="49.200,236.682,92.757,256.722" size="20.04">ADC <textline bbox="49.200,236.682,92.757,256.722" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">ADC </textline>
+</textbox>
+<textbox id="3" bbox="27.888,109.792,116.805,153.832" size="20.04">Receiver/ 
+shaping <textline bbox="27.888,133.792,116.805,153.832" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">Receiver/ </textline>
+<textline bbox="33.888,109.792,110.721,129.832" font="Arial-BoldMT" ncolour="0" size="20.040" colourspace="DeviceGray">shaping </textline>
+</textbox>
+<textbox id="4" bbox="391.270,23.004,571.090,41.004" size="18.0">Signals from Preamp <textline bbox="391.270,23.004,571.090,41.004" font="Arial-BoldMT" ncolour="0" size="18.000" colourspace="DeviceGray">Signals from Preamp </textline>
+</textbox>
+<figure name="Image16" bbox="132.000,42.000,692.040,462.000" src="Image16.0.jpg" width="560" height="420">
+</figure>
+</page>
+<page id="4" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="25.200,477.940,134.592,501.940" size="24.0">Test stand <textline bbox="25.200,477.940,134.592,501.940" font="ArialMT" ncolour="0" size="24.000" colourspace="DeviceGray">Test stand </textline>
+</textbox>
+<textbox id="1" bbox="41.952,362.200,143.760,380.200" size="18.0">ADC module <textline bbox="41.952,362.200,143.760,380.200" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">ADC module </textline>
+</textbox>
+<textbox id="2" bbox="522.050,146.150,641.966,164.150" size="18.0">Preamp test jig <textline bbox="522.050,146.150,641.966,164.150" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Preamp test jig </textline>
+</textbox>
+<figure name="Image23" bbox="348.000,252.120,707.880,522.000" src="Image23.jpg" width="359" height="269">
+</figure>
+<figure name="Image24" bbox="0.000,16.440,402.000,318.000" src="Image24.jpg" width="402" height="301">
+</figure>
+</page>
+<page id="5" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="85.224,497.100,523.164,515.100" size="18.0">16MV test pulse on all the channels on FEM number 2  <textline bbox="85.224,497.100,523.164,515.100" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">16MV test pulse on all the channels on FEM number 2  </textline>
+</textbox>
+<textbox id="1" bbox="85.224,464.680,587.136,482.680" size="18.0">The test is done by moving test jigs cables (6 outputs) 8 times.  <textline bbox="85.224,464.680,587.136,482.680" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">The test is done by moving test jigs cables (6 outputs) 8 times.  </textline>
+</textbox>
+<textbox id="2" bbox="618.070,466.800,686.026,507.600" size="12.0">60Mhz noise 
+kicks back  
+from ADC <textline bbox="618.070,495.600,686.026,507.600" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">60Mhz noise </textline>
+<textline bbox="618.070,481.200,676.822,493.200" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">kicks back  </textline>
+<textline bbox="618.070,466.800,670.162,478.800" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">from ADC </textline>
+</textbox>
+<textbox id="3" bbox="59.880,346.182,109.062,377.022" size="14.04">Preamp 
+output <textline bbox="59.880,362.982,109.062,377.022" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Preamp </textline>
+<textline bbox="64.824,346.182,103.883,360.222" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">output </textline>
+</textbox>
+<textbox id="4" bbox="11.952,207.903,72.195,229.868" size="9.972000000000001">Digital sum 
+20mv/division <textline bbox="11.952,219.908,61.284,229.868" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Digital sum </textline>
+<textline bbox="11.952,207.903,72.195,217.887" font="ArialMT" ncolour="0" size="9.984" colourspace="DeviceGray">20mv/division </textline>
+</textbox>
+<textbox id="5" bbox="187.220,281.042,270.379,311.882" size="14.04">10mv, 100ns  
+per division <textline bbox="187.220,297.842,270.379,311.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">10mv, 100ns  </textline>
+<textline bbox="187.220,281.042,258.024,295.082" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">per division </textline>
+</textbox>
+<textbox id="6" bbox="421.320,295.390,474.156,336.190" size="12.0">Output of  
+FEM  
+receiver <textline bbox="421.320,324.190,474.156,336.190" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">Output of  </textline>
+<textline bbox="433.320,309.790,462.048,321.790" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">FEM  </textline>
+<textline bbox="426.360,295.390,468.972,307.390" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">receiver </textline>
+</textbox>
+<figure name="Image27" bbox="360.000,225.000,684.000,468.000" src="Image27.640x480.bmp" width="324" height="243">
+</figure>
+<figure name="Image28" bbox="12.000,252.000,300.000,468.000" src="Image28.640x480.bmp" width="288" height="216">
+</figure>
+</page>
+<page id="6" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="25.200,483.955,357.380,507.979" size="24.024">Digitized 16mv test pulse result <textline bbox="25.200,483.955,357.380,507.979" font="ArialMT" ncolour="0" size="24.024" colourspace="DeviceGray">Digitized 16mv test pulse result </textline>
+</textbox>
+<textbox id="1" bbox="102.020,420.237,307.641,455.042" size="14.052">2 samples at rising edge  
+1-2 ns time jitter on the test pulse <textline bbox="129.620,441.002,284.959,455.042" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">2 samples at rising edge  </textline>
+<textline bbox="102.020,420.237,307.641,434.301" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">1-2 ns time jitter on the test pulse </textline>
+</textbox>
+<textbox id="2" bbox="396.020,416.200,592.886,434.200" size="18.0">Reverse the signal cable <textline bbox="396.020,416.200,592.886,434.200" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Reverse the signal cable </textline>
+</textbox>
+<textbox id="3" bbox="295.300,36.144,321.904,48.144" size="12.0">RMS <textline bbox="295.300,36.144,321.904,48.144" font="ArialMT" ncolour="0" size="12.000" colourspace="DeviceGray">RMS </textline>
+</textbox>
+</page>
+<page id="7" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="94.272,426.078,636.769,514.038" size="39.96">RMS on the baseline in varies  
+conditions <textline bbox="94.272,474.078,636.769,514.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">RMS on the baseline in varies  </textline>
+<textline bbox="269.980,426.078,449.880,466.038" font="ArialMT" ncolour="0" size="39.960" colourspace="DeviceGray">conditions </textline>
+</textbox>
+<textbox id="1" bbox="367.270,309.842,601.204,323.882" size="14.04">RMS ADC distribution on the baseline <textline bbox="367.270,309.842,601.204,323.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">RMS ADC distribution on the baseline </textline>
+</textbox>
+<textbox id="2" bbox="43.200,365.075,440.161,383.099" size="18.024">16mv test pulse generated about 210 ADC counts <textline bbox="43.200,365.075,440.161,383.099" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">16mv test pulse generated about 210 ADC counts </textline>
+</textbox>
+<textbox id="3" bbox="43.200,309.842,99.458,323.882" size="14.04">condition <textline bbox="43.200,309.842,99.458,323.882" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">condition </textline>
+</textbox>
+<textbox id="4" bbox="43.200,273.962,148.289,288.002" size="14.04">Preamp + test jig <textline bbox="43.200,273.962,148.289,288.002" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Preamp + test jig </textline>
+</textbox>
+<textbox id="5" bbox="43.200,237.342,231.715,251.382" size="14.04">Nothing connected to the FEM <textline bbox="43.200,237.342,231.715,251.382" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Nothing connected to the FEM </textline>
+</textbox>
+<textbox id="6" bbox="43.200,184.632,332.032,215.521" size="14.052">Cable connected to the FEM with two 50ohms  
+termination <textline bbox="43.200,201.457,332.032,215.521" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">Cable connected to the FEM with two 50ohms  </textline>
+<textline bbox="43.200,184.632,112.530,198.672" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">termination </textline>
+</textbox>
+<textbox id="7" bbox="43.200,143.832,325.699,174.672" size="14.04">cable connected to the test jig with 2 50ohms  
+termination without preamp <textline bbox="43.200,160.632,325.699,174.672" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">cable connected to the test jig with 2 50ohms  </textline>
+<textline bbox="43.200,143.832,211.624,157.872" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">termination without preamp </textline>
+</textbox>
+<textbox id="8" bbox="43.200,119.832,217.707,133.872" size="14.04">Preamp + test jig -- shielded <textline bbox="43.200,119.832,217.707,133.872" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">Preamp + test jig -- shielded </textline>
+</textbox>
+<textbox id="9" bbox="367.270,273.962,431.952,288.002" size="14.04">1.4 counts <textline bbox="367.270,273.962,431.952,288.002" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">1.4 counts </textline>
+</textbox>
+<textbox id="10" bbox="367.270,237.342,431.938,251.382" size="14.04">.34 counts <textline bbox="367.270,237.342,431.938,251.382" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">.34 counts </textline>
+</textbox>
+<textbox id="11" bbox="367.270,201.457,431.993,215.521" size="14.064">.31 counts <textline bbox="367.270,201.457,431.993,215.521" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">.31 counts </textline>
+</textbox>
+<textbox id="12" bbox="367.270,160.632,431.938,174.672" size="14.04">.43 counts <textline bbox="367.270,160.632,431.938,174.672" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">.43 counts </textline>
+</textbox>
+</page>
+<page id="8" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="43.200,497.100,162.072,515.100" size="18.0">Overflow pulse <textline bbox="43.200,497.100,162.072,515.100" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Overflow pulse </textline>
+</textbox>
+<textbox id="1" bbox="426.020,429.928,482.961,475.918" size="9.96">Preamp  
+pulse 
+200mv, 20ns 
+per division <textline bbox="426.020,465.958,463.818,475.918" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">Preamp  </textline>
+<textline bbox="426.020,453.958,449.785,463.918" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">pulse </textline>
+<textline bbox="426.020,441.928,482.961,451.888" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">200mv, 20ns </textline>
+<textline bbox="426.020,429.928,476.189,439.888" font="ArialMT" ncolour="0" size="9.960" colourspace="DeviceGray">per division </textline>
+</textbox>
+<figure name="Image39" bbox="390.000,294.000,702.000,528.000" src="Image39.640x480.bmp" width="312" height="234">
+</figure>
+</page>
+<page id="9" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="17.952,494.220,555.792,512.220" size="18.0">Preamp pulse seen by channel 4 with noisy power line (100 events) <textline bbox="17.952,494.220,555.792,512.220" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Preamp pulse seen by channel 4 with noisy power line (100 events) </textline>
+</textbox>
+<textbox id="1" bbox="47.952,374.200,165.888,392.200" size="18.0">Digitized result <textline bbox="47.952,374.200,165.888,392.200" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Digitized result </textline>
+</textbox>
+<textbox id="2" bbox="191.980,342.995,204.993,404.200" size="18.008">A 
+D 
+C <textline bbox="191.980,386.200,203.986,404.200" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">A </textline>
+<textline bbox="191.980,364.600,204.976,382.600" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">D </textline>
+<textline bbox="191.980,342.995,204.993,361.019" font="ArialMT" ncolour="0" size="18.024" colourspace="DeviceGray">C </textline>
+</textbox>
+<textbox id="3" bbox="60.120,118.550,221.292,158.150" size="18.0">Baseline distribution 
+Sample # 4 <textline bbox="60.120,140.150,221.292,158.150" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Baseline distribution </textline>
+<textline bbox="95.064,118.550,186.072,136.550" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Sample # 4 </textline>
+</textbox>
+<textbox id="4" bbox="396.020,266.170,462.854,284.170" size="18.0">samples <textline bbox="396.020,266.170,462.854,284.170" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">samples </textline>
+</textbox>
+<textbox id="5" bbox="493.300,65.004,531.298,83.004" size="18.0">ADC <textline bbox="493.300,65.004,531.298,83.004" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">ADC </textline>
+</textbox>
+</page>
+<page id="10" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="31.200,497.100,677.994,515.100" size="18.0">Digital filtered preamp pulse on channel 4 data with noisy power line (100 events) <textline bbox="31.200,497.100,677.994,515.100" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Digital filtered preamp pulse on channel 4 data with noisy power line (100 events) </textline>
+</textbox>
+<textbox id="1" bbox="123.790,337.450,224.308,377.050" size="18.0">pulse(n+2) &#8211; 
+pulse(n) <textline bbox="123.790,359.050,224.308,377.050" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">pulse(n+2) &#8211; </textline>
+<textline bbox="141.550,337.450,206.386,355.450" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">pulse(n) </textline>
+</textbox>
+<textbox id="2" bbox="57.552,157.430,218.418,197.030" size="18.0">Baseline distribution 
+Sample # 4 <textline bbox="57.552,179.030,218.418,197.030" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Baseline distribution </textline>
+<textline bbox="92.472,157.430,183.480,175.430" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">Sample # 4 </textline>
+</textbox>
+<textbox id="3" bbox="348.020,266.170,405.944,284.170" size="18.0">sample <textline bbox="348.020,266.170,405.944,284.170" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">sample </textline>
+</textbox>
+<textbox id="4" bbox="385.270,65.480,418.962,81.440" size="15.96">ADC <textline bbox="385.270,65.480,418.962,81.440" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">ADC </textline>
+</textbox>
+</page>
+<page id="11" bbox="0.000,0.000,720.000,540.000" rotate="0">
+<textbox id="0" bbox="137.230,447.662,582.695,491.702" size="44.04">First look at production <textline bbox="137.230,447.662,582.695,491.702" font="ArialMT" ncolour="0" size="44.040" colourspace="DeviceGray">First look at production </textline>
+</textbox>
+<textbox id="1" bbox="43.200,391.532,510.302,411.572" size="20.04">&#8226; Assume RUN 7 electronics installation in Sept 06. <textline bbox="43.200,391.532,510.302,411.572" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Assume RUN 7 electronics installation in Sept 06. </textline>
+</textbox>
+<textbox id="2" bbox="79.224,369.875,374.447,387.989" size="18.024">&#8211; One month contingency &#8594; August <textline bbox="79.224,369.875,374.447,387.989">&#8211; One month contingency &#8594; August <text font="ArialMT" bbox="79.224,369.875,89.245,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">&#8211;</text>
+<text font="ArialMT" bbox="101.780,369.875,115.803,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">O</text>
+<text font="ArialMT" bbox="115.803,369.875,125.824,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">n</text>
+<text font="ArialMT" bbox="125.824,369.875,135.845,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">e</text>
+<text font="ArialMT" bbox="135.737,369.875,140.748,387.899" colourspace="DeviceGray" ncolour="0" size="18.024"> </text>
+<text font="ArialMT" bbox="140.748,369.875,155.762,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">m</text>
+<text font="ArialMT" bbox="155.762,369.875,165.783,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">o</text>
+<text font="ArialMT" bbox="165.783,369.875,175.805,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">n</text>
+<text font="ArialMT" bbox="175.696,369.875,180.707,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">t</text>
+<text font="ArialMT" bbox="180.707,369.875,190.728,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">h</text>
+<text font="ArialMT" bbox="190.728,369.875,195.739,387.899" colourspace="DeviceGray" ncolour="0" size="18.024"> </text>
+<text font="ArialMT" bbox="195.739,369.875,204.751,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">c</text>
+<text font="ArialMT" bbox="204.751,369.875,214.772,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">o</text>
+<text font="ArialMT" bbox="214.700,369.875,224.722,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">n</text>
+<text font="ArialMT" bbox="224.668,369.875,229.678,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">t</text>
+<text font="ArialMT" bbox="229.678,369.875,233.680,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">i</text>
+<text font="ArialMT" bbox="233.680,369.875,243.701,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">n</text>
+<text font="ArialMT" bbox="243.629,369.875,253.650,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">g</text>
+<text font="ArialMT" bbox="253.596,369.875,263.617,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">e</text>
+<text font="ArialMT" bbox="263.563,369.875,273.585,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">n</text>
+<text font="ArialMT" bbox="273.531,369.875,282.543,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">c</text>
+<text font="ArialMT" bbox="282.543,369.875,291.555,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">y</text>
+<text font="ArialMT" bbox="291.284,369.875,296.295,387.899" colourspace="DeviceGray" ncolour="0" size="18.024"> </text>
+<text font="BCDEEE+Wingdings-Regular" bbox="296.810,369.965,314.455,387.989" colourspace="DeviceGray" ncolour="0" size="18.024">&#8594;</text>
+<text font="ArialMT" bbox="318.410,369.875,330.432,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">A</text>
+<text font="ArialMT" bbox="330.432,369.875,340.453,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">u</text>
+<text font="ArialMT" bbox="340.453,369.875,350.475,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">g</text>
+<text font="ArialMT" bbox="350.403,369.875,360.424,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">u</text>
+<text font="ArialMT" bbox="360.424,369.875,369.436,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">s</text>
+<text font="ArialMT" bbox="369.436,369.875,374.447,387.899" colourspace="DeviceGray" ncolour="0" size="18.024">t</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="43.200,345.902,430.935,366.042" size="20.04">&#8226; 2 months &#8594; PCB production + assembly <textline bbox="43.200,345.902,430.935,366.042">&#8226; 2 months &#8594; PCB production + assembly <text font="ArialMT" bbox="43.200,345.902,50.214,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">&#8226;</text>
+<text font="ArialMT" bbox="70.224,345.902,81.366,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">2</text>
+<text font="ArialMT" bbox="81.366,345.902,86.937,365.942" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="86.937,345.902,103.631,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="103.631,345.902,114.773,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="114.773,345.902,125.915,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="125.915,345.902,131.486,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="131.426,345.902,142.568,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="142.568,345.902,152.588,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="152.649,345.902,158.220,365.942" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+Wingdings-Regular" bbox="157.820,346.002,177.439,366.042" colourspace="DeviceGray" ncolour="0" size="20.040">&#8594;</text>
+<text font="ArialMT" bbox="183.020,345.902,196.387,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">P</text>
+<text font="ArialMT" bbox="196.387,345.902,210.856,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">C</text>
+<text font="ArialMT" bbox="210.856,345.902,224.222,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">B</text>
+<text font="ArialMT" bbox="224.222,345.902,229.793,365.942" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="229.793,345.902,240.936,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="ArialMT" bbox="240.936,345.902,247.609,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="247.709,345.902,258.851,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="258.851,345.902,269.994,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">d</text>
+<text font="ArialMT" bbox="270.054,345.902,281.196,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="281.196,345.902,291.216,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="291.316,345.902,296.887,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="296.887,345.902,301.336,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">i</text>
+<text font="ArialMT" bbox="301.336,345.902,312.478,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="312.478,345.902,323.621,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="323.681,345.902,329.252,365.942" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="328.871,345.902,340.574,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">+</text>
+<text font="ArialMT" bbox="340.635,345.902,346.206,365.942" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="346.065,345.902,357.208,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="357.208,345.902,367.228,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="367.328,345.902,377.348,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="377.408,345.902,388.550,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="388.550,345.902,405.244,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="405.244,345.902,416.386,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">b</text>
+<text font="ArialMT" bbox="416.466,345.902,420.915,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">l</text>
+<text font="ArialMT" bbox="420.915,345.902,430.935,365.942" colourspace="DeviceGray" ncolour="0" size="20.040">y</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="79.224,302.650,575.882,342.250" size="18.0">&#8211; We only have to build 50 FEMs. This time could be shorten. 
+&#8211; Schedule final design review on the electronics. <textline bbox="79.224,324.250,575.882,342.250" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; We only have to build 50 FEMs. This time could be shorten. </textline>
+<textline bbox="79.224,302.650,480.590,320.650" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Schedule final design review on the electronics. </textline>
+</textbox>
+<textbox id="5" bbox="115.220,283.398,296.682,299.358" size="15.96">&#8226; chain test with detector <textline bbox="115.220,283.398,296.682,299.358" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; chain test with detector </textline>
+</textbox>
+<textbox id="6" bbox="151.220,249.837,516.626,280.682" size="14.052">&#8211; To understand ground, gain/shaping time of the FEM etc 
+&#8211; Once the parts is solder to the PCB, it is final&#8230; <textline bbox="151.220,266.642,516.626,280.682" font="ArialMT" ncolour="0" size="14.040" colourspace="DeviceGray">&#8211; To understand ground, gain/shaping time of the FEM etc </textline>
+<textline bbox="151.220,249.837,460.485,263.901" font="ArialMT" ncolour="0" size="14.064" colourspace="DeviceGray">&#8211; Once the parts is solder to the PCB, it is final&#8230; </textline>
+</textbox>
+<textbox id="7" bbox="43.200,225.882,355.745,246.022" size="20.04">&#8226; 3 months &#8594; parts procurements <textline bbox="43.200,225.882,355.745,246.022">&#8226; 3 months &#8594; parts procurements <text font="ArialMT" bbox="43.200,225.882,50.214,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">&#8226;</text>
+<text font="ArialMT" bbox="70.224,225.882,81.366,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">3</text>
+<text font="ArialMT" bbox="81.366,225.882,86.937,245.922" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="86.937,225.882,103.631,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="103.631,225.882,114.773,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="114.773,225.882,125.915,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="125.915,225.882,131.486,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="131.426,225.882,142.568,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">h</text>
+<text font="ArialMT" bbox="142.568,225.882,152.588,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="152.649,225.882,158.220,245.922" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="BCDEEE+Wingdings-Regular" bbox="157.820,225.982,177.439,246.022" colourspace="DeviceGray" ncolour="0" size="20.040">&#8594;</text>
+<text font="ArialMT" bbox="183.020,225.882,194.162,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="ArialMT" bbox="194.162,225.882,205.304,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">a</text>
+<text font="ArialMT" bbox="205.365,225.882,212.038,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="212.098,225.882,217.669,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="217.669,225.882,227.689,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+<text font="ArialMT" bbox="227.689,225.882,233.260,245.922" colourspace="DeviceGray" ncolour="0" size="20.040"> </text>
+<text font="ArialMT" bbox="232.940,225.882,244.082,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">p</text>
+<text font="ArialMT" bbox="244.082,225.882,250.755,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="250.855,225.882,261.998,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">o</text>
+<text font="ArialMT" bbox="261.998,225.882,272.018,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">c</text>
+<text font="ArialMT" bbox="272.118,225.882,283.260,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">u</text>
+<text font="ArialMT" bbox="283.260,225.882,289.933,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">r</text>
+<text font="ArialMT" bbox="290.034,225.882,301.176,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="301.176,225.882,317.869,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">m</text>
+<text font="ArialMT" bbox="317.809,225.882,328.951,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">e</text>
+<text font="ArialMT" bbox="328.951,225.882,340.094,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">n</text>
+<text font="ArialMT" bbox="340.154,225.882,345.725,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">t</text>
+<text font="ArialMT" bbox="345.725,225.882,355.745,245.922" colourspace="DeviceGray" ncolour="0" size="20.040">s</text>
+</textline>
+</textbox>
+<textbox id="8" bbox="79.224,204.230,540.296,222.230" size="18.0">&#8211; 1 month to generate P.O. and 2 months to get the parts <textline bbox="79.224,204.230,540.296,222.230" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; 1 month to generate P.O. and 2 months to get the parts </textline>
+</textbox>
+<textbox id="9" bbox="43.200,180.282,337.698,200.322" size="20.04">&#8226; March is the time to buy parts. <textline bbox="43.200,180.282,337.698,200.322" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; March is the time to buy parts. </textline>
+</textbox>
+<textbox id="10" bbox="79.224,158.630,614.636,176.630" size="18.0">&#8211; Once we send out RFQ, we will know how good is the 3 months  <textline bbox="79.224,158.630,614.636,176.630" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; Once we send out RFQ, we will know how good is the 3 months  </textline>
+</textbox>
+<textbox id="11" bbox="101.780,141.350,174.716,159.350" size="18.0">estimate. <textline bbox="101.780,141.350,174.716,159.350" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">estimate. </textline>
+</textbox>
+<textbox id="12" bbox="43.200,117.372,119.282,137.412" size="20.04">&#8226; Risks <textline bbox="43.200,117.372,119.282,137.412" font="ArialMT" ncolour="0" size="20.040" colourspace="DeviceGray">&#8226; Risks </textline>
+</textbox>
+<textbox id="13" bbox="79.224,95.724,487.736,113.724" size="18.0">&#8211; March is the time to get ready for the RUN 6 test <textline bbox="79.224,95.724,487.736,113.724" font="ArialMT" ncolour="0" size="18.000" colourspace="DeviceGray">&#8211; March is the time to get ready for the RUN 6 test </textline>
+</textbox>
+<textbox id="14" bbox="115.220,76.472,340.221,92.432" size="15.96">&#8226; Split manpower and attention <textline bbox="115.220,76.472,340.221,92.432" font="ArialMT" ncolour="0" size="15.960" colourspace="DeviceGray">&#8226; Split manpower and attention </textline>
+</textbox>
+</page>
+</pages>
